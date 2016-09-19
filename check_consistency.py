@@ -19,6 +19,10 @@ def warn(incopatibility):
 def error(incompatibility):
     raise DatabaseInconsistency(incompatibility)
 
+def fix_first(incompatibility):
+    yield warn(incompatibility)
+    yield error(incompatibility)
+
 def load_metadata(path):
     mdpath = path + '-metadata.json'
     if not os.path.exists(mdpath):
@@ -88,10 +92,10 @@ def check_dataset(path, languoids, conceptsets):
             language = languoids.loc[lang_id]
         except KeyError:
             on_error("Language_ID {:s} not reflected in language list!".format(lang_id))
-        if language["Name"] != row.get("Language"):
+        if language["Language name (-dialect)"] != row.get("Language"):
             on_error("Language name {:} did not match expected {:s}".format(
-                row.get("Language"), language["Name"]))
-            data["Language"][i] = language["Name"]
+                row.get("Language"), language["Language name (-dialect)"]))
+            data["Language"][i] = language["Language name (-dialect)"]
             data["Family"][i] = language["Family"]
             data["Region"][i] = language["Region"]
 
@@ -99,21 +103,23 @@ def check_dataset(path, languoids, conceptsets):
             concept = conceptsets.loc[fid]
         except KeyError:
             on_error("Feature_ID {:s} not reflected in concept list!".format(fid))
-        if concept["Name"] != row.get("English"):
+        if concept["English"] != row.get("English"):
             on_error("English meaning {:} did not match expected {:s}".format(
-                row.get("English"), concept["Name"]))
-            data["English"][i] = concept["Name"]
+                row.get("English"), concept["English"]))
+            data["English"][i] = concept["English"]
 
         try:
-            counterpart = row['Counterpart']
+            counterpart = row['Value']
         except KeyError:
-            on_error("Data file has no Counterpart column!")
+            on_error("Data file has no Value column for the counterparts!")
 
         try:
-            cogn = data['Alignment']
+            align = data['Alignment']
         except KeyError:
             on_error("There was no alignment column…")
-            data['Alignment'] = [" ".join(x) for x in data['Counterpart']]
+            data['Alignment'] = [
+                None if pandas.isnull(x) else " ".join(x)
+                for x in data['Value']]
 
         try:
             cogn = data['Cognatesets']
@@ -128,7 +134,7 @@ def check_dataset(path, languoids, conceptsets):
             data["Loan"] = None
 
     columns = list(data.columns)
-    fixed_order = ["Feature_ID", "Language_ID", "Language", "English", "Counterpart", "Alignment", "Cognatesets"]
+    fixed_order = ["Feature_ID", "Language_ID", "Language", "English", "Value", "Alignment", "Cognatesets"]
     for c in fixed_order:
         columns.remove(c)
     data = data[fixed_order + columns]
@@ -272,6 +278,8 @@ def main():
 if __name__ == '__main__':
     if len(sys.argv)>1 and sys.argv[1] == "fix":
         on_error = warn
+    elif len(sys.argv)>1 and sys.argv[1] == "fix_first":
+        on_error = fix_first
     else:
         on_error = error
     all_data = main()
