@@ -16,7 +16,7 @@ except ImportError:
 
 try:
     from clld.db.meta import DBSession
-    from clld.db.models.common import Dataset, Contributor, ContributionContributor, ValueSet
+    from clld.db.models.common import Dataset, Contributor, ContributionContributor, ValueSet, Value
     from lexibank.models import LexibankLanguage, Provider, Concept
     model_is_available=True
 except ImportError:
@@ -26,7 +26,7 @@ except ImportError:
 
     class Ignore:
         def __init__(self, *args, **kwargs): pass
-    Dataset = Contributor = ContributionContributor = ValueSet = Ignore
+    Dataset = Contributor = ContributionContributor = ValueSet = Value = Ignore
     LexibankLanguage = Provider = Concept = Ignore
 
     class Icon:
@@ -126,6 +126,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             data[column] = ""
         data[column] = data[column].astype(str)
 
+    valuesets = {}
     for i, row in data.iterrows():
         language = row["Language_ID"]
         if pandas.isnull(language):
@@ -163,12 +164,23 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             else:
                 value = "".join(alignment.split())
                 
-        vs = ValueSet(
-            id="{:s}-{:d}".format(language, feature),
-            parameter=concepticon["db_Object"][feature],
-            language=languages["db_Object"][language],
-            contribution=contrib,
-            source=row['Source'])
+        if feature in valuesets:
+            vs = valuesets[feature]
+        else:
+            vs = valuesets[feature] = ValueSet(
+                id="{:s}-{:d}".format(language, feature),
+                parameter=concepticon["db_Object"][feature],
+                language=languages["db_Object"][language],
+                contribution=contrib,
+                source=row['Source'])
+        DBSession.add(
+            Value(
+                id="{:s}-{:d}-{:}".format(language, feature, value),
+                valueset=vs,
+                name=value))
+                
+        
+            
 
     print()
     if path not in trust:
@@ -255,5 +267,6 @@ else:
                             help="Generate an sqlite database from the data")
         parser.add_argument("--trust", "-t", nargs="*", type=argparse.FileType("r"), default=[],
                             help="Data files to be trusted in case of mismatch")
-        args = parser.parse_args()
-        main([x.name for x in args.trust])
+        #args = parser.parse_args()
+        #main([x.name for x in args.trust])
+        main([languages_path, concepticon_path])
