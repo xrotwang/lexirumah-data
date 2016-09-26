@@ -216,18 +216,25 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
     # check if language needs to be inserted
     # check if feature needs to be inserted
     # add value if in domain
-    datasets = {}
+    all_data = pandas.DataFrame()
     for dirpath, dnames, fnames in os.walk(srcdir):
         for fname in fnames:
             if os.path.splitext(fname)[1] in ['.tsv', '.csv']:
                 print("Importing {:s}…".format(os.path.join(dirpath, fname)))
-                datasets[os.path.join(dirpath, fname)] = import_contribution(
+                data = import_contribution(
                     os.path.join(dirpath, fname),
                     concepticon,
                     languages,
                     trust=trust)
+                data["Source"] = os.path.join(dirpath, fname)
+                all_data = pandas.concat((all_data, data))
                 print("Import done.")
-    return datasets
+    if not "all_data.tsv" in trust:
+        all_data.to_csv(
+            "all_data.tsv",
+            index=False,
+            sep="\t",
+            encoding='utf-16')
 
 
 def main(trust=[languages_path, concepticon_path]):
