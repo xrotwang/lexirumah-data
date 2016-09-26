@@ -1,36 +1,36 @@
 {
   "abstract": "[No description]",
+  "languages": {
+    "abui1241-petle": {
+      "Comments": NaN,
+      "Culture": NaN,
+      "Description": NaN,
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": NaN,
+      "ISO_code": "abz",
+      "Internal": NaN,
+      "Language name (-dialect)": "Abui-Petleng",
+      "Lat": -8.2144,
+      "Lon": 124.593,
+      "Region": "Alor",
+      "languagename": "abuipetleng"
+    },
+    "abui1241-petle-o": {
+      "Comments": NaN,
+      "Culture": NaN,
+      "Description": NaN,
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": NaN,
+      "ISO_code": "abz",
+      "Internal": NaN,
+      "Language name (-dialect)": "Abui-Petleng (Orthographic)",
+      "Lat": -8.2144,
+      "Lon": 124.593,
+      "Region": "Alor",
+      "languagename": "abuipetlengorthographic"
+    }
+  },
   "properties": {
     "name": "ABZ_Petleng_GS_2015_05_word list"
-  },
-  "languages": {
-    "abui1241-petle-o": {
-      "Family": "Timor-Alor-Pantar",
-      "Glottolog": NaN,
-      "Language name (-dialect)": "Abui-Petleng (Orthographic)",
-      "languagename": "abuipetlengorthographic",
-      "Description": NaN,
-      "Lat": -8.2144,
-      "Culture": NaN,
-      "ISO_code": "abz",
-      "Region": "Alor",
-      "Lon": 124.593,
-      "Comments": NaN,
-      "Internal": NaN
-    },
-    "abui1241-petle": {
-      "Family": "Timor-Alor-Pantar",
-      "Glottolog": NaN,
-      "Language name (-dialect)": "Abui-Petleng",
-      "languagename": "abuipetleng",
-      "Description": NaN,
-      "Lat": -8.2144,
-      "Culture": NaN,
-      "ISO_code": "abz",
-      "Region": "Alor",
-      "Lon": 124.593,
-      "Comments": NaN,
-      "Internal": NaN
-    }
   }
 }

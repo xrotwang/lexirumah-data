@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "LMH_LI_MK_2015_05_24_word list"
-  },
   "languages": {
     "lama1278": {
+      "Comments": "Lamaholotic: lama1292. lama1278 is Lamalera, which is spoken further west down the coast, and may actually be on the wrong Lamaholot-subclade.",
+      "Culture": "lewo",
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": NaN,
-      "Language name (-dialect)": "Lamaholot-Lewoingu",
-      "languagename": "lamaholotlewoingu",
-      "Description": NaN,
-      "Lat": -8.4054,
-      "Culture": "lewo",
       "ISO_code": NaN,
-      "Region": "Flores",
+      "Internal": "lmh_li",
+      "Language name (-dialect)": "Lamaholot-Lewoingu",
+      "Lat": -8.4054,
       "Lon": 122.839,
-      "Comments": "Lamaholotic: lama1292. lama1278 is Lamalera, which is spoken further west down the coast, and may actually be on the wrong Lamaholot-subclade.",
-      "Internal": "lmh_li"
+      "Region": "Flores",
+      "languagename": "lamaholotlewoingu"
     }
+  },
+  "properties": {
+    "name": "LMH_LI_MK_2015_05_24_word list"
   }
 }

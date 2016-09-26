@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "HWA_MK_2015_05_14_word list"
-  },
   "languages": {
     "cent2245-hewa": {
+      "Comments": NaN,
+      "Culture": "hewa",
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": NaN,
-      "Language name (-dialect)": "Hewa",
-      "languagename": "hewa",
-      "Description": NaN,
-      "Lat": -8.6109,
-      "Culture": "hewa",
       "ISO_code": NaN,
-      "Region": "Flores",
+      "Internal": "hwa",
+      "Language name (-dialect)": "Hewa",
+      "Lat": -8.6109,
       "Lon": 122.6989,
-      "Comments": NaN,
-      "Internal": "hwa"
+      "Region": "Flores",
+      "languagename": "hewa"
     }
+  },
+  "properties": {
+    "name": "HWA_MK_2015_05_14_word list"
   }
 }

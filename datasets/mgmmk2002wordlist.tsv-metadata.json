@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "MGM_MK_2002_word list"
-  },
   "languages": {
     "mamb1306": {
+      "Comments": "Mambae: mamb1306",
+      "Culture": NaN,
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": "mamb1306",
-      "Language name (-dialect)": "Mambai",
-      "languagename": "mambai",
-      "Description": NaN,
-      "Lat": -8.9918,
-      "Culture": NaN,
       "ISO_code": "mgm",
-      "Region": "Timor",
+      "Internal": NaN,
+      "Language name (-dialect)": "Mambai",
+      "Lat": -8.9918,
       "Lon": 125.5072,
-      "Comments": "Mambae: mamb1306",
-      "Internal": NaN
+      "Region": "Timor",
+      "languagename": "mambai"
     }
+  },
+  "properties": {
+    "name": "MGM_MK_2002_word list"
   }
 }

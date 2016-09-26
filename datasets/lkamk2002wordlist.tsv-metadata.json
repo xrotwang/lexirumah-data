@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "LKA_MK_2002_word list"
-  },
   "languages": {
     "laka1255": {
+      "Comments": NaN,
+      "Culture": NaN,
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": "laka1255",
-      "Language name (-dialect)": "Lakalei ",
-      "languagename": "lakalei",
-      "Description": NaN,
-      "Lat": -8.7719,
-      "Culture": NaN,
       "ISO_code": "lka",
-      "Region": "Timor",
+      "Internal": NaN,
+      "Language name (-dialect)": "Lakalei ",
+      "Lat": -8.7719,
       "Lon": 125.9262,
-      "Comments": NaN,
-      "Internal": NaN
+      "Region": "Timor",
+      "languagename": "lakalei"
     }
+  },
+  "properties": {
+    "name": "LKA_MK_2002_word list"
   }
 }

@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "AOL_Baranusa_MK_2003_word list"
-  },
   "languages": {
     "alor1247-baran": {
+      "Comments": NaN,
+      "Culture": NaN,
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": NaN,
-      "Language name (-dialect)": "Alorese-Baranusa",
-      "languagename": "aloresebaranusa",
-      "Description": NaN,
-      "Lat": -8.3613,
-      "Culture": NaN,
       "ISO_code": "aol ",
-      "Region": "Pantar",
+      "Internal": NaN,
+      "Language name (-dialect)": "Alorese-Baranusa",
+      "Lat": -8.3613,
       "Lon": 124.0939,
-      "Comments": NaN,
-      "Internal": NaN
+      "Region": "Pantar",
+      "languagename": "aloresebaranusa"
     }
+  },
+  "properties": {
+    "name": "AOL_Baranusa_MK_2003_word list"
   }
 }

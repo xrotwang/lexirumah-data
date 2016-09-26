@@ -84,7 +84,7 @@ def report(problem, data1, data2):
     
 copy_from_concepticon = ["English"]
 copy_from_languages = ["Family", "Region", "Language name (-dialect)"]
-make_sure_exists = ["Alignment", "Source"]
+make_sure_exists = ["Alignment", "Cognatesets", "Source"]
 valuesets = {}
 values = set()
 def import_contribution(path, concepticon, languages, contributors={}, trust=[]):
@@ -122,7 +122,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
 
     if mdpath not in trust:
         with open(mdpath, "w") as mdfile:
-            json.dump(md, mdfile, indent=2)
+            json.dump(md, mdfile, indent=2, sort_keys=True)
 
     data = pandas.io.parsers.read_csv(
             path,
@@ -202,7 +202,10 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             "Language name (-dialect)",
             "Family",
             "Region",
-            "Value"]]
+            "Value",
+            "Alignment",
+            "Cognatesets",
+            "Source"]]
         data.to_csv(
             path,
             index=False,
@@ -230,11 +233,15 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
                 all_data = pandas.concat((all_data, data))
                 print("Import done.")
     if not "all_data.tsv" in trust:
-        all_data.to_csv(
+        all_data.sort_values(by=["Feature_ID",
+                                 "Family",
+                                 "Region",
+                                 "Language name (-dialect)"
+        ]).to_csv(
             "all_data.tsv",
             index=False,
             sep="\t",
-            encoding='utf-16')
+            encoding='utf-8')
 
 
 def main(trust=[languages_path, concepticon_path]):

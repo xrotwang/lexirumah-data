@@ -1,36 +1,36 @@
 {
   "abstract": "[No description]",
+  "languages": {
+    "abui1241-takal": {
+      "Comments": NaN,
+      "Culture": "abui",
+      "Description": NaN,
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": "abui1241",
+      "ISO_code": "abz",
+      "Internal": NaN,
+      "Language name (-dialect)": "Abui-Takalelang",
+      "Lat": -8.1887,
+      "Lon": 124.6264,
+      "Region": "Alor",
+      "languagename": "abuitakalelang"
+    },
+    "abui1241-takal-o": {
+      "Comments": NaN,
+      "Culture": NaN,
+      "Description": NaN,
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": "abui1241",
+      "ISO_code": "abz",
+      "Internal": NaN,
+      "Language name (-dialect)": "Abui-Takalelang (Orthographic)",
+      "Lat": -8.1887,
+      "Lon": 124.6264,
+      "Region": "Alor",
+      "languagename": "abuitakalelangorthographic"
+    }
+  },
   "properties": {
     "name": "ABZ_Takalelang_GS_2015_05_word list"
-  },
-  "languages": {
-    "abui1241-takal-o": {
-      "Family": "Timor-Alor-Pantar",
-      "Glottolog": "abui1241",
-      "Language name (-dialect)": "Abui-Takalelang (Orthographic)",
-      "languagename": "abuitakalelangorthographic",
-      "Description": NaN,
-      "Lat": -8.1887,
-      "Culture": NaN,
-      "ISO_code": "abz",
-      "Region": "Alor",
-      "Lon": 124.6264,
-      "Comments": NaN,
-      "Internal": NaN
-    },
-    "abui1241-takal": {
-      "Family": "Timor-Alor-Pantar",
-      "Glottolog": "abui1241",
-      "Language name (-dialect)": "Abui-Takalelang",
-      "languagename": "abuitakalelang",
-      "Description": NaN,
-      "Lat": -8.1887,
-      "Culture": "abui",
-      "ISO_code": "abz",
-      "Region": "Alor",
-      "Lon": 124.6264,
-      "Comments": NaN,
-      "Internal": NaN
-    }
   }
 }

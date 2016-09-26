@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "TDT_Tetun Terik_Suai_MK_2016_01_05_word list"
-  },
   "languages": {
     "tetu1245-suai": {
+      "Comments": NaN,
+      "Culture": NaN,
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": NaN,
-      "Language name (-dialect)": "Tetun Terik-Suai ",
-      "languagename": "tetunteriksuai",
-      "Description": NaN,
-      "Lat": -9.318825,
-      "Culture": NaN,
       "ISO_code": "tdt",
-      "Region": "Timor",
+      "Internal": NaN,
+      "Language name (-dialect)": "Tetun Terik-Suai ",
+      "Lat": -9.318825,
       "Lon": 125.2625,
-      "Comments": NaN,
-      "Internal": NaN
+      "Region": "Timor",
+      "languagename": "tetunteriksuai"
     }
+  },
+  "properties": {
+    "name": "TDT_Tetun Terik_Suai_MK_2016_01_05_word list"
   }
 }

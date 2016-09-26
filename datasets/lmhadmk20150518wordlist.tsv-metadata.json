@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "LMH_AD_MK_2015_05_18_word list"
-  },
   "languages": {
     "adon1237": {
+      "Comments": NaN,
+      "Culture": "adon",
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": "adon1237",
-      "Language name (-dialect)": "Lamaholot-Adonara",
-      "languagename": "lamaholotadonara",
-      "Description": NaN,
-      "Lat": -8.3757,
-      "Culture": "adon",
       "ISO_code": NaN,
-      "Region": "Adonara",
+      "Internal": "lmh_ad",
+      "Language name (-dialect)": "Lamaholot-Adonara",
+      "Lat": -8.3757,
       "Lon": 123.2375,
-      "Comments": NaN,
-      "Internal": "lmh_ad"
+      "Region": "Adonara",
+      "languagename": "lamaholotadonara"
     }
+  },
+  "properties": {
+    "name": "LMH_AD_MK_2015_05_18_word list"
   }
 }

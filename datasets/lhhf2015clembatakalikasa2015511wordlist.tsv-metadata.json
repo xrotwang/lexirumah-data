@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "LH_HF_2015_C Lembata_Kalikasa_2015_5_11_wordlist"
-  },
   "languages": {
     "sout2896-kalik": {
+      "Comments": "Coordinates taken from village of Kalikasa",
+      "Culture": NaN,
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": "sout2896",
-      "Language name (-dialect)": "Lembata-Kalikasa",
-      "languagename": "lembatakalikasa",
-      "Description": NaN,
-      "Lat": -8.448072,
-      "Culture": NaN,
       "ISO_code": NaN,
-      "Region": "Lembata",
+      "Internal": NaN,
+      "Language name (-dialect)": "Lembata-Kalikasa",
+      "Lat": -8.448072,
       "Lon": 123.508306,
-      "Comments": "Coordinates taken from village of Kalikasa",
-      "Internal": NaN
+      "Region": "Lembata",
+      "languagename": "lembatakalikasa"
     }
+  },
+  "properties": {
+    "name": "LH_HF_2015_C Lembata_Kalikasa_2015_5_11_wordlist"
   }
 }

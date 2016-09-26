@@ -1,22 +1,22 @@
 {
   "abstract": "[No description]",
-  "properties": {
-    "name": "ADN_HC_2015_09_23_word list"
-  },
   "languages": {
     "sika1262": {
+      "Comments": "Originally listed as Sika2",
+      "Culture": NaN,
+      "Description": NaN,
       "Family": "Austronesian",
       "Glottolog": "sika1262",
-      "Language name (-dialect)": "Sika",
-      "languagename": "sika",
-      "Description": NaN,
-      "Lat": -8.6237,
-      "Culture": NaN,
       "ISO_code": "ski ",
-      "Region": "Flores",
+      "Internal": NaN,
+      "Language name (-dialect)": "Sika",
+      "Lat": -8.6237,
       "Lon": 122.2084,
-      "Comments": "Originally listed as Sika2",
-      "Internal": NaN
+      "Region": "Flores",
+      "languagename": "sika"
     }
+  },
+  "properties": {
+    "name": "ADN_HC_2015_09_23_word list"
   }
 }
