@@ -3,12 +3,16 @@
 import os
 import argparse
 import json
-import re
 import pandas
 
-from collections import OrderedDict, defaultdict
-from itertools import cycle
-from nameparser import HumanName
+try:
+    from nameparser import HumanName
+except ImportError:
+    class HumanName:
+        def __init__(self, name):
+            if " " in name:
+                self.first = name[:name.index(" ")].strip()
+                self.last = name[name.index(" "):].strip()
 
 try:
     from clld.db.meta import DBSession
@@ -16,7 +20,6 @@ try:
     from lexibank.models import LexibankLanguage, Provider, Concept
     model_is_available=True
 except ImportError:
-    raise
     class DummyDBSession:
         def add(self, data): pass
     DBSession = DummyDBSession()
