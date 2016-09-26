@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "tetu1245-vique": {
-            "Comments": NaN,
-            "Culture": "tetu",
-            "Description": NaN,
-            "Family": "Austronesian",
-            "Glottolog": NaN,
-            "ISO_code": "tdt",
-            "Internal": NaN,
-            "Language name (-dialect)": "Tetun Terik-Viqueque",
-            "Lat": -8.8608,
-            "Lon": 126.3631,
-            "Region": "Timor",
-            "languagename": "tetunterikviqueque"
-        }
-    },
-    "properties": {
-        "name": "TDT_Terik_Viqueque_MK_2016_01_05_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "TDT_Terik_Viqueque_MK_2016_01_05_word list"
+  },
+  "languages": {
+    "tetu1245-vique": {
+      "Family": "Austronesian",
+      "Glottolog": NaN,
+      "Language name (-dialect)": "Tetun Terik-Viqueque",
+      "languagename": "tetunterikviqueque",
+      "Description": NaN,
+      "Lat": -8.8608,
+      "Culture": "tetu",
+      "ISO_code": "tdt",
+      "Region": "Timor",
+      "Lon": 126.3631,
+      "Comments": NaN,
+      "Internal": NaN
     }
+  }
 }

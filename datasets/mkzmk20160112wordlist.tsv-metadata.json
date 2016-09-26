@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "maka1316": {
-            "Comments": NaN,
-            "Culture": "maka",
-            "Description": NaN,
-            "Family": "Timor-Alor-Pantar",
-            "Glottolog": "maka1316",
-            "ISO_code": "mkz",
-            "Internal": NaN,
-            "Language name (-dialect)": "Makasae",
-            "Lat": -8.4394,
-            "Lon": 126.9821,
-            "Region": "Timor",
-            "languagename": "makasae"
-        }
-    },
-    "properties": {
-        "name": "MKZ_MK_2016_01_12_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "MKZ_MK_2016_01_12_word list"
+  },
+  "languages": {
+    "maka1316": {
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": "maka1316",
+      "Language name (-dialect)": "Makasae",
+      "languagename": "makasae",
+      "Description": NaN,
+      "Lat": -8.4394,
+      "Culture": "maka",
+      "ISO_code": "mkz",
+      "Region": "Timor",
+      "Lon": 126.9821,
+      "Comments": NaN,
+      "Internal": NaN
     }
+  }
 }

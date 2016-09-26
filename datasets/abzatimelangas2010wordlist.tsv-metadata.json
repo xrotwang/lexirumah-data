@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "atim1239": {
-            "Comments": "Atimelang and Fuimelang were two villages but have merged; Atimelang=Atengmelang",
-            "Culture": NaN,
-            "Description": NaN,
-            "Family": "Timor-Alor-Pantar",
-            "Glottolog": "atim1239",
-            "ISO_code": "abz",
-            "Internal": NaN,
-            "Language name (-dialect)": "Abui-Atimelang",
-            "Lat": -8.226,
-            "Lon": 124.6683,
-            "Region": "Alor",
-            "languagename": "abuiatimelang"
-        }
-    },
-    "properties": {
-        "name": "ABZ_Atimelang_AS_2010_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "ABZ_Atimelang_AS_2010_word list"
+  },
+  "languages": {
+    "atim1239": {
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": "atim1239",
+      "Language name (-dialect)": "Abui-Atimelang",
+      "languagename": "abuiatimelang",
+      "Description": NaN,
+      "Lat": -8.226,
+      "Culture": NaN,
+      "ISO_code": "abz",
+      "Region": "Alor",
+      "Lon": 124.6683,
+      "Comments": "Atimelang and Fuimelang were two villages but have merged; Atimelang=Atengmelang",
+      "Internal": NaN
     }
+  }
 }

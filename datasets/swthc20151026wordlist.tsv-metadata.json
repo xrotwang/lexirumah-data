@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "sawi1256": {
-            "Comments": NaN,
-            "Culture": NaN,
-            "Description": NaN,
-            "Family": "Timor-Alor-Pantar",
-            "Glottolog": "sawi1256",
-            "ISO_code": "swt",
-            "Internal": NaN,
-            "Language name (-dialect)": "Sawila",
-            "Lat": -8.3433,
-            "Lon": 125.0922,
-            "Region": "Alor",
-            "languagename": "sawila"
-        }
-    },
-    "properties": {
-        "name": "SWT_HC_2015_10_26_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "SWT_HC_2015_10_26_word list"
+  },
+  "languages": {
+    "sawi1256": {
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": "sawi1256",
+      "Language name (-dialect)": "Sawila",
+      "languagename": "sawila",
+      "Description": NaN,
+      "Lat": -8.3433,
+      "Culture": NaN,
+      "ISO_code": "swt",
+      "Region": "Alor",
+      "Lon": 125.0922,
+      "Comments": NaN,
+      "Internal": NaN
     }
+  }
 }

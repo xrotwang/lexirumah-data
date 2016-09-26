@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "kema1243": {
-            "Comments": NaN,
-            "Culture": NaN,
-            "Description": NaN,
-            "Family": "Austronesian",
-            "Glottolog": "kema1243",
-            "ISO_code": "kem",
-            "Internal": NaN,
-            "Language name (-dialect)": "Kemak",
-            "Lat": -8.9729,
-            "Lon": 125.2074,
-            "Region": "Timor",
-            "languagename": "kemak"
-        }
-    },
-    "properties": {
-        "name": "KEM_MK_2002_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "KEM_MK_2002_word list"
+  },
+  "languages": {
+    "kema1243": {
+      "Family": "Austronesian",
+      "Glottolog": "kema1243",
+      "Language name (-dialect)": "Kemak",
+      "languagename": "kemak",
+      "Description": NaN,
+      "Lat": -8.9729,
+      "Culture": NaN,
+      "ISO_code": "kem",
+      "Region": "Timor",
+      "Lon": 125.2074,
+      "Comments": NaN,
+      "Internal": NaN
     }
+  }
 }

@@ -43,13 +43,15 @@ def import_concepticon():
     concepticon = pandas.io.parsers.read_csv(
         concepticon_path,
         sep='\t',
-        index_col="Concept ID",
-        encoding='utf-16')
+        index_col="ID",
+        encoding='utf-8')
+    concepticon = concepticon.groupby(level=0).last()
     concepticon["db_Object"] = [
         Concept(
-            id=i,
+            id=str(i),
             # GLOSS
             name=row['English'],
+            concepticon_id=row.get('CONCEPTICON_ID', 0),
             semanticfield="")
         for i, row in concepticon.iterrows()]
     return concepticon
@@ -61,7 +63,7 @@ def import_languages():
         languages_path,
         sep='\t',
         index_col="Language ID",
-        encoding='utf-16')
+        encoding='utf-8')
     languages["db_Object"] = [
         LexibankLanguage(
             id=i,
@@ -125,7 +127,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
     data = pandas.io.parsers.read_csv(
             path,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
 
     for column in make_sure_exists+copy_from_concepticon+copy_from_languages:
         if column not in data.columns:
@@ -147,14 +149,17 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
                 
         feature = row["Feature_ID"]
         if pandas.isnull(feature):
-            en = pandas.isnull(row["English"])
-            if pandas.isnull(en) or en not in concepticon["English"]:
+            en = row["English"]
+            if pandas.isnull(en) or en not in concepticon["English"].values:
                 report(
                     "Feature not set, and unable to reconstruct",
                     feature,
                     en)
             else:
-                feature = (concepticon["English"] == en).argmax
+                feature = (concepticon["English"] == en).argmax()
+                print("Feature {:s} found in {:d}".format(en, feature))
+            data.set_value(i, "Feature_ID", feature)
+
         for column in copy_from_concepticon:
             if row[column] != concepticon[column][feature]:
                 data.set_value(i, column, concepticon[column][feature])
@@ -169,16 +174,17 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             else:
                 value = "".join(alignment.split())
                 
+        vsid="{:s}-{:}".format(language, feature)
         if feature in valuesets:
-            vs = valuesets[feature]
+            vs = valuesets[vsid]
         else:
-            vs = valuesets[feature] = ValueSet(
-                id="{:s}-{:s}".format(language, feature),
+            vs = valuesets[vsid] = ValueSet(
+                vsid,
                 parameter=concepticon["db_Object"][feature],
                 language=languages["db_Object"][language],
                 contribution=contrib,
                 source=row['Source'])
-        vid = "{:s}-{:s}-{:}".format(language, feature, value)
+        vid = "{:s}-{:}-{:}".format(language, feature, value)
         if vid not in values:
             DBSession.add(
                 Value(
@@ -201,7 +207,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             path,
             index=False,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
     return data
 
 
@@ -248,12 +254,12 @@ def main(trust=[languages_path, concepticon_path]):
         languages.to_csv(
             languages_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
     if concepticon_path not in trust:
         concepticon.to_csv(
             concepticon_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
 
 import sys
 sys.argv=["i", "../lexibank/development.ini"]

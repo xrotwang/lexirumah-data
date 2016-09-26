@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "tuku1254": {
-            "Comments": "Tukudede: tuku1254",
-            "Culture": NaN,
-            "Description": NaN,
-            "Family": "Austronesian",
-            "Glottolog": "tuku1254",
-            "ISO_code": "tkd",
-            "Internal": NaN,
-            "Language name (-dialect)": "Tokodede",
-            "Lat": -8.6128,
-            "Lon": 125.2017,
-            "Region": "Timor",
-            "languagename": "tokodede"
-        }
-    },
-    "properties": {
-        "name": "TKD_MK_2002_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "TKD_MK_2002_word list"
+  },
+  "languages": {
+    "tuku1254": {
+      "Family": "Austronesian",
+      "Glottolog": "tuku1254",
+      "Language name (-dialect)": "Tokodede",
+      "languagename": "tokodede",
+      "Description": NaN,
+      "Lat": -8.6128,
+      "Culture": NaN,
+      "ISO_code": "tkd",
+      "Region": "Timor",
+      "Lon": 125.2017,
+      "Comments": "Tukudede: tuku1254",
+      "Internal": NaN
     }
+  }
 }

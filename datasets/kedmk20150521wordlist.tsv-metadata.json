@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "keda1252": {
-            "Comments": "Originally listed as Kedang3",
-            "Culture": "keda",
-            "Description": NaN,
-            "Family": "Austronesian",
-            "Glottolog": "keda1252",
-            "ISO_code": NaN,
-            "Internal": "ked",
-            "Language name (-dialect)": "Kedang",
-            "Lat": -8.2423,
-            "Lon": 123.7491,
-            "Region": "Lembata",
-            "languagename": "kedang"
-        }
-    },
-    "properties": {
-        "name": "KED_MK_2015_05_21_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "KED_MK_2015_05_21_word list"
+  },
+  "languages": {
+    "keda1252": {
+      "Family": "Austronesian",
+      "Glottolog": "keda1252",
+      "Language name (-dialect)": "Kedang",
+      "languagename": "kedang",
+      "Description": NaN,
+      "Lat": -8.2423,
+      "Culture": "keda",
+      "ISO_code": NaN,
+      "Region": "Lembata",
+      "Lon": 123.7491,
+      "Comments": "Originally listed as Kedang3",
+      "Internal": "ked"
     }
+  }
 }

@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "idat1237": {
-            "Comments": NaN,
-            "Culture": NaN,
-            "Description": NaN,
-            "Family": "Austronesian",
-            "Glottolog": "idat1237",
-            "ISO_code": "idt",
-            "Internal": NaN,
-            "Language name (-dialect)": "Idate",
-            "Lat": -8.7719,
-            "Lon": 125.9262,
-            "Region": "Timor",
-            "languagename": "idate"
-        }
-    },
-    "properties": {
-        "name": "IDT_MK_2002_word list Idate"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "IDT_MK_2002_word list Idate"
+  },
+  "languages": {
+    "idat1237": {
+      "Family": "Austronesian",
+      "Glottolog": "idat1237",
+      "Language name (-dialect)": "Idate",
+      "languagename": "idate",
+      "Description": NaN,
+      "Lat": -8.7719,
+      "Culture": NaN,
+      "ISO_code": "idt",
+      "Region": "Timor",
+      "Lon": 125.9262,
+      "Comments": NaN,
+      "Internal": NaN
     }
+  }
 }

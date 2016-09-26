@@ -1,21 +1,22 @@
 {
-    "languages": {
-        "fata1247": {
-            "Comments": NaN,
-            "Culture": "fata",
-            "Description": NaN,
-            "Family": "Timor-Alor-Pantar",
-            "Glottolog": "fata1247",
-            "ISO_code": "ddg",
-            "Internal": NaN,
-            "Language name (-dialect)": "Fataluku",
-            "Lat": -8.4394,
-            "Lon": 126.9821,
-            "Region": "Timor",
-            "languagename": "fataluku"
-        }
-    },
-    "properties": {
-        "name": "DDG_MK_2016_01_12_word list"
+  "abstract": "[No description]",
+  "properties": {
+    "name": "DDG_MK_2016_01_12_word list"
+  },
+  "languages": {
+    "fata1247": {
+      "Family": "Timor-Alor-Pantar",
+      "Glottolog": "fata1247",
+      "Language name (-dialect)": "Fataluku",
+      "languagename": "fataluku",
+      "Description": NaN,
+      "Lat": -8.4394,
+      "Culture": "fata",
+      "ISO_code": "ddg",
+      "Region": "Timor",
+      "Lon": 126.9821,
+      "Comments": NaN,
+      "Internal": NaN
     }
+  }
 }
