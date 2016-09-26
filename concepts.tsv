@@ -1,0 +1,599 @@
+Concept ID	English	Indonesian	Semantic field	Concept Notes	Core set	db_Object
+sky	sky	langit	The physical world			sky
+sun	sun	matahari	The physical world			sun
+moon	moon	bulan (di langit)	The physical world			moon
+star	star	binatang	The physical world			star
+night	night	malam	Time			night
+day	day	hari	Time			day
+year	year	tahun	Time			year
+morning	morning	pagi	Time			morning
+yesterday	yesterday	kemarin	Time			yesterday
+daybeforeye	day before yesterday	kemarin dulu	Time			day before yesterday
+tomorrow	tomorrow	besok	Time			tomorrow
+dayaftertom	day after tomorrow	lusa	Time			day after tomorrow
+twilightdaw	"twilight	 dawn"	subuh	Time			"twilight	 dawn"
+cloud	cloud	awan	The physical world			cloud
+wind	wind	angin	The physical world			wind
+rain	rain	hujan	The physical world			rain
+drizzle	drizzle	(hujan) gerimis	The physical world			drizzle
+rainbow	rainbow	pelangi	The physical world			rainbow
+thunder	thunder	guntur	The physical world			thunder
+lightning	lightning	kilat	The physical world			lightning
+earthquake	earthquake	gempa bumi	The physical world			earthquake
+fog	fog	kabut	The physical world			fog
+riverstream	"river	 stream"	"sungai	 kali"	The physical world			"river	 stream"
+ice	ice	es	The physical world			ice
+snow	snow	salju	The physical world			snow
+lake	lake	danau	The physical world			lake
+mountain	mountain	gunung	The physical world			mountain
+hillridge	"hill	 ridge"	bukit	The physical world			"hill	 ridge"
+village	village	"desa	 kampung"	Social and political relations			village
+landsoil	"land	 soil"	tanah	The physical world			"land	 soil"
+earth	Earth	bumi	The physical world			Earth
+hole	hole	lubang	Spatial relations			hole
+stone	stone	batu	The physical world			stone
+coralrock	coral (rock)	batu karang	The physical world			coral (rock)
+coralreef	(coral) reef	karang	The physical world			(coral) reef
+waterfresh	water (fresh)	air	The physical world			water (fresh)
+seaseawater	"sea	 sea water"	"laut	 air laut"	The physical world			"sea	 sea water"
+wave	wave	ombak	The physical world			wave
+foam	foam	busa	The physical world			foam
+forest	forest	hutan	The physical world			forest
+field	field	padang rumput	Agriculture and vegetation			field
+island	island	pulau	The physical world			island
+ricefield	rice field	sawah	Agriculture and vegetation			rice field
+garden	garden	kebun	Agriculture and vegetation			garden
+fence	fence	pagar	Agriculture and vegetation			fence
+roadpathway	"road	 path	 way"	jalanan	Motion			"road	 path	 way"
+canoe	canoe	"perahu	 sampan"	Motion			canoe
+sailn	sail (n.)	layar	Motion			sail (n.)
+_sail	to sail	berlayar	Motion			to sail
+fishinghook	fishing hook	mata kail	Warfare and hunting			fishing hook
+fishtrap	fish trap	ker	Warfare and hunting			fish trap
+rope	rope	tali	Basic actions and technology			rope
+machete	machete	parang	Basic actions and technology			machete
+axe	axe	kapak	Basic actions and technology			axe
+spear	spear	tombak	Warfare and hunting			spear
+burdenstick	burden stick	lalepak	Basic actions and technology			burden stick
+stickpole	"stick	 pole"	tongkat	Basic actions and technology			"stick	 pole"
+diggingstic	digging stick	alat sedot tanah	Agriculture and vegetation			digging stick
+dibblestick	dibble stick	tugal	Agriculture and vegetation			dibble stick
+bow	bow	busur	Warfare and hunting			bow
+arrow	arrow	(anak) panah	Warfare and hunting			arrow
+knife	knife	pisau	Basic actions and technology			knife
+comb	comb	sisir	Clothing and grooming			comb
+mat	mat	tikar	Basic actions and technology			mat
+needle	needle	jarum	Clothing and grooming			needle
+clothing	clothing	pakaian	Clothing and grooming			clothing
+oven	oven	tungku	Food and drink			oven
+fire	fire	api	The physical world			fire
+smoke	smoke	asap	The physical world			smoke
+ash	ash	abu	The physical world			ash
+dustfineear	"dust	 fine earth"	debu	The physical world			"dust	 fine earth"
+fireplaceas	fireplace ash	abu tungku	The physical world			fireplace ash
+mud	mud	lumpur	The physical world			mud
+clay	clay	tanah liat	The physical world			clay
+gravel	gravel	(batu) kerikil	The physical world			gravel
+sand	sand	pasir	The physical world			sand
+grassbrush	"grass	 brush"	rumput	Agriculture and vegetation			"grass	 brush"
+house	house	rumah	The house			house
+traditional	traditional house	rumah adat	Religion and belief			traditional house
+barnstorage	"barn	 storage house"	gudang	Agriculture and vegetation			"barn	 storage house"
+raisedplatf	raised platform	bale-bale	Social and political relations			raised platform
+door	door	pintu	The house			door
+thatchroof	(thatch) roof	atap (dr daun)	The house			(thatch) roof
+roofthatch	roof thatch	alang-alang	The house			roof thatch
+tree	tree	pohon	Agriculture and vegetation			tree
+wood	wood	"kayu	 pohon"	The physical world			wood
+barkoftree	bark (of tree)	kulit pohon	Agriculture and vegetation			bark (of tree)
+leaf	leaf	daun	Agriculture and vegetation			leaf
+branch	branch	dahan	Agriculture and vegetation			branch
+firewood	firewood	kayu api	The physical world			firewood
+rattan	rattan	rotan	Agriculture and vegetation			rattan
+root	root	akar	Agriculture and vegetation			root
+fruit	fruit	buah	Food and drink			fruit
+seed	seed	biji	Agriculture and vegetation			seed
+graincereal	"grain	 cereal"	padi-padian	Agriculture and vegetation			"grain	 cereal"
+flower	flower	bunga	Agriculture and vegetation			flower
+huskedriceu	"husked rice	 uncooked rice"	beras	Agriculture and vegetation			"husked rice	 uncooked rice"
+ricegrainsu	rice grains (unhusked) (raw from field)	bulir padi	Agriculture and vegetation			rice grains (unhusked) (raw from field)
+cookedrice	cooked rice	nasi	Food and drink			cooked rice
+riceplant	rice plant	padi	Agriculture and vegetation			rice plant
+_plantyam	to plant (yam)		Agriculture and vegetation			to plant (yam)
+_plantrice	to plant (rice)	tanam (padi)	Agriculture and vegetation			to plant (rice)
+betelnutare	"betel nut	 areca"	pinang	Agriculture and vegetation			"betel nut	 areca"
+betelvine	betel vine	sirih	Agriculture and vegetation			betel vine
+lime	lime	kapur	Agriculture and vegetation			lime
+chewbetel	chew betel	makan sirih	Food and drink			chew betel
+sweetpotato	sweet potato	ubi jalar	Agriculture and vegetation			sweet potato
+cassava	cassava	ubi kayu	Agriculture and vegetation			cassava
+taro	taro	keladi	Agriculture and vegetation			taro
+sago	sago	sagu	Agriculture and vegetation			sago
+millet	millet	botok	Agriculture and vegetation			millet
+sugarcane	sugarcane	tebu	Agriculture and vegetation			sugarcane
+cornmaize	"corn	 maize"	jagung	Agriculture and vegetation			"corn	 maize"
+cookedcorn	cooked corn	ketema	Food and drink			cooked corn
+coconut	coconut	kelapa	Agriculture and vegetation			coconut
+gwang	gwang	pohon gwang	Agriculture and vegetation			gwang
+lontarpalm	lontar palm	pohon lontar	Agriculture and vegetation			lontar palm
+sugarpalm	sugar palm	pohon enau	Agriculture and vegetation			sugar palm
+marungga	marungga	marungga	Agriculture and vegetation			marungga
+gumtreeeuca	"gum tree	 eucalyptus"	kayu putih	Agriculture and vegetation			"gum tree	 eucalyptus"
+bamboo	bamboo	bambu	Agriculture and vegetation			bamboo
+banana	banana	pisang	Agriculture and vegetation			banana
+mango	mango	mangga	Agriculture and vegetation			mango
+papaya	papaya	pepaya	Agriculture and vegetation			papaya
+jackfruit	jackfruit	nangka	Agriculture and vegetation			jackfruit
+breadfruit	breadfruit	sukun	Agriculture and vegetation			breadfruit
+bean	bean	kacang	Agriculture and vegetation			bean
+honey	honey	madu	Food and drink			honey
+milk	milk	susu	Food and drink			milk
+salt	salt	garam	Food and drink			salt
+fat	fat	lemak	The body			fat
+fleshmeat	"flesh	 meat"	daging	The body			"flesh	 meat"
+bone	bone	tulang	The body			bone
+rib	rib	tulang rusuk	The body			rib
+sweat	sweat	keringat	They body			sweat
+tear	tear	air mata	Emotions and values			tear
+blood	blood	darah	The body			blood
+tendon	tendon	urat	The body			tendon
+heart	heart	jantung	The body			heart
+liver	liver	hati	The body			liver
+kidney	kidney	ginjal	The body			kidney
+guts	guts	"usus	 isi perut"	The body			guts
+excrement	excrement	tahi	The body			excrement
+lungs	lungs	paru-paru	The body			lungs
+stomachbell	"stomach	 belly"	perut	The body			"stomach	 belly"
+head	head	kepala	The body			head
+hair	hair	rambut	The body			hair
+bodyhair	body hair	bulu (orang)	The body			body hair
+eye	eye	mata	The body			eye
+ear	ear	telinga	The body			ear
+nose	nose	hidung	The body			nose
+mouth	mouth	mulut	The body			mouth
+chin	chin	dagu	The body			chin
+lips	lips	bibir	The body			lips
+teeth	teeth	gigi	The body			teeth
+tongue	tongue	lidah	The body			tongue
+neck	neck	leher (di muka)	The body			neck
+shoulder	shoulder	bahu	The body			shoulder
+body	body	badan	The body			body
+forehead	forehead	dahi	The body			forehead
+nostril	nostril	lubang hidung	The body			nostril
+mucus	mucus	ingus	The body			mucus
+cheek	cheek	pipi	The body			cheek
+arm	arm	tangan	The body			arm
+hand	hand	tangan	The body			hand
+palmofhand	palm of hand	tapak (tangan)	The body			palm of hand
+finger	finger	jari	The body			finger
+fingernail	fingernail	kuku	The body			fingernail
+breast	breast	"susu	 buah dada"	The body			breast
+chest	chest	dada	The body			chest
+navel	navel	pusat	The body			navel
+penis	penis	zakar	The body			penis
+vagina	vagina	vagina	The body			vagina
+testicles	testicles	buah pelir	The body			testicles
+leg	leg	kaki	The body			leg
+foot	foot	kaki	The body			foot
+heeloffoot	heel of foot	tumit	The body			heel of foot
+soleoffoot	sole of foot	tapak (kaki)	The body			sole of foot
+knee	knee	lutut	The body			knee
+back	back	belakang	The body			back
+spinelowerb	"spine	 lower back"	"pinggang	 tulang punggung"	The body			"spine	 lower back"
+waist	waist	pinggang 	The body			waist
+skin	skin	kulit	The body			skin
+sorewound	"sore	 wound"	luka	The body			"sore	 wound"
+ringworm	ringworm	kurap	The body			ringworm
+scabies	scabies	kudis	The body			scabies
+tinea	tinea	panau	The body			tinea
+feverish	feverish	demam	The body			feverish
+conjunctivi	conjunctivitis	belek	The body			conjunctivitis
+coldinfluen	"cold	 influenza"	"pilek	 flu"	The body			"cold	 influenza"
+person	person	orang	Kinship			person
+name	name	nama	Speech and language			name
+child	child	anak	Kinship			child
+man	man	laki-laki	Kinship			man
+woman	woman	perempuan	Kinship			woman
+husband	husband	suami	Kinship			husband
+wife	wife	istri	Kinship			wife
+mother	mother	mama	Kinship			mother
+father	father	bapak	Kinship			father
+oldersiblin	older sibling	kakak	Kinship			older sibling
+youngersibl	younger sibling	adik	Kinship			younger sibling
+brideprice	bride price	"bélis	 emas kawin"	Kinship			bride price
+slave	slave	budak	Social and political relations			slave
+1sg	1sg	saya 	Kinship			1sg
+2sginformal	2sg (informal)	"kau	 kamu"	Kinship			2sg (informal)
+2sgpolite	2sg (polite)	anda	Kinship			2sg (polite)
+3sg	3sg	dia	Kinship			3sg
+1plexcl	1pl excl	kami	Kinship			1pl excl
+1plincl	1pl incl	kita	Kinship			1pl incl
+2pl	2pl	kalian	Kinship			2pl
+3pl	3pl	mereka	Kinship			3pl
+nonot	"no	 not"	"tidak	 bukan"	Miscellaneous function words			"no	 not"
+and	and	dan	Cognition			and
+because	because	karena	Cognition			because
+if	if	kalau	Cognition			if
+with	with	dengan	Miscellaneous function words			with
+what	what?	apa?	Cognition			what?
+who	who?	siapa?	Cognition			who?
+where	where?	mana? (di/ke/dari mana?)	Cognition			where?
+when	when?	kapan?	Cognition			when?
+why	why?	mengapa?	Cognition			why?
+howmuchhowm	"how much	 how many?"	berapa?	Cognition			"how much	 how many?"
+how	how?	bagaimana?	Cognition			how?
+this	this	ini	Miscellaneous function words			this
+that	that	itu	Miscellaneous function words			that
+at	at	"di	 pada"	Spatial relations			at
+ininside	"in	 inside"	dalam	Spatial relations			"in	 inside"
+here	here	sini	Miscellaneous function words			here
+there	there	sana	Miscellaneous function words			there
+above	above	atas	Spatial relations			above
+below	below	bawah	Spatial relations			below
+leftside	left (side)	kiri	Spatial relations			left (side)
+rightside	right (side)	kanan	Spatial relations			right (side)
+afew	a few	sedikit	Quantity			a few
+all	all	semua	Quantity			all
+many	many	banyak	Quantity			many
+animal	animal	binatang	Animals			animal
+fowl	fowl	unggas	Animals			fowl
+dog	dog	anjing	Animals			dog
+pig	pig	babi	Animals			pig
+chicken	chicken	ayam	Animals			chicken
+rat	rat	tikus	Animals			rat
+lizard	lizard	tokek	Animals			lizard
+civetcat	civet cat	musang	Animals			civet cat
+deer	deer	rusa	Animals			deer
+frog	frog	kodok	Animals			frog
+bat	bat	kelelewar	Animals			bat
+flyinfoxfru	"flyinɡ fox	 fruit bat"	kalonɡ	Animals			"flyinɡ fox	 fruit bat"
+cuscus	cuscus	kuskus	Animals			cuscus
+tail	tail	ekor	The body			tail
+fish	fish	ikan	Animals			fish
+shark	shark	hiu	Animals			shark
+whale	whale	(ikan) paus	Animals			whale
+dolphin	dolphin	(ikan) lumba-lumba	Animals			dolphin
+crocodile	crocodile	buaya laut	Animals			crocodile
+monitorliza	monitor lizard	"buaya darat	 biawak"	Animals			monitor lizard
+starfish	starfish	bintang laut	Animals			starfish
+turtle	turtle	penyu	Animals			turtle
+turtlesaltw	turtle (saltwater)	kura-kura laut	Animals			turtle (saltwater)
+bird	bird	burung	Animals			bird
+wing	wing	sayap	The body			wing
+claw	claw	cakar	The body			claw
+feather	feather	bulu (burung)	The body			feather
+horn	horn	tanduk	The body			horn
+snake	snake	ular	Animals			snake
+scorpion	scorpion	kalajengking	Animals			scorpion
+egg	egg	telur	Food and drink			egg
+earthworm	earthworm	cacing tanah	Animals			earthworm
+butterfly	butterfly	kupu-kupu	Animals			butterfly
+flyn	fly (n.)	lalat	Animals			fly (n.)
+mosquito	mosquito	nyamuk	Animals			mosquito
+ant	ant	semut	Animals			ant
+grasshopper	grasshopper	belalang	Animals			grasshopper
+locust	locust	walang sengit	Animals			locust
+spider	spider	laba-laba	Animals			spider
+headlice	headlice	kutu kepala	Animals			headlice
+louseeggs	louse eggs	telur kutu kepala	Animals			louse eggs
+motherlouse	mother louse	induk kutu kepala	Animals			mother louse
+flea	flea	kutu anjing	Animals			flea
+louseclothi	louse (clothing)	"tuma	 kutu pakaian"	Animals			louse (clothing)
+bedbug	bedbug	kutu busuk	Animals			bedbug
+big	big	besar	Spatial relations			big
+small	small	kecil	Spatial relations			small
+oldwornhous	"old	 worn (house)"	(rumah) tua	Time			"old	 worn (house)"
+newhouse	new (house)	(rumah) baru	Time			new (house)
+oldpeople	old (people)	(orang) tua	Time			old (people)
+youngpeople	young (people)	(orang) muda	Time			young (people)
+lazy	lazy	malas	The body			lazy
+hot	hot	panas	Sense perception			hot
+cold	cold	dingin	Sense perception			cold
+good	good	baik	Emotions and values			good
+bad	bad	jelek	Emotions and values			bad
+full	full	penuh	Quantity			full
+empty	empty	kosong	Quantity			empty
+near	near	dekat	Spatial relations			near
+far	far	jauh	Spatial relations			far
+wet	wet	basah	Sense perception			wet
+dry	dry	kering	Sense perception			dry
+dryinsun	dry in sun	jemur (pakaian)	Sense perception			dry in sun
+long	long	panjang	Spatial relations			long
+tall	tall	(orang) tinggi	Spatial relations			tall
+short	short	pendek	Spatial relations			short
+shortpeople	short (people)	(orang) pendek	Spatial relations			short (people)
+thinnonhuma	thin (non-human)	tipis	Spatial relations			thin (non-human)
+skinnyhuman	skinny (human)	kurus	Spatial relations			skinny (human)
+thick	thick	tebal	Spatial relations			thick
+round	round	bulat	Spatial relations			round
+dark	dark	gelap	Sense perception			dark
+light	light	terang	Sense perception			light
+dirty	dirty	kotor	Sense perception			dirty
+clean	clean	bersih	Sense perception			clean
+sharp	sharp	tajam	Sense perception			sharp
+bluntdull	"blunt	 dull"	"tumpul	 dol"	Sense perception			"blunt	 dull"
+heavy	heavy	berat	Sense perception			heavy
+lightweight	light (weight)	ringan	Sense perception			light (weight)
+straight	straight	lurus	Spatial relations			straight
+wide	wide	lebar	Spatial relations			wide
+narrow	narrow	sempit	Spatial relations			narrow
+correct	correct	benar	Emotions and values			correct
+wrong	wrong	salah	Emotions and values			wrong
+ripe	ripe	"matang	 (buah) masak"	Food and drink			ripe
+rotten	rotten	(buah) busuk	Food and drink			rotten
+bitter	bitter	pahit	Sense perception			bitter
+sweet	sweet	manis	Sense perception			sweet
+sour	sour	asam	Sense perception			sour
+salty	salty	asin	Sense perception			salty
+flat	flat	"rata	 datar"	Spatial relations			flat
+smooth	smooth	"licin	 halus"	Sense perception			smooth
+rough	rough	kasar	Sense perception			rough
+black	black	hitam	Sense perception			black
+white	white	putih	Sense perception			white
+red	red	merah	Sense perception			red
+green	green	(daun) hijau	Sense perception			green
+blue	blue	(langit) biru	Sense perception			blue
+yellow	yellow	kuning	Sense perception			yellow
+sickpainful	"sick	 painful"	sakit	The body			"sick	 painful"
+shyashamed	"shy	 ashamed"	malu	Emotions and values			"shy	 ashamed"
+thirsty	thirsty	haus	Food and drink			thirsty
+hungry	hungry	lapar	Food and drink			hungry
+blind	blind	buta	The body			blind
+deaf	deaf	tuli	The body			deaf
+scared	scared	takut	Emotions and values			scared
+angry	angry	marah	Emotions and values			angry
+_see	to see	lihat	Sense perception			to see
+_hear	to hear	dengar	Sense perception			to hear
+_smell	to smell	cium (bau)	Sense perception			to smell
+_think	to think	pikir	Cognition			to think
+_know	to know	tahu	Cognition			to know
+_say	to say	berkata 	Speech and language			to say
+_speak	to speak	bicara	Speech and language			to speak
+voice	voice	suara	Speech and language			voice
+language	language	bahasa	Speech and language			language
+_liedown	to lie down	baring	Spatial relations			to lie down
+_sleep	to sleep	tidur	The body			to sleep
+_wakeup	to wake up	bangun	The body			to wake up
+_wakesomeone	to wake someone up	kasi bangun	The body			to wake someone up
+_bathe	to bathe	mandi	The body			to bathe
+_batheachild	to bathe (a child)	kasi mandi (anak)	The body			to bathe (a child)
+_sit	to sit	duduk	Spatial relations			to sit
+_stand	to stand	diri	Spatial relations			to stand
+_walk	to walk	jalan (kaki)	Motion			to walk
+_run	to run	lari	Motion			to run
+_go	to go	pergi	Motion			to go
+_swim	to swim	berenang	Motion			to swim
+_fly	to fly	terbang	Motion			to fly
+_fallfromabo	to fall (from above)	jatuh (dari atas)	Motion			to fall (from above)
+_fallover	to fall over	tubang	Motion			to fall over
+_drop	to drop	kasi jatuh (sesuatu)	Motion			to drop
+_drink	to drink	minum	Food and drink			to drink
+_eat	to eat	makan	Food and drink			to eat
+_cook	to cook	masak	Food and drink			to cook
+_wash	to wash	cuci	Basic actions and technology			to wash
+_sew	to sew	jahit	Clothing and grooming			to sew
+_livebealive	"to live	 be alive	 living"	hidup; tidak mati	The body			"to live	 be alive	 living"
+_breathe	to breathe	napas	The body			to breathe
+_work	to work	kerja	Basic actions and technology			to work
+_die	to die	mati	The body			to die
+_give	to give	"beri	 kasi"	Possession			to give
+_wipe	to wipe	"seka	 lap"	Basic actions and technology			to wipe
+_come	to come	datang	Motion			to come
+_laugh	to laugh	ketawa	Emotions and values			to laugh
+_cry	to cry	menangis	Emotions and values			to cry
+_dance	to dance	menari	Motion			to dance
+_sing	to sing	menyanyi	Speech and language			to sing
+_burnclearla	to burn (clear land)	bakar (bakar kebun)	Agriculture and vegetation			to burn (clear land)
+_burntoshine	"to burn	 to shine"	"bakar	 menyala"	Sense perception			"to burn	 to shine"
+_shine	to shine	menyala	Sense perception			to shine
+_chew	to chew	kunyah	Food and drink			to chew
+_yawn	to yawn	kuap	The body			to yawn
+_suck	to suck	"isap	 hirup"	Food and drink			to suck
+_blow	to blow	tiup	Motion			to blow
+_spit	to spit	ludah	The body			to spit
+_vomit	to vomit	muntah	The body			to vomit
+_rub	to rub	gosok	Basic actions and technology			to rub
+_scratch	to scratch	garuk	The body			to scratch
+itchy	itchy	gatal	Sense perception			itchy
+_swell	to swell	bengkak	The body			to swell
+_hit	to hit	pukul	Basic actions and technology			to hit
+_slap	to slap	tampak	Basic actions and technology			to slap
+_bite	to bite	(anjing) gigit	The body			to bite
+_cut	to cut	potong	Basic actions and technology			to cut
+_cutdown	to cut down	tebang	Basic actions and technology			to cut down
+_split	to split	belah	Basic actions and technology			to split
+_divide	to divide	bagi	Spatial relations			to divide
+_stab	to stab	tikam	Basic actions and technology			to stab
+_skewer	to skewer	tusuk	Basic actions and technology			to skewer
+_fight	to fight	berkelahi	Warfare and hunting			to fight
+_guard	to guard	jaga	Warfare and hunting			to guard
+_throw	to throw	lempar	Motion			to throw
+_hunt	to hunt	buru	Warfare and hunting			to hunt
+_kill	to kill	bunuh	The body			to kill
+_chaseaway	to chase away	mengejar	Basic actions and technology			to chase away
+_chaseawayto	"to chase away	 to expel"	"mengusir	 mengejar"	Basic actions and technology			"to chase away	 to expel"
+_searchforto	"to search for	 to hunt for"	cari	Warfare and hunting			"to search for	 to hunt for"
+_dig	to dig	gali	Agriculture and vegetation			to dig
+_bury	to bury	kubur	The body			to bury
+_flow	to flow	mengalir	Motion			to flow
+_float	to float	terapung	Motion			to float
+_freeze	to freeze	mejadi beku	The physical world			to freeze
+_hold	to hold	pegang	Possession			to hold
+_tie	to tie	ikat	Basic actions and technology			to tie
+_play	to play	main	Emotions and values			to play
+_pull	to pull	tarik	Basic actions and technology			to pull
+_push	to push	"dorong	 sorong	 geser"	Motion			to push
+_turn	to turn	"belok	 bale"	Motion			to turn
+_dream	to dream	mimpi	The body			to dream
+_crouchtoben	"to crouch	 to bend over"	jongkok	Motion			"to crouch	 to bend over"
+_livetostay	"to live	 to stay"	tinggal	The house			"to live	 to stay"
+_choose	to choose	pilih	Emotions and values			to choose
+_grow	to grow	tumbuh	Spatial relations			to grow
+_squeeze	to squeeze	"peras	 remas"	Basic actions and technology			to squeeze
+_buy	to buy	beli	Possession			to buy
+_sell	to sell	jual	Possession			to sell
+_steal	to steal	curi	Law			to steal
+_open	to open	buka	Spatial relations			to open
+_close	to close	tutup	Spatial relations			to close
+_climb	to climb	naik	Motion			to climb
+_hide	to hide	sembunyi	Spatial relations			to hide
+_wait	to wait	tunggu	Spatial relations			to wait
+_fold	to fold	lipat	Basic actions and technology			to fold
+_help	to help	bantu	Social and political relations			to help
+_bark	to bark	(anjing) gonggong	Animals			to bark
+_shoot	to shoot	tembak	Warfare and hunting			to shoot
+_shootwithsl	to shoot with slingshot	"fiti	 tembak dng katapel"	Warfare and hunting			to shoot with slingshot
+_poundtobeat	"to pound	 to beat"	tumbuk	Basic actions and technology			"to pound	 to beat"
+_hitdrum	to hit (drum)	pukul genderang	Basic actions and technology			to hit (drum)
+_callout	to call out	teriak	Speech and language			to call out
+_lietelluntr	to lie (tell untruth)	bohong	Emotions and values			to lie (tell untruth)
+_askquestion	to ask (question)	tanya	Speech and language			to ask (question)
+_count	to count	hitung	Quantity			to count
+one	one	satu	Quantity			one
+two	two	dua	Quantity			two
+three	three	tiga	Quantity			three
+four	four	empat	Quantity			four
+five	five	lima	Quantity			five
+six	six	enam	Quantity			six
+seven	seven	tujuh	Quantity			seven
+eight	eight	delapan	Quantity			eight
+nine	nine	sembilan	Quantity			nine
+ten	ten	sepuluh	Quantity			ten
+eleven	eleven	sebelas	Quantity			eleven
+twelve	twelve	dua belas	Quantity			twelve
+thirteen	thirteen	tiga belas	Quantity			thirteen
+fourteen	fourteen	empat belas	Quantity			fourteen
+fifteen	fifteen	lima belas	Quantity			fifteen
+sixteen	sixteen	enam belas	Quantity			sixteen
+seventeen	seventeen	tujuh belas	Quantity			seventeen
+eighteen	eighteen	delapan belas	Quantity			eighteen
+nineteen	nineteen	sembilan belas	Quantity			nineteen
+twenty	twenty	dua puluh	Quantity			twenty
+twentyone	twenty one	dua puluh satu	Quantity			twenty one
+twentytwo	twenty two	dua puluh dua	Quantity			twenty two
+twentythree	twenty three	dua puluh tiga	Quantity			twenty three
+twentyfour	twenty four	dua puluh empat	Quantity			twenty four
+twentyfive	twenty five	dua puluh lima	Quantity			twenty five
+thirty	thirty	tiga puluh	Quantity			thirty
+forty	forty	empat puluh	Quantity			forty
+fifty	fifty	lima puluh	Quantity			fifty
+sixty	sixty	enam puluh	Quantity			sixty
+seventy	seventy	tujuh puluh	Quantity			seventy
+eighty	eighty	delapan puluh	Quantity			eighty
+ninety	ninety	sembilan puluh	Quantity			ninety
+onehundred	one hundred	seratus	Quantity			one hundred
+onehundreda	one hundred and twenty three	seratus dua puluh tiga	Quantity			one hundred and twenty three
+twohundred	two hundred	dua ratus	Quantity			two hundred
+thousand	thousand	seribuh	Quantity			thousand
+onehundredt	one hundred thousand	seratus ribuh	Quantity			one hundred thousand
+grandmother	grandmother	nenek	Kinship			grandmother
+grandfather	grandfather	kakek	Kinship			grandfather
+grandchild	grandchild	anak cucu	Kinship			grandchild
+mothersbrot	mother's brother	"paman	 ibu py saudara laki-laki"	Kinship			mother's brother
+nephewniece	"nephew	 niece"	keponakan	Kinship			"nephew	 niece"
+olderbrothe	older brother	kakak laki-laki	Kinship			older brother
+oldersister	older sister	kakak perempuan	Kinship			older sister
+sister	sister	saudara perempuan	Kinship			sister
+womanscross	woman's cross-cousin	sepupu dari perempuan	Kinship			woman's cross-cousin
+womansyoung	woman's younger sister	adik perempuan dari perempuan	Kinship			woman's younger sister
+youngerbrot	younger brother	adik laki-laki	Kinship			younger brother
+brother	brother	saudara laki-laki	Kinship			brother
+brotherinla	brother-in-law	"kunyadu	 ipar"	Kinship			brother-in-law
+crosscousin	cross-cousin	"sepupu	 yg bisa dikawin"	Kinship			cross-cousin
+fatherssist	father's sister	"bibi	 ayah py saudara perempuan"	Kinship			father's sister
+ridgepolepe	"ridge(pole)	 peak	 tip"	bubungan	The House			"ridge(pole)	 peak	 tip"
+rackabovehe	rack(above hearth/for storing food)	para-para	The House			rack(above hearth/for storing food)
+broomsweep	"broom	 sweep"	sapu	The House			"broom	 sweep"
+groundforri	ground for ritual activities and public meetings	tempat upacara	The House			ground for ritual activities and public meetings
+moundofston	mound of stones for ritual activities	gundukan batu (untuk upacara adat)	The House			mound of stones for ritual activities
+meetinghous	meeting house	rumah rapat adat	The House			meeting house
+floor	floor	lantai	The House			floor
+wall	wall	dinding	The House			wall
+window	window	jendela	The House			window
+cookhouseki	"cookhouse	 kitchen"	"tempat memasak	 dapur"	The House			"cookhouse	 kitchen"
+bed	bed	tempat tidur	The House			bed
+chair	chair	kursi	The House			chair
+lamp	lamp	lampu	The House			lamp
+candle	candle	lilin	The House			candle
+_weave	to weave	menenun	Clothing and grooming			to weave
+shirt	shirt	baju	Clothing and grooming			shirt
+necklace	necklace	kalung	Clothing and grooming			necklace
+earring	earring	anting-anting	Clothing and grooming			earring
+trousers	trousers	celana panjang	Clothing and grooming			trousers
+sarongwomen	sarong (women)	sarung (perempuan)	Clothing and grooming			sarong (women)
+loom	loom	perkakas tenun	Clothing and grooming			loom
+thread	thread	benang	Clothing and grooming			thread
+_worship	to worship	bersembayang	Religion and belief			to worship
+holy	holy	"suci	 kudus"	Religion and belief			holy
+_bless	to bless	memberkati	Religion and belief			to bless
+god	God	Tuhan	Religion and belief			God
+_pray	to pray	berdoa	Religion and belief			to pray
+church	church	gereja	Religion and belief			church
+mosque	mosque	mesjid	Religion and belief			mosque
+_curse	to curse	sumpah	Religion and belief			to curse
+priestmoder	priest (modern)	"pendeta	 pastor	 imam"	Religion and belief			priest (modern)
+sorcererwit	"sorcerer	 witch"	tukang sihir	Religion and belief			"sorcerer	 witch"
+initiationc	initiation ceremony	upacara prabakti	Religion and belief			initiation ceremony
+sermon	sermon	khotbah	Religion and belief			sermon
+sacrifice	sacrifice	korban	Religion and belief			sacrifice
+clan	clan	suku	Social and political relations			clan
+chieftain	chieftain	kepala suku	Social and political relations			chieftain
+_ruleorgover	to rule or govern	memerintah	Social and political relations			to rule or govern
+treaty	treaty	"belabaja	 perjanjian"	Social and political relations			treaty
+marriage	marriage	perkawinan	Social and political relations			marriage
+friend	friend	teman	Social and political relations			friend
+enemy	enemy	musuh	Social and political relations			enemy
+kingruler	"king	 ruler"	rajah	Social and political relations			"king	 ruler"
+stranger	stranger	"orang luar	 orang asing"	Social and political relations			stranger
+_invite	to invite	mengundang	Social and political relations			to invite
+_commandoror	to command or order	perintah	Social and political relations			to command or order
+dowry	dowry	mas kawin (dari pihak perempuan)	Social and political relations			dowry
+thejudge	the judge	hakim	Law			the judge
+accuse	accuse	menuduh	Law			accuse
+guilty	guilty 	bersalah	Law			guilty 
+innocent	innocent	tidak bersalah	Law			innocent
+themurder	the murder	pembunuhan	Law			the murder
+theadultery	the adultery	"zina	 perzinahan"	Law			the adultery
+penalty	penalty	hukuman	Law			penalty
+fishnet	fishnet	jala	Warfare and hunting			fishnet
+_surrender	to surrender	menyerahkan	Warfare and hunting			to surrender
+_defend	to defend	"membela	 mempertahankan"	Warfare and hunting			to defend
+thewarorbat	the war or battle	perang	Warfare and hunting			the war or battle
+poor	poor	miskin	Possession			poor
+rich	rich	kaya	Possession			rich
+money	money	"uang	 duit"	Possession			money
+market	market	pasar	Possession			market
+price	price	harga	Possession			price
+_own	to own	memiliki	Possession			to own
+_borrow	to borrow	meminjam	Possession			to borrow
+_tradeorbart	to trade or barter	berdagang	Possession			to trade or barter
+expensive	expensive	mahal	Possession			expensive
+cheap	cheap	murah	Possession			cheap
+_grasp	to grasp	memegang	Possession			to grasp
+_letgo	to let go	melepaskan	Possession			to let go
+_promise	to promise	berjanji	Speech and language			to promise
+word	word	kata	Speech and language			word
+_answer	to answer	menjawab	Speech and language			to answer
+_refuse	to refuse	menolak	Speech and language			to refuse
+_whisper	to whisper	berbisik	Speech and language			to whisper
+_besilent	to be silent	diam	Speech and language			to be silent
+_tell	to tell	menceritakan	Speech and language			to tell
+_learn	to learn	belajar	Cognition			to learn
+_teach	to teach	mengajar	Cognition			to teach
+easy	easy 	gampang	Cognition			easy 
+difficult	difficult	sulit	Cognition			difficult
+finished	finished	selesai	Time			finished
+now	now	sekarang	Time			now
+hour	hour	jam	Time			hour
+same	same	sama	Miscellaneous function words			same
+ovencooking	oven/cooking place	tungku	Food and drink			oven/cooking place
+flowerinegm	flower (in e.g. mangga tree)	bunga (di pohon)	Agriculture and vegetation			flower (in e.g. mangga tree)
+vein	vein	urat	The body			vein
+longstick	long (stick)	(kayu) panjang	Spatial relations			long (stick)
+tallperson	tall (person)	(orang) tinggi	Spatial relations			tall (person)
+shortstick	short (stick)	(kayu) pendek 	Spatial relations			short (stick)
+narrowroad	narrow (road)	sempit (jalan)	Spatial relations		core set	narrow (road)
+inhabitedla	inhabited land	benua				inhabited land
+roofrafter	roof rafter	kasau	The House			roof rafter
+_searchhuntf	to search/hunt for	cari				to search/hunt for
+_crouch	to crouch	jongkok (di w.c.)				to crouch
