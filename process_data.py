@@ -13,13 +13,17 @@ except ImportError:
             if " " in name:
                 self.first = name[:name.index(" ")].strip()
                 self.last = name[name.index(" "):].strip()
+            else:
+                self.last=name
+                self.first=""
 
 try:
     from clld.db.meta import DBSession
     from clld.db.models.common import Dataset, Contributor, ContributionContributor, ValueSet, Value
-    from lexibank.models import LexibankLanguage, Provider, Concept
+    from lexibank.models import LexibankLanguage, Concept, Provider
     model_is_available=True
 except ImportError:
+    raise
     class DummyDBSession:
         def add(self, data): pass
     DBSession = DummyDBSession()
@@ -27,7 +31,7 @@ except ImportError:
     class Ignore:
         def __init__(self, *args, **kwargs): pass
     Dataset = Contributor = ContributionContributor = ValueSet = Value = Ignore
-    LexibankLanguage = Provider = Concept = Ignore
+    LexibankLanguage = Concept = Provider = Ignore
 
     class Icon:
         name = None
@@ -79,6 +83,8 @@ def report(problem, data1, data2):
 copy_from_concepticon = ["English"]
 copy_from_languages = ["Family", "Region", "Language name (-dialect)"]
 make_sure_exists = ["Alignment", "Source"]
+valuesets = {}
+values = set()
 def import_contribution(path, concepticon, languages, contributors={}, trust=[]):
     # look for metadata
     # look for sources
@@ -89,25 +95,25 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
         md = json.load(mdfile)
 
     try:
-        abstract = md["abstract"]
+        md["abstract"]
     except KeyError:
         md["abstract"] = "[No description]"
       
     contrib = Provider(
-        id=md["id"],
-        name=md["name"],
+        id=md.get("id", os.path.split(path)[-1][:-4]),
+        name=md.get("name", os.path.split(path)[-1]),
         #sources=sources(md["source"]) + references(md["references"]),
         ## Provider can't take sources arguments yet.
         ## We expect "source" to stand for primary linguistic data (audio files etc.),
         ## and "references" to point to bibliographic data.
         #Provider also takes url, aboutUrl, language_count, parameter_count, lexeme_count synonym
         )
-    contributor_name = HumanName(md["creator"][0])
+    contributor_name = HumanName(md.get("creator", "?")[0])
     contributor_id = (contributor_name.last + contributor_name.first)
     try:
-        contributor = contributors[md["creator"][0]]
+        contributor = contributors[contributor_id]
     except KeyError:
-        contributors[md["creator"][0]] = contributor = Contributor(
+        contributors[contributor_id] = contributor = Contributor(
             id=contributor_id,
             name=str(contributor_name))
     DBSession.add(ContributionContributor(contribution=contrib, contributor=contributor))
@@ -126,7 +132,6 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             data[column] = ""
         data[column] = data[column].astype(str)
 
-    valuesets = {}
     for i, row in data.iterrows():
         language = row["Language_ID"]
         if pandas.isnull(language):
@@ -168,21 +173,20 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             vs = valuesets[feature]
         else:
             vs = valuesets[feature] = ValueSet(
-                id="{:s}-{:d}".format(language, feature),
+                id="{:s}-{:s}".format(language, feature),
                 parameter=concepticon["db_Object"][feature],
                 language=languages["db_Object"][language],
                 contribution=contrib,
                 source=row['Source'])
-        DBSession.add(
-            Value(
-                id="{:s}-{:d}-{:}".format(language, feature, value),
-                valueset=vs,
-                name=value))
-                
-        
-            
+        vid = "{:s}-{:s}-{:}".format(language, feature, value)
+        if vid not in values:
+            DBSession.add(
+                Value(
+                    id=vid,
+                    valueset=vs,
+                    name=value))
+            values.add(vid)
 
-    print()
     if path not in trust:
         data.sort_values(by=["Feature_ID", "Family", "Region"], inplace=True)
         data = data[[
@@ -252,7 +256,7 @@ def main(trust=[languages_path, concepticon_path]):
             encoding='utf-16')
 
 import sys
-sys.argv=["i", "p:/My Documents/Database/lexibank/development.ini"]
+sys.argv=["i", "../lexibank/development.ini"]
 
 if model_is_available:
         from clld.scripts.util import initializedb
