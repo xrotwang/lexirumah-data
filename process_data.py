@@ -19,8 +19,11 @@ except ImportError:
 
 try:
     from clld.db.meta import DBSession
-    from clld.db.models.common import Dataset, Contributor, ContributionContributor, ValueSet, Value
-    from lexibank.models import LexibankLanguage, Concept, Provider
+    from clld.db.models.common import Dataset, Contributor, ContributionContributor, ValueSet
+    from lexibank.models import (
+        LexibankLanguage, Concept, Provider, Counterpart,
+        CognatesetCounterpart, Cognateset)
+    from clld_glottologfamily_plugin.models import Family
     model_is_available=True
 except ImportError:
     raise
@@ -30,8 +33,10 @@ except ImportError:
 
     class Ignore:
         def __init__(self, *args, **kwargs): pass
-    Dataset = Contributor = ContributionContributor = ValueSet = Value = Ignore
-    LexibankLanguage = Concept = Provider = Ignore
+    Dataset = Contributor = ContributionContributor = ValueSet = Ignore
+    LexibankLanguage = Concept = Provider = Counterpart = Ignore
+    CognatesetCounterpart = Cognateset = Ignore
+    Family = Ignore
 
     class Icon:
         name = None
@@ -64,11 +69,21 @@ def import_languages():
         sep='\t',
         index_col="Language ID",
         encoding='utf-8')
+    families = {
+        family: Family(
+            id=family.lower(),
+            jsondata={"icon": icon},
+            name=family)
+        for icon, family in zip(
+                ["fffffff", "ccccccc"],
+                set(languages["Family"]))
+        }
     languages["db_Object"] = [
         LexibankLanguage(
             id=i,
             name=row['Language name (-dialect)'],
             latitude=row['Lat'],
+            family=families[row['Family']],
             longitude=row['Lon'])
         for i, row in languages.iterrows()]
     return languages
@@ -86,7 +101,8 @@ copy_from_concepticon = ["English"]
 copy_from_languages = ["Family", "Region", "Language name (-dialect)"]
 make_sure_exists = ["Alignment", "Cognatesets", "Source"]
 valuesets = {}
-values = set()
+values = {}
+cognatesets = {}
 def import_contribution(path, concepticon, languages, contributors={}, trust=[]):
     # look for metadata
     # look for sources
@@ -186,12 +202,34 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
                 source=row['Source'])
         vid = "{:s}-{:}-{:}".format(language, feature, value)
         if vid not in values:
-            DBSession.add(
-                Value(
-                    id=vid,
-                    valueset=vs,
-                    name=value))
-            values.add(vid)
+            value = values[vid] = Counterpart(
+                id=vid,
+                valueset=vs,
+                name=value)
+            DBSession.add(value)
+        else:
+            value = values[vid]
+
+        if row["Cognatesets"] and not pandas.isnull(row["Cognatesets"]) and row["Cognatesets"]!="nan":
+            cognates = row["Cognatesets"].split()
+            for cognate in cognates:
+                if cognate.endswith(".0"):
+                    cognate = cognate[:-2]
+                cognateset_id = "{:d}-{:s}".format(
+                    feature, cognate)
+                print(feature, language, vid, cognate)
+                try:
+                    cognateset = cognatesets[cognateset_id]
+                except KeyError:
+                    cognateset = cognatesets[cognateset_id] = Cognateset(
+                        id=cognateset_id,
+                        contribution=contrib,
+                        name=cognateset_id)
+                DBSession.add(
+                    CognatesetCounterpart(
+                        cognateset=cognateset,
+                        counterpart=value))
+
 
     if path not in trust:
         data.sort_values(by=["Feature_ID", "Family", "Region"], inplace=True)
