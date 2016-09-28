@@ -48,8 +48,8 @@ def import_concepticon():
     concepticon = pandas.io.parsers.read_csv(
         concepticon_path,
         sep='\t',
-        index_col="ID",
-        encoding='utf-8')
+        index_col="Concept ID",
+        encoding='utf-16')
     concepticon = concepticon.groupby(level=0).last()
     concepticon["db_Object"] = [
         Concept(
@@ -68,7 +68,7 @@ def import_languages():
         languages_path,
         sep='\t',
         index_col="Language ID",
-        encoding='utf-8')
+        encoding='utf-16')
     families = {
         family: Family(
             id=family.lower(),
@@ -99,7 +99,7 @@ def report(problem, data1, data2):
     
 copy_from_concepticon = ["English"]
 copy_from_languages = ["Family", "Region", "Language name (-dialect)"]
-make_sure_exists = ["Alignment", "Cognatesets", "Source"]
+make_sure_exists = ["Alignment", "Cognate Set", "Source"]
 valuesets = {}
 values = {}
 cognatesets = {}
@@ -143,7 +143,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
     data = pandas.io.parsers.read_csv(
             path,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-8')
+            encoding='utf-16')
 
     for column in make_sure_exists+copy_from_concepticon+copy_from_languages:
         if column not in data.columns:
@@ -164,6 +164,8 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
                 data.set_value(i, column, languages[column][language])
                 
         feature = row["Feature_ID"]
+        if type(feature) == float:
+            feature = int(feature)
         if pandas.isnull(feature):
             en = row["English"]
             if pandas.isnull(en) or en not in concepticon["English"].values:
@@ -210,11 +212,13 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
         else:
             value = values[vid]
 
-        if row["Cognatesets"] and not pandas.isnull(row["Cognatesets"]) and row["Cognatesets"]!="nan":
-            cognates = row["Cognatesets"].split()
+        if row["Cognate Set"] and not pandas.isnull(row["Cognate Set"]) and row["Cognate Set"]!="nan":
+            cognates = row["Cognate Set"].split()
             for cognate in cognates:
                 if cognate.endswith(".0"):
                     cognate = cognate[:-2]
+                if type(cognate) == float:
+                    cognate = int(cognate)
                 cognateset_id = "{:d}-{:s}".format(
                     feature, cognate)
                 print(feature, language, vid, cognate)
@@ -242,13 +246,13 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             "Region",
             "Value",
             "Alignment",
-            "Cognatesets",
+            "Cognate Set",
             "Source"]]
         data.to_csv(
             path,
             index=False,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-8')
+            encoding='utf-16')
     return data
 
 
@@ -279,7 +283,7 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
             "all_data.tsv",
             index=False,
             sep="\t",
-            encoding='utf-8')
+            encoding='utf-16')
 
 
 def main(trust=[languages_path, concepticon_path]):
@@ -306,15 +310,15 @@ def main(trust=[languages_path, concepticon_path]):
         languages.to_csv(
             languages_path,
             sep='\t',
-            encoding='utf-8')
+            encoding='utf-16')
     if concepticon_path not in trust:
         concepticon.to_csv(
             concepticon_path,
             sep='\t',
-            encoding='utf-8')
+            encoding='utf-16')
 
 import sys
-sys.argv=["i", "../lexibank/development.ini"]
+sys.argv=["i", "P:/My Documents/Database/lexibank/development.ini"]
 
 if model_is_available:
         from clld.scripts.util import initializedb
