@@ -1,11 +1,12 @@
 Language ID	Family	Language name (-dialect)	Culture	ISO_code	Internal	Glottolog	Lat	Lon	Region	Description	Comments	languagename	db_Object
 atim1239	Timor-Alor-Pantar	Abui-Atimelang		abz		atim1239	-8.226	124.6683	Alor		Atimelang and Fuimelang were two villages but have merged; Atimelang=Atengmelang	abuiatimelang	Abui-Atimelang
 abui1241-fuime	Timor-Alor-Pantar	Abui-Fuimelang		abz			-8.226	124.6683	Alor			abuifuimelang	Abui-Fuimelang
-abui1241-petle-o	Timor-Alor-Pantar	Abui-Petleng (Orthographic)		abz			-8.2144	124.593	Alor			abuipetlengorthographic	Abui-Petleng (Orthographic)
-abui1241-petle	Timor-Alor-Pantar	Abui-Petleng		abz			-8.2144	124.593	Alor			abuipetleng	Abui-Petleng
+abui1241-petle-o	Timor-Alor-Pantar	Abui-Petleng (Orthographic)		abz			-8.2144	124.59299999999999	Alor			abuipetlengorthographic	Abui-Petleng (Orthographic)
+abui1241-petle	Timor-Alor-Pantar	Abui-Petleng		abz			-8.2144	124.59299999999999	Alor			abuipetleng	Abui-Petleng
 abui1241-takal	Timor-Alor-Pantar	Abui-Takalelang	abui	abz		abui1241	-8.1887	124.6264	Alor			abuitakalelang	Abui-Takalelang
 abui1241-takal-o	Timor-Alor-Pantar	Abui-Takalelang (Orthographic)		abz		abui1241	-8.1887	124.6264	Alor			abuitakalelangorthographic	Abui-Takalelang (Orthographic)
-adan1251	Timor-Alor-Pantar	Adang-Lawahing		adn		adan1251	-8.2109	124.4272	Alor			adanglawahing	Adang-Lawahing
+adan1251	Timor-Alor-Pantar	Adang		adn		adan1251	-8.2109	124.4272	Alor			adang	Adang
+adan1251-lawah	Timor-Alor-Pantar	Adang-Lawahing		adn		adan1251	-8.2109	124.4272	Alor			adanglawahing	Adang-Lawahing
 baka1276	Timor-Alor-Pantar	Blagar-Bakalang		beu		baka1276	-8.2634	124.2972	Pantar			blagarbakalang	Blagar-Bakalang
 blag1240-bama	Timor-Alor-Pantar	Blagar-Bama		beu 			-8.2771	124.3013	Pantar			blagarbama	Blagar-Bama
 pura1258	Timor-Alor-Pantar	Blagar-Pura	blag	beu 		pura1258	-8.2829	124.3307	Pura		includes Blagar Dolabang and Blagar Dadibira	blagarpura	Blagar-Pura
@@ -13,9 +14,9 @@ blag1240-kulij	Timor-Alor-Pantar	Blagar-Kulijahi		beu 			-8.2975	124.3033	Pantar
 blag1240-nule	Timor-Alor-Pantar	Blagar-Nule		beu 			-8.3672	124.2409	Pantar			blagarnule	Blagar-Nule
 blag1240-tuntu	Timor-Alor-Pantar	Blagar-Tuntuli		beu			-8.2056	124.2907	Pantar			blagartuntuli	Blagar-Tuntuli
 blag1240-warsa	Timor-Alor-Pantar	Blagar-Warsalelang		beu			-8.3252	124.3011	Pantar			blagarwarsalelang	Blagar-Warsalelang
-bunakbobonaro	Timor-Alor-Pantar	Bunaq-Bobonaro	buna	bfn 			-8.4394	126.9821	Timor			bunaqbobonaro	Bunaq-Bobonaro
+buna1278-bobon	Timor-Alor-Pantar	Bunak-Bobonaro	buna	bfn 			-8.4394	126.9821	Timor			bunakbobonaro	Bunak-Bobonaro
 buna1278	Timor-Alor-Pantar	Bunak (Orthographic)		bfn 			-8.9912	125.2227	Timor		Orthographic data comes from Maliana table	bunakorthographic	Bunak (Orthographic)
-bunaksuai	Timor-Alor-Pantar	Bunaq-Suai		bfn 			-9.318825	125.2625	Timor			bunaqsuai	Bunaq-Suai
+buna1278-suai	Timor-Alor-Pantar	Bunak-Suai		bfn 			-9.318825	125.2625	Timor			bunaksuai	Bunak-Suai
 buna1278-malia	Timor-Alor-Pantar	Bunaq-Maliana		bfn 			-8.9912	125.2227	Timor			bunaqmaliana	Bunaq-Maliana
 dein1238	Timor-Alor-Pantar	Deing			deinx	dein1238	-8.3488	124.1304	Pantar			deing	Deing
 fata1247	Timor-Alor-Pantar	Fataluku	fata	ddg		fata1247	-8.4394	126.9821	Timor			fataluku	Fataluku
@@ -26,19 +27,19 @@ kaer1234	Timor-Alor-Pantar	Kaera-Abangiwang	kaer	jka		kaer1234	-8.4047	124.2175	
 kafo1240	Timor-Alor-Pantar	Kafoa-Probur		kpu		kafo1240	-8.3616	124.4478	Alor			kafoaprobur	Kafoa-Probur
 kama1365	Timor-Alor-Pantar	Kamang-Atoitaa		woi		kama1365	-8.2543	124.8515	Alor			kamangatoitaa	Kamang-Atoitaa
 kira1248	Timor-Alor-Pantar	Kiraman		kvd		kira1248	-8.3847	124.8334	Alor			kiraman	Kiraman
-klon	Timor-Alor-Pantar	Klon		kyo		kelo1247	-8.4185	124.3418	Alor			klonbring	Klon
+kelo1247	Timor-Alor-Pantar	Klon		kyo		kelo1247	-8.4185	124.3418	Alor			klon	Klon
 kelo1247-bring	Timor-Alor-Pantar	Klon-Bring		kyo		kelo1247	-8.4185	124.3418	Alor			klonbring	Klon-Bring
 kuii1253	Timor-Alor-Pantar	Kui-Moru		kvd		kuii1253	-8.4351	124.5423	Alor			kuimoru	Kui-Moru
-kula1280-lanto	Timor-Alor-Pantar	Kula-Lantoka		tpg		kula1280	-8.1753	125.099	Alor			kulalantoka	Kula-Lantoka
-kula1280	Timor-Alor-Pantar	Kula		tpg		kula1280	-8.1753	125.099	Alor		Typological questionnaire is based on Kula-Tanglapui and Lantoka dialect. Other data are yet pending.	kula	Kula
+kula1280-lanto	Timor-Alor-Pantar	Kula-Lantoka		tpg		kula1280	-8.1753	125.09899999999999	Alor			kulalantoka	Kula-Lantoka
+kula1280	Timor-Alor-Pantar	Kula		tpg		kula1280	-8.1753	125.09899999999999	Alor		Typological questionnaire is based on Kula-Tanglapui and Lantoka dialect. Other data are yet pending.	kula	Kula
 maka1316	Timor-Alor-Pantar	Makasae	maka	mkz		maka1316	-8.4394	126.9821	Timor			makasae	Makasae
 nede1245	Timor-Alor-Pantar	Nedebang		nec		nede1245	-8.2793	124.1969	Pantar			nedebang	Nedebang
 rett1240	Timor-Alor-Pantar	Reta		ret		rett1240	-8.3224	124.3543	Alor			reta	Reta
-alor1249-sar-nule	Timor-Alor-Pantar	Sar-Nule					-8.3775	124.2303	Pantar			sarnule	Sar-Nule
-alor1249-sar-adiabang	Timor-Alor-Pantar	Sar-Adiabang			sarx		-8.326	124.228	Pantar			saradiabang	Sar-Adiabang
+alor1249-sar-n	Timor-Alor-Pantar	Sar-Nule					-8.3775	124.2303	Pantar			sarnule	Sar-Nule
+alor1249-sar-a	Timor-Alor-Pantar	Sar-Adiabang			sarx		-8.326	124.228	Pantar			saradiabang	Sar-Adiabang
 sawi1256	Timor-Alor-Pantar	Sawila		swt		sawi1256	-8.3433	125.0922	Alor			sawila	Sawila
 teiw1235	Timor-Alor-Pantar	Teiwa-Lebang	teiw	twe		teiw1235	-8.257	124.2151	Pantar			teiwalebang	Teiwa-Lebang
-kola1287	Timor-Alor-Pantar	Wersing-Kolana		kvw		kola1287	-8.284473700000001	125.0477418	Timor		Village Kolana Selatan, on OSM	wersingkolana	Wersing-Kolana
+kola1287	Timor-Alor-Pantar	Wersing-Kolana		kvw		kola1287	-8.284473700000001	125.04774180000001	Timor		Village Kolana Selatan, on OSM	wersingkolana	Wersing-Kolana
 wers1238	Timor-Alor-Pantar	Wersing		kvw		wers1238	-8.2908	125.1234	Timor		Typological questionnaire is based on Wersing-Pureman dialect. Other data are  yet pending.	wersing	Wersing
 lamm1241	Timor-Alor-Pantar	Western Pantar-Tubbe		lev		lamm1241	-8.4631	124.1274	Pantar			westernpantartubbe	Western Pantar-Tubbe
 sika1262	Austronesian	Sika		ski 		sika1262	-8.6237	122.2084	Flores		Originally listed as Sika2	sika	Sika
