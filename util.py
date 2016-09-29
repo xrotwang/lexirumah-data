@@ -3,6 +3,7 @@ from lingpy.sequence.sound_classes import clean_string
 from glob import glob
 from clldutils.dsv import UnicodeReader
 from clldutils.path import Path
+import re
 
 def cldf2lingpy(path, delimiter="\t", quotechar='"'):
     
@@ -21,9 +22,9 @@ def load_dataset(dataset, extension="tsv", delimiter="\t", quotechar='"',
         with UnicodeReader(f, delimiter=delimiter, quotechar=quotechar) as rd:
             for i, line in enumerate(rd):
                 if i == 0:
-                    header = line
+                    pass
                 else:
-                    D[idx] = line
+                    D[idx] = [re.sub(r"\s+", " ", x) for x in line]
                     idx += 1
     D[0] = header 
     

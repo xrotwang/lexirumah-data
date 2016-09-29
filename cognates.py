@@ -24,6 +24,7 @@ PREPARSE = [
         ('Ɂ', 'ʔ'),
         (':', 'ː'),
         ('ɜ', 'ɜ'),
+        ('*', ''),
         ]
 # iterate and count stuff, if words have multiple entries, split them and add
 # them
@@ -31,9 +32,9 @@ addtokens = {}
 for k in wl:
     tokens = []
     stop = False
-    word = wl[k, 'value']
+    word = wl[k, 'value'].replace('\t', ' ')
     # delete condition, potentially expand
-    if word in ['', '(no data)', '-']:
+    if word in ['', '(no data)', '-', '?', '‘', '??']:
         stop = True
         deletes += [k]
     # check for leading comma, an annoying error
@@ -60,7 +61,7 @@ for k in wl:
         if not tokens[0].strip():
             log += ['[{0:4}] is empty: «{1}»'.format(k, word)]
 
-        for segment in tokens[0]:
+        for segment in tokens[0].split(' '):
             segments[segment] += 1
 
     if tokens:
@@ -69,9 +70,12 @@ for k in wl:
         addtokens[k] = '?'
 
 wl.add_entries('segments', addtokens, lambda x: x)
-# save wordlist, ignore lines which are empty
+# save wordlist, ignore lines which are empty, this takes a long time, due to
+# the length of the data and an unoptimized routine, so once you created the
+# file, I recommend to uncomment this line
 wl.output('tsv', filename='tap-cleaned', subset=True, rows=dict(
     ID = 'not in '+str(deletes)))
+print('wrote data to file')
 
 with open('errors.log', 'w') as f:
     f.write('\n'.join(log))
@@ -81,13 +85,15 @@ with open('segments.log', 'w') as f:
         f.write('{0}\t{1}\n'.format(a, b))
 
 # compute cognates
-lex = LexStat('tap-cleaned', segments='segments')
+lex = LexStat('tap-cleaned.tsv', segments='segments')
 print('[i] loaded lexstat')
 lex.cluster(method='sca', threshold=0.45, ref='cogid')
+lex.output('tsv', filename='tap-cognates', ignore='all', prettify=False)
 
 # align data
-alm = Alignments(lex, ref='cogid')
-alm.align(override=True)
+alm = Alignments('tap-cognates.tsv', ref='cogid', segments='segments',
+        transcription='value', alignment='segments')
+alm.align(override=True, alignment='alignment')
 alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
 
 
