@@ -100,6 +100,12 @@ cognates["LONG_COGID"] = [
     ]
 COG_IDs = list(set(cognates["LONG_COGID"]))
 cognates["COGID"] = [COG_IDs.index(x) for x in cognates["LONG_COGID"]]
+cognates["REGION-DOCULECT"] = [
+    "{:s} – {:s} {:s}".format(
+        "X" if pandas.isnull(region) else region,
+        "X" if pandas.isnull(family) else family,
+        "X" if pandas.isnull(lect) else lect)
+    for lect, family, region in zip(cognates["DOCULECT"], cognates["FAMILY"], cognates["REGION"])]
 cognates.to_csv("tap-cognates-merged.tsv",
                 index=False,
                 sep="\t")
@@ -109,5 +115,10 @@ alm = Alignments('tap-cognates-merged.tsv', ref='COGID', segments='segments',
         transcription='value', alignment='segments')
 alm.align(override=True, alignment='alignment')
 alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
+
+
+
+
+
 
 
