@@ -87,8 +87,19 @@ with open('segments.log', 'w') as f:
 # compute cognates
 lex = LexStat('tap-cleaned.tsv', segments='segments')
 print('[i] loaded lexstat')
-lex.cluster(method='sca', threshold=0.45, ref='cogid')
+lex.cluster(method='sca', threshold=0.45, ref='auto_cogid')
 lex.output('tsv', filename='tap-cognates', ignore='all', prettify=False)
+
+import pandas
+cognates = pandas.read_csv('tap-cognates.tsv', sep='\t')
+cognates["LONG_COGID"] = [
+    (row["AUTO_COGID"] 
+     if (pandas.isnull(row["COGNATE_SET"]) or row["COGNATE_SET"]=="nan") else
+     "{:}-{:}".format(row["CONCEPT_ID"] + row["COGNATE_SET"]))
+    for i, row in cognates.iterrows()
+    ]
+COG_IDs = list(set(cognates["LONG_COGID"]))
+cognates["COGID"] = [COG_IDs.index(x) for x in cognates["LONG_COGID"]]
 
 # align data
 alm = Alignments('tap-cognates.tsv', ref='cogid', segments='segments',
