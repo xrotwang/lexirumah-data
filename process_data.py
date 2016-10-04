@@ -68,7 +68,7 @@ def import_languages():
         languages_path,
         sep='\t',
         index_col="Language ID",
-        encoding='utf-16')
+        encoding='utf-8')
     families = {
         family: Family(
             id=family.lower(),
