@@ -99,7 +99,7 @@ def report(problem, data1, data2):
     
 copy_from_concepticon = ["English"]
 copy_from_languages = ["Family", "Region", "Language name (-dialect)"]
-make_sure_exists = ["Alignment", "Cognate Set", "Source"]
+make_sure_exists = ["Alignment", "Cognate Set", "Source", "Comment"]
 valuesets = {}
 values = {}
 cognatesets = {}
@@ -245,6 +245,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             "Family",
             "Region",
             "Value",
+            "Comment",
             "Alignment",
             "Cognate Set",
             "Source"]]
