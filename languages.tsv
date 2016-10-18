@@ -1,4 +1,29 @@
 Language ID	Family	Language name (-dialect)	Culture	ISO_code	Internal	Glottolog	Lat	Lon	Region	Description	Comments	languagename	db_Object
+alor1247	Austronesian	Alorese-Alor 		aol 		alor1247	-8.2555	124.082	3Alor, 1West			aloresealor	Alorese-Alor 
+alor1247-baran	Austronesian	Alorese-Baranusa		aol 			-8.3613	120.939	1Pantar, 1West			aloresebaranusa	Alorese-Baranusa
+alor1247-kabir	Austronesian	Alorese-Kabir		aol 			-8.2563	122.158	1Pantar, 1West			aloresekabir	Alorese-Kabir
+cent2245-hewa	Austronesian	Hewa	hewa		hwa		-8.6109	126.989	5Flores, 2Central			hewa	Hewa
+idat1237	Austronesian	Idate		idt		idat1237	-8.7719	129.262	4Timor, 2Central			idate	Idate
+keda1252	Austronesian	Kedang	keda		ked	keda1252	-8.2423	127.491	8Lembata		Originally listed as Kedang3	kedang	Kedang
+kema1243	Austronesian	Kemak		kem		kema1243	-8.9729	122.074	4Timor, 2Central			kemak	Kemak
+laka1255	Austronesian	Lakalei 		lka		laka1255	-8.7719	129.262	4Timor, 2Central			lakalei	Lakalei 
+adon1237	Austronesian	Lamaholot-Adonara	adon		lmh_ad	adon1237	-8.3757	122.375	7Adonara			lamaholotadonara	Lamaholot-Adonara
+lh  	Austronesian	Lamaholot-Central Lembata	clem		lh  		-8.4723	124.361	8Lembata			lamaholotcentrallembata	Lamaholot-Central Lembata
+lama1292	Austronesian	Lamaholot-?	clem		lh  		-8.4723	124.361	8Lembata			lamaholotcentrallembata	Lamaholot-?
+lama1278	Austronesian	Lamaholot-Lewoingu	lewo		lmh_li		-8.4054	128.39	5Flores, 1East		Lamaholotic: lama1292. lama1278 is Lamalera, which is spoken further west down the coast, and may actually be on the wrong Lamaholot-subclade.	lamaholotlewoingu	Lamaholot-Lewoingu
+lamaholot-solor	Austronesian	Lamaholot-Solor		slp			-8.2622	120.705	6Solor		Lamaholot West Solor: west2543	lamaholotsolor	Lamaholot-Solor
+sout2896-kalik	Austronesian	Lembata-Kalikasa				sout2896	-8.448072	123.508306	8Lembata		Coordinates taken from village of Kalikasa	lembatakalikasa	Lembata-Kalikasa
+sout2896-lerek	Austronesian	Lerek Lamaholot				sout2896	-8.5231	125.454	8Lembata		Lerek village on Lembata, according to OSM	lereklamaholot	Lerek Lamaholot
+levu1239	Austronesian	levu	clem		lh  		-8.4723	124.361	8Lembata			lamaholotcentrallembata	levu
+mamb1306	Austronesian	Mambai		mgm		mamb1306	-8.9918	125.072	4Timor, 2Central		Mambae: mamb1306	mambai	Mambai
+p-aust1307	Austronesian	proto-AN				aust1307						protoan	proto-AN
+p-mala1545	Austronesian	proto-MP				mala1545						protomp	proto-MP
+sika1262	Austronesian	Sika		ski 		sika1262	-8.6237	122.084	5Flores, 2Central		Originally listed as Sika2	sika	Sika
+tetu1246	Austronesian	Tetun Dili 		tdt 		tetu1246	-8.5478	125.442	4Timor			tetundili	Tetun Dili 
+tetu1245-suai	Austronesian	Tetun Terik-Suai 		tdt			-9.318825	122.625	4Timor, 2Central			tetunteriksuai	Tetun Terik-Suai 
+tetu1245	Austronesian	Tetun Terik		tdt			-9.318825	122.625	4Timor, 2Central			tetunteriksuai	Tetun Terik
+tetu1245-vique	Austronesian	Tetun Terik-Viqueque	tetu	tdt			-8.8608	123.631	4Timor, 2Central			tetunterikviqueque	Tetun Terik-Viqueque
+tuku1254	Austronesian	Tokodede		tkd		tuku1254	-8.6128	122.017	4Timor, 2Central		Tukudede: tuku1254	tokodede	Tokodede
 abui1241	Timor-Alor-Pantar	Abui	abui	abz		abui1241	-8.1887	126.264	3Alor, 2Central			abuitakalelang	Abui
 atim1239	Timor-Alor-Pantar	Abui-Atimelang		abz		atim1239	-8.226	126.683	3Alor, 2Central		"Atimelang and Fuimelang were two villages but have merged; Atimelang=Atengmelang"	abuiatimelang	Abui-Atimelang
 abui1241-fuime	Timor-Alor-Pantar	Abui-Fuimelang		abz			-8.226	126.683	3Alor, 2Central			abuifuimelang	Abui-Fuimelang
@@ -37,6 +62,9 @@ kula1280-lanto	Timor-Alor-Pantar	Kula-Lantoka		tpg		kula1280	-8.1753	125.0989999
 kula1280	Timor-Alor-Pantar	Kula		tpg		kula1280	-8.1753	125.09899999999900	3Alor, 3East		Typological questionnaire is based on Kula-Tanglapui and Lantoka dialect. Other data are yet pending.	kula	Kula
 maka1316	Timor-Alor-Pantar	Makasae	maka	mkz		maka1316	-8.4394	129.821	4Timor, 3East			makasae	Makasae
 nede1245	Timor-Alor-Pantar	Nedebang		nec		nede1245	-8.2793	121.969	1Pantar, 1West			nedebang	Nedebang
+p-alor1249	Timor-Alor-Pantar	proto-AP				alor1249						protoap	proto-AP
+p-timo1261	Timor-Alor-Pantar	proto-TAP				timo1261						prototap	proto-TAP
+p-east2519	Timor-Alor-Pantar	proto-TIM				east2519						prototim	proto-TIM
 rett1240	Timor-Alor-Pantar	Reta		ret		rett1240	-8.3224	123.543	2Reta			reta	Reta
 alor1249-sar-a	Timor-Alor-Pantar	Sar-Adiabang			sarx		-8.326	124.228	1Pantar, 1West			saradiabang	Sar-Adiabang
 alor1249-sar-n	Timor-Alor-Pantar	Sar-Nule					-8.3775	122.303	1Pantar, 1West			sarnule	Sar-Nule
@@ -45,31 +73,3 @@ teiw1235	Timor-Alor-Pantar	Teiwa-Lebang	teiw	twe		teiw1235	-8.257	122.151	1Panta
 kola1287	Timor-Alor-Pantar	Wersing-Kolana		kvw		kola1287	-8.284473700000000	125.04774180000000	3Alor, 3East		Village Kolana Selatan, on OSM	wersingkolana	Wersing-Kolana
 wers1238	Timor-Alor-Pantar	Wersing		kvw		wers1238	-8.2908	121.234	3Alor, 3East		Typological questionnaire is based on Wersing-Pureman dialect. Other data are  yet pending.	wersing	Wersing
 lamm1241	Timor-Alor-Pantar	Western Pantar-Tubbe		lev		lamm1241	-8.4631	121.274	1Pantar, 1West			westernpantartubbe	Western Pantar-Tubbe
-p-alor1249	Timor-Alor-Pantar	proto-AP				alor1249						protoap	proto-AP
-p-timo1261	Timor-Alor-Pantar	proto-TAP				timo1261						prototap	proto-TAP
-p-east2519	Timor-Alor-Pantar	proto-TIM				east2519						prototim	proto-TIM
-alor1247	Austronesian	Alorese-Alor 		aol 		alor1247	-8.2555	124.082	3Alor, 1West			aloresealor	Alorese-Alor 
-alor1247-baran	Austronesian	Alorese-Baranusa		aol 			-8.3613	120.939	1Pantar, 1West			aloresebaranusa	Alorese-Baranusa
-alor1247-kabir	Austronesian	Alorese-Kabir		aol 			-8.2563	122.158	1Pantar, 1West			aloresekabir	Alorese-Kabir
-cent2245-hewa	Austronesian	Hewa	hewa		hwa		-8.6109	126.989	5Flores, 2Central			hewa	Hewa
-idat1237	Austronesian	Idate		idt		idat1237	-8.7719	129.262	4Timor, 2Central			idate	Idate
-keda1252	Austronesian	Kedang	keda		ked	keda1252	-8.2423	127.491	8Lembata		Originally listed as Kedang3	kedang	Kedang
-kema1243	Austronesian	Kemak		kem		kema1243	-8.9729	122.074	4Timor, 2Central			kemak	Kemak
-laka1255	Austronesian	Lakalei 		lka		laka1255	-8.7719	129.262	4Timor, 2Central			lakalei	Lakalei 
-adon1237	Austronesian	Lamaholot-Adonara	adon		lmh_ad	adon1237	-8.3757	122.375	7Adonara			lamaholotadonara	Lamaholot-Adonara
-lh  	Austronesian	Lamaholot-Central Lembata	clem		lh  		-8.4723	124.361	8Lembata			lamaholotcentrallembata	Lamaholot-Central Lembata
-lama1292	Austronesian	Lamaholot-?	clem		lh  		-8.4723	124.361	8Lembata			lamaholotcentrallembata	Lamaholot-?
-lama1278	Austronesian	Lamaholot-Lewoingu	lewo		lmh_li		-8.4054	128.39	5Flores, 1East		Lamaholotic: lama1292. lama1278 is Lamalera, which is spoken further west down the coast, and may actually be on the wrong Lamaholot-subclade.	lamaholotlewoingu	Lamaholot-Lewoingu
-lamaholot-solor	Austronesian	Lamaholot-Solor		slp			-8.2622	120.705	6Solor		Lamaholot West Solor: west2543	lamaholotsolor	Lamaholot-Solor
-sout2896-kalik	Austronesian	Lembata-Kalikasa				sout2896	-8.448072	123.508306	8Lembata		Coordinates taken from village of Kalikasa	lembatakalikasa	Lembata-Kalikasa
-sout2896-lerek	Austronesian	Lerek Lamaholot				sout2896	-8.5231	125.454	8Lembata		Lerek village on Lembata, according to OSM	lereklamaholot	Lerek Lamaholot
-levu1239	Austronesian	levu	clem		lh  		-8.4723	124.361	8Lembata			lamaholotcentrallembata	levu
-mamb1306	Austronesian	Mambai		mgm		mamb1306	-8.9918	125.072	4Timor, 2Central		Mambae: mamb1306	mambai	Mambai
-sika1262	Austronesian	Sika		ski 		sika1262	-8.6237	122.084	5Flores, 2Central		Originally listed as Sika2	sika	Sika
-tetu1246	Austronesian	Tetun Dili 		tdt 		tetu1246	-8.5478	125.442	4Timor			tetundili	Tetun Dili 
-tetu1245-suai	Austronesian	Tetun Terik-Suai 		tdt			-9.318825	122.625	4Timor, 2Central			tetunteriksuai	Tetun Terik-Suai 
-tetu1245	Austronesian	Tetun Terik		tdt			-9.318825	122.625	4Timor, 2Central			tetunteriksuai	Tetun Terik
-tetu1245-vique	Austronesian	Tetun Terik-Viqueque	tetu	tdt			-8.8608	123.631	4Timor, 2Central			tetunterikviqueque	Tetun Terik-Viqueque
-tuku1254	Austronesian	Tokodede		tkd		tuku1254	-8.6128	122.017	4Timor, 2Central		Tukudede: tuku1254	tokodede	Tokodede
-p-aust1307	Austronesian	proto-AN				aust1307						protoan	proto-AN
-p-mala1545	Austronesian	proto-MP				mala1545						protomp	proto-MP
