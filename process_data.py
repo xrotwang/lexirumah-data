@@ -49,7 +49,7 @@ def import_concepticon():
         concepticon_path,
         sep='\t',
         index_col="Concept ID",
-        encoding='utf-16')
+        encoding='utf-8')
     concepticon = concepticon.groupby(level=0).last()
     concepticon["db_Object"] = [
         Concept(
@@ -143,7 +143,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
     data = pandas.io.parsers.read_csv(
             path,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
 
     for column in make_sure_exists+copy_from_concepticon+copy_from_languages:
         if column not in data.columns:
@@ -237,7 +237,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
 
     if path not in trust:
         data.sort_values(by=["Feature_ID", "Family", "Region"], inplace=True)
-        data = data[[
+        first_columns = [
             "Feature_ID",
             "English",
             "Language_ID",
@@ -248,12 +248,16 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             "Comment",
             "Alignment",
             "Cognate Set",
-            "Source"]]
+            "Source"]
+        for column in data.columns:
+            if column not in first_columns:
+                first_columns.append(column)
+        data = data[first_columns]
         data.to_csv(
             path,
             index=False,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
     return data
 
 
@@ -284,7 +288,7 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
             "all_data.tsv",
             index=False,
             sep="\t",
-            encoding='utf-16')
+            encoding='utf-8')
 
 
 def main(trust=[languages_path, concepticon_path]):
@@ -311,15 +315,16 @@ def main(trust=[languages_path, concepticon_path]):
         languages.to_csv(
             languages_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
     if concepticon_path not in trust:
         concepticon.to_csv(
             concepticon_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
 
 import sys
-sys.argv=["i", "P:/My Documents/Database/lexibank/development.ini"]
+import lexibank
+sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(lexibank.__file__)), "development.ini")]
 
 if model_is_available:
         from clld.scripts.util import initializedb
