@@ -153,18 +153,31 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
     for i, row in data.iterrows():
         language = row["Language_ID"]
         if pandas.isnull(language):
-            report(
-                "No language given!",
-                (language),
-                None)
-            del data[i]
-            continue
+            language_by_name = row.get("Language name (-dialect)")
+            if pandas.isnull(language_by_name):
+                report(
+                    "No language given!",
+                    (language),
+                    None)
+                del data[i]
+                continue
+            else:
+                get_entries = languages["Language name (-dialect)"] == language_by_name
+                if get_entries.any():
+                    language = get_entries.argmax()
+                else:
+                    report(
+                        "Language name not found in languages list",
+                        (language),
+                        None)
+                    del data[i]
+                    continue
         for column in copy_from_languages:
             if row[column] != languages[column][language]:
                 data.set_value(i, column, languages[column][language])
                 
         feature = row["Feature_ID"]
-        if type(feature) == float:
+        if type(feature) == float and not pandas.isnull(feature):
             feature = int(feature)
         if pandas.isnull(feature):
             en = row["English"]
