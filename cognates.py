@@ -103,7 +103,7 @@ cognates["DOCULECT"] = [
         "X" if pandas.isnull(region) else region,
         "X" if pandas.isnull(family) else family,
         "X" if pandas.isnull(lect) else lect)
-    for lect, family, region in zip(cognates["DOCULECT"], cognates["FAMILY"], cognates["REGION"])]
+    for lect, family, region in zip(cognates["DOCULECT"], "AN" if cognates["FAMILY"]=="Austronesian" else "TAP", cognates["REGION"])]
 cognates.sort_values(by="DOCULECT",
                      inplace=True)
 COG_IDs = []
