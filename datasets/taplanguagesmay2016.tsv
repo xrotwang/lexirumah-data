@@ -604,14 +604,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 22.0	river; stream	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	ilú	nan	nan	nan	nan		
 22.0	river; stream	buna1278	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	neto	nan	nan	nan	nan		
 22.0	river; stream	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'ʤɔl	nan	nan	nan	nan		
-23.0	ice	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 23.0	ice	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lokkang	nan	nan	nan	nan		
-23.0	ice	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 23.0	ice	buna1278	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	tetsuh	nan	nan	nan	nan		
 23.0	ice	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'ʔɛs	nan	nan	nan	nan		
-24.0	snow	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 24.0	snow	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lokkang	nan	nan	*	nan		
-24.0	snow	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 24.0	snow	buna1278	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	ii	nan	nan	nan	nan		
 24.0	snow	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'ʔil 'hɔl	nan	nan	nan	nan		
 25.0	lake	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	-	nan	nan	nan	nan		
@@ -1156,7 +1152,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 47.0	sail (n.)	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	a'rai	nan	nan	nan	nan		
 47.0	sail (n.)	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	jar	nan	nan	*	nan		
 48.0	to sail	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	ja'ro	nan	nan	nan	nan		
-48.0	to sail	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	*	nan		
 49.0	fishing hook	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	kawil	nan	nan	nan	nan		
 49.0	fishing hook	alor1249-sar-n	Sar-Nule	Timor-Alor-Pantar	1Pantar, 1West	kawil	nan	nan	nan	nan		
 49.0	fishing hook	dein1238	Deing	Timor-Alor-Pantar	1Pantar, 1West	kis	nan	nan	nan	nan		
@@ -2280,7 +2275,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 93.0	seed	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	ge ikó'	nan	nan	nan	nan		
 93.0	seed	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'bin	nan	nan	nan	nan		
 94.0	grain; cereal	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	mar	mar=padi	nan	nan	nan		
-94.0	grain; cereal	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	rax rax does not exist	nan	nan	nan		
 94.0	grain; cereal	adan1251-lawah	Adang-Lawahing	Timor-Alor-Pantar	3Alor, 1West	a:la	'rice'	nan	nan	nan		
 94.0	grain; cereal	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	arák-arák	nan	nan	nan	nan		
 94.0	grain; cereal	buna1278	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	inup ginup ninup	nan	nan	nan	nan		
@@ -2629,9 +2623,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 109.0	sago	alor1249-sar-n	Sar-Nule	Timor-Alor-Pantar	1Pantar, 1West	-	nan	nan	nan	nan		
 109.0	sago	dein1238	Deing	Timor-Alor-Pantar	1Pantar, 1West	axebaaq'	nan	nan	nan	nan		
 109.0	sago	kaer1234	Kaera-Abangiwang	Timor-Alor-Pantar	1Pantar, 1West	ku'dubuk, bur	nan	nan	*	nan		
-109.0	sago	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 109.0	sago	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	do	nan	nan	1	nan		
-109.0	sago	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	*	nan		
 109.0	sago	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	1Pantar,2East	-	nan	nan	nan	nan		
 109.0	sago	rett1240	Reta	Timor-Alor-Pantar	2Reta	-	nan	nan	nan	nan		
 109.0	sago	hama1240	Hamap-Moru	Timor-Alor-Pantar	3Alor, 1West	batakoʔ.i	nan	nan	3	nan		
@@ -5070,7 +5062,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 225.0	at	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	na la 'ma miŋ	I am at home	nan	nan	nan		
 225.0	at	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	me	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	1	nan		
 225.0	at	nede1245	Nedebang	Timor-Alor-Pantar	1Pantar, 1West		General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	nan	nan		
-225.0	at	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	*	nan		
 225.0	at	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East		General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	nan	nan		
 225.0	at	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	1Pantar, 2East		General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	nan	nan		
 225.0	at	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	1Pantar, 2East		General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	nan	nan		
@@ -5239,7 +5230,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 236.0	animal	p-alor1249	proto-AP	Timor-Alor-Pantar			If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	nan	nan		
 236.0	animal	p-east2519	proto-TIM	Timor-Alor-Pantar			If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	nan	nan		
 236.0	animal	p-timo1261	proto-TAP	Timor-Alor-Pantar			If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	nan	nan		
-237.0	fowl	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 237.0	fowl	nede1245	Nedebang	Timor-Alor-Pantar	1Pantar, 1West	siyaqa	nan	nan	nan	nan		
 237.0	fowl	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	dai	nan	nan	2	nan		
 237.0	fowl	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	1Pantar, 2East	ari ual	nan	nan	nan	nan		
@@ -5478,8 +5468,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 246.0	bat	p-timo1261	proto-TAP	Timor-Alor-Pantar		*madel	nan	nan	nan	nan		
 247.0	flying fox; fruit bat	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	mɛ'rɛi	nan	nan	nan	nan		
 247.0	flying fox; fruit bat	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	mə'di	nan	nan	nan	nan		
-248.0	cuscus	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
-248.0	cuscus	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 248.0	cuscus	adan1251-lawah	Adang-Lawahing	Timor-Alor-Pantar	3Alor, 1West	a:mu	nan	nan	nan	nan		
 248.0	cuscus	buna1278	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	il aa	nan	nan	nan	nan		
 249.0	tail	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gor	nan	nan	nan	nan		
@@ -9921,7 +9909,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 417.0	to float	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'ʔɔtɛl 'lɛlɛ	nan	nan	nan	nan		
 418.0	to freeze	kaer1234	Kaera-Abangiwang	Timor-Alor-Pantar	1Pantar, 1West	anamo	nan	nan	nan	nan		
 418.0	to freeze	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	ana'mo	nan	nan	nan	nan		
-418.0	to freeze	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 418.0	to freeze	buna1278	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	huruk il	nan	nan	nan	nan		
 418.0	to freeze	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'huruk 'ʔil	nan	nan	nan	nan		
 419.0	to hold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	(wam)pin	nan	nan	nan	nan		
@@ -11909,7 +11896,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 507.0	meeting house	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	qab	nan	nan	nan	nan		
 507.0	meeting house	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	liɁ 'ju:n	nan	nan	nan	nan		
 508.0	floor	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	'lantai	nan	nan	nan	nan		
-508.0	floor	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 509.0	wall	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	ki'jeb	nan	nan	nan	nan		
 509.0	wall	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	oi	nan	nan	nan	nan		
 510.0	window	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	'bambaŋ	nan	nan	nan	nan		
@@ -11941,10 +11927,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 522.0	loom	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
 522.0	loom	alor1249-sar-n	Sar-Nule	Timor-Alor-Pantar	1Pantar, 1West		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
 522.0	loom	dein1238	Deing	Timor-Alor-Pantar	1Pantar, 1West		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
-522.0	loom	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 522.0	loom	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
 522.0	loom	nede1245	Nedebang	Timor-Alor-Pantar	1Pantar, 1West		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
-522.0	loom	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 522.0	loom	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
 522.0	loom	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	1Pantar, 2East		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
 522.0	loom	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	1Pantar, 2East		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
@@ -11996,7 +11980,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 532.0	priest (modern)	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	pan'deta	nan	nan	nan	nan		
 533.0	sorcerer; witch	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	ta'pasiŋ	nan	nan	nan	nan		
 533.0	sorcerer; witch	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	ta'nas	tanas=suanggi	nan	nan	nan		
-534.0	initiation ceremony	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 534.0	initiation ceremony	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	gə'reja	church ceremony	nan	nan	nan		
 535.0	sermon	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	'wan tu'tuk	nan	nan	nan	nan		
 535.0	sermon	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	'xotbah	nan	nan	nan	nan		
@@ -12100,7 +12083,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 554.0	the adultery	p-alor1249	proto-AP	Timor-Alor-Pantar			Jika seseorang yg sudah menikah atau belum menikah berhubungan badan dengan orang yg bukan isteri/suaminya.	nan	nan	nan		
 554.0	the adultery	p-east2519	proto-TIM	Timor-Alor-Pantar			Jika seseorang yg sudah menikah atau belum menikah berhubungan badan dengan orang yg bukan isteri/suaminya.	nan	nan	nan		
 554.0	the adultery	p-timo1261	proto-TAP	Timor-Alor-Pantar			Jika seseorang yg sudah menikah atau belum menikah berhubungan badan dengan orang yg bukan isteri/suaminya.	nan	nan	nan		
-555.0	penalty	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	(no data)	nan	nan	nan	nan		
 555.0	penalty	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	den'daɁ	nan	nan	nan	nan		
 555.0	penalty	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	glu'ni	nan	nan	nan	nan		
 556.0	fishnet	kaer1234-o	Kaera-Abangiwang (Orthographic)	Timor-Alor-Pantar	1Pantar, 1West	pu'kat	nan	nan	nan	nan		
