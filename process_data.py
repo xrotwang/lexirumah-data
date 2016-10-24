@@ -172,6 +172,12 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
                         None)
                     del data[i]
                     continue
+        if language not in languages.index:
+            report(
+                "Language name not found in languages list",
+                (language),
+                None)
+            continue
         for column in copy_from_languages:
             if row[column] != languages[column][language]:
                 data.set_value(i, column, languages[column][language])
