@@ -98,10 +98,13 @@ cognates["LONG_COGID"] = [
      "{:}-{:}".format(row["CONCEPT_ID"], row["COGNATE_SET"]))
     for i, row in cognates.iterrows()
     ]
+
+short = {"Austronesian": "AN",
+         "Timor-Alor-Pantar": "TAP"}
 cognates["DOCULECT"] = [
     "{:s} – {:s} {:s}".format(
         "X" if pandas.isnull(region) else region,
-        "X" if pandas.isnull(family) else family,
+        "X" if pandas.isnull(family) else short[family],
         "X" if pandas.isnull(lect) else lect)
     for lect, family, region in zip(cognates["DOCULECT"], cognates["FAMILY"], cognates["REGION"])]
 cognates.sort_values(by="DOCULECT",

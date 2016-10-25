@@ -49,7 +49,7 @@ def import_concepticon():
         concepticon_path,
         sep='\t',
         index_col="Concept ID",
-        encoding='utf-16')
+        encoding='utf-8')
     concepticon = concepticon.groupby(level=0).last()
     concepticon["db_Object"] = [
         Concept(
@@ -143,7 +143,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
     data = pandas.io.parsers.read_csv(
             path,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
 
     for column in make_sure_exists+copy_from_concepticon+copy_from_languages:
         if column not in data.columns:
@@ -153,18 +153,37 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
     for i, row in data.iterrows():
         language = row["Language_ID"]
         if pandas.isnull(language):
+            language_by_name = row.get("Language name (-dialect)")
+            if pandas.isnull(language_by_name):
+                report(
+                    "No language given!",
+                    (language),
+                    None)
+                del data[i]
+                continue
+            else:
+                get_entries = languages["Language name (-dialect)"] == language_by_name
+                if get_entries.any():
+                    language = get_entries.argmax()
+                else:
+                    report(
+                        "Language name not found in languages list",
+                        (language),
+                        None)
+                    del data[i]
+                    continue
+        if language not in languages.index:
             report(
-                "No language given!",
+                "Language name not found in languages list",
                 (language),
                 None)
-            del data[i]
             continue
         for column in copy_from_languages:
             if row[column] != languages[column][language]:
                 data.set_value(i, column, languages[column][language])
                 
         feature = row["Feature_ID"]
-        if type(feature) == float:
+        if type(feature) == float and not pandas.isnull(feature):
             feature = int(feature)
         if pandas.isnull(feature):
             en = row["English"]
@@ -237,7 +256,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
 
     if path not in trust:
         data.sort_values(by=["Feature_ID", "Family", "Region"], inplace=True)
-        data = data[[
+        first_columns = [
             "Feature_ID",
             "English",
             "Language_ID",
@@ -248,12 +267,16 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             "Comment",
             "Alignment",
             "Cognate Set",
-            "Source"]]
+            "Source"]
+        for column in data.columns:
+            if column not in first_columns:
+                first_columns.append(column)
+        data = data[first_columns]
         data.to_csv(
             path,
             index=False,
             sep="," if path.endswith(".csv") else "\t",
-            encoding='utf-16')
+            encoding='utf-8')
     return data
 
 
@@ -284,7 +307,7 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
             "all_data.tsv",
             index=False,
             sep="\t",
-            encoding='utf-16')
+            encoding='utf-8')
 
 
 def main(trust=[languages_path, concepticon_path]):
@@ -311,15 +334,16 @@ def main(trust=[languages_path, concepticon_path]):
         languages.to_csv(
             languages_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
     if concepticon_path not in trust:
         concepticon.to_csv(
             concepticon_path,
             sep='\t',
-            encoding='utf-16')
+            encoding='utf-8')
 
 import sys
-sys.argv=["i", "P:/My Documents/Database/lexibank/development.ini"]
+import lexibank
+sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(lexibank.__file__)), "development.ini")]
 
 if model_is_available:
         from clld.scripts.util import initializedb

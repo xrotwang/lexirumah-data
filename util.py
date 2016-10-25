@@ -13,7 +13,8 @@ def cldf2lingpy(path, delimiter="\t", quotechar='"'):
 
 def load_dataset(dataset, extension="tsv", delimiter="\t", quotechar='"',
         header=['CONCEPT_ID', 'CONCEPT', 'DOCULECT_ID', 'DOCULECT', 'FAMILY',
-            'REGION', 'VALUE', 'ALIGNMENT', 'COGNATE_SET', 'SOURCE']):
+                'REGION', 'VALUE', 'COMMENT', 'ALIGNMENT', 'COGNATE_SET', 'SOURCE',
+                'LOAN', 'REFERENCE', 'ORIGINAL_FILE']):
 
     files = glob(Path(dataset, '*').as_posix()+extension)
     idx = 1
@@ -24,7 +25,9 @@ def load_dataset(dataset, extension="tsv", delimiter="\t", quotechar='"',
                 if i == 0:
                     pass
                 else:
-                    D[idx] = [re.sub(r"\s+", " ", x) for x in line]
+                    D[idx] = [re.sub(r"\s+", " ", x) for x in line] + [f]
+                    if len(D[idx])!=len(header):
+                        raise ValueError(f)
                     idx += 1
     D[0] = header 
     
