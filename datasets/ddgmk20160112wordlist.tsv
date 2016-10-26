@@ -287,8 +287,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 282.0	small	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	imɔkɔ	nan	i m ɔ k ɔ	8058.0	nan		
 283.0	old; worn (house)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	(lɛ) rata	lɛ=house	r a t a -	444.0	nan		
 284.0	new (house)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	(lɛ) miri	lɛ=house	m i r i -	6456.0	nan		
-285.0	old (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	katuasi, laite	katuasi=old man; laite=old woman	k a t u a s i	6321.0	nan		
-286.0	young (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nami mɔkɔ, fanarɛ	nami mɔkɔ=young man, fanarɛ=young woman	n a m i _ m ɔ k ɔ - -	3015.0	nan		
+285.0	old (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	katuasi	katuasi=old man; laite=old woman	k a t u a s i	6321.0	nan		
+285.0	old (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	laite	katuasi=old man; laite=old woman	k a t u a s i	6321.0	nan		
+286.0	young (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nami mɔkɔ	nami mɔkɔ=young man, fanarɛ=young woman	n a m i _ m ɔ k ɔ - -	3015.0	nan		
+286.0	young (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fanarɛ	nami mɔkɔ=young man, fanarɛ=young woman	n a m i _ m ɔ k ɔ - -	3015.0	nan		
 287.0	lazy	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	culɛ	mautule = lazy person; mau=not want, tule/cule=lazy	c u l ɛ - - -	2839.0	nan		
 288.0	hot	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	timi'nɛ:	nan	t i m i ˈn ɛː	5492.0	nan		
 289.0	cold	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ɛlɛwɛ	nan	ˈɛ l ɛ w ɛ	8323.0	nan		
@@ -396,7 +398,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 387.0	to chew	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tia-tia	nan	t i a t i a	8038.0	nan		
 388.0	to yawn	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'humaɁi	nan	ˈh u - m a ʔ i	8075.0	nan		
 389.0	to suck	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'mɔsikɛ	tutu=drink, pari-pari=suck in wind (pari=wind)	- - - - ˈm ɔ s i k ɛ	7969.0	nan		
-389.0	to suck	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tutu, pari-pari	tutu=drink, pari-pari=suck in wind (pari=wind)	t u t u - - - -	3312.0	nan		
+389.0	to suck	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tutu	tutu=drink, pari-pari=suck in wind (pari=wind)	t u t u - - - -	3312.0	nan		
+389.0	to suck	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pari-pari	tutu=drink, pari-pari=suck in wind (pari=wind)	t u t u - - - -	3312.0	nan		
 390.0	to blow	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	utu'tɛfɛ	nan	u t u ˈt ɛ f ɛ	8304.0	nan		
 391.0	to spit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fulun	fulun=to spit,, ɔɁɔ papusa= saliva	f u l u - n -	1266.0	nan		
 391.0	to spit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɔɁɔ papusa	fulun=to spit,, ɔɁɔ papusa= saliva	ɔ ʔ ɔ _ p a p u s a	8311.0	nan		
@@ -408,7 +411,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 397.0	to hit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	paha	nan	p a h a -	142.0	nan		
 398.0	to slap	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'taɁal-ci'palɛ	nan	ˈt a ʔ a l c i ˈp a l ɛ	8118.0	nan		
 399.0	to bite	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	kiki'Ɂɛ	nan	k i k i ˈʔ ɛ	34.0	nan		
-400.0	to cut	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛtɛrɛ, sɔri, rɛkisɛ	tɛtɛrɛ=cut hair, sɔri=cut meat, rekise=cut wood or bone 	t ɛ t ɛ r ɛ	341.0	nan		
+400.0	to cut	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛtɛrɛ	tɛtɛrɛ=cut hair, sɔri=cut meat, rekise=cut wood or bone 	t ɛ t ɛ r ɛ	341.0	nan		
+400.0	to cut	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	sɔri	tɛtɛrɛ=cut hair, sɔri=cut meat, rekise=cut wood or bone 	t ɛ t ɛ r ɛ	341.0	nan		
+400.0	to cut	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rɛkisɛ	tɛtɛrɛ=cut hair, sɔri=cut meat, rekise=cut wood or bone 	t ɛ t ɛ r ɛ	341.0	nan		
 401.0	to cut down	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rɛ'kisɛ	nan	r ɛ ˈk i s ɛ	8103.0	nan		
 402.0	to split	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	a'tarɛ	nan	- a ˈt a r ɛ -	2643.0	nan		
 403.0	to divide	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pati	nan	p a t i - -	354.0	nan		
@@ -507,7 +512,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 495.0	woman's cross-cousin	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	lɛrɛn	nan	l ɛ r ɛ n	8128.0	nan		
 496.0	woman's younger sister	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nɔkɔ tupur	nan	n ɔ k ɔ _ t u p u r -	8100.0	nan		
 497.0	younger brother	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nɔkɔ nami	nan	n - - - ɔ k ɔ _ n a m - - i	5400.0	nan		
-498.0	brother	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	kaka, nɔkɔ	kaka=older sibling, nɔkɔ=younger sibling	k a - k a	1384.0	nan		
+498.0	brother	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	kaka	kaka=older sibling, nɔkɔ=younger sibling	k a - k a	1384.0	nan		
+498.0	brother	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nɔkɔ	kaka=older sibling, nɔkɔ=younger sibling	k a - k a	1384.0	nan		
 499.0	brother-in-law	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'wajan	nan	ˈw a j a n	8269.0	nan		
 500.0	cross-cousin	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'sajura	nan	ˈs a j u r a	6012.0	nan		
 501.0	father's sister	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tamu	nan	t a m u	7384.0	nan		

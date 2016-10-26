@@ -74,7 +74,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 34.0	(coral) reef	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kokai	nan	k o k a i - - - -	3022.0	nan		
 35.0	water (fresh)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ijä	nan	i j - - ä	1601.0	nan		
 35.0	water (fresh)	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iya	nan	i y a	5249.0	nan		
-36.0	sea; sea water	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'mä , tä.'mä  ʋäl	nan	nan	nan	nan		
+36.0	sea; sea water	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'mä	nan	nan	nan	nan		
+36.0	sea; sea water	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'mä  ʋäl	nan	nan	nan	nan		
 36.0	sea; sea water	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tama	nan	t a m a - - - - -	1001.0	nan		
 37.0	wave	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fɔj	nan	f ɔ - j	4877.0	nan		
 37.0	wave	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	foi	nan	f o i -	4877.0	nan		
@@ -186,7 +187,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 84.0	tree	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	bataa waawang	nan	b a t aa _ w aa w a n g	5026.0	nan		
 85.0	wood	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	bä.'tä:	nan	b ä ˈt äː -	830.0	nan		
 85.0	wood	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	bataa	nan	b a t aa -	830.0	nan		
-86.0	bark (of tree)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	bä.'tä:  he̞.,qul	nan	nan	nan	nan		
+86.0	bark (of tree)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	bä.'tä:  he̞.‚qul	nan	nan	nan	nan		
 86.0	bark (of tree)	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	bataa hekul	nan	b a t aa _ h e k u - l	433.0	nan		
 87.0	leaf	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	wä:.'tä.lä	nan	w äː ˈt ä l ä	4857.0	nan		
 87.0	leaf	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	waatala	nan	w aa t a l a	4857.0	nan		
@@ -390,8 +391,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 178.0	knee	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tabala buku	nan	t a b a l a _ b u k u	4865.0	nan		
 179.0	back	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞.'ui	nan	t e̞̞ ˈu i	4655.0	nan		
 179.0	back	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	teui	nan	t e u i	4655.0	nan		
-180.0	spine; lower back	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.pu.jäŋ, te̞̞.'ui te̞i.'pä	could be nasalized. Change a's later	n ä p - u j ä ŋ -	5212.0	nan		
-180.0	spine; lower back	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	napuyang, teui teipa	nan	n a p u y - a n g	5212.0	nan		
+180.0	spine; lower back	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.pu.jäŋ	could be nasalized. Change a's later	n ä p - u j ä ŋ -	5212.0	nan		
+180.0	spine; lower back	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞.'ui te̞i.'pä	could be nasalized. Change a's later	n ä p - u j ä ŋ -	5212.0	nan		
+180.0	spine; lower back	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	napuyang	nan	n a p u y - a n g	5212.0	nan		
+180.0	spine; lower back	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	teui teipa	nan	n a p u y - a n g	5212.0	nan		
 182.0	skin	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞:.qul	lengethened /e/ due to following /q/	( - - t e̞̞ː - - ) q u l - - - -	2467.0	nan		
 182.0	skin	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tekul	nan	( - - t e - - ) k u l - - - -	2467.0	nan		
 183.0	sore; wound	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.mu	nan	n ä m u	4604.0	nan		
@@ -702,8 +705,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 324.0	sour	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	alosing	nan	a l o s i n g	4863.0	nan		
 325.0	salty	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	mä:.'qäl	nan	m äː ˈq ä l -	1020.0	nan		
 325.0	salty	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	maakal	nan	m aa k a l -	1020.0	nan		
-326.0	flat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fui 'hje̞ŋ, fui täl.wɔ.lä	nan	f u i _ ˈh j e̞ - ŋ -	5140.0	nan		
-326.0	flat	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fui hieng, fui taluola	nan	f u i _ h - i e n g	5140.0	nan		
+326.0	flat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fui 'hje̞ŋ	nan	f u i _ ˈh j e̞ - ŋ -	5140.0	nan		
+326.0	flat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fui täl.wɔ.lä	nan	f u i _ ˈh j e̞ - ŋ -	5140.0	nan		
+326.0	flat	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fui hieng	nan	f u i _ h - i e n g	5140.0	nan		
+326.0	flat	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fui taluola	nan	f u i _ h - i e n g	5140.0	nan		
 327.0	smooth	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ru.'lä	nan	- r u ˈl ä - -	348.0	nan		
 327.0	smooth	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	rula	nan	- r u l a - -	348.0	nan		
 328.0	rough	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'ro.qu nähä	nan	t ä ˈr o q u _ n äh - ä	4993.0	nan		
@@ -1254,4 +1259,5 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 587.0	oven/cooking place	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	diking	nan	d i k i n g	428.0	nan		
 598.0	to chase away; to expel	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞l tä.hä.lɔi	na kaai tahaloi	h e̞ l _ t ä h ä l ɔ i	4666.0	nan		
 598.0	to chase away; to expel	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tɔ.hä.lɔi	na kaai tahaloi	- - - - t ɔ h ä l ɔ i	4666.0	nan		
-598.0	to chase away; to expel	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tohaloi, hel tahaloi	nan	- - - - t o h a l o i	4666.0	nan		
+598.0	to chase away; to expel	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hel tahaloi	nan	- - - - t o h a l o i	4666.0	nan		
+598.0	to chase away; to expel	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tohaloi	nan	- - - - t o h a l o i	4666.0	nan		

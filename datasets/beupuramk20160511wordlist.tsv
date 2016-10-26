@@ -3,7 +3,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 1.0	sun	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wɛd	w=written as v and b, but pronounced as labialized vowel or as /w/	w ɛ d -	2565.0	nan		
 2.0	moon	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uru	onsetless labialized vowel	- u r u -	503.0	nan		
 3.0	star	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	jid	onsetless palatalized vowel	j i d -	2438.0	nan		
-4.0	night	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vir 'kua, bir 'kua	nan	v i r _ ˈk u a	3097.0	nan		
+4.0	night	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vir 'kua	nan	v i r _ ˈk u a	3097.0	nan		
+4.0	night	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir 'kua	nan	v i r _ ˈk u a	3097.0	nan		
 5.0	day	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'rɛŋ	nan	t a ˈr ɛ - ŋ -	2959.0	nan		
 6.0	year	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tuŋ	nan	t u ŋ - -	171.0	nan		
 7.0	morning	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'kua 'vɛŋ	nan	ˈk u a _ ˈv ɛ ŋ	2993.0	nan		
@@ -24,19 +25,25 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 22.0	river; stream	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	moar	nan	m o - a r	2444.0	nan		
 23.0	ice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛs	nan	- ɛ s	161.0	nan		
 24.0	snow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'mopuŋ	nan	ˈm o p u ŋ	3112.0	nan		
-25.0	lake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'zalbal, 'jalval	variation in pronunciation of /z,j/ and /b,v/	ˈz a l b a l	2962.0	nan		
+25.0	lake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'jalval	variation in pronunciation of /z,j/ and /b,v/	ˈz a l b a l	2962.0	nan		
+25.0	lake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'zalbal	variation in pronunciation of /z,j/ and /b,v/	ˈz a l b a l	2962.0	nan		
 26.0	mountain	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dɔl	nan	- d - ɔ l	3073.0	nan		
 27.0	hill; ridge	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abu	onsetless vowel with small /h/ preceding it	- a - b - - u	1249.0	nan		
 28.0	village	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abaŋ	nan	- a b a ŋ -	538.0	nan		
 29.0	land; soil	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	make	nan	m a k - e -	294.0	nan		
 30.0	Earth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɔr	nan	p ɔ r	573.0	nan		
 31.0	hole	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɔr	nan	- - b ɔ r	2713.0	nan		
-32.0	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bar, var, war	variation in pronunciation of initial consonant, unlike in previous word /bor/ 'hole'	b a r -	500.0	nan		
+32.0	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bar	variation in pronunciation of initial consonant – unlike in previous word /bor/ 'hole'	b a r -	500.0	nan		
+32.0	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	var	variation in pronunciation of initial consonant	b a r -	500.0	nan		
+32.0	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	war	variation in pronunciation of initial consonant	b a r -	500.0	nan		
 33.0	coral (rock)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bar omi	nan	b a r _ o m i	2931.0	nan		
 34.0	(coral) reef	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	koka omi	nan	k o k a - _ o m i	3022.0	nan		
 35.0	water (fresh)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟar	nan	ɟ a r	3100.0	nan		
 36.0	sea; sea water	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋ	nan	t a ŋ -	340.0	nan		
-37.0	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buatele, olaŋale	ombak, gelombang	b u a t e l e	626.0	nan		
+37.0	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buatele	ombak	b u a t e l e	626.0	nan		
+37.0	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	olaŋale	ombak	b u a t e l e	626.0	nan		
+37.0	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buatele	gelombang	b u a t e l e	626.0	nan		
+37.0	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	olaŋale	gelombang	b u a t e l e	626.0	nan		
 38.0	foam	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ur	nan	u r	529.0	nan		
 39.0	forest	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'naha	nan	- - b a ˈn a h a - -	3863.0	nan		
 40.0	field	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir'pusi	nan	b i r ˈp u s i	3040.0	nan		
@@ -44,7 +51,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 42.0	rice field	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buta	nan	b u t a -	1091.0	nan		
 43.0	garden	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɓir	clip 1; 6:49 implosive b, alternative written as bil	ɓ i r - -	2999.0	nan		
 44.0	fence	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lapa	nan	l a p a -	3095.0	nan		
-45.0	road; path; way	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	via, bia	nan	v i a -	2457.0	nan		
+45.0	road; path; way	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	via	nan	v i a -	2457.0	nan		
+45.0	road; path; way	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bia	nan	v i a -	2457.0	nan		
 46.0	canoe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟe	nan	ɟ e	2705.0	nan		
 47.0	sail (n.)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'alal	nan	ˈa l a l	3103.0	nan		
 48.0	to sail	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ala'ri	nan	- a l a ˈr i	3027.0	nan		
@@ -54,7 +62,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 52.0	machete	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'pada	nan	s a ˈp a d a -	41.0	nan		
 53.0	axe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta	nan	t a - -	1319.0	nan		
 54.0	spear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dad	nan	d a d	2943.0	nan		
-55.0	burden stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tejar tebaŋ,tejar tevaŋ	nan	t e j a r _ t e b a ŋ	1340.0	nan		
+55.0	burden stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tejar tebaŋ	nan	t e j a r _ t e b a ŋ	1340.0	nan		
+55.0	burden stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tejar tevaŋ	nan	t e j a r _ t e b a ŋ	1340.0	nan		
 56.0	stick; pole	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	doba	nan	d o b a -	521.0	nan		
 57.0	digging stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	s%kop	nan	s % k o p	3006.0	nan		
 59.0	bow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	humat	nan	h u m a t	1056.0	nan		
@@ -65,7 +74,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 64.0	needle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batul	nan	b a t - u l	912.0	nan		
 65.0	clothing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kondo	kondo=shirt, noaŋ=kain, deko=trousers	k o n d o	94.0	nan		
 67.0	fire	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'viliŋ	nan	a d - _ ˈv i l i ŋ -	1301.0	nan		
-68.0	smoke	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'vanak, ad 'banak	nan	a d - - _ - - ˈv a n a - k -	998.0	nan		
+68.0	smoke	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'vanak	nan	a d - - _ - - ˈv a n a - k -	998.0	nan		
+68.0	smoke	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'banak	nan	a d - - _ - - ˈv a n a - k -	998.0	nan		
 70.0	dust; fine earth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	maro	nan	m a r o - -	1470.0	nan		
 71.0	fireplace ash	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	debaŋ 'maro	debaŋ=tungku, maro= ash	d e b a ŋ _ ˈm a r o	3069.0	nan		
 72.0	mud	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'nakuŋ	nan	b a ˈn a k u ŋ	1367.0	nan		
@@ -74,7 +84,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 75.0	sand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɓehi	both pronounce it with a slighly implosive ɓ	ɓ e h i -	2461.0	nan		
 76.0	grass; brush	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	napa	nan	n a p a -	2497.0	nan		
 77.0	house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava	nan	h a v a - -	4532.0	nan		
-78.0	traditional house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava suku, lelaŋ hava	nan	h a v a _ s u k u	2525.0	nan		
+78.0	traditional house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava suku	nan	h a v a _ s u k u	2525.0	nan		
+78.0	traditional house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lelaŋ hava	nan	h a v a _ s u k u	2525.0	nan		
 79.0	barn; storage house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mɛraŋ	nan	m ɛ r a ŋ -	1562.0	nan		
 80.0	raised platform	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dei	nan	d e - i	1079.0	nan		
 81.0	door	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tundir	nan	t u n d i r	980.0	nan		
@@ -87,7 +98,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 88.0	branch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'Ɂataŋ	nan	t e ˈʔ a t a ŋ -	221.0	nan		
 89.0	firewood	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'dera	nan	- a ˈd e r a	1439.0	nan		
 90.0	rattan	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lia	nan	l i - - - a	378.0	nan		
-91.0	root	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teva'rikiŋ, teba'rikiŋ	nan	t e v a ˈr i k i ŋ	2915.0	nan		
+91.0	root	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teva'rikiŋ	nan	t e v a ˈr i k i ŋ	2915.0	nan		
+91.0	root	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teba'rikiŋ	nan	t e v a ˈr i k i ŋ	2915.0	nan		
 92.0	fruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'hi:	nan	t e ˈh iː	2937.0	nan		
 93.0	seed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekokar	alternative written as ekokal	- e k o k - a r	2912.0	nan		
 94.0	grain; cereal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod	nan	m o d	1201.0	nan		
@@ -117,7 +129,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 119.0	gum tree; eucalyptus	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te maɟa	nan	t e - _ m a ɟ a -	3003.0	nan		
 120.0	bamboo	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɛtuŋ	nan	p ɛ t u ŋ	3902.0	nan		
 121.0	banana	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mɔl	nan	m ɔ - - l -	7647.0	nan		
-122.0	mango	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	viat, biat	nan	v i - a t	483.0	nan		
+122.0	mango	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	viat	nan	v i - a t	483.0	nan		
+122.0	mango	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	biat	nan	v i - a t	483.0	nan		
 123.0	papaya	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kasi	nan	k a s - i	1055.0	nan		
 124.0	jackfruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tona	nan	- t - o n a	286.0	nan		
 125.0	breadfruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	undur	nan	- u n d u r	890.0	nan		
@@ -148,7 +161,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 152.0	chin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'va:	written with w	t a - ˈv aː	2545.0	nan		
 153.0	lips	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iɓar	slightly implosive b	- i - - ɓ a r	2524.0	nan		
 154.0	teeth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aveŋ	nan	- a v e ŋ	2861.0	nan		
-155.0	tongue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	azabur, aɟabur	nan	- a z a - b u r -	2519.0	nan		
+155.0	tongue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	azabur	nan	- a z a - b u r -	2519.0	nan		
+155.0	tongue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aɟabur	nan	- a z a - b u r -	2519.0	nan		
 156.0	neck	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abo	nan	- a b o	408.0	nan		
 157.0	shoulder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aɓea	slightly implosive b	a ɓ e - a -	3066.0	nan		
 158.0	body	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	eboa	nan	- e b o a	3062.0	nan		
@@ -169,12 +183,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 173.0	testicles	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kokar	nan	k o k a r -	3067.0	nan		
 174.0	leg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nia	nan	n i - - - a	2734.0	nan		
 175.0	foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nia	nan	n i a	3065.0	nan		
-176.0	heel of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uda 'vari, uda 'wari	nan	- - - - - - u d a _ ˈv a r i	2750.0	nan		
+176.0	heel of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uda 'vari	nan	- - - - - - u d a _ ˈv a r i	2750.0	nan		
+176.0	heel of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uda 'wari	nan	- - - - - - u d a _ ˈv a r i	2750.0	nan		
 177.0	sole of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tia omi	nan	t i - a - - _ - o m i	1528.0	nan		
 178.0	knee	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ia kuku	nan	- i - a - _ k u k u	1469.0	nan		
 179.0	back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amo'ta	nan	- a - m o ˈt a	2547.0	nan		
-180.0	spine; lower back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ, taha waŋ	nan	t a h a _ b a ŋ	2971.0	nan		
-181.0	waist	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ, taha waŋ	nan	t a h a _ b a ŋ	1326.0	nan		
+180.0	spine; lower back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ	nan	t a h a _ b a ŋ	2971.0	nan		
+180.0	spine; lower back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha waŋ	nan	t a h a _ b a ŋ	2971.0	nan		
+181.0	waist	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ	nan	t a h a _ b a ŋ	1326.0	nan		
+181.0	waist	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha waŋ	nan	t a h a _ b a ŋ	1326.0	nan		
 182.0	skin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ebuar	nan	- e b u a r	3037.0	nan		
 183.0	sore; wound	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bata	nan	b a t a - - -	987.0	nan		
 184.0	ringworm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vanai	written with w	v a n a - i	2917.0	nan		
@@ -185,7 +202,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 189.0	cold; influenza	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tamiŋ 'omi ta'buhi	nose inside sesak	t a m i ŋ _ ˈo m i _ t a ˈb u h i	2568.0	nan		
 190.0	person	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aiŋ	nan	- a i ŋ -	2553.0	nan		
 191.0	name	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛnɛ	nan	- - ɛ - n ɛ - -	1383.0	nan		
-192.0	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka'neŋ, bal ka'kari, wal kakari	nan	k a k a ˈn e - ŋ -	6425.0	nan		
+192.0	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka'neŋ	nan	k a k a ˈn e - ŋ -	6425.0	nan		
+192.0	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bal ka'kari	nan	k a k a ˈn e - ŋ -	6425.0	nan		
+192.0	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wal kakari	nan	k a k a ˈn e - ŋ -	6425.0	nan		
 193.0	man	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'mehal	nan	n e h e ˈm e h a l	460.0	nan		
 194.0	woman	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'ɟaŋu	nan	n e h e ˈɟ a ŋ u	2969.0	nan		
 195.0	husband	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	emehal	nan	- e m e h a l	856.0	nan		
@@ -249,7 +268,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 254.0	crocodile	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'bapa	nan	ˈb a p a -	71.0	nan		
 255.0	monitor lizard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari	nan	- - a r i - -	520.0	nan		
 256.0	starfish	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋ hi'lawa	nan	t a ŋ _ h i ˈl a w a	2947.0	nan		
-257.0	turtle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarbo, ɟarɓo	alternative pronunciation with plain or implosive ɓ	ɟ a r b o	2929.0	nan		
+257.0	turtle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarbo	alternative pronunciation with plain or implosive ɓ	ɟ a r b o	2929.0	nan		
+257.0	turtle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarɓo	alternative pronunciation with plain or implosive ɓ	ɟ a r b o	2929.0	nan		
 258.0	turtle (saltwater)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarbo	nan	ɟ a r b o	3109.0	nan		
 259.0	bird	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	duŋ	nan	- d u - ŋ -	1061.0	nan		
 260.0	wing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'abat	nan	- ˈa b a t - -	2535.0	nan		
@@ -281,10 +301,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 286.0	young (people)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe 'kuar	nan	n e h e _ - - ˈk u a r	3015.0	nan		
 287.0	lazy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	maɟaruŋ niaŋ	nan	m a ɟ a r u ŋ _ n i a ŋ	3056.0	nan		
 288.0	hot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tutuŋ	nan	t u t u ŋ -	2973.0	nan		
-289.0	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟabi, ka'ɟavi, ka'ɟawi	nan	k a ˈɟ a b i -	3007.0	nan		
+289.0	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟabi	nan	k a ˈɟ a b i -	3007.0	nan		
+289.0	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟavi	nan	k a ˈɟ a b i -	3007.0	nan		
+289.0	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟawi	nan	k a ˈɟ a b i -	3007.0	nan		
 290.0	good	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	auŋ	nan	- a - u ŋ	2555.0	nan		
 291.0	bad	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟasi	nan	ɟ a s i	682.0	nan		
-292.0	full	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aviŋ,  awiŋ	nan	nan	nan	nan		
+292.0	full	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aviŋ	nan	nan	nan	nan		
+292.0	full	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	 awiŋ	nan	nan	nan	nan		
 293.0	empty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	osiŋ	nan	- o s i ŋ	2413.0	nan		
 294.0	near	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	peaŋ	nan	p e - a ŋ	818.0	nan		
 295.0	far	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɔla	nan	ɔ l a	921.0	nan		
@@ -303,7 +326,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 311.0	sharp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma:ŋ	nan	m aː - - ŋ -	1077.0	nan		
 312.0	blunt; dull	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'kumal	nan	ˈk u m - - a l -	744.0	nan		
 313.0	heavy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'madi	nan	t a ˈm a d i -	1242.0	nan		
-314.0	light (weight)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vila, wila	nan	- v i l a -	1156.0	nan		
+314.0	light (weight)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vila	nan	- v i l a -	1156.0	nan		
+314.0	light (weight)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wila	nan	- v i l a -	1156.0	nan		
 315.0	straight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	molo	nan	- m o l o - - - -	195.0	nan		
 316.0	wide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɛraŋ	nan	- b ɛ r a ŋ	2825.0	nan		
 318.0	correct	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	auŋ	nan	a u ŋ	3032.0	nan		
@@ -325,8 +349,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 334.0	yellow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'Ɂori	nan	b a ˈʔ o r i	1598.0	nan		
 335.0	sick; painful	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dira	nan	d i r a -	2417.0	nan		
 336.0	shy; ashamed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava'loriŋ	nan	a v a ˈl o r i ŋ	1364.0	nan		
-337.0	thirsty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	avo ta'Ɂata, abo ta'Ɂata	nan	- a v o - - _ t a ˈʔ a t a	2474.0	nan		
-338.0	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'lapal, ava ma'lapal	nan	m a ˈl a p a l	2478.0	nan		
+337.0	thirsty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	avo ta'Ɂata	nan	- a v o - - _ t a ˈʔ a t a	2474.0	nan		
+337.0	thirsty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abo ta'Ɂata	nan	- a v o - - _ t a ˈʔ a t a	2474.0	nan		
+338.0	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'lapal	nan	m a ˈl a p a l	2478.0	nan		
+338.0	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava ma'lapal	nan	m a ˈl a p a l	2478.0	nan		
 339.0	blind	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛŋ'ɟasi	nan	t ɛ ŋ ˈɟ a s i	2709.0	nan		
 340.0	deaf	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taveriŋ kabe	taveriŋ=ear	t a v e r i ŋ _ k a b e	3052.0	nan		
 341.0	scared	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	t-uaŋ 'mari	nan	- - t u - a ŋ _ ˈm a r i	2974.0	nan		
@@ -343,8 +369,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 352.0	to lie down	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tia-tia	nan	t i a t i a	5703.0	nan		
 353.0	to sleep	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'baina	nan	ˈb a i n a	3120.0	nan		
 354.0	to wake up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tahi	nan	ˈt a h - - i	1052.0	nan		
-355.0	to wake someone up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɔt 'tahi, a tahiŋ	nan	- - ɔ t - _ ˈt a h i	2970.0	nan		
-356.0	to bathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wera, bera	nan	- - w e r a	2541.0	nan		
+355.0	to wake someone up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɔt 'tahi	nan	- - ɔ t - _ ˈt a h i	2970.0	nan		
+355.0	to wake someone up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a tahiŋ	nan	- - ɔ t - _ ˈt a h i	2970.0	nan		
+356.0	to bathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wera	nan	- - w e r a	2541.0	nan		
+356.0	to bathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bera	nan	- - w e r a	2541.0	nan		
 357.0	to bathe (a child)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a 'wera	nan	- a - - - _ ˈw e r a	2694.0	nan		
 358.0	to sit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mihi	nan	- - m i h - i - -	299.0	nan		
 359.0	to stand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tahi	nan	- t a h i	4786.0	nan		
@@ -369,7 +397,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 378.0	to wipe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir 'doho	nan	b i r _ ˈd o h o	3079.0	nan		
 379.0	to come	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hoa	nan	h o a	2711.0	nan		
 380.0	to laugh	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'lela	nan	p a ˈl e l a	2980.0	nan		
-381.0	to cry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vau, bau	nan	v a - u	3111.0	nan		
+381.0	to cry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vau	nan	v a - u	3111.0	nan		
+381.0	to cry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bau	nan	v a - u	3111.0	nan		
 382.0	to dance	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sara sumba	nan	s a r a _ s u m b a	2778.0	nan		
 383.0	to sing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dar ohi	nan	d a r _ - o h i -	1211.0	nan		
 384.0	to burn (clear land)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bil ade	bil=garden, place; ade=burn	b i l _ - a d e -	2530.0	nan		
@@ -380,11 +409,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 389.0	to suck	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dumiŋ	nan	k a ˈd u m i ŋ - - -	7969.0	nan		
 390.0	to blow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	apu	nan	- - a p - - u	2523.0	nan		
 391.0	to spit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	puruŋ	nan	p u r u - ŋ -	1266.0	nan		
-392.0	to vomit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	boal;  ida	nan	nan	nan	nan		
+392.0	to vomit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ida	nan	nan	nan	nan		
+392.0	to vomit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	boal	nan	nan	nan	nan		
 393.0	to rub	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	osoŋ	nan	o s o ŋ -	969.0	nan		
 394.0	to scratch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'rabi	nan	k a - ˈr a b i -	633.0	nan		
 395.0	itchy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka	nan	k a k a -	269.0	nan		
-396.0	to swell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'baraŋ, va'varaŋ	nan	b a ˈb a r a ŋ	250.0	nan		
+396.0	to swell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'baraŋ	nan	b a ˈb a r a ŋ	250.0	nan		
+396.0	to swell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	va'varaŋ	nan	b a ˈb a r a ŋ	250.0	nan		
 397.0	to hit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bue	nan	b u - e -	142.0	nan		
 398.0	to slap	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paru	nan	p a r u - -	1538.0	nan		
 399.0	to bite	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabar iŋ 'adaŋ	adaŋ=bite	ɟ a b a r _ i ŋ _ ˈa d a ŋ	2976.0	nan		
@@ -393,9 +424,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 402.0	to split	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'kahi	nan	- a ˈk a h i	1287.0	nan		
 403.0	to divide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paul	nan	p a u l	2506.0	nan		
 404.0	to stab	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋi	nan	t a ŋ - i	2495.0	nan		
-405.0	to skewer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	zabak, ɟabak	nan	z a b a k	3039.0	nan		
+405.0	to skewer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	zabak	nan	z a b a k	3039.0	nan		
+405.0	to skewer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabak	nan	z a b a k	3039.0	nan		
 406.0	to fight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oraŋ	nan	o r a ŋ	3098.0	nan		
-407.0	to guard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'buaŋ, weŋ 'buaŋ	nan	v e ŋ _ ˈb u - a ŋ	1103.0	nan		
+407.0	to guard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'buaŋ	nan	v e ŋ _ ˈb u - a ŋ	1103.0	nan		
+407.0	to guard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	weŋ 'buaŋ	nan	v e ŋ _ ˈb u - a ŋ	1103.0	nan		
 408.0	to throw	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'oda	nan	- ˈo d a	997.0	nan		
 409.0	to hunt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teri	nan	a ˈt e r i	2960.0	nan		
 410.0	to kill	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'meaŋ	nan	- - - a ˈm e a ŋ - -	2621.0	nan		
@@ -420,8 +453,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430.0	to squeeze	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'omi	nan	k a ˈo m - - i	392.0	nan		
 431.0	to buy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'beli	nan	- - ˈb e l i	474.0	nan		
 432.0	to sell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'bali	nan	- a ˈb a l i -	2412.0	nan		
-433.0	to steal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taɁavi, taɁabi	nan	t a ʔ a v i -	387.0	nan		
-434.0	to open	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava'lɛlɛŋ, aba'lɛlɛŋ	nan	- a v a ˈl ɛ l ɛ ŋ	2754.0	nan		
+433.0	to steal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taɁavi	nan	t a ʔ a v i -	387.0	nan		
+433.0	to steal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taɁabi	nan	t a ʔ a v i -	387.0	nan		
+434.0	to open	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava'lɛlɛŋ	nan	- a v a ˈl ɛ l ɛ ŋ	2754.0	nan		
+434.0	to open	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aba'lɛlɛŋ	nan	- a v a ˈl ɛ l ɛ ŋ	2754.0	nan		
 435.0	to close	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ'teriŋ	nan	v e ŋ ˈt e r i ŋ - - - - - - - - - - - -	1110.0	nan		
 436.0	to climb	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'mida	nan	ˈm i - - d a -	2805.0	nan		
 437.0	to hide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'miŋa	nan	- a ˈm i ŋ a	2604.0	nan		
@@ -436,7 +471,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 446.0	to call out	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'moriŋ	nan	ˈm o - - r i ŋ -	2528.0	nan		
 447.0	to lie (tell untruth)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'bule	nan	k a ˈb u l e	2640.0	nan		
 448.0	to ask (question)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adaŋ'taɁaniŋ	nan	a d a ŋ ˈt a ʔ a n i ŋ	2964.0	nan		
-449.0	to count	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	rɛkɛŋ, ta'anaŋ	nan	r ɛ k ɛ ŋ -	162.0	nan		
+449.0	to count	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	rɛkɛŋ	nan	r ɛ k ɛ ŋ -	162.0	nan		
+449.0	to count	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'anaŋ	nan	r ɛ k ɛ ŋ -	162.0	nan		
 450.0	one	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nu	nan	- n - - u	418.0	nan		
 451.0	two	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aru	nan	- a r u -	108.0	nan		
 452.0	three	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tue	nan	t u - - e	12.0	nan		
@@ -481,7 +517,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 491.0	nephew; niece	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nebilaŋ	nan	n e b i l a ŋ -	944.0	nan		
 492.0	older brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ale	ale=big, 	n e k a k u ˈa l e	951.0	nan		
 493.0	older sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nedi'ɟaŋu	ɟaŋu=female	n e d i ˈɟ a ŋ u	2979.0	nan		
-494.0	sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu, nedi'ɟaŋu	nan	n e k a k u ˈɟ a ŋ u	3004.0	nan		
+494.0	sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu	nan	n e k a k u ˈɟ a ŋ u	3004.0	nan		
+494.0	sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nedi'ɟaŋu	nan	n e k a k u ˈɟ a ŋ u	3004.0	nan		
 495.0	woman's cross-cousin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu e'kiki	nan	n e k a k u ˈɟ a ŋ u _ e ˈk i k i	2987.0	nan		
 496.0	woman's younger sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu e'kiki	ekiki=under, younger	n e k a k u ˈɟ a ŋ u _ - e ˈk i k i	1019.0	nan		
 497.0	younger brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'mehal e'kiki	mehal=male	n e k a k u ˈm e h a l _ - e ˈk i k i	1286.0	nan		
@@ -489,10 +526,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 499.0	brother-in-law	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'biaŋ	nan	n a ˈb i a ŋ -	6249.0	nan		
 500.0	cross-cousin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nima'ɛla 'oal nabisa 'medi	my paman's child that I can marry; medi=marry	n i m a ˈɛ l a _ ˈo a l _ n a b i s a _ ˈm e d i	3122.0	nan		
 501.0	father's sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	niman e'kaku 'ɟaŋu	nan	n i m a n _ e ˈk a k u _ ˈɟ a ŋ u	3105.0	nan		
-502.0	ridge(pole); peak; tip	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nɔk, oŋ'dudul	nɔk=Dutch borrowing	n ɔ k	3106.0	nan		
+502.0	ridge(pole); peak; tip	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nɔk	nɔk=Dutch borrowing	n ɔ k	3106.0	nan		
+502.0	ridge(pole); peak; tip	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ'dudul	nɔk=Dutch borrowing	n ɔ k	3106.0	nan		
 503.0	rack(above hearth/for storing food)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tetu	nan	t e t u	2955.0	nan		
 504.0	broom; sweep	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'buraŋ	nan	h a ˈb u r a ŋ	943.0	nan		
-505.0	ground for ritual activities and public meetings	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	la'paŋan, bir'bira	birbira=tempat rata	- - l a ˈp a ŋ a n	3036.0	nan		
+505.0	ground for ritual activities and public meetings	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	la'paŋan	birbira=tempat rata	- - l a ˈp a ŋ a n	3036.0	nan		
+505.0	ground for ritual activities and public meetings	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir'bira	birbira=tempat rata	- - l a ˈp a ŋ a n	3036.0	nan		
 506.0	mound of stones for ritual activities	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	doru	nan	d o r u	1264.0	nan		
 507.0	meeting house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lelaŋ'hava	hava/haba=house	l e l a ŋ ˈh a v a	2919.0	nan		
 508.0	floor	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava'omi 'bira	hava=house, omi= inside, bira= flat	h a v a ˈo m i _ ˈb i r a	2928.0	nan		
@@ -503,23 +542,34 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 513.0	chair	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dera	nan	k a - ˈd e - r a	1271.0	nan		
 514.0	lamp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lampu	nan	l a m p u -	2992.0	nan		
 515.0	candle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ud	nan	u d	8296.0	nan		
-516.0	to weave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dei, nadei	nan	- d e i -	2051.0	nan		
+516.0	to weave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dei	nan	- d e i -	2051.0	nan		
+516.0	to weave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nadei	nan	- d e i -	2051.0	nan		
 517.0	shirt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	konde	nan	k o n d e -	1032.0	nan		
 518.0	necklace	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bab	nan	b a b -	892.0	nan		
-519.0	earring	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be, we	discussion of pronunciation clip 4, 13:00 min	b e	2949.0	nan		
-520.0	trousers	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	deko ia a'veniŋ, deko ia a'weniŋ	deko=trousers, ia=leg, avenwiŋ=long	d e k o _ i a _ a ˈv e n i ŋ	2904.0	nan		
+519.0	earring	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be	discussion of pronunciation clip 4	b e	2949.0	nan		
+519.0	earring	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	we	discussion of pronunciation clip 4	b e	2949.0	nan		
+519.0	earring	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be	13:00 min	b e	2949.0	nan		
+519.0	earring	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	we	13:00 min	b e	2949.0	nan		
+520.0	trousers	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	deko ia a'veniŋ	deko=trousers, ia=leg	d e k o _ i a _ a ˈv e n i ŋ	2904.0	nan		
+520.0	trousers	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	deko ia a'weniŋ	deko=trousers, ia=leg	d e k o _ i a _ a ˈv e n i ŋ	2904.0	nan		
 521.0	sarong (women)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iaŋ nehe 'ɟaŋu	nan	i a ŋ _ n e h e _ ˈɟ a ŋ u	2954.0	nan		
 522.0	loom	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'liaŋ	nan	p a ˈl i a ŋ	3064.0	nan		
 523.0	thread	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'api	nan	- ˈa p i - - - -	1276.0	nan		
-524.0	to worship	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ, sem'baɟaŋ	nan	s a m ˈb a ɟ a ŋ	2945.0	nan		
+524.0	to worship	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ	nan	s a m ˈb a ɟ a ŋ	2945.0	nan		
+524.0	to worship	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sem'baɟaŋ	nan	s a m ˈb a ɟ a ŋ	2945.0	nan		
 525.0	holy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'mulaŋ	nan	h a ˈm u l a ŋ -	3099.0	nan		
 526.0	to bless	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	naiŋ 'moliŋ	moliŋ=to help; naing=1sg. moliŋ also means 'be weak'. 	n a i ŋ _ ˈm o l i ŋ	2899.0	nan		
 527.0	God	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	Laha'tala	nan	L a h a ˈt a l a	1241.0	nan		
-528.0	to pray	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ, sem'baɟaŋ	nan	s a m ˈb a ɟ a ŋ	2924.0	nan		
+528.0	to pray	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ	nan	s a m ˈb a ɟ a ŋ	2924.0	nan		
+528.0	to pray	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sem'baɟaŋ	nan	s a m ˈb a ɟ a ŋ	2924.0	nan		
 529.0	church	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ga'rija	nan	- g a ˈr i j a	1098.0	nan		
-530.0	mosque	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'sigit, uma 'sigit	nan	- m a ˈs i - g i t	1305.0	nan		
+530.0	mosque	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'sigit	nan	- m a ˈs i - g i t	1305.0	nan		
+530.0	mosque	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uma 'sigit	nan	- m a ˈs i - g i t	1305.0	nan		
 531.0	to curse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'gamar	nan	n e h e ˈg a m a r	3083.0	nan		
-532.0	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nita, ɟou	panita=pendeta, ɟou=imam	p a ˈn i - t a - -	1035.0	nan		
+532.0	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nita	panita=pendeta	p a ˈn i - t a - -	1035.0	nan		
+532.0	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟou	panita=pendeta	p a ˈn i - t a - -	1035.0	nan		
+532.0	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nita	ɟou=imam	p a ˈn i - t a - -	1035.0	nan		
+532.0	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟou	ɟou=imam	p a ˈn i - t a - -	1035.0	nan		
 533.0	sorcerer; witch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tani	nan	t a n i - - - -	1012.0	nan		
 535.0	sermon	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	Laha'tala ehur weŋ sarinta	e-hur=2sG-word; weŋ=veŋ, sarinta=tutuk=talk 	L a h a ˈt a l a _ e h u r _ w e ŋ _ s a r i n t a	2966.0	nan		
 536.0	sacrifice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ameaŋ	ameaŋ=what is sacrified	a m e a ŋ	3005.0	nan		
@@ -535,7 +585,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 547.0	to command or order	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ'gahiŋ	nan	( i ŋ ) ˈg a h - i ŋ	1097.0	nan		
 548.0	dowry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ a'boi	nan	v e ŋ _ a ˈb o i	2950.0	nan		
 550.0	accuse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ eniŋ a'hala	lit. make him be.wrong	i ŋ _ e n i ŋ _ a ˈh a l a	3116.0	nan		
-551.0	guilty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ahala, ahalaŋ	nan	a h a l a	3054.0	nan		
+551.0	guilty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ahala	nan	a h a l a	3054.0	nan		
+551.0	guilty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ahalaŋ	nan	a h a l a	3054.0	nan		
 552.0	innocent	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'molo	lit. be true, be right	n e ˈm o - - l o	3093.0	nan		
 553.0	the murder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe a'meaŋ	nan	n e h e _ a ˈm e a ŋ	2921.0	nan		
 554.0	the adultery	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buha	lit. eat betelnut (makan pinang)	b u h a	905.0	nan		
@@ -562,7 +613,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 575.0	to refuse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tobaŋ	nan	- a ˈt o b a ŋ	960.0	nan		
 576.0	to whisper	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nana	nan	- - p a ˈn a n a	3035.0	nan		
 577.0	to be silent	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'imaŋ	nan	t a ˈi m a ŋ	2994.0	nan		
-578.0	to tell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'renta, veŋ tutuk	nan	s a ˈr e n t a	3071.0	nan		
+578.0	to tell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'renta	nan	s a ˈr e n t a	3071.0	nan		
+578.0	to tell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ tutuk	nan	s a ˈr e n t a	3071.0	nan		
 579.0	to learn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be'laɟar	nan	b e ˈl a ɟ a r	1318.0	nan		
 580.0	to teach	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	i'tubiŋ	nan	i ˈt u b i ŋ	3021.0	nan		
 581.0	easy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'kali	nan	s a ˈk a l i	2982.0	nan		

@@ -16,9 +16,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 14.0	wind	keda1252	Kedang	Austronesian	8Lembata	aː'ŋin	nan	- aː ˈŋ i n	8525	nan		
 15.0	rain	keda1252	Kedang	Austronesian	8Lembata	u'ja	nan	- u ˈj a -	8716	nan		
 16.0	drizzle	keda1252	Kedang	Austronesian	8Lembata	rɪtɪʔ	nan	- - - - r ɪ t ɪ ʔ -	8738	nan		
-17.0	rainbow	keda1252	Kedang	Austronesian	8Lembata	nado, tado	nan	n a d o	9488	nan		
+17.0	rainbow	keda1252	Kedang	Austronesian	8Lembata	nado	nan	n a d o	9488	nan		
+17.0	rainbow	keda1252	Kedang	Austronesian	8Lembata	tado	nan	n a d o	9488	nan		
 18.0	thunder	keda1252	Kedang	Austronesian	8Lembata	nɛ'duŋ	bunyinya	n ɛ ˈd u ŋ	9596	nan		
-19.0	lightning	keda1252	Kedang	Austronesian	8Lembata	'nilaʔ, 'kilaʔ	kilatan, cahaya	- - - - - - - - - ˈn i l a ʔ	8709	nan		
+19.0	lightning	keda1252	Kedang	Austronesian	8Lembata	'nilaʔ	kilatan	- - - - - - - - - ˈn i l a ʔ	8709	nan		
+19.0	lightning	keda1252	Kedang	Austronesian	8Lembata	'kilaʔ	cahaya	- - - - - - - - - ˈn i l a ʔ	8709	nan		
 20.0	earthquake	keda1252	Kedang	Austronesian	8Lembata	nɛju	nan	n ɛ j u	9501	nan		
 21.0	fog	keda1252	Kedang	Austronesian	8Lembata	ʔɔwa	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	ʔ ɔ w a - - - - - -	8774	nan		
 22.0	river; stream	keda1252	Kedang	Austronesian	8Lembata	wɛi	nan	w ɛ - i	4196	nan		
@@ -39,7 +41,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 39.0	forest	keda1252	Kedang	Austronesian	8Lembata	tu'wɛn	nan	nan	w	nan		
 40.0	field	keda1252	Kedang	Austronesian	8Lembata	'wuru	nan	nan	o	nan		
 41.0	island	keda1252	Kedang	Austronesian	8Lembata	ʔauʔ	nan	nan	nan	nan		
-42.0	rice field	keda1252	Kedang	Austronesian	8Lembata	'lumɑr, sawa	nan	nan	2	nan		
+42.0	rice field	keda1252	Kedang	Austronesian	8Lembata	'lumɑr	nan	nan	2	nan		
+42.0	rice field	keda1252	Kedang	Austronesian	8Lembata	sawa	nan	nan	2	nan		
 43.0	garden	keda1252	Kedang	Austronesian	8Lembata	'lumɑr	nan	nan	n	nan		
 44.0	fence	keda1252	Kedang	Austronesian	8Lembata	ni'hɛ	nan	nan	1	nan		
 45.0	road; path; way	keda1252	Kedang	Austronesian	8Lembata	'lala	nan	nan	nan	nan		
@@ -84,7 +87,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 87.0	leaf	keda1252	Kedang	Austronesian	8Lembata	'lɔlɔn	nan	nan	o	nan		
 88.0	branch	keda1252	Kedang	Austronesian	8Lembata	li'maʔ	cabang pohon	nan	p	nan		
 89.0	firewood	keda1252	Kedang	Austronesian	8Lembata	'ʔai 'japi	nan	nan	m	nan		
-90.0	rattan	keda1252	Kedang	Austronesian	8Lembata	wua'wɛi, 'wɛi	nan	nan	m	nan		
+90.0	rattan	keda1252	Kedang	Austronesian	8Lembata	wua'wɛi	nan	nan	m	nan		
+90.0	rattan	keda1252	Kedang	Austronesian	8Lembata	'wɛi	nan	nan	m	nan		
 91.0	root	keda1252	Kedang	Austronesian	8Lembata	ramuʔ	nan	nan	1	nan		
 92.0	fruit	keda1252	Kedang	Austronesian	8Lembata	uan	nan	nan	n	nan		
 93.0	seed	keda1252	Kedang	Austronesian	8Lembata	ʔu'luʔ	nan	nan	h	nan		
@@ -106,14 +110,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 110.0	millet	keda1252	Kedang	Austronesian	8Lembata	wɛ'rɛʔ	nan	nan	9	nan		
 111.0	sugarcane	keda1252	Kedang	Austronesian	8Lembata	tɛ'hu	nan	nan	2	nan		
 112.0	corn; maize	keda1252	Kedang	Austronesian	8Lembata	'wɑtɑr	nan	ˈw ɑ t ɑ r	580	nan		
-113.0	cooked corn	keda1252	Kedang	Austronesian	8Lembata	lalaʔ 'wɑtɑr, wɑtɑr tun	lalaʔ=rice, tun=prepared	l a l a ʔ _ ˈw ɑ t ɑ r	9727	nan		
+113.0	cooked corn	keda1252	Kedang	Austronesian	8Lembata	lalaʔ 'wɑtɑr	lalaʔ=rice, tun=prepared	l a l a ʔ _ ˈw ɑ t ɑ r	9727	nan		
+113.0	cooked corn	keda1252	Kedang	Austronesian	8Lembata	wɑtɑr tun	lalaʔ=rice, tun=prepared	l a l a ʔ _ ˈw ɑ t ɑ r	9727	nan		
 114.0	coconut	keda1252	Kedang	Austronesian	8Lembata	taʔ	nan	t a ʔ -	8755	nan		
 115.0	gwang	keda1252	Kedang	Austronesian	8Lembata	x	nan	- - - - - x - -	3325	nan		
 116.0	lontar palm	keda1252	Kedang	Austronesian	8Lembata	ʔɔ'rɔ	nan	nan	o	nan		
 117.0	sugar palm	keda1252	Kedang	Austronesian	8Lembata	pɔ'le	nan	p ɔ ˈl e -	9363	nan		
 118.0	marungga	keda1252	Kedang	Austronesian	8Lembata	'mɔtɔŋ	nan	nan	2	nan		
 119.0	gum tree; eucalyptus	keda1252	Kedang	Austronesian	8Lembata	ʔaju 'bujaʔ	nan	nan	nan	nan		
-120.0	bamboo	keda1252	Kedang	Austronesian	8Lembata	pe'ruŋ, be'riŋ, aur	larɡe, medium, small bamboo	nan	2	nan		
+120.0	bamboo	keda1252	Kedang	Austronesian	8Lembata	pe'ruŋ	larɡe	nan	2	nan		
+120.0	bamboo	keda1252	Kedang	Austronesian	8Lembata	be'riŋ	medium	nan	2	nan		
+120.0	bamboo	keda1252	Kedang	Austronesian	8Lembata	aur	small bamboo	nan	2	nan		
 121.0	banana	keda1252	Kedang	Austronesian	8Lembata	mu'ʔ̚ũ	nan	nan	1	nan		
 122.0	mango	keda1252	Kedang	Austronesian	8Lembata	'peu	nan	nan	1	nan		
 123.0	papaya	keda1252	Kedang	Austronesian	8Lembata	wa'ja	nan	nan	m	nan		
@@ -216,8 +223,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 222.0	how?	keda1252	Kedang	Austronesian	8Lembata	nara 'bɔnɛ	nan	nan	u	nan		
 223.0	this	keda1252	Kedang	Austronesian	8Lembata	'nɔʔɔ	nan	nan	c	nan		
 224.0	that	keda1252	Kedang	Austronesian	8Lembata	no'beʔ	nan	nan	q	nan		
-225.0	at	keda1252	Kedang	Austronesian	8Lembata	diʔ, bɛʔ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	5	nan		
-226.0	in; inside	keda1252	Kedang	Austronesian	8Lembata	bɛʔ, bɛʔ 'lalɛŋ	bɛʔ wetaʔ lalɛŋ= LOC house inside	nan	nan	nan		
+225.0	at	keda1252	Kedang	Austronesian	8Lembata	diʔ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	5	nan		
+225.0	at	keda1252	Kedang	Austronesian	8Lembata	bɛʔ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	5	nan		
+226.0	in; inside	keda1252	Kedang	Austronesian	8Lembata	bɛʔ	bɛʔ wetaʔ lalɛŋ= LOC house inside	nan	nan	nan		
+226.0	in; inside	keda1252	Kedang	Austronesian	8Lembata	bɛʔ 'lalɛŋ	bɛʔ wetaʔ lalɛŋ= LOC house inside	nan	nan	nan		
 227.0	here	keda1252	Kedang	Austronesian	8Lembata	diʔ 'nɔʔɔ	nan	nan	[pr]	nan		
 228.0	there	keda1252	Kedang	Austronesian	8Lembata	diʔ 'ʔɔjɔ	nan	nan	t	nan		
 229.0	above	keda1252	Kedang	Austronesian	8Lembata	diʔ 'ʔɔte	nan	d i ʔ _ ˈʔ ɔ t e	9610	nan		
@@ -262,7 +271,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 268.0	butterfly	keda1252	Kedang	Austronesian	8Lembata	'ʔebal	nan	nan	e	nan		
 269.0	fly (n.)	keda1252	Kedang	Austronesian	8Lembata	'ʔubur	nan	nan	1	nan		
 270.0	mosquito	keda1252	Kedang	Austronesian	8Lembata	mɛ'miʔ	nan	nan	p	nan		
-271.0	ant	keda1252	Kedang	Austronesian	8Lembata	mɛhi 'wilɛŋ, ɛjɛʔ 'murun, lɛr	red ant, semut daun hijau, biɡ yellow ant 	nan	m	nan		
+271.0	ant	keda1252	Kedang	Austronesian	8Lembata	mɛhi 'wilɛŋ	red ant, semut daun hijau, biɡ yellow ant 	nan	m	nan		
+271.0	ant	keda1252	Kedang	Austronesian	8Lembata	ɛjɛʔ 'murun	red ant, semut daun hijau, biɡ yellow ant 	nan	m	nan		
+271.0	ant	keda1252	Kedang	Austronesian	8Lembata	lɛr	red ant, semut daun hijau, biɡ yellow ant 	nan	m	nan		
 272.0	grasshopper	keda1252	Kedang	Austronesian	8Lembata	waiʔ	nan	nan	p	nan		
 273.0	locust	keda1252	Kedang	Austronesian	8Lembata	x	nan	x	9515	nan		
 274.0	spider	keda1252	Kedang	Austronesian	8Lembata	ɔwɛʔ ʔaɛʔ	nan	ɔ w ɛ ʔ _ ʔ a ɛ ʔ	9716	nan		
@@ -335,7 +346,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 345.0	to smell	keda1252	Kedang	Austronesian	8Lembata	'naɛʔ	nan	nan	9	nan		
 346.0	to think	keda1252	Kedang	Austronesian	8Lembata	'pikir	nan	nan	b	nan		
 347.0	to know	keda1252	Kedang	Austronesian	8Lembata	'nuan	nan	nan	o	nan		
-348.0	to say	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ, tutuʔ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	801	nan		
+348.0	to say	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	801	nan		
+348.0	to say	keda1252	Kedang	Austronesian	8Lembata	tutuʔ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	801	nan		
 349.0	to speak	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ, tutuʔ	nan	t u t u ʔ _ ˈn a n a ŋ	8694	nan		
 350.0	voice	keda1252	Kedang	Austronesian	8Lembata	ʔɛuʔ	nan	nan	o	nan		
 351.0	language	keda1252	Kedang	Austronesian	8Lembata	bahasa	nan	nan	n	nan		
@@ -357,7 +369,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 367.0	to drop	keda1252	Kedang	Austronesian	8Lembata	mɔ'ruʔ	nan	nan	p	nan		
 368.0	to drink	keda1252	Kedang	Austronesian	8Lembata	min	nan	nan	n	nan		
 369.0	to eat	keda1252	Kedang	Austronesian	8Lembata	kaː	nan	nan	o	nan		
-370.0	to cook	keda1252	Kedang	Austronesian	8Lembata	iu 'daʔa, iu	nan	nan	u	nan		
+370.0	to cook	keda1252	Kedang	Austronesian	8Lembata	iu 'daʔa	nan	nan	u	nan		
+370.0	to cook	keda1252	Kedang	Austronesian	8Lembata	iu	nan	nan	u	nan		
 371.0	to wash	keda1252	Kedang	Austronesian	8Lembata	ba'hiŋ	nan	nan	c	nan		
 372.0	to sew	keda1252	Kedang	Austronesian	8Lembata	hɛ'woŋ	nan	nan	e	nan		
 373.0	to live; be alive; living	keda1252	Kedang	Austronesian	8Lembata	'bita	nan	nan	nan	nan		
@@ -406,7 +419,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 417.0	to float	keda1252	Kedang	Austronesian	8Lembata	'baɔ	nan	nan	9	nan		
 418.0	to freeze	keda1252	Kedang	Austronesian	8Lembata	waʔ	waʔ=water freezes; bute=coconut oil hardens	nan	nan	nan		
 419.0	to hold	keda1252	Kedang	Austronesian	8Lembata	mɛ'rɛʔ	nan	nan	q	nan		
-420.0	to tie	keda1252	Kedang	Austronesian	8Lembata	'ujuŋ, ho'ŋɛn	nan	nan	d	nan		
+420.0	to tie	keda1252	Kedang	Austronesian	8Lembata	'ujuŋ	nan	nan	d	nan		
+420.0	to tie	keda1252	Kedang	Austronesian	8Lembata	ho'ŋɛn	nan	nan	d	nan		
 421.0	to play	keda1252	Kedang	Austronesian	8Lembata	'huaŋ	nan	nan	q	nan		
 422.0	to pull	keda1252	Kedang	Austronesian	8Lembata	'beʔ	nan	nan	p	nan		
 423.0	to push	keda1252	Kedang	Austronesian	8Lembata	'obaŋ	nan	nan	2	nan		
@@ -480,11 +494,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 491.0	nephew; niece	keda1252	Kedang	Austronesian	8Lembata	anaʔ	The kinship task also asks for this term	nan	nan	nan		
 492.0	older brother	keda1252	Kedang	Austronesian	8Lembata	aʔe	The kinship task also asks for this term	nan	nan	nan		
 493.0	older sister	keda1252	Kedang	Austronesian	8Lembata	aʔe	The kinship task also asks for this term	nan	nan	nan		
-494.0	sister	keda1252	Kedang	Austronesian	8Lembata	aʔe, ariʔ	aʔe kakak, ariʔ adik; The kinship task also asks for this term	a ʔ e	8736	nan		
+494.0	sister	keda1252	Kedang	Austronesian	8Lembata	aʔe	aʔe kakak, ariʔ adik; The kinship task also asks for this term	a ʔ e	8736	nan		
+494.0	sister	keda1252	Kedang	Austronesian	8Lembata	ariʔ	aʔe kakak, ariʔ adik; The kinship task also asks for this term	a ʔ e	8736	nan		
 495.0	woman's cross-cousin	keda1252	Kedang	Austronesian	8Lembata	x	The kinship task also asks for this term	x	9477	nan		
 496.0	woman's younger sister	keda1252	Kedang	Austronesian	8Lembata	ariʔ	The kinship task also asks for this term	- a r i ʔ	8857	nan		
 497.0	younger brother	keda1252	Kedang	Austronesian	8Lembata	ariʔ	The kinship task also asks for this term	- a r i ʔ	8858	nan		
-498.0	brother	keda1252	Kedang	Austronesian	8Lembata	aʔe, ariʔ	The kinship task also asks for this term	a ʔ e	9585	nan		
+498.0	brother	keda1252	Kedang	Austronesian	8Lembata	aʔe	The kinship task also asks for this term	a ʔ e	9585	nan		
+498.0	brother	keda1252	Kedang	Austronesian	8Lembata	ariʔ	The kinship task also asks for this term	a ʔ e	9585	nan		
 499.0	brother-in-law	keda1252	Kedang	Austronesian	8Lembata	aʔe, ariʔ	The kinship task also asks for this term	- a ʔ e	6867	nan		
 500.0	cross-cousin	keda1252	Kedang	Austronesian	8Lembata	ine ame (m), mahan (f)	The kinship task also asks for this term	i n e _ a m e	8661	nan		
 501.0	father's sister	keda1252	Kedang	Austronesian	8Lembata	binen	The kinship task also asks for this term	b i n e n	8583	nan		
@@ -508,7 +524,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 519.0	earring	keda1252	Kedang	Austronesian	8Lembata	anti	nan	nan	nan	nan		
 520.0	trousers	keda1252	Kedang	Austronesian	8Lembata	deko 'lawan	nan	nan	nan	nan		
 521.0	sarong (women)	keda1252	Kedang	Austronesian	8Lembata	'wela	nan	nan	nan	nan		
-522.0	loom	keda1252	Kedang	Austronesian	8Lembata	x	No weaving in this village; Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
+522.0	loom	keda1252	Kedang	Austronesian	8Lembata		No weaving in this village; Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
 523.0	thread	keda1252	Kedang	Austronesian	8Lembata	bə'naŋ	nan	nan	nan	nan		
 524.0	to worship	keda1252	Kedang	Austronesian	8Lembata	sɑm'beʔaŋ	nan	nan	nan	nan		
 525.0	holy	keda1252	Kedang	Austronesian	8Lembata	'sutʃi	nan	nan	nan	nan		
@@ -570,7 +586,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 581.0	easy	keda1252	Kedang	Austronesian	8Lembata	'ɡampaŋ	nan	nan	nan	nan		
 582.0	difficult	keda1252	Kedang	Austronesian	8Lembata	'sulit	nan	nan	nan	nan		
 583.0	finished	keda1252	Kedang	Austronesian	8Lembata	'bahe	nan	nan	nan	nan		
-584.0	now	keda1252	Kedang	Austronesian	8Lembata	dɛʔ'nɔʔ, dɛʔ'nɔʔɔ	nan	nan	nan	nan		
+584.0	now	keda1252	Kedang	Austronesian	8Lembata	dɛʔ'nɔʔ	nan	nan	nan	nan		
+584.0	now	keda1252	Kedang	Austronesian	8Lembata	dɛʔ'nɔʔɔ	nan	nan	nan	nan		
 585.0	hour	keda1252	Kedang	Austronesian	8Lembata	dʒam	nan	nan	nan	nan		
 586.0	same	keda1252	Kedang	Austronesian	8Lembata	'hama	nan	nan	nan	nan		
 587.0	oven/cooking place	keda1252	Kedang	Austronesian	8Lembata	ni'maʔ	nan	nan	n	nan		

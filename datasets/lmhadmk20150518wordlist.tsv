@@ -6,7 +6,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 4.0	night	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈrɜmaʔ	nan	ˈr ɜ m a ʔ - -	8905	nan		
 5.0	day	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	rɜ' rɔ̃	nan	- - r ɜ - ˈ_ r ɔ̃	8842	nan		
 6.0	year	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	tũː	nan	nan	1	nan		
-7.0	morning	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡ(ə)'hula, hə'ɡula	nan	ɡ ˈh u l a -	8644	nan		
+7.0	morning	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡ(ə)'hula	nan	ɡ ˈh u l a -	8644	nan		
+7.0	morning	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	hə'ɡula	nan	ɡ ˈh u l a -	8644	nan		
 8.0	yesterday	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwia	nan	- - ˈw i a -	8527	nan		
 9.0	day before yesterday	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔɜrɜ rua 'ʔi	nan	- ʔ ɜ r - - - ɜ _ r u a _ ˈʔ i	8696	nan		
 10.0	tomorrow	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbauk	nan	ˈb a - u k	2141	nan		
@@ -70,7 +71,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 71.0	fireplace ash	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈʔawuk	NOT 'debu' (dust, after you have been sweeping)	k ɜ ˈʔ a w u k	8649	nan		
 72.0	mud	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwalã	nan	nan	n	nan		
 73.0	clay	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	x	nan	x	9385	nan		
-74.0	gravel	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɛkɛk, kəˈlɛhɛk	nan	k ə ˈl ɛ k ɛ k	8765	nan		
+74.0	gravel	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɛkɛk	nan	k ə ˈl ɛ k ɛ k	8765	nan		
+74.0	gravel	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɛhɛk	nan	k ə ˈl ɛ k ɛ k	8765	nan		
 75.0	sand	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwɜra	nan	ˈw ɜ r a -	8848	nan		
 76.0	grass; brush	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kəˈdəku	nan	k ə ˈd ə k u	9410	nan		
 77.0	house	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈlaŋɔ	nan	ˈl a ŋ ɔ -	8823	nan		
@@ -96,7 +98,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 98.0	cooked rice	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	wata mɜˈnihũ	nan	nan	m	nan		
 99.0	rice plant	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahaʔ	nan	ˈw a h a ʔ	9411	nan		
 100.0	to plant (yam)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpahaʔ	nan	ˈp a h a ʔ	9352	nan		
-101.0	to plant (rice)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtubak, ˈmula	nan	- - - - - ˈt u b a k - -	8964	nan		
+101.0	to plant (rice)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtubak	nan	- - - - - ˈt u b a k - -	8964	nan		
+101.0	to plant (rice)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmula	nan	- - - - - ˈt u b a k - -	8964	nan		
 102.0	betel nut; areca	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwuaʔ	nan	ˈw u a ʔ	8756	nan		
 103.0	betel vine	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmaluʔ	nan	ˈm a l u ʔ	197	nan		
 104.0	lime	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔapuʔ	nan	ˈʔ a p u ʔ	8620	nan		
@@ -138,11 +141,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 141.0	guts	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈbotĩ	nan	nan	s	nan		
 142.0	excrement	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	tae	nan	t a e	8630	nan		
 143.0	lungs	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwurhã	nasal vowel 3sɡ, suffix um 1sɡ	nan	n	nan		
-144.0	stomach; belly	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	taĩ, taim	suffix m 2sg	nan	nan	nan		
-145.0	head	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkotɜk, kotɜm	suffix k 1sɡ, suffix m 2sg	ˈk o t ɜ k	8832	nan		
+144.0	stomach; belly	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	taĩ	suffix m 2sg	nan	nan	nan		
+144.0	stomach; belly	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	taim	suffix m 2sg	nan	nan	nan		
+145.0	head	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkotɜk	suffix k 1sɡ, suffix m 2sg	ˈk o t ɜ k	8832	nan		
+145.0	head	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kotɜm	suffix k 1sɡ, suffix m 2sg	ˈk o t ɜ k	8832	nan		
 146.0	hair	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈrataʔ	nan	ˈr a t a ʔ	8731	nan		
 147.0	body hair	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈrawuˈkɜt	suffix kɜt 1pl.incl, suffix kɜm 2sg	ˈr a w u ˈk ɜ t	6913	nan		
-148.0	eye	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmatak, matak3t	nan	ˈm a t a k	8533	nan		
+148.0	eye	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmatak	nan	ˈm a t a k	8533	nan		
+148.0	eye	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	matak3t	nan	ˈm a t a k	8533	nan		
 149.0	ear	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtiluˈk3t	nan	ˈt i l u ˈk 3 t	8737	nan		
 150.0	nose	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈiruˈn3t	nan	ˈi r u ˈn 3 t	8876	nan		
 151.0	mouth	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈw3waˈk3t	nan	ˈw 3 w a ˈk 3 t	8664	nan		
@@ -193,7 +199,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 196.0	wife	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	hãː	kɜˈwahẽ married woman; Not 'married woman'.	nan	p	nan		
 197.0	mother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔina	nan	ˈʔ i n a	495	nan		
 198.0	father	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔama	nan	ˈʔ a m a	5985	nan		
-199.0	older sibling	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kakãm, kaka	suffix m 2sg	nan	7	nan		
+199.0	older sibling	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kakãm	suffix m 2sg	nan	7	nan		
+199.0	older sibling	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kaka	suffix m 2sg	nan	7	nan		
 200.0	younger sibling	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔarim	nan	- - - - - - ˈʔ a r i m -	733	nan		
 201.0	bride price	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	weli	nan	w e l i -	669	nan		
 202.0	slave	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔariˈʔanaʔ	nan	ˈʔ a r i ˈʔ a n a ʔ	9336	nan		
@@ -206,10 +213,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 209.0	2pl	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmio	nan	ˈm i o	9967	nan		
 210.0	3pl	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈraʔe	nan	ˈr a ʔ e - - - - - - - -	9747	nan		
 211.0	no; not	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈhalaʔ	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	ˈh a l a ʔ	9339	nan		
-212.0	and	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nɔʔ, ˈtaliʔ	nan	n ɔ ʔ - -	9953	nan		
+212.0	and	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nɔʔ	nan	n ɔ ʔ - -	9953	nan		
+212.0	and	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtaliʔ	nan	n ɔ ʔ - -	9953	nan		
 213.0	because	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpukɜ	nan	ˈp u k ɜ -	9803	nan		
 214.0	if	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmia	means wait	ˈm i a - - - - -	1927	nan		
-215.0	with	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nɔʔ, ˈtaliʔ	nan	n ɔ ʔ -	9458	nan		
+215.0	with	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nɔʔ	nan	n ɔ ʔ -	9458	nan		
+215.0	with	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtaliʔ	nan	n ɔ ʔ -	9458	nan		
 216.0	what?	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔaku	nan	ˈʔ a k u	9358	nan		
 217.0	who?	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈheku	nan	ˈh e k u	8536	nan		
 218.0	where?	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈɡaku	nan	d ɜ ˈɡ a k u	8720	nan		
@@ -219,15 +228,21 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 222.0	how?	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nɜˈɡaku	nan	n ɜ ˈɡ a k u	9431	nan		
 223.0	this	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnhiː	nan	ˈnh iː	9441	nan		
 224.0	that	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnhẽː	nan	nan	p	nan		
-225.0	at	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhi, dɜ, pi	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	d ɜ ˈh i	6551	nan		
+225.0	at	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhi	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	d ɜ ˈh i	6551	nan		
+225.0	at	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	dɜ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	d ɜ ˈh i	6551	nan		
+225.0	at	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pi	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	d ɜ ˈh i	6551	nan		
 226.0	in; inside	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɔnʔeʔ	nan	ˈʔ ɔ n ʔ e ʔ	9456	nan		
 227.0	here	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhirɜ	nan	d ɜ ˈh i r ɜ	9320	nan		
 228.0	there	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhɛrɜ	nan	d ɜ ˈh ɛ r ɜ	9454	nan		
-229.0	above	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbloʔlõ, lolõ	blolõ=above, lolõ=on	nan	m	nan		
-230.0	below	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	leˈrerˈʔẽ, lali laŋũ	 lali laŋũ=di bawah	nan	n	nan		
-231.0	left (side)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɛkĩ, nekeʔ	nan	nan	n	nan		
+229.0	above	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbloʔlõ	blolõ=above, lolõ=on	nan	m	nan		
+229.0	above	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	lolõ	blolõ=above, lolõ=on	nan	m	nan		
+230.0	below	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	leˈrerˈʔẽ	 lali laŋũ=di bawah	nan	n	nan		
+230.0	below	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	lali laŋũ	 lali laŋũ=di bawah	nan	n	nan		
+231.0	left (side)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɛkĩ	nan	nan	n	nan		
+231.0	left (side)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nekeʔ	nan	nan	n	nan		
 232.0	right (side)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwana	nan	ˈw a n a -	8800	nan		
-233.0	a few	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜsiʔ, kuluk	nan	ˈʔ ɜ s i ʔ -	868	nan		
+233.0	a few	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜsiʔ	nan	ˈʔ ɜ s i ʔ -	868	nan		
+233.0	a few	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kuluk	nan	ˈʔ ɜ s i ʔ -	868	nan		
 234.0	all	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahã ˈkaeʔ	nan	nan	a	nan		
 235.0	many	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔaːjʔa	nan	ˈʔ aː j - - ʔ a	8678	nan		
 236.0	animal	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜˈwã	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	m	nan		
@@ -302,7 +317,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 308.0	light	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɛʔɛk	nan	ˈn ɛ ʔ ɛ k	8673	nan		
 309.0	dirty	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	miˈlã	nan	nan	n	nan		
 310.0	clean	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈlaɛʔ	nan	ˈl a ɛ ʔ	8787	nan		
-311.0	sharp	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	bɜˈleu, ˈdɜkɜt	sharp spear, sharp machete ; Of spear (tombak) or machete (parang); if there are two different words, elicit both.	b ɜ ˈl e - u	8733	nan		
+311.0	sharp	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	bɜˈleu	sharp spear, sharp machete ; Of spear (tombak) or machete (parang); if there are two different words, elicit both.	b ɜ ˈl e - u	8733	nan		
+311.0	sharp	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdɜkɜt	sharp spear, sharp machete ; Of spear (tombak) or machete (parang); if there are two different words, elicit both.	b ɜ ˈl e - u	8733	nan		
 312.0	blunt; dull	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈmɔŋɔ	nan	k ɜ ˈm - - ɔ ŋ ɔ	839	nan		
 313.0	heavy	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbaʔat	nan	ˈb a ʔ a t	8847	nan		
 314.0	light (weight)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈliɛʔ	nan	k ɜ ˈl i ɛ ʔ	8666	nan		
@@ -325,11 +341,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 332.0	green	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkeorɛ	nan	ˈk e o r ɛ	9415	nan		
 333.0	blue	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkeorɛ	nan	ˈk e o r ɛ	9472	nan		
 334.0	yellow	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkumhã	nan	nan	n	nan		
-335.0	sick; painful	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbrara, bɜˈrarʔa	pain from beinɡ hit, pain from beinɡ ill or wounded; There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	ˈb - - r a r a	8721	nan		
+335.0	sick; painful	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbrara	pain from beinɡ hit, pain from beinɡ ill or wounded; There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	ˈb - - r a r a	8721	nan		
+335.0	sick; painful	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	bɜˈrarʔa	pain from beinɡ hit, pain from beinɡ ill or wounded; There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	ˈb - - r a r a	8721	nan		
 336.0	shy; ashamed	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmia	nan	ˈm i a	7017	nan		
 337.0	thirsty	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɑnɜk ˈmara	nan	ɑ n ɜ k _ ˈm a r a -	8603	nan		
 338.0	hungry	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmalu	nan	ˈm a l u	8730	nan		
-339.0	blind	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈnisũ, kɜˈbuʔlɔ̃	also swear word	nan	o	nan		
+339.0	blind	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈnisũ	also swear word	nan	o	nan		
+339.0	blind	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈbuʔlɔ̃	also swear word	nan	o	nan		
 340.0	deaf	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈbekʔẽ	also swear word	nan	m	nan		
 341.0	scared	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈsoʔot	nan	ˈs o ʔ o t	9367	nan		
 342.0	angry	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbɜkɜ	nan	ˈb ɜ k ɜ	9396	nan		
@@ -337,7 +355,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 344.0	to hear	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdɜŋɜʔ	nan	ˈd ɜ ŋ ɜ ʔ	8950	nan		
 345.0	to smell	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜnuˈhuk	nan	p ɜ n u ˈh u k	9430	nan		
 346.0	to think	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpetɜ	nan	ˈp e t ɜ	9342	nan		
-347.0	to know	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnoi, ˈkoi	nan	ˈn o i -	8786	nan		
+347.0	to know	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnoi	nan	ˈn o i -	8786	nan		
+347.0	to know	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkoi	nan	ˈn o i -	8786	nan		
 348.0	to say	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜˈʔulũ	nan	nan	n	nan		
 349.0	to speak	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜˈʔulũ	nan	nan	n	nan		
 350.0	voice	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈrãː	nan	nan	m	nan		
@@ -356,16 +375,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 363.0	to swim	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnaŋe	nan	ˈn a ŋ e	7696	nan		
 364.0	to fly	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbɜka	nan	ˈb ɜ k a	8547	nan		
 365.0	to fall (from above)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡɔka	nan	ˈɡ ɔ k a	8623	nan		
-366.0	to fall over	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈhobat, ˈtobaŋ	e.g. pohon yang dipotong.	ˈh o b a t	9467	nan		
+366.0	to fall over	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈhobat	e.g. pohon yang dipotong.	ˈh o b a t	9467	nan		
+366.0	to fall over	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtobaŋ	e.g. pohon yang dipotong.	ˈh o b a t	9467	nan		
 367.0	to drop	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	na ˈɡoka	make fall	n a _ ˈɡ o k a	9479	nan		
-368.0	to drink	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkenu, ˈmenu, ˈnenu	nan	ˈk e n u -	8703	nan		
+368.0	to drink	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkenu, ˈmenu	nan	ˈk e n u -	8703	nan		
+368.0	to drink	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnenu	nan	ˈk e n u -	8703	nan		
 369.0	to eat	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈgoe kãː	1sg eat, different stem forms 	nan	o	nan		
 370.0	to cook	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdena	nan	ˈd e n a	9435	nan		
 371.0	to wash	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbaha	nan	ˈb a h a -	9351	nan		
 372.0	to sew	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈhɑu	nan	ˈh ɑ u	9371	nan		
 373.0	to live; be alive; living	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmorit	nan	ˈm o - r i t	81	nan		
-374.0	to breathe	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɜriˈnɑĩ, ˈnɜriˈnɑĩk	third sɡ, first sɡ	nan	p	nan		
-375.0	to work	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔola, krɜja	ɡlide in kreja	ˈʔ o l - - a -	8688	nan		
+374.0	to breathe	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɜriˈnɑĩ	third sɡ, first sɡ	nan	p	nan		
+374.0	to breathe	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɜriˈnɑĩk	third sɡ, first sɡ	nan	p	nan		
+375.0	to work	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔola	ɡlide in kreja	ˈʔ o l - - a -	8688	nan		
+375.0	to work	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	krɜja	ɡlide in kreja	ˈʔ o l - - a -	8688	nan		
 376.0	to die	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmataː	nan	ˈm a t aː -	8580	nan		
 377.0	to give	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈneĩ	nan	nan	o	nan		
 378.0	to wipe	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbɔhɔʔ	nan	ˈb ɔ h ɔ ʔ	9376	nan		
@@ -375,7 +398,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382.0	to dance	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈniːɡɜ	nan	ˈn iː ɡ ɜ	9439	nan		
 383.0	to sing	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdedã	nan	nan	n	nan		
 384.0	to burn (clear land)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈsɜruʔ	nan	ˈs ɜ r u ʔ	8610	nan		
-385.0	to burn; to shine	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmorit, ˈɡanɜ	liɡht lamp, liɡht fire	ˈm o r i t	9407	nan		
+385.0	to burn; to shine	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmorit	liɡht lamp, liɡht fire	ˈm o r i t	9407	nan		
+385.0	to burn; to shine	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡanɜ	liɡht lamp, liɡht fire	ˈm o r i t	9407	nan		
 386.0	to shine	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmorit	nan	ˈm o r i t	9319	nan		
 387.0	to chew	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbɑhɑk	nan	ˈb ɑ h ɑ k	8654	nan		
 388.0	to yawn	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜˈmoaː	nan	p ɜ ˈm o aː	8637	nan		
@@ -387,31 +411,38 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 394.0	to scratch	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈraɡuʔ	nan	ˈr a ɡ u ʔ -	8552	nan		
 395.0	itchy	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡatɜk	nan	ˈɡ a t ɜ k	8956	nan		
 396.0	to swell	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbaʔa	nan	ˈb a ʔ a -	8758	nan		
-397.0	to hit	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈplei, ˈbɜteːk	nan	ˈp - l e - i	5371	nan		
-398.0	to slap	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtɜpɔ̃, ˈtɜpɑk	to slap on cheek, to clap; E.g. to slap someone on the cheek; NOT to clap hands. 	ˈt ɜ p ɔ̃ -	8545	nan		
+397.0	to hit	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈplei	nan	ˈp - l e - i	5371	nan		
+397.0	to hit	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbɜteːk	nan	ˈp - l e - i	5371	nan		
+398.0	to slap	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtɜpɔ̃	to slap on cheek, to clap; E.g. to slap someone on the cheek; NOT to clap hands. 	ˈt ɜ p ɔ̃ -	8545	nan		
+398.0	to slap	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtɜpɑk	to slap on cheek, to clap; E.g. to slap someone on the cheek; NOT to clap hands. 	ˈt ɜ p ɔ̃ -	8545	nan		
 399.0	to bite	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡike	nan	ˈɡ i k - - e	34	nan		
-400.0	to cut	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbelo, ˈporoʔ	nan	ˈb e l o	9424	nan		
+400.0	to cut	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbelo	nan	ˈb e l o	9424	nan		
+400.0	to cut	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈporoʔ	nan	ˈb e l o	9424	nan		
 401.0	to cut down	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈhobat	nan	ˈh o b a t	9421	nan		
 402.0	to split	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈlɜkɑʔ	nan	ˈl ɜ k ɑ ʔ	8585	nan		
 403.0	to divide	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈweka	nan	ˈw e k a -	8575	nan		
 404.0	to stab	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈsɜɡɑt	nan	ˈs ɜ ɡ ɑ t	9459	nan		
-405.0	to skewer	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtuhuk, ˈtɜɡuʔ	nan	ˈt u - - h u k	8574	nan		
+405.0	to skewer	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtuhuk	nan	ˈt u - - h u k	8574	nan		
+405.0	to skewer	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtɜɡuʔ	nan	ˈt u - - h u k	8574	nan		
 406.0	to fight	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜˈwuno	nan	p ɜ ˈw u n o	9453	nan		
 407.0	to guard	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	dʒaɡa	nan	- dʒ a ɡ a	5296	nan		
-408.0	to throw	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡeˈbaʔ, ɡɑˈhɑk	nan	ɡ e ˈb a ʔ	9373	nan		
+408.0	to throw	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡeˈbaʔ	nan	ɡ e ˈb a ʔ	9373	nan		
+408.0	to throw	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡɑˈhɑk	nan	ɡ e ˈb a ʔ	9373	nan		
 409.0	to hunt	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbatĩ	nan	nan	n	nan		
 410.0	to kill	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbelo	nan	ˈb e l o	8840	nan		
 411.0	to chase away	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdore	nan	ˈd o r e -	8640	nan		
 413.0	to search for; to hunt for	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈsɜbɑʔ	nan	ˈs ɜ b ɑ ʔ	8605	nan		
 414.0	to dig	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbaʔe	nan	ˈb a ʔ e	9394	nan		
-415.0	to bury	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtomɜ, ˈtonɛk	nan	ˈt o m ɜ -	9405	nan		
+415.0	to bury	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtomɜ	nan	ˈt o m ɜ -	9405	nan		
+415.0	to bury	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtonɛk	nan	ˈt o m ɜ -	9405	nan		
 416.0	to flow	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	baʔ	nan	b a ʔ	8563	nan		
 417.0	to float	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbaɔʔ	nan	ˈb a ɔ ʔ	8549	nan		
 418.0	to freeze	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈmarana	nan	ˈm a r a n a	9412	nan		
 419.0	to hold	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpehẽ	nan	nan	m	nan		
 420.0	to tie	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpuĩ	nan	nan	b	nan		
 421.0	to play	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡ(ɜ)ˈlahaʔ	nan	ɡ ˈl a h a ʔ	9343	nan		
-422.0	to pull	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡehã, ˈtubo	nan	nan	m	nan		
+422.0	to pull	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡehã	nan	nan	m	nan		
+422.0	to pull	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtubo	nan	nan	m	nan		
 423.0	to push	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtojɔ̃	nan	ˈt o j ɔ̃	9316	nan		
 424.0	to turn	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpɛkɔt	nan	ˈp ɛ k ɔ t	9478	nan		
 425.0	to dream	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	tɜˈʔuru	nan	t ɜ ˈʔ u r u -	8544	nan		
@@ -433,7 +464,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 441.0	to bark	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈhobo	nan	ˈh o b o -	8662	nan		
 442.0	to shoot	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpasak	nan	ˈp a s a k	8970	nan		
 443.0	to shoot with slingshot	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpɜsi	nan	ˈp ɜ s i -	8927	nan		
-444.0	to pound; to beat	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtubuk, ˈbadʒo	tubuk is loan,  badʒo traditional word	- ˈt u b u - - k	545	nan		
+444.0	to pound; to beat	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtubuk	tubuk is loan,  badʒo traditional word	- ˈt u b u - - k	545	nan		
+444.0	to pound; to beat	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbadʒo	tubuk is loan,  badʒo traditional word	- ˈt u b u - - k	545	nan		
 445.0	to hit (drum)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdane	nan	ˈd a n e	8714	nan		
 446.0	to call out	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡiˈake	nan	ɡ i ˈa k e	9390	nan		
 447.0	to lie (tell untruth)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔopɜ	nan	ˈʔ o p - - - - ɜ -	8845	nan		
@@ -481,15 +513,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 489.0	grandchild	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	tʃutʃu	The kinship task also asks for this term	- - tʃ u tʃ - u	2831	nan		
 490.0	mother's brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	opu	Mother's brother (opu lake) is most highly respected, as the provider of the mother (=life), and the person to whom belis is paid.  ; The kinship task also asks for this term	- - o p u -	5573	nan		
 491.0	nephew; niece	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔanaʔ	opu (m), pɜraʔa (f) are wife's brother's children, bine? ?ana? (m) and wae (f) are husband's sister's children; The kinship task also asks for this term	ʔ a n a ʔ	8540	nan		
-492.0	older brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ, kaka	The kinship task also asks for this term	ʔ a r i ʔ	9383	nan		
-493.0	older sister	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ, kaka	The kinship task also asks for this term	ʔ a r i ʔ	9361	nan		
+492.0	older brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ	The kinship task also asks for this term	ʔ a r i ʔ	9383	nan		
+492.0	older brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kaka	The kinship task also asks for this term	ʔ a r i ʔ	9383	nan		
+493.0	older sister	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ	The kinship task also asks for this term	ʔ a r i ʔ	9361	nan		
+493.0	older sister	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kaka	The kinship task also asks for this term	ʔ a r i ʔ	9361	nan		
 494.0	sister	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	bine-k	sister of male eɡo; The kinship task also asks for this term	b i n e k	9183	nan		
 495.0	woman's cross-cousin	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	x	The kinship task also asks for this term	x	9477	nan		
 496.0	woman's younger sister	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ	The kinship task also asks for this term	ʔ a r i ʔ	8857	nan		
 497.0	younger brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ	The kinship task also asks for this term	ʔ a r i ʔ	8858	nan		
-498.0	brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ, kaka	The kinship task also asks for this term	ʔ a r i ʔ	8561	nan		
+498.0	brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ	The kinship task also asks for this term	ʔ a r i ʔ	8561	nan		
+498.0	brother	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kaka	The kinship task also asks for this term	ʔ a r i ʔ	8561	nan		
 499.0	brother-in-law	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	bine ʔanaʔ	husband of sister of male eɡo; The kinship task also asks for this term	b i n e _ ʔ a n a ʔ	9308	nan		
-500.0	cross-cousin	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	opu (m), breũ (f)	Breũ (cousin that is the child of mother's brother) is considered the ideal marriage partner. ; The kinship task also asks for this term	nan	nan	nan		
+500.0	cross-cousin	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	opu (m)	Breũ (cousin that is the child of mother's brother) is considered the ideal marriage partner. ; The kinship task also asks for this term	nan	nan	nan		
+500.0	cross-cousin	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	breũ (f)	Breũ (cousin that is the child of mother's brother) is considered the ideal marriage partner. ; The kinship task also asks for this term	nan	nan	nan		
 501.0	father's sister	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kaka	The kinship task also asks for this term	k a k a	9160	nan		
 502.0	ridge(pole); peak; tip	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwolaʔ	nan	ˈw o l a ʔ	9436	nan		
 503.0	rack(above hearth/for storing food)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈnala, maɡa	There may be two types, a high one (for e.g. storage) and a lower one; if so, elicit both.	k ɜ ˈn a l a	9417	nan		
@@ -502,16 +538,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 510.0	window	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡɜˈnela	nan	ɡ ɜ ˈn - e l a	2112	nan		
 511.0	cookhouse; kitchen	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈrurã	nan	nan	nan	nan		
 512.0	bed	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈnatã	nan	nan	nan	nan		
-513.0	chair	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nɔbɔ, kursi	nobo is old term for chair	n ɔ b ɔ	9307	nan		
-514.0	lamp	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜlita, lampu	pelita is small lamp, lampu is electric liɡht	p ɜ l i t a	5014	nan		
+513.0	chair	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nɔbɔ	nobo is old term for chair	n ɔ b ɔ	9307	nan		
+513.0	chair	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kursi	nobo is old term for chair	n ɔ b ɔ	9307	nan		
+514.0	lamp	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜlita	pelita is small lamp, lampu is electric liɡht	p ɜ l i t a	5014	nan		
+514.0	lamp	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	lampu	pelita is small lamp, lampu is electric liɡht	p ɜ l i t a	5014	nan		
 515.0	candle	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	tɜˈnaro	nan	t ɜ ˈn a r o -	8621	nan		
-516.0	to weave	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	tane, nekɜt tane	nekɜt is to catch	t a n e -	5641	nan		
+516.0	to weave	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	tane	nekɜt is to catch	t a n e -	5641	nan		
+516.0	to weave	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	nekɜt tane	nekɜt is to catch	t a n e -	5641	nan		
 517.0	shirt	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈlabu	nan	ˈl a b u -	8515	nan		
 518.0	necklace	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnilɜ	nan	ˈn i l ɜ -	8576	nan		
 519.0	earring	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔatĩ	nan	nan	nan	nan		
 520.0	trousers	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdekoˈblahã	nan	nan	nan	nan		
 521.0	sarong (women)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kəˈwata	nan	k ə ˈw a t a	5396	nan		
-522.0	loom	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	x	Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	x	9475	nan		
+522.0	loom	adon1237	Lamaholot-Adonara	Austronesian	7Adonara		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	x	9475	nan		
 523.0	thread	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	bɜˈʔuwa	no word for the entire instrument	b ɜ ˈʔ u w a	9450	nan		
 524.0	to worship	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	sɜˈbajã	nan	nan	nan	nan		
 525.0	holy	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɔhɔ̃	nan	k ə ˈl ɔ h ɔ̃	9465	nan		
@@ -545,11 +584,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 553.0	the murder	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	belo ˈwɜkika	belo is to cut up	b e l o _ ˈw ɜ k i k a	8555	nan		
 554.0	the adultery	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈbəluwo	Jika seseorang yg sudah menikah atau belum menikah berhubungan badan dengan orang yg bukan isteri/suaminya.	ˈb ə l u w o	9313	nan		
 555.0	penalty	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɜda	nan	ˈn ɜ d a	6804	nan		
-556.0	fishnet	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpukɜt, ala	pukɜt is a lonɡ fish net, ala a small one	ˈp u k ɜ t	9514	nan		
+556.0	fishnet	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpukɜt	pukɜt is a lonɡ fish net, ala a small one	ˈp u k ɜ t	9514	nan		
+556.0	fishnet	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ala	pukɜt is a lonɡ fish net, ala a small one	ˈp u k ɜ t	9514	nan		
 557.0	to surrender	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	soʔoˈtaʔ	nan	s o ʔ o ˈt a ʔ	9384	nan		
 558.0	to defend	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɜtĩ	nan	nan	nan	nan		
 559.0	the war or battle	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	pɜˈwuno	nan	p ɜ ˈw u n o	7031	nan		
-560.0	poor	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkuno, ɡuru ˈɡipa	ɡuru ɡipa is old lanɡuaɡe	- - ˈk u n o	9391	nan		
+560.0	poor	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkuno	ɡuru ɡipa is old lanɡuaɡe	- - ˈk u n o	9391	nan		
+560.0	poor	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡuru ˈɡipa	ɡuru ɡipa is old lanɡuaɡe	- - ˈk u n o	9391	nan		
 561.0	rich	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kəˈwasa	nan	k ə - - ˈw a s a -	3012	nan		
 562.0	money	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈdoi	nan	ˈd o i -	1290	nan		
 563.0	market	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈwulɜ	nan	ˈw u l ɜ -	8672	nan		
@@ -566,7 +607,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 574.0	to answer	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtapã	nan	nan	nan	nan		
 575.0	to refuse	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡeˈhik	nan	ɡ e - - ˈh i k	8215	nan		
 576.0	to whisper	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	hakori	nan	- - h a k o r i	7645	nan		
-577.0	to be silent	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpiʔe, ˈpaha	mean the same	ˈp i ʔ e	9037	nan		
+577.0	to be silent	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpiʔe	mean the same	ˈp i ʔ e	9037	nan		
+577.0	to be silent	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpaha	mean the same	ˈp i ʔ e	9037	nan		
 578.0	to tell	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈtutuʔ	nan	ˈt u t u ʔ -	8031	nan		
 579.0	to learn	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ɡɜˈnuaʔ	nan	ɡ ɜ ˈn u a ʔ	9365	nan		
 580.0	to teach	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈnuã	nan	nan	nan	nan		
@@ -579,7 +621,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 587.0	oven/cooking place	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈlikat	nan	ˈl i k a t	8965	nan		
 588.0	flower (in e.g. mangga tree)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈpuhũ	nan	nan	n	nan		
 589.0	vein	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	a:lˈhĩ	nan	nan	m	nan		
-590.0	long (stick)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈblaha, bɜlahɜˈa	nan	ˈb - l a h a	8656	nan		
+590.0	long (stick)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈblaha	nan	ˈb - l a h a	8656	nan		
+590.0	long (stick)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	bɜlahɜˈa	nan	ˈb - l a h a	8656	nan		
 591.0	tall (person)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	blɔʔˈlɔ̃	nan	b - l ɔ ʔ ˈl ɔ̃	4705	nan		
 592.0	short (stick)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	kɜʔˈrũ	nan	nan	b	nan		
 593.0	narrow (road)	adon1237	Lamaholot-Adonara	Austronesian	7Adonara	ˈkɛniʔ	kɜtɜke tiɡht (clothes); Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	- - ˈk ɛ n i ʔ	9243	nan		

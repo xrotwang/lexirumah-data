@@ -93,14 +93,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86.0	bark (of tree)	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bɔŋ klit	nan	b ɔ ŋ - _ k l i t	6177.0	nan		
 87.0	leaf	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəlaq	gəlaq ‘to be leaved’	g ə l a q -	5612.0	nan		
 87.0	leaf	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lak	gəlaq ‘to be leaved’	- - l a k -	5612.0	nan		
-88.0	branch	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bahu, bagi pas pas (cukup)	gəbaraŋ 'ranting', gətɛŋ 'dahan'; bahu, bagi pas pas (cukup)	b a h u	6087.0	nan		
-88.0	branch	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəbaraŋ	gəbaraŋ 'ranting', gətɛŋ 'dahan'; bahu, bagi pas pas (cukup)	g ə b a r a ŋ	382.0	nan		
-88.0	branch	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gətɛŋ	gəbaraŋ 'ranting', gətɛŋ 'dahan'; bahu, bagi pas pas (cukup)	- - g ə t ɛ ŋ -	221.0	nan		
+88.0	branch	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bahu	gətɛŋ 'dahan'; bahu	b a h u	6087.0	nan		
+88.0	branch	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bagi pas pas (cukup)	bagi pas pas (cukup)	b a h u	6087.0	nan		
+88.0	branch	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəbaraŋ	gəbaraŋ 'ranting'	g ə b a r a ŋ	382.0	nan		
+88.0	branch	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gətɛŋ	gətɛŋ 'dahan'; bahu	- - g ə t ɛ ŋ -	221.0	nan		
 89.0	firewood	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	adaus	nan	a d a - u s	4209.0	nan		
 90.0	rattan	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lɔtɔr	nan	l ɔ t ɔ r -	5966.0	nan		
 91.0	root	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sri piŋ	nan	s r i _ p i ŋ	6175.0	nan		
 92.0	fruit	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gis (besar)	nan	g i - - s -	2653.0	nan		
-93.0	seed	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	iko (kecil, biji)	nan	- i k o	365.0	nan		
+93.0	seed	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	iko (kecil)	nan	- i k o	365.0	nan		
+93.0	seed	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	iko (biji)	nan	- i k o	365.0	nan		
+93.0	seed	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	iko	nan	- i k o	365.0	nan		
 94.0	grain; cereal	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	arak	pətak 'seed'	a r a k - - - -	5893.0	nan		
 94.0	grain; cereal	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	pətak	pətak 'seed'	p ə t a k	6142.0	nan		
 96.0	husked rice; uncooked rice	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ara kɛs	nan	a r a - _ k ɛ s	5700.0	nan		
@@ -333,7 +336,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 332.0	green	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɔlar	nan	- ɔ l - - a r	313.0	nan		
 333.0	blue	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	klɔkul	nan	k l ɔ k u l	1680.0	nan		
 334.0	yellow	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	marek	nan	m a r e k -	5658.0	nan		
-335.0	sick; painful	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lalaŋ	nai, tai, gai	l a l a ŋ	1557.0	nan		
+335.0	sick; painful	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lalaŋ	nai	l a l a ŋ	1557.0	nan		
+335.0	sick; painful	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lalaŋ	tai	l a l a ŋ	1557.0	nan		
+335.0	sick; painful	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lalaŋ	gai	l a l a ŋ	1557.0	nan		
 336.0	shy; ashamed	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	təladi	nan	t ə l a d i	5572.0	nan		
 337.0	thirsty	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	təmei ser	nan	t ə m e i - - _ s e r -	897.0	nan		
 338.0	hungry	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tamsiŋ	nan	t a ms i ŋ -	6186.0	nan		
