@@ -25,6 +25,7 @@ for i, line in cognates.iterrows():
             word_list = pandas.read_csv(
                 original_file,
                 index_col=["Feature_ID", "Language_ID", "Value"],
+                dtype={"Alignment": str},
                 sep="\t")
         except OSError:
             continue
@@ -35,6 +36,7 @@ for i, line in cognates.iterrows():
     try:
         cogid_old = word_list["Cognate Set"][i]
     except KeyError:
+        print(i)
         continue
     
     try:
@@ -42,10 +44,10 @@ for i, line in cognates.iterrows():
     except AttributeError:
         pass
     
-    if (cogid_coding != cogid_old) and not pandas.isnull(cogid_old):
+    if (cogid_coding != cogid_old):
         word_list.set_value(i, "Cognate Set", cogid_coding)
-        if args.print:
-            print(i, cogid_old, "→", cogid_coding)
+        if args.print and not pandas.isnull(cogid_old):
+            print(i, cogid_old, type(cogid_old), "→", cogid_coding, type(cogid_coding))
 
     # Compare alignments
     alignment_coding = line["ALIGNMENT"]
@@ -56,14 +58,14 @@ for i, line in cognates.iterrows():
     except AttributeError:
         pass
     
-    if (alignment_coding != alignment_old) and not pandas.isnull(alignment_old):
+    if (alignment_coding != alignment_old):
         word_list.set_value(i, "Alignment", alignment_coding)
-        if args.print:
+        if args.print and not pandas.isnull(alignment_old):
             print(i, alignment_old, "→", alignment_coding)
 
-    if args.save:
-        for file, data in word_lists.items():
-            word_lists[file].to_csv(
-                file,
-                sep="\t")
+if args.save:
+    for file, data in word_lists.items():
+        word_lists[file].to_csv(
+            file,
+            sep="\t")
             
