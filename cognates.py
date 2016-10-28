@@ -95,7 +95,7 @@ cognates = pandas.read_csv('tap-cognates.tsv', sep='\t')
 cognates["LONG_COGID"] = [
     (row["AUTO_COGID"] 
      if (pandas.isnull(row["COGNATE_SET"]) or row["COGNATE_SET"]=="nan") else
-     "{:}-{:}".format(row["CONCEPT_ID"], row["COGNATE_SET"]))
+     "{:}-{:}".format(str(row["CONCEPT_ID"]).strip(".0"), str(row["COGNATE_SET"]).strip(".0")))
     for i, row in cognates.iterrows()
     ]
 
@@ -114,6 +114,10 @@ for i in cognates["LONG_COGID"]:
     if i not in COG_IDs:
         COG_IDs.append(i)
 cognates["COGID"] = [COG_IDs.index(x) for x in cognates["LONG_COGID"]]
+try:
+    del cognates["AUTO_ALIGNMENT"]
+except KeyError:
+    pass
 cognates.to_csv("tap-cognates-merged.tsv",
                 index=False,
                 sep="\t")
@@ -121,5 +125,16 @@ cognates.to_csv("tap-cognates-merged.tsv",
 # align data
 alm = Alignments('tap-cognates-merged.tsv', ref='COGID', segments='segments',
         transcription='value', alignment='segments')
-alm.align(override=True, alignment='alignment')
+alm.align(override=True, alignment='AUTO_ALIGNMENT')
 alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
+
+cognates = pandas.read_csv('tap-aligned.tsv', sep='\t')
+cognates["L_AL"] = cognates["ALIGNMENT"].str.split().str.len()
+for cogid, n in cognates.groupby("COGID").L_AL.nunique().items():
+    if n>1:
+        cognates["ALIGNMENT"][cognates["COGID"]==cogid] = cognates["AUTO_ALIGNMENT"][cognates["COGID"]==cogid]
+
+cognates.to_csv("tap-aligned-merged.tsv",
+                index=False,
+                sep="\t")
+
