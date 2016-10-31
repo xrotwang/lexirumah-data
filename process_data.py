@@ -159,7 +159,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
                     "No language given!",
                     (language),
                     None)
-                del data[i]
+                # drop that index
                 continue
             else:
                 get_entries = languages["Language name (-dialect)"] == language_by_name
@@ -170,7 +170,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
                         "Language name not found in languages list",
                         (language),
                         None)
-                    del data[i]
+                    # drop that index
                     continue
         if language not in languages.index:
             report(
