@@ -1,4 +1,5 @@
 import pandas
+import itertools
 import os, os.path
 
 
@@ -20,7 +21,7 @@ cognates = pandas.read_csv(
 cognates.columns = ["datasets"]
 cognates = cognates.dropna()
 while cognates.index.duplicated().any():
-        cognates = cognates[~cognates.index.duplicated()]
+    cognates = cognates[~cognates.index.duplicated()]
 for file in datafiles[1:]:
     for i, cogid in pandas.read_csv(
         os.path.join(path, file),
@@ -31,6 +32,14 @@ for file in datafiles[1:]:
         else:
             cognates.set_value(i, "datasets", cogid)
 
+cognates.sort_index(inplace=True)
+
+for cogid, entries in cognates.groupby("datasets"):
+    code = entries.index[0]
+    code = (int(code[0]),) + code[1:]
+    for index in entries.index:
+        cognates.set_value(index, 'datasets', str(code))
+
 for file in args.cognate_file:
     df = pandas.read_csv(
         file,
@@ -39,12 +48,19 @@ for file in args.cognate_file:
     while df.index.duplicated().any():
         df = df[~df.index.duplicated()]
     cogids = df["COGID"].dropna()
+    cogids.sort_index(inplace=True)
     for cogid, entries in cogids.groupby(cogids):
+        code = entries.index[0]
+        code = (int(code[0]),) + code[1:]
         for index in entries.index:
-            cognates.set_value(index, file, str(entries.index[0]))
+            cognates.set_value(index, file, str(code))
 
 
-cognates = cognates.sort_index()
+cognates.sort_index(inplace=True)
 
-print(cognates.to_string())
+cognates_not_matching = False
+if args.print:
+    for I, J in itertools.combinations(cognates.columns, 2):
+        cognates_not_matching = (cognates[I] != cognates[J]) | cognates_not_matching
+    print(cognates[cognates_not_matching].to_string())
 
