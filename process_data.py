@@ -99,7 +99,7 @@ def report(problem, data1, data2):
     
 copy_from_concepticon = ["English"]
 copy_from_languages = ["Family", "Region", "Language name (-dialect)"]
-make_sure_exists = ["Alignment", "Cognate Set", "Source", "Comment"]
+make_sure_exists = ["Alignment", "Cognate Set", "Source", "Comment", "Language_ID"]
 valuesets = {}
 values = {}
 cognatesets = {}
@@ -145,6 +145,19 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             sep="," if path.endswith(".csv") else "\t",
             encoding='utf-8')
 
+    if 'keraf/' in path:
+        try:
+            data.columns = ["Language name (-dialect)",
+                            "Language_ID",
+                            "Indonesian",
+                            "Value",
+                            "English",
+                            "Comment"]
+            data["Feature_ID"] = None
+        except ValueError:
+            pass
+
+
     for column in make_sure_exists+copy_from_concepticon+copy_from_languages:
         if column not in data.columns:
             data[column] = ""
@@ -152,25 +165,26 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
 
     for i, row in data.iterrows():
         language = row["Language_ID"]
-        if pandas.isnull(language):
+        if language not in languages.index:
             language_by_name = row.get("Language name (-dialect)")
             if pandas.isnull(language_by_name):
                 report(
                     "No language given!",
                     (language),
                     None)
-                # drop that index
+                # drop line
                 continue
             else:
                 get_entries = languages["Language name (-dialect)"] == language_by_name
                 if get_entries.any():
                     language = get_entries.argmax()
+                    data.set_value(i, "Language_ID", language)
                 else:
                     report(
                         "Language name not found in languages list",
                         (language),
-                        None)
-                    # drop that index
+                        i)  
+                    # drop line
                     continue
         if language not in languages.index:
             report(
@@ -185,19 +199,34 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
         feature = row["Feature_ID"]
         if type(feature) == float and not pandas.isnull(feature):
             feature = int(feature)
-        if pandas.isnull(feature):
-            en = row["English"]
+        if pandas.isnull(feature) or feature not in concepticon.index:
+            en = row["English"].strip().lower()
             if pandas.isnull(en) or en not in concepticon["English"].values:
-                report(
-                    "Feature not set, and unable to reconstruct",
-                    feature,
-                    en)
+                to_en = "to {:}".format(en)
+                if to_en not in concepticon["English"].values:
+                    report(
+                        "Feature not set, and unable to reconstruct",
+                        feature,
+                        en)
+                    new_concept = {
+                        "English": en,
+                        "Indonesian": row.get("Indonesian").strip().strip("0123456789."),
+                        "Concept Notes": "from Keraf",
+                        "GLOSS": en.upper()}
+                    for c_column in concepticon.columns:
+                        new_concept.setdefault(c_column, None)
+                    concepticon.loc[concepticon.index.max() + 1] = new_concept
+                    feature = (concepticon["English"] == to_en).argmax()
+                    print("Feature {:s} created in {:d}".format(en, feature))
+                else:
+                    feature = (concepticon["English"] == to_en).argmax()
+                    print("Feature {:s} found in {:d}".format(en, feature))
             else:
                 feature = (concepticon["English"] == en).argmax()
                 print("Feature {:s} found in {:d}".format(en, feature))
             data.set_value(i, "Feature_ID", feature)
 
-        for column in copy_from_concepticon:
+        for column in copy_from_concepticon: 
             if row[column] != concepticon[column][feature]:
                 data.set_value(i, column, concepticon[column][feature])
                 
@@ -232,15 +261,10 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
             value = values[vid]
 
         if row["Cognate Set"] and not pandas.isnull(row["Cognate Set"]) and row["Cognate Set"]!="nan":
-            cognates = row["Cognate Set"].split()
-            for cognate in cognates:
-                if cognate.endswith(".0"):
-                    cognate = cognate[:-2]
+            for cognate in [row["Cognate Set"]]:
                 if type(cognate) == float:
                     cognate = int(cognate)
-                cognateset_id = "{:d}-{:s}".format(
-                    feature, cognate)
-                print(feature, language, vid, cognate)
+                cognateset_id = hash(cognate)
                 try:
                     cognateset = cognatesets[cognateset_id]
                 except KeyError:
@@ -248,6 +272,7 @@ def import_contribution(path, concepticon, languages, contributors={}, trust=[])
                         id=cognateset_id,
                         contribution=contrib,
                         name=cognateset_id)
+                    print("Created cognate class", cognate)
                 DBSession.add(
                     CognatesetCounterpart(
                         cognateset=cognateset,

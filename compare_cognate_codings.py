@@ -19,6 +19,7 @@ cognates = pandas.read_csv(
         index_col=["Feature_ID", "Language_ID", "Value"],
         sep="\t")[["Cognate Set"]]
 cognates.columns = ["datasets"]
+cognates["datasets"] = cognates["datasets"].astype('str')
 cognates = cognates.dropna()
 while cognates.index.duplicated().any():
     cognates = cognates[~cognates.index.duplicated()]
@@ -27,10 +28,10 @@ for file in datafiles[1:]:
         os.path.join(path, file),
         index_col=["Feature_ID", "Language_ID", "Value"],
         sep="\t")["Cognate Set"].items():
-        if pandas.isnull(cogid) or i[2] in ['-']:
+        if pandas.isnull(cogid) or i[2] in ['-', 'x']:
             pass
         else:
-            cognates.set_value(i, "datasets", cogid)
+            cognates.set_value(i, "datasets", str(cogid).strip(".0"))
 
 cognates.sort_index(inplace=True)
 
@@ -47,13 +48,13 @@ for file in args.cognate_file:
         sep="\t")
     while df.index.duplicated().any():
         df = df[~df.index.duplicated()]
-    cogids = df["COGID"].dropna()
+    cogids = df["COGID"].dropna().astype('str')
     cogids.sort_index(inplace=True)
     for cogid, entries in cogids.groupby(cogids):
         code = entries.index[0]
         code = (int(code[0]),) + code[1:]
         for index in entries.index:
-            cognates.set_value(index, file, str(code))
+            cognates.set_value(index, file, str(code).strip(".0"))
 
 
 cognates.sort_index(inplace=True)
