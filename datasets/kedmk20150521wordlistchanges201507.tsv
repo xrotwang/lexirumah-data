@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	keda1252	Kedang	Austronesian	8Lembata	ʔɛ'leŋ	There is a phonemic distinction between initial syllables that have an onsetless vowel, and initial syllables that have a glottal stop onset. There is no phonemic distinction between e'ɛ and o'ɔ and i'ɪ.	ʔ ɛ ˈl e ŋ - - -	"(0, 'keda1252', ""ʔɛ'leŋ"")"	nan		
-1.0	sun	keda1252	Kedang	Austronesian	8Lembata	lɔ'jɔ	nan	l ɔ ˈj ɔ	"(1, 'keda1252', ""lɔ'jɔ"")"	nan		
-2.0	moon	keda1252	Kedang	Austronesian	8Lembata	wu'la	nan	w u ˈl a	"(2, 'keda1252', ""wu'la"")"	nan		
+1.0	sun	keda1252	Kedang	Austronesian	8Lembata	lɔ'jɔ	nan	l ɔ ˈj ɔ - - - - - -	(1, 'sika1262-tanai', 'ləro')	nan		
+2.0	moon	keda1252	Kedang	Austronesian	8Lembata	wu'la	nan	w u ˈl a - - ( - - - - - - - - )	(0, 'p-aust1307-acd', '*laŋiC')	nan		
 3.0	star	keda1252	Kedang	Austronesian	8Lembata	ma'le	nan	- - m a ˈl e	"(3, 'keda1252', ""ma'le"")"	nan		
 4.0	night	keda1252	Kedang	Austronesian	8Lembata	u'bɛn	nan	u ˈb ɛ n	(30, 'kira1248', 'dunia')	nan		
 5.0	day	keda1252	Kedang	Austronesian	8Lembata	lɔ'jɔ	nan	l ɔ ˈj ɔ - - - -	"(5, 'keda1252', ""lɔ'jɔ"")"	nan		
@@ -10,10 +10,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8.0	yesterday	keda1252	Kedang	Austronesian	8Lembata	ʔɛ'wɪn	nan	ʔ ɛ ˈw ɪ - n	"(8, 'keda1252', ""ʔɛ'wɪn"")"	nan		
 9.0	day before yesterday	keda1252	Kedang	Austronesian	8Lembata	numɛn 'ɛwin	nan	n u m ɛ n _ ˈɛ w i n	"(9, 'keda1252', ""numɛn 'ɛwin"")"	nan		
 10.0	tomorrow	keda1252	Kedang	Austronesian	8Lembata	lu'ʔa	nan	l u ˈʔ a	(70, 'keda1252-leuwa', 'læbuʔ bɔŋ')	nan		
-11.0	day after tomorrow	keda1252	Kedang	Austronesian	8Lembata	'wɛŋ'suwe	nan	ˈw ɛ ŋ ˈs u w e	"(11, 'keda1252', ""'wɛŋ'suwe"")"	nan		
+11.0	day after tomorrow	keda1252	Kedang	Austronesian	8Lembata	'wɛŋ'suwe	nan	( ˈw ) ɛ ŋ - - ˈs u w e	(11, 'cent2245-hewa', 'rema rua')	nan		
 12.0	twilight; dawn	keda1252	Kedang	Austronesian	8Lembata	heʔa'naun	nan	h e ʔ a ˈn a u n	"(12, 'keda1252', ""heʔa'naun"")"	nan		
-13.0	cloud	keda1252	Kedang	Austronesian	8Lembata	ʔɔ'wa	nan	ʔ ɔ ˈw a	"(13, 'keda1252', ""ʔɔ'wa"")"	nan		
-14.0	wind	keda1252	Kedang	Austronesian	8Lembata	aː'ŋin	nan	- aː ˈŋ i n	"(14, 'keda1252', ""aː'ŋin"")"	nan		
+13.0	cloud	keda1252	Kedang	Austronesian	8Lembata	ʔɔ'wa	nan	ʔ ɔ ˈw a	"(259, 'tetu1245-suai', ""manu 'semo"")"	nan		
+14.0	wind	keda1252	Kedang	Austronesian	8Lembata	aː'ŋin	nan	- aː ˈŋ i n - - - - - -	(204, 'cent2245-hewa', 'ʔau')	nan		
 15.0	rain	keda1252	Kedang	Austronesian	8Lembata	u'ja	nan	- u ˈj a -	"(15, 'keda1252', ""u'ja"")"	nan		
 16.0	drizzle	keda1252	Kedang	Austronesian	8Lembata	rɪtɪʔ	nan	- - - - r ɪ t ɪ ʔ -	(16, 'keda1252', 'rɪtɪʔ')	nan		
 17.0	rainbow	keda1252	Kedang	Austronesian	8Lembata	nado, tado	nan	n a d o	(17, 'keda1252', 'nado, tado')	nan		
@@ -162,7 +162,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 167.0	fingernail	keda1252	Kedang	Austronesian	8Lembata	'uruŋ	nan	nan	m	nan		
 168.0	breast	keda1252	Kedang	Austronesian	8Lembata	'tuʔu	nan	nan	2	nan		
 169.0	chest	keda1252	Kedang	Austronesian	8Lembata	ɔ'rɔʔ	nan	nan	n	nan		
-170.0	navel	keda1252	Kedang	Austronesian	8Lembata	pu'hɛː	nan	- - p u ˈh - - ɛː -	"(170, 'keda1252', ""pu'hɛː"")"	nan		
+170.0	navel	keda1252	Kedang	Austronesian	8Lembata	pu'hɛː	nan	- - p u ˈh ɛː - - - - - - -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 171.0	penis	keda1252	Kedang	Austronesian	8Lembata	wu'ti	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	w u ˈt i	(171, 'cent2245-hewa', 'uti')	nan		
 172.0	vagina	keda1252	Kedang	Austronesian	8Lembata	te'reʔ	Kemaluan perempuan, same as above.	t e ˈr e ʔ	"(172, 'keda1252', ""te'reʔ"")"	nan		
 173.0	testicles	keda1252	Kedang	Austronesian	8Lembata	la'hɛʔ	nan	l a ˈh ɛ ʔ	(214, 'sika1262-tanai', 'raʔik')	nan		
@@ -336,7 +336,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	keda1252	Kedang	Austronesian	8Lembata	'pikir	nan	nan	b	nan		
 347.0	to know	keda1252	Kedang	Austronesian	8Lembata	'nuan	nan	nan	o	nan		
 348.0	to say	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ, tutuʔ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	"(348, 'keda1252', ""tutuʔ 'nanaŋ, tutuʔ"")"	nan		
-349.0	to speak	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ, tutuʔ	nan	t u t u ʔ _ ˈn a n a ŋ	"(349, 'keda1252', ""tutuʔ 'nanaŋ, tutuʔ"")"	nan		
+349.0	to speak	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ, tutuʔ	nan	- - - - - t u t u ʔ _ ˈn a n a ŋ	"(4, 'alor1249-besar', ""ma'rɛŋ"")"	nan		
 350.0	voice	keda1252	Kedang	Austronesian	8Lembata	ʔɛuʔ	nan	nan	o	nan		
 351.0	language	keda1252	Kedang	Austronesian	8Lembata	bahasa	nan	nan	n	nan		
 352.0	to lie down	keda1252	Kedang	Austronesian	8Lembata	'hɛdaŋ	nan	nan	p	nan		

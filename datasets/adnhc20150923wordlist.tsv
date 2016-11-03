@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	buraŋ	nan	nan	nan	nan		
 1.0	sun	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	fed	nan	nan	1	nan		
-2.0	moon	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	ul	nan	- u l	(2, 'adan1251', 'ul')	nan		
+2.0	moon	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	ul	nan	- u l - -	"(0, 'alor1247-baran', ""'laŋi"")"	nan		
 3.0	star	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	ibiŋ	nan	nan	1	nan		
 4.0	night	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	dil pana	nan	nan	5	nan		
 4.0	night	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	panaʔ	nan	nan	5	nan		
@@ -63,7 +63,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	duir	nan	nan	4	nan		
 62.0	comb	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	kir	nan	nan	1	nan		
 63.0	mat	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	bu	nan	nan	1	nan		
-64.0	needle	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	batiŋ	nan	b a t i ŋ	(64, 'adan1251', 'batiŋ')	nan		
+64.0	needle	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	batiŋ	nan	b a t i ŋ	(347, 'keda1252-leuwa', 'lalaŋ')	nan		
 65.0	clothing	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	na:pa	nan	n aː p a	(65, 'adan1251', 'na:pa')	nan		
 67.0	fire	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	aʔfail	nan	a ʔ f a i l - - - -	(67, 'adan1251', 'aʔfail')	nan		
 68.0	smoke	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	banɔʔ	nan	- - - - - b a n ɔ ʔ - -	(68, 'adan1251', 'banɔʔ')	nan		
@@ -162,7 +162,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 167.0	fingernail	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	ataŋ uʔhuɲ	nan	nan	[12]	nan		
 168.0	breast	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	tɔ	nan	nan	3	nan		
 169.0	chest	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	adel	nan	nan	nan	nan		
-170.0	navel	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	apuhei	nan	- a p u h e - i -	"(170, 'keda1252', ""pu'hɛː"")"	nan		
+170.0	navel	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	apuhei	nan	- a p u h e - i - - - - -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 171.0	penis	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	atu	nan	- a t u	(171, 'cent2245-hewa', 'uti')	nan		
 172.0	vagina	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	a:l	nan	- - - aː l	(172, 'cent2245-hewa', 'era')	nan		
 173.0	testicles	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	atu afail	nan	- a t u _ a f a i l	(173, 'adan1251', 'atu afail')	nan		
@@ -539,7 +539,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 568.0	expensive	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	falimate	nan	f a l i m a t e	(568, 'adan1251', 'falimate')	nan		
 569.0	cheap	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	falika’ai	nan	f a l i k a ’ a i	(569, 'adan1251', 'falika’ai')	nan		
 570.0	to grasp	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	apuin	nan	- a p u i n -	(570, 'adan1251', 'apuin')	nan		
-571.0	to let go	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	atain	nan	- a - - t a i n -	(571, 'wers1238', 'gətaiŋ')	nan		
+571.0	to let go	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	atain	nan	- a ( - - ) - t a i n -	(571, 'wers1238', 'gətaiŋ')	nan		
 572.0	to promise	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	u apahaʔ	nan	u _ a p a h a ʔ	(572, 'adan1251', 'u apahaʔ')	nan		
 573.0	word	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	mateiŋ	nan	m a t e i ŋ	(573, 'adan1251', 'mateiŋ')	nan		
 574.0	to answer	adan1251	Adang	Timor-Alor-Pantar	3Alor, 1West	u abor	nan	u _ a b o r	(574, 'adan1251', 'u abor')	nan		

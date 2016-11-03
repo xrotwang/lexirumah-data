@@ -1,16 +1,16 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	idat1237	Idate	Austronesian	4Timor, 2Central	la'lehɑn	nan	l a ˈl e h ɑ n	(0, 'tetu1245-suai', 'lalɛhaŋ')	nan		
-1.0	sun	idat1237	Idate	Austronesian	4Timor, 2Central	'lɛlɔ 'mɑtɑn	nan	ˈl ɛ l ɔ _ ˈm ɑ t ɑ n	(1, 'keda1252-leuwa', 'lɔjɔ matan')	nan		
-2.0	moon	idat1237	Idate	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l - - a	"(2, 'tuku1254', ""'hula"")"	nan		
+1.0	sun	idat1237	Idate	Austronesian	4Timor, 2Central	'lɛlɔ 'mɑtɑn	nan	ˈl ɛ l ɔ _ ˈm ɑ t ɑ n	(1, 'sika1262-tanai', 'ləro')	nan		
+2.0	moon	idat1237	Idate	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l a - - ( - - - - - - - - )	(0, 'p-aust1307-acd', '*laŋiC')	nan		
 3.0	star	idat1237	Idate	Austronesian	4Timor, 2Central	'hitu	nan	ˈh i t u	(3, 'pura1258', 'jid')	nan		
 4.0	night	idat1237	Idate	Austronesian	4Timor, 2Central	wɔ'ʔɑr	nan	w ɔ ˈʔ ɑ r	"(4, 'idat1237', ""wɔ'ʔɑr"")"	nan		
 5.0	day	idat1237	Idate	Austronesian	4Timor, 2Central	lɛ'lɔn	nan	l ɛ ˈl - ɔ n	(5, 'cent2245-hewa', 'ləron')	nan		
 6.0	year	idat1237	Idate	Austronesian	4Timor, 2Central	ti'nan	nan	t i ˈn a n	"(6, 'alor1247-baran', ""'tu:ŋ"")"	nan		
 13.0	cloud	idat1237	Idate	Austronesian	4Timor, 2Central	alɔ'hɑn	nan	- a l ɔ ˈh ɑ n	"(13, 'tetu1246', ""kalɔ'hɑn"")"	nan		
 14.0	wind	idat1237	Idate	Austronesian	4Timor, 2Central	u'las	nan	u ˈl a s	"(14, 'idat1237', ""u'las"")"	nan		
-15.0	rain	idat1237	Idate	Austronesian	4Timor, 2Central	'wɑri	nan	- - ˈw ɑ r i	(373, 'sika1262-tanai', 'morə-t')	nan		
+15.0	rain	idat1237	Idate	Austronesian	4Timor, 2Central	'wɑri	nan	- - ˈw ɑ r i	(15, 'blag1240-kulij', 'nuwar')	nan		
 21.0	fog	idat1237	Idate	Austronesian	4Timor, 2Central	alɔ'hɑn	nan	a l ɔ ˈh ɑ n	"(21, 'idat1237', ""alɔ'hɑn"")"	nan		
-22.0	river; stream	idat1237	Idate	Austronesian	4Timor, 2Central	'lɔ:	nan	- - ˈl ɔː - -	(206, 'cent2245-hewa', 'nimu')	nan		
+22.0	river; stream	idat1237	Idate	Austronesian	4Timor, 2Central	'lɔ:	nan	- - ˈl ɔː - - - - -	(206, 'cent2245-hewa', 'nimu')	nan		
 23.0	ice	idat1237	Idate	Austronesian	4Timor, 2Central	ɛs	nan	- ɛ s	"(23, 'alor1247-baran', ""'ɛs"")"	nan		
 24.0	snow	idat1237	Idate	Austronesian	4Timor, 2Central	x	nan	x	(24, 'adon1237', 'x')	nan		
 25.0	lake	idat1237	Idate	Austronesian	4Timor, 2Central	kɔ'lan	artifical lake/pond; natural lake	- - - - k ɔ ˈl a n -	(25, 'wers1238', 'kolam')	nan		
@@ -20,7 +20,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32.0	stone	idat1237	Idate	Austronesian	4Timor, 2Central	'hatu	nan	ˈh a t u -	(32, 'cent2245-hewa', 'ʋatu')	nan		
 35.0	water (fresh)	idat1237	Idate	Austronesian	4Timor, 2Central	'wɛ:r	nan	ˈw - ɛː r	(246, 'kula1280-lanto', 'knesu')	nan		
 36.0	sea; sea water	idat1237	Idate	Austronesian	4Timor, 2Central	'tɑsi	nan	ˈt ɑ s i - - - - -	(36, 'cent2245-hewa', 'tahi')	nan		
-39.0	forest	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔɑi le'ʔik	nan	ˈʔ ɑ i _ l e ˈʔ i k	"(39, 'tetu1246', ""'ʔɑi 'larɑn"")"	nan		
+39.0	forest	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔɑi le'ʔik	nan	ˈʔ ɑ i _ l e ˈʔ i k	(39, 'keda1252-leuwa', 'kain laraŋ')	nan		
 43.0	garden	idat1237	Idate	Austronesian	4Timor, 2Central	'ada 'mɑtan	nan	- ˈa d a _ ˈm ɑ t a n	"(43, 'laka1255', ""'lehu 'mata"")"	nan		
 45.0	road; path; way	idat1237	Idate	Austronesian	4Timor, 2Central	'lɑla i'na:k	nan	ˈl ɑ l a _ i ˈn aː k	"(45, 'idat1237', ""'lɑla i'na:k"")"	nan		
 46.0	canoe	idat1237	Idate	Austronesian	4Timor, 2Central	'rɔ:	nan	ˈr ɔː -	(46, 'tetu1245-suai', 'roh')	nan		
@@ -40,7 +40,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86.0	bark (of tree)	idat1237	Idate	Austronesian	4Timor, 2Central	ɑili'tɑ:k	nan	- ɑ i   - - l i ˈt ɑː k	(86, 'cent2245-hewa', 'ʔai klokok')	nan		
 87.0	leaf	idat1237	Idate	Austronesian	4Timor, 2Central	'rɔ:g	nan	- - ˈr ɔː g -	(87, 'wers1238', 'gəlaq')	nan		
 91.0	root	idat1237	Idate	Austronesian	4Timor, 2Central	ra'put	nan	r a ˈp u t	(91, 'tetu1245-suai', 'abut')	nan		
-92.0	fruit	idat1237	Idate	Austronesian	4Timor, 2Central	hu'ʔa:n	nan	h u - ˈʔ - aː n	(92, 'cent2245-hewa', 'ʋuan')	nan		
+92.0	fruit	idat1237	Idate	Austronesian	4Timor, 2Central	hu'ʔa:n	nan	- - - - - - h u ˈʔ aː n	(92, 'sika1262-tanai', 'βua-ŋ')	nan		
 93.0	seed	idat1237	Idate	Austronesian	4Timor, 2Central	'hini	nan	ˈh i n i	(93, 'cent2245-hewa', 'une')	nan		
 97.0	rice grains (unhusked) (raw from field)	idat1237	Idate	Austronesian	4Timor, 2Central	a'rek	nan	- a ˈr e k	"(97, 'tetu1246', ""ha're:"")"	nan		
 98.0	cooked rice	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔetu	nan	ˈʔ e t u	(98, 'tetu1245-suai', 'Ɂɛtu')	nan		
@@ -78,13 +78,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 163.0	arm	idat1237	Idate	Austronesian	4Timor, 2Central	li'man	nan	l i ˈm - - - - a n	(163, 'cent2245-hewa', 'lima')	nan		
 164.0	hand	idat1237	Idate	Austronesian	4Timor, 2Central	'lima	nan	ˈl i m a -	(91, 'sika1262-tanai', 'ʔramut')	nan		
 168.0	breast	idat1237	Idate	Austronesian	4Timor, 2Central	'susu	nan	ˈs u s u -	(168, 'tetu1245-suai', 'susun')	nan		
-170.0	navel	idat1237	Idate	Austronesian	4Timor, 2Central	u'sɑr	nan	- u ˈs - ɑ r	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
+170.0	navel	idat1237	Idate	Austronesian	4Timor, 2Central	u'sɑr	nan	- - - u ˈs - ɑ r - - - - -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 174.0	leg	idat1237	Idate	Austronesian	4Timor, 2Central	'wein	nan	ˈw e i n	"(174, 'laka1255', ""'wei"")"	nan		
 174.0	leg	idat1237	Idate	Austronesian	4Timor, 2Central	wei	nan	w e i -	"(174, 'laka1255', ""'wei"")"	nan		
 175.0	foot	idat1237	Idate	Austronesian	4Timor, 2Central	wein 'tɑnin	nan	w e i n _ ˈt ɑ n - i n -	(175, 'tetu1245-suai', 'ai')	nan		
 178.0	knee	idat1237	Idate	Austronesian	4Timor, 2Central	wein 'tur	nan	w e i n _ ˈt u - - r	"(178, 'tetu1246', ""'ʔɑin tur"")"	nan		
 179.0	back	idat1237	Idate	Austronesian	4Timor, 2Central	lɛ'sɔn	nan	l ɛ ˈs ɔ n	"(179, 'laka1255', "",lɛs 'tɛtɛ"")"	nan		
-182.0	skin	idat1237	Idate	Austronesian	4Timor, 2Central	li'tɑk	nan	( - - - - - - ) - - l i ˈt ɑ k	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	idat1237	Idate	Austronesian	4Timor, 2Central	li'tɑk	nan	( - - - - - - - ) - - - l i ˈt ɑ k - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 190.0	person	idat1237	Idate	Austronesian	4Timor, 2Central	'nɑin	nan	ˈn ɑ i n -	(190, 'pura1258', 'aiŋ')	nan		
 191.0	name	idat1237	Idate	Austronesian	4Timor, 2Central	'narɑn	nan	ˈn a r ɑ n	(26, 'alor1249-sar-n', 'yihil')	nan		
 192.0	child	idat1237	Idate	Austronesian	4Timor, 2Central	wa'nɑn	nan	w a - - ˈn ɑ - n -	(192, 'alor1247-baran', 'ʔanaŋ')	nan		
@@ -102,11 +102,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 203.0	1sg	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔɑu	nan	- - ˈʔ ɑ u	(203, 'cent2245-hewa', 'aʔu')	nan		
 204.0	2sg (informal)	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔɔ:	nan	ˈʔ ɔː -	(204, 'tetu1245-suai', 'o')	nan		
 205.0	2sg (polite)	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔita	nan	ˈʔ i t a	(6, 'keda1252-leuwa', 'tun')	nan		
-206.0	3sg	idat1237	Idate	Austronesian	4Timor, 2Central	'ni:	nan	ˈn iː - -	(206, 'cent2245-hewa', 'nimu')	nan		
+206.0	3sg	idat1237	Idate	Austronesian	4Timor, 2Central	'ni:	nan	ˈn iː - - - - - - -	(206, 'cent2245-hewa', 'nimu')	nan		
 207.0	1pl excl	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔami	nan	ˈʔ a m i	(207, 'sika1262-tanai', 'ʔami')	nan		
-208.0	1pl incl	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔita	nan	- ˈʔ i t a	(208, 'cent2245-hewa', 'ʔita')	nan		
+208.0	1pl incl	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔita	nan	- ˈʔ i t a - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 209.0	2pl	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔemi	nan	- ˈʔ e m i -	(209, 'cent2245-hewa', 'miu')	nan		
-210.0	3pl	idat1237	Idate	Austronesian	4Timor, 2Central	sira	nan	s i r a -	(210, 'cent2245-hewa', 'rimu')	nan		
+210.0	3pl	idat1237	Idate	Austronesian	4Timor, 2Central	sira	nan	( - - ) - - s i r a - - - -	(210, 'adon1237', 'ˈraʔe')	nan		
 211.0	no; not	idat1237	Idate	Austronesian	4Timor, 2Central	'lɑek	nan	ˈl ɑ - e k	(368, 'kaer1234', 'na:')	nan		
 212.0	and	idat1237	Idate	Austronesian	4Timor, 2Central	'nɔrɔ:	nan	ˈn ɔ r ɔː	(212, 'cent2245-hewa', 'nora')	nan		
 213.0	because	idat1237	Idate	Austronesian	4Timor, 2Central	tɑn 'ti:	nan	t ɑ n _ ˈt iː	"(213, 'laka1255', ""'tan 'ti:"")"	nan		
@@ -116,15 +116,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 217.0	who?	idat1237	Idate	Austronesian	4Timor, 2Central	'ʔɛta	nan	ˈʔ ɛ t a	(353, 'sika1262-tanai', 'tuʔə')	nan		
 219.0	when?	idat1237	Idate	Austronesian	4Timor, 2Central	a'lira	when; when	- a ˈl - - - i r a	"(219, 'tetu1245-suai', ""wai'hira"")"	nan		
 219.0	when?	idat1237	Idate	Austronesian	4Timor, 2Central	walira	when; when	w a l - - - i r a	"(219, 'tetu1245-suai', ""wai'hira"")"	nan		
-220.0	why?	idat1237	Idate	Austronesian	4Timor, 2Central	tan ti 'sa:	nan	t a n _ t i _ ˈs aː	"(220, 'idat1237', ""tan ti 'sa:"")"	nan		
-221.0	how much; how many?	idat1237	Idate	Austronesian	4Timor, 2Central	'jila	nan	ˈj i l a	(204, 'cent2245-hewa', 'ʔau')	nan		
-222.0	how?	idat1237	Idate	Austronesian	4Timor, 2Central	nu'sa:	nan	- - n u ˈs aː	"(222, 'tetu1246', ""hanu'sa:"")"	nan		
-223.0	this	idat1237	Idate	Austronesian	4Timor, 2Central	'nia	Prox	- ˈn i - a	(223, 'tetu1245-suai', 'nɛ:')	nan		
+220.0	why?	idat1237	Idate	Austronesian	4Timor, 2Central	tan ti 'sa:	nan	t a ( n _ t i ) _ ˈs aː - ( - - )	"(220, 'tetu1246', ""tɑmba'sa:"")"	nan		
+221.0	how much; how many?	idat1237	Idate	Austronesian	4Timor, 2Central	'jila	nan	ˈj i l a - - - - - - -	(204, 'cent2245-hewa', 'ʔau')	nan		
+222.0	how?	idat1237	Idate	Austronesian	4Timor, 2Central	nu'sa:	nan	n u - - - - - ˈs aː	"(222, 'tetu1245-suai', ""nalo 'nusa"")"	nan		
+223.0	this	idat1237	Idate	Austronesian	4Timor, 2Central	'nia	Prox	- - - - - - - ˈn i a	(92, 'wers1238', 'gis (besar)')	nan		
 224.0	that	idat1237	Idate	Austronesian	4Timor, 2Central	'ɛnɛ 'lei	? Dist	ˈɛ n ɛ _ ˈl e i	"(224, 'idat1237', ""'ɛnɛ 'lei"")"	nan		
 225.0	at	idat1237	Idate	Austronesian	4Timor, 2Central	he:	Loc	- - h eː - -	(229, 'cent2245-hewa', 'lala nan')	nan		
 226.0	in; inside	idat1237	Idate	Austronesian	4Timor, 2Central	'he:	Loc	ˈh eː - -	"(226, 'tuku1254', ""'hɛr"")"	nan		
-227.0	here	idat1237	Idate	Austronesian	4Timor, 2Central	hɛ'nia	Loc Prox	h ɛ ˈn i - a	"(227, 'pura1258', ""a'ŋami"")"	nan		
-228.0	there	idat1237	Idate	Austronesian	4Timor, 2Central	hɛ 'lei	Loc Dist	h ɛ - _ ˈl e - i	"(228, 'idat1237', ""hɛ 'lei"")"	nan		
+227.0	here	idat1237	Idate	Austronesian	4Timor, 2Central	hɛ'nia	Loc Prox	- - h ɛ - ˈn i - a	(227, 'keda1252-leuwa', 'di nɔʔ')	nan		
+228.0	there	idat1237	Idate	Austronesian	4Timor, 2Central	hɛ 'lei	Loc Dist	h ɛ - _ ˈl e - i	"(228, 'tuku1254', ""'hɛr 'knɔʔɔ"")"	nan		
 229.0	above	idat1237	Idate	Austronesian	4Timor, 2Central	hɛ 'houk	Loc above	            h - ɛ_ ˈh - ou k	(229, 'cent2245-hewa', 'lala nan')	nan		
 230.0	below	idat1237	Idate	Austronesian	4Timor, 2Central	hɛ 'rahak	Loc below	h ɛ - - _ ˈr a h a k	"(230, 'tetu1245-suai', ""iha 'kraik"")"	nan		
 231.0	left (side)	idat1237	Idate	Austronesian	4Timor, 2Central	hɛ ka'haruk	Loc left	h ɛ _ k a ˈh a r u k	(359, 'sika1262-tanai', 'ɡəra')	nan		
@@ -133,13 +133,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 234.0	all	idat1237	Idate	Austronesian	4Timor, 2Central	'nopu-'nopu	empty-empty	ˈn o p u ˈn o p u	"(234, 'laka1255', ""'nɔbun"")"	nan		
 235.0	many	idat1237	Idate	Austronesian	4Timor, 2Central	wa'ʔi:k	nan	w a ˈʔ iː k	(235, 'tetu1245-suai', 'waɁin')	nan		
 236.0	animal	idat1237	Idate	Austronesian	4Timor, 2Central	ani'mɑl	nan	- a n i ˈm ɑ l -	"(236, 'tetu1245-suai', ""ani'mal"")"	nan		
-238.0	dog	idat1237	Idate	Austronesian	4Timor, 2Central	'ɑsu	nan	- ˈɑ s u	(238, 'cent2245-hewa', 'ahu')	nan		
+238.0	dog	idat1237	Idate	Austronesian	4Timor, 2Central	'ɑsu	nan	- ˈɑ s u - - - - - - -	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 249.0	tail	idat1237	Idate	Austronesian	4Timor, 2Central	ji'ʔan	nan	j i ˈʔ a n	"(249, 'laka1255', ""hi'ʔɔn"")"	nan		
 250.0	fish	idat1237	Idate	Austronesian	4Timor, 2Central	'ikɑn	nan	- ˈi k ɑ n	(370, 'p-cent2245-abvd', '*zakan')	nan		
 259.0	bird	idat1237	Idate	Austronesian	4Timor, 2Central	'manu ɑhu'ʔin	nan	ˈm a n u _ ɑ h u ˈʔ i n	"(259, 'tetu1245-suai', ""manu 'semo"")"	nan		
 260.0	wing	idat1237	Idate	Austronesian	4Timor, 2Central	'ri:s	nan	- - ˈr iː s	(260, 'tetu1245-suai', 'liras')	nan		
 261.0	claw	idat1237	Idate	Austronesian	4Timor, 2Central	ka'ramɑs	to claw	- - k a ˈr a m ɑ s	(261, 'cent2245-hewa', 'geri')	nan		
-262.0	feather	idat1237	Idate	Austronesian	4Timor, 2Central	hu'luk	nan	h u ˈl u k	(208, 'cent2245-hewa', 'ʔita')	nan		
+262.0	feather	idat1237	Idate	Austronesian	4Timor, 2Central	hu'luk	nan	h u ˈl u k - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 263.0	horn	idat1237	Idate	Austronesian	4Timor, 2Central	'sorun	nan	ˈs o r u n	(263, 'cent2245-hewa', 'taran')	nan		
 264.0	snake	idat1237	Idate	Austronesian	4Timor, 2Central	samoro	snake; adder	s a m o r o -	"(264, 'tetu1245-suai', ""sa'mea"")"	nan		
 264.0	snake	idat1237	Idate	Austronesian	4Timor, 2Central	sɔ'ʔɑi	snake; adder	s ɔ ˈʔ ɑ i	(264, 'laka1255', 'hui')	nan		
@@ -190,7 +190,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	idat1237	Idate	Austronesian	4Timor, 2Central	ano'in	nan	- a n o - ˈi n	"(346, 'tetu1245-suai', ""ha'noin"")"	nan		
 347.0	to know	idat1237	Idate	Austronesian	4Timor, 2Central	'tada	nan	ˈt a d - - a	"(347, 'laka1255', ""'tada"")"	nan		
 348.0	to say	idat1237	Idate	Austronesian	4Timor, 2Central	lo'in	nan	l o - ˈi n	(348, 'maka1316', 'lɔlɔ')	nan		
-349.0	to speak	idat1237	Idate	Austronesian	4Timor, 2Central	su'ʔar	nan	s u ˈʔ - a r	(349, 'kelo1247', 'huhuih')	nan		
+349.0	to speak	idat1237	Idate	Austronesian	4Timor, 2Central	su'ʔar	nan	s u ˈʔ - a r	(572, 'kula1280', 'sumpa')	nan		
 352.0	to lie down	idat1237	Idate	Austronesian	4Timor, 2Central	'pua	nan	ˈp u - a	(352, 'sout2896-kalik', 'paˈva')	nan		
 353.0	to sleep	idat1237	Idate	Austronesian	4Timor, 2Central	du'ʔur	nan	d u - - ˈʔ u r	(377, 'wers1238', 'wagənir')	nan		
 356.0	to bathe	idat1237	Idate	Austronesian	4Timor, 2Central	'arius	nan	- ˈa r i u s	(451, 'kelo1247', 'əruk')	nan		
@@ -220,7 +220,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382.0	to dance	idat1237	Idate	Austronesian	4Timor, 2Central	'dɑnsa	nan	ˈd ɑ ns a -	(382, 'maka1316', 'dasa')	nan		
 383.0	to sing	idat1237	Idate	Austronesian	4Timor, 2Central	'kɑnta	nan	ˈk ɑ n t a - -	"(380, 'alor1247-baran', ""'gɛki"")"	nan		
 389.0	to suck	idat1237	Idate	Austronesian	4Timor, 2Central	'dudus	nan	ˈd u d u s - - -	(389, 'tetu1245-vique', 'dada is')	nan		
-390.0	to blow	idat1237	Idate	Austronesian	4Timor, 2Central	sɑ'pu:	nan	- s ɑ ˈp - - uː	(390, 'pura1258', 'apu')	nan		
+390.0	to blow	idat1237	Idate	Austronesian	4Timor, 2Central	sɑ'pu:	nan	- - - s ɑ ˈp uː - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	idat1237	Idate	Austronesian	4Timor, 2Central	bu'rit	nan	b u ˈr i - t -	(391, 'pura1258', 'puruŋ')	nan		
 392.0	to vomit	idat1237	Idate	Austronesian	4Timor, 2Central	neona'pe:	nan	n e o n a ˈp eː	"(392, 'idat1237', ""neona'pe:"")"	nan		
 393.0	to rub	idat1237	Idate	Austronesian	4Timor, 2Central	'sɔ:	nan	- ˈs ɔː - -	(393, 'pura1258', 'osoŋ')	nan		

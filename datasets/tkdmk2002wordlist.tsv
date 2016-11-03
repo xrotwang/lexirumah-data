@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔɑi 'mɔʔɔ	nan	ˈʔ ɑ i _ ˈm ɔ ʔ ɔ	"(0, 'tuku1254', ""'ʔɑi 'mɔʔɔ"")"	nan		
-1.0	sun	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'lɛlɔ	nan	ˈl ɛ l ɔ	(1, 'cent2245-hewa', 'ləro')	nan		
-2.0	moon	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l - - a	"(2, 'tuku1254', ""'hula"")"	nan		
+1.0	sun	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'lɛlɔ	nan	ˈl ɛ l ɔ - - - - - -	(1, 'sika1262-tanai', 'ləro')	nan		
+2.0	moon	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l a - - ( - - - - - - - - )	(0, 'p-aust1307-acd', '*laŋiC')	nan		
 3.0	star	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hitu	nan	ˈh i t u	(3, 'pura1258', 'jid')	nan		
 4.0	night	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'rɑe 'buta	dust ?	ˈr ɑ e _ ˈb u t - - a	"(4, 'tuku1254', ""'rɑe 'buta"")"	nan		
 5.0	day	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ɑer	nan	ˈɑ e r	"(5, 'tuku1254', ""'ɑer"")"	nan		
@@ -19,7 +19,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32.0	stone	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hatu	nan	ˈh a t u -	(32, 'cent2245-hewa', 'ʋatu')	nan		
 35.0	water (fresh)	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔɛ:	nan	ˈʔ ɛː -	"(35, 'tuku1254', ""'ʔɛ:"")"	nan		
 36.0	sea; sea water	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'tɑsi	nan	ˈt ɑ s i - - - - -	(36, 'cent2245-hewa', 'tahi')	nan		
-39.0	forest	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'lara	Generic ?	ˈk ɑ i _ ˈl a r a -	"(39, 'tetu1246', ""'ʔɑi 'larɑn"")"	nan		
+39.0	forest	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'lara	Generic ?	ˈk ɑ i _ ˈl a r a -	(39, 'keda1252-leuwa', 'kain laraŋ')	nan		
 43.0	garden	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'brɑɔ	nan	ˈb - r ɑ ɔ	(43, 'wers1238', 'pur')	nan		
 45.0	road; path; way	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'da:	nan	ˈd aː	"(45, 'tuku1254', ""(R) 'da:"")"	nan		
 46.0	canoe	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'prɔ:	canoe; canoe fire; canoe; boat	ˈp - r ɔː - -	"(46, 'abui1241-petle', ""'pe.laŋ"")"	nan		
@@ -41,7 +41,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86.0	bark (of tree)	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi ku'luta	Generic bark; bark of tree 	ˈk ɑ i _  k u ˈl u t a -	(86, 'cent2245-hewa', 'ʔai klokok')	nan		
 87.0	leaf	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'rɔa	Generic leaf	ˈk ɑ i _ ˈr ɔ a	"(87, 'tuku1254', ""'kɑi 'rɔa"")"	nan		
 91.0	root	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'rɑmut	Generic root	ˈk ɑ i _ ˈr ɑ m u t	(322, 'lamm1241', 'ku minna')	nan		
-92.0	fruit	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'hu:	Generic fruit	ˈk ɑ i _ ˈh uː - -	"(92, 'tuku1254', ""'kɑi 'hu:"")"	nan		
+92.0	fruit	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'hu:	Generic fruit	ˈk ɑ i _ - - ˈh uː - - -	(92, 'sika1262-tanai', 'βua-ŋ')	nan		
 93.0	seed	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hi:ni	nan	ˈh iː n i	(93, 'cent2245-hewa', 'une')	nan		
 97.0	rice grains (unhusked) (raw from field)	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'rɛsa ku'luta	rice bark; unpeeled rice; rice seed	ˈr ɛ s a _ k u ˈl u t a	(97, 'sout2896-kalik', 'ˈlisɔ kaˈrad͡ʒ')	nan		
 98.0	cooked rice	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔaʔa	cooked.rice; cooked rice	ˈʔ a ʔ a	"(98, 'tuku1254', ""'ʔaʔa"")"	nan		
@@ -79,20 +79,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 163.0	arm	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'limu	nan	ˈl i m - - - - u -	(163, 'cent2245-hewa', 'lima')	nan		
 164.0	hand	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'limu 'tane	hand sole	ˈl i m u - _ ˈt a n e - - -	(91, 'sika1262-tanai', 'ʔramut')	nan		
 168.0	breast	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'susu	nan	ˈs u s u -	(168, 'tetu1245-suai', 'susun')	nan		
-170.0	navel	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'pusa	nan	- - k u ˈp u s a -	(282, 'sika1262-tanai', 'anak')	nan		
+170.0	navel	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'pusa	nan	k u ˈp u s - a - - - - - -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 174.0	leg	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'koe	nan	ˈk o - e	"(326, 'alor1247-baran', ""'hama"")"	nan		
 175.0	foot	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'koe 'tɛtɛ	foot ?; foot sole; bridge of foot; sole of foot	ˈk o e _ ˈt ɛ t ɛ	"(175, 'tuku1254', ""'koe 'tɛtɛ"")"	nan		
 175.0	foot	tuku1254	Tokodede	Austronesian	4Timor, 2Central	koe tane	foot ?; foot sole; bridge of foot; sole of foot	k o e _ t a n e	"(175, 'tuku1254', ""'koe 'tɛtɛ"")"	nan		
 178.0	knee	tuku1254	Tokodede	Austronesian	4Timor, 2Central	tu'nuru	nan	- t u ˈn u r u - -	"(178, 'maka1316', ""iti'koru"")"	nan		
 179.0	back	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'tɛtɛ	lower back; upper back	k u ˈt ɛ t ɛ	"(179, 'tetu1245-suai', ""'kɔtuk"")"	nan		
 179.0	back	tuku1254	Tokodede	Austronesian	4Timor, 2Central	tete rui	lower back; upper back	- - t e t e _ - r u i	"(179, 'pura1258', ""amo'ta"")"	nan		
-182.0	skin	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'luta	nan	( - - - - - - ) k u ˈl u t a -	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'luta	nan	( - - - - - - - ) k u - ˈl u t a - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 190.0	person	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'ʔatu	nan	ˈʔ a t u	(190, 'cent2245-hewa', 'ata')	nan		
 191.0	name	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'gala	nan	ˈg a l a -	"(191, 'tuku1254', ""(R) 'gala"")"	nan		
 192.0	child	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'ʔana	nan	ˈʔ a n a -	(192, 'alor1247-baran', 'ʔanaŋ')	nan		
 193.0	man	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'mane 'ʔisɔ	male person; man	- ˈm - a n e - _ ˈʔ i s ɔ	(193, 'tetu1245-suai', 'manɛ')	nan		
 194.0	woman	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'hine 'ʔisɔ	female person ; woman	ˈh i n e _ ˈʔ i s ɔ	"(231, 'kaer1234', ""wa'xur"")"	nan		
-195.0	husband	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'laki	nan	- - ˈl a k i -	(195, 'cent2245-hewa', 'laʔi')	nan		
+195.0	husband	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'laki	nan	- - - - ˈl a k i -	(169, 'adon1237', 'ˈobaˈkɜt')	nan		
 196.0	wife	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'he:	nan	ˈh eː - -	(196, 'tetu1245-suai', 'fɛn')	nan		
 197.0	mother	tuku1254	Tokodede	Austronesian	4Timor, 2Central	a'mã:	nan	- a ˈm ãː	(197, 'maka1316', 'mama')	nan		
 198.0	father	tuku1254	Tokodede	Austronesian	4Timor, 2Central	a'pã:	nan	- a ˈp ãː	(38, 'p-mala1545-acd', '*buseq')	nan		
@@ -107,13 +107,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 205.0	2sg (polite)	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kiti	nan	ˈk i t i	(6, 'keda1252-leuwa', 'tun')	nan		
 206.0	3sg	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔu:	nan	ˈʔ uː - -	"(206, 'tuku1254', ""'ʔu:"")"	nan		
 207.0	1pl excl	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑmi	nan	ˈk ɑ m i	(207, 'sika1262-tanai', 'ʔami')	nan		
-208.0	1pl incl	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kiti	nan	- ˈk i t i	(208, 'cent2245-hewa', 'ʔita')	nan		
+208.0	1pl incl	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kiti	nan	- ˈk i t i - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 209.0	2pl	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kimi	nan	- ˈk i m i -	(209, 'cent2245-hewa', 'miu')	nan		
-210.0	3pl	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'rɔʔɔ	nan	- - ˈr ɔ ʔ ɔ - - - - - - - -	(210, 'cent2245-hewa', 'rimu')	nan		
+210.0	3pl	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'rɔʔɔ	nan	ˈr ɔ ʔ ɔ	(210, 'cent2245-hewa', 'rimu')	nan		
 211.0	no; not	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'tɑʔi	nan	ˈt ɑ ʔ i -	(211, 'p-cent2245-abvd', '*diaq')	nan		
 212.0	and	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'lɔs	nan	- - ˈl ɔ s	"(212, 'tuku1254', ""'lɔs"")"	nan		
 213.0	because	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'pita	nan	ˈp i t a	"(213, 'tuku1254', ""'pita"")"	nan		
-214.0	if	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kuɑndu	nan	ˈk u ɑ n d u	(238, 'maka1316', 'jɛfa')	nan		
+214.0	if	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kuɑndu	nan	ˈk u ɑ n d u	(41, 'cent2245-hewa', 'pulau')	nan		
 215.0	with	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔɔ:	nan	ˈʔ ɔː	"(215, 'tetu1246', ""'hɔ:"")"	nan		
 216.0	what?	tuku1254	Tokodede	Austronesian	4Timor, 2Central	lɛ'hɛ:ta	nan	l ɛ ˈh ɛː t a	(216, 'tetu1245-suai', 'saɁida, sa')	nan		
 217.0	who?	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'seni	nan	ˈs e n i -	(217, 'sout2896-kalik', 'eˈnak')	nan		
@@ -122,7 +122,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 221.0	how much; how many?	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'pi:l	nan	ˈp iː l -	(221, 'cent2245-hewa', 'pira')	nan		
 222.0	how?	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'pɛlɛ'hɛta	nan	ˈp ɛ l ɛ ˈh ɛ t a	"(222, 'tuku1254', ""'pɛlɛ'hɛta"")"	nan		
 222.0	how?	tuku1254	Tokodede	Austronesian	4Timor, 2Central	pumane	nan	p u m a n e	(222, 'tuku1254', 'pumane')	nan		
-223.0	this	tuku1254	Tokodede	Austronesian	4Timor, 2Central	kə'dɛʔɛ	nan	k ə ˈd ɛ ʔ ɛ	"(223, 'tuku1254', ""kə'dɛʔɛ"")"	nan		
+223.0	this	tuku1254	Tokodede	Austronesian	4Timor, 2Central	kə'dɛʔɛ	nan	( k ) ə - - ˈd ɛ ʔ ɛ	(223, 'maka1316', 'ɛrɛɁɛ')	nan		
 224.0	that	tuku1254	Tokodede	Austronesian	4Timor, 2Central	kɔ'nɔʔɔ	nan	k ɔ ˈn ɔ ʔ ɔ	"(224, 'tuku1254', ""kɔ'nɔʔɔ"")"	nan		
 225.0	at	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hɛr	nan	ˈh ɛ r - - -	"(225, 'tuku1254', ""'hɛr"")"	nan		
 226.0	in; inside	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hɛr	nan	ˈh ɛ r -	"(226, 'tuku1254', ""'hɛr"")"	nan		
@@ -139,13 +139,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 235.0	many	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'le:ɑr	many (persons); many (things)	ˈl eː ɑ r	"(235, 'tuku1254', ""'le:ɑr"")"	nan		
 235.0	many	tuku1254	Tokodede	Austronesian	4Timor, 2Central	dotu	many (persons); many (things)	d o t u	(235, 'tuku1254', 'dotu')	nan		
 236.0	animal	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'lapa 'rubu	nan	ˈl a p a _ ˈr u b u	"(236, 'tuku1254', ""(R) 'lapa 'rubu"")"	nan		
-238.0	dog	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'ʔasu	nan	ˈʔ a s u	(238, 'cent2245-hewa', 'ahu')	nan		
+238.0	dog	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'ʔasu	nan	ˈʔ a s u - - - - - - -	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 249.0	tail	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'ʔikɔ	nan	ˈʔ i k ɔ -	"(249, 'alor1247-baran', ""'ikuk"")"	nan		
 250.0	fish	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔika	nan	ˈʔ i k a -	(370, 'p-cent2245-abvd', '*zakan')	nan		
 259.0	bird	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'manu	nan	ˈm a n u	"(259, 'tetu1245-suai', ""manu 'semo"")"	nan		
 260.0	wing	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'lilɑr	nan	ˈl i l - - ɑ r	(260, 'maka1316', 'lia')	nan		
 261.0	claw	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'limu ku'ma:t	nan	ˈl i m u _ k u ˈm aː t	"(261, 'tuku1254', ""(R) 'limu ku'ma:t"")"	nan		
-262.0	feather	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hulu	body.hair; body.hair bird; body hair; feathers	ˈh u l u -	(208, 'cent2245-hewa', 'ʔita')	nan		
+262.0	feather	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hulu	body.hair; body.hair bird; body hair; feathers	ˈh u l u - - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 262.0	feather	tuku1254	Tokodede	Austronesian	4Timor, 2Central	manu hulu	body.hair; body.hair bird; body hair; feathers	m a n u _ h u l u	(262, 'tuku1254', 'manu hulu')	nan		
 263.0	horn	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'sɔru	nan	ˈs ɔ r u -	(263, 'cent2245-hewa', 'taran')	nan		
 264.0	snake	tuku1254	Tokodede	Austronesian	4Timor, 2Central	(R) 'nipɛ	nan	ˈn i p ɛ	(264, 'fata1247', 'nana')	nan		
@@ -194,7 +194,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ɔ'lara; 'nurat	remember; think.about; remember; think about	ɔ ˈl a r a	"(346, 'tuku1254', ""ɔ'lara; 'nurat"")"	nan		
 347.0	to know	tuku1254	Tokodede	Austronesian	4Timor, 2Central	pa'naʔa	nan	p a ˈn a ʔ a	"(347, 'tuku1254', ""pa'naʔa"")"	nan		
 348.0	to say	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'daleʔ	say	- - - - ˈd a l e ʔ	"(348, 'tuku1254', ""'daleʔ"")"	nan		
-349.0	to speak	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'boʔa də'lɑi	talk play; give word; chat; tell	ˈb o ʔ a _ d ə ˈl ɑ i	"(349, 'tuku1254', ""'boʔa də'lɑi"")"	nan		
+349.0	to speak	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'boʔa də'lɑi	talk play; give word; chat; tell	( ˈb ) o ʔ a _ d ə ˈl ɑ i - -	(349, 'tetu1245-suai', 'dale')	nan		
 349.0	to speak	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ne pana'a	talk play; give word; chat; tell	n e _ p a n a ˈa	"(349, 'tuku1254', ""ne pana'a"")"	nan		
 352.0	to lie down	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔɛna	nan	ˈʔ ɛ n a	"(352, 'tuku1254', ""'ʔɛna"")"	nan		
 353.0	to sleep	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔɛna kɑ'bɑe	nan	ˈʔ ɛ n a _ k ɑ ˈb ɑ e	"(353, 'tuku1254', ""'ʔɛna kɑ'bɑe"")"	nan		
@@ -212,7 +212,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 369.0	to eat	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ha'a	nan	h a - ˈa	(369, 'cent2245-hewa', 'ʔa')	nan		
 370.0	to cook	tuku1254	Tokodede	Austronesian	4Timor, 2Central	lɑ'hɑte	nan	- l ɑ ˈh ɑ t - e	"(370, 'tuku1254', ""lɑ'hɑte"")"	nan		
 371.0	to wash	tuku1254	Tokodede	Austronesian	4Timor, 2Central	kɑ'hɑsa	nan	k ɑ ˈh ɑ s a	(21, 'sika1262-tanai', 'səbu sak')	nan		
-372.0	to sew	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'sɔr	nan	ˈs ɔ - r - -	"(372, 'alor1247-baran', ""'haur"")"	nan		
+372.0	to sew	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'sɔr	nan	- - - ˈs ɔ - r - - - - - - - - - -	(372, 'wers1238', 'sor burkiŋ')	nan		
 373.0	to live; be alive; living	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'mɔri	nan	ˈm ɔ - r i -	(373, 'cent2245-hewa', 'moret')	nan		
 374.0	to breathe	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'pɛri 'brɛ:	pull breath; breathe	ˈp ɛ r i _ ˈb r ɛː	"(374, 'tuku1254', ""'pɛri 'brɛ:"")"	nan		
 375.0	to work	tuku1254	Tokodede	Austronesian	4Timor, 2Central	sɛr'bisu	nan	s ɛ r - ˈb i s u	"(375, 'tetu1245-suai', ""se'risu"")"	nan		
@@ -225,7 +225,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382.0	to dance	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'dɑnsa	nan	ˈd ɑ ns a -	(382, 'maka1316', 'dasa')	nan		
 383.0	to sing	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑnta	nan	ˈk ɑ n t a - -	"(380, 'alor1247-baran', ""'gɛki"")"	nan		
 389.0	to suck	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'mus	nan	k u - - ˈm u s - - -	"(389, 'alor1247-baran', ""'dum:ɔ"")"	nan		
-390.0	to blow	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'pɔ:	nan	ˈp ɔː - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
+390.0	to blow	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'pɔ:	nan	- - - - - ˈp ɔː - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'lua ka'be:	nan	ˈl u - a _ k a ˈb eː -	"(391, 'laka1255', ""'lɛɔ 'ʔɑbɑr"")"	nan		
 392.0	to vomit	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'mu:t	nan	ˈm uː t - -	(392, 'cent2245-hewa', 'mutaʔ')	nan		
 393.0	to rub	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɔs	nan	ˈk ɔ s -	(326, 'sika1262-tanai', 'desak')	nan		

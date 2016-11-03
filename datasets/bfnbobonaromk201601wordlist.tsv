@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	fa:n	The word list contains different dialects. The lexical differences are often between Suai and Bobonaro/Maliana. Phonological differences include: /ph/ in Suai often corresponds to  /f/ in Bobonaro; and  /r/ in Suai may correspond to /l/ in Bobonaro.	- f aː n - - -	(0, 'kula1280-lanto', 'apəŋge(y)a')	nan		
-1.0	sun	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔt	nan	- - - - h ɔ t -	(1, 'atim1239', 'wari')	nan		
-2.0	moon	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hul	nan	h u l	(2, 'adan1251', 'ul')	nan		
+1.0	sun	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔt	nan	h ɔ t - - - -	(1, 'wers1238', 'wudi')	nan		
+2.0	moon	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hul	nan	h u l - - - ( - - - - - - - - )	(0, 'p-aust1307-acd', '*laŋiC')	nan		
 3.0	star	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bi:	nan	- - b - iː -	(3, 'atim1239', 'fir')	nan		
 4.0	night	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛnɛ	nan	ɛ n ɛ	(4, 'buna1278-bobon', 'ɛnɛ')	nan		
 5.0	day	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	lɛ:	nan	l ɛː	(5, 'buna1278-bobon', 'lɛ:')	nan		
@@ -12,8 +12,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 10.0	tomorrow	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	leigie	nan	l e i g i e	(10, 'buna1278-bobon', 'leigie')	nan		
 11.0	day after tomorrow	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hile rei	nan	h i l e _ r e i	(11, 'buna1278-bobon', 'hile rei')	nan		
 12.0	twilight; dawn	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛne gɔlˑnɔ	nan	ɛ n e _ g ɔ lˑ n ɔ	(12, 'buna1278-bobon', 'ɛne gɔlˑnɔ')	nan		
-13.0	cloud	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tahɔ, zɛmɛl	nan	t a h ɔ	(13, 'buna1278-bobon', 'tahɔ, zɛmɛl')	nan		
-14.0	wind	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bɛl	nan	b ɛ l	(14, 'buna1278-bobon', 'bɛl')	nan		
+13.0	cloud	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tahɔ, zɛmɛl	nan	t a h ɔ - - - - - -	(13, 'atim1239', 'tabo')	nan		
+14.0	wind	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bɛl	nan	- - b ɛ l - -	(76, 'sika1262-tanai', 'riʔi')	nan		
 15.0	rain	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	inɛl	nan	i n ɛ l -	(15, 'atim1239', 'anui')	nan		
 16.0	drizzle	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	inɛl ga:s	nan	i n ɛ l _ g aː s	(16, 'buna1278-bobon', 'inɛl ga:s')	nan		
 17.0	rainbow	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zɛmo	nan	z ɛ m o	(17, 'buna1278-bobon', 'zɛmo')	nan		
@@ -40,7 +40,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 38.0	foam	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	pɔ:	nan	p ɔː	(38, 'buna1278-bobon', 'pɔ:')	nan		
 39.0	forest	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	athak mil	ɔtel=wood, athak= forest/green, mil=inside	a th a k _ m i l	(39, 'buna1278-bobon', 'athak mil')	nan		
 40.0	field	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	u: mil	nan	uː _ m i l - -	(40, 'buna1278-bobon', 'u: mil')	nan		
-41.0	island	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ila, pulau	ila<Portuguese, pulau<Indonesian	- i l a -	(41, 'cent2245-hewa', 'pulau')	nan		
+41.0	island	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ila, pulau	ila<Portuguese, pulau<Indonesian	- i l a -	(41, 'buna1278-bobon', 'ila, pulau')	nan		
 42.0	rice field	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	loɛ mug il, loɛ mug sɔ	loɛ=sawah, mug=soil, sɔ=dry, il = wet	l o ɛ _ m u g _ i l	(42, 'buna1278-bobon', 'loɛ mug il, loɛ mug sɔ')	nan		
 43.0	garden	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	maɁ	nan	m a ʔ	(43, 'buna1278-bobon', 'maɁ')	nan		
 44.0	fence	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɛlɛ	nan	h ɛ l ɛ	(44, 'buna1278-bobon', 'hɛlɛ')	nan		
@@ -62,7 +62,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ʧuri gɔl	nan	ʧ u r i _ g ɔ l	(61, 'buna1278-bobon', 'ʧuri gɔl')	nan		
 62.0	comb	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sue, sae	nan	s u e	(62, 'buna1278-bobon', 'sue, sae')	nan		
 63.0	mat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	pil	nan	p i l	(63, 'buna1278-bobon', 'pil')	nan		
-64.0	needle	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	daun	nan	d a u n	(64, 'buna1278-bobon', 'daun')	nan		
+64.0	needle	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	daun	nan	d a u - - n - ( - - - - )	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
 65.0	clothing	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bai phata (B), bai batha (M)	nan	b a i _ ph a t a	(65, 'buna1278-bobon', 'bai phata (B), bai batha (M)')	nan		
 67.0	fire	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɔtɔ, hɔtɔ	nan	ɔ t - ɔ - - - - - -	(67, 'adan1251', 'aʔfail')	nan		
 68.0	smoke	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	botho	nan	- - - - - b o th o - - -	(68, 'adan1251', 'banɔʔ')	nan		
@@ -88,7 +88,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89.0	firewood	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɔtɛl sukha, ɔtɛl tsuri (B), ɔtɛl tsukha, ɔtɛl tsuri (M)	nan	ɔ t ɛ l _ s u kh a	(89, 'teiw1235', 'xar')	nan		
 90.0	rattan	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sɛn	nan	s ɛ n	(90, 'buna1278-bobon', 'sɛn')	nan		
 91.0	root	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	g-ɛthɛl	g- = possessive prefix	g ɛ th ɛ l	(91, 'buna1278-bobon', 'g-ɛthɛl')	nan		
-92.0	fruit	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔɁ, zɔ gɔɁ	zo=mango, gɔɁ=fruit, seed	g ɔ ʔ	(92, 'buna1278-bobon', 'gɔɁ, zɔ gɔɁ')	nan		
+92.0	fruit	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔɁ, zɔ gɔɁ	zo=mango, gɔɁ=fruit, seed	g ɔ ʔ	"(92, 'buna1278-malia', ""'gɔʔ; 'ʔotɛl 'gɔʔ"")"	nan		
 93.0	seed	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔɁ	nan	g ɔ ʔ	(93, 'buna1278-bobon', 'gɔɁ')	nan		
 94.0	grain; cereal	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ipi gɔl, ipi gɔɁ	nan	i p i _ g ɔ l	(94, 'buna1278-bobon', 'ipi gɔl, ipi gɔɁ')	nan		
 96.0	husked rice; uncooked rice	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ipi piral	bai=thing, piral=naked	i p i _ p i r a l	(96, 'buna1278-bobon', 'ipi piral')	nan		
@@ -99,7 +99,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 101.0	to plant (rice)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ipi phɛlɛk	nan	i p i _ ph ɛ l ɛ k	(101, 'buna1278-bobon', 'ipi phɛlɛk')	nan		
 102.0	betel nut; areca	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	pu	nan	p u - -	(36, 'p-aust1307-abvd', '*tenem')	nan		
 103.0	betel vine	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	molo	nan	m o l o -	(588, 'p-cent2245-abvd', '*buŋa')	nan		
-104.0	lime	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hau	nan	h a - - - u	(390, 'buna1278-bobon', 'huɁ')	nan		
+104.0	lime	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hau	nan	h a - - - u	(104, 'atim1239', 'awai')	nan		
 105.0	chew betel	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	molo Ɂa	nan	m o l o _ ʔ a	(105, 'buna1278-bobon', 'molo Ɂa')	nan		
 106.0	sweet potato	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sikhal	nan	s i kh a l	(106, 'buna1278-malia', 'sikhɑl')	nan		
 107.0	cassava	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ai tɛba	nan	a i _ t ɛ b a	(391, 'atim1239', 'puina')	nan		
@@ -161,10 +161,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 164.0	hand	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔn	nan	( g ) ɔ - - n - - - - - -	"(164, 'buna1278-malia', ""'nɔn-'gɔn-'ʔɔn"")"	nan		
 165.0	palm of hand	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔmil	mil=inside	g ɔ m i l	(165, 'buna1278-bobon', 'gɔmil')	nan		
 166.0	finger	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔnka:l	nan	g ɔ n k aː l	"(266, 'kaer1234', ""gɔtɔ'xi:"")"	nan		
-167.0	fingernail	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔnɔs	nan	g ɔ n ɔ s	(208, 'cent2245-hewa', 'ʔita')	nan		
+167.0	fingernail	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔnɔs	nan	g ɔ n ɔ s - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 168.0	breast	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	su:	nan	- - s uː	(168, 'tetu1245-suai', 'susun')	nan		
 169.0	chest	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	githa	nan	- g i - - th a -	(169, 'buna1278-bobon', 'githa')	nan		
-170.0	navel	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gibis	nan	g i b i s	(170, 'buna1278-bobon', 'gibis')	nan		
+170.0	navel	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gibis	nan	g i b i s	"(170, 'buna1278-malia', ""'ʔibis-'gibis-'nibis"")"	nan		
 171.0	penis	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	kali	nan	k a l i	(171, 'buna1278-bobon', 'kali')	nan		
 172.0	vagina	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gizil	nan	g i z i l	(172, 'buna1278-bobon', 'gizil')	nan		
 173.0	testicles	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	kali gɔ	nan	k a l i _ - g ɔ - -	(173, 'adan1251', 'atu afail')	nan		
@@ -201,28 +201,28 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 204.0	2sg (informal)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛtɔ	nan	- ɛ t ɔ - -	"(204, 'buna1278-malia', ""'ʔɛtɔ"")"	nan		
 205.0	2sg (polite)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛtɔ	nan	- ɛ t ɔ	(205, 'wers1238', 'adi')	nan		
 206.0	3sg	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	baɁi	nan	b a ʔ i	(206, 'maka1316', 'laɁi')	nan		
-207.0	1pl excl	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	nei	nan	n e - i - -	(207, 'wers1238', 'ɲadi')	nan		
-208.0	1pl incl	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	i:	nan	- iː - - - -	(208, 'maka1316', 'fi:')	nan		
+207.0	1pl excl	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	nei	nan	- n e - i - -	(207, 'wers1238', 'ɲadi')	nan		
+208.0	1pl incl	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	i:	nan	- - iː - - - -	(208, 'maka1316', 'fi:')	nan		
 209.0	2pl	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ei	nan	- e i - - -	(209, 'maka1316', 'i:')	nan		
 210.0	3pl	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔlaɁi	nan	h ɔ l a ʔ i	"(210, 'buna1278-malia', ""ʔɔla'ʔi; ʔɑla'ʔi"")"	nan		
-211.0	no; not	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ani	nan	- a - - n i	(195, 'adon1237', 'ˈlakhẽ')	nan		
+211.0	no; not	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ani	nan	- a - - n i	(211, 'wers1238', 'nauŋ')	nan		
 212.0	and	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔ, gutʃu	ho= and, g-utʃu=with him/her	- - h ɔ	"(212, 'tetu1246', ""'hɔ:"")"	nan		
 213.0	because	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tamba	tamba<Tetun D	t a m b a	(213, 'wers1238', 'troŋpai')	nan		
 214.0	if	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	se	nan	s e	(214, 'buna1278-bobon', 'se')	nan		
 215.0	with	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gutʃu	nan	g u tʃ u	(215, 'buna1278-bobon', 'gutʃu')	nan		
 216.0	what?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	negɔ	nan	n e g ɔ	"(216, 'kaer1234', ""nabɔ, na'bilah"")"	nan		
 217.0	who?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sio, tʃio	nan	s i o	(217, 'buna1278-bobon', 'sio, tʃio')	nan		
-218.0	where?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tɛro gɛne, tʃiɔ gɛnɛ, tɔ gɛnɛ	nan	t ɛ r o _ g ɛ n e	(218, 'buna1278-bobon', 'tɛro gɛne, tʃiɔ gɛnɛ, tɔ gɛnɛ')	nan		
+218.0	where?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tɛro gɛne, tʃiɔ gɛnɛ, tɔ gɛnɛ	nan	t ɛ r o _ g ɛ n e -	(218, 'wers1238', 'troglol')	nan		
 219.0	when?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃuɛn dei	nan	tʃ u ɛ n _ d e i	(219, 'wers1238', 'deiŋ te')	nan		
-220.0	why?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	negɔɁɔn	nan	n e g ɔ ʔ ɔ n	(220, 'buna1278-bobon', 'negɔɁɔn')	nan		
+220.0	why?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	negɔɁɔn	nan	n e g ɔ ʔ ɔ n	"(220, 'buna1278-malia', ""nego'ʔɔn"")"	nan		
 221.0	how much; how many?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃuɛn-tʃuɛn	nan	tʃ u ɛ n tʃ u ɛ n	(221, 'buna1278-bobon', 'tʃuɛn-tʃuɛn')	nan		
-222.0	how?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃuɛn guɛtɁon	nan	tʃ u - - - ɛ n _ g u ɛ t ʔ o n	(222, 'kaer1234', 'taraŋ')	nan		
-223.0	this	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	are	nan	a r e	(223, 'buna1278-bobon', 'are')	nan		
+222.0	how?	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃuɛn guɛtɁon	nan	tʃ u - - - ɛ n _ g u ɛ t ʔ o n	"(222, 'pura1258', ""ta'talaŋ"")"	nan		
+223.0	this	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	are	nan	( - ) a - - r e - -	(223, 'maka1316', 'ɛrɛɁɛ')	nan		
 224.0	that	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	otaba	nan	o t a b a	(224, 'buna1278-bobon', 'otaba')	nan		
 225.0	at	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɛnɛ	nan	g ɛ n ɛ	(225, 'buna1278-bobon', 'gɛnɛ')	nan		
 226.0	in; inside	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	mil	nan	- m i l -	(226, 'wers1238', 'mira')	nan		
-227.0	here	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	arenɔ	nan	a r e n ɔ	(227, 'buna1278-bobon', 'arenɔ')	nan		
-228.0	there	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	otaba gɛnɛ	nan	o t a b a _ g ɛ n ɛ	"(228, 'buna1278-malia', ""'ba'ʔa 'gɛnɛ; ʔo'taba 'gɛnɛ"")"	nan		
+227.0	here	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	arenɔ	nan	- a r e n ɔ	"(227, 'buna1278-malia', ""'ba:rɛ'no"")"	nan		
+228.0	there	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	otaba gɛnɛ	nan	- o t a b a _ g ɛ n ɛ	"(228, 'buna1278-malia', ""'ba'ʔa 'gɛnɛ; ʔo'taba 'gɛnɛ"")"	nan		
 229.0	above	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	wa gɛnɛ, ɛsen gɛnɛ	nan	w a _ g ɛ n ɛ	(229, 'buna1278-bobon', 'wa gɛnɛ, ɛsen gɛnɛ')	nan		
 230.0	below	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zigi gɛnɛ, mual gɛnɛ	nan	z i g i _ g ɛ n ɛ	"(230, 'buna1278-malia', ""'ʔɔkɔh 'gɛnɛ"")"	nan		
 231.0	left (side)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	suɛl, tʃuɛl	nan	s u ɛ l	(231, 'buna1278-bobon', 'suɛl, tʃuɛl')	nan		
@@ -232,13 +232,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 235.0	many	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	baɁis	nan	b a ʔ i s	(235, 'buna1278-bobon', 'baɁis')	nan		
 236.0	animal	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	kasaɁ gɔl, animal	animal < Portuguese	k a s a ʔ _ g ɔ l	"(236, 'buna1278-malia', ""'khɑsɑh"")"	nan		
 237.0	fowl	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔs	hɔs=bird, no special word for fowl exists	h ɔ s	(237, 'buna1278-bobon', 'hɔs')	nan		
-238.0	dog	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zap	nan	z a - p - -	"(238, 'kaer1234', ""i'bar"")"	nan		
+238.0	dog	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zap	nan	z a p - -	(238, 'maka1316', 'jɛfa')	nan		
 239.0	pig	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	saɁɛl	nan	s a ʔ ɛ l	(239, 'buna1278-bobon', 'saɁɛl')	nan		
 240.0	chicken	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃie	nan	tʃ i - e	(259, 'kelo1247', 'hi ʔidɔm')	nan		
 241.0	rat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zul	nan	z u l	(241, 'buna1278-bobon', 'zul')	nan		
 242.0	lizard	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	thɔkɔh	nan	th ɔ k ɔ h	(242, 'buna1278-bobon', 'thɔkɔh')	nan		
 243.0	civet cat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zulɔ	nan	z u l ɔ	(243, 'buna1278-bobon', 'zulɔ')	nan		
-244.0	deer	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bibu, rusa	rusa < Indonesian	b i b u	(244, 'buna1278-bobon', 'bibu, rusa')	nan		
+244.0	deer	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bibu, rusa	rusa < Indonesian	b i b u	"(244, 'tetu1245-suai', ""bibi 'rusa"")"	nan		
 245.0	frog	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	kɛlɛɁ	nan	- k ɛ l ɛ ʔ	(245, 'buna1278-bobon', 'kɛlɛɁ')	nan		
 246.0	bat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zupal	nan	z u p a l	(246, 'buna1278-bobon', 'zupal')	nan		
 247.0	flying fox; fruit bat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	x	nan	x	(247, 'buna1278-bobon', 'x')	nan		
@@ -258,7 +258,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 262.0	feather	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔs gɔt, tʃie gɔt	hɔs= bird, tʃie= chicken; hɔs=bird, tʃie=chicken 	h ɔ s _ g ɔ t	(262, 'buna1278-bobon', 'hɔs gɔt, tʃie gɔt')	nan		
 263.0	horn	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gipe	nan	g i p e	(263, 'buna1278-bobon', 'gipe')	nan		
 264.0	snake	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	zi:	nan	z iː	(264, 'buna1278-bobon', 'zi:')	nan		
-265.0	scorpion	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛlɛ	nan	ɛ l ɛ	(265, 'buna1278-bobon', 'ɛlɛ')	nan		
+265.0	scorpion	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛlɛ	nan	ɛ l ɛ	(265, 'sout2896-kalik', 'iˈlɔt')	nan		
 266.0	egg	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gutʃu	nan	g u tʃ u	(266, 'buna1278-bobon', 'gutʃu')	nan		
 267.0	earthworm	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bikhuɛl	nan	b i kh u ɛ l	(267, 'buna1278-bobon', 'bikhuɛl')	nan		
 268.0	butterfly	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	una	nan	u n a	(268, 'buna1278-bobon', 'una')	nan		
@@ -286,10 +286,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 290.0	good	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	kuɛn, lɔi	nan	k u ɛ n	(290, 'buna1278-bobon', 'kuɛn, lɔi')	nan		
 291.0	bad	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	lɔini, kuɛnni	nan	l ɔ i n i	"(291, 'buna1278-malia', ""'loi 'niʔ"")"	nan		
 292.0	full	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	khaɛɁ	nan	kh a ɛ ʔ	(292, 'buna1278-bobon', 'khaɛɁ')	nan		
-293.0	empty	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔbɛl	nan	- h ɔ b ɛ l	"(293, 'teiw1235', ""ha'sak"")"	nan		
+293.0	empty	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔbɛl	nan	- h ɔ b ɛ l	(210, 'wers1238', 'gadi')	nan		
 294.0	near	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	goɛt	g- is 3rd person prefix	g o - ɛ t	(294, 'adon1237', 'ˈdahe')	nan		
 295.0	far	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	athɛ	nan	a th ɛ	(295, 'buna1278-bobon', 'athɛ')	nan		
-296.0	wet	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛpɛ	nan	ɛ p ɛ	"(228, 'alor1247-baran', ""'alika'le:"")"	nan		
+296.0	wet	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛpɛ	nan	ɛ p ɛ	"(227, 'kaer1234', ""i'gaŋ 'ga"")"	nan		
 297.0	dry	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sɔɁ, soh	nan	s ɔ ʔ	(297, 'buna1278-bobon', 'sɔɁ, soh')	nan		
 298.0	dry in sun	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɛn	nan	h ɛ n	(298, 'buna1278-bobon', 'hɛn')	nan		
 302.0	short (people)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	barak	nan	b a r a k	(302, 'buna1278-bobon', 'barak')	nan		
@@ -312,7 +312,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 320.0	ripe	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	za:	nan	- - z aː - -	(320, 'atim1239', 'sani')	nan		
 321.0	rotten	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	busuɁ	nan	b u s u ʔ	(321, 'buna1278-bobon', 'busuɁ')	nan		
 322.0	bitter	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	mal	nan	m a l	"(322, 'fata1247', ""ma'larɛ"")"	nan		
-323.0	sweet	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	mɛmɔɁ	nan	m ɛ m ɔ ʔ	(210, 'wers1238', 'gadi')	nan		
+323.0	sweet	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	mɛmɔɁ	nan	m ɛ m ɔ ʔ	(323, 'buna1278-bobon', 'mɛmɔɁ')	nan		
 324.0	sour	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɛsɛl	nan	- ɛ s ɛ l - -	"(324, 'teiw1235', ""paxa'ran"")"	nan		
 325.0	salty	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	malik	nan	m a l i k	"(325, 'teiw1235', ""ma'xaɁ"")"	nan		
 326.0	flat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	thama	nan	th a m a	(326, 'buna1278-bobon', 'thama')	nan		
@@ -338,7 +338,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ganoin	nan	g a n o i n	(346, 'buna1278-bobon', 'ganoin')	nan		
 347.0	to know	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	thara	nan	th a r a	(347, 'buna1278-bobon', 'thara')	nan		
 348.0	to say	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tetʃu	nan	t e tʃ u	(348, 'buna1278-bobon', 'tetʃu')	nan		
-349.0	to speak	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	pazil	nan	p a z i l	(349, 'buna1278-bobon', 'pazil')	nan		
+349.0	to speak	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	pazil	nan	p a z i l	(76, 'keda1252-leuwa', 'ruʔ vadεʔ')	nan		
 350.0	voice	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	giɔl	nan	g i - ɔ l	(350, 'teiw1235', 'g-asi')	nan		
 351.0	language	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	giɔl	nan	- g i - ɔ l	(351, 'teiw1235', 'trau')	nan		
 352.0	to lie down	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	dalai	nan	d a l a i	(352, 'buna1278-bobon', 'dalai')	nan		
@@ -350,7 +350,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 358.0	to sit	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	mit	nan	m i t - - -	(358, 'atim1239', 'miti')	nan		
 359.0	to stand	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	nɛt	nan	n ɛ - - t - - - - - - -	(359, 'pura1258', 'tahi')	nan		
 360.0	to walk	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	mɛlɛ	nan	- - m ɛ l ɛ - - - -	(79, 'buna1278-bobon', 'bai golo, lai golo')	nan		
-361.0	to run	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃial, sial	nan	tʃ i a l	(361, 'buna1278-bobon', 'tʃial, sial')	nan		
+361.0	to run	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃial, sial	nan	tʃ i - a l -	(225, 'kula1280', 'angu')	nan		
 362.0	to go	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	mal	nan	m a l	(362, 'teiw1235', 'gi')	nan		
 363.0	to swim	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	nagi	nan	n a g i	(363, 'adon1237', 'ˈnaŋe')	nan		
 364.0	to fly	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɛ	nan	h ɛ	(364, 'buna1278-bobon', 'hɛ')	nan		
@@ -361,7 +361,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 369.0	to eat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	a:	nan	- aː	(369, 'buna1278-bobon', 'a:')	nan		
 370.0	to cook	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	tʃinik	nan	tʃ i n i k	(370, 'buna1278-bobon', 'tʃinik')	nan		
 371.0	to wash	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ili, phiɛs	ili= wash clothes, phiɛs = wash dishes	i l i	(371, 'buna1278-bobon', 'ili, phiɛs')	nan		
-372.0	to sew	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	phat	nan	ph a t	(372, 'buna1278-bobon', 'phat')	nan		
+372.0	to sew	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	phat	nan	ph a t	(372, 'buna1278-malia', 'phɑt')	nan		
 373.0	to live; be alive; living	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	u:	nan	uː	(373, 'buna1278-bobon', 'u:')	nan		
 374.0	to breathe	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔsil, ɔsil, nɔsil	nan	g ɔ s i l	(374, 'buna1278-bobon', 'gɔsil, ɔsil, nɔsil')	nan		
 375.0	to work	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	bai hɔɁɔn	nan	b a i _ h ɔ ʔ ɔ n	(375, 'buna1278-bobon', 'bai hɔɁɔn')	nan		
@@ -379,7 +379,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 387.0	to chew	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gadil	nan	g a d i l	(387, 'buna1278-bobon', 'gadil')	nan		
 388.0	to yawn	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hairɔ	nan	h a i r ɔ	(388, 'buna1278-bobon', 'hairɔ')	nan		
 389.0	to suck	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	dosilda hasae	nan	d o s i l d a _ h a s a e	(389, 'buna1278-bobon', 'dosilda hasae')	nan		
-390.0	to blow	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	huɁ	nan	h u ʔ	(390, 'buna1278-bobon', 'huɁ')	nan		
+390.0	to blow	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	huɁ	nan	- - - h u ʔ - - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	guzul	nan	- - - - - - - - - g u z - u - l	(391, 'atim1239', 'puina')	nan		
 392.0	to vomit	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	khakhal	nan	kh a kh a l	(392, 'buna1278-bobon', 'khakhal')	nan		
 393.0	to rub	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gururu	nan	g u r u r u	(393, 'buna1278-bobon', 'gururu')	nan		
@@ -389,7 +389,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 397.0	to hit	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	guɛ	nan	g u ɛ	(397, 'buna1278-bobon', 'guɛ')	nan		
 398.0	to slap	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	thas, gaphas	nan	th a s	(398, 'buna1278-bobon', 'thas, gaphas')	nan		
 399.0	to bite	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gi:	nan	g iː - - - -	(36, 'pura1258', 'taŋ')	nan		
-400.0	to cut	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔrɔk	nan	g ɔ r ɔ k	(400, 'buna1278-bobon', 'gɔrɔk')	nan		
+400.0	to cut	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɔrɔk	nan	g ɔ r ɔ k	"(400, 'buna1278-malia', ""'gɔrɔh"")"	nan		
 401.0	to cut down	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	giɛp	nan	g i ɛ p	(401, 'buna1278-bobon', 'giɛp')	nan		
 402.0	to split	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	phɛpha	nan	ph ɛ ph a	(402, 'buna1278-bobon', 'phɛpha')	nan		
 403.0	to divide	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gɛnɛɁ	nan	g ɛ n ɛ ʔ	(403, 'buna1278-bobon', 'gɛnɛɁ')	nan		
@@ -431,13 +431,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 440.0	to help	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	azuda	azuda<Tetun D	a z u d a	(440, 'buna1278-bobon', 'azuda')	nan		
 441.0	to bark	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ɔk̚	nan	ɔ k̚	(441, 'buna1278-bobon', 'ɔk̚')	nan		
 442.0	to shoot	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gau	nan	g a u	(442, 'buna1278-bobon', 'gau')	nan		
-443.0	to shoot with slingshot	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	fiska gini gau	phiska/fiska = slingshot	f i s k a _ g i n i _ g a - u	(400, 'maka1316', 'teri; sei')	nan		
+443.0	to shoot with slingshot	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	fiska gini gau	phiska/fiska = slingshot	f i s k a _ g i n i _ g a - u	(9, 'kelo1247', 'ise ruk')	nan		
 444.0	to pound; to beat	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hau	nan	h a u	(444, 'buna1278-bobon', 'hau')	nan		
 445.0	to hit (drum)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	fɛlɛ, fɛk	nan	f ɛ l ɛ	(445, 'buna1278-bobon', 'fɛlɛ, fɛk')	nan		
 446.0	to call out	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	iti, hug	nan	i t i	(446, 'buna1278-bobon', 'iti, hug')	nan		
 447.0	to lie (tell untruth)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	doaɁ	nan	d o a ʔ	(447, 'buna1278-bobon', 'doaɁ')	nan		
 448.0	to ask (question)	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sura	nan	s u r a	(448, 'buna1278-bobon', 'sura')	nan		
-449.0	to count	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sura	nan	s u r a - -	(449, 'adan1251', 'taʔan')	nan		
+449.0	to count	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	sura	nan	s u r a - -	(449, 'tetu1245-suai', 'sura')	nan		
 450.0	one	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	uɛn	nan	u - ɛ n -	(201, 'buna1278', 'mag')	nan		
 451.0	two	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hiliɁo	nan	h i l i ʔ o	(451, 'buna1278-bobon', 'hiliɁo')	nan		
 452.0	three	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	goniɁo	nan	g o n i ʔ o	(452, 'buna1278-bobon', 'goniɁo')	nan		
@@ -556,7 +556,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 565.0	to own	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	atʃi	nan	a tʃ i -	(167, 'atim1239', 'tatang kusing')	nan		
 566.0	to borrow	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	imprɛsta, negena	impresta<Tetun D, negena=give me	i m p r ɛ s t a	(566, 'buna1278-bobon', 'imprɛsta, negena')	nan		
 567.0	to trade or barter	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	seɁɔ, baiseɁɔ	nan	s e ʔ ɔ	(567, 'buna1278-bobon', 'seɁɔ, baiseɁɔ')	nan		
-568.0	expensive	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	karun, ti:n masak	karun<Tetun D	k a r u n	"(254, 'alor1247-baran', ""'bapa"")"	nan		
+568.0	expensive	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	karun, ti:n masak	karun<Tetun D	k a r u n	(384, 'atim1239', 'arade')	nan		
 569.0	cheap	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	ti:n ethan	nan	t iː n _ e th a n	(249, 'kaer1234', 'gɔr')	nan		
 570.0	to grasp	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	hɔnɛ	nan	h ɔ n ɛ	(570, 'buna1278-bobon', 'hɔnɛ')	nan		
 571.0	to let go	buna1278-bobon	Bunak-Bobonaro	Timor-Alor-Pantar	4Timor, 2Central	gilɛɁɛn	nan	g i l ɛ ʔ ɛ n	(571, 'buna1278-bobon', 'gilɛɁɛn')	nan		

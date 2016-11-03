@@ -1,6 +1,6 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	apəŋge	nan	a p ə ŋ g e -	(0, 'kula1280-lanto', 'apəŋge(y)a')	nan		
-1.0	sun	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	wad	nan	w a d -	(1, 'wers1238', 'wudi')	nan		
+1.0	sun	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	wad	nan	w a d - - - -	(1, 'wers1238', 'wudi')	nan		
 2.0	moon	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	pilawaka	nan	p i l a w a k a	(2, 'sawi1256', 'pilaka')	nan		
 3.0	star	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ilelawa	nan	i l e l a w - - a	(3, 'sawi1256', 'lawa:la')	nan		
 4.0	night	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	idəni	nan	- i d ə n i	(4, 'sawi1256', 'iduni')	nan		
@@ -10,7 +10,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8.0	yesterday	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	apale	nan	a p a l e -	(8, 'sawi1256', 'apali')	nan		
 9.0	day before yesterday	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	apale lemun	nan	a p a l e _ l e m u n	(9, 'kula1280', 'apale lemun')	nan		
 10.0	tomorrow	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ile wante	nan	i l e _ w a n t e	(10, 'kula1280', 'ile wante')	nan		
-11.0	day after tomorrow	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ilakaŋ	nan	- i l a k a ŋ -	(11, 'sawi1256', 'jalaku')	nan		
+11.0	day after tomorrow	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ilakaŋ	nan	- i l a k a ŋ - - - - - - - - - -	(84, 'pura1258', 'te')	nan		
 12.0	twilight; dawn	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dalan adapa	nan	d a l a n - _ - a d a p a	(12, 'wers1238', 'dlaŋ gdap')	nan		
 13.0	cloud	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sakapla	nan	s a k a p - l a	(13, 'kama1365', 'saful')	nan		
 14.0	wind	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	lapun	nan	l a p u n - -	(14, 'wers1238', 'ləpɔŋ')	nan		
@@ -21,7 +21,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 19.0	lightning	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	milapik	nan	m i l a p i k	(19, 'sawi1256', 'mila')	nan		
 20.0	earthquake	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	kumemde	kume mədɛ 'earthquake comes'	k u m e - m d - e	(20, 'wers1238', 'kɔmɛ')	nan		
 21.0	fog	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sakapla	nan	s a k a p - l a	(21, 'wers1238', 'sakupul')	nan		
-22.0	river; stream	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ili	nan	- i l i - -	(206, 'cent2245-hewa', 'nimu')	nan		
+22.0	river; stream	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ili	nan	- i l i - - - - -	(206, 'cent2245-hewa', 'nimu')	nan		
 23.0	ice	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	es	nan	- e s	"(23, 'alor1247-baran', ""'ɛs"")"	nan		
 24.0	snow	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	salju	nan	s a l - j u	(219, 'wers1238', 'deiŋ te')	nan		
 25.0	lake	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dʒakawali	nan	- dʒ - a k a w a l i	(25, 'kula1280-lanto', 'jakawali')	nan		
@@ -62,7 +62,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	knɛ maŋka	nan	- - k - n ɛ _ m a ŋ k a	"(61, 'fata1247', ""'hikari 'mɔkɔ"")"	nan		
 62.0	comb	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	kur	nan	k u - - - r -	(125, 'sout2896-kalik', 'kuˈnʊr')	nan		
 63.0	mat	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	bəta	nan	b ə t a -	"(404, 'abui1241-takal', ""tu.'lo:q"")"	nan		
-64.0	needle	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dam	nan	d a m - -	(64, 'wers1238', 'damu')	nan		
+64.0	needle	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dam	nan	d a - - - m - ( - - - - )	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
 65.0	clothing	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dika bad	lit. 'trousers shirt'	d i - k a _ b a d -	(65, 'wers1238', 'keŋ badu')	nan		
 67.0	fire	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ada	nan	- a d a	(67, 'maka1316', 'ata')	nan		
 68.0	smoke	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ada pənəka	nan	a d a - _ - - p ə n ə - k a	(213, 'sout2896-lerek', 'məˈki')	nan		
@@ -88,7 +88,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89.0	firewood	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	asəka adaja	nan	a s ə k a _ a d a j a	(208, 'cent2245-hewa', 'ʔita')	nan		
 90.0	rattan	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	tai	nan	t a - - - i	(90, 'kula1280-lanto', 'taiya')	nan		
 91.0	root	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gispin	nan	g i s p i n	(91, 'kula1280', 'gispin')	nan		
-92.0	fruit	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gəs	‘content fruit’	g ə - - s -	(92, 'wers1238', 'gis (besar)')	nan		
+92.0	fruit	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gəs	‘content fruit’	g ə s - - - - - - -	(92, 'wers1238', 'gis (besar)')	nan		
 93.0	seed	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	kwa	nan	kw a -	(93, 'kula1280', 'kwa')	nan		
 94.0	grain; cereal	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ajak	nan	a j a k	(94, 'kula1280', 'ajak')	nan		
 96.0	husked rice; uncooked rice	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ajak gəs	nan	a j a k _ g ə s	(213, 'sika1262-tanai', 'loni-ŋ')	nan		
@@ -206,8 +206,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192.0	child	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ndo	nan	n d o - -	(377, 'dein1238', 'me giang')	nan		
 193.0	man	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	mala	nan	- m a - - l - - a	(193, 'sawi1256', 'mialara')	nan		
 194.0	woman	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dʒala	nan	dʒ a l a	(194, 'cent2245-hewa', 'duʔa')	nan		
-195.0	husband	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ŋam	nan	ŋ a m	(195, 'wers1238', 'gəlimi')	nan		
-196.0	wife	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	jɔ	nan	j ɔ	(196, 'wers1238', 'gəmei')	nan		
+195.0	husband	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ŋam	nan	( - ) - ŋ a m - - -	(195, 'wers1238', 'gəlimi')	nan		
+196.0	wife	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	jɔ	nan	- - - - - - j ɔ - -	(196, 'wers1238', 'gəmei')	nan		
 197.0	mother	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ŋaya	nan	ŋ a - y a	(203, 'alor1247-baran', 'go:')	nan		
 198.0	father	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ŋəpa	nan	ŋ ə p a	(38, 'p-mala1545-acd', '*buseq')	nan		
 199.0	older sibling	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ŋənana	nan	ŋ ə - n a n - a	(199, 'wers1238', 'nɛnaŋ')	nan		
@@ -217,15 +217,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 203.0	1sg	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ŋən	nan	ŋ ə - n -	(208, 'cent2245-hewa', 'ʔita')	nan		
 204.0	2sg (informal)	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ijən	nan	i j ə - n -	(204, 'pura1258', 'aiŋ')	nan		
 205.0	2sg (polite)	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gən	nan	g ə - n - -	(205, 'sout2896-lerek', 'kəˈneu')	nan		
-206.0	3sg	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gən	nan	g ə n -	(206, 'wers1238', 'gadi')	nan		
-207.0	1pl excl	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	igən	nan	- i g ə n	(207, 'wers1238', 'ɲadi')	nan		
+206.0	3sg	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gən	nan	g ə - - n -	(206, 'wers1238', 'gadi')	nan		
+207.0	1pl excl	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	igən	nan	- - i g ə n -	(207, 'wers1238', 'ɲadi')	nan		
 208.0	1pl incl	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	igən	nan	i g ə n	(208, 'kula1280', 'igən')	nan		
 209.0	2pl	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	jəndua	nan	j ə n d u a	(209, 'wers1238', 'jadi')	nan		
-210.0	3pl	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gəndua	nan	g ə n d u a	(210, 'wers1238', 'gadi')	nan		
-211.0	no; not	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	nanu	nan	n a - - n u	(195, 'adon1237', 'ˈlakhẽ')	nan		
+210.0	3pl	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gəndua	nan	g ə n - - - - - - d u a	(210, 'wers1238', 'gadi')	nan		
+211.0	no; not	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	nanu	nan	n a - - n u	(211, 'wers1238', 'nauŋ')	nan		
 212.0	and	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	miuŋu	nan	m i u ŋ u	(212, 'kula1280', 'miuŋu')	nan		
 213.0	because	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	anuna	nan	a n u n a	(213, 'kula1280', 'anuna')	nan		
-214.0	if	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	anta	nan	- - a n t a	(238, 'maka1316', 'jɛfa')	nan		
+214.0	if	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	anta	nan	- - a n t a	(41, 'cent2245-hewa', 'pulau')	nan		
 215.0	with	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	we	nan	w e	(215, 'kula1280', 'we')	nan		
 216.0	what?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	nadua	nan	n a - - d u a	(216, 'wers1238', 'nala')	nan		
 217.0	who?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	namala	nan	n a m a l a	(217, 'wers1238', 'mɛlaa')	nan		
@@ -233,9 +233,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
  nuŋuya ‘di mana’
  nuŋalula ‘kemana’"	nan	nan	nan	nan		
 219.0	when?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	taimaŋ	nan	t a - i m a ŋ -	(219, 'wers1238', 'deiŋ te')	nan		
-220.0	why?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	nun ŋape	nan	n u n _ ŋ a p e	(220, 'kula1280', 'nun ŋape')	nan		
+220.0	why?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	nun ŋape	nan	n u n _ ŋ a p e -	(321, 'p-cent2245-abvd', '*buʀuk')	nan		
 221.0	how much; how many?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dini	nan	- d i - n i	(221, 'wers1238', 'deiŋ')	nan		
-222.0	how?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	nun ngape da	nan	n u n _ n g a p e _ d a	(222, 'kula1280', 'nun ngape da')	nan		
+222.0	how?	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	nun ngape da	nan	n u n _ n g a - - - - p e _ d a	(222, 'sika1262-tanai', 'ɡanupae')	nan		
 223.0	this	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ing gən	nan	i n g _ g ə n	(223, 'kula1280', 'ing gən')	nan		
 224.0	that	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gən	nan	g ə n - - -	"(224, 'tuku1254', ""kɔ'nɔʔɔ"")"	nan		
 225.0	at	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	angu	nan	a n g u	(225, 'kula1280', 'angu')	nan		
@@ -262,9 +262,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 249.0	tail	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	guska	nan	g u - - s k a -	(249, 'cent2245-hewa', 'kekor')	nan		
 250.0	fish	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	apu	nan	- a p u	(250, 'wers1238', 'api')	nan		
 251.0	shark	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	malɔsa	nan	m a l ɔ s a	(251, 'wers1238', 'mɔlɔs')	nan		
-252.0	whale	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ane lika	nan	a n e _ l i k a -	"(252, 'fata1247', ""a'pi la'fai"")"	nan		
+252.0	whale	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ane lika	nan	( - - - - - - - - - ) - a - - n e _ ( l i k a )	(252, 'wers1238', 'anai')	nan		
 253.0	dolphin	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	tap kwang	nan	t a p _ kw a n g	(253, 'kula1280', 'tap kwang')	nan		
-254.0	crocodile	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gwagwa	nan	gw a gw a	(254, 'cent2245-hewa', 'kobu')	nan		
+254.0	crocodile	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gwagwa	nan	gw a gw a	(254, 'wers1238', 'wawa')	nan		
 255.0	monitor lizard	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	padaŋk	nan	p a d a ŋ k -	(255, 'sawi1256', 'padaŋki')	nan		
 256.0	starfish	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	tamayan kta	nan	t a m a y a n _ k t a	(256, 'kula1280', 'tamayan kta')	nan		
 257.0	turtle	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dʒirwakla	nan	dʒ i rw - - a k l a	(257, 'wers1238', 'urak')	nan		
@@ -334,7 +334,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 325.0	salty	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	makaja	nan	m a k a j a	(225, 'fata1247', 'naɁɛ')	nan		
 326.0	flat	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	atəmpə	nan	a t ə m p ə - -	(326, 'kula1280-lanto', 'atempeya')	nan		
 327.0	smooth	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dulwa	nan	- d u lw a - -	(590, 'adan1251', 'tilai')	nan		
-328.0	rough	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	kapita	nan	k a p i t a	(330, 'sika1262-tanai', 'bura')	nan		
+328.0	rough	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	kapita	nan	k a p i t a	(328, 'nede1245', 'aradda')	nan		
 329.0	black	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	akana	nan	- - a k a n - a	(329, 'wers1238', 'akɛŋ')	nan		
 330.0	white	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	laku	nan	l a k u	(330, 'kula1280-lanto', 'laku')	nan		
 331.0	red	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dʒika	nan	dʒ i - k a - -	(331, 'wers1238', 'ik')	nan		
@@ -355,7 +355,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	awawaŋ	nan	- a w a w a ŋ -	(346, 'sawi1256', 'nawawana')	nan		
 347.0	to know	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ali	nan	- a l - i	"(347, 'kaer1234-o', ""la'lo"")"	nan		
 348.0	to say	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	tela	nan	- - - - t e l a -	"(348, 'tuku1254', ""'daleʔ"")"	nan		
-349.0	to speak	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	bisara	nan	b i s a - r a	"(39, 'dein1238', ""du'uqal"")"	nan		
+349.0	to speak	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	bisara	nan	b i - s a - r a - - - - -	(349, 'wers1238', 'bisar maŋar')	nan		
 350.0	voice	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	amək	nan	- a m ə k -	(350, 'sawi1256', 'namaki')	nan		
 351.0	language	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gitela	nan	g i t e l a	(351, 'sawi1256', 'nitela')	nan		
 352.0	to lie down	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	atepəka	nan	a t e p ə k a	(352, 'wers1238', 'gətai')	nan		
@@ -367,7 +367,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 358.0	to sit	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	mət	nan	- - m ə t - - - -	(358, 'wers1238', 'gəmit')	nan		
 359.0	to stand	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	duka	nan	- d u k a	(359, 'sawi1256', 'adukə')	nan		
 360.0	to walk	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	giaŋ	nan	g i a ŋ	(360, 'kula1280', 'giaŋ')	nan		
-361.0	to run	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	mu	nan	m u	(361, 'kula1280-lanto', 'mu')	nan		
+361.0	to run	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	mu	nan	( - - - - - - ) - ( - - ) m u - -	(361, 'wers1238', 'bɔrɔng gemur')	nan		
 362.0	to go	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	lula	nan	l u l a	(362, 'pura1258', 'ila')	nan		
 363.0	to swim	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sɛl	nan	s ɛ l -	(363, 'wers1238', 'sai')	nan		
 364.0	to fly	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	iriŋ	nan	- i r i ŋ - -	(364, 'wers1238', 'ire')	nan		
@@ -378,7 +378,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 369.0	to eat	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ipəma	nan	- i p ə m a	(369, 'wers1238', 'təpasi')	nan		
 370.0	to cook	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	maŋ	nan	m a ŋ - - -	(370, 'abui1241-petle', 'ma:l')	nan		
 371.0	to wash	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	lesawa	nan	l e s a w a	(371, 'sawi1256', 'lisini')	nan		
-372.0	to sew	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	suwa	nan	s u w a	(372, 'kula1280', 'suwa')	nan		
+372.0	to sew	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	suwa	nan	s u w a	(372, 'kula1280-lanto', 'swa')	nan		
 373.0	to live; be alive; living	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	ankana	nan	- a n - - k - a n - a	(373, 'sawi1256', 'nirkiana')	nan		
 374.0	to breathe	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	akina	nan	- a k i n a	(374, 'kula1280-lanto', 'ikina')	nan		
 375.0	to work	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sirusa	nan	s i r - - u s a	"(375, 'tetu1245-suai', ""se'risu"")"	nan		
@@ -396,7 +396,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 387.0	to chew	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	letian	nan	l e t i a n - -	(281, 'wers1238', 'pedesi')	nan		
 388.0	to yawn	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	agama popa	nan	a g a m a _ p o p a	(388, 'kula1280', 'agama popa')	nan		
 389.0	to suck	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dumwa	nan	- - d u mw a - - - -	"(389, 'alor1247-baran', ""'dum:ɔ"")"	nan		
-390.0	to blow	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	apila	nan	- - a p i l a	(390, 'pura1258', 'apu')	nan		
+390.0	to blow	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	apila	nan	- - - - a p i l a - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dʒimpaka	nan	- dʒ i m p a k a	(391, 'sawi1256', 'iruŋpaka')	nan		
 392.0	to vomit	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	igəta	nan	i - g ə t a -	(392, 'atim1239', 'iu')	nan		
 393.0	to rub	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	arɔsa	nan	a r - ɔ s a	(393, 'sawi1256', 'arusa')	nan		
@@ -463,7 +463,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 456.0	seven	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	jawatən yəku	nan	j a - w a t ə n - _ y - ə k u	(456, 'wers1238', 'wetiŋ joku')	nan		
 457.0	eight	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	jawaten tu	nan	j a - w a t e n - _ t u -	(457, 'wers1238', 'wetiŋ tu')	nan		
 458.0	nine	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	jawaten arasiku	nan	j a w a t e n - _ a r a s i k u	(458, 'wers1238', 'wetiŋ arasoku')	nan		
-459.0	ten	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	adajəku	nan	a d a j ə k u	(92, 'alor1249-sar-a', 'jit')	nan		
+459.0	ten	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	adajəku	nan	a d a j ə k u	(233, 'adon1237', 'ˈʔɜsiʔ, kuluk')	nan		
 460.0	eleven	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	adajaku sona	nan	a d a j a k u _ s o n a	(460, 'kula1280', 'adajaku sona')	nan		
 461.0	twelve	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	adajak mijəku	nan	a d a j a k _ m i j ə k u	(461, 'kula1280', 'adajak mijəku')	nan		
 462.0	thirteen	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	adajak mətu	nan	a d a j a k _ m ə t u	(462, 'kula1280', 'adajak mətu')	nan		
@@ -521,7 +521,7 @@ sibəna ‘bambu’"	nan	nan	nan	nan
 513.0	chair	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	kandəra	nan	k a n d ə - r a	(513, 'cent2245-hewa', 'kursi')	nan		
 514.0	lamp	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	lampu	nan	l a m p u -	(514, 'cent2245-hewa', 'lampu')	nan		
 515.0	candle	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	dəpwan	nan	- d ə pw a - n -	(515, 'wers1238', 'dupaiŋ')	nan		
-516.0	to weave	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sinəna	nan	s i n ə n a	(516, 'adon1237', 'tane, nekɜt tane')	nan		
+516.0	to weave	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sinəna	nan	- - - - - s i n ə n a	(516, 'adon1237', 'tane, nekɜt tane')	nan		
 517.0	shirt	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	bad	nan	b a d -	(517, 'wers1238', 'badu')	nan		
 518.0	necklace	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	imija	nan	i m i j a	(518, 'kula1280', 'imija')	nan		
 519.0	earring	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	mala	nan	m a l - - a - -	(519, 'wers1238', 'məlauŋ')	nan		
@@ -576,8 +576,8 @@ sibəna ‘bambu’"	nan	nan	nan	nan
 568.0	expensive	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	alila	nan	- a l i - - l a	(430, 'keda1252-leuwa', 'ε̘rεʔ')	nan		
 569.0	cheap	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	tan	nan	- - t a n -	(569, 'sawi1256', 'gatani')	nan		
 570.0	to grasp	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	gwina	nan	gw i n a	(570, 'buna1278-bobon', 'hɔnɛ')	nan		
-571.0	to let go	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	atan	nan	- a - - t a - n -	(571, 'wers1238', 'gətaiŋ')	nan		
-572.0	to promise	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sumpa	nan	s u m p a	(11, 'kelo1247', 'əruk')	nan		
+571.0	to let go	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	atan	nan	- a ( - - ) - t a - n -	(571, 'wers1238', 'gətaiŋ')	nan		
+572.0	to promise	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	sumpa	nan	s u m p a	(572, 'kula1280', 'sumpa')	nan		
 573.0	word	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	telkwa	nan	t e l kw a	(573, 'sawi1256', 'tela')	nan		
 574.0	to answer	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	letan	nan	l e t - a n -	(574, 'wers1238', 'netaiŋ')	nan		
 575.0	to refuse	kula1280	Kula	Timor-Alor-Pantar	3Alor, 3East	abuka	nan	- a b u k a	(575, 'wers1238', 'gəbok')	nan		

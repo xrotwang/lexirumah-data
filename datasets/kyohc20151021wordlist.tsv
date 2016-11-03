@@ -1,19 +1,19 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	bulgɛn	nan	b u l - - g ɛ n	"(0, 'keda1252', ""ʔɛ'leŋ"")"	nan		
-1.0	sun	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	mədi	nan	m ə d i	(1, 'kelo1247', 'mədi')	nan		
-2.0	moon	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ur	nan	- u r - -	(2, 'wers1238', 'urak')	nan		
+1.0	sun	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	mədi	nan	m ə d i - - -	(1, 'wers1238', 'wudi')	nan		
+2.0	moon	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ur	nan	- u r - -	"(0, 'alor1247-baran', ""'laŋi"")"	nan		
 3.0	star	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ib	nan	- i b -	(3, 'kelo1247', 'ib')	nan		
 4.0	night	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	akaan	nan	- - a k aa n - -	(4, 'sout2896-lerek', 'buˈkənən')	nan		
 5.0	day	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	mədi	nan	m ə d i	(5, 'kelo1247', 'mədi')	nan		
 6.0	year	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tun	nan	t u n - -	"(6, 'alor1247-baran', ""'tu:ŋ"")"	nan		
 7.0	morning	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kukun	nan	- k u k u n	(7, 'kelo1247', 'kukun')	nan		
 8.0	yesterday	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	məlɛŋ	nan	m ə l - - ɛ ŋ - - -	(8, 'wers1238', 'mlɛɲa')	nan		
-9.0	day before yesterday	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ise ruk	nan	i s e _ r u k	(9, 'kelo1247', 'ise ruk')	nan		
+9.0	day before yesterday	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ise ruk	nan	- i s e _ r u k -	(9, 'kelo1247', 'ise ruk')	nan		
 10.0	tomorrow	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	wra	nan	w r a	(10, 'kelo1247', 'wra')	nan		
-11.0	day after tomorrow	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əruk	nan	- ə - - r u k - - -	(11, 'kelo1247', 'əruk')	nan		
+11.0	day after tomorrow	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əruk	nan	- - - ə - - r - u k - - -	(389, 'keda1252-leuwa', 'duhu')	nan		
 12.0	twilight; dawn	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kun kun ilmikəraŋ	nan	k u n _ k u n _ i l m i k ə r a ŋ	(12, 'kelo1247', 'kun kun ilmikəraŋ')	nan		
 13.0	cloud	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ti ʔik	nan	t i _ ʔ i k	(13, 'kelo1247', 'ti ʔik')	nan		
-14.0	wind	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	nəmer	nan	n ə m e r	(14, 'kelo1247', 'nəmer')	nan		
+14.0	wind	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	nəmer	nan	n ə m e r	"(14, 'abui1241-petle', ""ta.'moi"")"	nan		
 15.0	rain	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ənur	nan	- ə n u - r	"(15, 'pura1258', ""a'nuar"")"	nan		
 16.0	drizzle	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ənur iʔikin	nan	ə n u r _ i ʔ i k i n	(16, 'kelo1247', 'ənur iʔikin')	nan		
 17.0	rainbow	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ədub	nan	ə d u b	(17, 'kelo1247', 'ədub')	nan		
@@ -90,7 +90,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 98.0	cooked rice	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ərak ma:i	nan	- ə r a k - _ - m aː - i	(98, 'abui1241-petle', '´aj.ak ´ma')	nan		
 99.0	rice plant	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ərak əniŋ	nan	ə r a k - _ ə n - i ŋ -	(99, 'wers1238', 'arak ptak')	nan		
 100.0	to plant (yam)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tik	nan	t i k	(100, 'kelo1247', 'tik')	nan		
-101.0	to plant (rice)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ərak tek	nan	- ə r - a - k - _ t e k - -	(1, 'alor1249-sar-a', 'war')	nan		
+101.0	to plant (rice)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ərak tek	nan	- ə r - a - k - _ t e k - -	(101, 'wers1238', 'arak ta')	nan		
 102.0	betel nut; areca	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	bu:i	nan	b uː i -	(36, 'p-aust1307-abvd', '*tenem')	nan		
 103.0	betel vine	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	meh	nan	m e - h - - -	(103, 'wers1238', 'mas')	nan		
 104.0	lime	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əwɛr	nan	- ə w ɛ r -	(104, 'cent2245-hewa', 'ʔapur')	nan		
@@ -135,7 +135,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 145.0	head	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gitu	nan	g i t u -	(3, 'atim1239', 'fir')	nan		
 146.0	hair	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	titu kərid	nan	t i t u _ k ə r i d	(146, 'kelo1247', 'titu kərid')	nan		
 147.0	body hair	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tiʔih əmuɟ	nan	t i ʔ i h _ ə m u ɟ	(147, 'kelo1247', 'tiʔih əmuɟ')	nan		
-148.0	eye	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tɛn	nan	t ɛ - n -	(390, 'p-cent2245-abvd', '*upi')	nan		
+148.0	eye	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tɛn	nan	t ɛ - n - - - - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 149.0	ear	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təwi:r	nan	t ə w iː r -	(380, 'kula1280', 'igeja')	nan		
 150.0	nose	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təmuɲ	nan	t ə m u - ɲ - - - -	(150, 'wers1238', 'temuiŋ')	nan		
 151.0	mouth	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ta:d	nan	t aː - - - - d	(151, 'abui1241-fuime', 'tawaabak')	nan		
@@ -157,7 +157,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 167.0	fingernail	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tətan kuih	nan	t ə t a n - - _ k u - i h - - -	(167, 'maka1316', 'tana kuli')	nan		
 168.0	breast	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	du:t	nan	d uː t - -	(3, 'alor1249-sar-n', 'yif')	nan		
 169.0	chest	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tider	nan	t i d - e r -	(169, 'pura1258', 'adiar')	nan		
-170.0	navel	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təpuh igen	nan	t ə p u h _ i g e n	(170, 'kelo1247', 'təpuh igen')	nan		
+170.0	navel	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təpuh igen	nan	t ə p u h _ - - - i g e n	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 171.0	penis	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tətɔpa:k	nan	t ə t ɔ p aː k	(171, 'cent2245-hewa', 'uti')	nan		
 172.0	vagina	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ta:r	nan	t aː r -	(172, 'cent2245-hewa', 'era')	nan		
 173.0	testicles	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tətɔk ədaŋ	nan	t ə t ɔ k _ ə d a ŋ	(173, 'kelo1247', 'tətɔk ədaŋ')	nan		
@@ -169,7 +169,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179.0	back	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təmot	nan	t ə - m o t -	"(179, 'pura1258', ""amo'ta"")"	nan		
 180.0	spine; lower back	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təme hia:r	nan	t ə m e _ h i aː r	(180, 'kelo1247', 'təme hia:r')	nan		
 181.0	waist	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	teh ab	nan	t e h - _ - a b	(181, 'pura1258', 'taha baŋ, taha waŋ')	nan		
-182.0	skin	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ku:i	nan	( - - - - - - ) k uː - i - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ku:i	nan	( - - - - - - - ) k uː - - i - - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 183.0	sore; wound	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	abat	nan	a - b a t	(400, 'keda1252-leuwa', 'ɔhɔr')	nan		
 184.0	ringworm	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kat	nan	k a t -	(184, 'kelo1247', 'kat')	nan		
 185.0	scabies	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kat	nan	k a t	(392, 'keda1252-leuwa', 'mutε ɔ̘kaʔ')	nan		
@@ -193,27 +193,27 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 203.0	1sg	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	na:n	nan	n aː - n -	(208, 'cent2245-hewa', 'ʔita')	nan		
 204.0	2sg (informal)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	a:n	nan	- - aː - n -	(204, 'pura1258', 'aiŋ')	nan		
 205.0	2sg (polite)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	a:n	nan	- aː - n - -	(205, 'sout2896-lerek', 'kəˈneu')	nan		
-206.0	3sg	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gan	nan	g a n -	(206, 'wers1238', 'gadi')	nan		
-207.0	1pl excl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	nigin	nan	n i g i n	(207, 'wers1238', 'ɲadi')	nan		
-208.0	1pl incl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	pin	nan	p i n	(208, 'maka1316', 'fi:')	nan		
+206.0	3sg	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gan	nan	g a - - n -	(206, 'wers1238', 'gadi')	nan		
+207.0	1pl excl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	nigin	nan	- n i g i n -	(207, 'wers1238', 'ɲadi')	nan		
+208.0	1pl incl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	pin	nan	- p i - - n -	(208, 'maka1316', 'fi:')	nan		
 209.0	2pl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	egin	nan	- e g i n -	(209, 'maka1316', 'i:')	nan		
-210.0	3pl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	eniʔ	nan	e n i ʔ	(210, 'wers1238', 'gadi')	nan		
-211.0	no; not	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	naŋ	nan	n a - - ŋ -	(195, 'adon1237', 'ˈlakhẽ')	nan		
+210.0	3pl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	eniʔ	nan	- e n i ʔ - - - - - - -	(210, 'wers1238', 'gadi')	nan		
+211.0	no; not	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	naŋ	nan	n a - - ŋ -	(211, 'wers1238', 'nauŋ')	nan		
 212.0	and	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	de	nan	- d e -	(212, 'kelo1247', 'de')	nan		
 213.0	because	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	de hɔ	nan	d e - _ h ɔ	(344, 'kelo1247', 'məgih')	nan		
 216.0	what?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	nabe	nan	n a b - e	(216, 'cent2245-hewa', 'apa')	nan		
 217.0	who?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ʔaʔabe	nan	ʔ a ʔ a b e	(217, 'tetu1245-vique', 'seɁe')	nan		
-218.0	where?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	atubomi; atu mi ad	atubomi 'where'; atu mi ad 'from where'	a t u b o - m - i -	"(218, 'pura1258', ""ta'aŋmi"")"	nan		
-218.0	where?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tumi	atubomi 'where'; atu mi ad 'from where'	- t u - - - m - i -	"(218, 'pura1258', ""ta'aŋmi"")"	nan		
+218.0	where?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	atubomi; atu mi ad	atubomi 'where'; atu mi ad 'from where'	- - a - t u b o - - - m i - ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tumi	atubomi 'where'; atu mi ad 'from where'	- - - - t u - - - - - m i - ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
 219.0	when?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	dendi	nan	d e n - d i - -	(219, 'wers1238', 'deiŋ te')	nan		
-220.0	why?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tujɔn	nan	- - t u j ɔ n	(396, 'p-aust1307-abvd', '*baʀeq')	nan		
+220.0	why?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tujɔn	nan	- - t u - - j ɔ n	(396, 'p-aust1307-abvd', '*baʀeq')	nan		
 221.0	how much; how many?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	edin	nan	e d i - n -	(221, 'wers1238', 'deiŋ')	nan		
-222.0	how?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tujɔn bo	nan	t u j ɔ n _ b o	(222, 'kelo1247', 'tujɔn bo')	nan		
+222.0	how?	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tujɔn bo	nan	t u j ɔ n _ b o	"(222, 'fata1247', ""tewa'nei"")"	nan		
 223.0	this	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	jɔŋ	nan	j ɔ ŋ	(223, 'kelo1247', 'jɔŋ')	nan		
 224.0	that	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	jɔk	nan	j ɔ k	(224, 'kelo1247', 'jɔk')	nan		
 225.0	at	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ɔk	nan	ɔ k	(225, 'kelo1247', 'ɔk')	nan		
 226.0	in; inside	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gomi	nan	g o m i	(226, 'kelo1247', 'gomi')	nan		
-227.0	here	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	jɔŋ mi	nan	j ɔ ŋ _ m i	(227, 'kelo1247', 'jɔŋ mi')	nan		
+227.0	here	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	jɔŋ mi	nan	- - j ɔ ŋ _ m i	(208, 'kula1280', 'igən')	nan		
 228.0	there	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	jok mi	nan	j o k - - _ m i	(228, 'kelo1247', 'jok mi')	nan		
 229.0	above	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ətal ta:ŋ	nan	- ə t a l _ t aː ŋ	"(229, 'pura1258', ""a'tela"")"	nan		
 230.0	below	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əma:i mi	nan	- ə m aː i _ m i -	(230, 'kelo1247', 'əma:i mi')	nan		
@@ -223,21 +223,21 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 234.0	all	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ʔi al	nan	ʔ i _ a l	(234, 'kelo1247', 'ʔi al')	nan		
 235.0	many	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	obei	nan	o b e i	(235, 'kelo1247', 'obei')	nan		
 237.0	fowl	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	hiʔidom	nan	h i ʔ i d o m	(371, 'sika1262-tanai', 'kusa-ŋ')	nan		
-238.0	dog	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kur	nan	k u r	(238, 'kelo1247', 'kur')	nan		
+238.0	dog	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kur	nan	k u r	(238, 'abui1241-fuime', 'kai')	nan		
 239.0	pig	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	be	nan	b e - - -	(365, 'tetu1245-suai', 'monu')	nan		
 240.0	chicken	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	hi	nan	h i - -	(259, 'kelo1247', 'hi ʔidɔm')	nan		
 241.0	rat	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	dur	nan	d u r - -	(241, 'cent2245-hewa', 'teʔu')	nan		
 242.0	lizard	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	takek	nan	t a k e k - -	(242, 'cent2245-hewa', 'təke:')	nan		
 243.0	civet cat	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	eruk	nan	e r u - k	(243, 'pura1258', 'aro')	nan		
-244.0	deer	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ərut	nan	ə r u t	(244, 'kelo1247', 'ərut')	nan		
+244.0	deer	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ərut	nan	- ə r u - t - - - - - -	(244, 'cent2245-hewa', 'ruha')	nan		
 245.0	frog	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	eil pek	nan	- e i l _ p e k -	(245, 'kelo1247', 'eil pek')	nan		
 246.0	bat	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	mədel	nan	m ə d - e l -	(82, 'kelo1247', 'no data')	nan		
 247.0	flying fox; fruit bat	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	mədel	nan	m ə d e l - -	(247, 'wers1238', 'muduk')	nan		
 249.0	tail	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gɔr kei	nan	- g ɔ r - _ k e i	(249, 'sout2896-kalik', 'iˈkur')	nan		
 250.0	fish	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əbi	nan	- ə b i	(250, 'wers1238', 'api')	nan		
 251.0	shark	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	hib	nan	h i b - -	"(63, 'alor1247-baran', ""sa'fae"")"	nan		
-252.0	whale	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kəlar	nan	k ə l a r -	"(252, 'pura1258', ""ka'laru"")"	nan		
-254.0	crocodile	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	bəgai	nan	- - b ə g a - i	(512, 'wers1238', 'tetai leweŋ')	nan		
+252.0	whale	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	kəlar	nan	k ə l a r -	(130, 'p-cent2245-abvd', '*miñak')	nan		
+254.0	crocodile	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	bəgai	nan	- - b ə g a i - - - - - - - - - - - -	(512, 'wers1238', 'tetai leweŋ')	nan		
 255.0	monitor lizard	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	wərih	nan	w ə - r i h -	"(154, 'alor1247-baran', ""'ʔulɔŋ"")"	nan		
 257.0	turtle	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	jekɔ	nan	j e - - - k ɔ - -	(257, 'kelo1247', 'jekɔ')	nan		
 258.0	turtle (saltwater)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	jekɔ	nan	j e - k ɔ -	(258, 'kelo1247', 'jekɔ')	nan		
@@ -357,26 +357,26 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 370.0	to cook	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əda pu	nan	ə d a _ p u	(370, 'kelo1247', 'əda pu')	nan		
 371.0	to wash	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	uhan	nan	- - u h a n -	(371, 'cent2245-hewa', 'puʔu')	nan		
 371.0	to wash	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	uwel	nan	- - u w e l	(371, 'kelo1247', 'uwel')	nan		
-372.0	to sew	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	il hərot	nan	- i l _ h ə r o t -	"(372, 'pura1258', ""na ha'rota"")"	nan		
+372.0	to sew	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	il hərot	nan	i l _ h ə - r o t - - - - - - - -	(372, 'wers1238', 'sor burkiŋ')	nan		
 373.0	to live; be alive; living	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ih es	nan	i h _ e s	(373, 'kelo1247', 'ih es')	nan		
 374.0	to breathe	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	eken bəlin	nan	- e k e n _ b ə l i n -	(374, 'kelo1247', 'eken bəlin')	nan		
 375.0	to work	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	krejaŋ	nan	k - r - e j a ŋ -	"(76, 'alor1247-baran', ""la'duŋ"")"	nan		
 376.0	to die	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əber	nan	- ə b e r -	(376, 'kelo1247', 'əber')	nan		
 377.0	to give	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gen	nan	- - - - g e n - -	(377, 'wers1238', 'wagənir')	nan		
 378.0	to wipe	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ukei umur gɔkei	nan	u k e i _ u m u r _ g ɔ k e i	(378, 'kelo1247', 'ukei umur gɔkei')	nan		
-379.0	to come	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ad	nan	- a d -	(1, 'sika1262-tanai', 'ləro')	nan		
+379.0	to come	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ad	nan	- a d - - - - - - -	(1, 'sika1262-tanai', 'ləro')	nan		
 379.0	to come	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ma	nan	- - - m a - - -	(379, 'cent2245-hewa', 'mai')	nan		
 380.0	to laugh	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əgar	nan	- ə g a r -	(380, 'kelo1247', 'əgar')	nan		
 381.0	to cry	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	wir	nan	w i r	(381, 'kelo1247', 'wir')	nan		
 382.0	to dance	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	toɲ	nan	t o ɲ - -	(190, 'cent2245-hewa', 'ata')	nan		
 383.0	to sing	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	il pənen	nan	- - i l _ p ə n e - n -	(383, 'kelo1247', 'il pənen')	nan		
-384.0	to burn (clear land)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	il pe	nan	- i l _ p e - - -	(384, 'pura1258', 'bil ade')	nan		
+384.0	to burn (clear land)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	il pe	nan	- i l _ p e - - -	(400, 'keda1252-leuwa', 'bεl baʔ')	nan		
 385.0	to burn; to shine	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	leb	nan	l e b	(385, 'kelo1247', 'leb')	nan		
 386.0	to shine	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	leb	nan	l e b	(386, 'wers1238', 'lus')	nan		
 387.0	to chew	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	umənain	nan	u m ə n a i n	(387, 'kelo1247', 'umənain')	nan		
 388.0	to yawn	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ak	nan	a k	(388, 'kelo1247', 'ak')	nan		
 389.0	to suck	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	mi əruih	nan	m i _ ə r u i h	(389, 'wers1238', 'mudil')	nan		
-390.0	to blow	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	pu	nan	p u - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
+390.0	to blow	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	pu	nan	- - - - - p u - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	məler	nan	m ə l e - - r - -	(391, 'kelo1247', 'məler')	nan		
 392.0	to vomit	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	iŋ	nan	i ŋ	(392, 'kelo1247', 'iŋ')	nan		
 393.0	to rub	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	ɔi	nan	ɔ i	(393, 'kelo1247', 'ɔi')	nan		
@@ -388,7 +388,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 398.0	to slap	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gəboŋ	nan	g ə b o - ŋ	(398, 'wers1238', 'gəpoiŋ')	nan		
 399.0	to bite	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	teh	nan	t e h	(399, 'kelo1247', 'teh')	nan		
 400.0	to cut	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	hɔd	nan	h ɔ d	(400, 'kelo1247', 'hɔd')	nan		
-400.0	to cut	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təkuɲ	nan	t ə k u ɲ -	(400, 'maka1316', 'teri; sei')	nan		
+400.0	to cut	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təkuɲ	nan	t ə k u ɲ -	(400, 'kelo1247', 'təkuɲ')	nan		
 401.0	to cut down	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	haban	nan	h a b a n	"(401, 'pura1258', ""a'baŋ"")"	nan		
 402.0	to split	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	hɔl	nan	h ɔ l -	(402, 'kelo1247', 'hɔl')	nan		
 403.0	to divide	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gowai	nan	g o w a - i	(403, 'kelo1247', 'gowai')	nan		
@@ -427,7 +427,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 436.0	to climb	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	hil	nan	h i l	(400, 'keda1252-leuwa', 'bεluŋ')	nan		
 436.0	to climb	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	mid	nan	m i - - d - -	(436, 'wers1238', 'timidi')	nan		
 437.0	to hide	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təʔuɲ	nan	t ə ʔ u ɲ - -	(437, 'wers1238', 'təwiŋ')	nan		
-438.0	to wait	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	wəreb	nan	w ə r e b	(349, 'hama1240', 'luruŋ')	nan		
+438.0	to wait	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	wəreb	nan	w ə r e b	(349, 'cent2245-hewa', 'ulun')	nan		
 439.0	to fold	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	lus	nan	l u s	(439, 'kelo1247', 'lus')	nan		
 440.0	to help	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gemui	nan	g e m u - i	(440, 'kelo1247', 'gemui')	nan		
 441.0	to bark	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	luk	nan	l u k	(511, 'abui1241-takal', 'diäŋ mäl')	nan		
@@ -438,7 +438,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 445.0	to hit (drum)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	pədeŋ gud	nan	p ə d e ŋ - _ g u d -	"(445, 'pura1258', ""paiŋ 'oda"")"	nan		
 446.0	to call out	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	be	nan	b e -	(446, 'kelo1247', 'be')	nan		
 447.0	to lie (tell untruth)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tin ak	nan	t i n _ a k	(447, 'kelo1247', 'tin ak')	nan		
-448.0	to ask (question)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təkeɲ	nan	- - - t - ə k e ɲ - - -	(9, 'wers1238', '(mleɲa) ɛtɛŋ yok')	nan		
+448.0	to ask (question)	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	təkeɲ	nan	- - - t - ə k e ɲ - - -	(448, 'adan1251', 'utaʔaɲ')	nan		
 449.0	to count	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gəlik	nan	g ə l i k - -	(449, 'wers1238', 'gəleki')	nan		
 450.0	one	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	nuk	nan	- n u k -	(233, 'sout2896-kalik', 'kənaˈkɔt')	nan		
 451.0	two	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	əruk	nan	ə r u k -	(451, 'kelo1247', 'əruk')	nan		
@@ -566,7 +566,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 568.0	expensive	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	il təkɔr	nan	- i l - - _ t ə k ɔ r -	(568, 'kelo1247', 'il təkɔr')	nan		
 569.0	cheap	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	il əmai	nan	i l _ ə m a i	(569, 'kelo1247', 'il əmai')	nan		
 570.0	to grasp	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gɔpuɲ	nan	g ɔ p - u ɲ -	(570, 'adan1251', 'apuin')	nan		
-571.0	to let go	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gɔgətaɲ	nan	g ɔ g ə t a - ɲ -	(571, 'wers1238', 'gətaiŋ')	nan		
+571.0	to let go	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	gɔgətaɲ	nan	g ɔ ( g ə ) - t a - ɲ -	(571, 'wers1238', 'gətaiŋ')	nan		
 572.0	to promise	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	tim təmeɲ	nan	t i m _ t ə m e ɲ	(572, 'kelo1247', 'tim təmeɲ')	nan		
 573.0	word	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	huih men	nan	h u i h _ m e n	(192, 'p-aust1307-abvd', '*aNak')	nan		
 574.0	to answer	kelo1247	Klon	Timor-Alor-Pantar	3Alor, 1West	uguwar	nan	u g u w a r	(574, 'kelo1247', 'uguwar')	nan		

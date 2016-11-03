@@ -1,16 +1,16 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ajakɛŋ	nan	a - j a k ɛ ŋ - -	(0, 'wers1238', 'ajakɛŋ')	nan		
-1.0	sun	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wudi	nan	w u d i	(1, 'wers1238', 'wudi')	nan		
-2.0	moon	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	urak	nan	- u r a k	(2, 'wers1238', 'urak')	nan		
+1.0	sun	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wudi	nan	w u d i - - -	(1, 'wers1238', 'wudi')	nan		
+2.0	moon	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	urak	nan	- u r a k	"(0, 'alor1247-baran', ""'laŋi"")"	nan		
 3.0	star	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	apikal	nan	a p i - - k a l	(3, 'wers1238', 'apikal')	nan		
 4.0	night	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mlɛng	nan	m - l ɛ n g	(4, 'wers1238', 'mlɛng')	nan		
 5.0	day	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wudi tɛŋ	nan	w u d i _ t ɛ ŋ -	(5, 'wers1238', 'wudi tɛŋ')	nan		
 6.0	year	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wulɛl	nan	w u l ɛ l -	(6, 'wers1238', 'wulɛl')	nan		
 7.0	morning	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wudiŋlɛ	nan	w u d i ŋ l ɛ -	(7, 'wers1238', 'wudiŋlɛ')	nan		
 8.0	yesterday	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mlɛɲa	nan	m - l - - ɛ ɲ - - a	(8, 'wers1238', 'mlɛɲa')	nan		
-9.0	day before yesterday	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	(mleɲa) ɛtɛŋ yok	nan	- ɛ t ɛ - - ŋ _ y o k - - -	(9, 'wers1238', '(mleɲa) ɛtɛŋ yok')	nan		
+9.0	day before yesterday	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	(mleɲa) ɛtɛŋ yok	nan	- ɛ t - - ɛ - ŋ - _ y o k -	(449, 'tetu1245-suai', 'sura')	nan		
 10.0	tomorrow	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	madali	nan	m a d a l i	(38, 'alor1249-besar', 'furaŋ')	nan		
-11.0	day after tomorrow	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	madali jale yok	nan	m a d a l i _ j a l e _ y o k	(11, 'wers1238', 'madali jale yok')	nan		
+11.0	day after tomorrow	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	madali jale yok	nan	m a d a l i _ j a l e _ - y o k -	(84, 'pura1258', 'te')	nan		
 12.0	twilight; dawn	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	dlaŋ gdap	nan	d - l a ŋ - _ g - d a p -	(12, 'wers1238', 'dlaŋ gdap')	nan		
 13.0	cloud	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ajakɛŋ	nan	a j a k ɛ ŋ -	(347, 'kelo1247', 'nagil')	nan		
 14.0	wind	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ləpɔŋ	nan	l ə p ɔ ŋ - -	(14, 'wers1238', 'ləpɔŋ')	nan		
@@ -26,7 +26,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 20.0	earthquake	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	kɔmɛ	nan	k ɔ m - - - - - ɛ	(20, 'wers1238', 'kɔmɛ')	nan		
 21.0	fog	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	asaq	nan	a s a q	(21, 'wers1238', 'asaq')	nan		
 21.0	fog	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sakupul	nan	s a k u p u l -	(21, 'wers1238', 'sakupul')	nan		
-22.0	river; stream	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ilu	nan	- i l u - -	(206, 'cent2245-hewa', 'nimu')	nan		
+22.0	river; stream	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ilu	nan	- i l u - - - - -	(206, 'cent2245-hewa', 'nimu')	nan		
 25.0	lake	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ira koali	nan	i r a _ k o a l i	(25, 'wers1238', 'ira koali')	nan		
 25.0	lake	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ira kou	nan	i r a _ k o - - u	(25, 'wers1238', 'ira koali')	nan		
 25.0	lake	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	kolam	nan	- - - - k o l a m -	(25, 'wers1238', 'kolam')	nan		
@@ -70,7 +70,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	kinei	nan	k i n e i	(61, 'wers1238', 'kinei')	nan		
 62.0	comb	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	kaikur	nan	k a i k u r -	(125, 'sout2896-kalik', 'kuˈnʊr')	nan		
 63.0	mat	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bit	nan	b i t - -	"(404, 'abui1241-takal', ""tu.'lo:q"")"	nan		
-64.0	needle	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	damu	nan	d a m u -	(64, 'wers1238', 'damu')	nan		
+64.0	needle	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	damu	nan	d a - - - m u ( - - - - )	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
 65.0	clothing	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	keŋ badu	kain = keng	k e ŋ - - _ b a d u	(65, 'wers1238', 'keŋ badu')	nan		
 67.0	fire	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ada war	nan	a d a _ w a r - - -	(67, 'wers1238', 'ada war')	nan		
 68.0	smoke	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	punak	k=unreleased	p u n a - - k -	(68, 'wers1238', 'punak')	nan		
@@ -99,7 +99,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89.0	firewood	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	adaus	nan	a d a - u s	(89, 'wers1238', 'adaus')	nan		
 90.0	rattan	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lɔtɔr	nan	l ɔ t ɔ r -	(90, 'wers1238', 'lɔtɔr')	nan		
 91.0	root	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sri piŋ	nan	s r i _ p i ŋ	(91, 'wers1238', 'sri piŋ')	nan		
-92.0	fruit	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gis (besar)	nan	g i - - s -	(92, 'wers1238', 'gis (besar)')	nan		
+92.0	fruit	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gis (besar)	nan	g i s - - - - - - -	(92, 'wers1238', 'gis (besar)')	nan		
 93.0	seed	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	iko (kecil, biji)	nan	- i k o	(93, 'wers1238', 'iko (kecil, biji)')	nan		
 94.0	grain; cereal	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	arak	pətak 'seed'	a r a k - - - -	(94, 'wers1238', 'arak')	nan		
 94.0	grain; cereal	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	pətak	pətak 'seed'	p ə t a k	(94, 'wers1238', 'pətak')	nan		
@@ -108,7 +108,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 98.0	cooked rice	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tər mar	nan	t ə r _ m a r	(98, 'wers1238', 'tər mar')	nan		
 99.0	rice plant	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	arak ptak	nan	a r a k - _ - p t a k -	(99, 'wers1238', 'arak ptak')	nan		
 100.0	to plant (yam)	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bɔŋkou mdi	nan	b ɔ ŋ k o - u _ - - - - m - d - - i	(52, 'p-aust1307-acd', '*bunuS')	nan		
-101.0	to plant (rice)	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	arak ta	nan	- a r - a - k - _ t a - - -	(1, 'alor1249-sar-a', 'war')	nan		
+101.0	to plant (rice)	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	arak ta	nan	- a r - a - k - _ t a - - -	(101, 'wers1238', 'arak ta')	nan		
 102.0	betel nut; areca	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	pui	nan	p u i -	(36, 'p-aust1307-abvd', '*tenem')	nan		
 103.0	betel vine	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mas	nan	m a - s - - -	(103, 'wers1238', 'mas')	nan		
 104.0	lime	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wor	nan	w o - - r -	(104, 'cent2245-hewa', 'ʔapur')	nan		
@@ -186,7 +186,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179.0	back	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəbasir	nan	g ə b a s i r	(179, 'wers1238', 'gəbasir')	nan		
 180.0	spine; lower back	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəsap	nan	g ə s a p -	(180, 'wers1238', 'gəsap')	nan		
 181.0	waist	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəsap	nan	g ə s a p -	(181, 'wers1238', 'gəsap')	nan		
-182.0	skin	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	klut	nan	( - - - - - - ) k - l u t - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	klut	nan	( - - - - - - - ) k - - l u t - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 183.0	sore; wound	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	leboli	nan	l e b o l i	(183, 'wers1238', 'leboli')	nan		
 184.0	ringworm	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ket boli	nan	k e t _ b o l i	(293, 'alor1249-sar-a', 'yisák')	nan		
 185.0	scabies	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lilil	nan	l i l i l	(277, 'dein1238', 'dillang')	nan		
@@ -199,8 +199,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192.0	child	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɔl	nan	- - - ɔ l	(3, 'adon1237', 'ʔetɜp')	nan		
 193.0	man	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	limi	nan	l i m - - i	(193, 'wers1238', 'limi')	nan		
 194.0	woman	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mei	nan	m e i - - - -	(194, 'wers1238', 'mei')	nan		
-195.0	husband	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəlimi	nan	g ə l i m - - i	(195, 'wers1238', 'gəlimi')	nan		
-196.0	wife	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəmei	nan	g ə m e - i	(196, 'wers1238', 'gəmei')	nan		
+195.0	husband	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəlimi	nan	( g ) ə l i m i - -	(195, 'wers1238', 'gəlimi')	nan		
+196.0	wife	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəmei	nan	g ə - - m e i - - -	(196, 'wers1238', 'gəmei')	nan		
 197.0	mother	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	nɛja	nan	n ɛ j - a	(203, 'alor1247-baran', 'go:')	nan		
 198.0	father	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	nɛpa	nan	n ɛ p a	(38, 'p-mala1545-acd', '*buseq')	nan		
 199.0	older sibling	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	nɛnaŋ	nan	n ɛ - n a ŋ - -	(199, 'wers1238', 'nɛnaŋ')	nan		
@@ -210,29 +210,29 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 203.0	1sg	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	nadi	nan	n a d i	(208, 'cent2245-hewa', 'ʔita')	nan		
 204.0	2sg (informal)	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gadi	nan	g a d i	(204, 'wers1238', 'gadi')	nan		
 205.0	2sg (polite)	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	adi	nan	- a d i	(205, 'wers1238', 'adi')	nan		
-206.0	3sg	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gadi	nan	g a d i	(206, 'wers1238', 'gadi')	nan		
-207.0	1pl excl	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɲadi	nan	ɲ a d - - i	(207, 'wers1238', 'ɲadi')	nan		
-208.0	1pl incl	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tadi	nan	t a d i	(208, 'wers1238', 'tadi')	nan		
+206.0	3sg	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gadi	nan	g a d i - -	(206, 'wers1238', 'gadi')	nan		
+207.0	1pl excl	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɲadi	nan	- ɲ a d i - -	(207, 'wers1238', 'ɲadi')	nan		
+208.0	1pl incl	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tadi	nan	- - - t a d i - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 209.0	2pl	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	jadi	nan	j a - d - i	(209, 'wers1238', 'jadi')	nan		
-210.0	3pl	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gadi	nan	g a - d - i	(210, 'wers1238', 'gadi')	nan		
-211.0	no; not	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	nauŋ	nan	n a - u ŋ -	(195, 'adon1237', 'ˈlakhẽ')	nan		
+210.0	3pl	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gadi	nan	g a - - - - - - - d i -	(210, 'wers1238', 'gadi')	nan		
+211.0	no; not	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	nauŋ	nan	n a - u ŋ -	(211, 'wers1238', 'nauŋ')	nan		
 212.0	and	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mer	nan	m e r	(212, 'wers1238', 'mer')	nan		
 213.0	because	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	troŋpai	nan	t r o ŋ p a i	(213, 'wers1238', 'troŋpai')	nan		
 214.0	if	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sa	nan	s a	(214, 'wers1238', 'sa')	nan		
 215.0	with	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	te	nan	t e	(215, 'wers1238', 'te')	nan		
 216.0	what?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	nala	nan	n a l - - - a	(216, 'wers1238', 'nala')	nan		
 217.0	who?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mɛlaa	nan	- - m ɛ l aa	(217, 'wers1238', 'mɛlaa')	nan		
-218.0	where?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	troglol	troglol 'from where'	t r o g l o l	(218, 'wers1238', 'troglol')	nan		
-218.0	where?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tromiŋ	troglol 'from where'	t r o m i ŋ	(218, 'wers1238', 'tromiŋ')	nan		
+218.0	where?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	troglol	troglol 'from where'	t - r o - g l - o l	(218, 'wers1238', 'troglol')	nan		
+218.0	where?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tromiŋ	troglol 'from where'	t - r o m - i ŋ - -	(218, 'wers1238', 'troglol')	nan		
 219.0	when?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	deiŋ te	nan	d e i ŋ _ t e -	(219, 'wers1238', 'deiŋ te')	nan		
-220.0	why?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	troŋpai	nan	t r o ŋ p a i	(321, 'p-cent2245-abvd', '*buʀuk')	nan		
+220.0	why?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	troŋpai	nan	t r - o ŋ - p a i	(321, 'p-cent2245-abvd', '*buʀuk')	nan		
 221.0	how much; how many?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	deiŋ	nan	- d e i ŋ -	(221, 'wers1238', 'deiŋ')	nan		
 222.0	how?	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	troŋpai	nan	t r o ŋ p a i	(222, 'wers1238', 'troŋpai')	nan		
 223.0	this	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɔbu	nan	- ɔ b u	(223, 'wers1238', 'ɔbu')	nan		
 224.0	that	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gadi	nan	g a d i	(365, 'tetu1245-suai', 'monu')	nan		
 225.0	at	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɔmina	nan	ɔ m i n a	(225, 'wers1238', 'ɔmina')	nan		
 226.0	in; inside	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mira	nan	- m i r a	(226, 'wers1238', 'mira')	nan		
-227.0	here	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɔmi	nan	ɔ m i	(227, 'wers1238', 'ɔmi')	nan		
+227.0	here	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ɔmi	nan	- - - ɔ - - m i	(208, 'kula1280', 'igən')	nan		
 228.0	there	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mɔna	nan	m ɔ n - - a	(228, 'wers1238', 'mɔna')	nan		
 229.0	above	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ajaŋle	nan	a j a ŋ l e	(229, 'wers1238', 'ajaŋle')	nan		
 230.0	below	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	motumɔ	nan	m o t u m ɔ	(230, 'wers1238', 'motumɔ')	nan		
@@ -248,14 +248,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 241.0	rat	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	durki	nan	d u r k i	(241, 'cent2245-hewa', 'teʔu')	nan		
 242.0	lizard	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	pɛko	nan	p ɛ k o - - -	(242, 'cent2245-hewa', 'təke:')	nan		
 243.0	civet cat	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	luku	nan	- - l u k u - -	(243, 'wers1238', 'luku')	nan		
-244.0	deer	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	arus pe	nan	a r u s _ - - p e -	(244, 'wers1238', 'arus pe')	nan		
+244.0	deer	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	arus pe	nan	- a r u - s _ - - p e -	(244, 'cent2245-hewa', 'ruha')	nan		
 245.0	frog	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wor kadek	nan	w o r _ k a d e k	(212, 'p-aust1307-abvd', '*mah')	nan		
 246.0	bat	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	muduk	nan	m u d - u k -	(82, 'kelo1247', 'no data')	nan		
 247.0	flying fox; fruit bat	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	muduk	nan	m u d u k - -	(247, 'wers1238', 'muduk')	nan		
 249.0	tail	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəweri	nan	g ə w e r i -	(249, 'wers1238', 'gəweri')	nan		
 250.0	fish	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	api	nan	- a p i	(250, 'wers1238', 'api')	nan		
 251.0	shark	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mɔlɔs	nan	m ɔ l ɔ s -	(251, 'wers1238', 'mɔlɔs')	nan		
-252.0	whale	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	anai	nan	a n a i	(252, 'wers1238', 'anai')	nan		
+252.0	whale	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	anai	nan	( - - - - - - - - - ) - a - - n a i ( - - - - )	(252, 'wers1238', 'anai')	nan		
 253.0	dolphin	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	akoliŋ	nan	a k o l i ŋ - - - - - - -	(253, 'wers1238', 'akoliŋ')	nan		
 254.0	crocodile	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wawa	nan	w a w a	(254, 'wers1238', 'wawa')	nan		
 255.0	monitor lizard	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	roti	nan	r o t i -	(255, 'cent2245-hewa', 'oti')	nan		
@@ -347,7 +347,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	talamal	nan	t a l a m a l -	(346, 'wers1238', 'talamal')	nan		
 347.0	to know	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	netəkaŋ	nan	n e t ə k a ŋ	(347, 'wers1238', 'netəkaŋ')	nan		
 348.0	to say	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lomu	nan	l o m u	(348, 'wers1238', 'lomu')	nan		
-349.0	to speak	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bisar maŋar	nan	b i s a r _ m a ŋ a r	(349, 'wers1238', 'bisar maŋar')	nan		
+349.0	to speak	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bisar maŋar	nan	b i - s a - r _ m a ŋ a r	(349, 'wers1238', 'bisar maŋar')	nan		
 350.0	voice	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəma	nan	g ə m a -	(350, 'wers1238', 'gəma')	nan		
 351.0	language	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lomu	nan	l o m u	(351, 'wers1238', 'lomu')	nan		
 352.0	to lie down	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gətai	nan	g ə t a - i	(352, 'wers1238', 'gətai')	nan		
@@ -359,7 +359,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 358.0	to sit	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəmit	nan	g ə m i t - - - -	(358, 'wers1238', 'gəmit')	nan		
 359.0	to stand	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gətati	nan	g ə t a t i	(359, 'wers1238', 'gətati')	nan		
 360.0	to walk	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lai lol	nan	l a - i _ l o l -	(360, 'wers1238', 'lai lol')	nan		
-361.0	to run	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bɔrɔng gemur	nan	b ɔ r ɔ n g _ g e m u r	(457, 'dein1238', 'san tig')	nan		
+361.0	to run	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	bɔrɔng gemur	nan	( b ɔ r ɔ n g ) _ ( g e ) m u r -	(361, 'wers1238', 'bɔrɔng gemur')	nan		
 362.0	to go	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gəwai	nan	g ə w a i	(93, 'sika1262-tanai', 'βini')	nan		
 363.0	to swim	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sai	nan	s a - i	(363, 'wers1238', 'sai')	nan		
 364.0	to fly	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ire	nan	- i r e - - -	(364, 'wers1238', 'ire')	nan		
@@ -370,7 +370,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 369.0	to eat	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	təpasi	nan	t ə p a s i	(369, 'wers1238', 'təpasi')	nan		
 370.0	to cook	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	mada	nan	m a d - - a	(370, 'wers1238', 'mada')	nan		
 371.0	to wash	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lebəlas	nan	l e b ə l a s -	(371, 'wers1238', 'lebəlas')	nan		
-372.0	to sew	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sor burkiŋ	nan	s o r _ b u r k i ŋ	(372, 'wers1238', 'sor burkiŋ')	nan		
+372.0	to sew	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sor burkiŋ	nan	- - - s o - r _ - - - b u r k i ŋ	(372, 'wers1238', 'sor burkiŋ')	nan		
 373.0	to live; be alive; living	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gənir kaŋ	nan	g ə n i r - _ k a - ŋ -	(373, 'wers1238', 'gənir kaŋ')	nan		
 374.0	to breathe	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	giking səsai	nan	g i k i n g _ s ə s a i -	(374, 'wers1238', 'giking səsai')	nan		
 375.0	to work	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	sirwis gəpai	nan	s i rw i s - _ g ə p a i	(375, 'wers1238', 'sirwis gəpai')	nan		
@@ -433,7 +433,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 435.0	to close	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lɛter	nan	l ɛ t - e r -	(435, 'wers1238', 'lɛter')	nan		
 436.0	to climb	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	timidi	nan	t i m i d i -	(436, 'wers1238', 'timidi')	nan		
 437.0	to hide	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	təwiŋ	nan	t ə w i ŋ - -	(437, 'wers1238', 'təwiŋ')	nan		
-438.0	to wait	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	legadar	nan	l e g - a d a r	(222, 'sika1262-tanai', 'ɡanupae')	nan		
+438.0	to wait	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	legadar	nan	l e - - - g a - d a r - - - - -	(222, 'sika1262-tanai', 'ɡanupae')	nan		
 439.0	to fold	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	pɔdo	nan	p ɔ d - o	(439, 'wers1238', 'pɔdo')	nan		
 440.0	to help	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tuluŋ	nan	t u l u - ŋ -	(440, 'wers1238', 'tuluŋ')	nan		
 441.0	to bark	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	aloi	nan	- a - l o i -	(441, 'wers1238', 'aloi')	nan		
@@ -459,7 +459,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 461.0	twelve	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ joku	nan	a d _ j o k _ g r e s i ŋ _ j o k u	(461, 'wers1238', 'ad jok gresiŋ joku')	nan		
 462.0	thirteen	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ tu	nan	a d _ j o k _ g r e s i ŋ _ t u	(462, 'wers1238', 'ad jok gresiŋ tu')	nan		
 463.0	fourteen	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ arasok	nan	a d _ - j o - - k - _ g - r e s i ŋ - _ a r a s o k -	(463, 'wers1238', 'ad jok gresiŋ arasok')	nan		
-464.0	fifteen	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ wetiŋ	nan	a d _ - j - - o k - _ g - r e s i ŋ - _ - - w e t i ŋ - -	(92, 'dein1238', 'yis')	nan		
+464.0	fifteen	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ wetiŋ	nan	a d _ - j - - o k - _ g - r e s i ŋ - _ - - w e t i ŋ - -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 465.0	sixteen	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ təlam	nan	a d _ j o k _ g r e s i ŋ _ t ə l a m - - -	(465, 'wers1238', 'ad jok gresiŋ təlam')	nan		
 465.0	sixteen	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ wetiŋ nɔ	nan	a d _ j o k _ g r e s i ŋ _ w e t i ŋ _ n ɔ	(465, 'wers1238', 'ad jok gresiŋ təlam')	nan		
 466.0	seventeen	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	ad jok gresiŋ wetiŋ joku	nan	a d _ - j o - - k - _ g - r e s i ŋ - _ - - w e t i ŋ - _ j o - k u	(466, 'wers1238', 'ad jok gresiŋ wetiŋ joku')	nan		
@@ -563,10 +563,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 565.0	to own	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	geweŋ	nan	g e w e ŋ	(565, 'wers1238', 'geweŋ')	nan		
 566.0	to borrow	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	muri	nan	m u - - r i	(566, 'wers1238', 'muri')	nan		
 567.0	to trade or barter	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	dagaŋ	nan	d a g a ŋ - - - - -	(567, 'wers1238', 'dagaŋ')	nan		
-568.0	expensive	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gali bal	nan	- g a l i _ - b a l -	(13, 'pura1258', 'banu')	nan		
+568.0	expensive	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gali bal	nan	- g a l i _ - b a l -	(254, 'wers1238', 'wawa')	nan		
 569.0	cheap	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gali gətaiŋ	nan	g a l i _ g ə t a i ŋ	(569, 'wers1238', 'gali gətaiŋ')	nan		
 570.0	to grasp	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	wiŋ	nan	w i - - ŋ -	(570, 'wers1238', 'wiŋ')	nan		
-571.0	to let go	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gətaiŋ	nan	g ə - - t a i ŋ -	(571, 'wers1238', 'gətaiŋ')	nan		
+571.0	to let go	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	gətaiŋ	nan	g ə ( - - ) - t a i ŋ -	(571, 'wers1238', 'gətaiŋ')	nan		
 572.0	to promise	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	tad ato	nan	t a d - _ a t o	(572, 'wers1238', 'tad ato')	nan		
 573.0	word	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	lomu	nan	l o m u	(573, 'wers1238', 'lomu')	nan		
 574.0	to answer	wers1238	Wersing	Timor-Alor-Pantar	3Alor, 3East	netaiŋ	nan	n e t a i ŋ -	(574, 'wers1238', 'netaiŋ')	nan		

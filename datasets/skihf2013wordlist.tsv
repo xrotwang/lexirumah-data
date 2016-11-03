@@ -6,7 +6,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 5.0	day	sika1262	Sika	Austronesian	5Flores, 2Central	ləron	nan	l ə r o n - - -	"(5, 'keda1252', ""lɔ'jɔ"")"	nan		
 6.0	year	sika1262	Sika	Austronesian	5Flores, 2Central	livan	nan	l i v a n	(6, 'sika1262', 'livan')	nan		
 13.0	cloud	sika1262	Sika	Austronesian	5Flores, 2Central	klu	nan	k l u	(13, 'sika1262', 'klu')	nan		
-14.0	wind	sika1262	Sika	Austronesian	5Flores, 2Central	anin	nan	- a n i n	"(14, 'keda1252', ""aː'ŋin"")"	nan		
+14.0	wind	sika1262	Sika	Austronesian	5Flores, 2Central	anin	nan	- a n i n - - - - - -	(204, 'cent2245-hewa', 'ʔau')	nan		
 15.0	rain	sika1262	Sika	Austronesian	5Flores, 2Central	uran	nan	- u r a n	"(15, 'keda1252', ""u'ja"")"	nan		
 18.0	thunder	sika1262	Sika	Austronesian	5Flores, 2Central		bunyinya	nan	nan	nan		
 19.0	lightning	sika1262	Sika	Austronesian	5Flores, 2Central		kilatan, cahaya	nan	nan	nan		
@@ -18,7 +18,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 34.0	(coral) reef	sika1262	Sika	Austronesian	5Flores, 2Central		karang (reef) di dasar laut	nan	nan	nan		
 35.0	water (fresh)	sika1262	Sika	Austronesian	5Flores, 2Central	vai	fresh or salt?	v a i	"(35, 'adon1237', ""'wɑi"")"	nan		
 36.0	sea; sea water	sika1262	Sika	Austronesian	5Flores, 2Central	t̪ahi	(sea/ocean)	t̪ a h i - - - - -	(36, 'cent2245-hewa', 'tahi')	nan		
-39.0	forest	sika1262	Sika	Austronesian	5Flores, 2Central	t̪uʔan	(woods/forest)	t̪ u ʔ a n	(39, 'cent2245-hewa', 'tuʔan')	nan		
+39.0	forest	sika1262	Sika	Austronesian	5Flores, 2Central	t̪uʔan	(woods/forest)	t̪ u ʔ a n	(39, 'keda1252-leuwa', 'u̘taŋ')	nan		
 45.0	road; path; way	sika1262	Sika	Austronesian	5Flores, 2Central	lalan	(way)	l a l a n	(45, 'cent2245-hewa', 'laran')	nan		
 50.0	fish trap	sika1262	Sika	Austronesian	5Flores, 2Central		dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	nan	nan		
 51.0	rope	sika1262	Sika	Austronesian	5Flores, 2Central	t̪ali	nan	t̪ a l i -	"(51, 'adon1237', ""'talɛʔ"")"	nan		
@@ -34,7 +34,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 87.0	leaf	sika1262	Sika	Austronesian	5Flores, 2Central	roun	nan	r o u n -	(87, 'buna1278-bobon', 'nɔ')	nan		
 88.0	branch	sika1262	Sika	Austronesian	5Flores, 2Central		cabang pohon	nan	nan	nan		
 91.0	root	sika1262	Sika	Austronesian	5Flores, 2Central	ramut̪	nan	r a m u t̪	(91, 'adon1237', 'ˈʔamut')	nan		
-92.0	fruit	sika1262	Sika	Austronesian	5Flores, 2Central	vuan	nan	- - - - - v u a n	(92, 'adon1237', 'kajo ˈwuã')	nan		
+92.0	fruit	sika1262	Sika	Austronesian	5Flores, 2Central	vuan	nan	- - - - - - v u - a n	(92, 'sika1262-tanai', 'βua-ŋ')	nan		
 100.0	to plant (yam)	sika1262	Sika	Austronesian	5Flores, 2Central		CHECK if 'to plant (yam)' or 'to plant (rice)'	nan	nan	nan		
 128.0	milk	sika1262	Sika	Austronesian	5Flores, 2Central		not 'breast'	nan	nan	nan		
 129.0	salt	sika1262	Sika	Austronesian	5Flores, 2Central	hini	nan	h - i n i -	(269, 'buna1278-suai', 'hiɛp')	nan		
@@ -62,7 +62,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 175.0	foot	sika1262	Sika	Austronesian	5Flores, 2Central	vaʔin	(leg/foot)	v a ʔ i n	(175, 'cent2245-hewa', 'ʋaʔi')	nan		
 179.0	back	sika1262	Sika	Austronesian	5Flores, 2Central	leʔar	nan	l e ʔ a r	(326, 'cent2245-hewa', 'dətu')	nan		
 179.0	back	sika1262	Sika	Austronesian	5Flores, 2Central	ləpar	nan	l ə p a r	(326, 'cent2245-hewa', 'dətu')	nan		
-182.0	skin	sika1262	Sika	Austronesian	5Flores, 2Central	ulit̪	nan	( - - - - - - ) - u l i t̪ - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	sika1262	Sika	Austronesian	5Flores, 2Central	ulit̪	nan	( - - - - - - - ) - - u l i t̪ - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 188.0	conjunctivitis	sika1262	Sika	Austronesian	5Flores, 2Central		Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	nan	nan	nan		
 190.0	person	sika1262	Sika	Austronesian	5Flores, 2Central	biʔan	(person/human being); Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	b i ʔ a n	(190, 'sika1262', 'biʔan')	nan		
 191.0	name	sika1262	Sika	Austronesian	5Flores, 2Central	naran	nan	n a r a n	(191, 'adon1237', 'ˈnarã')	nan		
@@ -70,24 +70,24 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192.0	child	sika1262	Sika	Austronesian	5Flores, 2Central	me	nan	m e - -	(192, 'sika1262', 'me')	nan		
 193.0	man	sika1262	Sika	Austronesian	5Flores, 2Central	laʔi	(man/male)	- - - - - - - l a ʔ i	(193, 'adon1237', 'ˈʔama lake')	nan		
 194.0	woman	sika1262	Sika	Austronesian	5Flores, 2Central	duʔa	(woman/female)	d u ʔ a	(194, 'sika1262', 'duʔa')	nan		
-195.0	husband	sika1262	Sika	Austronesian	5Flores, 2Central	laʔi	nan	l a ʔ i	(195, 'adon1237', 'ˈlakhẽ')	nan		
-196.0	wife	sika1262	Sika	Austronesian	5Flores, 2Central	duʔa	Not 'married woman'.	d u ʔ a	(156, 'sika1262-tanai', 'boʔir')	nan		
+195.0	husband	sika1262	Sika	Austronesian	5Flores, 2Central	laʔi	nan	- - - - l a ʔ i -	(169, 'adon1237', 'ˈobaˈkɜt')	nan		
+196.0	wife	sika1262	Sika	Austronesian	5Flores, 2Central	duʔa	Not 'married woman'.	- - - - d u ʔ a - - - -	(156, 'sika1262-tanai', 'boʔir')	nan		
 197.0	mother	sika1262	Sika	Austronesian	5Flores, 2Central	ina	nan	- i n a	(370, 'cent2245-hewa', 'hunaʔ')	nan		
 198.0	father	sika1262	Sika	Austronesian	5Flores, 2Central	ama	nan	- a m a	(198, 'cent2245-hewa', 'ama')	nan		
 203.0	1sg	sika1262	Sika	Austronesian	5Flores, 2Central	aʔu	nan	- a ʔ u	(203, 'cent2245-hewa', 'aʔu')	nan		
 204.0	2sg (informal)	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 205.0	2sg (polite)	sika1262	Sika	Austronesian	5Flores, 2Central	ʔau	nan	ʔ a u	(205, 'tetu1245-suai', 'o')	nan		
-206.0	3sg	sika1262	Sika	Austronesian	5Flores, 2Central	miu (pl)	nan	m i u	(206, 'sika1262', 'miu (pl)')	nan		
+206.0	3sg	sika1262	Sika	Austronesian	5Flores, 2Central	miu (pl)	nan	- - m i u - - - -	(206, 'cent2245-hewa', 'nimu')	nan		
 207.0	1pl excl	sika1262	Sika	Austronesian	5Flores, 2Central	ʔami	nan	ʔ a m i	(207, 'sika1262-tanai', 'ʔami')	nan		
-208.0	1pl incl	sika1262	Sika	Austronesian	5Flores, 2Central	ʔita	nan	- ʔ i t a	(208, 'cent2245-hewa', 'ʔita')	nan		
+208.0	1pl incl	sika1262	Sika	Austronesian	5Flores, 2Central	ʔita	nan	- ʔ i t a - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 209.0	2pl	sika1262	Sika	Austronesian	5Flores, 2Central	miu (pl)	nan	- - - m i u	(209, 'cent2245-hewa', 'miu')	nan		
-210.0	3pl	sika1262	Sika	Austronesian	5Flores, 2Central	rimu	nan	- - r i m u - - - - - - - -	(210, 'cent2245-hewa', 'rimu')	nan		
+210.0	3pl	sika1262	Sika	Austronesian	5Flores, 2Central	rimu	nan	r i m u	(210, 'cent2245-hewa', 'rimu')	nan		
 211.0	no; not	sika1262	Sika	Austronesian	5Flores, 2Central		Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	nan	nan		
 212.0	and	sika1262	Sika	Austronesian	5Flores, 2Central	nora	nan	n o r a -	(212, 'cent2245-hewa', 'nora')	nan		
 214.0	if	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
-216.0	what?	sika1262	Sika	Austronesian	5Flores, 2Central	apa	nan	a p a	"(218, 'kaer1234', ""i'ta: (miŋ)"")"	nan		
+216.0	what?	sika1262	Sika	Austronesian	5Flores, 2Central	apa	nan	a p a	(216, 'lama1278', 'ˈaː')	nan		
 217.0	who?	sika1262	Sika	Austronesian	5Flores, 2Central	hai	nan	h a - i	(217, 'adon1237', 'ˈheku')	nan		
-218.0	where?	sika1262	Sika	Austronesian	5Flores, 2Central	epae	nan	e p a e	(218, 'sika1262', 'epae')	nan		
+218.0	where?	sika1262	Sika	Austronesian	5Flores, 2Central	epae	nan	( - e ) p a e	(218, 'p-cent2245-abvd', '*be')	nan		
 219.0	when?	sika1262	Sika	Austronesian	5Flores, 2Central	rema pira	(Sika words from the Sika dictionary (Pareira & Lewis 1998)	( r e m a - ) _ p i - - r a	(203, 'cent2245-hewa', 'aʔu')	nan		
 222.0	how?	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 223.0	this	sika1262	Sika	Austronesian	5Flores, 2Central	eʔi	nan	e ʔ i	(4, 'sout2896-lerek', 'buˈkənən')	nan		
@@ -100,7 +100,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 232.0	right (side)	sika1262	Sika	Austronesian	5Flores, 2Central	vana	nan	v a n a -	"(92, 'alor1247-baran', ""'kuluŋ"")"	nan		
 234.0	all	sika1262	Sika	Austronesian	5Flores, 2Central	mogan saven	nan	m o g a n _ s a v e n	(234, 'sika1262', 'mogan saven')	nan		
 236.0	animal	sika1262	Sika	Austronesian	5Flores, 2Central		If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	nan	nan		
-238.0	dog	sika1262	Sika	Austronesian	5Flores, 2Central	ahu	nan	- a h u -	(238, 'adon1237', 'ˈʔaho')	nan		
+238.0	dog	sika1262	Sika	Austronesian	5Flores, 2Central	ahu	nan	- a h u - - - - - - -	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 241.0	rat	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 249.0	tail	sika1262	Sika	Austronesian	5Flores, 2Central	iʔur	veʔor (for fish)	- i - - ʔ u r	(249, 'adon1237', 'ˈʔikʔũ')	nan		
 249.0	tail	sika1262	Sika	Austronesian	5Flores, 2Central	veʔor	veʔor (for fish)	v e - - ʔ o r	(249, 'adon1237', 'ˈʔikʔũ')	nan		
@@ -166,7 +166,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 368.0	to drink	sika1262	Sika	Austronesian	5Flores, 2Central	t̪inu	nan	t̪ i n u -	(368, 'adon1237', 'ˈkenu, ˈmenu, ˈnenu')	nan		
 369.0	to eat	sika1262	Sika	Austronesian	5Flores, 2Central	ʔa	nan	ʔ a	(369, 'buna1278-bobon', 'a:')	nan		
 370.0	to cook	sika1262	Sika	Austronesian	5Flores, 2Central	huna	Sika words from the Sika dictionary (Pareira & Lewis 1998).	h u n a	(370, 'sika1262', 'huna')	nan		
-372.0	to sew	sika1262	Sika	Austronesian	5Flores, 2Central	raʔit̪	nan	r a ʔ i t̪	(372, 'sika1262', 'raʔit̪')	nan		
+372.0	to sew	sika1262	Sika	Austronesian	5Flores, 2Central	raʔit̪	nan	r a ʔ i t̪	(372, 'sika1262-tanai', 'raʔit')	nan		
 373.0	to live; be alive; living	sika1262	Sika	Austronesian	5Flores, 2Central	moret̪	(to live, be alive)	m o - r e t̪	(373, 'cent2245-hewa', 'moret')	nan		
 374.0	to breathe	sika1262	Sika	Austronesian	5Flores, 2Central	(breath)	(breath)	nan	*	nan		
 375.0	to work	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
@@ -178,8 +178,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 387.0	to chew	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 388.0	to yawn	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 389.0	to suck	sika1262	Sika	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
-390.0	to blow	sika1262	Sika	Austronesian	5Flores, 2Central	prupi	prupi (Sika words from the Sika dictionary (Pareira & Lewis 1998))	p r u p - - - i - -	(390, 'adon1237', 'ˈpuit')	nan		
-390.0	to blow	sika1262	Sika	Austronesian	5Flores, 2Central	prupi	prupi (Sika words from the Sika dictionary (Pareira & Lewis 1998))	p r u p - - - i - -	(390, 'adon1237', 'ˈpuit')	nan		
+390.0	to blow	sika1262	Sika	Austronesian	5Flores, 2Central	prupi	prupi (Sika words from the Sika dictionary (Pareira & Lewis 1998))	- - - - - p - r u p i -	(373, 'sika1262-tanai', 'morə-t')	nan		
+390.0	to blow	sika1262	Sika	Austronesian	5Flores, 2Central	prupi	prupi (Sika words from the Sika dictionary (Pareira & Lewis 1998))	- - - - - p - r u p i -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	sika1262	Sika	Austronesian	5Flores, 2Central	niru	nan	n i r - - u	(391, 'adon1237', 'ˈprino')	nan		
 392.0	to vomit	sika1262	Sika	Austronesian	5Flores, 2Central	mut̪a	(heave)	m u t̪ a -	(392, 'cent2245-hewa', 'mutaʔ')	nan		
 394.0	to scratch	sika1262	Sika	Austronesian	5Flores, 2Central	ʔaro	nan	- - ʔ a r o	(394, 'adon1237', 'ˈraɡuʔ')	nan		
@@ -187,7 +187,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 397.0	to hit	sika1262	Sika	Austronesian	5Flores, 2Central	t̪au	 (to fight)	t̪ a u	(400, 'keda1252-leuwa', 'patε i̘hu')	nan		
 398.0	to slap	sika1262	Sika	Austronesian	5Flores, 2Central		E.g. to slap someone on the cheek; NOT to clap hands. 	nan	nan	nan		
 399.0	to bite	sika1262	Sika	Austronesian	5Flores, 2Central	giʔi	nan	g i - - ʔ i	(36, 'pura1258', 'taŋ')	nan		
-400.0	to cut	sika1262	Sika	Austronesian	5Flores, 2Central	pat̪i	(to cut, hack)	p a t̪ i	(400, 'lama1278', 'ˈbelo, ˈpətə')	nan		
+400.0	to cut	sika1262	Sika	Austronesian	5Flores, 2Central	pat̪i	(to cut, hack)	p a t̪ i	(400, 'keda1252-leuwa', 'patε i̘hu')	nan		
 402.0	to split	sika1262	Sika	Austronesian	5Flores, 2Central	ləka	(divide)	l ə k a -	(402, 'adon1237', 'ˈlɜkɑʔ')	nan		
 404.0	to stab	sika1262	Sika	Austronesian	5Flores, 2Central		(stab, pierce)	nan	nan	nan		
 406.0	to fight	sika1262	Sika	Austronesian	5Flores, 2Central	t̪au	nan	t̪ a - u - - - -	(406, 'sika1262', 't̪au')	nan		

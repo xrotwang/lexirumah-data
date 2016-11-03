@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lɔ:	nan	l ɔː -	(0, 'maka1316', 'lɔ:')	nan		
-1.0	sun	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	watu	nan	w a t u	(1, 'wers1238', 'wudi')	nan		
-2.0	moon	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	uru	nan	- u r u -	(2, 'wers1238', 'urak')	nan		
+1.0	sun	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	watu	nan	w a t u - - -	(1, 'wers1238', 'wudi')	nan		
+2.0	moon	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	uru	nan	- u r u -	"(0, 'alor1247-baran', ""'laŋi"")"	nan		
 3.0	star	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ifi'naka	nan	i f i ˈn a k a -	(3, 'wers1238', 'apikal')	nan		
 4.0	night	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gamung	nan	g a m - - u n g	(4, 'cent2245-hewa', 'guman')	nan		
 5.0	day	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	usa	nan	u s a	(5, 'maka1316', 'usa')	nan		
@@ -10,10 +10,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8.0	yesterday	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	wɛsɛ'rɛɁɛ	nan	w ɛ s ɛ ˈr ɛ ʔ ɛ	"(8, 'maka1316', ""wɛsɛ'rɛɁɛ"")"	nan		
 9.0	day before yesterday	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ah'nɛɁɛ	nan	- a h - ˈn ɛ ʔ ɛ	"(9, 'maka1316', ""ah'nɛɁɛ"")"	nan		
 10.0	tomorrow	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	usa malɛ	nan	u s a _ m a l ɛ	(10, 'maka1316', 'usa malɛ')	nan		
-11.0	day after tomorrow	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ai'rɛɁɛ	nan	a i ˈr ɛ ʔ ɛ	"(11, 'maka1316', ""ai'rɛɁɛ"")"	nan		
+11.0	day after tomorrow	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ai'rɛɁɛ	nan	- - - a i ˈr ɛ ʔ ɛ - - -	"(281, 'maka1316', ""gi-'bere"")"	nan		
 12.0	twilight; dawn	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mua usa ma'lena	nan	m u a _ u s a _ m a ˈl e n a	"(12, 'maka1316', ""mua usa ma'lena"")"	nan		
 13.0	cloud	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	nin'deu	nan	n i n ˈd e u	"(13, 'maka1316', ""nin'deu"")"	nan		
-14.0	wind	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ga'wara	nan	g a ˈw a r a	(76, 'sika1262-tanai', 'riʔi')	nan		
+14.0	wind	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ga'wara	nan	g a ˈw a r a -	(76, 'sika1262-tanai', 'riʔi')	nan		
 15.0	rain	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ae	nan	- a - e	(15, 'maka1316', 'ae')	nan		
 16.0	drizzle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ae liri-liri	nan	a - - e - _ l i r i l i r i	(16, 'maka1316', 'ae liri-liri')	nan		
 18.0	thunder	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lo fati'lɔkɔ	nan	l o _ f a t i ˈl ɔ k ɔ	"(18, 'maka1316', ""lo fati'lɔkɔ"")"	nan		
@@ -34,12 +34,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 33.0	coral (rock)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tɔtɔ	nan	t ɔ t ɔ	(33, 'maka1316', 'tɔtɔ')	nan		
 34.0	(coral) reef	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	meti'afa	meti=sea	m e t i ˈa f a	"(34, 'maka1316', ""meti'afa"")"	nan		
 35.0	water (fresh)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ira	nan	- i r - a	(35, 'wers1238', 'ira')	nan		
-36.0	sea; sea water	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	meti; meti ira	nan	m e t i	(36, 'maka1316', 'meti; meti ira')	nan		
+36.0	sea; sea water	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	meti; meti ira	nan	m e t i	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 37.0	wave	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dɔdɔ	nan	d ɔ d ɔ	(37, 'maka1316', 'dɔdɔ')	nan		
 38.0	foam	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ɔ'reke	nan	ɔ ˈr e k e	"(38, 'maka1316', ""ɔ'reke"")"	nan		
 39.0	forest	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ala	nan	a l a	(39, 'maka1316', 'ala')	nan		
 40.0	field	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	rou'bɛrɛ	nan	r o u ˈb ɛ r ɛ	"(40, 'maka1316', ""rou'bɛrɛ"")"	nan		
-41.0	island	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	muɁa	nan	m u ʔ a	"(41, 'adon1237', ""'nuha"")"	nan		
+41.0	island	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	muɁa	nan	m u ʔ a	"(41, 'alor1249-besar', ""nu'haː"")"	nan		
 42.0	rice field	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	alɛ ama	ale ama = wet rice field, teli ama = corn field	a l ɛ _ - a m a	(42, 'maka1316', 'alɛ ama')	nan		
 43.0	garden	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ama	nan	a m a -	(191, 'atim1239', 'tane')	nan		
 44.0	fence	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	de'turu	nan	d e ˈt u r u	"(44, 'maka1316', ""de'turu"")"	nan		
@@ -60,7 +60,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	suti kaɁu	nan	s u t i _ k a ʔ u	(61, 'maka1316', 'suti kaɁu')	nan		
 62.0	comb	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	suri	nan	s u r i -	(62, 'cent2245-hewa', 'ʔurut')	nan		
 63.0	mat	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	biti	nan	b i t i -	"(404, 'abui1241-takal', ""tu.'lo:q"")"	nan		
-64.0	needle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dau'ruma	nan	d a u ˈr u m a	"(64, 'maka1316', ""dau'ruma"")"	nan		
+64.0	needle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dau'ruma	nan	d a u ˈr u m - ( a - - - )	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
 65.0	clothing	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	roba	nan	r o b a	(65, 'cent2245-hewa', 'labu')	nan		
 67.0	fire	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ata	nan	- a t a	(67, 'maka1316', 'ata')	nan		
 68.0	smoke	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ata 'teul	ata=fire, teu=smoke	- a t a _ ˈt e - u l	"(68, 'maka1316', ""ata 'teul"")"	nan		
@@ -173,7 +173,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179.0	back	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	laikoru	nan	l ai k o r u	(326, 'cent2245-hewa', 'dətu')	nan		
 180.0	spine; lower back	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ula'wari; lai'koru	nan	u l a ˈw a r i	"(180, 'maka1316', ""ula'wari; lai'koru"")"	nan		
 181.0	waist	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ula'wari	nan	u l a ˈw a r i	"(181, 'maka1316', ""ula'wari"")"	nan		
-182.0	skin	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	uli	nan	( - - - u - - ) - - l i - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	uli	nan	( - - - - - - - ) - u - l i - - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 183.0	sore; wound	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	bili	nan	- - b i l i	(183, 'wers1238', 'leboli')	nan		
 184.0	ringworm	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	sɔdɔ	nan	s ɔ d - ɔ	(184, 'maka1316', 'sɔdɔ')	nan		
 185.0	scabies	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	sɔdɔ	nan	s ɔ d ɔ	(185, 'maka1316', 'sɔdɔ')	nan		
@@ -186,8 +186,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192.0	child	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mata	nan	- - m a t a	(192, 'cent2245-hewa', 'me')	nan		
 193.0	man	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	nami'ra:	nan	n a m i ˈr aː	(193, 'wers1238', 'limi')	nan		
 194.0	woman	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tufu'ra:	nan	t u f u ˈr aː	"(194, 'maka1316', ""tufu'ra:"")"	nan		
-195.0	husband	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	nami'ra:; nami	nan	- - n a m i ˈr aː	(195, 'wers1238', 'gəlimi')	nan		
-196.0	wife	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dʒa	nan	dʒ - - a	(156, 'sika1262-tanai', 'boʔir')	nan		
+195.0	husband	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	nami'ra:; nami	nan	( - ) - n a m i ˈr aː	(195, 'wers1238', 'gəlimi')	nan		
+196.0	wife	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dʒa	nan	- - - - dʒ - - a - - - -	(156, 'sika1262-tanai', 'boʔir')	nan		
 197.0	mother	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mama	nan	m a m a	(197, 'maka1316', 'mama')	nan		
 198.0	father	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	baba	nan	b a b a	(38, 'p-mala1545-acd', '*buseq')	nan		
 199.0	older sibling	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kaka	nan	k a - - k a	(199, 'adon1237', 'kakãm, kaka')	nan		
@@ -198,10 +198,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 204.0	2sg (informal)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ai	nan	a i	(204, 'wers1238', 'gadi')	nan		
 205.0	2sg (polite)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fi:	nan	f iː	(205, 'maka1316', 'fi:')	nan		
 206.0	3sg	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	laɁi	nan	l a ʔ i	(206, 'maka1316', 'laɁi')	nan		
-207.0	1pl excl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ini	nan	- i n - - i	(207, 'wers1238', 'ɲadi')	nan		
-208.0	1pl incl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fi:	nan	f iː -	(208, 'maka1316', 'fi:')	nan		
+207.0	1pl excl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ini	nan	i n - - i - -	(207, 'wers1238', 'ɲadi')	nan		
+208.0	1pl incl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fi:	nan	- f iː - - - -	(208, 'maka1316', 'fi:')	nan		
 209.0	2pl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	i:	nan	- - - iː - -	(209, 'maka1316', 'i:')	nan		
-210.0	3pl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	wɛra	nan	- - w ɛ r a	(210, 'maka1316', 'wɛra')	nan		
+210.0	3pl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	wɛra	nan	( - - ) w ɛ - - r a - - - -	(210, 'adon1237', 'ˈraʔe')	nan		
 211.0	no; not	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mai	nan	m a - i	(211, 'maka1316', 'mai')	nan		
 212.0	and	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mai	nan	m a - - i	(212, 'maka1316', 'mai')	nan		
 213.0	because	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	were'gau	wereɁe=that, gau=untuk	w e r e ˈg a u	"(213, 'maka1316', ""were'gau"")"	nan		
@@ -209,12 +209,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 215.0	with	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mai	nan	m a i	(215, 'maka1316', 'mai')	nan		
 216.0	what?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI	nan	n a ʔ I	(216, 'maka1316', 'naɁI')	nan		
 217.0	who?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI'reɁe	nan	n a ʔ I ˈr e ʔ e	"(217, 'maka1316', ""naɁI'reɁe"")"	nan		
-218.0	where?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁi gaɁu isiɁi	naɁi = what, gaɁu = 1sg, isiɁI = inside	n a ʔ i _ g a ʔ u _ i s i ʔ i	(218, 'maka1316', 'naɁi gaɁu isiɁi')	nan		
+218.0	where?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁi gaɁu isiɁi	naɁi = what, gaɁu = 1sg, isiɁI = inside	n a ʔ i _ g a ʔ u _ - ( i s - i ʔ i - - - ) -	(218, 'adon1237', 'dɜˈɡaku')	nan		
 219.0	when?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	netani'ɛtɛ	nan	n e t a n i ˈɛ t ɛ	"(219, 'maka1316', ""netani'ɛtɛ"")"	nan		
-220.0	why?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI'dɔ:	nan	n a ʔ I ˈd ɔː	"(227, 'kaer1234', ""i'gaŋ 'ga"")"	nan		
+220.0	why?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI'dɔ:	nan	n a ʔ I ˈd ɔː	"(220, 'maka1316', ""naɁI'dɔ:"")"	nan		
 221.0	how much; how many?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI'roba	nan	n a ʔ I ˈr o b a	"(221, 'maka1316', ""naɁI'roba"")"	nan		
-222.0	how?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI gau ani	nan	n a ʔ I _ g a u _ a n i	(222, 'sout2896-kalik', 'nao ɡa')	nan		
-223.0	this	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ɛrɛɁɛ	nan	- ɛ r ɛ ʔ ɛ	(223, 'maka1316', 'ɛrɛɁɛ')	nan		
+222.0	how?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI gau ani	nan	n a ʔ I _ - g a - u _ a n i	(222, 'sika1262-tanai', 'ɡanupae')	nan		
+223.0	this	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ɛrɛɁɛ	nan	( - ) ɛ - - r ɛ ʔ ɛ	(223, 'maka1316', 'ɛrɛɁɛ')	nan		
 224.0	that	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	woriɁi	nan	- w o r i ʔ i	(224, 'maka1316', 'woriɁi')	nan		
 225.0	at	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	I'siɁi	nan	I ˈs i ʔ i	"(225, 'maka1316', ""I'siɁi"")"	nan		
 226.0	in; inside	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mu'tuɁu	nan	m u ˈt u ʔ u	"(226, 'maka1316', ""mu'tuɁu"")"	nan		
@@ -229,7 +229,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 235.0	many	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	baunu	nan	b a u n u	(235, 'maka1316', 'baunu')	nan		
 236.0	animal	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ani'mala	nan	- a n i ˈm a l a	"(236, 'tetu1245-suai', ""ani'mal"")"	nan		
 237.0	fowl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ɔlɔ'asa	ɔlɔ=bird, asa=chicken	ɔ l ɔ ˈa s a	"(237, 'maka1316', ""ɔlɔ'asa"")"	nan		
-238.0	dog	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	jɛfa	nan	j - ɛ f a -	(238, 'maka1316', 'jɛfa')	nan		
+238.0	dog	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	jɛfa	nan	j ɛ f a -	(238, 'maka1316', 'jɛfa')	nan		
 239.0	pig	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	bai	nan	b a - i -	(365, 'tetu1245-suai', 'monu')	nan		
 240.0	chicken	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	asa	nan	a s a	(240, 'maka1316', 'asa')	nan		
 241.0	rat	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	jura	nan	j u r a -	(241, 'abui1241-fuime', 'rui')	nan		
@@ -245,7 +245,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 251.0	shark	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi	nan	a f i	"(282, 'kaer1234', ""ki'ki:, 'krim"")"	nan		
 252.0	whale	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi'bere	nan	a f i ˈb e r e - - -	"(252, 'maka1316', ""afi'bere"")"	nan		
 253.0	dolphin	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi	nan	a f i	(253, 'maka1316', 'afi')	nan		
-254.0	crocodile	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lawa'hai	nan	l a w a ˈh a - i	(512, 'wers1238', 'tetai leweŋ')	nan		
+254.0	crocodile	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lawa'hai	nan	l a w a ˈh a i - - - - - - - - - - - -	(512, 'wers1238', 'tetai leweŋ')	nan		
 255.0	monitor lizard	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	bai'mɔsu-mɔsu	nan	- - - - b a i ˈm ɔ s u m ɔ s u	"(255, 'maka1316', ""bai'mɔsu-mɔsu"")"	nan		
 256.0	starfish	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	meti ifi'naka	meti=sea; ifinaka=star	m e t i _ i f i ˈn a k a -	(256, 'wers1238', 'təma apikal')	nan		
 257.0	turtle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fenu	nan	f e n u -	(257, 'maka1316', 'fenu')	nan		
@@ -272,7 +272,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 278.0	flea	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	a'suku	nan	a ˈs u k u	"(278, 'maka1316', ""a'suku"")"	nan		
 279.0	louse (clothing)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ami	nan	a m i -	(279, 'maka1316', 'ami')	nan		
 280.0	bedbug	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dʒɔlɔ	nan	dʒ ɔ l ɔ	(280, 'maka1316', 'dʒɔlɔ')	nan		
-281.0	big	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gi-'bere	gi-=relativiser? Bere= big	g i ˈb e r e	"(281, 'maka1316', ""gi-'bere"")"	nan		
+281.0	big	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gi-'bere	gi-=relativiser? Bere= big	g i ˈb e r e - - - - - -	"(281, 'maka1316', ""gi-'bere"")"	nan		
 282.0	small	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gi-'kaɁu	gi-=relativiser? KaɁu=small	g i ˈk a ʔ u -	"(282, 'maka1316', ""gi-'kaɁu"")"	nan		
 283.0	old; worn (house)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	oma gama	nan	o m a _ g a m a -	"(283, 'tetu1245-suai', ""uma 'tuan"")"	nan		
 284.0	new (house)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	oma sufa	nan	- o m a _ s u f a	(284, 'maka1316', 'oma sufa')	nan		
@@ -348,7 +348,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 358.0	to sit	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	eimi	nan	e i m i	(358, 'maka1316', 'eimi')	nan		
 359.0	to stand	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ete'na:	nan	- e t e ˈn aː	(359, 'wers1238', 'gətati')	nan		
 360.0	to walk	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	laɁa laɁa	nan	l a ʔ a _ l a ʔ a	(360, 'wers1238', 'lai lol')	nan		
-361.0	to run	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	riɁa	nan	r i ʔ a	(361, 'maka1316', 'riɁa')	nan		
+361.0	to run	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	riɁa	nan	- - - - - - r i ʔ a - - ( - - - - - )	(361, 'maka1316', 'riɁa')	nan		
 362.0	to go	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	laɁa	nan	l a ʔ a	(362, 'maka1316', 'laɁa')	nan		
 363.0	to swim	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ba'lisi	nan	b a ˈl i s i	"(363, 'maka1316', ""ba'lisi"")"	nan		
 364.0	to fly	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	loɁoro	nan	l o ʔ o r o	(364, 'cent2245-hewa', 'horo')	nan		
@@ -434,8 +434,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 445.0	to hit (drum)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tiba 'base	tiba=ruffle drum, base=hit	t i b a - _ ˈb a s e	"(4, 'kaer1234', ""i'xano"")"	nan		
 446.0	to call out	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ku:lu	nan	- - k uː l u - -	"(446, 'tetu1245-suai', ""ha'kilar"")"	nan		
 447.0	to lie (tell untruth)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lɔgɔ; buri	lɔgɔ=to lie (polite) (can be used for women), buri=to lie (impolite) can be used for men.	l ɔ g ɔ	(447, 'maka1316', 'lɔgɔ; buri')	nan		
-448.0	to ask (question)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	seti	nan	- s e t i -	(448, 'maka1316', 'seti')	nan		
-449.0	to count	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kota	nan	- k o t a -	(449, 'cent2245-hewa', 'ɡasik')	nan		
+448.0	to ask (question)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	seti	nan	- s e t i -	(448, 'adan1251', 'utaʔaɲ')	nan		
+449.0	to count	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kota	nan	- k o t a -	(449, 'sika1262-tanai', 'ɡasik')	nan		
 450.0	one	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	i'saku	nan	i ˈs a k u	"(450, 'maka1316', ""i'saku"")"	nan		
 451.0	two	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lo'laɁe	nan	l o ˈl a ʔ e	"(451, 'maka1316', ""lo'laɁe"")"	nan		
 452.0	three	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lo'litu	nan	l o ˈl i t u	"(452, 'maka1316', ""lo'litu"")"	nan		

@@ -1,15 +1,15 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	kema1243	Kemak	Austronesian	4Timor, 2Central	'baʔe'mɔ:	nan	ˈb a ʔ e ˈm ɔː	"(0, 'kema1243', ""'baʔe'mɔ:"")"	nan		
-1.0	sun	kema1243	Kemak	Austronesian	4Timor, 2Central	'lɛlɔ 'mɑtɑn	sun day	ˈl ɛ l ɔ _ ˈm ɑ t ɑ n	(1, 'keda1252-leuwa', 'lɔjɔ matan')	nan		
-2.0	moon	kema1243	Kemak	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l - - a	"(2, 'tuku1254', ""'hula"")"	nan		
+1.0	sun	kema1243	Kemak	Austronesian	4Timor, 2Central	'lɛlɔ 'mɑtɑn	sun day	ˈl ɛ l ɔ _ ˈm ɑ t ɑ n	(1, 'sika1262-tanai', 'ləro')	nan		
+2.0	moon	kema1243	Kemak	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l a - - ( - - - - - - - - )	(0, 'p-aust1307-acd', '*laŋiC')	nan		
 3.0	star	kema1243	Kemak	Austronesian	4Timor, 2Central	'hitu	nan	ˈh i t u	(3, 'pura1258', 'jid')	nan		
 4.0	night	kema1243	Kemak	Austronesian	4Timor, 2Central	'lɛlə 'bɔ:	night; dark	ˈl ɛ l ə _ ˈb ɔː	"(4, 'kema1243', ""'lɛlə 'bɔ:"")"	nan		
 4.0	night	kema1243	Kemak	Austronesian	4Timor, 2Central	'rɑe meta'ma:	night; dark	ˈr ɑ e _ m e t a ˈm aː	"(4, 'tuku1254', ""'rɑe 'buta"")"	nan		
 5.0	day	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔare	day; light	ˈʔ a r e -	(5, 'fata1247', 'hara')	nan		
 5.0	day	kema1243	Kemak	Austronesian	4Timor, 2Central	ha'lɑŋ	day; light	h a ˈl ɑ ŋ	(5, 'fata1247', 'hara')	nan		
 6.0	year	kema1243	Kemak	Austronesian	4Timor, 2Central	'tɔnɑn	nan	ˈt ɔ n ɑ n	"(6, 'alor1247-baran', ""'tu:ŋ"")"	nan		
-13.0	cloud	kema1243	Kemak	Austronesian	4Timor, 2Central	'tahɔ	nan	ˈt a h ɔ -	(13, 'kelo1247-bring', 'teʔeh')	nan		
-14.0	wind	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑgi	nan	ˈʔ ɑ - g i	(14, 'nede1245', 'angi')	nan		
+13.0	cloud	kema1243	Kemak	Austronesian	4Timor, 2Central	'tahɔ	nan	ˈt a h ɔ - - - - - -	(13, 'atim1239', 'tabo')	nan		
+14.0	wind	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑgi	nan	ˈʔ ɑ g i - - - - - - -	(204, 'cent2245-hewa', 'ʔau')	nan		
 15.0	rain	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔusa	nan	ˈʔ u s a -	"(15, 'laka1255', ""hu'ʔɑn"")"	nan		
 21.0	fog	kema1243	Kemak	Austronesian	4Timor, 2Central	'tahɔ	mist; mist closed	ˈt a h ɔ -	(21, 'kelo1247', 'tiʔik')	nan		
 21.0	fog	kema1243	Kemak	Austronesian	4Timor, 2Central	'tahɔ 'ʔupu	mist; mist closed	ˈt a h - ɔ _ ˈʔ u p u -	"(21, 'tetu1246', ""'ʔabu 'ʔabu"")"	nan		
@@ -22,7 +22,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32.0	stone	kema1243	Kemak	Austronesian	4Timor, 2Central	'hatu	nan	ˈh a t u -	(32, 'cent2245-hewa', 'ʋatu')	nan		
 35.0	water (fresh)	kema1243	Kemak	Austronesian	4Timor, 2Central	'bia	nan	ˈb i a	"(204, 'alor1247-baran', ""'mɔ:"")"	nan		
 36.0	sea; sea water	kema1243	Kemak	Austronesian	4Timor, 2Central	'tasi	nan	ˈt a s i - - - - -	(36, 'cent2245-hewa', 'tahi')	nan		
-39.0	forest	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi 'larɑn	nan	ˈʔ ɑ i _ ˈl a r ɑ n	"(39, 'tetu1246', ""'ʔɑi 'larɑn"")"	nan		
+39.0	forest	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi 'larɑn	nan	ˈʔ ɑ i _ ˈl a r ɑ n	(39, 'keda1252-leuwa', 'kain laraŋ')	nan		
 43.0	garden	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔuma 'abɛ	house front	ˈʔ u m a _ - ˈa b ɛ	"(43, 'mamb1306', ""ʔum 'ʔahe"")"	nan		
 45.0	road; path; way	kema1243	Kemak	Austronesian	4Timor, 2Central	'sala	nan	ˈs a l - - a	"(45, 'mamb1306', ""sa'lolo"")"	nan		
 46.0	canoe	kema1243	Kemak	Austronesian	4Timor, 2Central	'bɛrɔ	nan	ˈb ɛ r ɔ - -	"(46, 'abui1241-petle', ""'pe.laŋ"")"	nan		
@@ -47,7 +47,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86.0	bark (of tree)	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi uli'ti:n	nan	ˈʔ ɑ i _  - u l i ˈt iː n	(86, 'cent2245-hewa', 'ʔai klokok')	nan		
 87.0	leaf	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi tɑhɑn	nan	ˈʔ ɑ i _ t ɑ h ɑ n	(87, 'tetu1245-suai', 'tahan')	nan		
 91.0	root	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi ha'ʔɑn	nan	ˈʔ ɑ i _ h a ˈʔ ɑ n	"(91, 'kema1243', ""'ʔɑi ha'ʔɑn"")"	nan		
-92.0	fruit	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi 'hũãn	nan	ˈʔ ɑ i _ ˈh ũ ã n	"(92, 'tuku1254', ""'kɑi 'hu:"")"	nan		
+92.0	fruit	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi 'hũãn	nan	ˈʔ ɑ i _ - - ˈh ũ - ã n	(92, 'sika1262-tanai', 'βua-ŋ')	nan		
 93.0	seed	kema1243	Kemak	Austronesian	4Timor, 2Central	'hini	seed; stock of seed	ˈh i n i	(93, 'cent2245-hewa', 'une')	nan		
 93.0	seed	kema1243	Kemak	Austronesian	4Timor, 2Central	'raba	seed; stock of seed	ˈr a b a	"(93, 'kema1243', ""'raba"")"	nan		
 97.0	rice grains (unhusked) (raw from field)	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔetu	nan	ˈʔ e t u	"(97, 'kema1243', ""'ʔetu"")"	nan		
@@ -85,19 +85,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 163.0	arm	kema1243	Kemak	Austronesian	4Timor, 2Central	'bɔsur	nan	ˈb ɔ s u r	"(163, 'kema1243', ""'bɔsur"")"	nan		
 164.0	hand	kema1243	Kemak	Austronesian	4Timor, 2Central	'limɑr	nan	ˈl i m ɑ r	(91, 'sika1262-tanai', 'ʔramut')	nan		
 168.0	breast	kema1243	Kemak	Austronesian	4Timor, 2Central	su'sur	nan	s u ˈs u r	(168, 'tetu1245-suai', 'susun')	nan		
-170.0	navel	kema1243	Kemak	Austronesian	4Timor, 2Central	pus'rɑr	nan	p u s ˈr ɑ r	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
+170.0	navel	kema1243	Kemak	Austronesian	4Timor, 2Central	pus'rɑr	nan	- - p u s ˈr ɑ r - - - - -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 174.0	leg	kema1243	Kemak	Austronesian	4Timor, 2Central	ɔ'ɛr	nan	ɔ ˈɛ r	"(174, 'kema1243', ""ɔ'ɛr"")"	nan		
 175.0	foot	kema1243	Kemak	Austronesian	4Timor, 2Central	ɔ'ɛr	foot; sole of foot; upper side of foot	ɔ ˈɛ r	(175, 'buna1278-suai', 'giri bɛlan')	nan		
 175.0	foot	kema1243	Kemak	Austronesian	4Timor, 2Central	ɔ'ɛr bɑʔin	foot; sole of foot; upper side of foot	- ɔ ˈɛ r - _ b ɑ ʔ i n	(175, 'buna1278-suai', 'giri bɛlan')	nan		
 178.0	knee	kema1243	Kemak	Austronesian	4Timor, 2Central	tunu'rur	nan	- t u n u ˈr u r -	"(178, 'maka1316', ""iti'koru"")"	nan		
 179.0	back	kema1243	Kemak	Austronesian	4Timor, 2Central	mɔ'gɔr	nan	m ɔ ˈg ɔ r	"(179, 'kema1243', ""mɔ'gɔr"")"	nan		
-182.0	skin	kema1243	Kemak	Austronesian	4Timor, 2Central	uli'tir	nan	( - - - - - - ) - u l i ˈt i r	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	kema1243	Kemak	Austronesian	4Timor, 2Central	uli'tir	nan	( - - - - - - - ) - - u l i ˈt i r - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 190.0	person	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔata 'masa	nan	ˈʔ a t a _ ˈm a s a	"(190, 'kema1243', ""'ʔata 'masa"")"	nan		
 191.0	name	kema1243	Kemak	Austronesian	4Timor, 2Central	'galɑr	nan	ˈg a l ɑ r	"(191, 'tuku1254', ""(R) 'gala"")"	nan		
 192.0	child	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑnɑr	nan	ˈʔ ɑ n ɑ r	(192, 'alor1247-baran', 'ʔanaŋ')	nan		
 193.0	man	kema1243	Kemak	Austronesian	4Timor, 2Central	'mane 'sia	nan	- ˈm - a n e - _ ˈs i - a	(193, 'tetu1245-suai', 'manɛ')	nan		
 194.0	woman	kema1243	Kemak	Austronesian	4Timor, 2Central	'hine 'sia	nan	ˈh i n e _ ˈs i - a	"(231, 'kaer1234', ""wa'xur"")"	nan		
-195.0	husband	kema1243	Kemak	Austronesian	4Timor, 2Central	'lair	nan	ˈl a i r	"(195, 'tetu1246', ""'lɑin"")"	nan		
+195.0	husband	kema1243	Kemak	Austronesian	4Timor, 2Central	'lair	nan	- - - - ˈl a - i r	(169, 'adon1237', 'ˈobaˈkɜt')	nan		
 196.0	wife	kema1243	Kemak	Austronesian	4Timor, 2Central	'hɛr	nan	ˈh ɛ r -	(196, 'tetu1245-suai', 'fɛn')	nan		
 197.0	mother	kema1243	Kemak	Austronesian	4Timor, 2Central	i'nɑr	nan	- i ˈn ɑ r	(370, 'cent2245-hewa', 'hunaʔ')	nan		
 198.0	father	kema1243	Kemak	Austronesian	4Timor, 2Central	a'mɑr	nan	- a ˈm ɑ r - -	(198, 'cent2245-hewa', 'ama')	nan		
@@ -111,10 +111,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 205.0	2sg (polite)	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɔ:	nan	ˈʔ ɔː	(205, 'tetu1245-suai', 'o')	nan		
 206.0	3sg	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔua	nan	ˈʔ u - a	"(206, 'tuku1254', ""'ʔu:"")"	nan		
 207.0	1pl excl	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔami	nan	ˈʔ a m i	(207, 'sika1262-tanai', 'ʔami')	nan		
-208.0	1pl incl	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔita	nan	- ˈʔ i t a	(208, 'cent2245-hewa', 'ʔita')	nan		
+208.0	1pl incl	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔita	nan	- ˈʔ i t a - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 209.0	2pl	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔimi	nan	- ˈʔ i m i -	(209, 'cent2245-hewa', 'miu')	nan		
-210.0	3pl	kema1243	Kemak	Austronesian	4Timor, 2Central	'rɔmɔ	nan	- - ˈr ɔ m ɔ - - - - - - - -	(210, 'cent2245-hewa', 'rimu')	nan		
-210.0	3pl	kema1243	Kemak	Austronesian	4Timor, 2Central	ʔimi bosinua	nan	- - ʔ i m i _ b o s i n u a	(210, 'cent2245-hewa', 'rimu')	nan		
+210.0	3pl	kema1243	Kemak	Austronesian	4Timor, 2Central	'rɔmɔ	nan	ˈr ɔ m ɔ	(210, 'cent2245-hewa', 'rimu')	nan		
+210.0	3pl	kema1243	Kemak	Austronesian	4Timor, 2Central	ʔimi bosinua	nan	ʔ i m i _ b o s i n u a	(210, 'wers1238', 'gadi')	nan		
 211.0	no; not	kema1243	Kemak	Austronesian	4Timor, 2Central	'tai	nan	ˈt a - i -	(211, 'p-cent2245-abvd', '*diaq')	nan		
 212.0	and	kema1243	Kemak	Austronesian	4Timor, 2Central	'nɔ:	nan	ˈn ɔː - -	(212, 'cent2245-hewa', 'nora')	nan		
 213.0	because	kema1243	Kemak	Austronesian	4Timor, 2Central	'pita	nan	ˈp i t a	"(213, 'tuku1254', ""'pita"")"	nan		
@@ -123,28 +123,28 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 216.0	what?	kema1243	Kemak	Austronesian	4Timor, 2Central	,sɑp'sia	nan	s ɑ p ˈs i - a	"(216, 'mamb1306', ""sɑ'pid"")"	nan		
 217.0	who?	kema1243	Kemak	Austronesian	4Timor, 2Central	bɑ'sia	nan	b ɑ ˈs i a	(217, 'tetu1245-suai', 'sɛ:')	nan		
 219.0	when?	kema1243	Kemak	Austronesian	4Timor, 2Central	,bɑi 'pila	nan	b ɑ i - _ ˈp i l a	"(219, 'tetu1245-suai', ""wai'hira"")"	nan		
-220.0	why?	kema1243	Kemak	Austronesian	4Timor, 2Central	'tɑu 'saba	nan	ˈt ɑ - u _ ˈs a b a -	"(220, 'mamb1306', ""'dɛs sɑ'pid"")"	nan		
+220.0	why?	kema1243	Kemak	Austronesian	4Timor, 2Central	'tɑu 'saba	nan	ˈt ɑ ( - u _ - ) - ˈs a b ( a - )	"(220, 'tetu1246', ""tɑmba'sa:"")"	nan		
 221.0	how much; how many?	kema1243	Kemak	Austronesian	4Timor, 2Central	'pila	nan	ˈp i l a	(221, 'cent2245-hewa', 'pira')	nan		
 222.0	how?	kema1243	Kemak	Austronesian	4Timor, 2Central	,tɑu'saba	nan	t ɑ u ˈs a b a	"(222, 'kema1243', "",tɑu'saba"")"	nan		
-223.0	this	kema1243	Kemak	Austronesian	4Timor, 2Central	'nɔgɔ	nan	ˈn ɔ g ɔ	"(223, 'kaer1234-o', ""'ega"")"	nan		
+223.0	this	kema1243	Kemak	Austronesian	4Timor, 2Central	'nɔgɔ	nan	ˈn ɔ - g ɔ	"(223, 'kaer1234', ""'ɛga"")"	nan		
 224.0	that	kema1243	Kemak	Austronesian	4Timor, 2Central	'nua	nan	- ˈn u - a	"(224, 'tetu1245-suai', ""nɛ'ba:"")"	nan		
 225.0	at	kema1243	Kemak	Austronesian	4Timor, 2Central	'dia	nan	ˈd i - a -	(229, 'cent2245-hewa', 'lala nan')	nan		
 226.0	in; inside	kema1243	Kemak	Austronesian	4Timor, 2Central	,dia 'larɑn	Loc in; Loc bag in	d i - a _ ˈl a r ɑ n	"(226, 'tetu1246', ""'ʔiha ('ʔuma) 'larɑn"")"	nan		
 226.0	in; inside	kema1243	Kemak	Austronesian	4Timor, 2Central	,dia 'pɑsta 'larɑn	Loc in; Loc bag in	d i a - _ ˈp ɑ s t a _ ˈl a r ɑ n	"(226, 'mamb1306', ""'hɛr 'pɑsta 'lala"")"	nan		
-227.0	here	kema1243	Kemak	Austronesian	4Timor, 2Central	,dia 'nɔgɔ	nan	d i - a _ ˈn ɔ g ɔ	(227, 'tetu1245-suai', 'iha nɛɁa')	nan		
+227.0	here	kema1243	Kemak	Austronesian	4Timor, 2Central	,dia 'nɔgɔ	nan	d i - a _ ˈn ɔ g ɔ	(227, 'keda1252-leuwa', 'di nɔʔ')	nan		
 228.0	there	kema1243	Kemak	Austronesian	4Timor, 2Central	,dia lɑ'nua	di sana; di situ	d i a _ l ɑ ˈn u a	"(228, 'kema1243', "",dia lɑ'nua"")"	nan		
 228.0	there	kema1243	Kemak	Austronesian	4Timor, 2Central	dia nua	di sana; di situ	d i a _ - - n u a	"(228, 'kema1243', "",dia lɑ'nua"")"	nan		
 229.0	above	kema1243	Kemak	Austronesian	4Timor, 2Central	,dia 'lɑu(n)	nan	    d i - a _     ˈl ɑ - - u -	(229, 'cent2245-hewa', 'lala nan')	nan		
 230.0	below	kema1243	Kemak	Austronesian	4Timor, 2Central	,dia nɛrɑ(n)	nan	d i a _ n ɛ r ɑ	(230, 'kema1243', ',dia nɛrɑ(n)')	nan		
 231.0	left (side)	kema1243	Kemak	Austronesian	4Timor, 2Central	(,dia) 'toʔi	nan	ˈt o ʔ i	"(231, 'kema1243', ""(,dia) 'toʔi"")"	nan		
 232.0	right (side)	kema1243	Kemak	Austronesian	4Timor, 2Central	bɑ'nala	nan	b ɑ ˈn a l a	(232, 'cent2245-hewa', 'ʋanan')	nan		
-233.0	a few	kema1243	Kemak	Austronesian	4Timor, 2Central	'bisa	a little (bit); just a little (bit)	ˈb i - - - - s a	(233, 'adon1237', 'ˈʔɜsiʔ, kuluk')	nan		
-233.0	a few	kema1243	Kemak	Austronesian	4Timor, 2Central	bis'bisa	a little (bit); just a little (bit)	b i s ˈb i - s a	(233, 'adon1237', 'ˈʔɜsiʔ, kuluk')	nan		
+233.0	a few	kema1243	Kemak	Austronesian	4Timor, 2Central	'bisa	a little (bit); just a little (bit)	ˈb i - - - - s a - - - - -	(233, 'adon1237', 'ˈʔɜsiʔ, kuluk')	nan		
+233.0	a few	kema1243	Kemak	Austronesian	4Timor, 2Central	bis'bisa	a little (bit); just a little (bit)	b i s ˈb i - s a - - - - -	(233, 'adon1237', 'ˈʔɜsiʔ, kuluk')	nan		
 234.0	all	kema1243	Kemak	Austronesian	4Timor, 2Central	kɑ'hiɑlɑ	nan	k ɑ ˈh i ɑ l ɑ	"(234, 'buna1278-malia', ""'ga'ʔɑl"")"	nan		
 235.0	many	kema1243	Kemak	Austronesian	4Timor, 2Central	'leɑr	identical meaning	ˈl e ɑ r	"(235, 'tuku1254', ""'le:ɑr"")"	nan		
 235.0	many	kema1243	Kemak	Austronesian	4Timor, 2Central	'nour	identical meaning	ˈn o u r -	"(235, 'mamb1306', ""'niri"")"	nan		
 236.0	animal	kema1243	Kemak	Austronesian	4Timor, 2Central	'hiʔɔr	nan	ˈh i ʔ ɔ r	"(236, 'kema1243', ""'hiʔɔr"")"	nan		
-238.0	dog	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔasu	nan	ˈʔ a s u	(238, 'cent2245-hewa', 'ahu')	nan		
+238.0	dog	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔasu	nan	ˈʔ a s u - - - - - - -	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 249.0	tail	kema1243	Kemak	Austronesian	4Timor, 2Central	'hiʔɔr	nan	ˈh i ʔ ɔ r	(249, 'cent2245-hewa', 'iʔur')	nan		
 250.0	fish	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔika	nan	ˈʔ i k a -	(370, 'p-cent2245-abvd', '*zakan')	nan		
 259.0	bird	kema1243	Kemak	Austronesian	4Timor, 2Central	'manu	bird; wild chicken; domestic chicken;	ˈm a n u	"(259, 'tetu1245-suai', ""manu 'semo"")"	nan		
@@ -152,7 +152,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 260.0	wing	kema1243	Kemak	Austronesian	4Timor, 2Central	'lila'pa:r	nan	ˈl i l a ˈp aː r	(260, 'maka1316', 'lia')	nan		
 261.0	claw	kema1243	Kemak	Austronesian	4Timor, 2Central	'grapi	to make clawing movements; to claw once	ˈg r a p i -	"(261, 'laka1255', ""kra'hut"")"	nan		
 261.0	claw	kema1243	Kemak	Austronesian	4Timor, 2Central	grapa	to make clawing movements; to claw once	g r a p a -	"(261, 'laka1255', ""kra'hut"")"	nan		
-262.0	feather	kema1243	Kemak	Austronesian	4Timor, 2Central	hulur	nan	h u l u r	(208, 'cent2245-hewa', 'ʔita')	nan		
+262.0	feather	kema1243	Kemak	Austronesian	4Timor, 2Central	hulur	nan	h u l u r - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 263.0	horn	kema1243	Kemak	Austronesian	4Timor, 2Central	nu'gur	nan	n u ˈg u r	(263, 'tetu1245-suai', 'dikur')	nan		
 264.0	snake	kema1243	Kemak	Austronesian	4Timor, 2Central	'nipe	nan	ˈn i p e	(264, 'fata1247', 'nana')	nan		
 266.0	egg	kema1243	Kemak	Austronesian	4Timor, 2Central	'manu 'tɛlɔn	nan	ˈm a n - u _ ˈt ɛ l ɔ n	"(266, 'pura1258', ""haŋia 'dua"")"	nan		
@@ -204,8 +204,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	kema1243	Kemak	Austronesian	4Timor, 2Central	'nurɑt	nan	- - - ˈn u r ɑ t	"(346, 'maka1316', ""isi'nɛrɛ"")"	nan		
 347.0	to know	kema1243	Kemak	Austronesian	4Timor, 2Central	'tara	nan	- - ˈt a r a	"(347, 'laka1255', ""'tada"")"	nan		
 348.0	to say	kema1243	Kemak	Austronesian	4Timor, 2Central	'dale	nan	- - - - ˈd a l e -	"(348, 'tuku1254', ""'daleʔ"")"	nan		
-349.0	to speak	kema1243	Kemak	Austronesian	4Timor, 2Central	'dale	speak; speak.Imperative	ˈd a l - - e	(349, 'tetu1245-suai', 'dale')	nan		
-349.0	to speak	kema1243	Kemak	Austronesian	4Timor, 2Central	'dalele	speak; speak.Imperative	ˈd a l e l e	(349, 'tetu1245-suai', 'dale')	nan		
+349.0	to speak	kema1243	Kemak	Austronesian	4Timor, 2Central	'dale	speak; speak.Imperative	( - ) - - - - ˈd a l e - - -	(349, 'tetu1245-suai', 'dale')	nan		
+349.0	to speak	kema1243	Kemak	Austronesian	4Timor, 2Central	'dalele	speak; speak.Imperative	( - ) - - - - ˈd a l e - l e	(349, 'tetu1245-suai', 'dale')	nan		
 352.0	to lie down	kema1243	Kemak	Austronesian	4Timor, 2Central	'bue	nan	ˈb u - e	(352, 'sout2896-kalik', 'paˈva')	nan		
 353.0	to sleep	kema1243	Kemak	Austronesian	4Timor, 2Central	'bue 'matɛn	lie die	ˈb u e _ ˈm a t ɛ n	"(353, 'mamb1306', ""'boɛ 'haɛ"")"	nan		
 356.0	to bathe	kema1243	Kemak	Austronesian	4Timor, 2Central	'duis	nan	ˈd u i s	(249, 'sika1262-tanai', 'iʔur')	nan		
@@ -217,7 +217,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 359.0	to stand	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔara	nan	ˈʔ a - - r a -	"(359, 'tetu1245-suai', ""ha'ri:k"")"	nan		
 360.0	to walk	kema1243	Kemak	Austronesian	4Timor, 2Central	'sɔle	nan	ˈs ɔ l e	"(174, 'kaer1234', ""ga'bat (goto'ku, 'gamaŋ)"")"	nan		
 363.0	to swim	kema1243	Kemak	Austronesian	4Timor, 2Central	'nagi	nan	ˈn a - g i	(363, 'cent2245-hewa', 'nani')	nan		
-364.0	to fly	kema1243	Kemak	Austronesian	4Timor, 2Central	mu'luhu	nan	m u ˈl u h u	(210, 'cent2245-hewa', 'rimu')	nan		
+364.0	to fly	kema1243	Kemak	Austronesian	4Timor, 2Central	mu'luhu	nan	( - m ) - - - u ˈl u h u - -	(210, 'adon1237', 'ˈraʔe')	nan		
 365.0	to fall (from above)	kema1243	Kemak	Austronesian	4Timor, 2Central	ko'moku	fall down; fall down; topple	k o ˈm o k u	"(365, 'alor1247-baran', ""'gɔka"")"	nan		
 365.0	to fall (from above)	kema1243	Kemak	Austronesian	4Timor, 2Central	ma'nahu	fall down; fall down; topple	m a ˈn a h u	(365, 'tetu1245-suai', 'monu')	nan		
 368.0	to drink	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔenu	nan	ˈʔ e n u - -	(368, 'cent2245-hewa', '-inu')	nan		
@@ -225,7 +225,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 370.0	to cook	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɛrɛ	cook; cook rice	ˈʔ ɛ r ɛ	"(370, 'laka1255', ""'hila"")"	nan		
 370.0	to cook	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɛrɛ 'ʔura	cook; cook rice	ˈʔ ɛ r ɛ _ ˈʔ u r a	"(370, 'kema1243', ""'ʔɛrɛ 'ʔura"")"	nan		
 371.0	to wash	kema1243	Kemak	Austronesian	4Timor, 2Central	'hɑsa	nan	- - ˈh ɑ s a	(21, 'sika1262-tanai', 'səbu sak')	nan		
-372.0	to sew	kema1243	Kemak	Austronesian	4Timor, 2Central	'sɔra	nan	ˈs ɔ - r a -	"(372, 'alor1247-baran', ""'haur"")"	nan		
+372.0	to sew	kema1243	Kemak	Austronesian	4Timor, 2Central	'sɔra	nan	- - - ˈs ɔ - r a - - - - - - - - -	(372, 'wers1238', 'sor burkiŋ')	nan		
 373.0	to live; be alive; living	kema1243	Kemak	Austronesian	4Timor, 2Central	'moɑs	nan	ˈm o ɑ s	(373, 'kelo1247-bring', 'iɛs')	nan		
 374.0	to breathe	kema1243	Kemak	Austronesian	4Timor, 2Central	mə'rɛs	nan	m ə ˈr ɛ s	"(374, 'kema1243', ""mə'rɛs"")"	nan		
 375.0	to work	kema1243	Kemak	Austronesian	4Timor, 2Central	,sɛr'bisu	nan	s ɛ r - ˈb i s u	"(375, 'tetu1245-suai', ""se'risu"")"	nan		
@@ -241,7 +241,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 383.0	to sing	kema1243	Kemak	Austronesian	4Timor, 2Central	'tei	sing (ord.); sing (trad.)	ˈt e - i - -	(383, 'cent2245-hewa', 'de:dɑŋ')	nan		
 383.0	to sing	kema1243	Kemak	Austronesian	4Timor, 2Central	mə'nanit	sing (ord.); sing (trad.)	m ə ˈn a n i t	"(383, 'tetu1245-suai', ""ha'nanu"")"	nan		
 389.0	to suck	kema1243	Kemak	Austronesian	4Timor, 2Central	'mu:s	nan	- - - - ˈm uː s - - -	"(389, 'alor1247-baran', ""'dum:ɔ"")"	nan		
-390.0	to blow	kema1243	Kemak	Austronesian	4Timor, 2Central	'pu:	nan	ˈp uː - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
+390.0	to blow	kema1243	Kemak	Austronesian	4Timor, 2Central	'pu:	nan	- - - - - ˈp uː - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	kema1243	Kemak	Austronesian	4Timor, 2Central	'lɔta 'ʔɑba	spit saliva; saliva; aba=abia=saliva 	ˈl ɔ t a _ ˈʔ ɑ b a -	"(391, 'laka1255', ""'lɛɔ 'ʔɑbɑr"")"	nan		
 391.0	to spit	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑbia	spit saliva; saliva; aba=abia=saliva 	ˈʔ ɑ b i a	"(391, 'kema1243', ""'ʔɑbia"")"	nan		
 392.0	to vomit	kema1243	Kemak	Austronesian	4Timor, 2Central	'muta	nan	ˈm u t a -	(392, 'cent2245-hewa', 'mutaʔ')	nan		
@@ -274,7 +274,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430.0	to squeeze	kema1243	Kemak	Austronesian	4Timor, 2Central	'ku:	nan	ˈk uː	"(430, 'kema1243', ""'ku:"")"	nan		
 442.0	to shoot	kema1243	Kemak	Austronesian	4Timor, 2Central	'posi	shoot.with.rifle; kill.with stone/axe; shoot.with.arrow	ˈp o s i -	(203, 'cent2245-hewa', 'aʔu')	nan		
 442.0	to shoot	kema1243	Kemak	Austronesian	4Timor, 2Central	'tiɑr	shoot.with.rifle; kill.with stone/axe; shoot.with.arrow	ˈt i ɑ r -	"(442, 'tetu1245-suai', ""'tɪru"")"	nan		
-449.0	to count	kema1243	Kemak	Austronesian	4Timor, 2Central	'gai	nan	- ˈg a - i -	(449, 'cent2245-hewa', 'ɡasik')	nan		
+449.0	to count	kema1243	Kemak	Austronesian	4Timor, 2Central	'gai	nan	- ˈg a - i -	(449, 'sika1262-tanai', 'ɡasik')	nan		
 450.0	one	kema1243	Kemak	Austronesian	4Timor, 2Central	'sia	nan	ˈs i a	"(450, 'kema1243', ""'sia"")"	nan		
 451.0	two	kema1243	Kemak	Austronesian	4Timor, 2Central	hu'rua	nan	h u ˈr u a	(451, 'cent2245-hewa', 'rua')	nan		
 452.0	three	kema1243	Kemak	Austronesian	4Timor, 2Central	'telu	nan	ˈt e l - u	(452, 'cent2245-hewa', 'təlu')	nan		
@@ -282,7 +282,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 454.0	five	kema1243	Kemak	Austronesian	4Timor, 2Central	hə'lima	nan	h ə ˈl i m a	(454, 'cent2245-hewa', 'lima')	nan		
 455.0	six	kema1243	Kemak	Austronesian	4Timor, 2Central	hə'nɛm	nan	h ə ˈn ɛ m -	"(188, 'lamm1241', ""ka'ang"")"	nan		
 456.0	seven	kema1243	Kemak	Austronesian	4Timor, 2Central	'hitu	nan	ˈh i t - - u	(449, 'sika1262-tanai', 'reke-ŋ')	nan		
-457.0	eight	kema1243	Kemak	Austronesian	4Timor, 2Central	'balu	nan	ˈb a l u	(210, 'cent2245-hewa', 'rimu')	nan		
+457.0	eight	kema1243	Kemak	Austronesian	4Timor, 2Central	'balu	nan	( - ˈb ) - - - a l u - - - -	(210, 'adon1237', 'ˈraʔe')	nan		
 458.0	nine	kema1243	Kemak	Austronesian	4Timor, 2Central	'sibe	nan	ˈs i b e	"(590, 'kaer1234', ""nwe'lum"")"	nan		
 459.0	ten	kema1243	Kemak	Austronesian	4Timor, 2Central	,sa'pulu	nan	s a ˈp u l u	(459, 'cent2245-hewa', 'pulu')	nan		
 469.0	twenty	kema1243	Kemak	Austronesian	4Timor, 2Central	,gulu 'rua	nan	g u l u _ ˈr u a	"(87, 'kaer1234', ""'tei 'wa"")"	nan		

@@ -1,19 +1,19 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈkələm ˈleva	nan	ˈk ə l ə m _ ˈl e v a	(0, 'cent2245-hewa', 'kəleŋ')	nan		
 1.0	sun	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈluvak ləˈd͡ʒau	nan	ˈl u v a k _ l ə ˈd͡ʒ a u	(1, 'sout2896-kalik', 'luˈvak')	nan		
-2.0	moon	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈvulan dʒ͡e kəˈləm	nan	ˈv u l a n _ dʒ͡e _ k ə ˈl ə m	(2, 'sout2896-lerek', 'ˈvulan dʒ͡e kəˈləm')	nan		
+2.0	moon	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈvulan dʒ͡e kəˈləm	nan	ˈv u l a n _ ( dʒ͡e _ k ə - ˈl ə m )	(0, 'p-aust1307-acd', '*laŋiC')	nan		
 3.0	star	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈtonar	nan	ˈt o n a r	(3, 'sout2896-kalik', 'toˈnar')	nan		
 4.0	night	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	buˈkənən	nan	- b u ˈk ə n ə n	(4, 'sout2896-lerek', 'buˈkənən')	nan		
 5.0	day	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	laˈjonan	nan	l a ˈj o n a n	(5, 'sout2896-lerek', 'laˈjonan')	nan		
 6.0	year	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈtunan	nan	ˈt u n a n	"(6, 'alor1247-baran', ""'tu:ŋ"")"	nan		
 7.0	morning	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	baeˈnan	nan	b a e ˈn a n	(7, 'sout2896-kalik', 'baˈɛn')	nan		
 8.0	yesterday	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ɡaro	nan	- - ɡ a r o	(8, 'sout2896-kalik', 'nəɡəˈro')	nan		
-9.0	day before yesterday	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdʒ͡ama ˈdʒ͡ua be	nan	ˈdʒ͡a - m a _ ˈdʒ͡u a - _ b e	(9, 'sout2896-kalik', 'ˈd͡ʒəma ˈd͡ʒua be')	nan		
+9.0	day before yesterday	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdʒ͡ama ˈdʒ͡ua be	nan	ˈdʒ͡a - m a _ ˈdʒ͡u a - _ b e	(9, 'cent2245-hewa', 'rəma rua ete')	nan		
 10.0	tomorrow	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	baˈen	nan	- - b a ˈe n -	(10, 'tetu1245-suai', 'aŋ')	nan		
-11.0	day after tomorrow	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	dʒ͡əm ˈdʒ͡ua	nan	dʒ͡ə m _ ˈdʒ͡u a	(11, 'sout2896-lerek', 'dʒ͡əm ˈdʒ͡ua')	nan		
+11.0	day after tomorrow	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	dʒ͡əm ˈdʒ͡ua	nan	( dʒ͡ə ) - m - _ ˈdʒ͡u - - a	(11, 'cent2245-hewa', 'rema rua')	nan		
 12.0	twilight; dawn	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ekan buˈjak	nan	e k a n _ b u ˈj a k	(12, 'sout2896-kalik', 'ˈeka buˈd͡ʒak')	nan		
-13.0	cloud	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈkovar	nan	ˈk o v a r	(13, 'cent2245-hewa', 'koʋa')	nan		
-14.0	wind	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈaŋin	nan	- ˈa ŋ i n	(204, 'cent2245-hewa', 'ʔau')	nan		
+13.0	cloud	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈkovar	nan	ˈk o v a r	"(259, 'tetu1245-suai', ""manu 'semo"")"	nan		
+14.0	wind	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈaŋin	nan	- ˈa ŋ i n - - - - - -	(204, 'cent2245-hewa', 'ʔau')	nan		
 15.0	rain	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈudʒ͡an	nan	- ˈu dʒ͡a - n	(86, 'cent2245-hewa', 'ʔai klokok')	nan		
 16.0	drizzle	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈudʒ͡a krenik	nan	ˈu dʒ͡a - - _ k r e n i k	(16, 'sout2896-kalik', 'uˈd͡ʒan ɡrəˈtik')	nan		
 17.0	rainbow	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	tat ˈbajuŋ	nan	t a t _ ˈb a j u ŋ	(17, 'sout2896-lerek', 'tat ˈbajuŋ')	nan		
@@ -92,7 +92,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89.0	firewood	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kaj ˈapi	nan	k a j _ ˈa p i	(89, 'sout2896-lerek', 'kaj ˈapi')	nan		
 90.0	rattan	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈuar	nan	ˈu a r	(90, 'sout2896-lerek', 'ˈuar')	nan		
 91.0	root	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈramut	nan	- - - - ˈr a m u t	(322, 'lamm1241', 'ku minna')	nan		
-92.0	fruit	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈvuak	nan	ˈv u a k	(92, 'sout2896-kalik', 'vuˈak')	nan		
+92.0	fruit	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈvuak	nan	- - - - - - ˈv u - a k	(92, 'sika1262-tanai', 'βua-ŋ')	nan		
 93.0	seed	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈriuk	nan	ˈr i u k	(404, 'keda1252-leuwa', 'tuhuʔ bakɔʔ')	nan		
 94.0	grain; cereal	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈkəluok	nan	ˈk ə l u o k	(94, 'sout2896-lerek', 'ˈkəluok')	nan		
 96.0	husked rice; uncooked rice	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəˈluok; kəˈluok ˈnalatən	nan	k ə ˈl u o k	(454, 'cent2245-hewa', 'lima')	nan		
@@ -107,7 +107,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 105.0	chew betel	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ɡa ˈkleruk	nan	ɡ a _ ˈk - l e r u k	(68, 'keda1252-leuwa', 'in bakɔ')	nan		
 106.0	sweet potato	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈhure ˈdʒ͡avan	nan	ˈh u r e _ - - ˈdʒ͡a v a n	(76, 'kelo1247', 'kwil')	nan		
 107.0	cassava	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈhure ˈkajor	nan	ˈh u r e _ ˈk a j o r	(107, 'sout2896-kalik', 'skaˈd͡ʒo uˈsər')	nan		
-108.0	taro	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	keˈvok	nan	k e ˈv o k	(108, 'sout2896-lerek', 'keˈvok')	nan		
+108.0	taro	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	keˈvok	nan	k e ˈv o k	(196, 'adon1237', 'hãː')	nan		
 109.0	sago	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	-	nan	nan	nan	nan		
 110.0	millet	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈvətəm	nan	ˈv ə t ə m	(110, 'sout2896-kalik', 'vəˈtəm')	nan		
 111.0	sugarcane	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təˈvor	nan	t ə ˈv o r	(111, 'cent2245-hewa', 'təʋu')	nan		
@@ -138,13 +138,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 136.0	blood	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	həˈmei	nan	h ə ˈm e i -	(136, 'cent2245-hewa', 'mei')	nan		
 138.0	heart	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	puon	nan	p u o n	(369, 'sika1262-tanai', 'ʔoa')	nan		
 139.0	liver	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	orən	nan	o r ə n	(139, 'sout2896-kalik', 'ɔr')	nan		
-140.0	kidney	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	keˈɡer	nan	k e ˈɡ e r	(2, 'keda1252-leuwa', 'u̘la lɔjɔ')	nan		
+140.0	kidney	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	keˈɡer	nan	k e ˈɡ e r - ( - - - - - - - - )	(0, 'p-aust1307-acd', '*laŋiC')	nan		
 141.0	guts	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəbotin	nan	k ə b o t i n	(334, 'alor1247-baran', 'kumɔ̃:')	nan		
-142.0	excrement	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	taer	nan	t a e r	(142, 'sout2896-kalik', 'taˈɛr')	nan		
+142.0	excrement	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	taer	nan	t a e r	(396, 'p-aust1307-abvd', '*baʀeq')	nan		
 143.0	lungs	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈore wuˈdʒ͡an	nan	ˈo r e _ w u ˈdʒ͡a n	(143, 'sout2896-lerek', 'ˈore wuˈdʒ͡an')	nan		
 144.0	stomach; belly	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəboˈtin	nan	k ə b o ˈt i n	(144, 'sout2896-lerek', 'kəboˈtin')	nan		
 145.0	head	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	uˈlu	nan	- u ˈl u -	(145, 'sout2896-kalik', 'uˈlu')	nan		
-146.0	hair	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	laˈtar	nan	l a ˈt a r	(14, 'p-cent2245-abvd', '*haŋin')	nan		
+146.0	hair	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	laˈtar	nan	l a ˈt a r - - - - - -	(204, 'cent2245-hewa', 'ʔau')	nan		
 147.0	body hair	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	riˈau	nan	r i ˈa u	(147, 'sout2896-lerek', 'riˈau')	nan		
 148.0	eye	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	maˈta	nan	- - - m a ˈt a -	(148, 'cent2245-hewa', 'mata')	nan		
 149.0	ear	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kiˈŋa	nan	k i ˈŋ a	(149, 'sout2896-kalik', 'kiˈŋa')	nan		
@@ -168,7 +168,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 167.0	fingernail	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kaˈtau	nan	k a ˈt a - - u -	(167, 'sout2896-lerek', 'kaˈtau')	nan		
 168.0	breast	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	tuˈhor	nan	t u ˈh o r	(3, 'alor1249-sar-n', 'yif')	nan		
 169.0	chest	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	koˈrok	nan	k o ˈr o k	(68, 'keda1252-leuwa', 'dumεʔ')	nan		
-170.0	navel	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəpuˈhər	nan	- - k ə p u ˈh ə r	(282, 'sika1262-tanai', 'anak')	nan		
+170.0	navel	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəpuˈhər	nan	k ə p u ˈh - ə r - - - - -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 171.0	penis	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	uˈti	nan	- u ˈt i	(171, 'cent2245-hewa', 'uti')	nan		
 172.0	vagina	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	puˈki	nan	p u ˈk i	(172, 'sout2896-lerek', 'puˈki')	nan		
 173.0	testicles	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈleke ˈteluk	nan	ˈl e k e _ ˈt e l u k	(173, 'sout2896-lerek', 'ˈleke ˈteluk')	nan		
@@ -193,7 +193,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192.0	child	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	anaˈkən	nan	a n a - ˈk ə n -	(192, 'alor1247-baran', 'ʔanaŋ')	nan		
 193.0	man	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	laˈkin	nan	- - l a ˈk i n	"(193, 'alor1247-baran', ""ka'lake"")"	nan		
 194.0	woman	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ronen	nan	r o n e n	(194, 'sout2896-kalik', 'biˈnɛn')	nan		
-195.0	husband	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	lakin	nan	- - l a k i n	(195, 'cent2245-hewa', 'laʔi')	nan		
+195.0	husband	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	lakin	nan	- - - - l a k i n	(169, 'adon1237', 'ˈobaˈkɜt')	nan		
 196.0	wife	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəweinan	nan	k ə w e i n a n	(196, 'sout2896-lerek', 'kəweinan')	nan		
 197.0	mother	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ina	nan	- i n a -	(370, 'cent2245-hewa', 'hunaʔ')	nan		
 198.0	father	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ama	nan	- a m a - - -	(198, 'cent2245-hewa', 'ama')	nan		
@@ -207,9 +207,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 205.0	2sg (polite)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəˈneu	nan	k ə - ˈn e u	(205, 'sout2896-lerek', 'kəˈneu')	nan		
 206.0	3sg	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	(mɔn; mɔˈne)	nan	nan	nan	nan		
 207.0	1pl excl	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kam; kame	nan	k a m -	(207, 'sika1262-tanai', 'ʔami')	nan		
-208.0	1pl incl	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈtite	nan	- ˈt i t e	(208, 'cent2245-hewa', 'ʔita')	nan		
+208.0	1pl incl	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈtite	nan	- ˈt i t e - - - - - -	(208, 'cent2245-hewa', 'ʔita')	nan		
 209.0	2pl	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈmio woˈləm	nan	- - - ˈm i o _ w o ˈl ə m	(209, 'cent2245-hewa', 'miu')	nan		
-210.0	3pl	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdane	nan	- - ˈd a - - - - - - - n e -	(210, 'cent2245-hewa', 'rimu')	nan		
+210.0	3pl	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdane	nan	( - - ) - - - - ˈd a - - n e	(210, 'adon1237', 'ˈraʔe')	nan		
 211.0	no; not	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	taˈken	nan	t a ˈk e n	(211, 'p-cent2245-abvd', '*diaq')	nan		
 212.0	and	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	no naˈne	nan	n o _ n a ˈn e	(212, 'cent2245-hewa', 'nora')	nan		
 213.0	because	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	məˈki	nan	m ə ˈk i	(213, 'sout2896-lerek', 'məˈki')	nan		
@@ -217,11 +217,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 215.0	with	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	no	nan	n o - -	(250, 'atim1239', 'afu')	nan		
 216.0	what?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	aˈpɔi	nan	- a ˈp ɔ i	(216, 'cent2245-hewa', 'apa')	nan		
 217.0	who?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	eˈna	nan	- e ˈn a -	(217, 'sout2896-kalik', 'eˈnak')	nan		
-218.0	where?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	no ɡə; mai ɡa?; tamo nəɡaʔ	nan	n o _ ɡ ə	(218, 'sout2896-lerek', 'no ɡə; mai ɡa?; tamo nəɡaʔ')	nan		
+218.0	where?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	no ɡə; mai ɡa?; tamo nəɡaʔ	nan	n o - - _ ɡ ə - - - - ( - - - - - - - - - ) -	(218, 'adon1237', 'dɜˈɡaku')	nan		
 219.0	when?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdʒ͡əma ˈpira	nan	( ˈdʒ͡ə - m a - ) _ ˈp i - - r a	(203, 'cent2245-hewa', 'aʔu')	nan		
-220.0	why?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	naoɡa; nəroɡa	nan	n a o ɡ a	(220, 'tetu1245-suai', 'nusa')	nan		
+220.0	why?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	naoɡa; nəroɡa	nan	n a o ɡ a	(70, 'alor1249-sar-n', 'moxoʔ')	nan		
 221.0	how much; how many?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	pira	nan	p i r a	(221, 'cent2245-hewa', 'pira')	nan		
-222.0	how?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	naboɡa	nan	n a b o ɡ a	(222, 'sout2896-lerek', 'naboɡa')	nan		
+222.0	how?	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	naboɡa	nan	n a - - - b o ɡ a	(222, 'keda1252-leuwa', 'nara bɔnε')	nan		
 223.0	this	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	naˈbe	nan	n a ˈb e	(223, 'wers1238', 'ɔbu')	nan		
 224.0	that	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	naˈbo	nan	- n a ˈb o	"(224, 'tetu1245-suai', ""nɛ'ba:"")"	nan		
 225.0	at	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	nəvəl; nədʒ͡e; nədʒ͡u	nan	n ə v ə l	(225, 'sout2896-lerek', 'nəvəl; nədʒ͡e; nədʒ͡u')	nan		
@@ -237,13 +237,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 235.0	many	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈrɔi	nan	ˈr ɔ i -	(235, 'sout2896-kalik', 'ˈraik')	nan		
 236.0	animal	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	əˈvaŋ ˈlakut	nan	- ə ˈv a ŋ _ ˈl a k u t	(92, 'p-aust1307-abvd', '*buaq')	nan		
 237.0	fowl	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	-	nan	nan	nan	nan		
-238.0	dog	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	aˈor	nan	a ˈo r	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
+238.0	dog	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	aˈor	nan	- a - ˈo r - - - - - -	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 239.0	pig	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	vaˈver	nan	v a ˈv e r	(239, 'cent2245-hewa', 'ʋaʋi')	nan		
 240.0	chicken	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	maˈnuk	nan	m a ˈn u k	"(259, 'tetu1245-suai', ""manu 'semo"")"	nan		
 241.0	rat	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	məˈlak	nan	m ə ˈl a k	(241, 'sout2896-lerek', 'məˈlak')	nan		
 242.0	lizard	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təˈkɛk	nan	t ə ˈk ɛ k - -	(242, 'cent2245-hewa', 'təke:')	nan		
 243.0	civet cat	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	laˈkɔr	nan	- - l a ˈk ɔ r -	(243, 'wers1238', 'luku')	nan		
-244.0	deer	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ruˈhar	nan	- - r u ˈh a r -	(76, 'adon1237', 'kəˈdəku')	nan		
+244.0	deer	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ruˈhar	nan	- - r u - ˈh a - r - - -	(244, 'cent2245-hewa', 'ruha')	nan		
 245.0	frog	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ɡurˈɡeŋ	nan	ɡ u r ˈɡ e ŋ	(245, 'sout2896-lerek', 'ɡurˈɡeŋ')	nan		
 246.0	bat	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəreˈbeŋ	nan	k ə r e ˈb e ŋ	"(377, 'alor1247-baran', ""'nɛĩ"")"	nan		
 247.0	flying fox; fruit bat	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	miˈker	nan	- - m i ˈk e r	(359, 'keda1252-leuwa', 'madεr hεdaŋ')	nan		
@@ -278,7 +278,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 276.0	louse eggs	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kut kiˈan	nan	k u t - _ k i - ˈa n	(276, 'cent2245-hewa', 'ʔutu telon')	nan		
 277.0	mother louse	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kut inan	nan	k u t - _ - i n a n -	(277, 'cent2245-hewa', 'ʔutu inan')	nan		
 278.0	flea	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təməˈlar	nan	t ə m ə ˈl a r	(278, 'cent2245-hewa', 'məla')	nan		
-279.0	louse (clothing)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kətuˈmau	nan	k ə t u ˈm a u	(36, 'maka1316', 'meti; meti ira')	nan		
+279.0	louse (clothing)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kətuˈmau	nan	k ə t u ˈm a u - - - -	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 280.0	bedbug	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təmaˈdʒ͡uŋ	nan	- - t ə m a ˈdʒ͡ u ŋ -	(280, 'adon1237', 'tɜˈmajũ')	nan		
 281.0	big	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	raˈjan; keˈdak	nan	- - r a ˈj a n	(281, 'sout2896-lerek', 'raˈjan; keˈdak')	nan		
 282.0	small	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	anaˈkən	nan	a n a ˈk ə n	(282, 'cent2245-hewa', 'anak')	nan		
@@ -336,7 +336,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 338.0	hungry	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈtei ˈmaluv	nan	ˈt e i _ ˈm a l u v	(338, 'sout2896-lerek', 'ˈtei ˈmaluv')	nan		
 339.0	blind	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	maˈta kiˈpɛk	nan	m a ˈt a _ k - - i ˈp ɛ k	(339, 'sout2896-kalik', 'kniˈpɛk')	nan		
 340.0	deaf	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəˈlebitən	nan	k ə ˈl e b i t ə n	(340, 'sout2896-kalik', 'kleˈbit')	nan		
-341.0	scared	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təˈnakutən	nan	t ə ˈn a k u t ə n	(238, 'keda1252-leuwa', 'a̘u vavi')	nan		
+341.0	scared	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təˈnakutən	nan	t ə ˈn a k u t ə n - -	(377, 'keda1252-leuwa', 'sεraʔ saraʔ')	nan		
 342.0	angry	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈunor	nan	ˈu n o r	(342, 'sout2896-lerek', 'ˈunor')	nan		
 343.0	to see	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈtulu	nan	ˈt u l u	(343, 'sout2896-lerek', 'ˈtulu')	nan		
 344.0	to hear	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdəŋə	nan	ˈd ə ŋ ə -	"(344, 'alor1247-baran', ""'daŋ:a"")"	nan		
@@ -367,14 +367,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 369.0	to eat	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ɡa; ka	nan	ɡ a	(369, 'sout2896-kalik', 'ga')	nan		
 370.0	to cook	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈlolu	nan	ˈl o l u	(370, 'sout2896-kalik', 'loˈlu')	nan		
 371.0	to wash	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈbahaŋ	nan	ˈb - a h a ŋ -	(371, 'cent2245-hewa', 'puʔu')	nan		
-372.0	to sew	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	hauˈrəŋ	nan	h a u ˈr ə ŋ	"(372, 'alor1247-baran', ""'haur"")"	nan		
+372.0	to sew	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	hauˈrəŋ	nan	- - - h a u ˈr ə - - ŋ - - - - - -	(372, 'wers1238', 'sor burkiŋ')	nan		
 373.0	to live; be alive; living	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	modʒ͡iˈpən	nan	m o dʒ͡i - ˈp ə n	(373, 'sout2896-kalik', 'moˈd͡ʒip')	nan		
 374.0	to breathe	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈehe ˈnai	nan	- ˈe h e _ ˈn a - i	(343, 'alor1247-baran', 'hik:i')	nan		
 375.0	to work	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəˈradʒ͡a	nan	k ə ˈr - - - a dʒ͡a -	"(76, 'alor1247-baran', ""la'duŋ"")"	nan		
 376.0	to die	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	maˈtei	nan	m a - ˈt e - i	(324, 'cent2245-hewa', 'niluk')	nan		
 377.0	to give	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	bɛŋ	nan	b ɛ ŋ -	(377, 'cent2245-hewa', 'bəli')	nan		
 378.0	to wipe	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	pohoˈkəŋ	nan	p o h o ˈk ə ŋ	(378, 'sout2896-lerek', 'pohoˈkəŋ')	nan		
-379.0	to come	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈbedʒ͡ɔ	nan	ˈb e dʒ͡ɔ -	(1, 'sika1262-tanai', 'ləro')	nan		
+379.0	to come	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈbedʒ͡ɔ	nan	ˈb e dʒ͡ɔ - - - - - - -	(1, 'sika1262-tanai', 'ləro')	nan		
 380.0	to laugh	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ɡeˈkɔi	nan	ɡ e ˈk ɔ i	"(380, 'alor1247-baran', ""'gɛki"")"	nan		
 381.0	to cry	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈɡiar	nan	ˈɡ i - a r -	"(222, 'alor1247-baran', ""na'mɔnaŋga"")"	nan		
 382.0	to dance	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	hɛˈdu	nan	h ɛ ˈd u	(382, 'sout2896-lerek', 'hɛˈdu')	nan		
@@ -395,7 +395,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 397.0	to hit	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	bəŋoˈlaŋ	nan	b ə ŋ o ˈl a ŋ	(397, 'sout2896-lerek', 'bəŋoˈlaŋ')	nan		
 398.0	to slap	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təˈpa	nan	- t ə - ˈp a - -	(398, 'sout2896-kalik', 'təˈpa')	nan		
 399.0	to bite	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	(ˈaor) ˈɡike	nan	ˈɡ i k - - e	(36, 'pura1258', 'taŋ')	nan		
-400.0	to cut	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈbelo	nan	ˈb e l o -	(400, 'sout2896-kalik', 'ˈbelu')	nan		
+400.0	to cut	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈbelo	nan	ˈb e l o -	(400, 'keda1252-leuwa', 'bεl baʔ')	nan		
 401.0	to cut down	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	bakəˈtəŋ	nan	b a k ə ˈt ə ŋ	(401, 'sout2896-kalik', 'baˈkat')	nan		
 402.0	to split	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ləˈkaŋ	nan	- l ə ˈk a ŋ	(402, 'cent2245-hewa', 'pleka')	nan		
 403.0	to divide	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	veˈkan	nan	v e ˈk a n -	(403, 'cent2245-hewa', 'bige')	nan		
@@ -443,7 +443,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 446.0	to call out	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈirak	nan	ˈi r a k	(67, 'keda1252-leuwa', 'himaʔ')	nan		
 447.0	to lie (tell untruth)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəˈropən; kəˈvaɡor	nan	k ə ˈr o p ə n	(447, 'sout2896-lerek', 'kəˈropən; kəˈvaɡor')	nan		
 448.0	to ask (question)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈnəna; ˈdaha	nan	ˈn ə - n - - a	(448, 'sout2896-lerek', 'ˈnəna; ˈdaha')	nan		
-449.0	to count	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈɡahip	nan	- ˈɡ a h i p	(449, 'cent2245-hewa', 'ɡasik')	nan		
+449.0	to count	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈɡahip	nan	- ˈɡ a h i p	(449, 'sika1262-tanai', 'ɡasik')	nan		
 450.0	one	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	tu	nan	- t u	(213, 'sika1262-tanai', 'loni-ŋ')	nan		
 451.0	two	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdʒ͡ua	nan	ˈdʒ͡u a	(451, 'sout2896-lerek', 'ˈdʒ͡ua')	nan		
 452.0	three	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	təl	nan	t ə l - -	(452, 'cent2245-hewa', 'təlu')	nan		
@@ -495,7 +495,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 513.0	chair	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kəˈdera	nan	k ə - ˈd e - r a	(513, 'cent2245-hewa', 'kursi')	nan		
 514.0	lamp	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	pəˈlita	nan	p ə ˈl i t a	(514, 'adon1237', 'pɜlita, lampu')	nan		
 515.0	candle	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈudor; lilin	nan	ˈu d o r -	(515, 'sout2896-lerek', 'ˈudor; lilin')	nan		
-516.0	to weave	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈpano tan	nan	ˈp a n o - _ t a n	(516, 'adon1237', 'tane, nekɜt tane')	nan		
+516.0	to weave	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈpano tan	nan	ˈp a n o _ t a n - - -	(516, 'adon1237', 'tane, nekɜt tane')	nan		
 517.0	shirt	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	laˈbur	nan	l a ˈb u r	(517, 'cent2245-hewa', 'lɑbur')	nan		
 518.0	necklace	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈniŋal	nan	ˈn i ŋ a l	(518, 'sout2896-lerek', 'ˈniŋal')	nan		
 519.0	earring	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdʒ͡ivaŋ	nan	ˈdʒ͡i v a ŋ	(519, 'sout2896-lerek', 'ˈdʒ͡ivaŋ')	nan		
@@ -572,6 +572,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 590.0	long (stick)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	doˈak	nan	d o - ˈa k -	(590, 'sout2896-lerek', 'doˈak')	nan		
 591.0	tall (person)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ataˈdikə ɡoloˈkən	nan	a t a ˈd i k ə _ ɡ o l o ˈk ə n	(591, 'sout2896-lerek', 'ataˈdikə ɡoloˈkən')	nan		
 592.0	short (stick)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	paˈdʒ͡ok; məˈkul	nan	p a ˈdʒ͡o - k -	(592, 'tetu1245-suai', '(ai) badak')	nan		
-593.0	narrow (road)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kənipoˈtən; hənipoˈtən	nan	k ə n i p o ˈt ə n	(218, 'p-aust1307-abvd', '*i-nu')	nan		
+593.0	narrow (road)	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	kənipoˈtən; hənipoˈtən	nan	k ə - n i p o ˈt ə n	(218, 'p-aust1307-abvd', '*i-nu')	nan		
 594.0	inhabited land	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	-	nan	nan	nan	nan		
 598.0	to chase away; to expel	sout2896-lerek	Lerek Lamaholot	Austronesian	8Lembata	ˈdəɡur	nan	ˈd ə ɡ u r	"(363, 'kaer1234', ""ta'ro, ta'ri, ta'raŋ"")"	nan		

@@ -1,10 +1,10 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'di	nan	ä ˈd - - i	(0, 'abui1241-petle', 'a.di( )')	nan		
 0.0	sky	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	adi	nan	a d - - i	(0, 'abui1241-petle', 'a.di( )')	nan		
-1.0	sun	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	wär	nan	w ä r -	(1, 'alor1249-sar-a', 'war')	nan		
-1.0	sun	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	war	nan	w a r -	(1, 'alor1249-sar-a', 'war')	nan		
-2.0	moon	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	i.'jä	nan	i ˈj ä	"(2, 'abui1241-takal', ""i.'jä"")"	nan		
-2.0	moon	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iya	nan	i y a	(2, 'abui1241-takal-o', 'iya')	nan		
+1.0	sun	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	wär	nan	w ä r - - - -	(1, 'wers1238', 'wudi')	nan		
+1.0	sun	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	war	nan	w a r - - - -	(1, 'wers1238', 'wudi')	nan		
+2.0	moon	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	i.'jä	nan	- i ˈj ä -	"(0, 'alor1247-baran', ""'laŋi"")"	nan		
+2.0	moon	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iya	nan	- i y a -	"(0, 'alor1247-baran', ""'laŋi"")"	nan		
 3.0	star	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fi:r	nan	f iː r -	(3, 'abui1241-takal', 'fi:r')	nan		
 3.0	star	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fiir	nan	f ii r -	(3, 'abui1241-takal', 'fi:r')	nan		
 4.0	night	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tun.'tä.mä	nan	t u n - ˈt ä m ä	"(4, 'abui1241-takal', ""tun.'tä.mä"")"	nan		
@@ -18,17 +18,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8.0	yesterday	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.fe̞j.dä	nan	ä f e̞ j - d ä	(8, 'abui1241-takal', 'ä.fe̞j.dä')	nan		
 8.0	yesterday	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	afeida	nan	a f e - i d a	(8, 'abui1241-takal', 'ä.fe̞j.dä')	nan		
 9.0	day before yesterday	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.tä.de̞äŋ  wä.hä	nan	nan	nan	nan		
-9.0	day before yesterday	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hetadeng waha	nan	h e t a d e - n g _ w a - - h a	(9, 'wers1238', '(mleɲa) ɛtɛŋ yok')	nan		
+9.0	day before yesterday	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hetadeng waha	nan	h e t a d e - n g _ w a h a	(449, 'tetu1245-suai', 'sura')	nan		
 10.0	tomorrow	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'qun	nan	ä ˈq u n -	"(10, 'kaer1234-o', ""u'ruŋ"")"	nan		
 10.0	tomorrow	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	akun	nan	a k u n -	"(10, 'kaer1234-o', ""u'ruŋ"")"	nan		
 11.0	day after tomorrow	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.tä.de̞äŋ  ä.jo.'qu	nan	nan	nan	nan		
-11.0	day after tomorrow	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hetadeng ayoku	nan	h e t a d e - n g _ a y - o k u	"(11, 'abui1241-takal', ""he̞.tä.de̞äŋ ä.jo.'qu"")"	nan		
+11.0	day after tomorrow	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hetadeng ayoku	nan	h e t a d e n g _ - - - a y o k u	(84, 'pura1258', 'te')	nan		
 12.0	twilight; dawn	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.ri.dä.pe̞	nan	- - ä r i d ä p e̞ - -	(12, 'blag1240-bama', 'ileragabuŋ')	nan		
 12.0	twilight; dawn	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	aridape	nan	- - a r i d a p e - -	(12, 'blag1240-bama', 'ileragabuŋ')	nan		
-13.0	cloud	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.be̞ä.'kil	nan	t ä b e̞ ä ˈk i l	"(13, 'abui1241-takal', ""tä.be̞ä.'kil"")"	nan		
-13.0	cloud	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tabeekil	nan	t a b ee - k i l	"(13, 'abui1241-takal', ""tä.be̞ä.'kil"")"	nan		
-14.0	wind	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tʰi.'mɔ.i	nan	tʰ i ˈm ɔ - i -	"(14, 'abui1241-petle', ""ta.'moi"")"	nan		
-14.0	wind	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	timoi	nan	t i m o - i -	"(14, 'abui1241-petle', ""ta.'moi"")"	nan		
+13.0	cloud	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.be̞ä.'kil	nan	t ä b e̞ ä - - ˈk i l	(13, 'atim1239', 'tabo')	nan		
+13.0	cloud	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tabeekil	nan	t a b ee - - - k i l	(13, 'atim1239', 'tabo')	nan		
+14.0	wind	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tʰi.'mɔ.i	nan	tʰ i ˈm ɔ i - -	"(14, 'abui1241-petle', ""ta.'moi"")"	nan		
+14.0	wind	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	timoi	nan	t i m o i - -	"(14, 'abui1241-petle', ""ta.'moi"")"	nan		
 15.0	rain	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.nui	nan	- ä n u i -	"(15, 'pura1258', ""a'nuar"")"	nan		
 15.0	rain	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	anui	nan	- a n u i -	"(15, 'pura1258', ""a'nuar"")"	nan		
 16.0	drizzle	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.bi.käk.nä	nan	h e̞ b i k - ä k n ä	(16, 'nede1245', 'kne-kne')	nan		
@@ -135,8 +135,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 62.0	comb	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ket	nan	k e t -	(62, 'abui1241-takal', 'ke:t')	nan		
 63.0	mat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ä.dik	nan	ˈä d i k - -	(63, 'kelo1247-bring', 'tikɑr')	nan		
 63.0	mat	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	adik	nan	a d i k - -	(63, 'kelo1247-bring', 'tikɑr')	nan		
-64.0	needle	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ti:ŋ	nan	t iː - ŋ -	(64, 'tetu1245-suai', 'dauŋ')	nan		
-64.0	needle	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tiing	nan	t ii - n g	(64, 'tetu1245-suai', 'dauŋ')	nan		
+64.0	needle	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ti:ŋ	nan	t iː ŋ -	(218, 'keda1252-leuwa', 'dita')	nan		
+64.0	needle	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tiing	nan	t ii n g	(218, 'keda1252-leuwa', 'dita')	nan		
 65.0	clothing	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'nä.mã	nan	ˈn ä m ã - -	"(65, 'abui1241-petle', ""'na.maŋ"")"	nan		
 65.0	clothing	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'nä.mäŋ	nan	ˈn ä m ä ŋ -	"(65, 'abui1241-petle', ""'na.maŋ"")"	nan		
 65.0	clothing	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.'mã	nan	n ä ˈm ã - -	"(65, 'abui1241-petle', ""'na.maŋ"")"	nan		
@@ -220,8 +220,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 99.0	rice plant	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ayak	nan	a y a k	(99, 'kula1280-lanto', 'ayək')	nan		
 100.0	to plant (yam)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	bä.'tä:kɔ mur.'jä	nan	b ä ˈt äː k ɔ _ m u r - ˈj ä	"(100, 'pura1258', ""batako 'mudiŋ"")"	nan		
 100.0	to plant (yam)	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	bataako muria	nan	b a t aa k o _ m u r i - a	"(100, 'pura1258', ""batako 'mudiŋ"")"	nan		
-101.0	to plant (rice)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'si.je̞äŋ 'tä:q.dä	nan	ˈs i j e̞ ä ŋ - - _ ˈt äː q d ä	(1, 'alor1249-sar-a', 'war')	nan		
-101.0	to plant (rice)	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	sieng taakda	nan	s i - - e n g - _ t aa k d a	(1, 'alor1249-sar-a', 'war')	nan		
+101.0	to plant (rice)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'si.je̞äŋ 'tä:q.dä	nan	ˈs i j e̞ ä ŋ - - _ ˈt äː q d ä	(101, 'wers1238', 'arak ta')	nan		
+101.0	to plant (rice)	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	sieng taakda	nan	s i - - e n g - _ t aa k d a	(101, 'wers1238', 'arak ta')	nan		
 102.0	betel nut; areca	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fu:	nan	f uː - -	(36, 'p-aust1307-abvd', '*tenem')	nan		
 102.0	betel nut; areca	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fuu	nan	f uu - -	(36, 'p-aust1307-abvd', '*tenem')	nan		
 103.0	betel vine	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'me̞.tiŋ	nan	ˈm e̞ - t i ŋ -	(103, 'wers1238', 'mas')	nan		
@@ -311,7 +311,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 141.0	guts	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tatook minaaka	nan	t a t oo k - _ m i n aa - k a	(141, 'wers1238', 'atok muruŋ')	nan		
 142.0	excrement	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	täɁi	nan	t ä ʔ i	(142, 'cent2245-hewa', 'taʔi')	nan		
 142.0	excrement	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	wɐ.tä: 'qɐ.ru	nan	w ɐ t äː _ ˈq ɐ r u	"(142, 'abui1241-takal', ""wɐ.tä: 'qɐ.ru"")"	nan		
-142.0	excrement	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ta'i	nan	t a ˈi -	(142, 'sout2896-kalik', 'taˈɛr')	nan		
+142.0	excrement	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ta'i	nan	t a ˈi -	(396, 'p-aust1307-abvd', '*baʀeq')	nan		
 142.0	excrement	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	wataa karu	nan	w a t aa _ k a r u	"(142, 'abui1241-takal', ""wɐ.tä: 'qɐ.ru"")"	nan		
 143.0	lungs	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.qä.le̞̞i	nan	t ä q ä l e̞̞ i	"(143, 'kaer1234-o', ""ta'qai"")"	nan		
 143.0	lungs	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	takalei	nan	t a k a l e i	"(143, 'kaer1234-o', ""ta'qai"")"	nan		
@@ -324,8 +324,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 147.0	body hair	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'mur	nan	- - ä ˈm u r	(147, 'wers1238', 'mudi')	nan		
 147.0	body hair	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	amur	nan	- - a m u r	(147, 'wers1238', 'mudi')	nan		
 148.0	eye	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ti.ã	nan	ˈt i ã	"(148, 'abui1241-takal', ""'ti.ã"")"	nan		
-148.0	eye	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ti.äŋ	nan	t i ä ŋ -	(390, 'p-cent2245-abvd', '*upi')	nan		
-148.0	eye	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tiang	nan	t i a n g	(390, 'p-cent2245-abvd', '*upi')	nan		
+148.0	eye	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ti.äŋ	nan	t i ä ŋ - - - - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
+148.0	eye	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tiang	nan	t i a n g - - - - - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 149.0	ear	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'ʋe̞̞ɪ	nan	t ä ˈʋ e̞̞ - ɪ - - - - -	(149, 'blag1240-kulij', 'teveli')	nan		
 149.0	ear	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tawei	nan	t a w e - i - - - - -	(149, 'blag1240-kulij', 'teveli')	nan		
 150.0	nose	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'min	nan	t ä ˈm i - n - - - -	(150, 'wers1238', 'temuiŋ')	nan		
@@ -368,8 +368,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 168.0	breast	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tike	nan	t i - - - - - k e	(168, 'abui1241-takal', 'te̞ti.ke̞̞')	nan		
 169.0	chest	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.rä.hie̞ŋ	could be nasalized	t ä r ä h i e̞ ŋ -	(169, 'abui1241-takal', 'tä.rä.hie̞ŋ')	nan		
 169.0	chest	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tarahieng	nan	t a r a h i e n g	(169, 'abui1241-takal', 'tä.rä.hie̞ŋ')	nan		
-170.0	navel	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.bi.'kil	nan	t ä b - - i ˈk i l	(170, 'blag1240-bama', 'tupusal')	nan		
-170.0	navel	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tabikil	nan	t a b - - i k i l	(170, 'blag1240-bama', 'tupusal')	nan		
+170.0	navel	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.bi.'kil	nan	t ä b - - i - - - ˈk i l -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
+170.0	navel	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tabikil	nan	t a b - - i - - - k i l -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 171.0	penis	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'pä:l	nan	t ä ˈp äː l	(171, 'blag1240-nule', 'tal')	nan		
 171.0	penis	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'tɔ	nan	t ä ˈt ɔ	(171, 'cent2245-hewa', 'uti')	nan		
 171.0	penis	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tapaal	nan	t a p aa l	(171, 'blag1240-nule', 'tal')	nan		
@@ -392,8 +392,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179.0	back	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	teui	nan	t e u i	(179, 'atim1239', 'teui')	nan		
 180.0	spine; lower back	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.pu.jäŋ, te̞̞.'ui te̞i.'pä	could be nasalized. Change a's later	n ä p - u j ä ŋ -	(259, 'p-aust1307-abvd', '*qayam')	nan		
 180.0	spine; lower back	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	napuyang, teui teipa	nan	n a p u y - a n g	(259, 'p-aust1307-abvd', '*qayam')	nan		
-182.0	skin	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞:.qul	lengethened /e/ due to following /q/	( - - t e̞̞ː - - ) q u l - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
-182.0	skin	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tekul	nan	( - - t e - - ) k u l - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞:.qul	lengethened /e/ due to following /q/	( - - - - t e̞̞ː - ) q u - l - - - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
+182.0	skin	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tekul	nan	( - - - - t e - ) k u - l - - - - - -	(182, 'p-mala1545-abvd', '*kulit')	nan		
 183.0	sore; wound	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.mu	nan	n ä m u	(183, 'fata1247', 'manu')	nan		
 183.0	sore; wound	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	namu	nan	n a m u	(183, 'fata1247', 'manu')	nan		
 184.0	ringworm	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.ti.näl	nan	ä t i n ä l	(184, 'abui1241-takal', 'ä.ti.näl')	nan		
@@ -418,10 +418,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193.0	man	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	neng	nan	n e - n g	(193, 'abui1241-petle', 'neŋ')	nan		
 194.0	woman	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	mä.'jɔl	nan	m ä - ˈj ɔ l	"(194, 'abui1241-takal', ""mä.'jɔl"")"	nan		
 194.0	woman	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	mayol	nan	m a y o l - -	(194, 'wers1238', 'mei')	nan		
-195.0	husband	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞.ne̞äŋ	could be nasalized	t e̞̞ n e̞ ä ŋ -	(195, 'tetu1245-suai', 'manɛn')	nan		
-195.0	husband	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	teneng	nan	t e n e - n g	(195, 'tetu1245-suai', 'manɛn')	nan		
-196.0	wife	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞.mä.'jɔl	nan	t e̞̞ m ä ˈj - ɔ l	(196, 'wers1238', 'gəmei')	nan		
-196.0	wife	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	temayol	nan	t e m a - y o l	(196, 'wers1238', 'gəmei')	nan		
+195.0	husband	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞.ne̞äŋ	could be nasalized	( t ) e̞̞ - - n e̞ ä ŋ -	(195, 'atim1239', 'heneng')	nan		
+195.0	husband	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	teneng	nan	( t ) e - - n e - n g	(195, 'atim1239', 'heneng')	nan		
+196.0	wife	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞.mä.'jɔl	nan	t e̞̞ - - m ä ˈj ɔ l -	(196, 'wers1238', 'gəmei')	nan		
+196.0	wife	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	temayol	nan	t e - - m a y o l -	(196, 'wers1238', 'gəmei')	nan		
 197.0	mother	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ni.'ä	nan	n i - - ˈä	(203, 'alor1247-baran', 'go:')	nan		
 197.0	mother	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nia	nan	n i - - a	(203, 'alor1247-baran', 'go:')	nan		
 198.0	father	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	mä:.'mä	nan	m äː ˈm ä - - -	"(198, 'pura1258', ""'nimaŋ"")"	nan		
@@ -446,16 +446,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 206.0	3sg	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'he̞̞.dɔ	nan	ˈh e̞̞ d ɔ	"(206, 'abui1241-takal', ""'he̞̞.di"")"	nan		
 206.0	3sg	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hedi	nan	h e d i	"(206, 'abui1241-takal', ""'he̞̞.di"")"	nan		
 206.0	3sg	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hedo	nan	h e d o	"(206, 'abui1241-takal', ""'he̞̞.di"")"	nan		
-207.0	1pl excl	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ni.dɔ	nan	ˈn i d - - ɔ	(207, 'wers1238', 'ɲadi')	nan		
-207.0	1pl excl	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nido	nan	n i d - - o	(207, 'wers1238', 'ɲadi')	nan		
-208.0	1pl incl	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'pi.dɔ	nan	ˈp i d ɔ	(208, 'maka1316', 'fi:')	nan		
-208.0	1pl incl	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	pido	nan	p i d o	(208, 'maka1316', 'fi:')	nan		
+207.0	1pl excl	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ni.dɔ	nan	- ˈn i d - - ɔ	(207, 'wers1238', 'ɲadi')	nan		
+207.0	1pl excl	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nido	nan	- n i d - - o	(207, 'wers1238', 'ɲadi')	nan		
+208.0	1pl incl	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'pi.dɔ	nan	- ˈp i d ɔ - -	(208, 'maka1316', 'fi:')	nan		
+208.0	1pl incl	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	pido	nan	- p i d o - -	(208, 'maka1316', 'fi:')	nan		
 209.0	2pl	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ri.dɔ	nan	- ˈr i d ɔ -	(209, 'maka1316', 'i:')	nan		
 209.0	2pl	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	rido	nan	- r i d o -	(209, 'maka1316', 'i:')	nan		
 210.0	3pl	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞̞l lo.qu	nan	h e̞̞ l _ l o q u	(210, 'abui1241-takal', 'he̞̞l lo.qu')	nan		
 210.0	3pl	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hel loku	nan	h e l _ l o k u	(210, 'abui1241-takal', 'he̞̞l lo.qu')	nan		
-211.0	no; not	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.'hä	nan	n ä ˈh ä - -	(195, 'adon1237', 'ˈlakhẽ')	nan		
-211.0	no; not	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	naha	nan	n a h a - -	(195, 'adon1237', 'ˈlakhẽ')	nan		
+211.0	no; not	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nä.'hä	nan	n ä ˈh ä - -	(211, 'wers1238', 'nauŋ')	nan		
+211.0	no; not	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	naha	nan	n a h a - -	(211, 'wers1238', 'nauŋ')	nan		
 212.0	and	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jä(:)	nan	j ä	"(212, 'fata1247', ""'iɔ"")"	nan		
 212.0	and	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ya	nan	y a	"(212, 'fata1247', ""'iɔ"")"	nan		
 213.0	because	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞̞.nir bä	nan	h e̞̞ n i r _ b ä	(213, 'abui1241-takal', 'he̞̞.nir bä')	nan		
@@ -470,22 +470,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 216.0	what?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nala	nan	n a l - - - a	(216, 'wers1238', 'nala')	nan		
 217.0	who?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	mä:	nan	m äː	(217, 'abui1241-petle', 'ma:')	nan		
 217.0	who?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	maa	nan	m aa	(217, 'abui1241-petle', 'ma:')	nan		
-218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'te̞.mjä	nan	- ˈt e̞ - - - m j ä -	"(218, 'pura1258', ""ta'aŋmi"")"	nan		
-218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'te̞.mjä	nan	ä ˈt e̞ - - - m j ä -	"(218, 'pura1258', ""ta'aŋmi"")"	nan		
-218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'te̞.ɲä	nan	ä ˈt e̞ - ɲ - ä	(218, 'fata1247', 'tɛanaɛ')	nan		
-218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'te̞.ɲä	nan	ä ˈt e̞ - ɲ - ä	(218, 'fata1247', 'tɛanaɛ')	nan		
-218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	atemia	nan	a t e - - - m - i a	"(218, 'pura1258', ""ta'aŋmi"")"	nan		
-218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	atenia	nan	a t e - n i a	(218, 'fata1247', 'tɛanaɛ')	nan		
-218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	atenia	nan	a t e - n i a	(218, 'fata1247', 'tɛanaɛ')	nan		
-218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	temia	nan	- t e - - - m - i a	"(218, 'pura1258', ""ta'aŋmi"")"	nan		
+218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'te̞.mjä	nan	- - - - ˈt e̞ - - - - - m j ä ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'te̞.mjä	nan	- - - ä ˈt e̞ - - - - - m j ä ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'te̞.ɲä	nan	- - - ä ˈt e̞ - - ɲ - ä - - - ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'te̞.ɲä	nan	- - - ä ˈt e̞ - - ɲ - ä - - - ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	atemia	nan	- - - a t e - - - - - m i a ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	atenia	nan	- - - a t e - - n - - - i a ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	atenia	nan	- - - a t e - - n - - - i a ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	temia	nan	- - - - t e - - - - - m i a ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
 219.0	when?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞i.'nä:	no glottal	t e̞ - i - - ˈn äː	(219, 'wers1238', 'deiŋ te')	nan		
 219.0	when?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	teinaa	nan	t e - i n aa - -	(219, 'wers1238', 'deiŋ te')	nan		
 220.0	why?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞.'ʋi.ri	no glottal	t e̞̞ ˈʋ i r i	"(220, 'abui1241-takal', ""te̞̞.'ʋi.ri"")"	nan		
 220.0	why?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tewiri	nan	t e w i r i	"(220, 'abui1241-takal', ""te̞̞.'ʋi.ri"")"	nan		
 221.0	how much; how many?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	je̞äŋ	could be nasalized. no glottal	j e̞ ä ŋ -	(221, 'abui1241-takal', 'je̞äŋ')	nan		
 221.0	how much; how many?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ieng	nan	- i e n g	(221, 'abui1241-takal', 'je̞äŋ')	nan		
-222.0	how?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞.'ʋir.bä	nan	t e̞ ˈʋ i r b - ä	"(222, 'fata1247', ""tewa'nei"")"	nan		
-222.0	how?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tewir ba	nan	t e w i r _ b a	(222, 'kelo1247', 'tujɔn bo')	nan		
+222.0	how?	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞.'ʋir.bä	nan	t e̞ ˈʋ i r - b ä	"(222, 'fata1247', ""tewa'nei"")"	nan		
+222.0	how?	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tewir ba	nan	t e w i r _ b a	"(222, 'fata1247', ""tewa'nei"")"	nan		
 223.0	this	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	dɔ	nan	- - d ɔ	(223, 'cent2245-hewa', 'ʔete')	nan		
 223.0	this	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	do	nan	- - d o	(223, 'cent2245-hewa', 'ʔete')	nan		
 224.0	that	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	('i.ti) nu:	nan	- n - - uː	"(224, 'tetu1245-suai', ""nɛ'ba:"")"	nan		
@@ -498,8 +498,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 225.0	at	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	mia	nan	m i a	(225, 'wers1238', 'ɔmina')	nan		
 226.0	in; inside	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ho:.mi	nan	h oː m i	"(226, 'tuku1254', ""'hɛr"")"	nan		
 226.0	in; inside	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hoomi	nan	h oo m i	"(226, 'tuku1254', ""'hɛr"")"	nan		
-227.0	here	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	('i.ti) dɔ	nan	d ɔ	"(227, 'abui1241-takal', ""('i.ti) dɔ"")"	nan		
-227.0	here	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iti do	nan	i t i _ d o	(227, 'abui1241-takal-o', 'iti do')	nan		
+227.0	here	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	('i.ti) dɔ	nan	- - - - d ɔ	(227, 'sawi1256', 'uli')	nan		
+227.0	here	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iti do	nan	i t i _ d o	(227, 'sawi1256', 'uli')	nan		
 228.0	there	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ɔ.'rɔ nu:	nan	- ɔ ˈr ɔ _ n uː - -	"(228, 'abui1241-takal', ""ɔ.'rɔ nu:"")"	nan		
 228.0	there	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	oro nu	nan	- o r o _ n u - -	"(228, 'abui1241-takal', ""ɔ.'rɔ nu:"")"	nan		
 229.0	above	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞̞.'tä.hä	nan	h e̞̞ - ˈt ä h ä	"(229, 'pura1258', ""a'tela"")"	nan		
@@ -532,8 +532,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 242.0	lizard	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tekok	nan	t e k o k - -	(242, 'cent2245-hewa', 'təke:')	nan		
 243.0	civet cat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'jc	nan	ä ˈj c	"(243, 'abui1241-takal', ""ä.'jc"")"	nan		
 243.0	civet cat	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ayo	nan	a y o	(243, 'abui1241-fuime', 'ayo')	nan		
-244.0	deer	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.jut	nan	ä - j u t -	(244, 'abui1241-fuime', 'aijuti')	nan		
-244.0	deer	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ayut	nan	a y u t	(244, 'abui1241-takal-o', 'ayut')	nan		
+244.0	deer	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.jut	nan	ä - j u - t - - - - - -	(244, 'cent2245-hewa', 'ruha')	nan		
+244.0	deer	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ayut	nan	- a y u - t - - - - - -	(244, 'cent2245-hewa', 'ruha')	nan		
 245.0	frog	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jä.qc.'rä qc.'rä	nan	j ä q c ˈr ä _ q c ˈr ä	"(245, 'abui1241-takal', ""jä.qc.'rä qc.'rä"")"	nan		
 245.0	frog	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yakora kora	nan	y a k o r a _ k o r a	(245, 'abui1241-takal-o', 'yakora kora')	nan		
 246.0	bat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	mä.'re̞l	nan	m ä ˈr e̞ - l -	(82, 'kelo1247', 'no data')	nan		
@@ -550,8 +550,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 252.0	whale	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	suwai	nan	s u w a i	(252, 'nede1245', 'sifi')	nan		
 253.0	dolphin	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ku 'be̞ä.qä	nan	k u _ ˈb e̞ ä q ä	"(253, 'abui1241-takal', ""ku 'be̞ä.qä"")"	nan		
 253.0	dolphin	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ku beeka	nan	k u _ b ee - k a	"(253, 'abui1241-takal', ""ku 'be̞ä.qä"")"	nan		
-254.0	crocodile	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fä.häi	nan	- - f ä h ä - i	(512, 'wers1238', 'tetai leweŋ')	nan		
-254.0	crocodile	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fahai	nan	- - f a h a - i	(512, 'wers1238', 'tetai leweŋ')	nan		
+254.0	crocodile	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fä.häi	nan	- - f ä h ä i - - - - - - - - - - - -	(512, 'wers1238', 'tetai leweŋ')	nan		
+254.0	crocodile	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fahai	nan	- - f a h a i - - - - - - - - - - - -	(512, 'wers1238', 'tetai leweŋ')	nan		
 255.0	monitor lizard	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.le̞.'sä	nan	- ä l e̞ ˈs ä -	(255, 'nede1245', 'lísi')	nan		
 255.0	monitor lizard	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	alesa	nan	- a l e s a -	(255, 'nede1245', 'lísi')	nan		
 256.0	starfish	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fä.'häi	nan	f ä ˈh ä i	"(256, 'abui1241-takal', ""fä.'häi"")"	nan		
@@ -774,8 +774,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 359.0	to stand	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	natea	nan	n a t e a	(359, 'pura1258', 'tahi')	nan		
 360.0	to walk	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞.tɔ.'ku he̞.'lä:k	we walk' (te-toku: 1PL.INAL-foot)	t e̞ t ɔ ˈk u _ h e̞ ˈl äː k	"(360, 'abui1241-petle', ""pu.'tok ho.'la:k"")"	nan		
 360.0	to walk	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tetoku helaak	nan	t e t o k u _ h e l aa k	"(360, 'abui1241-petle', ""pu.'tok ho.'la:k"")"	nan		
-361.0	to run	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fɪ̈.räi	There is much variation in the /ɪ̈/, ranging from /i,ɪ̈,ɪ,ʊ/	f - ɪ̈ r ä i	(225, 'kula1280', 'angu')	nan		
-361.0	to run	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	firai	nan	f - i r a i	(225, 'kula1280', 'angu')	nan		
+361.0	to run	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fɪ̈.räi	There is much variation in the /ɪ̈/, ranging from /i,ɪ̈,ɪ,ʊ/	f ɪ̈ - - - - r ä - i - - ( - - - - - )	(361, 'maka1316', 'riɁa')	nan		
+361.0	to run	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	firai	nan	f i - - - - r a - i - - ( - - - - - )	(361, 'maka1316', 'riɁa')	nan		
 362.0	to go	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'lä:kɪ	nan	ˈl äː k ɪ	(362, 'pura1258', 'ila')	nan		
 362.0	to go	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	laake	nan	l aa k e	(362, 'pura1258', 'ila')	nan		
 363.0	to swim	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'jɔŋ	Could be nasalized	- ä ˈj ɔ ŋ	(363, 'kelo1247', 'wəren')	nan		
@@ -796,8 +796,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 370.0	to cook	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	maal	nan	m aa l - - -	(370, 'abui1241-petle', 'ma:l')	nan		
 371.0	to wash	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	lu.'ɔq	nan	l u ˈɔ q	"(371, 'abui1241-takal', ""lu.'ɔq"")"	nan		
 371.0	to wash	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	luok	nan	l u o k	"(371, 'abui1241-takal', ""lu.'ɔq"")"	nan		
-372.0	to sew	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	kä.pu	nan	k ä p u - - -	(372, 'abui1241-takal', 'kä.pu')	nan		
-372.0	to sew	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kapu(k)	nan	k a p u - - -	(372, 'abui1241-takal', 'kä.pu')	nan		
+372.0	to sew	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	kä.pu	nan	k ä p u - - -	(372, 'atim1239', 'kapuk˺')	nan		
+372.0	to sew	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kapu(k)	nan	k a p u - - -	(372, 'atim1239', 'kapuk˺')	nan		
 373.0	to live; be alive; living	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ro.'a	nan	r o ˈa	"(373, 'abui1241-takal', ""ro.'a"")"	nan		
 373.0	to live; be alive; living	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	roa	nan	r o a	"(373, 'abui1241-takal', ""ro.'a"")"	nan		
 374.0	to breathe	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'he̞l	nan	- ä ˈh e̞ l	"(374, 'buna1278-malia', ""'dɔsil"")"	nan		
@@ -1102,8 +1102,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 514.0	lamp	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	falaaka	nan	f a l aa k a	(514, 'adon1237', 'pɜlita, lampu')	nan		
 515.0	candle	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'li.lin	Malay LOAN	ˈl i l i n	(515, 'tetu1245-suai', 'lɪlɪŋ')	nan		
 515.0	candle	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	lilin	nan	l i l i n	(515, 'tetu1245-suai', 'lɪlɪŋ')	nan		
-516.0	to weave	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ti.'ne̞i	nan	t i ˈn e̞ i	(516, 'adon1237', 'tane, nekɜt tane')	nan		
-516.0	to weave	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tinei	nan	t i n e i	(516, 'adon1237', 'tane, nekɜt tane')	nan		
+516.0	to weave	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ti.'ne̞i	nan	- - - - - t i ˈn e̞ - i	(516, 'adon1237', 'tane, nekɜt tane')	nan		
+516.0	to weave	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tinei	nan	- - - - - t i n e - i	(516, 'adon1237', 'tane, nekɜt tane')	nan		
 517.0	shirt	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	kɔn.'re̞q	nan	k ɔ n ˈr e̞ q	(318, 'p-mala1545-abvd', '*ma-bener')	nan		
 517.0	shirt	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	konrek	nan	k o n r e k	(318, 'p-mala1545-abvd', '*ma-bener')	nan		
 518.0	necklace	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.ʋi.'riŋ	nan	ä ʋ i ˈr i ŋ -	"(518, 'abui1241-takal', ""ä.ʋi.'riŋ"")"	nan		
@@ -1169,12 +1169,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 552.0	innocent	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞j rɔ.'fi	nan	h e̞ - - j _ r ɔ ˈf i	"(552, 'cent2245-hewa', ""hala 'iʋa"")"	nan		
 552.0	innocent	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hei rofi	nan	h e - i - _ r o f i	"(552, 'cent2245-hewa', ""hala 'iʋa"")"	nan		
 553.0	the murder	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ä.mä 'fe̞n.to:k	nan	- ˈä m ä _ ˈf e̞ n t oː k	"(553, 'abui1241-takal', ""'ä.mä 'fe̞n.to:k"")"	nan		
-553.0	the murder	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ä.mä 'fe̞äŋ . Te̞l 'fe̞äŋ	nan	ˈä m ä _ ˈf e̞ ä ŋ __ T e̞ l _ ˈf e̞ ä ŋ	(218, 'keda1252-leuwa', 'dεnita')	nan		
+553.0	the murder	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ä.mä 'fe̞äŋ . Te̞l 'fe̞äŋ	nan	- ˈä m ä _ ˈf e̞ ä ŋ __ T e̞ l _ ( ˈf e̞ ä ŋ - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
 553.0	the murder	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ama feng	nan	- a m a _ f e n - - g	"(553, 'abui1241-takal', ""'ä.mä 'fe̞n.to:k"")"	nan		
 553.0	the murder	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ama fentook	nan	- a m a _ f e n t oo k	"(553, 'abui1241-takal', ""'ä.mä 'fe̞n.to:k"")"	nan		
 553.0	the murder	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tel feng	nan	t e l - _ f e n - - g	"(553, 'abui1241-takal', ""'ä.mä 'fe̞n.to:k"")"	nan		
-554.0	the adultery	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tɔi 'mɔt	NOT SURE about this one. Literally translated as 'our vaginas lie together'	t ɔ i _ ˈm ɔ t	(2, 'wers1238', 'urak')	nan		
-554.0	the adultery	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	toi mot	nan	t o i _ m o t	(2, 'wers1238', 'urak')	nan		
+554.0	the adultery	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tɔi 'mɔt	NOT SURE about this one. Literally translated as 'our vaginas lie together'	t ɔ i _ ˈm ɔ t	"(554, 'abui1241-takal', ""tɔi 'mɔt"")"	nan		
+554.0	the adultery	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	toi mot	nan	t o i _ m o t	"(554, 'abui1241-takal', ""tɔi 'mɔt"")"	nan		
 555.0	penalty	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞j hä.'sä.lä	nan	h e̞ j - _ h ä ˈs ä l ä	"(555, 'abui1241-takal', ""he̞j hä.'sä.lä"")"	nan		
 555.0	penalty	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hei hasala	nan	h e - i _ h a s a l a	"(555, 'abui1241-takal', ""he̞j hä.'sä.lä"")"	nan		
 556.0	fishnet	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	dälã	nan	d ä l ã - -	"(556, 'cent2245-hewa', ""'a:la"")"	nan		
@@ -1211,8 +1211,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 569.0	cheap	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	damaha	nan	d a m a h a	"(569, 'abui1241-takal', ""dä.mä.'hä"")"	nan		
 570.0	to grasp	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	hɔ.'pun.nä	nan	h ɔ ˈp - u nn ä	(570, 'adan1251', 'apuin')	nan		
 570.0	to grasp	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hopuna	nan	h o p - u n a	(570, 'adan1251', 'apuin')	nan		
-571.0	to let go	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	hä.täŋ	nan	h ä - - t ä - ŋ -	(571, 'wers1238', 'gətaiŋ')	nan		
-571.0	to let go	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hatang	nan	h a - - t a - n g	(571, 'wers1238', 'gətaiŋ')	nan		
+571.0	to let go	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	hä.täŋ	nan	h - ( ä - ) - t ä - ŋ -	(571, 'wers1238', 'gətaiŋ')	nan		
+571.0	to let go	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hatang	nan	h a ( - - ) - t a - n g	(571, 'wers1238', 'gətaiŋ')	nan		
 572.0	to promise	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä:.'pe̞i sä:q	nan	t äː ˈp e̞ i _ s äː q	(132, 'p-cent2245-abvd', '*zuʀi')	nan		
 572.0	to promise	abui1241-takal-o	Abui-Takalelang (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	taapei saak	nan	t aa p e i _ s aa k	(132, 'p-cent2245-abvd', '*zuʀi')	nan		
 573.0	word	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.ŋä	nan	t ä ŋ - ä	(573, 'sawi1256', 'tela')	nan		

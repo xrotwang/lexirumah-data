@@ -1,6 +1,6 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ajakani	nan	a - j a k a n - i	(0, 'wers1238', 'ajakɛŋ')	nan		
-1.0	sun	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	wadi	nan	w a d i	(1, 'wers1238', 'wudi')	nan		
+1.0	sun	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	wadi	nan	w a d i - - -	(1, 'wers1238', 'wudi')	nan		
 2.0	moon	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	pilaka	nan	p i l - - a k a	(2, 'sawi1256', 'pilaka')	nan		
 3.0	star	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lawa:la	nan	- - - l a w aː l a	(3, 'sawi1256', 'lawa:la')	nan		
 4.0	night	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	iduni	nan	- i d u n i	(4, 'sawi1256', 'iduni')	nan		
@@ -10,7 +10,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8.0	yesterday	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	apali	nan	a p a l i -	(8, 'sawi1256', 'apali')	nan		
 9.0	day before yesterday	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	tulari	nan	t u - l a r i	(9, 'sawi1256', 'tulari')	nan		
 10.0	tomorrow	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	alama	nan	a l a m a	(10, 'abui1241-petle-o', 'aria')	nan		
-11.0	day after tomorrow	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jalaku	nan	j a l a k u - -	(11, 'sawi1256', 'jalaku')	nan		
+11.0	day after tomorrow	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jalaku	nan	- - - - - - - j a l a - - - k u -	(84, 'pura1258', 'te')	nan		
 12.0	twilight; dawn	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	delana gapi	nan	d e l a n a _ g - - a p i	(12, 'wers1238', 'dlaŋ gdap')	nan		
 13.0	cloud	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ajakane	nan	a j a k a n e	(347, 'kelo1247', 'nagil')	nan		
 14.0	wind	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lapuna	nan	l a p u n a -	(14, 'wers1238', 'ləpɔŋ')	nan		
@@ -21,7 +21,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 19.0	lightning	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	mila	nan	m i l a - - -	(19, 'sawi1256', 'mila')	nan		
 20.0	earthquake	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	kɔmɛ made	nan	k ɔ m ɛ _ m a d e	(20, 'sawi1256', 'kɔmɛ made')	nan		
 21.0	fog	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	sakapulo	nan	s a k a p u l o	(21, 'wers1238', 'sakupul')	nan		
-22.0	river; stream	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ilu	nan	- i l u - -	(206, 'cent2245-hewa', 'nimu')	nan		
+22.0	river; stream	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ilu	nan	- i l u - - - - -	(206, 'cent2245-hewa', 'nimu')	nan		
 25.0	lake	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	miraka	nan	m i r a k a -	(25, 'sawi1256', 'miraka')	nan		
 26.0	mountain	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ataku bubini	nan	a t a k u _ b u b i n - i	(26, 'sawi1256', 'ataku bubini')	nan		
 27.0	hill; ridge	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	asara	nan	a s a r a	(27, 'sawi1256', 'asara')	nan		
@@ -59,7 +59,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	kine	nan	k i n e -	(61, 'wers1238', 'kinei')	nan		
 62.0	comb	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	kekuri	nan	k e - k u r i	(125, 'sout2896-kalik', 'kuˈnʊr')	nan		
 63.0	mat	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	busi	nan	b u s i -	"(404, 'abui1241-takal', ""tu.'lo:q"")"	nan		
-64.0	needle	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	da:mu	nan	d aː m u -	(64, 'wers1238', 'damu')	nan		
+64.0	needle	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	da:mu	nan	d aː - - - m u ( - - - - )	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
 65.0	clothing	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	dika badu	nan	d i - k a _ b a d u	(65, 'wers1238', 'keŋ badu')	nan		
 67.0	fire	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ada	nan	- a d a	(67, 'maka1316', 'ata')	nan		
 68.0	smoke	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ada punokə	nan	a d a - _ - - p u n o - k ə	(213, 'sout2896-lerek', 'məˈki')	nan		
@@ -85,7 +85,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89.0	firewood	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ada ruk	nan	a d a - _ r u k -	(89, 'sawi1256', 'ada ruk')	nan		
 90.0	rattan	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lutərə	nan	l u t ə r ə	(90, 'wers1238', 'lɔtɔr')	nan		
 91.0	root	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	siripinə	nan	s i r i p i n ə -	(91, 'sawi1256', 'siripinə')	nan		
-92.0	fruit	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gisi	nan	g i - - s i	(92, 'wers1238', 'gis (besar)')	nan		
+92.0	fruit	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gisi	nan	g i s i - - - - - -	(92, 'wers1238', 'gis (besar)')	nan		
 93.0	seed	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gikiki	nan	g i k i k - i -	(93, 'pura1258', 'ekokar')	nan		
 94.0	grain; cereal	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	araka	nan	a r a k - - a -	(94, 'wers1238', 'arak')	nan		
 96.0	husked rice; uncooked rice	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	arakesa	nan	a r a k e s a	(96, 'sawi1256', 'arakesa')	nan		
@@ -93,7 +93,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 98.0	cooked rice	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	araka ma	nan	- a r a k a _ - m a - -	(98, 'abui1241-petle', '´aj.ak ´ma')	nan		
 99.0	rice plant	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	araka tana	nan	a r a k a _ - - t a n a	(99, 'wers1238', 'arak ptak')	nan		
 100.0	to plant (yam)	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	bɔŋka madine	nan	b ɔ ŋ k a - - _ - - - - m a d i n e	(52, 'p-aust1307-acd', '*bunuS')	nan		
-101.0	to plant (rice)	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	araka tana	nan	- a r - a - k a _ t a - n a	(1, 'alor1249-sar-a', 'war')	nan		
+101.0	to plant (rice)	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	araka tana	nan	- a r - a - k a _ t a - n a	(101, 'wers1238', 'arak ta')	nan		
 102.0	betel nut; areca	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	pu	nan	p u - -	(36, 'p-aust1307-abvd', '*tenem')	nan		
 103.0	betel vine	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ma:si	nan	m aː - s i - -	(103, 'wers1238', 'mas')	nan		
 104.0	lime	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	awara	nan	- a w a r a	(104, 'cent2245-hewa', 'ʔapur')	nan		
@@ -183,8 +183,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192.0	child	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	madu	nan	- - m a d u	(192, 'cent2245-hewa', 'me')	nan		
 193.0	man	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	mialara	nan	- m i - a l a r a	(193, 'sawi1256', 'mialara')	nan		
 194.0	woman	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jalara	nan	- j a l a r a	(194, 'sawi1256', 'jalara')	nan		
-195.0	husband	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gənamu	nan	g ə n a m - - u	(195, 'wers1238', 'gəlimi')	nan		
-196.0	wife	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gajɔ	nan	g a j - ɔ	(196, 'wers1238', 'gəmei')	nan		
+195.0	husband	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gənamu	nan	( g ) ə n a m u - -	(195, 'wers1238', 'gəlimi')	nan		
+196.0	wife	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gajɔ	nan	g a - - - - j ɔ - -	(196, 'wers1238', 'gəmei')	nan		
 197.0	mother	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nija	nan	n i j - a	(203, 'alor1247-baran', 'go:')	nan		
 198.0	father	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nipa	nan	n i p a	(38, 'p-mala1545-acd', '*buseq')	nan		
 199.0	older sibling	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninana	nan	n i - n a n - a	(199, 'wers1238', 'nɛnaŋ')	nan		
@@ -194,12 +194,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 203.0	1sg	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nanu	nan	n a - n u	(208, 'cent2245-hewa', 'ʔita')	nan		
 204.0	2sg (informal)	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	janu	nan	- j a - n u	(204, 'pura1258', 'aiŋ')	nan		
 205.0	2sg (polite)	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	anu	nan	- a - n - u	(205, 'sout2896-lerek', 'kəˈneu')	nan		
-206.0	3sg	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ganu	nan	g a n u	(206, 'wers1238', 'gadi')	nan		
-207.0	1pl excl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninu	nan	n i n - - u	(207, 'wers1238', 'ɲadi')	nan		
-208.0	1pl incl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	inu	nan	i n u	(208, 'sawi1256', 'inu')	nan		
+206.0	3sg	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ganu	nan	g a - - n u	(206, 'wers1238', 'gadi')	nan		
+207.0	1pl excl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninu	nan	- n i n - - u	(207, 'wers1238', 'ɲadi')	nan		
+208.0	1pl incl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	inu	nan	- - i - - n u	(208, 'maka1316', 'fi:')	nan		
 209.0	2pl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jandua	nan	j a n d u a	(209, 'wers1238', 'jadi')	nan		
-210.0	3pl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gandua	nan	g a n d u a	(210, 'wers1238', 'gadi')	nan		
-211.0	no; not	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	na:nu	nan	n aː - - n u	(195, 'adon1237', 'ˈlakhẽ')	nan		
+210.0	3pl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gandua	nan	g a n - - - - - - d u a	(210, 'wers1238', 'gadi')	nan		
+211.0	no; not	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	na:nu	nan	n aː - - n u	(211, 'wers1238', 'nauŋ')	nan		
 212.0	and	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	wari	nan	w a r i	(212, 'sawi1256', 'wari')	nan		
 213.0	because	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	amanda	nan	a m a n d a	(213, 'sawi1256', 'amanda')	nan		
 214.0	if	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	amaŋ masi	nan	a m a ŋ _ m a s i	(214, 'sawi1256', 'amaŋ masi')	nan		
@@ -208,14 +208,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 217.0	who?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	namala	nan	n a m a l a	(217, 'wers1238', 'mɛlaa')	nan		
 218.0	where?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nuŋanu	nan	n u ŋ a n u	(218, 'sawi1256', 'nuŋanu')	nan		
 219.0	when?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	tarimia	nan	t a r i m i a -	(219, 'wers1238', 'deiŋ te')	nan		
-220.0	why?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nuniŋəpi	nan	n u n i ŋ ə p i	(167, 'dein1238', 'kupit')	nan		
+220.0	why?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nuniŋəpi	nan	n u n i ŋ ə p i -	(321, 'p-cent2245-abvd', '*buʀuk')	nan		
 221.0	how much; how many?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	dini	nan	- d i - n i	(221, 'wers1238', 'deiŋ')	nan		
-222.0	how?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nuniŋəpi	nan	n u n i ŋ ə p i	(222, 'sawi1256', 'nuniŋəpi')	nan		
+222.0	how?	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nuniŋəpi	nan	n u n i ŋ - - - - - ə p i - - -	(222, 'sika1262-tanai', 'ɡanupae')	nan		
 223.0	this	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	uŋanu	nan	u ŋ a n u	(223, 'sawi1256', 'uŋanu')	nan		
 224.0	that	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	aŋanu	nan	a ŋ a n u	(224, 'sawi1256', 'aŋanu')	nan		
 225.0	at	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nuli	nan	n u l i	(225, 'sawi1256', 'nuli')	nan		
 226.0	in; inside	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	luku	nan	l u k u	(226, 'sawi1256', 'luku')	nan		
-227.0	here	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	uli	nan	u l i	(227, 'sawi1256', 'uli')	nan		
+227.0	here	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	uli	nan	u l i - - -	(227, 'sawi1256', 'uli')	nan		
 228.0	there	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	manali	nan	m a n a l i	(228, 'wers1238', 'mɔna')	nan		
 229.0	above	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	tanali	nan	t a n a l i	"(229, 'pura1258', ""a'tela"")"	nan		
 230.0	below	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	janali	nan	j a n a l i	(230, 'sawi1256', 'janali')	nan		
@@ -226,20 +226,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 235.0	many	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	likala	nan	l i k a l a	(235, 'sawi1256', 'likala')	nan		
 236.0	animal	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	binanta	nan	b i n - a n t a - -	(236, 'cent2245-hewa', 'binatang')	nan		
 237.0	fowl	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adələ	nan	- - a d ə l ə	(237, 'sawi1256', 'adələ')	nan		
-238.0	dog	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	katu	nan	k a t - - - - u	(238, 'wers1238', 'kutuwal')	nan		
+238.0	dog	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	katu	nan	k a t u - - - -	(238, 'wers1238', 'kutuwal')	nan		
 239.0	pig	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	pi	nan	p i - - -	(365, 'tetu1245-suai', 'monu')	nan		
 240.0	chicken	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	se	nan	- s e	(240, 'maka1316', 'asa')	nan		
 241.0	rat	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	daru	nan	d a r - u	(241, 'cent2245-hewa', 'teʔu')	nan		
 242.0	lizard	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	takɔ	nan	t a k ɔ - - -	(242, 'cent2245-hewa', 'təke:')	nan		
 243.0	civet cat	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	aru waka	nan	a r u _ w a k a	(243, 'sawi1256', 'aru waka')	nan		
-244.0	deer	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	aru supi	nan	a r u - _ s u p i -	(244, 'wers1238', 'arus pe')	nan		
+244.0	deer	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	aru supi	nan	- a r u _ s u - - p i -	(244, 'cent2245-hewa', 'ruha')	nan		
 245.0	frog	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	wer paka	nan	w e - r _ p a k a	(245, 'kelo1247', 'eil pek')	nan		
 246.0	bat	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	madiku	nan	m a d - i k u	(82, 'kelo1247', 'no data')	nan		
 247.0	flying fox; fruit bat	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	madiku	nan	m a d i k u -	(247, 'wers1238', 'muduk')	nan		
 249.0	tail	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	giwura	nan	g i w u r a -	(249, 'wers1238', 'gəweri')	nan		
 250.0	fish	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	api	nan	- a p i	(250, 'wers1238', 'api')	nan		
 251.0	shark	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	malɔsa	nan	m a l ɔ s a	(251, 'wers1238', 'mɔlɔs')	nan		
-252.0	whale	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	akuline ane	nan	a k u l i n e _ a n e	(252, 'sawi1256', 'akuline ane')	nan		
+252.0	whale	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	akuline ane	nan	( a k u - l i n e _ ) - a - - n e - ( - - - - )	(252, 'wers1238', 'anai')	nan		
 253.0	dolphin	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	akuline ane	nan	a k u l i n - e _ a n e -	(253, 'wers1238', 'akoliŋ')	nan		
 254.0	crocodile	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	wawa	nan	w a w a	(254, 'wers1238', 'wawa')	nan		
 255.0	monitor lizard	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	padaŋki	nan	p a d a ŋ k i	(255, 'sawi1256', 'padaŋki')	nan		
@@ -331,7 +331,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nawawana	nan	n a w a w a n a	(346, 'sawi1256', 'nawawana')	nan		
 347.0	to know	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	litemaina	nan	l i t e m a i n a	"(347, 'maka1316', ""ma'ɛne"")"	nan		
 348.0	to say	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	niretela	nan	n i r e t e l a -	"(348, 'tuku1254', ""'daleʔ"")"	nan		
-349.0	to speak	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	bisiara	nan	b i s i a r a	"(39, 'dein1238', ""du'uqal"")"	nan		
+349.0	to speak	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	bisiara	nan	b i - s i a r a - - - - -	(349, 'wers1238', 'bisar maŋar')	nan		
 350.0	voice	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	namaki	nan	n a m a k i	(350, 'sawi1256', 'namaki')	nan		
 351.0	language	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nitela	nan	n i t e l a	(351, 'sawi1256', 'nitela')	nan		
 352.0	to lie down	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nate	nan	n a t - e	(352, 'wers1238', 'gətai')	nan		
@@ -343,7 +343,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 358.0	to sit	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	amiti	nan	- a m i t - i - -	(358, 'wers1238', 'gəmit')	nan		
 359.0	to stand	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adukə	nan	a d u k ə	(359, 'sawi1256', 'adukə')	nan		
 360.0	to walk	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jana	nan	j a n a	(364, 'p-mala1545-abvd', '*ɾebek')	nan		
-361.0	to run	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	amuri	nan	- a m u r i	(361, 'sawi1256', 'amuri')	nan		
+361.0	to run	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	amuri	nan	( - - - - - - ) - ( - a ) m u r i	(361, 'wers1238', 'bɔrɔng gemur')	nan		
 362.0	to go	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	awe	nan	- a w - e	(93, 'sika1262-tanai', 'βini')	nan		
 363.0	to swim	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	se	nan	s e - -	(363, 'wers1238', 'sai')	nan		
 364.0	to fly	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	irinia	nan	- i r i n i a	(364, 'wers1238', 'ire')	nan		
@@ -354,7 +354,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 369.0	to eat	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	napəma	nan	n a p ə m a	(369, 'wers1238', 'təpasi')	nan		
 370.0	to cook	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	manali	nan	m a n a l i	(370, 'abui1241-petle', 'ma:l')	nan		
 371.0	to wash	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lisini	nan	l i s i n i	(371, 'sawi1256', 'lisini')	nan		
-372.0	to sew	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	surə	nan	s u - r ə -	"(372, 'alor1247-baran', ""'haur"")"	nan		
+372.0	to sew	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	surə	nan	- - - s u - r ə - - - - - - - - -	(372, 'wers1238', 'sor burkiŋ')	nan		
 373.0	to live; be alive; living	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nirkiana	nan	- - n i r k i a n - a	(373, 'sawi1256', 'nirkiana')	nan		
 374.0	to breathe	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nakin paline	nan	n a k i n _ p a l i n e	(374, 'kelo1247', 'eken bəlin')	nan		
 375.0	to work	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	sirisi gapi	nan	s i r i s i _ g a p - i	(375, 'wers1238', 'sirwis gəpai')	nan		
@@ -372,7 +372,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 387.0	to chew	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	litini	nan	l i t - i n - i	(281, 'wers1238', 'pedesi')	nan		
 388.0	to yawn	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lawa mala	nan	- l a w a _ m a l - - - - a	(282, 'sika1262-tanai', 'kəsik')	nan		
 389.0	to suck	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	maduli	nan	m a d u l i - -	(389, 'wers1238', 'mudil')	nan		
-390.0	to blow	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gapulo	nan	- g a p u l o	(390, 'pura1258', 'apu')	nan		
+390.0	to blow	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gapulo	nan	- g a - - p u l o - - -	(373, 'sika1262-tanai', 'morə-t')	nan		
 391.0	to spit	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	iruŋpaka	nan	i r u ŋ p a k a	(391, 'sawi1256', 'iruŋpaka')	nan		
 392.0	to vomit	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jeta	nan	j e - - t a -	(392, 'atim1239', 'iu')	nan		
 393.0	to rub	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	arusa	nan	a r - u s a	(393, 'sawi1256', 'arusa')	nan		
@@ -417,7 +417,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 435.0	to close	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	litira	nan	l i t - i r a	(435, 'wers1238', 'lɛter')	nan		
 436.0	to climb	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	mudata	nan	m u d a t a -	(436, 'wers1238', 'timidi')	nan		
 437.0	to hide	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	awuni	nan	- a w u n i -	(437, 'wers1238', 'təwiŋ')	nan		
-438.0	to wait	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lakada	nan	l a k - a d a -	(222, 'sika1262-tanai', 'ɡanupae')	nan		
+438.0	to wait	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lakada	nan	l a - - - k a - d a - - - - - -	(222, 'sika1262-tanai', 'ɡanupae')	nan		
 439.0	to fold	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lakupi	nan	l a k u p i	(439, 'sawi1256', 'lakupi')	nan		
 440.0	to help	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	tuluana	nan	t u l u a n a	(440, 'wers1238', 'tuluŋ')	nan		
 441.0	to bark	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	galu	nan	g a l u	(441, 'sawi1256', 'galu')	nan		
@@ -438,12 +438,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 456.0	seven	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jawatin jaku	nan	j a - w a t i n - _ - j a k u	(456, 'wers1238', 'wetiŋ joku')	nan		
 457.0	eight	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jawatin tua	nan	j a - w a t i n - _ t u a	(457, 'wers1238', 'wetiŋ tu')	nan		
 458.0	nine	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	jawatin arasiku	nan	j a w a t i n - _ a r a s i k u	(458, 'wers1238', 'wetiŋ arasoku')	nan		
-459.0	ten	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku	nan	a d a - - k u	(92, 'alor1249-sar-a', 'jit')	nan		
+459.0	ten	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku	nan	a d a - - k u	(233, 'adon1237', 'ˈʔɜsiʔ, kuluk')	nan		
 460.0	eleven	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisine sundana	nan	a d - - a k u _ w a r i s i n e - _ s u n d a n a	(460, 'sawi1256', 'adaku warisine sundana')	nan		
 461.0	twelve	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin jaku	nan	a d a - - k u _ w a r i s i n - _ j a - k u	(461, 'sawi1256', 'adaku warisin jaku')	nan		
 462.0	thirteen	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin tua	nan	- a d - - a k u _ w a r i s i n - _ t u - - - a	(462, 'tetu1245-suai', 'sanulu resin tolu')	nan		
 463.0	fourteen	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin arasiku	nan	- - - a d a - - k u _ w a r i s i n - _ a r a s i k u	(463, 'wers1238', 'ad jok gresiŋ arasok')	nan		
-464.0	fifteen	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin jawatine	nan	- - - a d - - a k u _ w a r i s i n - _ j a w a t i n e -	(92, 'dein1238', 'yis')	nan		
+464.0	fifteen	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin jawatine	nan	- - - a d - - a k u _ w a r i s i n - _ j a w a t i n e -	(316, 'p-aust1307-abvd', '*ma-lawas')	nan		
 465.0	sixteen	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin jawat sunɔ	nan	a d a - - k u _ w a r i s i n - _ j a w a t - - - _ s u n - ɔ	(465, 'sawi1256', 'adaku warisin jawat sunɔ')	nan		
 466.0	seventeen	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin jawatin jaku	nan	- - - a d a - - k u _ w a r i s i n - _ j a w a t i n - _ j a - k u	(466, 'wers1238', 'ad jok gresiŋ wetiŋ joku')	nan		
 467.0	eighteen	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	adaku warisin jawatin tua	nan	- - - a d - - a k u _ w a r i s i n - _ j a w a t i n - _ t u a	(467, 'wers1238', 'ad jok gresiŋ wetiŋ tu')	nan		
@@ -474,7 +474,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 492.0	older brother	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninana imialara	nan	n - i n a n a - _ i m i a l a r a	(492, 'wers1238', 'nenaŋ limi')	nan		
 493.0	older sister	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninana jalara	nan	n - i n a n - a _ j a l - a r a	(493, 'wers1238', 'nenaŋ mei')	nan		
 494.0	sister	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	niliwe	nan	n - i l i w e - - - - -	(494, 'sawi1256', 'niliwe')	nan		
-495.0	woman's cross-cousin	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninana	nan	n i n a n a	(76, 'keda1252-leuwa', 'ruʔ vadεʔ')	nan		
+495.0	woman's cross-cousin	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninana	nan	n i n a n a	(495, 'sawi1256', 'ninana')	nan		
 496.0	woman's younger sister	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nija	nan	n i j a	(496, 'sawi1256', 'nija')	nan		
 497.0	younger brother	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nipa	nan	n i p a	(497, 'sawi1256', 'nipa')	nan		
 498.0	brother	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	ninana	nan	n i n a n a	(498, 'sawi1256', 'ninana')	nan		
@@ -494,7 +494,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 513.0	chair	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	kander	nan	k a n d e - r -	(513, 'cent2245-hewa', 'kursi')	nan		
 514.0	lamp	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	lampur	nan	l a m p u r	(514, 'cent2245-hewa', 'lampu')	nan		
 515.0	candle	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	idupani	nan	i d u p a - n i	(515, 'wers1238', 'dupaiŋ')	nan		
-516.0	to weave	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	kada wu	nan	k a d a - _ w u - - -	(516, 'kelo1247', 'gədiŋ mərhaɲ')	nan		
+516.0	to weave	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	kada wu	nan	k a d a - _ w u - - -	(125, 'cent2245-hewa', 'sukun')	nan		
 517.0	shirt	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	badu	nan	b a d u	(517, 'wers1238', 'badu')	nan		
 518.0	necklace	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	murə	nan	m u r ə	(518, 'sawi1256', 'murə')	nan		
 519.0	earring	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	məlawana	nan	m ə l a w a n a	(519, 'wers1238', 'məlauŋ')	nan		
@@ -546,11 +546,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 565.0	to own	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	nira	nan	n i r a -	(565, 'cent2245-hewa', 'noran')	nan		
 566.0	to borrow	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	limanaki	nan	l i m a n a k i	(566, 'sawi1256', 'limanaki')	nan		
 567.0	to trade or barter	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	dakaŋ tare	nan	d a k a ŋ _ t a r e	(567, 'wers1238', 'dagaŋ')	nan		
-568.0	expensive	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gali alila	nan	- g a l i _ a l i l a	(13, 'pura1258', 'banu')	nan		
+568.0	expensive	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gali alila	nan	- g a l i _ a l i l a	(254, 'wers1238', 'wawa')	nan		
 568.0	expensive	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	galila	nan	g a l i - - l a	(430, 'keda1252-leuwa', 'ε̘rεʔ')	nan		
 569.0	cheap	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gatani	nan	g a t a n i	(569, 'sawi1256', 'gatani')	nan		
 570.0	to grasp	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	weweni	nan	w e w e n i	(570, 'wers1238', 'wiŋ')	nan		
-571.0	to let go	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gala tani	nan	g a l a _ t a n i	(571, 'sawi1256', 'gala tani')	nan		
+571.0	to let go	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	gala tani	nan	g a ( l a ) _ t a - n i	(571, 'wers1238', 'gətaiŋ')	nan		
 572.0	to promise	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	tada atu	nan	t a d a _ a t u	(572, 'wers1238', 'tad ato')	nan		
 573.0	word	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	tela	nan	t e l - a	(573, 'sawi1256', 'tela')	nan		
 574.0	to answer	sawi1256	Sawila	Timor-Alor-Pantar	3Alor, 3East	litiani	nan	l i t i a n i	(574, 'wers1238', 'netaiŋ')	nan		

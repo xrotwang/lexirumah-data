@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nɛl	nan	n ɛ l	(39, 'p-aust1307-acd', '*Calun')	nan		
-1.0	sun	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	watɕu	written by speaker as 'wachu'	w a tɕ u	(1, 'wers1238', 'wudi')	nan		
-2.0	moon	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	uru	nan	- u r u -	(2, 'wers1238', 'urak')	nan		
+1.0	sun	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	watɕu	written by speaker as 'wachu'	w a tɕ u - - -	(1, 'wers1238', 'wudi')	nan		
+2.0	moon	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	uru	nan	- u r u -	"(0, 'alor1247-baran', ""'laŋi"")"	nan		
 3.0	star	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	i'pinaka	nan	i ˈp i n a k a -	(3, 'wers1238', 'apikal')	nan		
 4.0	night	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'kounɛ	nan	ˈk o u n ɛ	"(4, 'fata1247', ""'kounɛ"")"	nan		
 5.0	day	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	hara	nan	h a r a -	(5, 'fata1247', 'hara')	nan		
@@ -12,8 +12,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 10.0	tomorrow	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nɔpɛ	nan	n ɔ p ɛ	(10, 'fata1247', 'nɔpɛ')	nan		
 11.0	day after tomorrow	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ta'tunɛ	nan	t a ˈt u n ɛ	"(11, 'fata1247', ""ta'tunɛ"")"	nan		
 12.0	twilight; dawn	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'kifata'hara	nan	ˈk i f a t a ˈh a r a	"(12, 'fata1247', ""'kifata'hara"")"	nan		
-13.0	cloud	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'mɔuku	nan	ˈm ɔ - u k u	"(13, 'tetu1245-suai', ""o'raga"")"	nan		
-14.0	wind	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pari	nan	p a r i	(14, 'fata1247', 'pari')	nan		
+13.0	cloud	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'mɔuku	nan	ˈm ɔ - u k u	"(13, 'fata1247', ""'mɔuku"")"	nan		
+14.0	wind	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pari	nan	- - p a r i -	(76, 'sika1262-tanai', 'riʔi')	nan		
 15.0	rain	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aija	nan	a i j a	(15, 'fata1247', 'aija')	nan		
 16.0	drizzle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aija liri-'liri	nan	a i j a - _ l i r i ˈl i r i	(16, 'maka1316', 'ae liri-liri')	nan		
 17.0	rainbow	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ara'wɛi	nan	- a r a ˈw ɛ i	(380, 'kelo1247', 'əgar')	nan		
@@ -42,7 +42,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 38.0	foam	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	hufut	nan	h u f u t	(38, 'fata1247', 'hufut')	nan		
 39.0	forest	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	irin	nan	- i r i - - n - -	(39, 'cent2245-hewa', 'heri unen')	nan		
 40.0	field	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fɔɛ lafai	foe=rumput, lafai=big	f ɔ ɛ _ l a f a i	(40, 'fata1247', 'fɔɛ lafai')	nan		
-41.0	island	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	muɁa	nan	m u ʔ a	"(41, 'adon1237', ""'nuha"")"	nan		
+41.0	island	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	muɁa	nan	m u ʔ a	"(41, 'alor1249-besar', ""nu'haː"")"	nan		
 42.0	rice field	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	alɛ pala	ale pala=rice field; cele pala = corn field; pala=field to plant crops, e.g. tomat pala=tomato field; modo pala = vegetable garden 	a l ɛ _ p a l a	(42, 'maka1316', 'alɛ ama')	nan		
 43.0	garden	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pala	nan	p a l a -	(43, 'wers1238', 'pur')	nan		
 44.0	fence	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tari	nan	t a - - r i	"(44, 'maka1316', ""de'turu"")"	nan		
@@ -63,7 +63,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'hikari 'mɔkɔ	hikari=knife, moko=small; hikari moko-r = small knives; hikari lafica-r = big knives. 	ˈh i k a r i _ ˈm ɔ - k ɔ	"(61, 'fata1247', ""'hikari 'mɔkɔ"")"	nan		
 62.0	comb	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	hual	nan	h u a l	(62, 'fata1247', 'hual')	nan		
 63.0	mat	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pɛt	nan	p ɛ t - -	"(404, 'abui1241-takal', ""tu.'lo:q"")"	nan		
-64.0	needle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'caruma	adapted Indonesian loan	ˈc a - r u m a	"(64, 'maka1316', ""dau'ruma"")"	nan		
+64.0	needle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'caruma	adapted Indonesian loan	ˈc a - r u m - ( a - - - )	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
 65.0	clothing	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rɔpa	nan	r ɔ p a	(65, 'cent2245-hewa', 'labu')	nan		
 67.0	fire	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aca	nan	- a c a	(67, 'maka1316', 'ata')	nan		
 68.0	smoke	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aca 'tapin	aca=fire, tapin=smoke	- a c a _ ˈt a p i n	"(68, 'maka1316', ""ata 'teul"")"	nan		
@@ -195,7 +195,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192.0	child	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mɔcɔ	nan	- - m ɔ c ɔ	(192, 'cent2245-hewa', 'me')	nan		
 193.0	man	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nami	nan	n a m - - i	(193, 'wers1238', 'limi')	nan		
 194.0	woman	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tu'purɛ	nan	t u ˈp u r ɛ	"(194, 'maka1316', ""tufu'ra:"")"	nan		
-195.0	husband	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛ'lɛhi	nan	- ɛ ˈl ɛ h i -	(195, 'cent2245-hewa', 'laʔi')	nan		
+195.0	husband	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛ'lɛhi	nan	ɛ - - - ˈl ɛ h i -	(169, 'adon1237', 'ˈobaˈkɜt')	nan		
 196.0	wife	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	zeu	nan	z e u	(196, 'fata1247', 'zeu')	nan		
 196.0	wife	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɟɛu	nan	ɟ ɛ u	(196, 'fata1247', 'zeu')	nan		
 197.0	mother	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	na'luwɛ	nan	n a ˈl u w ɛ	"(197, 'fata1247', ""na'luwɛ"")"	nan		
@@ -208,10 +208,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 204.0	2sg (informal)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛri	nan	ɛ r i	(204, 'wers1238', 'gadi')	nan		
 205.0	2sg (polite)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛri	nan	ɛ r i	(205, 'fata1247', 'ɛri')	nan		
 206.0	3sg	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'tawa	nan	ˈt a w a	"(206, 'fata1247', ""'tawa"")"	nan		
-207.0	1pl excl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	i'niri	nan	- i ˈn i r i	(207, 'wers1238', 'ɲadi')	nan		
-208.0	1pl incl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	a'firi	nan	a ˈf i r i	(208, 'maka1316', 'fi:')	nan		
+207.0	1pl excl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	i'niri	nan	i ˈn i r i - -	(207, 'wers1238', 'ɲadi')	nan		
+208.0	1pl incl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	a'firi	nan	a ˈf i r i - -	(208, 'maka1316', 'fi:')	nan		
 209.0	2pl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'iri	nan	- - - ˈi r i	(209, 'maka1316', 'i:')	nan		
-210.0	3pl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ta'wari	nan	t a ˈw a r i	(210, 'maka1316', 'wɛra')	nan		
+210.0	3pl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ta'wari	nan	( t a ) ˈw a - - r i - - - -	(210, 'adon1237', 'ˈraʔe')	nan		
 211.0	no; not	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	upɛ	nan	u p ɛ	(211, 'fata1247', 'upɛ')	nan		
 212.0	and	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'iɔ	nan	ˈi ɔ	"(212, 'fata1247', ""'iɔ"")"	nan		
 213.0	because	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'iwihinu.'a	iwi=that, hinua=because	ˈi w i h i n u ˈa	"(213, 'fata1247', ""'iwihinu.'a"")"	nan		
@@ -219,18 +219,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 215.0	with	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'iɔ	nan	ˈi ɔ	"(156, 'kaer1234', ""ga'tɑx"")"	nan		
 216.0	what?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ina.i	nan	i n a i	(216, 'fata1247', 'ina.i')	nan		
 217.0	who?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	umani	nan	- u m a n i	(217, 'wers1238', 'mɛlaa')	nan		
-218.0	where?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛ naɛ=di mana?	tɛnaɛn mau? =dari mana?	t ɛ _ n a ɛ = d i _ m a n a ?	(218, 'fata1247', 'tɛ naɛ=di mana?')	nan		
-218.0	where?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛanaɛ	tɛnaɛn mau? =dari mana?	- t ɛ a n a ɛ	(218, 'fata1247', 'tɛanaɛ')	nan		
+218.0	where?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛ naɛ=di mana?	tɛnaɛn mau? =dari mana?	- - - - t ɛ _ - n a ɛ = - - ( d i _ m a n a ) ?	(218, 'keda1252-leuwa', 'dita')	nan		
+218.0	where?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛanaɛ	tɛnaɛn mau? =dari mana?	- - - - t ɛ - a n a ɛ - - - ( - - - - - - - ) -	(218, 'keda1252-leuwa', 'dita')	nan		
 219.0	when?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taru'tɛ	nan	t a r u ˈt ɛ - -	(219, 'wers1238', 'deiŋ te')	nan		
-220.0	why?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛa'nɛ	nan	t ɛ a ˈn ɛ	(70, 'alor1249-sar-n', 'moxoʔ')	nan		
+220.0	why?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛa'nɛ	nan	- - t ɛ - a ˈn ɛ -	(396, 'p-aust1307-abvd', '*baʀeq')	nan		
 221.0	how much; how many?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ta'rupaha	nan	t a ˈr u p a h a	"(221, 'fata1247', ""ta'rupaha"")"	nan		
-222.0	how?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tewa'nei	also means 'why'	t e w a - ˈn e i	"(222, 'fata1247', ""tewa'nei"")"	nan		
-223.0	this	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛ'niɁi	nan	ɛ ˈn i ʔ i	(364, 'atim1239', 'liʔ')	nan		
+222.0	how?	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tewa'nei	also means 'why'	t e w a ˈn e - i	"(222, 'fata1247', ""tewa'nei"")"	nan		
+223.0	this	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛ'niɁi	nan	- ɛ ˈn i - ʔ i - - -	(92, 'wers1238', 'gis (besar)')	nan		
 224.0	that	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	i'wiɁi	nan	i ˈw - - i ʔ i	(224, 'maka1316', 'woriɁi')	nan		
 225.0	at	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	naɁɛ	e.g. ana Lospalos naɁe = I'm in Lospalos	- n a ʔ ɛ	(225, 'fata1247', 'naɁɛ')	nan		
 226.0	in; inside	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mu'cunɛ	nan	m u ˈc u n ɛ	"(226, 'maka1316', ""mu'tuɁu"")"	nan		
-227.0	here	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛ'naɁɛ	nan	- ɛ ˈn a ʔ ɛ	"(227, 'pura1258', ""a'ŋami"")"	nan		
-228.0	there	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	inaɁɛ	nan	- i n a ʔ ɛ	(228, 'wers1238', 'mɔna')	nan		
+227.0	here	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛ'naɁɛ	nan	- ɛ - - - ˈn a ʔ ɛ	(227, 'keda1252-leuwa', 'di nɔʔ')	nan		
+228.0	there	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	inaɁɛ	nan	- i - - - n a ʔ ɛ - - - -	(233, 'adon1237', 'ˈʔɜsiʔ, kuluk')	nan		
 229.0	above	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	puhunɛ	nan	p u h u n ɛ	(229, 'fata1247', 'puhunɛ')	nan		
 230.0	below	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	uanɛ	nan	u a n ɛ	(230, 'fata1247', 'uanɛ')	nan		
 231.0	left (side)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'welika	nan	ˈw e l i k a	(231, 'cent2245-hewa', 'ʋirin')	nan		
@@ -240,13 +240,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 235.0	many	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	lafanɛ	nan	l a f a n ɛ	(235, 'fata1247', 'lafanɛ')	nan		
 236.0	animal	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ani'mali	nan	- a n i ˈm a l i	"(236, 'tetu1245-suai', ""ani'mal"")"	nan		
 237.0	fowl	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɔlɔ atɕa	ɔlɔ=bird,  atɕa=lay eggs, atɕa tara leu=chicken	ɔ l ɔ _ - a tɕ a	(237, 'wers1238', 'no data')	nan		
-238.0	dog	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	i'par	nan	- - i ˈp a r	(238, 'maka1316', 'jɛfa')	nan		
+238.0	dog	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	i'par	nan	- i ˈp a r	(238, 'maka1316', 'jɛfa')	nan		
 239.0	pig	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pai	nan	p a - i -	(365, 'tetu1245-suai', 'monu')	nan		
 240.0	chicken	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	atɕa	written by speaker as 'acha', contrasts with 'aca tapin' = smoke	a tɕ a	(240, 'fata1247', 'atɕa')	nan		
 241.0	rat	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	cura	nan	c u r - a	(241, 'cent2245-hewa', 'teʔu')	nan		
 242.0	lizard	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɔkɛ	nan	t ɔ k ɛ - - -	(242, 'cent2245-hewa', 'təke:')	nan		
 243.0	civet cat	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	lɔhɔ	lɔhɔ also means: pen (kandang), e.g. pipi lɔhɔ=goat pen	- l ɔ h ɔ	(344, 'keda1252-leuwa', 'baŋær')	nan		
-244.0	deer	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	waka	nan	w a k a	(244, 'fata1247', 'waka')	nan		
+244.0	deer	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	waka	nan	w a - - k a	"(550, 'teiw1235', ""ga'taxaq"")"	nan		
 245.0	frog	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	cila	nan	c i l a -	(245, 'sout2896-kalik', 'ˈtulɔr')	nan		
 246.0	bat	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	maca	nan	m a c - a - -	(82, 'kelo1247', 'no data')	nan		
 247.0	flying fox; fruit bat	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	maca 'mini 'sɛlɛ	mini=nose, sɛlɛ= peeled,  torn 	m a c a _ ˈm i n i _ ˈs ɛ l ɛ	"(247, 'fata1247', ""maca 'mini 'sɛlɛ"")"	nan		
@@ -254,9 +254,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 249.0	tail	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	u'lafuka	ula=tail, fuka=stalk, stem	u ˈl a f u k a	"(249, 'fata1247', ""u'lafuka"")"	nan		
 250.0	fish	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	api	nan	- a p i	(250, 'wers1238', 'api')	nan		
 251.0	shark	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'api	nan	ˈa p i	"(282, 'kaer1234', ""ki'ki:, 'krim"")"	nan		
-252.0	whale	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	a'pi la'fai	api=fish; lafai=big	a ˈp i _ l a ˈf a i	"(252, 'fata1247', ""a'pi la'fai"")"	nan		
+252.0	whale	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	a'pi la'fai	api=fish; lafai=big	( a ˈp i _ l a ˈf a - ) - i - - - - - ( - - - - )	"(162, 'teiw1235', ""gefu'xui"")"	nan		
 253.0	dolphin	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	api	nan	a p i	(253, 'maka1316', 'afi')	nan		
-254.0	crocodile	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'lavɛi	nan	ˈl a v ɛ i -	"(254, 'fata1247', ""'lavɛi"")"	nan		
+254.0	crocodile	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'lavɛi	nan	ˈl a v ɛ - - i - - - - - - - - - - - -	(512, 'wers1238', 'tetai leweŋ')	nan		
 255.0	monitor lizard	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pai musu-musu	pai=pig, musu=lick; myth that if a lizard just licks a pig, the pig will get pregnant	p a i _ - - - m u s u m u s u	"(255, 'maka1316', ""bai'mɔsu-mɔsu"")"	nan		
 256.0	starfish	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tahi ipi'naka	tahi=sea, ipinaka=star	t a h i _ i p i ˈn a k a -	(256, 'wers1238', 'təma apikal')	nan		
 257.0	turtle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	wɛɁu	 	w ɛ ʔ u	(257, 'fata1247', 'wɛɁu')	nan		
@@ -364,7 +364,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 358.0	to sit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	imi'rɛ:	nan	i m i ˈr ɛː	"(358, 'fata1247', ""imi'rɛ:"")"	nan		
 359.0	to stand	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	natɛ	nan	n a t ɛ -	(359, 'pura1258', 'tahi')	nan		
 360.0	to walk	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	laɁa-laɁa	nan	l a ʔ a l a ʔ a	(360, 'tetu1245-vique', 'laɁɔ (ajɪŋ)')	nan		
-361.0	to run	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ti'farɛ	nan	t i ˈf a r ɛ	"(361, 'fata1247', ""ti'farɛ"")"	nan		
+361.0	to run	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ti'farɛ	nan	t i ˈf a r ɛ	(225, 'kula1280', 'angu')	nan		
 362.0	to go	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	laɁa	nan	l a ʔ a	(362, 'maka1316', 'laɁa')	nan		
 363.0	to swim	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pa'lise	nan	p a ˈl i s e	"(363, 'maka1316', ""ba'lisi"")"	nan		
 364.0	to fly	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	i'pile	nan	i ˈp i l e	"(364, 'fata1247', ""i'pile"")"	nan		
@@ -376,7 +376,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 370.0	to cook	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pɔ'hɛ-pɔ'hɛ	nan	p ɔ ˈh ɛ p ɔ ˈh ɛ	"(370, 'fata1247', ""pɔ'hɛ-pɔ'hɛ"")"	nan		
 371.0	to wash	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pahalɛ	raɁu wahu=wash dishes, lau pahale=wash clothes 	p - a h a l ɛ	(371, 'cent2245-hewa', 'puʔu')	nan		
 371.0	to wash	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	wahu	raɁu wahu=wash dishes, lau pahale=wash clothes 	w - a h u - -	(371, 'cent2245-hewa', 'puʔu')	nan		
-372.0	to sew	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɔɁɔ'te:	nan	- ɔ ʔ ɔ ˈt eː	(372, 'cent2245-hewa', 'raʔit')	nan		
+372.0	to sew	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɔɁɔ'te:	nan	- - - - ɔ ʔ - ɔ ˈt eː - - - - - - -	(372, 'wers1238', 'sor burkiŋ')	nan		
 373.0	to live; be alive; living	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'lauhɛ	nan	ˈl a - u h ɛ	"(373, 'maka1316', ""la'fuhu"")"	nan		
 374.0	to breathe	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'naɁɛ	nan	- - - ˈn a ʔ ɛ	"(374, 'maka1316', ""hau'neɁe"")"	nan		
 375.0	to work	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	siri'vɛsi	loan from Portuguese	s i r i ˈv ɛ s i	"(375, 'tetu1245-suai', ""se'risu"")"	nan		
@@ -457,8 +457,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 447.0	to lie (tell untruth)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	piri	piri=to lie (impolite), ɔrinɛ=to lie (polite)	- - p i r i	(488, 'dein1238', 'kri')	nan		
 447.0	to lie (tell untruth)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɔrinɛ	piri=to lie (impolite), ɔrinɛ=to lie (polite)	ɔ r i n ɛ	(447, 'fata1247', 'ɔrinɛ')	nan		
 448.0	to ask (question)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	atanɛ	nan	- a t a n ɛ -	(448, 'fata1247', 'atanɛ')	nan		
-448.0	to ask (question)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ucutɛ	nan	u c u t ɛ -	(448, 'maka1316', 'seti')	nan		
-449.0	to count	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛkɛhɛ	nan	ɛ k ɛ h ɛ -	(449, 'cent2245-hewa', 'ɡasik')	nan		
+448.0	to ask (question)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ucutɛ	nan	u c u t ɛ -	(448, 'adan1251', 'utaʔaɲ')	nan		
+449.0	to count	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛkɛhɛ	nan	ɛ k ɛ h ɛ -	(449, 'sika1262-tanai', 'ɡasik')	nan		
 450.0	one	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	u'kani	nan	u ˈk a n i	(450, 'sout2896-kalik', 'tune')	nan		
 451.0	two	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ɛcɛ	nan	ˈɛ c ɛ -	"(85, 'abui1241-takal', ""bä.'tä:"")"	nan		
 452.0	three	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	utuɁɛ	nan	- u t u ʔ ɛ	(452, 'fata1247', 'utuɁɛ')	nan		
@@ -478,7 +478,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 466.0	seventeen	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ukani fitu	nan	t a ʔ a n _ u k a n i _ f i t u	(466, 'fata1247', 'taɁan ukani fitu')	nan		
 467.0	eighteen	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ukani kafa	nan	t a ʔ a n _ u k a n i _ k a f a	(467, 'fata1247', 'taɁan ukani kafa')	nan		
 468.0	nineteen	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ukani siwa	nan	t a ʔ a n _ u k a n i _ s i w a	(468, 'fata1247', 'taɁan ukani siwa')	nan		
-469.0	twenty	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ɛcɛ	nan	t a ʔ a n _ ɛ c ɛ	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
+469.0	twenty	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ɛcɛ	nan	t a - ʔ a n _ ( - ɛ c ɛ )	(64, 'p-cent2245-abvd', '*zaʀum')	nan		
 470.0	twenty one	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ɛcɛ ukani	nan	t a ʔ a n _ ɛ c ɛ _ u k a n i	(294, 'pura1258', 'peaŋ')	nan		
 471.0	twenty two	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ɛcɛ ɛcɛ	nan	t a ʔ a n _ ɛ c ɛ _ ɛ c ɛ	(471, 'fata1247', 'taɁan ɛcɛ ɛcɛ')	nan		
 472.0	twenty three	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan ɛcɛ utuɁɛ	nan	t a ʔ a n _ ɛ c ɛ _ u t u ʔ ɛ	(472, 'fata1247', 'taɁan ɛcɛ utuɁɛ')	nan		
@@ -491,7 +491,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 479.0	seventy	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan fitu	nan	t a ʔ a n _ f i t u	(479, 'cent2245-hewa', 'pulu pitu')	nan		
 480.0	eighty	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan kafa	nan	t a ʔ a n _ k a f a	(480, 'fata1247', 'taɁan kafa')	nan		
 481.0	ninety	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taɁan siwa	nan	t a ʔ a n _ s i w a	(481, 'fata1247', 'taɁan siwa')	nan		
-482.0	one hundred	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rah ukani	nan	r a h _ u k a n i	"(238, 'kaer1234', ""i'bar"")"	nan		
+482.0	one hundred	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rah ukani	nan	r a h _ u k a n i	(482, 'fata1247', 'rah ukani')	nan		
 483.0	one hundred and twenty three	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rah ukani taɁan ɛcɛ utuɛ	nan	r a h _ u k a n i _ t a ʔ a n _ ɛ c ɛ _ u t u ɛ	(483, 'fata1247', 'rah ukani taɁan ɛcɛ utuɛ')	nan		
 484.0	two hundred	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rah ɛcɛ	nan	r a h _ ɛ c ɛ	(484, 'fata1247', 'rah ɛcɛ')	nan		
 485.0	thousand	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	rɛhun ukani	nan	r ɛ h u n - _ u k a n i	(291, 'pura1258', 'ɟasi')	nan		
@@ -526,7 +526,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 513.0	chair	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ka'dɛra	nan	k a - ˈd ɛ - r a	(513, 'cent2245-hewa', 'kursi')	nan		
 514.0	lamp	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	lampu	nan	l a m p u -	(514, 'cent2245-hewa', 'lampu')	nan		
 515.0	candle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ucu 'pacu	ucu=bee's wax, pacu=oil lamp	u c u _ ˈp a c u	(515, 'wers1238', 'dupaiŋ')	nan		
-516.0	to weave	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'uta	uta=hit/pull strings (?), also used for playing guitar	ˈu t - a -	(516, 'adon1237', 'tane, nekɜt tane')	nan		
+516.0	to weave	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'uta	uta=hit/pull strings (?), also used for playing guitar	- - - - ˈu t a - - - -	(516, 'adon1237', 'tane, nekɜt tane')	nan		
 517.0	shirt	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	faru	nan	f a r u	(517, 'tetu1245-suai', 'faru')	nan		
 518.0	necklace	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mani-'mani	nan	m a n i ˈm a n i	"(518, 'maka1316', ""mani'mani"")"	nan		
 519.0	earring	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	araka'lina	nan	a r a k a ˈl i n a	"(519, 'maka1316', ""araka'lina"")"	nan		
