@@ -18,7 +18,7 @@ Feature_ID	Language_ID	Value	English	Language name (-dialect)	Family	Region	Comm
 16	alor1249-besar	'uraŋ fa'rɛha-fa'rɛha	drizzle	Alor-Besar	Timor-Alor-Pantar	Alor		u r a ŋ _ f a ˈr ɛ h a f a ˈr ɛ h a	10229			
 17	alor1249-besar	'tata bei-bei	rainbow	Alor-Besar	Timor-Alor-Pantar	Alor		t a t a _ b e i b e i -	10161			
 18	alor1249-besar	'hila	thunder	Alor-Besar	Timor-Alor-Pantar	Alor		h i l a -	3602			
-19	alor1249-besar	'hila bi'baː	lightning	Alor-Besar	Timor-Alor-Pantar	Alor		h i l a _ b i ˈb aː	5764			
+19	alor1249-besar	'hila bi'ba	lightning	Alor-Besar	Timor-Alor-Pantar	Alor		h i l a _ b i ˈb aː	5764			
 20	alor1249-besar	'tana 'ɔdʒaŋ	earthquake	Alor-Besar	Timor-Alor-Pantar	Alor	"tana 'ɔdʒaŋ literally means ""earth shake"""""	t a n a _ ˈɔ j a ŋ	10238			
 21	alor1249-besar	ta'fɛuŋ	fog	Alor-Besar	Timor-Alor-Pantar	Alor		t a ˈf ɛ u ŋ	4137			
 22	alor1249-besar	'alu	river; stream	Alor-Besar	Timor-Alor-Pantar	Alor		a l u - -	4673			
@@ -34,7 +34,7 @@ Feature_ID	Language_ID	Value	English	Language name (-dialect)	Family	Region	Comm
 32	alor1249-besar	'fatɔ	stone	Alor-Besar	Timor-Alor-Pantar	Alor		f a t ɔ -	219			
 33	alor1249-besar	'fatɔ ma'napa	coral (rock)	Alor-Besar	Timor-Alor-Pantar	Alor		f a t ɔ _ m a ˈn a p a	2901			
 34	alor1249-besar	'uho	(coral) reef	Alor-Besar	Timor-Alor-Pantar	Alor	small coral like human fingers	- u h o -	8972			
-34	alor1249-besar	ta'gaː	(coral) reef	Alor-Besar	Timor-Alor-Pantar	Alor	small coral like a sheet	t a ˈg aː	10232			
+34	alor1249-besar	ta'ga	(coral) reef	Alor-Besar	Timor-Alor-Pantar	Alor	small coral like a sheet	t a ˈg aː	10232			
 34	alor1249-besar	'umuŋ	(coral) reef	Alor-Besar	Timor-Alor-Pantar	Alor	big coral	#NAAM?	1695			
 35	alor1249-besar	'fei	water (fresh)	Alor-Besar	Timor-Alor-Pantar	Alor		f e i	7025			
 36	alor1249-besar	'tahi	sea; sea water	Alor-Besar	Timor-Alor-Pantar	Alor		t a h i -	1099			
@@ -316,7 +316,7 @@ Feature_ID	Language_ID	Value	English	Language name (-dialect)	Family	Region	Comm
 298	alor1249-besar	'peiŋ 'pakiaŋ	dry in sun	Alor-Besar	Timor-Alor-Pantar	Alor						
 299	alor1249-besar	bəla'hakaŋ	long	Alor-Besar	Timor-Alor-Pantar	Alor						
 300	alor1249-besar	ba'lɔlɔ	tall	Alor-Besar	Timor-Alor-Pantar	Alor						
-301	alor1249-besar	maku	short	Alor-Besar	Timor-Alor-Pantar	Alor						
+301	alor1249-besar	'maku	short	Alor-Besar	Timor-Alor-Pantar	Alor						
 302	alor1249-besar	'fero	short (people)	Alor-Besar	Timor-Alor-Pantar	Alor						
 303	alor1249-besar	ma'nipi	thin (non-human)	Alor-Besar	Timor-Alor-Pantar	Alor						
 304	alor1249-besar	ku'rusu	skinny (human)	Alor-Besar	Timor-Alor-Pantar	Alor						
@@ -395,7 +395,7 @@ Feature_ID	Language_ID	Value	English	Language name (-dialect)	Family	Region	Comm
 371	alor1249-besar	'bɛmɛ 'apa	to wash	Alor-Besar	Timor-Alor-Pantar	Alor	"wash for cloth, laming is wash for floor, hue is wash for plates, cups"					
 372	alor1249-besar	'hɔru 'apa	to sew	Alor-Besar	Timor-Alor-Pantar	Alor						
 373	alor1249-besar	'mɔri	to live; be alive; living	Alor-Besar	Timor-Alor-Pantar	Alor						
-374	alor1249-besar	'nami ''nihiŋ 	to breathe	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' take breath'					
+374	alor1249-besar	'nami 'nihiŋ 	to breathe	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' take breath'					
 375	alor1249-besar	kə'radʒaŋ	to work	Alor-Besar	Timor-Alor-Pantar	Alor						
 376	alor1249-besar	'mati	to die	Alor-Besar	Timor-Alor-Pantar	Alor						
 377	alor1249-besar	'nẽ	to give	Alor-Besar	Timor-Alor-Pantar	Alor						
@@ -437,200 +437,200 @@ Feature_ID	Language_ID	Value	English	Language name (-dialect)	Family	Region	Comm
 410	alor1249-besar	'bunɔ	to kill	Alor-Besar	Timor-Alor-Pantar	Alor						
 411	alor1249-besar	'tutɛ	to chase away	Alor-Besar	Timor-Alor-Pantar	Alor	"be after, hunt for"					
 411	alor1249-besar	'sɛ	to chase away	Alor-Besar	Timor-Alor-Pantar	Alor	chase away					
-413	alor1249-besar	'gɛna	to search for; to hunt for	Alor-Besar	Timor-Alor-Pantar	Alor						
-414	alor1249-besar	'galiŋ	to dig	Alor-Besar	Timor-Alor-Pantar	Alor						
-415	alor1249-besar	'tou	to bury	Alor-Besar	Timor-Alor-Pantar	Alor						
-416	alor1249-besar	'barɛ	to flow	Alor-Besar	Timor-Alor-Pantar	Alor						
-417	alor1249-besar	'nepi	to float	Alor-Besar	Timor-Alor-Pantar	Alor						
-418	alor1249-besar	'fatɔnaŋ	to freeze	Alor-Besar	Timor-Alor-Pantar	Alor						
-419	alor1249-besar	'paha	to hold	Alor-Besar	Timor-Alor-Pantar	Alor						
-420	alor1249-besar	'pɔhi	to tie	Alor-Besar	Timor-Alor-Pantar	Alor						
-421	alor1249-besar	ka'naku	to play	Alor-Besar	Timor-Alor-Pantar	Alor						
-422	alor1249-besar	'tarːɛ	to pull	Alor-Besar	Timor-Alor-Pantar	Alor						
-423	alor1249-besar	'uruŋ	to push	Alor-Besar	Timor-Alor-Pantar	Alor	dorong					
-423	alor1249-besar	'natoŋ	to push	Alor-Besar	Timor-Alor-Pantar	Alor	sorong					
-423	alor1249-besar	'tɔbaŋ	to push	Alor-Besar	Timor-Alor-Pantar	Alor	geser					
-424	alor1249-besar	'heŋko	to turn	Alor-Besar	Timor-Alor-Pantar	Alor						
-425	alor1249-besar	'nureŋ	to dream	Alor-Besar	Timor-Alor-Pantar	Alor						
-426	alor1249-besar	'tɔbɔ 'tae	to crouch; to bend over	Alor-Besar	Timor-Alor-Pantar	Alor	literally means 'sit excrement' 					
-427	alor1249-besar	'tɔbɔ	to live; to stay	Alor-Besar	Timor-Alor-Pantar	Alor						
-428	alor1249-besar	'pilɛ	to choose	Alor-Besar	Timor-Alor-Pantar	Alor						
-429	alor1249-besar	'tafa	to grow	Alor-Besar	Timor-Alor-Pantar	Alor						
-430	alor1249-besar	'pihi	to squeeze	Alor-Besar	Timor-Alor-Pantar	Alor	peras					
-430	alor1249-besar	'pɛmɛ	to squeeze	Alor-Besar	Timor-Alor-Pantar	Alor	remas					
-431	alor1249-besar	'hɔpɛ	to buy	Alor-Besar	Timor-Alor-Pantar	Alor						
-432	alor1249-besar	pa'nahaŋ	to sell	Alor-Besar	Timor-Alor-Pantar	Alor						
-433	alor1249-besar	ta'maku	to steal	Alor-Besar	Timor-Alor-Pantar	Alor						
-434	alor1249-besar	'buka	to open	Alor-Besar	Timor-Alor-Pantar	Alor	'hioka					
-434	alor1249-besar	'hioka	to open	Alor-Besar	Timor-Alor-Pantar	Alor						
-435	alor1249-besar	'tɛra	to close	Alor-Besar	Timor-Alor-Pantar	Alor						
-436	alor1249-besar	'gɛrɛ	to climb	Alor-Besar	Timor-Alor-Pantar	Alor						
-437	alor1249-besar	'dafu	to hide	Alor-Besar	Timor-Alor-Pantar	Alor						
-438	alor1249-besar	'baiŋ	to wait	Alor-Besar	Timor-Alor-Pantar	Alor						
-439	alor1249-besar	'lapɛ 	to fold	Alor-Besar	Timor-Alor-Pantar	Alor						
-440	alor1249-besar	'sambɔ	to help	Alor-Besar	Timor-Alor-Pantar	Alor						
-441	alor1249-besar	'kabɔŋ	to bark	Alor-Besar	Timor-Alor-Pantar	Alor						
-442	alor1249-besar	'pasa	to shoot	Alor-Besar	Timor-Alor-Pantar	Alor						
-443	alor1249-besar	'pasa nɔŋ kar'tapel	to shoot with slingshot	Alor-Besar	Timor-Alor-Pantar	Alor						
-444	alor1249-besar	'bajɔ 	to pound; to beat	Alor-Besar	Timor-Alor-Pantar	Alor						
-445	alor1249-besar	'bɛhɛ 'bafa	to hit (drum)	Alor-Besar	Timor-Alor-Pantar	Alor						
-446	alor1249-besar	'boaŋ	to call out	Alor-Besar	Timor-Alor-Pantar	Alor	scream					
-446	alor1249-besar	'gɛkɛ	to call out	Alor-Besar	Timor-Alor-Pantar	Alor	yell to call someone					
-447	alor1249-besar	ki'biri	to lie (tell untruth)	Alor-Besar	Timor-Alor-Pantar	Alor						
-448	alor1249-besar	'gatɛ	to ask (question)	Alor-Besar	Timor-Alor-Pantar	Alor						
-449	alor1249-besar	'rɛkɛŋ	to count	Alor-Besar	Timor-Alor-Pantar	Alor						
-450	alor1249-besar	'tou	one	Alor-Besar	Timor-Alor-Pantar	Alor						
-451	alor1249-besar	'rua	two	Alor-Besar	Timor-Alor-Pantar	Alor						
-452	alor1249-besar	'talːɔ	three	Alor-Besar	Timor-Alor-Pantar	Alor						
-453	alor1249-besar	'pa	four	Alor-Besar	Timor-Alor-Pantar	Alor						
-454	alor1249-besar	'lɛma	five	Alor-Besar	Timor-Alor-Pantar	Alor						
-455	alor1249-besar	'namuŋ	six	Alor-Besar	Timor-Alor-Pantar	Alor						
-456	alor1249-besar	'pito	seven	Alor-Besar	Timor-Alor-Pantar	Alor						
-457	alor1249-besar	'buto	eight	Alor-Besar	Timor-Alor-Pantar	Alor						
-458	alor1249-besar	'hifa	nine	Alor-Besar	Timor-Alor-Pantar	Alor						
-459	alor1249-besar	'kartou	ten	Alor-Besar	Timor-Alor-Pantar	Alor						
-460	alor1249-besar	'kartou 'ilaka 'tou	eleven	Alor-Besar	Timor-Alor-Pantar	Alor						
-461	alor1249-besar	'kartou 'ilaka 'rua	twelve	Alor-Besar	Timor-Alor-Pantar	Alor						
-462	alor1249-besar	'kartou 'ilaka 'talːɔ	thirteen	Alor-Besar	Timor-Alor-Pantar	Alor						
-463	alor1249-besar	'kartou 'ilaka 'pa	fourteen	Alor-Besar	Timor-Alor-Pantar	Alor						
-464	alor1249-besar	'kartou 'ilaka 'lɛma	fifteen	Alor-Besar	Timor-Alor-Pantar	Alor						
-465	alor1249-besar	'kartou 'ilaka 'namuŋ	sixteen	Alor-Besar	Timor-Alor-Pantar	Alor						
-466	alor1249-besar	'kartou 'ilaka 'pito	seventeen	Alor-Besar	Timor-Alor-Pantar	Alor						
-467	alor1249-besar	'kartou 'ilaka 'buto	eighteen	Alor-Besar	Timor-Alor-Pantar	Alor						
-468	alor1249-besar	'kartou 'ilaka 'hifa	nineteen	Alor-Besar	Timor-Alor-Pantar	Alor						
-469	alor1249-besar	'karua	twenty	Alor-Besar	Timor-Alor-Pantar	Alor						
-470	alor1249-besar	'karua 'ilaka 'tou	twenty one	Alor-Besar	Timor-Alor-Pantar	Alor						
-471	alor1249-besar	'karua 'ilaka 'rua	twenty two	Alor-Besar	Timor-Alor-Pantar	Alor						
-472	alor1249-besar	'karua 'ilaka 'talːɔ	twenty three	Alor-Besar	Timor-Alor-Pantar	Alor						
-473	alor1249-besar	'karua 'ilaka 'pa	twenty four	Alor-Besar	Timor-Alor-Pantar	Alor						
-474	alor1249-besar	'karua 'ilaka 'lɛma	twenty five	Alor-Besar	Timor-Alor-Pantar	Alor						
-475	alor1249-besar	kar'talːɔ	thirty	Alor-Besar	Timor-Alor-Pantar	Alor						
-476	alor1249-besar	kar'pa	forty	Alor-Besar	Timor-Alor-Pantar	Alor						
-477	alor1249-besar	kar'lɛma	fifty	Alor-Besar	Timor-Alor-Pantar	Alor						
-478	alor1249-besar	kar'namuŋ	sixty	Alor-Besar	Timor-Alor-Pantar	Alor						
-479	alor1249-besar	kar'pito	seventy	Alor-Besar	Timor-Alor-Pantar	Alor						
-480	alor1249-besar	kar'buto	eighty	Alor-Besar	Timor-Alor-Pantar	Alor						
-481	alor1249-besar	kar'hifa	ninety	Alor-Besar	Timor-Alor-Pantar	Alor						
-482	alor1249-besar	'ratu	one hundred	Alor-Besar	Timor-Alor-Pantar	Alor						
-483	alor1249-besar	'ratu 'karua 'ilaka 'talːɔ	one hundred and twenty three	Alor-Besar	Timor-Alor-Pantar	Alor						
-484	alor1249-besar	'ratu 'rua	two hundred	Alor-Besar	Timor-Alor-Pantar	Alor						
-485	alor1249-besar	'ribu	thousand	Alor-Besar	Timor-Alor-Pantar	Alor						
-486	alor1249-besar	'ratu	one hundred thousand	Alor-Besar	Timor-Alor-Pantar	Alor						
-487	alor1249-besar	'bapaŋ ka'fae	grandmother	Alor-Besar	Timor-Alor-Pantar	Alor						
-488	alor1249-besar	'bapaŋ ka'lake	grandfather	Alor-Besar	Timor-Alor-Pantar	Alor						
-489	alor1249-besar	'bapaŋ	grandchild	Alor-Besar	Timor-Alor-Pantar	Alor						
-490	alor1249-besar	am'pukɔŋ	mother's brother	Alor-Besar	Timor-Alor-Pantar	Alor						
-491	alor1249-besar	ma'nulaŋ	nephew; niece	Alor-Besar	Timor-Alor-Pantar	Alor						
-492	alor1249-besar	'kakaŋ ka'lake	older brother	Alor-Besar	Timor-Alor-Pantar	Alor						
-493	alor1249-besar	'kakaŋ ka'fae	older sister	Alor-Besar	Timor-Alor-Pantar	Alor						
-494	alor1249-besar	'binɛŋ ka'fae	sister	Alor-Besar	Timor-Alor-Pantar	Alor						
-495	alor1249-besar	ma'nulaŋ ka'fae	woman's cross-cousin	Alor-Besar	Timor-Alor-Pantar	Alor						
-496	alor1249-besar	'ariŋ ka'fae	woman's younger sister	Alor-Besar	Timor-Alor-Pantar	Alor						
-497	alor1249-besar	'ariŋ ka'lake	younger brother	Alor-Besar	Timor-Alor-Pantar	Alor						
-498	alor1249-besar	'naŋ ka'lake	brother	Alor-Besar	Timor-Alor-Pantar	Alor						
-499	alor1249-besar	'opuŋ	brother-in-law	Alor-Besar	Timor-Alor-Pantar	Alor						
-500	alor1249-besar	ka'fae 'uma	cross-cousin	Alor-Besar	Timor-Alor-Pantar	Alor	ka'lake 'uma					
-500	alor1249-besar	ka'lake 'uma	cross-cousin	Alor-Besar	Timor-Alor-Pantar	Alor						
-501	alor1249-besar	'inaŋ 'pukɔŋ 	father's sister	Alor-Besar	Timor-Alor-Pantar	Alor						
-502	alor1249-besar	mou'fufuŋ	ridge(pole); peak; tip	Alor-Besar	Timor-Alor-Pantar	Alor						
-503	alor1249-besar	'huruŋ	rack(above hearth/for storing food)	Alor-Besar	Timor-Alor-Pantar	Alor						
-504	alor1249-besar	'namɔ	broom; sweep	Alor-Besar	Timor-Alor-Pantar	Alor						
-505	alor1249-besar	'dolu 'nɔŋ 'ula 'naga	ground for ritual activities and public meetings	Alor-Besar	Timor-Alor-Pantar	Alor	literally means 'ritual place and snake' (a sacred stone snake is placed on the entrance of the village Alor Besar)					
-506	alor1249-besar	'dolu	mound of stones for ritual activities	Alor-Besar	Timor-Alor-Pantar	Alor						
-507	alor1249-besar	'uma 'hada	meeting house	Alor-Besar	Timor-Alor-Pantar	Alor						
-507	alor1249-besar	'pusuŋ 'rɛbɔŋ	meeting house	Alor-Besar	Timor-Alor-Pantar	Alor	this is the name of the king's house in Alor Besar					
-508	alor1249-besar	'lamiŋ	floor	Alor-Besar	Timor-Alor-Pantar	Alor						
-509	alor1249-besar	ga'nabɛŋ	wall	Alor-Besar	Timor-Alor-Pantar	Alor						
-510	alor1249-besar	dʒa'nela	window	Alor-Besar	Timor-Alor-Pantar	Alor						
-511	alor1249-besar	'lika	cookhouse; kitchen	Alor-Besar	Timor-Alor-Pantar	Alor						
-512	alor1249-besar	sa'ligaŋ	bed	Alor-Besar	Timor-Alor-Pantar	Alor						
-513	alor1249-besar	ka'dera	chair	Alor-Besar	Timor-Alor-Pantar	Alor						
-514	alor1249-besar	'lampu	lamp	Alor-Besar	Timor-Alor-Pantar	Alor						
-515	alor1249-besar	'pandʒu	candle	Alor-Besar	Timor-Alor-Pantar	Alor	"traditional candle made of saffron, candlenut, veins of coconut palm"					
-516	alor1249-besar	'tane 'apa	to weave	Alor-Besar	Timor-Alor-Pantar	Alor						
-517	alor1249-besar	'kɔndʒɔ	shirt	Alor-Besar	Timor-Alor-Pantar	Alor						
-518	alor1249-besar	'maŋge	necklace	Alor-Besar	Timor-Alor-Pantar	Alor						
-519	alor1249-besar	'anti	earring	Alor-Besar	Timor-Alor-Pantar	Alor						
-520	alor1249-besar	'deko 'leiŋ bəla'hakaŋ	trousers	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' trousers long legs' 					
-521	alor1249-besar	ka'fate	sarong (women)	Alor-Besar	Timor-Alor-Pantar	Alor						
-522	alor1249-besar	'opa	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 1					
-522	alor1249-besar	'fulɔ	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 2					
-522	alor1249-besar	'he	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 3					
-522	alor1249-besar	'baliaŋ	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 4					
-523	alor1249-besar	ba'nːaŋ	thread	Alor-Besar	Timor-Alor-Pantar	Alor						
-524	alor1249-besar	sam'beaŋ	to worship	Alor-Besar	Timor-Alor-Pantar	Alor						
-525	alor1249-besar	la'hikiŋ	holy	Alor-Besar	Timor-Alor-Pantar	Alor						
-526	alor1249-besar	'basa 'doa	to bless	Alor-Besar	Timor-Alor-Pantar	Alor						
-527	alor1249-besar	a'lapa	God	Alor-Besar	Timor-Alor-Pantar	Alor						
-528	alor1249-besar	'doa	to pray	Alor-Besar	Timor-Alor-Pantar	Alor						
-529	alor1249-besar	ga'rɛdʒa	church	Alor-Besar	Timor-Alor-Pantar	Alor						
-530	alor1249-besar	'uma 'sigi	mosque	Alor-Besar	Timor-Alor-Pantar	Alor						
-531	alor1249-besar	'noe 'gama	to curse	Alor-Besar	Timor-Alor-Pantar	Alor						
-532	alor1249-besar	'dʒou	priest (modern)	Alor-Besar	Timor-Alor-Pantar	Alor						
-532	alor1249-besar	'hatib	priest (modern)	Alor-Besar	Timor-Alor-Pantar	Alor						
-533	alor1249-besar	ma'naka	sorcerer; witch	Alor-Besar	Timor-Alor-Pantar	Alor						
-534	alor1249-besar	'suna 'kara	initiation ceremony	Alor-Besar	Timor-Alor-Pantar	Alor						
-535	alor1249-besar	'tutu	sermon	Alor-Besar	Timor-Alor-Pantar	Alor						
-536	alor1249-besar	'kaulu	sacrifice	Alor-Besar	Timor-Alor-Pantar	Alor	pate kaulu 'pay a sacrifice' 					
-537	alor1249-besar	'lalaŋ	clan	Alor-Besar	Timor-Alor-Pantar	Alor						
-538	alor1249-besar	ka'pala 'lalaŋ	chieftain	Alor-Besar	Timor-Alor-Pantar	Alor						
-539	alor1249-besar	'gahiŋ	to rule or govern	Alor-Besar	Timor-Alor-Pantar	Alor						
-540	alor1249-besar	'bela 'badʒa	treaty	Alor-Besar	Timor-Alor-Pantar	Alor						
-541	alor1249-besar	'hadʒa 'nika	marriage	Alor-Besar	Timor-Alor-Pantar	Alor						
-542	alor1249-besar	ba'rːe-ba'rːe	friend	Alor-Besar	Timor-Alor-Pantar	Alor						
-543	alor1249-besar	'onɔŋ 'datɛ	enemy	Alor-Besar	Timor-Alor-Pantar	Alor	literally means 'inside broken' 					
-544	alor1249-besar	'ata 'beiŋ	king; ruler	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' person big'					
-545	alor1249-besar	'ata mata'puna	stranger	Alor-Besar	Timor-Alor-Pantar	Alor						
-546	alor1249-besar	pa'mada	to invite	Alor-Besar	Timor-Alor-Pantar	Alor						
-547	alor1249-besar	'gahĩŋ	to command or order	Alor-Besar	Timor-Alor-Pantar	Alor						
-548	alor1249-besar	'hodaŋ 'balɛ	dowry	Alor-Besar	Timor-Alor-Pantar	Alor						
-549	alor1249-besar	ka'pala	the judge	Alor-Besar	Timor-Alor-Pantar	Alor						
-550	alor1249-besar	'turuŋ	accuse	Alor-Besar	Timor-Alor-Pantar	Alor						
-551	alor1249-besar	'hala	guilty	Alor-Besar	Timor-Alor-Pantar	Alor						
-552	alor1249-besar	'hala 'lahɛ	innocent	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' not wrong'					
-553	alor1249-besar	'bunɔ	the murder	Alor-Besar	Timor-Alor-Pantar	Alor						
-554	alor1249-besar	'buha ma'leku	the adultery	Alor-Besar	Timor-Alor-Pantar	Alor						
-555	alor1249-besar	'pate 'hala	penalty	Alor-Besar	Timor-Alor-Pantar	Alor	literally 'pay the penalty'					
-556	alor1249-besar	'pukɔ	fishnet	Alor-Besar	Timor-Alor-Pantar	Alor						
-557	alor1249-besar	'ampɔ	to surrender	Alor-Besar	Timor-Alor-Pantar	Alor						
-558	alor1249-besar	'dʒaga	to defend	Alor-Besar	Timor-Alor-Pantar	Alor						
-559	alor1249-besar	pə'raŋ	the war or battle	Alor-Besar	Timor-Alor-Pantar	Alor						
-560	alor1249-besar	mi'sikiŋ	poor	Alor-Besar	Timor-Alor-Pantar	Alor						
-561	alor1249-besar	ka'fasaŋ	rich	Alor-Besar	Timor-Alor-Pantar	Alor						
-562	alor1249-besar	'sɛŋ	money	Alor-Besar	Timor-Alor-Pantar	Alor						
-563	alor1249-besar	'fu	market	Alor-Besar	Timor-Alor-Pantar	Alor						
-564	alor1249-besar	'feliŋ	price	Alor-Besar	Timor-Alor-Pantar	Alor						
-565	alor1249-besar	'go 'apa	to own	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' my possession' 					
-566	alor1249-besar	'bihɛ	to borrow	Alor-Besar	Timor-Alor-Pantar	Alor						
-567	alor1249-besar	'papa 'lɛlɛ	to trade or barter	Alor-Besar	Timor-Alor-Pantar	Alor						
-568	alor1249-besar	'feliŋ	expensive	Alor-Besar	Timor-Alor-Pantar	Alor						
-569	alor1249-besar	'mura	cheap	Alor-Besar	Timor-Alor-Pantar	Alor						
-570	alor1249-besar	'paha	to grasp	Alor-Besar	Timor-Alor-Pantar	Alor						
-571	alor1249-besar	la'pasa	to let go	Alor-Besar	Timor-Alor-Pantar	Alor						
-572	alor1249-besar	'nakiŋ	to promise	Alor-Besar	Timor-Alor-Pantar	Alor						
-573	alor1249-besar	'kirɛ	word	Alor-Besar	Timor-Alor-Pantar	Alor						
-574	alor1249-besar	'taliŋ	to answer	Alor-Besar	Timor-Alor-Pantar	Alor						
-575	alor1249-besar	'tobaŋ	to refuse	Alor-Besar	Timor-Alor-Pantar	Alor						
-576	alor1249-besar	ta'maga	to whisper	Alor-Besar	Timor-Alor-Pantar	Alor						
-577	alor1249-besar	man'nehe	to be silent	Alor-Besar	Timor-Alor-Pantar	Alor						
-578	alor1249-besar	'tutu	to tell	Alor-Besar	Timor-Alor-Pantar	Alor						
-579	alor1249-besar	'adʒar	to learn	Alor-Besar	Timor-Alor-Pantar	Alor						
-580	alor1249-besar	'adʒara	to teach	Alor-Besar	Timor-Alor-Pantar	Alor						
-581	alor1249-besar	'lohi	easy	Alor-Besar	Timor-Alor-Pantar	Alor						
-582	alor1249-besar	ka'raki	difficult	Alor-Besar	Timor-Alor-Pantar	Alor						
-583	alor1249-besar	'amuŋ 'neka 	finished	Alor-Besar	Timor-Alor-Pantar	Alor	literally means ' already empty' 					
-584	alor1249-besar	'hamuŋ	now	Alor-Besar	Timor-Alor-Pantar	Alor						
-585	alor1249-besar	'dane	hour	Alor-Besar	Timor-Alor-Pantar	Alor						
-586	alor1249-besar	'hama	same	Alor-Besar	Timor-Alor-Pantar	Alor						
-587	alor1249-besar	'lika	oven/cooking place	Alor-Besar	Timor-Alor-Pantar	Alor						
-588	alor1249-besar	'puhuŋ	flower (in e.g. mangga tree)	Alor-Besar	Timor-Alor-Pantar	Alor						
-589	alor1249-besar	u'rakaŋ	vein	Alor-Besar	Timor-Alor-Pantar	Alor						
-590	alor1249-besar	('kadʒo) bəla'hakaŋ	long (stick)	Alor-Besar	Timor-Alor-Pantar	Alor						
-591	alor1249-besar	ba'lɔlɔ	tall (person)	Alor-Besar	Timor-Alor-Pantar	Alor						
-592	alor1249-besar	('kadʒo) 'maku	short (stick)	Alor-Besar	Timor-Alor-Pantar	Alor						
-593	alor1249-besar	'kipɛ	narrow (road)	Alor-Besar	Timor-Alor-Pantar	Alor						
-594	alor1249-besar	n/a	inhabited land	Alor-Besar	Timor-Alor-Pantar	Alor						
-595	alor1249-besar	n/a	roof rafter	Alor-Besar	Timor-Alor-Pantar	Alor						
-596	alor1249-besar	'gɛna	to search/hunt for	Alor-Besar	Timor-Alor-Pantar	Alor						
-597	alor1249-besar	'tɔbɔ 'tae	to crouch	Alor-Besar	Timor-Alor-Pantar	Alor						
-598	alor1249-besar	'tutɛ	to chase away; to expel	Alor-Besar	Timor-Alor-Pantar	Alor						
+412	alor1249-besar	'gɛna	to search for; to hunt for	Alor-Besar	Timor-Alor-Pantar	Alor						
+413	alor1249-besar	'galiŋ	to dig	Alor-Besar	Timor-Alor-Pantar	Alor						
+414	alor1249-besar	'tou	to bury	Alor-Besar	Timor-Alor-Pantar	Alor						
+415	alor1249-besar	'barɛ	to flow	Alor-Besar	Timor-Alor-Pantar	Alor						
+416	alor1249-besar	'nepi	to float	Alor-Besar	Timor-Alor-Pantar	Alor						
+417	alor1249-besar	'fatɔnaŋ	to freeze	Alor-Besar	Timor-Alor-Pantar	Alor						
+418	alor1249-besar	'paha	to hold	Alor-Besar	Timor-Alor-Pantar	Alor						
+419	alor1249-besar	'pɔhi	to tie	Alor-Besar	Timor-Alor-Pantar	Alor						
+420	alor1249-besar	ka'naku	to play	Alor-Besar	Timor-Alor-Pantar	Alor						
+421	alor1249-besar	'tarːɛ	to pull	Alor-Besar	Timor-Alor-Pantar	Alor						
+422	alor1249-besar	'uruŋ	to push	Alor-Besar	Timor-Alor-Pantar	Alor	dorong					
+422	alor1249-besar	'natoŋ	to push	Alor-Besar	Timor-Alor-Pantar	Alor	sorong					
+422	alor1249-besar	'tɔbaŋ	to push	Alor-Besar	Timor-Alor-Pantar	Alor	geser					
+423	alor1249-besar	'heŋko	to turn	Alor-Besar	Timor-Alor-Pantar	Alor						
+424	alor1249-besar	'nureŋ	to dream	Alor-Besar	Timor-Alor-Pantar	Alor						
+425	alor1249-besar	'tɔbɔ 'tae	to crouch; to bend over	Alor-Besar	Timor-Alor-Pantar	Alor	literally means 'sit excrement' 					
+426	alor1249-besar	'tɔbɔ	to live; to stay	Alor-Besar	Timor-Alor-Pantar	Alor						
+427	alor1249-besar	'pilɛ	to choose	Alor-Besar	Timor-Alor-Pantar	Alor						
+428	alor1249-besar	'tafa	to grow	Alor-Besar	Timor-Alor-Pantar	Alor						
+429	alor1249-besar	'pihi	to squeeze	Alor-Besar	Timor-Alor-Pantar	Alor	peras					
+429	alor1249-besar	'pɛmɛ	to squeeze	Alor-Besar	Timor-Alor-Pantar	Alor	remas					
+430	alor1249-besar	'hɔpɛ	to buy	Alor-Besar	Timor-Alor-Pantar	Alor						
+431	alor1249-besar	pa'nahaŋ	to sell	Alor-Besar	Timor-Alor-Pantar	Alor						
+432	alor1249-besar	ta'maku	to steal	Alor-Besar	Timor-Alor-Pantar	Alor						
+433	alor1249-besar	'buka	to open	Alor-Besar	Timor-Alor-Pantar	Alor	'hioka					
+433	alor1249-besar	'hioka	to open	Alor-Besar	Timor-Alor-Pantar	Alor						
+434	alor1249-besar	'tɛra	to close	Alor-Besar	Timor-Alor-Pantar	Alor						
+435	alor1249-besar	'gɛrɛ	to climb	Alor-Besar	Timor-Alor-Pantar	Alor						
+436	alor1249-besar	'dafu	to hide	Alor-Besar	Timor-Alor-Pantar	Alor						
+437	alor1249-besar	'baiŋ	to wait	Alor-Besar	Timor-Alor-Pantar	Alor						
+438	alor1249-besar	'lapɛ 	to fold	Alor-Besar	Timor-Alor-Pantar	Alor						
+439	alor1249-besar	'sambɔ	to help	Alor-Besar	Timor-Alor-Pantar	Alor						
+440	alor1249-besar	'kabɔŋ	to bark	Alor-Besar	Timor-Alor-Pantar	Alor						
+441	alor1249-besar	'pasa	to shoot	Alor-Besar	Timor-Alor-Pantar	Alor						
+442	alor1249-besar	'pasa nɔŋ kar'tapel	to shoot with slingshot	Alor-Besar	Timor-Alor-Pantar	Alor						
+443	alor1249-besar	'badʒɔ 	to pound; to beat	Alor-Besar	Timor-Alor-Pantar	Alor						
+444	alor1249-besar	'bɛhɛ 'bafa	to hit (drum)	Alor-Besar	Timor-Alor-Pantar	Alor						
+445	alor1249-besar	'boaŋ	to call out	Alor-Besar	Timor-Alor-Pantar	Alor	scream					
+445	alor1249-besar	'gɛkɛ	to call out	Alor-Besar	Timor-Alor-Pantar	Alor	yell to call someone					
+446	alor1249-besar	ki'biri	to lie (tell untruth)	Alor-Besar	Timor-Alor-Pantar	Alor						
+447	alor1249-besar	'gatɛ	to ask (question)	Alor-Besar	Timor-Alor-Pantar	Alor						
+448	alor1249-besar	'rɛkɛŋ	to count	Alor-Besar	Timor-Alor-Pantar	Alor						
+449	alor1249-besar	'tou	one	Alor-Besar	Timor-Alor-Pantar	Alor						
+450	alor1249-besar	'rua	two	Alor-Besar	Timor-Alor-Pantar	Alor						
+451	alor1249-besar	'talːɔ	three	Alor-Besar	Timor-Alor-Pantar	Alor						
+452	alor1249-besar	'pa	four	Alor-Besar	Timor-Alor-Pantar	Alor						
+453	alor1249-besar	'lɛma	five	Alor-Besar	Timor-Alor-Pantar	Alor						
+454	alor1249-besar	'namuŋ	six	Alor-Besar	Timor-Alor-Pantar	Alor						
+455	alor1249-besar	'pito	seven	Alor-Besar	Timor-Alor-Pantar	Alor						
+456	alor1249-besar	'buto	eight	Alor-Besar	Timor-Alor-Pantar	Alor						
+457	alor1249-besar	'hifa	nine	Alor-Besar	Timor-Alor-Pantar	Alor						
+458	alor1249-besar	'kartou	ten	Alor-Besar	Timor-Alor-Pantar	Alor						
+459	alor1249-besar	'kartou 'ilaka 'tou	eleven	Alor-Besar	Timor-Alor-Pantar	Alor						
+460	alor1249-besar	'kartou 'ilaka 'rua	twelve	Alor-Besar	Timor-Alor-Pantar	Alor						
+461	alor1249-besar	'kartou 'ilaka 'talːɔ	thirteen	Alor-Besar	Timor-Alor-Pantar	Alor						
+462	alor1249-besar	'kartou 'ilaka 'pa	fourteen	Alor-Besar	Timor-Alor-Pantar	Alor						
+463	alor1249-besar	'kartou 'ilaka 'lɛma	fifteen	Alor-Besar	Timor-Alor-Pantar	Alor						
+464	alor1249-besar	'kartou 'ilaka 'namuŋ	sixteen	Alor-Besar	Timor-Alor-Pantar	Alor						
+465	alor1249-besar	'kartou 'ilaka 'pito	seventeen	Alor-Besar	Timor-Alor-Pantar	Alor						
+466	alor1249-besar	'kartou 'ilaka 'buto	eighteen	Alor-Besar	Timor-Alor-Pantar	Alor						
+467	alor1249-besar	'kartou 'ilaka 'hifa	nineteen	Alor-Besar	Timor-Alor-Pantar	Alor						
+468	alor1249-besar	'karua	twenty	Alor-Besar	Timor-Alor-Pantar	Alor						
+469	alor1249-besar	'karua 'ilaka 'tou	twenty one	Alor-Besar	Timor-Alor-Pantar	Alor						
+470	alor1249-besar	'karua 'ilaka 'rua	twenty two	Alor-Besar	Timor-Alor-Pantar	Alor						
+471	alor1249-besar	'karua 'ilaka 'talːɔ	twenty three	Alor-Besar	Timor-Alor-Pantar	Alor						
+472	alor1249-besar	'karua 'ilaka 'pa	twenty four	Alor-Besar	Timor-Alor-Pantar	Alor						
+473	alor1249-besar	'karua 'ilaka 'lɛma	twenty five	Alor-Besar	Timor-Alor-Pantar	Alor						
+474	alor1249-besar	kar'talːɔ	thirty	Alor-Besar	Timor-Alor-Pantar	Alor						
+475	alor1249-besar	kar'pa	forty	Alor-Besar	Timor-Alor-Pantar	Alor						
+476	alor1249-besar	kar'lɛma	fifty	Alor-Besar	Timor-Alor-Pantar	Alor						
+477	alor1249-besar	kar'namuŋ	sixty	Alor-Besar	Timor-Alor-Pantar	Alor						
+478	alor1249-besar	kar'pito	seventy	Alor-Besar	Timor-Alor-Pantar	Alor						
+479	alor1249-besar	kar'buto	eighty	Alor-Besar	Timor-Alor-Pantar	Alor						
+480	alor1249-besar	kar'hifa	ninety	Alor-Besar	Timor-Alor-Pantar	Alor						
+481	alor1249-besar	'ratu	one hundred	Alor-Besar	Timor-Alor-Pantar	Alor						
+482	alor1249-besar	'ratu 'karua 'ilaka 'talːɔ	one hundred and twenty three	Alor-Besar	Timor-Alor-Pantar	Alor						
+483	alor1249-besar	'ratu 'rua	two hundred	Alor-Besar	Timor-Alor-Pantar	Alor						
+484	alor1249-besar	'ribu	thousand	Alor-Besar	Timor-Alor-Pantar	Alor						
+485	alor1249-besar	'ratu	one hundred thousand	Alor-Besar	Timor-Alor-Pantar	Alor						
+486	alor1249-besar	'bapaŋ ka'fae	grandmother	Alor-Besar	Timor-Alor-Pantar	Alor						
+487	alor1249-besar	'bapaŋ ka'lake	grandfather	Alor-Besar	Timor-Alor-Pantar	Alor						
+488	alor1249-besar	'bapaŋ	grandchild	Alor-Besar	Timor-Alor-Pantar	Alor						
+489	alor1249-besar	am'pukɔŋ	mother's brother	Alor-Besar	Timor-Alor-Pantar	Alor						
+490	alor1249-besar	ma'nulaŋ	nephew; niece	Alor-Besar	Timor-Alor-Pantar	Alor						
+491	alor1249-besar	'kakaŋ ka'lake	older brother	Alor-Besar	Timor-Alor-Pantar	Alor						
+492	alor1249-besar	'kakaŋ ka'fae	older sister	Alor-Besar	Timor-Alor-Pantar	Alor						
+493	alor1249-besar	'binɛŋ ka'fae	sister	Alor-Besar	Timor-Alor-Pantar	Alor						
+494	alor1249-besar	ma'nulaŋ ka'fae	woman's cross-cousin	Alor-Besar	Timor-Alor-Pantar	Alor						
+495	alor1249-besar	'ariŋ ka'fae	woman's younger sister	Alor-Besar	Timor-Alor-Pantar	Alor						
+496	alor1249-besar	'ariŋ ka'lake	younger brother	Alor-Besar	Timor-Alor-Pantar	Alor						
+497	alor1249-besar	'naŋ ka'lake	brother	Alor-Besar	Timor-Alor-Pantar	Alor						
+498	alor1249-besar	'opuŋ	brother-in-law	Alor-Besar	Timor-Alor-Pantar	Alor						
+499	alor1249-besar	ka'fae 'uma	cross-cousin	Alor-Besar	Timor-Alor-Pantar	Alor	ka'lake 'uma					
+499	alor1249-besar	ka'lake 'uma	cross-cousin	Alor-Besar	Timor-Alor-Pantar	Alor						
+500	alor1249-besar	'inaŋ 'pukɔŋ 	father's sister	Alor-Besar	Timor-Alor-Pantar	Alor						
+501	alor1249-besar	mou'fufuŋ	ridge(pole); peak; tip	Alor-Besar	Timor-Alor-Pantar	Alor						
+502	alor1249-besar	'huruŋ	rack(above hearth/for storing food)	Alor-Besar	Timor-Alor-Pantar	Alor						
+503	alor1249-besar	'namɔ	broom; sweep	Alor-Besar	Timor-Alor-Pantar	Alor						
+504	alor1249-besar	'dolu 'nɔŋ 'ula 'naga	ground for ritual activities and public meetings	Alor-Besar	Timor-Alor-Pantar	Alor	literally means 'ritual place and snake' (a sacred stone snake is placed on the entrance of the village Alor Besar)					
+505	alor1249-besar	'dolu	mound of stones for ritual activities	Alor-Besar	Timor-Alor-Pantar	Alor						
+506	alor1249-besar	'uma 'hada	meeting house	Alor-Besar	Timor-Alor-Pantar	Alor						
+506	alor1249-besar	'pusuŋ 'rɛbɔŋ	meeting house	Alor-Besar	Timor-Alor-Pantar	Alor	this is the name of the king's house in Alor Besar					
+507	alor1249-besar	'lamiŋ	floor	Alor-Besar	Timor-Alor-Pantar	Alor						
+508	alor1249-besar	ga'nabɛŋ	wall	Alor-Besar	Timor-Alor-Pantar	Alor						
+509	alor1249-besar	dʒa'nela	window	Alor-Besar	Timor-Alor-Pantar	Alor						
+510	alor1249-besar	'lika	cookhouse; kitchen	Alor-Besar	Timor-Alor-Pantar	Alor						
+511	alor1249-besar	sa'ligaŋ	bed	Alor-Besar	Timor-Alor-Pantar	Alor						
+512	alor1249-besar	ka'dera	chair	Alor-Besar	Timor-Alor-Pantar	Alor						
+513	alor1249-besar	'lampu	lamp	Alor-Besar	Timor-Alor-Pantar	Alor						
+514	alor1249-besar	'pandʒu	candle	Alor-Besar	Timor-Alor-Pantar	Alor	"traditional candle made of saffron, candlenut, veins of coconut palm"					
+515	alor1249-besar	'tane 'apa	to weave	Alor-Besar	Timor-Alor-Pantar	Alor						
+516	alor1249-besar	'kɔndʒɔ	shirt	Alor-Besar	Timor-Alor-Pantar	Alor						
+517	alor1249-besar	'maŋge	necklace	Alor-Besar	Timor-Alor-Pantar	Alor						
+518	alor1249-besar	'anti	earring	Alor-Besar	Timor-Alor-Pantar	Alor						
+519	alor1249-besar	'deko 'leiŋ bəla'hakaŋ	trousers	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' trousers long legs' 					
+520	alor1249-besar	ka'fate	sarong (women)	Alor-Besar	Timor-Alor-Pantar	Alor						
+521	alor1249-besar	'opa	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 1					
+521	alor1249-besar	'fulɔ	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 2					
+521	alor1249-besar	'he	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 3					
+521	alor1249-besar	'baliaŋ	loom	Alor-Besar	Timor-Alor-Pantar	Alor	photo 4					
+522	alor1249-besar	ba'nːaŋ	thread	Alor-Besar	Timor-Alor-Pantar	Alor						
+523	alor1249-besar	sam'beaŋ	to worship	Alor-Besar	Timor-Alor-Pantar	Alor						
+524	alor1249-besar	la'hikiŋ	holy	Alor-Besar	Timor-Alor-Pantar	Alor						
+525	alor1249-besar	'basa 'doa	to bless	Alor-Besar	Timor-Alor-Pantar	Alor						
+526	alor1249-besar	a'lapa	God	Alor-Besar	Timor-Alor-Pantar	Alor						
+527	alor1249-besar	'doa	to pray	Alor-Besar	Timor-Alor-Pantar	Alor						
+528	alor1249-besar	ga'rɛdʒa	church	Alor-Besar	Timor-Alor-Pantar	Alor						
+529	alor1249-besar	'uma 'sigi	mosque	Alor-Besar	Timor-Alor-Pantar	Alor						
+530	alor1249-besar	'noe 'gama	to curse	Alor-Besar	Timor-Alor-Pantar	Alor						
+531	alor1249-besar	'dʒou	priest (modern)	Alor-Besar	Timor-Alor-Pantar	Alor						
+531	alor1249-besar	'hatib	priest (modern)	Alor-Besar	Timor-Alor-Pantar	Alor						
+532	alor1249-besar	ma'naka	sorcerer; witch	Alor-Besar	Timor-Alor-Pantar	Alor						
+533	alor1249-besar	'suna 'kara	initiation ceremony	Alor-Besar	Timor-Alor-Pantar	Alor						
+534	alor1249-besar	'tutu	sermon	Alor-Besar	Timor-Alor-Pantar	Alor						
+535	alor1249-besar	'kaulu	sacrifice	Alor-Besar	Timor-Alor-Pantar	Alor	pate kaulu 'pay a sacrifice' 					
+536	alor1249-besar	'lalaŋ	clan	Alor-Besar	Timor-Alor-Pantar	Alor						
+537	alor1249-besar	ka'pala 'lalaŋ	chieftain	Alor-Besar	Timor-Alor-Pantar	Alor						
+538	alor1249-besar	'gahiŋ	to rule or govern	Alor-Besar	Timor-Alor-Pantar	Alor						
+539	alor1249-besar	'bela 'badʒa	treaty	Alor-Besar	Timor-Alor-Pantar	Alor						
+540	alor1249-besar	'hadʒa 'nika	marriage	Alor-Besar	Timor-Alor-Pantar	Alor						
+541	alor1249-besar	ba'rːe-ba'rːe	friend	Alor-Besar	Timor-Alor-Pantar	Alor						
+542	alor1249-besar	'onɔŋ 'datɛ	enemy	Alor-Besar	Timor-Alor-Pantar	Alor	literally means 'inside broken' 					
+543	alor1249-besar	'ata 'beiŋ	king; ruler	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' person big'					
+544	alor1249-besar	'ata mata'puna	stranger	Alor-Besar	Timor-Alor-Pantar	Alor						
+545	alor1249-besar	pa'mada	to invite	Alor-Besar	Timor-Alor-Pantar	Alor						
+546	alor1249-besar	'gahĩŋ	to command or order	Alor-Besar	Timor-Alor-Pantar	Alor						
+547	alor1249-besar	'hodaŋ 'balɛ	dowry	Alor-Besar	Timor-Alor-Pantar	Alor						
+548	alor1249-besar	ka'pala	the judge	Alor-Besar	Timor-Alor-Pantar	Alor						
+549	alor1249-besar	'turuŋ	accuse	Alor-Besar	Timor-Alor-Pantar	Alor						
+550	alor1249-besar	'hala	guilty	Alor-Besar	Timor-Alor-Pantar	Alor						
+551	alor1249-besar	'hala 'lahɛ	innocent	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' not wrong'					
+552	alor1249-besar	'bunɔ	the murder	Alor-Besar	Timor-Alor-Pantar	Alor						
+553	alor1249-besar	'buha ma'leku	the adultery	Alor-Besar	Timor-Alor-Pantar	Alor						
+554	alor1249-besar	'pate 'hala	penalty	Alor-Besar	Timor-Alor-Pantar	Alor	literally 'pay the penalty'					
+555	alor1249-besar	'pukɔ	fishnet	Alor-Besar	Timor-Alor-Pantar	Alor						
+556	alor1249-besar	'ampɔ	to surrender	Alor-Besar	Timor-Alor-Pantar	Alor						
+557	alor1249-besar	'dʒaga	to defend	Alor-Besar	Timor-Alor-Pantar	Alor						
+558	alor1249-besar	pə'raŋ	the war or battle	Alor-Besar	Timor-Alor-Pantar	Alor						
+559	alor1249-besar	mi'sikiŋ	poor	Alor-Besar	Timor-Alor-Pantar	Alor						
+560	alor1249-besar	ka'fasaŋ	rich	Alor-Besar	Timor-Alor-Pantar	Alor						
+561	alor1249-besar	'sɛŋ	money	Alor-Besar	Timor-Alor-Pantar	Alor						
+562	alor1249-besar	'fu	market	Alor-Besar	Timor-Alor-Pantar	Alor						
+563	alor1249-besar	'feliŋ	price	Alor-Besar	Timor-Alor-Pantar	Alor						
+564	alor1249-besar	'go 'apa	to own	Alor-Besar	Timor-Alor-Pantar	Alor	literally ' my possession' 					
+565	alor1249-besar	'bihɛ	to borrow	Alor-Besar	Timor-Alor-Pantar	Alor						
+566	alor1249-besar	'papa 'lɛlɛ	to trade or barter	Alor-Besar	Timor-Alor-Pantar	Alor						
+567	alor1249-besar	'feliŋ	expensive	Alor-Besar	Timor-Alor-Pantar	Alor						
+568	alor1249-besar	'mura	cheap	Alor-Besar	Timor-Alor-Pantar	Alor						
+569	alor1249-besar	'paha	to grasp	Alor-Besar	Timor-Alor-Pantar	Alor						
+570	alor1249-besar	la'pasa	to let go	Alor-Besar	Timor-Alor-Pantar	Alor						
+571	alor1249-besar	'nakiŋ	to promise	Alor-Besar	Timor-Alor-Pantar	Alor						
+572	alor1249-besar	'kirɛ	word	Alor-Besar	Timor-Alor-Pantar	Alor						
+573	alor1249-besar	'taliŋ	to answer	Alor-Besar	Timor-Alor-Pantar	Alor						
+574	alor1249-besar	'tobaŋ	to refuse	Alor-Besar	Timor-Alor-Pantar	Alor						
+575	alor1249-besar	ta'maga	to whisper	Alor-Besar	Timor-Alor-Pantar	Alor						
+576	alor1249-besar	man'nehe	to be silent	Alor-Besar	Timor-Alor-Pantar	Alor						
+577	alor1249-besar	'tutu	to tell	Alor-Besar	Timor-Alor-Pantar	Alor						
+578	alor1249-besar	'adʒar	to learn	Alor-Besar	Timor-Alor-Pantar	Alor						
+579	alor1249-besar	'adʒara	to teach	Alor-Besar	Timor-Alor-Pantar	Alor						
+580	alor1249-besar	'lohi	easy	Alor-Besar	Timor-Alor-Pantar	Alor						
+581	alor1249-besar	ka'raki	difficult	Alor-Besar	Timor-Alor-Pantar	Alor						
+582	alor1249-besar	'amuŋ 'neka 	finished	Alor-Besar	Timor-Alor-Pantar	Alor	literally means ' already empty' 					
+583	alor1249-besar	'hamuŋ	now	Alor-Besar	Timor-Alor-Pantar	Alor						
+584	alor1249-besar	'dane	hour	Alor-Besar	Timor-Alor-Pantar	Alor						
+585	alor1249-besar	'hama	same	Alor-Besar	Timor-Alor-Pantar	Alor						
+586	alor1249-besar	'lika	oven/cooking place	Alor-Besar	Timor-Alor-Pantar	Alor						
+587	alor1249-besar	'puhuŋ	flower (in e.g. mangga tree)	Alor-Besar	Timor-Alor-Pantar	Alor						
+588	alor1249-besar	u'rakaŋ	vein	Alor-Besar	Timor-Alor-Pantar	Alor						
+589	alor1249-besar	('kadʒo) bəla'hakaŋ	long (stick)	Alor-Besar	Timor-Alor-Pantar	Alor						
+590	alor1249-besar	ba'lɔlɔ	tall (person)	Alor-Besar	Timor-Alor-Pantar	Alor						
+591	alor1249-besar	('kadʒo) 'maku	short (stick)	Alor-Besar	Timor-Alor-Pantar	Alor						
+592	alor1249-besar	'kipɛ	narrow (road)	Alor-Besar	Timor-Alor-Pantar	Alor						
+593	alor1249-besar	n/a	inhabited land	Alor-Besar	Timor-Alor-Pantar	Alor						
+594	alor1249-besar	n/a	roof rafter	Alor-Besar	Timor-Alor-Pantar	Alor						
+595	alor1249-besar	'gɛna	to search/hunt for	Alor-Besar	Timor-Alor-Pantar	Alor						
+596	alor1249-besar	'tɔbɔ 'tae	to crouch	Alor-Besar	Timor-Alor-Pantar	Alor						
+597	alor1249-besar	'tutɛ	to chase away; to expel	Alor-Besar	Timor-Alor-Pantar	Alor						
