@@ -34,7 +34,7 @@ for k in wl:
     stop = False
     word = wl[k, 'value'].replace('\t', ' ')
     # delete condition, potentially expand
-    if word in ['', '(no data)', '-', '?', '‘', '??']:
+    if word in ['', '-', '?', '‘', '??'] or 'no data' in word:
         stop = True
         deletes += [k]
     # check for leading comma, an annoying error
@@ -92,12 +92,15 @@ lex.output('tsv', filename='tap-cognates', ignore='all', prettify=False)
 
 import pandas
 cognates = pandas.read_csv('tap-cognates.tsv', sep='\t')
-cognates["LONG_COGID"] = [
-    (row["AUTO_COGID"] 
-     if (pandas.isnull(row["COGNATE_SET"]) or row["COGNATE_SET"]=="nan") else
-     "{:}-{:}".format(row["CONCEPT_ID"], row["COGNATE_SET"]))
-    for i, row in cognates.iterrows()
-    ]
+cognates["LONG_COGID"] = None
+for i, row in cognates.iterrows():
+     if (pandas.isnull(row["COGNATE_SET"]) or row["COGNATE_SET"]=="nan"):
+         cogid = row["AUTO_COGID"]
+         representative = (cognates["AUTO_COGID"] == cogid).argmin()
+         cognates.set_value(i, "LONG_COGID", cognates["COGNATE_SET"][representative])
+     else:
+         cognates.set_value(i, "LONG_COGID", row["COGNATE_SET"])
+         
 
 short = {"Austronesian": "AN",
          "Timor-Alor-Pantar": "TAP"}
@@ -121,5 +124,17 @@ cognates.to_csv("tap-cognates-merged.tsv",
 # align data
 alm = Alignments('tap-cognates-merged.tsv', ref='COGID', segments='segments',
         transcription='value', alignment='segments')
-alm.align(override=True, alignment='alignment')
+#alm.align(override=True, alignment='AUTO_ALIGNMENT')
 alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
+
+alignments = pandas.read_csv('tap-aligned.tsv', sep='\t')
+for cogid, cognate_class in alignments.groupby("COGID"):
+    is_aligned = {None if pandas.isnull(x) else len(x.split()) for x in cognate_class['ALIGNMENT']}
+    if len(is_aligned) != 1:
+        # Alignment lengths don't match, don't trust the alignment
+        for i in cognate_class.index:
+            alignments.set_value(i, 'ALIGNMENT', alignments.loc[i].get('AUTO_ALIGNMENT', '-'))
+
+alignments.to_csv("tap-alignments-merged.tsv",
+                  index=False,
+                  sep="\t")
