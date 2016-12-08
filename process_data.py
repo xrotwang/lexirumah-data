@@ -11,6 +11,7 @@ import os
 import argparse
 import json
 import pandas
+import sys
 
 try:
     from nameparser import HumanName
@@ -199,7 +200,8 @@ def import_contribution_metadata(
         # The idea is the filename without extension
         name=md.get("name", default_name),
         # The name is the filename with extension
-        references_text=str(md["source"] + md["references"]),
+        references_text=str(md.get("source", []) +
+                            md.get("references", [])),
         # We expect "source" to stand for primary linguistic data
         # (audio files etc.), and "references" to point to
         # bibliographic data. TODO: But that's a thing we will sort
@@ -227,8 +229,8 @@ def import_contribution_metadata(
     return contrib
 
 
-def get_language(language, language_name=None, languages):
-    """Try to find a language in a dataframe of languages
+def get_language(language, language_name, languages):
+    """Try to find a language in a dataframe of languages.
 
     Try to look up language (by ID) or language_name (by name) in the
     DataFrame languages. Raise ValueError if the ID is invalid and the
@@ -247,35 +249,39 @@ def get_language(language, language_name=None, languages):
                 language = get_entries.argmax()
             else:
                 raise KeyError
+    return language
 
 
 def get_feature(concept_id, english, features):
-    """Look concept up in dataframe of concepts
+    """Look concept up in dataframe of concepts.
     
     Try to find the described concept in our concepticon, first by id,
     then by English gloss.
 
     """
+    # Transform the concept_id into an integer
     if type(concept_id) == float and not pandas.isnull(concept_id):
         concept_id = int(concept_id)
-    if pandas.isnull(concept_id) or concept_id not in concepticon.index:
-        if pandas.isnull(english) or english not in concepticon["English"].values:
+
+    if pandas.isnull(concept_id) or concept_id not in features.index:
+        # Lookup by ID failed
+        if pandas.isnull(english) or english not in features["English"].values:
             to_english = "to {:}".format(english)
-            if to_english not in concepticon["English"].values:
+            if to_english not in features["English"].values:
                 report(
                     "Concept_Id not set, and unable to reconstruct",
                     concept_id,
                     english)
-                for c_column in concepticon.columns:
+                for c_column in features.columns:
                     new_concept.setdefault(c_column, None)
-                concepticon.loc[concepticon.index.max() + 1] = new_concept
-                concept_id = (concepticon["English"] == to_english).argmax()
+                features.loc[features.index.max() + 1] = new_concept
+                concept_id = (features["English"] == to_english).argmax()
                 print("Concept_Id {:s} created in {:d}".format(english, concept_id))
             else:
-                concept_id = (concepticon["English"] == to_english).argmax()
+                concept_id = (features["English"] == to_english).argmax()
                 print("Concept_Id {:s} found in {:d}".format(english, concept_id))
         else:
-            concept_id = (concepticon["English"] == english).argmax()
+            concept_id = (features["English"] == english).argmax()
             print("Concept_Id {:s} found in {:d}".format(en, concept_id))
         data.set_value(i, "Feature_ID", concept_id)
     return concept_id
@@ -293,7 +299,10 @@ def import_contribution(
         concepticon,
         languages,
         contributors={},
-        trust=[]):
+        trust=[],
+        valuesets={},
+        values={},
+        cognatesets = {}):
     """Load a word list from a file.
 
     Import a contribution (tsv dataset and its metadata file)
@@ -341,7 +350,8 @@ def import_contribution(
         # Try to find the language in the list.
         try:
             language = get_language(
-                row["Language_ID"], row.get("Language name (-dialect)"))
+                row["Language_ID"], row.get("Language name (-dialect)"),
+                languages)
         except ValueError:
             report(
                 "No language given!",
@@ -354,7 +364,8 @@ def import_contribution(
                 "Language in row {:d} had invalid id {:}.".format(
                     -1, language),
                 "The name {:s} could not be found either.".format(
-                    language_name), "Ignored.")
+                    row.get("Language name (-dialect)")), "Ignored.")
+            continue
         # Fix an unset ID.
         if pandas.isnull(row["Language_ID"]):
             data.set_value(i, "Language_ID", language)
@@ -365,7 +376,8 @@ def import_contribution(
 
         # Try to find the feature in the list.
         feature = get_feature(
-            row["Feature_ID"], row["English"].strip().lower())
+            row["Feature_ID"], row["English"].strip().lower(),
+            concepticon)
         
         for column in copy_from_concepticon: 
             if row[column] != concepticon[column][feature]:
@@ -448,9 +460,6 @@ def import_contribution(
 
 
 def main():
-    valuesets = {}
-    values = {}
-    cognatesets = {}
     def import_cldf(srcdir, concepticon, languages, trust=[]):
         # loop over values
         # check if language needs to be inserted
@@ -482,7 +491,7 @@ def main():
                 encoding='utf-8')
 
 
-    def main(trust=[languages_path, concepticon_path]):
+    def db_main(trust=[languages_path, concepticon_path]):
         with open("metadata.json") as md:
             dataset_metadata = json.load(md)
         DBSession.add(
@@ -515,7 +524,6 @@ def main():
                 na_rep="",
                 encoding='utf-8')
 
-    import sys
     import lexibank
     sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(lexibank.__file__)), "development.ini")]
 
@@ -523,7 +531,7 @@ def main():
             from clld.scripts.util import initializedb
             from clld.db.util import compute_language_sources
             try:
-                initializedb(create=main, prime_cache=lambda x: None)
+                initializedb(create=db_main, prime_cache=lambda x: None)
             except SystemExit:
                 print("done")
     else:
