@@ -1,3 +1,5 @@
+import pandas
+
 from lingpy import Wordlist, LexStat, Alignments, ipa2tokens
 from lingpy.sequence.sound_classes import clean_string
 from util import load_dataset
@@ -90,8 +92,8 @@ print('[i] loaded lexstat')
 lex.cluster(method='sca', threshold=0.45, ref='auto_cogid')
 lex.output('tsv', filename='tap-cognates', ignore='all', prettify=False)
 
-import pandas
-cognates = pandas.read_csv('tap-cognates.tsv', sep='\t')
+cognates = pandas.read_csv(
+    'tap-cognates.tsv', sep='\t', keep_default_na=False, na_values=[""])
 cognates["LONG_COGID"] = None
 for i, row in cognates.iterrows():
      if (pandas.isnull(row["COGNATE_SET"]) or row["COGNATE_SET"]=="nan"):
@@ -109,9 +111,11 @@ cognates["DOCULECT"] = [
         "X" if pandas.isnull(region) else region,
         "X" if pandas.isnull(family) else short[family],
         "X" if pandas.isnull(lect) else lect)
-    for lect, family, region in zip(cognates["DOCULECT"], cognates["FAMILY"], cognates["REGION"])]
-cognates.sort_values(by="DOCULECT",
-                     inplace=True)
+    for lect, family, region in zip(
+            cognates["DOCULECT"], cognates["FAMILY"], cognates["REGION"])]
+
+cognates.sort_values(by="DOCULECT", inplace=True)
+
 COG_IDs = []
 for i in cognates["LONG_COGID"]:
     if i not in COG_IDs:
@@ -119,12 +123,13 @@ for i in cognates["LONG_COGID"]:
 cognates["COGID"] = [COG_IDs.index(x) for x in cognates["LONG_COGID"]]
 cognates.to_csv("tap-cognates-merged.tsv",
                 index=False,
+                na_rep="",
                 sep="\t")
 
 # align data
 alm = Alignments('tap-cognates-merged.tsv', ref='COGID', segments='segments',
         transcription='value', alignment='segments')
-#alm.align(override=True, alignment='AUTO_ALIGNMENT')
+alm.align(override=True, alignment='AUTO_ALIGNMENT')
 alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
 
 alignments = pandas.read_csv('tap-aligned.tsv', sep='\t')
