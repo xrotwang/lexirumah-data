@@ -272,6 +272,7 @@ def get_feature(concept_id, english, features):
                     "Concept_Id not set, and unable to reconstruct",
                     concept_id,
                     english)
+                new_concept = {}
                 for c_column in features.columns:
                     new_concept.setdefault(c_column, None)
                 features.loc[features.index.max() + 1] = new_concept
@@ -279,11 +280,8 @@ def get_feature(concept_id, english, features):
                 print("Concept_Id {:s} created in {:d}".format(english, concept_id))
             else:
                 concept_id = (features["English"] == to_english).argmax()
-                print("Concept_Id {:s} found in {:d}".format(english, concept_id))
         else:
             concept_id = (features["English"] == english).argmax()
-            print("Concept_Id {:s} found in {:d}".format(en, concept_id))
-        data.set_value(i, "Feature_ID", concept_id)
     return concept_id
 
 
@@ -302,7 +300,7 @@ def import_contribution(
         trust=[],
         valuesets={},
         values={},
-        cognatesets = {}):
+        cognatesets={}):
     """Load a word list from a file.
 
     Import a contribution (tsv dataset and its metadata file)
@@ -347,7 +345,8 @@ def import_contribution(
 
     # Import all the rows.
     for i, row in data.iterrows():
-        # Try to find the language in the list.
+        # Try to find the language in the list. If not found, log a
+        # message and take on the next row.
         try:
             language = get_language(
                 row["Language_ID"], row.get("Language name (-dialect)"),
@@ -366,34 +365,38 @@ def import_contribution(
                 "The name {:s} could not be found either.".format(
                     row.get("Language name (-dialect)")), "Ignored.")
             continue
-        # Fix an unset ID.
-        if pandas.isnull(row["Language_ID"]):
-            data.set_value(i, "Language_ID", language)
+        data.set_value(i, "Language_ID", language)
         # Copy redundant columns.
         for column in copy_from_languages:
             if row[column] != languages[column][language]:
                 data.set_value(i, column, languages[column][language])
 
-        # Try to find the feature in the list.
-        feature = get_feature(
-            row["Feature_ID"], row["English"].strip().lower(),
-            concepticon)
-        
-        for column in copy_from_concepticon: 
+        # Try to find the feature in the list. If not found, log a
+        # message and take on the next row.
+        try:
+            feature = get_feature(
+                row["Feature_ID"], row["English"].strip().lower(),
+                concepticon)
+        except ValueError:
+            continue
+        data.set_value(i, "Feature_ID", feature)
+        for column in copy_from_concepticon:
             if row[column] != concepticon[column][feature]:
                 data.set_value(i, column, concepticon[column][feature])
 
+        # Create the objects representing the form in the
+        # database. This is a value in a value set.
         value = row["Value"]
         if pandas.isnull(value):
             alignment = row["Alignment"]
             if pandas.isnull(alignment):
                 report("Value not given, and unable to reconstruct",
-                    value,
-                    alignment)
+                       value,
+                       alignment)
             else:
                 value = "".join(alignment.split())
 
-        vsid="{:s}-{:}".format(language, feature)
+        vsid = "{:s}-{:}".format(language, feature)
         if feature in valuesets:
             vs = valuesets[vsid]
         else:
@@ -413,7 +416,9 @@ def import_contribution(
         else:
             value = values[vid]
 
-        if row["Cognate Set"] and not pandas.isnull(row["Cognate Set"]) and row["Cognate Set"]!="nan":
+        if ((row["Cognate Set"] and
+             not pandas.isnull(row["Cognate Set"]) and
+             row["Cognate Set"] != "nan")):
             for cognate in [row["Cognate Set"]]:
                 if type(cognate) == float:
                     cognate = int(cognate)
@@ -430,7 +435,6 @@ def import_contribution(
                     CognatesetCounterpart(
                         cognateset=cognateset,
                         counterpart=value))
-
 
     if path not in trust:
         data.sort_values(by=["Feature_ID", "Family", "Region"], inplace=True)
@@ -459,71 +463,81 @@ def import_contribution(
     return data
 
 
+def import_cldf(srcdir, concepticon, languages, trust=[]):
+    """Import all data sets below a directory.
+
+    Recurse through `scrdir` and import every contribution
+    encountered.
+
+    """
+    all_data = pandas.DataFrame()
+    for dirpath, dnames, fnames in os.walk(srcdir):
+        for fname in fnames:
+            if os.path.splitext(fname)[1] in ['.tsv', '.csv']:
+                print("Importing {:s}…".format(os.path.join(dirpath, fname)))
+                data = import_contribution(
+                    os.path.join(dirpath, fname),
+                    concepticon,
+                    languages,
+                    trust=trust)
+                data["Source"] = os.path.join(dirpath, fname)
+                all_data = pandas.concat((all_data, data))
+                print("Import done.")
+    if "all_data.tsv" not in trust:
+        all_data.sort_values(
+            by=["Feature_ID",
+                "Family",
+                "Region",
+                "Language name (-dialect)"]).to_csv(
+                    "all_data.tsv",
+                    index=False,
+                    sep="\t",
+                    na_rep="",
+                    encoding='utf-8')
+    return all_data
+
+
+def db_main(trust=[languages_path, concepticon_path]):
+    """Build the database.
+
+    Prepare the database, construct a main contribution, then import
+    all data sets in "datasets/".
+
+    """
+    with open("metadata.json") as md:
+        dataset_metadata = json.load(md)
+    DBSession.add(
+        Dataset(
+            id=dataset_metadata["id"],
+            name=dataset_metadata["name"],
+            publisher_name=dataset_metadata["publisher_name"],
+            publisher_place=dataset_metadata["publisher_place"],
+            publisher_url=dataset_metadata["publisher_url"],
+            license=dataset_metadata["license"],
+            domain=dataset_metadata["domain"],
+            contact=dataset_metadata["contact"],
+            jsondata={
+                'license_icon': dataset_metadata["license_icon"],
+                'license_name': dataset_metadata["license_name"]}))
+
+    concepticon = import_concepticon()
+    languages = import_languages()
+    import_cldf("datasets", concepticon, languages, trust=trust)
+    if languages_path not in trust:
+        languages.to_csv(
+            languages_path,
+            sep='\t',
+            na_rep="",
+            encoding='utf-8')
+    if concepticon_path not in trust:
+        concepticon.to_csv(
+            concepticon_path,
+            sep='\t',
+            na_rep="",
+                encoding='utf-8')
+
+
 def main():
-    def import_cldf(srcdir, concepticon, languages, trust=[]):
-        # loop over values
-        # check if language needs to be inserted
-        # check if feature needs to be inserted
-        # add value if in domain
-        all_data = pandas.DataFrame()
-        for dirpath, dnames, fnames in os.walk(srcdir):
-            for fname in fnames:
-                if os.path.splitext(fname)[1] in ['.tsv', '.csv']:
-                    print("Importing {:s}…".format(os.path.join(dirpath, fname)))
-                    data = import_contribution(
-                        os.path.join(dirpath, fname),
-                        concepticon,
-                        languages,
-                        trust=trust)
-                    data["Source"] = os.path.join(dirpath, fname)
-                    all_data = pandas.concat((all_data, data))
-                    print("Import done.")
-        if not "all_data.tsv" in trust:
-            all_data.sort_values(by=["Feature_ID",
-                                    "Family",
-                                    "Region",
-                                    "Language name (-dialect)"
-            ]).to_csv(
-                "all_data.tsv",
-                index=False,
-                sep="\t",
-                na_rep="",
-                encoding='utf-8')
-
-
-    def db_main(trust=[languages_path, concepticon_path]):
-        with open("metadata.json") as md:
-            dataset_metadata = json.load(md)
-        DBSession.add(
-            Dataset(
-                id=dataset_metadata["id"],
-                name=dataset_metadata["name"],
-                publisher_name=dataset_metadata["publisher_name"],
-                publisher_place=dataset_metadata["publisher_place"],
-                publisher_url=dataset_metadata["publisher_url"],
-                license=dataset_metadata["license"],
-                domain=dataset_metadata["domain"],
-                contact=dataset_metadata["contact"],
-                jsondata={
-                    'license_icon': dataset_metadata["license_icon"],
-                    'license_name': dataset_metadata["license_name"]}))
-
-        concepticon = import_concepticon()
-        languages = import_languages()
-        import_cldf("datasets", concepticon, languages, trust=trust)
-        if languages_path not in trust:
-            languages.to_csv(
-                languages_path,
-                sep='\t',
-                na_rep="",
-                encoding='utf-8')
-        if concepticon_path not in trust:
-            concepticon.to_csv(
-                concepticon_path,
-                sep='\t',
-                na_rep="",
-                encoding='utf-8')
-
     import lexibank
     sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(lexibank.__file__)), "development.ini")]
 
