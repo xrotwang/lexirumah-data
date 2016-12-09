@@ -140,6 +140,8 @@ for cogid, cognate_class in alignments.groupby("COGID"):
         for i in cognate_class.index:
             alignments.set_value(i, 'ALIGNMENT', alignments.loc[i].get('AUTO_ALIGNMENT', '-'))
 
+alignments = alignments[~alignments["Language_ID"].str.endswith("-o")]
 alignments.to_csv("tap-alignments-merged.tsv",
                   index=False,
+                  na_rep="",
                   sep="\t")
