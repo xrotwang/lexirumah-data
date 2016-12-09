@@ -3,6 +3,9 @@ import pandas
 import difflib
 
 
+from process_data import write_normalized_data
+
+
 import argparse
 parser = argparse.ArgumentParser(
     description="Add or report cognate codings in word lists")
@@ -198,8 +201,4 @@ for i, line in cognates.iterrows():
 
 if args.save:
     for file, data in word_lists.items():
-        word_lists[file].to_csv(
-            file,
-            na_rep="",
-            sep="\t")
-
+        write_normalized_data(data, file)

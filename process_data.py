@@ -285,6 +285,39 @@ def get_feature(concept_id, english, features):
     return concept_id
 
 
+def write_normalized_data(data, path):
+    """Write the wordlist to file.
+
+    After sorting rows and columns, write the word list DataFrame
+    `data` to the file specified by `path`.  If path ends with `csv`,
+    write in CSV format, otherwise write in TSV format.
+
+    """
+    data = data.reset_index()
+    data.sort_values(by=["Feature_ID", "Family", "Region"], inplace=True)
+    first_columns = [
+        "Feature_ID",
+        "English",
+        "Language_ID",
+        "Language name (-dialect)",
+        "Family",
+        "Region",
+        "Value",
+        "Comment",
+        "Alignment",
+        "Cognate Set",
+        "Source"]
+    for column in data.columns:
+        if column not in first_columns + ['index']:
+            first_columns.append(column)
+    data = data[first_columns]
+    data.to_csv(
+        path,
+        index=False,
+        sep="," if path.endswith(".csv") else "\t",
+        na_rep="",
+        encoding='utf-8')
+
 
 copy_from_concepticon = ["English"]
 copy_from_languages = ["Family", "Region", "Language name (-dialect)"]
@@ -437,29 +470,7 @@ def import_contribution(
                         counterpart=value))
 
     if path not in trust:
-        data.sort_values(by=["Feature_ID", "Family", "Region"], inplace=True)
-        first_columns = [
-            "Feature_ID",
-            "English",
-            "Language_ID",
-            "Language name (-dialect)",
-            "Family",
-            "Region",
-            "Value",
-            "Comment",
-            "Alignment",
-            "Cognate Set",
-            "Source"]
-        for column in data.columns:
-            if column not in first_columns:
-                first_columns.append(column)
-        data = data[first_columns]
-        data.to_csv(
-            path,
-            index=False,
-            sep="," if path.endswith(".csv") else "\t",
-            na_rep="",
-            encoding='utf-8')
+        write_normalized_data(data, path)
     return data
 
 
