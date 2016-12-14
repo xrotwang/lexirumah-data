@@ -22,8 +22,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 20.0	earthquake	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	edɔ	nan	e d ɔ -	('earthquake', 'cent2245-hewa', 'edɔ')	nan		
 21.0	fog	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	apun	also 'deʋ'	a p u n - - -	('fog', 'cent2245-hewa', 'apun')	nan		
 22.0	river; stream	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	napun	nan	n a p u n	('river; stream', 'cent2245-hewa', 'napun')	nan		
-23.0	ice	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
-24.0	snow	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 25.0	lake	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	se	This is probably a German loan; there are no lakes in the area.	s e	('lake', 'cent2245-hewa', 'se')	nan		
 26.0	mountain	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ilin	nan	i l i n	('mountain', 'fata1247', 'ili')	nan		
 27.0	hill; ridge	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	sot	nan	s o t	('hill; ridge', 'cent2245-hewa', 'sot')	nan		
@@ -42,7 +40,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 38.0	foam	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʋuran	nan	ʋ u r - - a n -	('foam', 'cent2245-hewa', 'ʋuran')	nan		
 39.0	forest	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	heri unen	/heri unen/: forest in general; /tuʔan/: ʋery old forest	h e r i _ u n e n	('forest', 'fata1247', 'irin')	nan		
 39.0	forest	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tuʔan	/heri unen/: forest in general; /tuʔan/: ʋery old forest	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan		
-40.0	field	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	0	nan	0	('field', 'cent2245-hewa', '0')	nan		
 41.0	island	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pulau	nan	p u l a u	('island', 'cent2245-hewa', 'pulau')	nan		
 42.0	rice field	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	uma	nan	u m a	('rice field', 'cent2245-hewa', 'uma')	nan		
 43.0	garden	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	uma	nan	u m a -	('garden', 'buna1278-suai', 'maɁ')	nan		
@@ -120,24 +117,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 106.0	sweet potato	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔohu jaʋɑn	nan	nan	('sweet potato', 'cent2245-hewa', 'ʔohu jaʋɑn')	nan		
 107.0	cassava	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔohu bolaʔ	nan	ʔ o h u _ b o l a ʔ	('cassava', 'cent2245-hewa', 'ʔohu bolaʔ')	nan		
 108.0	taro	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔohu mutiʔ	nan	ʔ o h u _ m u t i ʔ	('taro', 'cent2245-hewa', 'ʔohu mutiʔ')	nan		
-109.0	sago	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
-110.0	millet	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 111.0	sugarcane	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	təʋu	nan	t ə ʋ u -	('sugarcane', 'cent2245-hewa', 'təʋu')	nan		
 112.0	corn; maize	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʋatar	nan	ʋ a t a r	('corn; maize', 'abui1241-takal', 'fä:t')	nan		
 113.0	cooked corn	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʋatɑr bəŋɛŋ	nan	ʋ a t ɑ r _ b ə - ŋ ɛ - ŋ	"('cooked corn', 'pura1258', ""batar 'api"")"	nan		
 114.0	coconut	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	niur	nan	n i u r	('coconut', 'cent2245-hewa', 'niur')	nan		
-115.0	gwang	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 116.0	lontar palm	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	koli	nan	- - - k - o l i -	"('lontar palm', 'abui1241-takal', ""äj.'qɔl"")"	nan		
 117.0	sugar palm	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tuaʔ utan	nan	t u a ʔ _ u t a n	('sugar palm', 'cent2245-hewa', 'tuaʔ utan')	nan		
 118.0	marungga	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	motoŋ	nan	m o t o - - ŋ -	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	nan		
 119.0	gum tree; eucalyptus	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ai ipir	nan	a i _ i p i r	('gum tree; eucalyptus', 'cent2245-hewa', 'ai ipir')	nan		
-120.0	bamboo	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		"No generic word for bambooː
-pəri
-pətun (biɡ kind of bamboo)
-sidu
-tewu
-wulu (small kind of bamboo)
-aur (thin kind of bamboo)"	nan	nan	nan		
+120.0	bamboo	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pəri	"No generic word for bamboo."
+120.0	bamboo	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pətun	"(biɡ kind of bamboo) No generic word for bamboo."
+120.0	bamboo	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	sidu	"No generic word for bamboo."
+120.0	bamboo	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tewu	"No generic word for bamboo."
+120.0	bamboo	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wulu	"(small kind of bamboo) No generic word for bamboo."
+120.0	bamboo	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	aur	"(thin kind of bamboo) No generic word for bamboo."
 121.0	banana	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	muʔu	nan	nan	('banana', 'atim1239', 'mosa')	nan		
 122.0	mango	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pau	nan	p a - u -	('mango', 'pura1258', 'viat, biat')	nan		
 123.0	papaya	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔai dʒaʋan (ʋuan)	nan	ʔ a i _ dʒ a ʋ a n	('papaya', 'cent2245-hewa', 'ʔai dʒaʋan (ʋuan)')	nan		
@@ -158,10 +151,8 @@ aur (thin kind of bamboo)"	nan	nan	nan
 138.0	heart	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	jantuŋ	nan	j a n t u ŋ	('heart', 'cent2245-hewa', 'jantuŋ')	nan		
 139.0	liver	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʋaten	nan	ʋ a t e n	"('liver', 'alor1247-baran', ""'hati"")"	nan		
 140.0	kidney	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ginjal	nan	g i n j a l	('kidney', 'cent2245-hewa', 'ginjal')	nan		
-141.0	guts	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tain ʋaten	"intestines; tain = intestine
-vaten = liver"	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ 'ɔnɔŋ"")"	nan		
+141.0	guts	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tain ʋaten	"intestines; tain = intestine / vaten = liver"	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ 'ɔnɔŋ"")"	nan		
 142.0	excrement	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	taʔi	nan	t a ʔ i	('excrement', 'abui1241-takal', 'täɁi')	nan		
-143.0	lungs	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	0	nan	0	('lungs', 'cent2245-hewa', '0')	nan		
 144.0	stomach; belly	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dula	(belly)	d u l a -	('stomach; belly', 'cent2245-hewa', 'dula')	nan		
 145.0	head	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	loʔen	nan	l o ʔ e n	('head', 'cent2245-hewa', 'loʔen')	nan		
 146.0	hair	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	loʔe	/vulu/: feather, animal hair, body hair	l o ʔ e -	('hair', 'fata1247', 'caɁu')	nan		
@@ -215,10 +206,8 @@ vaten = liver"	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ 'ɔnɔ�
 190.0	person	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ata	nan	- a t a	"('person', 'alor1247-baran', ""'ʔata"")"	nan		
 190.0	person	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	biʔan	nan	b i ʔ a n	('person', 'cent2245-hewa', 'biʔan')	nan		
 191.0	name	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	naran	nan	n a r a n	"('name', 'alor1247-baran', ""'naraŋ"")"	nan		
-192.0	child	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dediʔ	"/me/ daughter or son;
-/dediʔ/ child in terms of age"	nan	('child', 'cent2245-hewa', 'dediʔ')	nan		
-192.0	child	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	me	"/me/ daughter or son;
-/dediʔ/ child in terms of age"	- - m e - -	"('child', 'abui1241-petle', ""'mo.ki"")"	nan		
+192.0	child	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dediʔ	"/me/ daughter or son; /dediʔ/ child in terms of age"	nan	('child', 'cent2245-hewa', 'dediʔ')	nan		
+192.0	child	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	me	"/me/ daughter or son; /dediʔ/ child in terms of age"	- - m e - -	"('child', 'abui1241-petle', ""'mo.ki"")"	nan		
 193.0	man	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	laʔit	man/male	l a ʔ i t	('man', 'cent2245-hewa', 'laʔit')	nan		
 194.0	woman	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	duʔa	woman/female	d u ʔ a	('woman', 'cent2245-hewa', 'duʔa')	nan		
 195.0	husband	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	laʔi	nan	- - - - l a ʔ i -	"('husband', 'alor1247-baran', ""ka'lake"")"	nan		
@@ -230,10 +219,8 @@ vaten = liver"	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ 'ɔnɔ�
 200.0	younger sibling	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʋari	nan	nan	('younger sibling', 'cent2245-hewa', 'ʋari')	nan		
 201.0	bride price	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	baha	baha = belis consisting of elephant ivory	b a h a	('bride price', 'cent2245-hewa', 'baha')	nan		
 201.0	bride price	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	belis	nan	nan	('bride price', 'abui1241-takal', 'he̞̞.be̞̞l')	nan		
-202.0	slave	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 203.0	1sg	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	aʔu	nan	nan	('1sg', 'cent2245-hewa', 'aʔu')	nan		
 204.0	2sg (informal)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔau	nan	- ʔ a - - u - - - - -	('2sg (informal)', 'cent2245-hewa', 'ʔau')	nan		
-205.0	2sg (polite)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 206.0	3sg	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	nimu	nan	n i m u - - - - -	('3sg', 'pura1258', 'iŋ')	nan		
 207.0	1pl excl	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔami	nan	ʔ a m i	('1pl excl', 'cent2245-hewa', 'ʔami')	nan		
 208.0	1pl incl	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔita	nan	- ʔ i t a - - - - - -	('1pl incl', 'cent2245-hewa', 'ʔita')	nan		
@@ -283,10 +270,8 @@ vaten = liver"	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ 'ɔnɔ�
 246.0	bat	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	niʔi	nan	- - n i ʔ i	('bat', 'cent2245-hewa', 'niʔi')	nan		
 247.0	flying fox; fruit bat	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	niʔi	nan	n i ʔ i	('flying fox; fruit bat', 'cent2245-hewa', 'niʔi')	nan		
 248.0	cuscus	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	behar	nan	- - b e h a r	('cuscus', 'cent2245-hewa', 'behar')	nan		
-249.0	tail	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	iʔur	"/iʔur/: tail of four legged animals;
-/kekor/: tail of two leɡɡed animals"	- i ʔ u r	('tail', 'cent2245-hewa', 'iʔur')	nan		
-249.0	tail	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kekor	"/iʔur/: tail of four legged animals;
-/kekor/: tail of two leɡɡed animals"	k e - - - k o r	('tail', 'cent2245-hewa', 'kekor')	nan		
+249.0	tail	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	iʔur	"/iʔur/: tail of four legged animals; /kekor/: tail of two leɡɡed animals"	- i ʔ u r	('tail', 'cent2245-hewa', 'iʔur')	nan		
+249.0	tail	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kekor	"/iʔur/: tail of four legged animals; /kekor/: tail of two leɡɡed animals"	k e - - - k o r	('tail', 'cent2245-hewa', 'kekor')	nan		
 250.0	fish	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	iʔan	nan	- i ʔ a n	('fish', 'cent2245-hewa', 'iʔan')	nan		
 251.0	shark	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	hiu	nan	h i u	('shark', 'cent2245-hewa', 'hiu')	nan		
 252.0	whale	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	iʔan paus	nan	i ʔ a n _ p a u s	('whale', 'cent2245-hewa', 'iʔan paus')	nan		
@@ -363,7 +348,6 @@ vaten = liver"	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ 'ɔnɔ�
 313.0	heavy	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	bərat	nan	nan	('heavy', 'cent2245-hewa', 'bərat')	nan		
 314.0	light (weight)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	heak	nan	h e a k	('light (weight)', 'cent2245-hewa', 'heak')	nan		
 315.0	straight	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	mudeŋ	nan	- m u d e - - ŋ -	"('straight', 'abui1241-takal', ""mu.'läŋ"")"	nan		
-316.0	wide	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		no general word for 'wide'	nan	nan	nan		
 317.0	narrow	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	təker	nan	t ə k e r	('narrow', 'cent2245-hewa', 'təker')	nan		
 318.0	correct	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dəmen	correct, true	d ə m e n	('correct', 'cent2245-hewa', 'dəmen')	nan		
 319.0	wrong	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	hala	nan	h a - - l a -	"('wrong', 'pura1258', ""a'hala"")"	nan		
@@ -415,8 +399,7 @@ vaten = liver"	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ 'ɔnɔ�
 359.0	to stand	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	əra	nan	nan	('to stand', 'cent2245-hewa', 'əra')	nan		
 360.0	to walk	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pano	1SG,1PL.IN,3PL: pano; all others: bano	nan	('to walk', 'cent2245-hewa', 'pano')	nan		
 361.0	to run	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	plari	nan	p - l a r i	"('to run', 'alor1247-baran', ""pa'laɛ"")"	nan		
-362.0	to go	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pano	"1SG,1PL.IN,3PL: pano; all others: bano
-In fixed expressions (non productively), there is also the motion verb nan which means 'go'"	p a n o -	('to go', 'cent2245-hewa', 'pano')	nan		
+362.0	to go	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pano	"1SG,1PL.IN,3PL: pano; all others: bano In fixed expressions (non productively), there is also the motion verb nan which means 'go'"	p a n o -	('to go', 'cent2245-hewa', 'pano')	nan		
 363.0	to swim	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	nani	nan	n a n - i	"('to swim', 'alor1247-baran', ""'naŋgɛ"")"	nan		
 364.0	to fly	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	horo	nan	- - h o r o	('to fly', 'cent2245-hewa', 'horo')	nan		
 365.0	to fall (from above)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	goru	/ɡoru/: to fall (non-humans, as a fruit)	g o r u -	('to fall (from above)', 'cent2245-hewa', 'goru')	nan		
@@ -427,12 +410,8 @@ In fixed expressions (non productively), there is also the motion verb nan which
 369.0	to eat	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʔa	1SG: ʔoa; 2SG: goa; 3SG: ga; 1PL.IN: ʔea; 1PL.EX: gea; 2PL: gea; 3PL: ʔa	ʔ a - -	('to eat', 'cent2245-hewa', 'ʔa')	nan		
 370.0	to cook	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	hunaʔ	/hunaʔ/ general term; if no general term then /pura/ boil food.	h u n a ʔ	('to cook', 'abui1241-petle', 'sen')	nan		
 370.0	to cook	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pura	/hunaʔ/ general term; if no general term then /pura/ boil food.	p u r a	('to cook', 'cent2245-hewa', 'pura')	nan		
-371.0	to wash	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	popo	"1SG,1PL.IN,3PL: popo; all others: bopo
-/popo/: washing cloths or face
-/puʔu/: washing hands or dishes"	p o p o	('to wash', 'alor1247-baran', 'bɛmɛ')	nan		
-371.0	to wash	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	puʔu	"1SG,1PL.IN,3PL: popo; all others: bopo
-/popo/: washing cloths or face
-/puʔu/: washing hands or dishes"	p - u ʔ u - -	('to wash', 'fata1247', 'pahalɛ')	nan		
+371.0	to wash	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	popo	"1SG,1PL.IN,3PL: popo; all others: bopo /popo/: washing cloths or face /puʔu/: washing hands or dishes"	p o p o	('to wash', 'alor1247-baran', 'bɛmɛ')	nan		
+371.0	to wash	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	puʔu	"1SG,1PL.IN,3PL: popo; all others: bopo /popo/: washing cloths or face /puʔu/: washing hands or dishes"	p - u ʔ u - -	('to wash', 'fata1247', 'pahalɛ')	nan		
 372.0	to sew	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	raʔit	to sew (clothing)	nan	('to sew', 'cent2245-hewa', 'raʔit')	nan		
 373.0	to live; be alive; living	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	moret	nan	m o - r e t	"('to live; be alive; living', 'alor1247-baran', ""'mɔri"")"	nan		
 374.0	to breathe	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	boʔ	nan	b o ʔ	('to breathe', 'cent2245-hewa', 'boʔ')	nan		
@@ -449,10 +428,8 @@ In fixed expressions (non productively), there is also the motion verb nan which
 384.0	to burn (clear land)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	holo	transitive	h o l o	('to burn (clear land)', 'cent2245-hewa', 'holo')	nan		
 385.0	to burn; to shine	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	baraʔ	not sure about the semantic difference between baraʔ and ladon	b a r a ʔ	('to burn; to shine', 'cent2245-hewa', 'baraʔ')	nan		
 386.0	to shine	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ladon	not sure about the semantic difference between baraʔ and ladon	- - l a d o n	('to shine', 'cent2245-hewa', 'ladon')	nan		
-387.0	to chew	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	maʔmaʔ	"/maʔmaʔ/ only for hard things (betel nut, meet, ...); for humans and animals, for humans one usually adds the verb for eat after mama 'chew';
-/ŋalet/ for animals only"	m a ʔ m a ʔ	('to chew', 'cent2245-hewa', 'maʔmaʔ')	nan		
-387.0	to chew	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ŋalet	"/maʔmaʔ/ only for hard things (betel nut, meet, ...); for humans and animals, for humans one usually adds the verb for eat after mama 'chew';
-/ŋalet/ for animals only"	ŋ a l e t	('to chew', 'cent2245-hewa', 'ŋalet')	nan		
+387.0	to chew	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	maʔmaʔ	"/maʔmaʔ/ only for hard things (betel nut, meet, ...); for humans and animals, for humans one usually adds the verb for eat after mama 'chew'; /ŋalet/ for animals only"	m a ʔ m a ʔ	('to chew', 'cent2245-hewa', 'maʔmaʔ')	nan		
+387.0	to chew	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ŋalet	"/maʔmaʔ/ only for hard things (betel nut, meet, ...); for humans and animals, for humans one usually adds the verb for eat after mama 'chew'; /ŋalet/ for animals only"	ŋ a l e t	('to chew', 'cent2245-hewa', 'ŋalet')	nan		
 388.0	to yawn	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	moaʔ	nan	m o a ʔ	('to yawn', 'cent2245-hewa', 'moaʔ')	nan		
 389.0	to suck	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pləmet	nan	p l ə m e t	('to suck', 'cent2245-hewa', 'pləmet')	nan		
 390.0	to blow	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	plupi	to blow (a. of the wind, b. with the mouth).	p l u p i - - - - - - -	"('to blow', 'alor1247-baran', ""'pui"")"	nan		
@@ -485,7 +462,6 @@ In fixed expressions (non productively), there is also the motion verb nan which
 415.0	to bury	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ləra	nan	l ə r a	('to bury', 'cent2245-hewa', 'ləra')	nan		
 416.0	to flow	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ba	nan	nan	('to flow', 'cent2245-hewa', 'ba')	nan		
 417.0	to float	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	bau lele	nan	b a - u - _ l e l e	('to float', 'cent2245-hewa', 'bau lele')	nan		
-418.0	to freeze	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 419.0	to hold	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pligo	to hold (in the fist)	p l i g o	('to hold', 'cent2245-hewa', 'pligo')	nan		
 420.0	to tie	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	mataʔ	to tie up, fasten	m a t a ʔ	('to tie', 'cent2245-hewa', 'mataʔ')	nan		
 421.0	to play	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ləbe	nan	l ə b e - -	('to play', 'cent2245-hewa', 'ləbe')	nan		
@@ -578,8 +554,6 @@ In fixed expressions (non productively), there is also the motion verb nan which
 502.0	ridge(pole); peak; tip	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	puʋun	nan	p u ʋ u n	('ridge(pole); peak; tip', 'cent2245-hewa', 'puʋun')	nan		
 503.0	rack(above hearth/for storing food)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tepi	nan	t e p i	('rack(above hearth/for storing food)', 'pura1258', 'tetu')	nan		
 504.0	broom; sweep	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	oni	nan	o n i	('broom; sweep', 'cent2245-hewa', 'oni')	nan		
-505.0	ground for ritual activities and public meetings	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
-506.0	mound of stones for ritual activities	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 507.0	meeting house	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ləpo puʔan	lit. house base; pu?an is the base of a tree, the part just above where the roots start. Ai pu'an = base of a tree. Pati = roots.	l ə p o _ p u ʔ a n	('meeting house', 'cent2245-hewa', 'ləpo puʔan')	nan		
 508.0	floor	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	lante	nan	- - l a n t - e	"('floor', 'fata1247', ""su'mɛnti"")"	nan		
 509.0	wall	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	gəbi	nan	g ə - - b i -	"('wall', 'pura1258', ""ga'nebe"")"	nan		
@@ -608,13 +582,11 @@ In fixed expressions (non productively), there is also the motion verb nan which
 531.0	to curse	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pue	nan	p u - e	('to curse', 'cent2245-hewa', 'pue')	nan		
 532.0	priest (modern)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tuan	nan	t u a n -	"('priest (modern)', 'abui1241-takal', ""tu.'ɔŋ"")"	nan		
 533.0	sorcerer; witch	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ʋuʔɛ	nan	ʋ u ʔ ɛ	('sorcerer; witch', 'cent2245-hewa', 'ʋuʔɛ')	nan		
-534.0	initiation ceremony	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 535.0	sermon	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kotba	nan	k o t b a -	('sermon', 'cent2245-hewa', 'kotba')	nan		
 536.0	sacrifice	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	plaʔan	nan	- - - p l a ʔ a n	('sacrifice', 'cent2245-hewa', 'plaʔan')	nan		
 537.0	clan	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	suku	nan	s u k u	('clan', 'cent2245-hewa', 'suku')	nan		
 538.0	chieftain	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pala suku	nan	- - p a l a - _ s u k u	('chieftain', 'cent2245-hewa', 'pala suku')	nan		
 539.0	to rule or govern	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	plɛta	nan	p - l ɛ - t a - - - -	('to rule or govern', 'adan1251', 'parentapuin')	nan		
-540.0	treaty	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central		nan	nan	nan	nan		
 541.0	marriage	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	bɛrkɑt	nan	b ɛ r k ɑ t	('marriage', 'cent2245-hewa', 'bɛrkɑt')	nan		
 542.0	friend	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	deuŋ	nan	d e u ŋ	('friend', 'cent2245-hewa', 'deuŋ')	nan		
 543.0	enemy	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	musuh	nan	m u s u h	('enemy', 'cent2245-hewa', 'musuh')	nan		
