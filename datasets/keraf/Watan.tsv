@@ -8,8 +8,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13.0	cloud	lama1277-watan	Watan	Austronesian	8Lembata	kowa	nan	nan	('cloud', 'lama1277-baipi', 'kowa')	nan	136. Awan 
 14.0	wind	lama1277-watan	Watan	Austronesian	8Lembata	aŋi	nan	nan	('wind', 'lama1277-baipi', 'aŋi')	nan	140. Angin 
 15.0	rain	lama1277-watan	Watan	Austronesian	8Lembata	urã	nan	nan	nan	nan	138. Hujan 
-23.0	ice	lama1277-watan	Watan	Austronesian	8Lembata	—	nan	nan	('ice', 'lama1277-baipi', '—')	nan	124. Es 
-24.0	snow	lama1277-watan	Watan	Austronesian	8Lembata	—	nan	nan	('snow', 'lama1277-baipi', '—')	nan	139. Salju 
 25.0	lake	lama1277-watan	Watan	Austronesian	8Lembata	liwo	nan	nan	('lake', 'lama1277-baipi', 'suŋe')	nan	129. Danau 
 26.0	mountain	lama1277-watan	Watan	Austronesian	8Lembata	ile	nan	nan	('mountain', 'lama1277-baipi', 'ile')	nan	131. Gunung 
 32.0	stone	lama1277-watan	Watan	Austronesian	8Lembata	wato	nan	nan	('stone', 'keda1252', 'waʔ')	nan	120. Batu 
@@ -106,7 +104,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	lama1277-watan	Watan	Austronesian	8Lembata	petã	nan	nan	nan	nan	24. Pikir
 347.0	to know	lama1277-watan	Watan	Austronesian	8Lembata	koi	koi, moiː different inflections	nan	('to know', 'lama1277-baipi', 'koi')	nan	23. Tahu
 348.0	to say	lama1277-watan	Watan	Austronesian	8Lembata	marĩ	nan	nan	nan	nan	64. Bilang
-352.0	to lie down	lama1277-watan	Watan	Austronesian	8Lembata		empty	nan	nan	nan	50. Rebah
 353.0	to sleep	lama1277-watan	Watan	Austronesian	8Lembata	turu	nan	nan	('to sleep', 'lama1277-baipi', 'turu')	nan	49. Tidur
 358.0	to sit	lama1277-watan	Watan	Austronesian	8Lembata	tobo	nan	nan	('to sit', 'lama1277-baipi', 'tobo')	nan	51. Duduk
 359.0	to stand	lama1277-watan	Watan	Austronesian	8Lembata	deʔi	nan	nan	('to stand', 'lama1277-baipi', 'deʔi')	nan	52. Berdiri
@@ -144,7 +141,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 414.0	to dig	lama1277-watan	Watan	Austronesian	8Lembata	baʔe	nan	nan	('to dig', 'lama1277-bama', 'pehe')	nan	90. Menggali 
 416.0	to flow	lama1277-watan	Watan	Austronesian	8Lembata	ba’ʔ	nan	nan	('to flow', 'cent2245-hewa', 'ba')	nan	125. Mengalir 
 417.0	to float	lama1277-watan	Watan	Austronesian	8Lembata	bao	nan	nan	('to float', 'lama1277-baipi', 'bao')	nan	126. Terapung 
-418.0	to freeze	lama1277-watan	Watan	Austronesian	8Lembata	—	nan	nan	('to freeze', 'lama1277-baipi', '—')	nan	123. Membeku 
 419.0	to hold	lama1277-watan	Watan	Austronesian	8Lembata	pehẽ	nan	nan	nan	nan	89. Memegang
 420.0	to tie	lama1277-watan	Watan	Austronesian	8Lembata	wido	nan	nan	('to tie', 'lama1277-ileap', 'pui')	nan	66. Mengikat 
 421.0	to play	lama1277-watan	Watan	Austronesian	8Lembata	gəlaha	nan	nan	('to play', 'lama1277-baipi', 'gənəku')	nan	84. Bermain 
@@ -155,7 +151,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 442.0	to shoot	lama1277-watan	Watan	Austronesian	8Lembata	pasak	nan	nan	('to shoot', 'lama1277-baipi', 'pasak')	nan	70. Menembak 
 599.0	left	lama1277-watan	Watan	Austronesian	8Lembata	nekĩ	nan	nan	nan	nan	2. Kiri
 600.0	right	lama1277-watan	Watan	Austronesian	8Lembata	wanã	nan	nan	nan	nan	3. Kanan
-601.0	footprint	lama1277-watan	Watan	Austronesian	8Lembata	—	nan	nan	('footprint', 'lama1277-bama', 'makat')	nan	5. Kaki
 602.0	road	lama1277-watan	Watan	Austronesian	8Lembata	rarã	nan	nan	nan	nan	7. Jalan
 603.0	return	lama1277-watan	Watan	Austronesian	8Lembata	balok	nan	nan	('return', 'lama1277-baipi', 'gəwali')	nan	9. Balik
 604.0	dust	lama1277-watan	Watan	Austronesian	8Lembata	əmut	nan	nan	('dust', 'lama1277-baipi', 'kəawuk')	nan	15. Debu

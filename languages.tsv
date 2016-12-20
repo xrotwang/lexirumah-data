@@ -1,13 +1,11 @@
 Language ID	Family	Language name (-dialect)	Culture	ISO_code	Internal	Glottolog	Lat	Lon	Region	Description	Comments	languagename	db_Object
-<<<<<<< HEAD
 alor1247	Austronesian	Alorese-Alor 		aol 		alor1247	-8.2555	124.4082	3Alor, 1West			aloresealor	Alorese-Alor 
 alor1247-baran	Austronesian	Alorese-Baranusa		aol 			-8.3613	124.0939	1Pantar, 1West			aloresebaranusa	Alorese-Baranusa
 alor1247-kabir	Austronesian	Alorese-Kabir		aol 			-8.2563	124.2158	1Pantar, 1West			aloresekabir	Alorese-Kabir
 cent2245-hewa	Austronesian	Hewa	hewa		hwa		-8.6109	122.6989	5Flores, 2Central			hewa	Hewa
 idat1237	Austronesian	Idate		idt		idat1237	-8.7719	125.9262	4Timor, 2Central			idate	Idate
 keda1252	Austronesian	Kedang	keda		ked	keda1252	-8.2423	123.7491	8Lembata		Originally listed as Kedang3	kedang	Kedang
-keda1252-leuwa	Austronesian	Kedang-Léuwayang			ked	keda1252	-8	127	8Lembata		Word list by	kedangleuwayang	Kedang-Leuwayang
-kema1243	Austronesian	Kemak		kem		kema1243	-8.2543	124.8515	4Timor, 2Central			kemak	Kemak
+keda1252-leuwa	Austronesian	Kedang-Léuwayang			ked	keda1252	-8.0	127.0	8Lembata		Word list by	kedangleuwayang	Kedang-Léuwayang
 kema1243	Austronesian	Kemak		kem		kema1243	-8.9729	122.074	4Timor, 2Central			kemak	Kemak
 laka1255	Austronesian	Lakalei 		lka		laka1255	-8.7719	125.9262	4Timor, 2Central			lakalei	Lakalei 
 adon1237	Austronesian	Lamaholot-Adonara	adon		lmh_ad	adon1237	-8.3757	122.375	7Adonara			lamaholotadonara	Lamaholot-Adonara
@@ -53,7 +51,7 @@ lamaholot-solor	Austronesian	Lamaholot-Solor		slp			-8.2622	120.705	6Solor		Lama
 sout2896-kalik	Austronesian	Lembata-Kalikasa				sout2896	-8.6237	122.2084	8Lembata		Coordinates taken from village of Kalikasa	lembatakalikasa	Lembata-Kalikasa
 sout2896-lerek	Austronesian	Lerek Lamaholot				sout2896	-8.6237	122.2084	8Lembata		Lerek village on Lembata, according to OSM	lereklamaholot	Lerek Lamaholot
 levu1239	Austronesian	levu	clem		lh  		-8.4723	124.361	8Lembata			lamaholotcentrallembata	levu
-lewo1244	Austronesian	Lewotobi			lewo	lewo1244	-8	127	5Flores, 1East	Language referred to in typological questionnaire	added by Gereon	lewotobi	
+lewo1244	Austronesian	Lewotobi			lewo	lewo1244	-8.0	127.0	5Flores, 1East	Language referred to in typological questionnaire	added by Gereon	lewotobi	Lewotobi
 mamb1306	Austronesian	Mambai		mgm		mamb1306	-8.9918	125.072	4Timor, 2Central		Mambae: mamb1306	mambai	Mambai
 p-aust1307-abvd	Austronesian	proto-AN-ABVD				aust1307					Proto-Austronesian reconstruction from the Austronesian Basic Vocabulary Database	protoan	proto-AN-ABVD
 p-aust1307-acd	Austronesian	proto-AN-ACD				aust1307					Proto-Austronesian reconstruction from the Comparative Austronesian Dictionary	protoan	proto-AN-ACD
@@ -77,7 +75,7 @@ abui1241-takal	Timor-Alor-Pantar	Abui-Takalelang	abui	abz		abui1241	-8.1887	126.
 abui1241-takal-o	Timor-Alor-Pantar	Abui-Takalelang (Orthographic)		abz		abui1241	-8.1887	126.264	3Alor, 2Central			abuitakalelangorthographic	Abui-Takalelang (Orthographic)
 adan1251	Timor-Alor-Pantar	Adang		adn		adan1251	-8.2109	124.272	3Alor, 1West			adang	Adang
 adan1251-lawah	Timor-Alor-Pantar	Adang-Lawahing		adn		adan1251	-8.2109	124.272	3Alor, 1West			adanglawahing	Adang-Lawahing
-alor1249-besar	Timor-Alor-Pantar	Alor-Besar					-8	124	Alor			alorbesar	Alor-Besar
+alor1247-besar	Austronesian	Alor-Besar					-8.0	124.0	Alor			alorbesar	Alor-Besar
 baka1276	Timor-Alor-Pantar	Blagar-Bakalang		beu		baka1276	-8.2634	122.972	1Pantar, 2East			blagarbakalang	Blagar-Bakalang
 blag1240-bama	Timor-Alor-Pantar	Blagar-Bama		beu 			-8.2771	123.013	1Pantar, 2East			blagarbama	Blagar-Bama
 blag1240	Timor-Alor-Pantar	Blagar		beu 			-8.2975	123.033	1Pantar, 2East			blagarkulijahi	Blagar
@@ -87,7 +85,7 @@ pura1258	Timor-Alor-Pantar	Blagar-Pura	blag	beu 		pura1258	-8.2829	123.307	2Pura
 blag1240-tuntu	Timor-Alor-Pantar	Blagar-Tuntuli		beu			-8.2056	122.907	1Pantar, 2East			blagartuntuli	Blagar-Tuntuli
 blag1240-warsa	Timor-Alor-Pantar	Blagar-Warsalelang		beu			-8.3252	123.011	1Pantar, 2East			blagarwarsalelang	Blagar-Warsalelang
 buna1278-bobon	Timor-Alor-Pantar	Bunak-Bobonaro	buna	bfn 			-8.4394	129.821	4Timor, 2Central			bunakbobonaro	Bunak-Bobonaro
-buna1278	Timor-Alor-Pantar	Bunak (Orthographic)		bfn 			-8.9912	122.227	4Timor, 2Central		Orthographic data comes from Maliana table	bunakorthographic	Bunak (Orthographic)
+buna1278-o	Timor-Alor-Pantar	Bunak (Orthographic)		bfn 			-8.9912	122.227	4Timor, 2Central		Orthographic data comes from Maliana table	bunakorthographic	Bunak (Orthographic)
 buna1278-suai	Timor-Alor-Pantar	Bunak-Suai		bfn 			-9.318825	122.625	4Timor, 2Central			bunaksuai	Bunak-Suai
 buna1278-malia	Timor-Alor-Pantar	Bunaq-Maliana		bfn 			-8.9912	122.227	4Timor, 2Central			bunaqmaliana	Bunaq-Maliana
 dein1238	Timor-Alor-Pantar	Deing			deinx	dein1238	-8.3488	121.304	1Pantar, 1West			deing	Deing
@@ -101,7 +99,7 @@ kama1365	Timor-Alor-Pantar	Kamang-Atoitaa		woi		kama1365	-8.2543	124.8515	3Alor,
 kira1248	Timor-Alor-Pantar	Kiraman		kvd		kira1248	-8.3847	124.8334	3Alor, 2Central			kiraman	Kiraman
 kelo1247-bring	Timor-Alor-Pantar	Klon-Bring		kyo		kelo1247	-8.4185	123.418	3Alor, 1West			klonbring	Klon-Bring
 kelo1247	Timor-Alor-Pantar	Klon		kyo		kelo1247	-8.4185	123.418	3Alor, 1West			klon	Klon
-kuii1253	Timor-Alor-Pantar	Kui-Moru		kvd		kuii1253	-8.2778678	124.4782606	3Alor, 1West		Coordinates of Moru village on OSM – we also have from other sources -8.2844737/125.0477418 or -8.4351/124.5423	kuimoru	Kui-Moru
+kuii1253	Timor-Alor-Pantar	Kui-Moru		kvd		kuii1253	-8.2778678	124.47826059999998	3Alor, 1West		Coordinates of Moru village on OSM – we also have from other sources -8.2844737/125.0477418 or -8.4351/124.5423	kuimoru	Kui-Moru
 kula1280-lanto	Timor-Alor-Pantar	Kula-Lantoka		tpg		kula1280	-8.1753	125.099	3Alor, 3East			kulalantoka	Kula-Lantoka
 kula1280	Timor-Alor-Pantar	Kula		tpg		kula1280	-8.1753	125.099	3Alor, 3East		Typological questionnaire is based on Kula-Tanglapui and Lantoka dialect. Other data are yet pending.	kula	Kula
 maka1316	Timor-Alor-Pantar	Makasae	maka	mkz		maka1316	-8.4394	129.821	4Timor, 3East			makasae	Makasae
@@ -114,6 +112,8 @@ alor1249-sar-a	Timor-Alor-Pantar	Sar-Adiabang			sarx		-8.326	124.228	1Pantar, 1W
 alor1249-sar-n	Timor-Alor-Pantar	Sar-Nule					-8.3775	122.303	1Pantar, 1West			sarnule	Sar-Nule
 sawi1256	Timor-Alor-Pantar	Sawila		swt		sawi1256	-8.3433	120.922	3Alor, 3East			sawila	Sawila
 teiw1235	Timor-Alor-Pantar	Teiwa-Lebang	teiw	twe		teiw1235	-8.257	122.151	1Pantar, 1West			teiwalebang	Teiwa-Lebang
-kola1287	Timor-Alor-Pantar	Wersing-Kolana		kvw		kola1287	-8.2844737	125.0477418	3Alor, 3East		Village Kolana Selatan, on OSM	wersingkolana	Wersing-Kolana
+kola1287	Timor-Alor-Pantar	Wersing-Kolana		kvw		kola1287	-8.284473700000001	125.0477418	3Alor, 3East		Village Kolana Selatan, on OSM	wersingkolana	Wersing-Kolana
 wers1238	Timor-Alor-Pantar	Wersing		kvw		wers1238	-8.2908	121.234	3Alor, 3East		Typological questionnaire is based on Wersing-Pureman dialect. Other data are  yet pending.	wersing	Wersing
 lamm1241	Timor-Alor-Pantar	Western Pantar-Tubbe		lev		lamm1241	-8.4631	121.274	1Pantar, 1West			westernpantartubbe	Western Pantar-Tubbe
+alor1247-pandai	Austronesian	Alorese-Pandai
+alor1247-munas	Austronesian	Alorese-Munaseli
