@@ -11,6 +11,7 @@ alignment.
 import pandas
 import argparse
 from lingpy import LexStat, Alignments
+import pyclpa.util
 
 
 def cognate_detect(segments):
@@ -51,6 +52,64 @@ cols = [replacement.get(c, c.upper()) for c in data.columns]
 data.columns = cols
 
 
+def tokenize(form,
+             whitelist=pyclpa.util.load_whitelist(),
+             clpadata=pyclpa.util.load_CLPA(),
+             substitutions={
+                 "ä": "a",
+                 "ε": "ɛ",
+                 "é": "e",
+                 "Ɂ": "ʔ",
+                 "ˈ": "'",
+                 ":": "ː",
+                 "ɡ": "g"}):
+    """Tokenize an IPA form according to CLPA.
+
+    Split the form into segments, each ending with a CLPA vowel or
+    consonant.
+
+    """
+    if form[0] == "*":
+        form = form[1:]
+
+    consonants = [clpadata[c]["glyph"] for c in clpadata["consonants"]]
+    vowels = [clpadata[c]["glyph"] for c in clpadata["vowels"]]
+    segment = ""
+    stress = False
+    for symbol in form:
+        if symbol in substitutions:
+            symbol = substitutions[symbol]
+        if symbol in ["'"]:
+            if segment:
+                yield segment
+            stress = True
+            segment = ""
+        elif symbol in ["_", "-"]:
+            if segment:
+                yield segment
+            yield symbol
+            segment = ""
+        elif symbol in ["."]:
+            if segment:
+                yield segment
+            segment = ""
+        elif symbol in consonants:
+            if segment:
+                yield segment
+            segment = symbol
+            stress = False
+        elif symbol in vowels:
+            if segment:
+                yield segment
+            if stress:
+                segment = "'" + symbol
+            else:
+                segment = symbol
+        else:
+            segment += symbol
+    yield segment
+
+
 def alignment(data):
     """Generate alignment-like entries from a sequence of forms.
 
@@ -60,19 +119,24 @@ def alignment(data):
 
     """
     for form, alignment in data[["IPA", "ALIGNMENT"]].values:
-        form = str(form).replace("\n", ";")
+        form = str(form).replace("\n", ";").replace(" ", "_")
         alignment = alignment.replace("\n", ";")
         if alignment in ("", "nan"):
-            yield " ".join(list(str(form)))
+            yield " ".join(tokenize(form))
         else:
-            if list(form) != [
+            if list(tokenize(form)) != [
                     x
                     for x in alignment.split()
                     if x != "-"]:
-                yield " ".join(list(str(form)))
+                yield " ".join(tokenize(form))
             else:
                 yield alignment
-    
+
+
+data = data[~pandas.isnull(data["IPA"])]
+
+data["IPA"] = [x.replace(" ", "_") for x in data["IPA"]]
+data["TOKENS"] = [" ".join(tokenize(x)) for x in data["IPA"]]
 
 data["ALIGNMENT"] = list(alignment(data))
 
@@ -83,10 +147,6 @@ data["COGNATE_SET"] = [
 data["COMMENT"] = [
     x.replace("\n", "; ")
     for x in data["COMMENT"]]
-
-data = data[~pandas.isnull(data["IPA"])]
-
-data["TOKENS"] = data["IPA"].str.replace(" ", "")
 
 data.to_csv(
     "unaligned.tsv",
@@ -102,6 +162,8 @@ lex.cluster(cluster_method='upgma',
             ref='auto_cogid',
             threshold=0.8)
 lex.output("tsv", filename="tap-cognates", ignore="all", prettify=True)
+scorer = lex.bscorer
+
 
 cognates = pandas.read_csv(
     'tap-cognates.tsv', sep='\t', keep_default_na=False, na_values=[""],
@@ -141,14 +203,14 @@ cognates.to_csv("tap-cognates-merged.tsv",
 
 
 # align data
-alm = Alignments('tap-cognates-merged.tsv', ref='COGID', segments='SEGMENTS',
-                 transcription='IPA', alignment='SEGMENTS')
-alm.align(override=True, alignment='AUTO_ALIGNMENT')
+alm = Alignments('tap-cognates-merged.tsv', ref='COGID', segments='ALIGNMENT',
+                 transcription='IPA', alignment='ALIGNMENT')
+alm.align(override=True, alignment='AUTO_ALIGNMENT', iteration=True,
+          mode="dialign", method="progressive", model="sca")
 alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
 
 alignments = pandas.read_csv(
     'tap-aligned.tsv',
-    args.filename,
     sep="\t",
     na_values=[""],
     keep_default_na=False,
@@ -164,7 +226,6 @@ for cogid, cognate_class in alignments.groupby("COGID"):
             alignments.set_value(i, 'ALIGNMENT',
                                  alignments.loc[i].get('AUTO_ALIGNMENT', '-'))
 
-alignments = alignments[~alignments["Language_ID"].str.endswith("-o")]
 alignments.to_csv("tap-alignments-merged.tsv",
                   index=False,
                   na_rep="",
