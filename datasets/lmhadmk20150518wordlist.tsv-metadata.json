@@ -1,25 +1,22 @@
 {
-  "Date": [
-    "2015-05-18 00:00:00"
-  ],
-  "Location": [
-    "Lewat, Adonara"
-  ],
-  "Recorded by": [
-    "Marian Klamer, Yunus Sulistyono"
-  ],
-  "Speaker code": [
-    "10",
-    "11",
-    "12"
-  ],
-  "Speakers": [
-    "Elvis Albertus Bin Toni",
-    "Gabriel Kerong Ama",
-    "Thomas Sabon Luli"
-  ],
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lmhadmk20150518wordlist.tsv",
-  "id": "lmhadmk20150518wordlist",
-  "name": "LMH_AD_MK_2015_05_18_word list"
+	"language": "adon1237",
+	"sources": [{
+		"recorders": ["Marian Klamer", "Yunus Sulistyono"],
+		"date": "2015-05-18",
+		"location": "Lewat, Adonara",
+		"speakers": [{
+			"name": "Elvis Albertus Bin Toni",
+			"speaker code": "EAT"
+		}, {
+			"name": "Gabriel Kerong Ama",
+			"speaker code": "GKA"
+		}, {
+			"name": "Thomas Sabon Luli",
+			"speaker code": "TSL"
+		}]
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lmhadmk20150518wordlist.tsv",
+	"id": "lmhadmk20150518wordlist",
+	"name": "LMH_AD_MK_2015_05_18_word list"
 }
