@@ -1,7 +1,14 @@
 {
-  "Reference": "See Metadata sheet Hannah Choi",
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/swthc20151026wordlist.tsv",
-  "id": "swthc20151026wordlist",
-  "name": "SWT_HC_2015_10_26_word list"
+	"language": "sawi1256",
+	"sources": [{
+		"recorders": ["Hannah Choi"],
+		"speakers": [{
+			"name": "Oktofianus Banik",
+			"speaker code": "OB"
+		}]
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/swthc20151026wordlist.tsv",
+	"id": "swthc20151026wordlist",
+	"name": "SWT_HC_2015_10_26_word list"
 }

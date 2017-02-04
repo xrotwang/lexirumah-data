@@ -1,11 +1,21 @@
 {
-  "Date": " January 2016",
-  "Language": " Tetun Terik-Viqueque dialect",
-  "Location of recording": " Dili, Timor Leste",
-  "Recorded by": " Marian Klamer",
-  "Speakers": " Pedro Suares Pintu (1984); from Viqueque- Karau Balo, presently lives in Dili, studies Agriculture at the universityMarselinus Soares (1983); from Viqueque-Uma Wain Kraik-Aldea Loho, previous education primary school class 5, presently lives in Dili and works as a labourer",
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/tdtterikviquequemk20160105wordlist.tsv",
-  "id": "tdtterikviquequemk20160105wordlist",
-  "name": "TDT_Terik_Viqueque_MK_2016_01_05_word list"
+	"language": " tetu1245-vique",
+	"sources": [{
+		"recorders": ["Marian Klamer"],
+		"date": "2016-01",
+		"location": "Dili, Timor Leste",
+		"speakers": [{
+			"name": "Pedro Suares Pintu",
+			"date of birth": "1984",
+			"notes": "from Viqueque- Karau Balo, presently lives in Dili, studies Agriculture at the university"
+		}, {
+			"name": "Marselinus Soares",
+			"date of birth": "1983",
+			"notes": "from Viqueque-Uma Wain Kraik-Aldea Loho, previous education primary school class 5, presently lives in Dili and works as a labourer"
+		}]
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/tdtterikviquequemk20160105wordlist.tsv",
+	"id": "tdtterikviquequemk20160105wordlist",
+	"name": "TDT_Terik_Viqueque_MK_2016_01_05_word list"
 }
