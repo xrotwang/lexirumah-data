@@ -1,23 +1,19 @@
 {
-  "Date": [
-    "2015-05-14 00:00:00"
-  ],
-  "Location": [
-    "Hewa, Flores Timur"
-  ],
-  "Recorded by": [
-    "Marian Klamer, Yunus Sulistyono"
-  ],
-  "Speaker code": [
-    "1",
-    "2"
-  ],
-  "Speakers": [
-    "Maria Ifoni Liwu",
-    "Ferfin Lia Olon Liwu"
-  ],
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/hwamk20150514wordlist.tsv",
-  "id": "hwamk20150514wordlist",
-  "name": "HWA_MK_2015_05_14_word list"
+	"language": "cent2245-hewa",
+	"sources": [{
+		"recorders": ["Marian Klamer", "Yunus Sulistyono"],
+		"date": "2015-05-14",
+		"location": "Hewa, Flores Timur",
+		"speakers": [{
+			"name": "Maria Ifoni Liwu",
+			"speaker code": "MIL"
+		}, {
+			"name": "Ferfin Lia Olon Liwu",
+			"speaker code": "FLOL"
+		}]
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/hwamk20150514wordlist.tsv",
+	"id": "hwamk20150514wordlist",
+	"name": "HWA_MK_2015_05_14_word list"
 }
