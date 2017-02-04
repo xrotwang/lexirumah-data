@@ -1,10 +1,12 @@
 {
-  "Date": " May 2015",
-  "Dialect": " Abui Takalelang",
-  "Location": " Takalelang, Alor, NTT.",
-  "Recorded by": " George Saad",
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abztakalelanggs201505wordlist.tsv",
-  "id": "abztakalelanggs201505wordlist",
-  "name": "ABZ_Takalelang_GS_2015_05_word list"
+	"language": "Abui Takalelang",
+	"sources": [{
+		"recorders": ["George Saad"],
+		"location": "Takalelang, Alor, NTT.",
+		"date": "2015-05"
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abztakalelanggs201505wordlist.tsv",
+	"id": "abztakalelanggs201505wordlist",
+	"name": "ABZ_Takalelang_GS_2015_05_word list"
 }
