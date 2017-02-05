@@ -1,595 +1,562 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0.0	sky	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		buraŋ	nan	nan	nan	nan		
-1.0	sun	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fed	nan	nan	nan	nan		
-2.0	moon	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ul	nan	nan	nan	nan		
-3.0	star	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ibiŋ	nan	nan	nan	nan		
-4.0	night	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dil pana	nan	nan	nan	nan		
-4.0	night	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		panaʔ	nan	nan	nan	nan		
-5.0	day	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɛŋ	nan	nan	nan	nan		
-5.0	day	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ved	nan	nan	nan	nan		
-6.0	year	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tun	nan	nan	nan	nan		
-7.0	morning	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lalami	nan	nan	nan	nan		
-8.0	yesterday	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ufami	nan	nan	nan	nan		
-9.0	day before yesterday	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔ tarɛŋ alɔ mi	2 days ago	nan	nan	nan		
-10.0	tomorrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dilɛl	nan	nan	nan	nan		
-11.0	day after tomorrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dilɛl alɔʔ	nan	nan	nan	nan		
-12.0	twilight; dawn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dil lalami	nan	nan	nan	nan		
-13.0	cloud	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafiʔiŋ	nan	nan	nan	nan		
-14.0	wind	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hamɔi	nan	nan	nan	nan		
-15.0	rain	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nɔi	nan	nan	nan	nan		
-16.0	drizzle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		noi reʔ reʔ	nan	nan	nan	nan		
-16.0	drizzle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		reʔ reʔ	nan	nan	nan	nan		
-17.0	rainbow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔ bɔ	nan	nan	nan	nan		
-18.0	thunder	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		buraŋ daʔud	daʔud 'sound of thunder'	nan	nan	nan		
-19.0	lightning	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔai	nan	nan	nan	nan		
-20.0	earthquake	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafufui	nan	nan	nan	nan		
-21.0	fog	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafiʔiŋ	nan	nan	nan	nan		
-22.0	river; stream	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mol	nan	nan	nan	nan		
-23.0	ice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-24.0	snow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-25.0	lake	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sei lafɔ	nan	nan	nan	nan		
-26.0	mountain	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔi	nan	nan	nan	nan		
-27.0	hill; ridge	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔi	nan	nan	nan	nan		
-28.0	village	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ	nan	nan	nan	nan		
-29.0	land; soil	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faʔai	nan	nan	nan	nan		
-30.0	Earth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pali	nan	nan	nan	nan		
-31.0	hole	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		boi ka?ai;	boi ka?ai ‘small hole’, lafɔ ‘big hole’	nan	nan	nan		
-32.0	stone	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fɔi	nan	nan	nan	nan		
-33.0	coral (rock)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔʔɔi fɔi	nan	nan	nan	nan		
-34.0	(coral) reef	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔʔɔi	nan	nan	nan	nan		
-35.0	water (fresh)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sei	nan	nan	nan	nan		
-36.0	sea; sea water	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taŋ	nan	nan	nan	nan		
-37.0	wave	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bob	nan	nan	nan	nan		
-38.0	foam	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fara	nan	nan	nan	nan		
-39.0	forest	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahain	ahain ‘jungle’	nan	nan	nan		
-39.0	forest	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bana	ahain ‘jungle’	nan	nan	nan		
-40.0	field	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hahaɲ	nan	nan	nan	nan		
-40.0	field	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔ	nan	nan	nan	nan		
-41.0	island	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pali	nan	nan	nan	nan		
-42.0	rice field	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dil	dil 'ladan1251-otvai', sawah: no word	nan	nan	nan		
-43.0	garden	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		but	nan	nan	nan	nan		
-44.0	fence	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fɔ	nan	nan	nan	nan		
-45.0	road; path; way	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		seʔbur	nan	nan	nan	nan		
-46.0	canoe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛi	nan	nan	nan	nan		
-47.0	sail (n.)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lai	nan	nan	nan	nan		
-48.0	to sail	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taŋ ta lame	travel over sea'	nan	nan	nan		
-49.0	fishing hook	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hafɛi	nan	nan	nan	nan		
-50.0	fish trap	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bub	nan	nan	nan	nan		
-51.0	rope	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛi	nan	nan	nan	nan		
-52.0	machete	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sapa:d	nan	nan	nan	nan		
-53.0	axe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baliŋ	nan	nan	nan	nan		
-54.0	spear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bok ‘kecil’	nan	nan	nan	nan		
-55.0	burden stick	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-56.0	stick; pole	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔpaŋ	nan	nan	nan	nan		
-57.0	digging stick	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-59.0	bow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pe	nan	nan	nan	nan		
-60.0	arrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aburiŋ	nan	nan	nan	nan		
-61.0	knife	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		duir	nan	nan	nan	nan		
-62.0	comb	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kir	nan	nan	nan	nan		
-63.0	mat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bu	nan	nan	nan	nan		
-64.0	needle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		batiŋ	nan	nan	nan	nan		
-65.0	clothing	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		na:pa	nan	nan	nan	nan		
-67.0	fire	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔfail	nan	nan	nan	nan		
-68.0	smoke	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		banɔʔ	nan	nan	nan	nan		
-70.0	dust; fine earth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maru butuŋ	nan	nan	nan	nan		
-71.0	fireplace ash	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maru	nan	nan	nan	nan		
-72.0	mud	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		par	nan	nan	nan	nan		
-73.0	clay	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faʔai tɛn	nan	nan	nan	nan		
-74.0	gravel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		darofe	nan	nan	nan	nan		
-75.0	sand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fetʃ	sp. feit	nan	nan	nan		
-76.0	grass; brush	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bana	nan	nan	nan	nan		
-77.0	house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ	nan	nan	nan	nan		
-78.0	traditional house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hada baŋ	nan	nan	nan	nan		
-79.0	barn; storage house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛsɛl	nan	nan	nan	nan		
-80.0	raised platform	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		deʔ	nan	nan	nan	nan		
-81.0	door	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sɛʔar	nan	nan	nan	nan		
-82.0	(thatch) roof	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-83.0	roof thatch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		men	men baŋ ‘house with thatch roof’	nan	nan	nan		
-84.0	tree	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti	nan	nan	nan	nan		
-85.0	wood	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti	nan	nan	nan	nan		
-86.0	bark (of tree)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti fah	nan	nan	nan	nan		
-87.0	leaf	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		beh	bæh ‘hit’	nan	nan	nan		
-88.0	branch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abalɛ	nan	nan	nan	nan		
-89.0	firewood	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a	nan	nan	nan	nan		
-90.0	rattan	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lɛ	nan	nan	nan	nan		
-91.0	root	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aliʔaŋ	nan	nan	nan	nan		
-92.0	fruit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pir	nan	nan	nan	nan		
-93.0	seed	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afail	nan	nan	nan	nan		
-94.0	grain; cereal	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naʔfail	nan	nan	nan	nan		
-96.0	husked rice; uncooked rice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ala	nan	nan	nan	nan		
-97.0	rice grains (unhusked) (raw from field)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alaʔ	nan	nan	nan	nan		
-98.0	cooked rice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ala meɟ	sp. ala meit	nan	nan	nan		
-99.0	rice plant	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alaʔ	nan	nan	nan	nan		
-100.0	to plant (yam)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		oti mudiŋ	nan	nan	nan	nan		
-101.0	to plant (rice)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ala teʔ	nan	nan	nan	nan		
-102.0	betel nut; areca	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bu	nan	nan	nan	nan		
-103.0	betel vine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		meit > mej	nan	nan	nan	nan		
-103.0	betel vine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		meɟ	nan	nan	nan	nan		
-104.0	lime	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afai	nan	nan	nan	nan		
-105.0	chew betel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		na ha:ŋ	nan	nan	nan	nan		
-106.0	sweet potato	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falaɟ	nan	nan	nan	nan		
-107.0	cassava	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		outi	nan	nan	nan	nan		
-108.0	taro	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		agɔl	nan	nan	nan	nan		
-109.0	sago	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-110.0	millet	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-111.0	sugarcane	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sob	nan	nan	nan	nan		
-112.0	corn; maize	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bate	nan	nan	nan	nan		
-113.0	cooked corn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bate afail	nan	nan	nan	nan		
-114.0	coconut	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faʔ	nan	nan	nan	nan		
-115.0	gwang	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-116.0	lontar palm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɔk	nan	nan	nan	nan		
-117.0	sugar palm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nɔu	nan	nan	nan	nan		
-118.0	marungga	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mɔtɔŋ	nan	nan	nan	nan		
-119.0	gum tree; eucalyptus	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pu	nan	nan	nan	nan		
-120.0	bamboo	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pituŋ	nan	nan	nan	nan		
-121.0	banana	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mɔʔɔi	nan	nan	nan	nan		
-122.0	mango	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛ	nan	nan	nan	nan		
-123.0	papaya	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		timɔʔɔi	nan	nan	nan	nan		
-124.0	jackfruit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ifaŋtoŋ	nan	nan	nan	nan		
-125.0	breadfruit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		uliŋ	nan	nan	nan	nan		
-126.0	bean	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		utaŋ	nan	nan	nan	nan		
-127.0	honey	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faɲ sei	nan	nan	nan	nan		
-128.0	milk	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		to	to ‘breastmilk’	nan	nan	nan		
-129.0	salt	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hahei	nan	nan	nan	nan		
-130.0	fat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tamar	nan	nan	nan	nan		
-131.0	flesh; meat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	hir ‘living flesh’ 	nan	nan	nan		
-132.0	bone	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔb	nan	nan	nan	nan		
-133.0	rib	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atoteʔ nɛmaŋ	nan	nan	nan	nan		
-134.0	sweat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		latutuŋ	nan	nan	nan	nan		
-135.0	tear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		3)	nan	nan	nan	nan		
-135.0	tear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eŋmari	nan	nan	nan	nan		
-135.0	tear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eŋmari (2	nan	nan	nan	nan		
-136.0	blood	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fui	nan	nan	nan	nan		
-138.0	heart	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		damur	nan	nan	nan	nan		
-139.0	liver	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fala:d	nan	nan	nan	nan		
-140.0	kidney	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-141.0	guts	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atoʔom	nan	nan	nan	nan		
-142.0	excrement	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hah	nan	nan	nan	nan		
-143.0	lungs	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fala:d	nan	nan	nan	nan		
-144.0	stomach; belly	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atoʔ	nan	nan	nan	nan		
-145.0	head	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lafuŋ	nan	nan	nan	nan		
-146.0	hair	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ariʔ nemaŋ	nan	nan	nan	nan		
-147.0	body hair	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛŋ	nan	nan	nan	nan		
-148.0	eye	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eʔfail	nan	nan	nan	nan		
-149.0	ear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afɛl	nan	nan	nan	nan		
-150.0	nose	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amiŋ	nan	nan	nan	nan		
-151.0	mouth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a:t	nan	nan	nan	nan		
-152.0	chin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		arfah	nan	nan	nan	nan		
-153.0	lips	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amiŋtapo	nan	nan	nan	nan		
-154.0	teeth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afiŋ	afiŋ nu 'one teeth'	nan	nan	nan		
-155.0	tongue	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alibuŋ	nan	nan	nan	nan		
-156.0	neck	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔrɔ	nan	nan	nan	nan		
-157.0	shoulder	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abare	nan	nan	nan	nan		
-158.0	body	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afah	nan	nan	nan	nan		
-159.0	forehead	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apɔŋfaʔ	nan	nan	nan	nan		
-160.0	nostril	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amiŋboi	nan	nan	nan	nan		
-161.0	mucus	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hin	nan	nan	nan	nan		
-162.0	cheek	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aduŋ	nan	nan	nan	nan		
-163.0	arm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ	nan	nan	nan	nan		
-164.0	hand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ om	ataŋpa’ ‘fingers’	nan	nan	nan		
-165.0	palm of hand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ om	nan	nan	nan	nan		
-166.0	finger	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ paʔ nu	nan	nan	nan	nan		
-167.0	fingernail	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ uʔhuɲ	nan	nan	nan	nan		
-168.0	breast	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɔ	nan	nan	nan	nan		
-169.0	chest	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adel	nan	nan	nan	nan		
-170.0	navel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuhei	nan	nan	nan	nan		
-171.0	penis	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atu	nan	nan	nan	nan		
-172.0	vagina	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a:l	nan	nan	nan	nan		
-173.0	testicles	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atu afail	nan	nan	nan	nan		
-174.0	leg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔfa	nan	nan	nan	nan		
-175.0	foot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔfa	nan	nan	nan	nan		
-176.0	heel of foot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔuda	nan	nan	nan	nan		
-177.0	sole of foot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔom	nan	nan	nan	nan		
-178.0	knee	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parih	nan	nan	nan	nan		
-179.0	back	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amɔt	nan	nan	nan	nan		
-180.0	spine; lower back	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amɔtsel	 ‘spine’	nan	nan	nan		
-181.0	waist	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahɛŋ	nan	nan	nan	nan		
-182.0	skin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		uil	nan	nan	nan	nan		
-183.0	sore; wound	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bah	nan	nan	nan	nan		
-184.0	ringworm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		at	nan	nan	nan	nan		
-185.0	scabies	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		harukaŋ	nan	nan	nan	nan		
-186.0	tinea	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		palaŋ	nan	nan	nan	nan		
-187.0	feverish	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tasɔʔ	nan	nan	nan	nan		
-188.0	conjunctivitis	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔfail ten	nan	nan	nan	nan		
-189.0	cold; influenza	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hu	nan	nan	nan	nan		
-190.0	person	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		name	nan	nan	nan	nan		
-191.0	name	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ani	nan	nan	nan	nan		
-192.0	child	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ai	nan	nan	nan	nan		
-193.0	man	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lote	nan	nan	nan	nan		
-194.0	woman	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔb	nan	nan	nan	nan		
-195.0	husband	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no lote	1SG man	nan	nan	nan		
-196.0	wife	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no ob	1SG woman	nan	nan	nan		
-197.0	mother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nivɛ	1SG mother	nan	nan	nan		
-198.0	father	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nimaŋ	nan	nan	nan	nan		
-199.0	older sibling	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		matu	nan	nan	nan	nan		
-200.0	younger sibling	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		di	nan	nan	nan	nan		
-201.0	bride price	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fali	nan	nan	nan	nan		
-202.0	slave	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		name o ahouʔ ei	nan	nan	nan	nan		
-203.0	1sg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nari	nan	nan	nan	nan		
-204.0	2sg (informal)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ari	nan	nan	nan	nan		
-205.0	2sg (polite)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hari	nan	nan	nan	nan		
-206.0	3sg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sari	nan	nan	nan	nan		
-207.0	1pl excl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		niri	nan	nan	nan	nan		
-208.0	1pl incl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		piri	nan	nan	nan	nan		
-209.0	2pl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		iri	nan	nan	nan	nan		
-210.0	3pl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		supi	nan	nan	nan	nan		
-211.0	no; not	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔai	nan	nan	nan	nan		
-212.0	and	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛ	nan	nan	nan	nan		
-213.0	because	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fedeʔ	fedeʔ 'reason'	nan	nan	nan		
-214.0	if	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-215.0	with	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-216.0	what?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naba	nan	nan	nan	nan		
-217.0	who?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a:no	nan	nan	nan	nan		
-218.0	where?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔ mi ‘di mana’	nan	nan	nan	nan		
-219.0	when?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		den	nan	nan	nan	nan		
-220.0	why?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔʔ ni(n)	nan	nan	nan	nan		
-221.0	how much; how many?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		den	nan	nan	nan	nan		
-222.0	how?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔʔ nin	nan	nan	nan	nan		
-223.0	this	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɔʔ	nan	nan	nan	nan		
-224.0	that	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hou	nan	nan	nan	nan		
-225.0	at	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mi	nan	nan	nan	nan		
-226.0	in; inside	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ʔɔm	nan	nan	nan	nan		
-227.0	here	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɔʔɔ mi	nan	nan	nan	nan		
-228.0	there	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛmɔ mi	nan	nan	nan	nan		
-229.0	above	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛtɔ mi	hɛtɔ mi (direction) toŋ (high up)	nan	nan	nan		
-230.0	below	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛlɛho mi;	hɛlɛho mi ‘di bawah sana itu (altitude/diff level)’	nan	nan	nan		
-231.0	left (side)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fiʔiŋ	nan	nan	nan	nan		
-232.0	right (side)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taniŋ	nan	nan	nan	nan		
-233.0	a few	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		piteʔ	nan	nan	nan	nan		
-234.0	all	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		barpi	nan	nan	nan	nan		
-235.0	many	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lafoh	nan	nan	nan	nan		
-236.0	animal	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		binanta	nan	nan	nan	nan		
-237.0	fowl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-238.0	dog	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bel	nan	nan	nan	nan		
-239.0	pig	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɔi	nan	nan	nan	nan		
-240.0	chicken	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hiu	nan	nan	nan	nan		
-241.0	rat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dur	nan	nan	nan	nan		
-242.0	lizard	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɛko	nan	nan	nan	nan		
-243.0	civet cat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alu	nan	nan	nan	nan		
-244.0	deer	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aru	nan	nan	nan	nan		
-245.0	frog	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		upapaʔ	nan	nan	nan	nan		
-246.0	bat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fak	fak 'big bat'	nan	nan	nan		
-247.0	flying fox; fruit bat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		madiruŋ	madiruŋ ‘small flying fox’	nan	nan	nan		
-248.0	cuscus	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-249.0	tail	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔl	nan	nan	nan	nan		
-250.0	fish	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hab	nan	nan	nan	nan		
-251.0	shark	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tabɛi	nan	nan	nan	nan		
-252.0	whale	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		siruŋ piruŋ	nan	nan	nan	nan		
-253.0	dolphin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		usah dasah	nan	nan	nan	nan		
-254.0	crocodile	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baʔai	nan	nan	nan	nan		
-255.0	monitor lizard	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alɛh	nan	nan	nan	nan		
-256.0	starfish	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taŋ ibiŋ	nan	nan	nan	nan		
-257.0	turtle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sɛi ʔu	nan	nan	nan	nan		
-258.0	turtle (saltwater)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sɛi ʔu	nan	nan	nan	nan		
-259.0	bird	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hiuw	nan	nan	nan	nan		
-260.0	wing	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afitaŋ	nan	nan	nan	nan		
-261.0	claw	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-262.0	feather	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hiuw falɔ	nan	nan	nan	nan		
-263.0	horn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amuʔ	nan	nan	nan	nan		
-264.0	snake	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mon	mɔn ‘domesticated’	nan	nan	nan		
-265.0	scorpion	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pail	nan	nan	nan	nan		
-266.0	egg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔ	nan	nan	nan	nan		
-267.0	earthworm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kadile	nan	nan	nan	nan		
-268.0	butterfly	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pupu	nan	nan	nan	nan		
-269.0	fly (n.)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		libuŋ	nan	nan	nan	nan		
-270.0	mosquito	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		in	nan	nan	nan	nan		
-271.0	ant	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abutɛ	nan	nan	nan	nan		
-272.0	grasshopper	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kafɛ	nan	nan	nan	nan		
-273.0	locust	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amariŋ	nan	nan	nan	nan		
-274.0	spider	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alɛlaŋ bɔbɔ	nan	nan	nan	nan		
-275.0	headlice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		oin	nan	nan	nan	nan		
-276.0	louse eggs	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fadin	nan	nan	nan	nan		
-277.0	mother louse	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔbe	nan	nan	nan	nan		
-278.0	flea	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ut	nan	nan	nan	nan		
-279.0	louse (clothing)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tameʔ	nan	nan	nan	nan		
-280.0	bedbug	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tameʔ	nan	nan	nan	nan		
-281.0	big	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mate	nan	nan	nan	nan		
-282.0	small	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kaʔai	nan	nan	nan	nan		
-283.0	old; worn (house)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ ɛm	nan	nan	nan	nan		
-284.0	new (house)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ habar	nan	nan	nan	nan		
-285.0	old (people)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ tumɔ	nan	nan	nan	nan		
-286.0	young (people)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ afɔr	nan	nan	nan	nan		
-287.0	lazy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lahun	nan	nan	nan	nan		
-288.0	hot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bune	nan	nan	nan	nan		
-289.0	cold	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maʔab	nan	nan	nan	nan		
-290.0	good	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nɔʔ	nan	nan	nan	nan		
-291.0	bad	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sah	nan	nan	nan	nan		
-292.0	full	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afɛŋ	nan	nan	nan	nan		
-293.0	empty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		oh	nan	nan	nan	nan		
-294.0	near	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fanaŋ	nan	nan	nan	nan		
-295.0	far	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lɛt	nan	nan	nan	nan		
-296.0	wet	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		har	nan	nan	nan	nan		
-297.0	dry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔiraŋ	nan	nan	nan	nan		
-298.0	dry in sun	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		poil	nan	nan	nan	nan		
-302.0	short (people)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ kadɔŋ	nan	nan	nan	nan		
-303.0	thin (non-human)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tiʔiŋ	nan	nan	nan	nan		
-304.0	skinny (human)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔitiŋ	nan	nan	nan	nan		
-305.0	thick	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tapah	nan	nan	nan	nan		
-306.0	round	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kadɔlaŋ	nan	nan	nan	nan		
-307.0	dark	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pana	nan	nan	nan	nan		
-308.0	light	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lel	nan	nan	nan	nan		
-309.0	dirty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		karɔ	nan	nan	nan	nan		
-310.0	clean	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɔlaŋ	nan	nan	nan	nan		
-311.0	sharp	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hudiŋ	hudiŋ ‘knife sharp’	nan	nan	nan		
-312.0	blunt; dull	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		umɛ	nan	nan	nan	nan		
-313.0	heavy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarofɛ	nan	nan	nan	nan		
-314.0	light (weight)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		filuŋ	nan	nan	nan	nan		
-315.0	straight	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mulaŋ	nan	nan	nan	nan		
-316.0	wide	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛraŋ	nan	nan	nan	nan		
-318.0	correct	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abul	nan	nan	nan	nan		
-319.0	wrong	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahal	nan	nan	nan	nan		
-320.0	ripe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ten	nan	nan	nan	nan		
-321.0	rotten	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bonɛ	nan	nan	nan	nan		
-322.0	bitter	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mahib	nan	nan	nan	nan		
-323.0	sweet	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		darefaŋ	nan	nan	nan	nan		
-324.0	sour	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aruhuɲ	sp. aruhuin	nan	nan	nan		
-325.0	salty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atɔr	nan	nan	nan	nan		
-326.0	flat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		buir	nan	nan	nan	nan		
-327.0	smooth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dul	nan	nan	nan	nan		
-328.0	rough	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atɔʔ	nan	nan	nan	nan		
-329.0	black	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔan	nan	nan	nan	nan		
-330.0	white	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afɛl	nan	nan	nan	nan		
-331.0	red	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɛn	nan	nan	nan	nan		
-332.0	green	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		leu	nan	nan	nan	nan		
-333.0	blue	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		leu	nan	nan	nan	nan		
-334.0	yellow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baʔoil	nan	nan	nan	nan		
-335.0	sick; painful	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maʔar	nan	nan	nan	nan		
-336.0	shy; ashamed	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		malaʔ	nan	nan	nan	nan		
-337.0	thirsty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔrɔ taʔat	nan	nan	nan	nan		
-338.0	hungry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		malihiŋ	nan	nan	nan	nan		
-339.0	blind	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eŋ maru	nan	nan	nan	nan		
-340.0	deaf	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		palaʔ	nan	nan	nan	nan		
-341.0	scared	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		barɔɟ	nan	nan	nan	nan		
-342.0	angry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ariʔiŋ	nan	nan	nan	nan		
-343.0	to see	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛdun	nan	nan	nan	nan		
-344.0	to hear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alɛpaŋ	nan	nan	nan	nan		
-345.0	to smell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amuniŋ	nan	nan	nan	nan		
-346.0	to think	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tanut	nan	nan	nan	nan		
-347.0	to know	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahol	nan	nan	nan	nan		
-348.0	to say	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ubaŋ	nan	nan	nan	nan		
-349.0	to speak	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mateŋ	nan	nan	nan	nan		
-350.0	voice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amaŋ	nan	nan	nan	nan		
-351.0	language	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mateŋ	nan	nan	nan	nan		
-352.0	to lie down	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tar	nan	nan	nan	nan		
-353.0	to sleep	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mɔp	nan	nan	nan	nan		
-354.0	to wake up	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		to	nan	nan	nan	nan		
-355.0	to wake someone up	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aden to	nan	nan	nan	nan		
-356.0	to bathe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		foil	nan	nan	nan	nan		
-357.0	to bathe (a child)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afoil	nan	nan	nan	nan		
-358.0	to sit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mih	nan	nan	nan	nan		
-359.0	to stand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		toh	nan	nan	nan	nan		
-360.0	to walk	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eʔfa puɲ	nan	nan	nan	nan		
-361.0	to run	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		teʔeŋ	nan	nan	nan	nan		
-362.0	to go	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sam	nan	nan	nan	nan		
-363.0	to swim	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		arɔŋ	nan	nan	nan	nan		
-364.0	to fly	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lil	nan	nan	nan	nan		
-365.0	to fall (from above)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mutʃ hel	nan	nan	nan	nan		
-366.0	to fall over	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔl	nan	nan	nan	nan		
-367.0	to drop	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amutʃ	nan	nan	nan	nan		
-368.0	to drink	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		na	nan	nan	nan	nan		
-369.0	to eat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ade	nan	nan	nan	nan		
-370.0	to cook	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dou	nan	nan	nan	nan		
-371.0	to wash	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lam	lam 'wash clothes', hafo 'wash dishes'	nan	nan	nan		
-372.0	to sew	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		harot	nan	nan	nan	nan		
-373.0	to live; be alive; living	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fetaŋ	nan	nan	nan	nan		
-374.0	to breathe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔeŋ baliŋ	nan	nan	nan	nan		
-375.0	to work	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		karasaŋ	nan	nan	nan	nan		
-376.0	to die	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		min	nan	nan	nan	nan		
-377.0	to give	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		en	nan	nan	nan	nan		
-378.0	to wipe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		luh	nan	nan	nan	nan		
-379.0	to come	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɔʔ	nan	nan	nan	nan		
-380.0	to laugh	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		asal	nan	nan	nan	nan		
-381.0	to cry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahaɲ	nan	nan	nan	nan		
-382.0	to dance	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sabeak	nan	nan	nan	nan		
-383.0	to sing	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dal	nan	nan	nan	nan		
-384.0	to burn (clear land)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tub	daŋ ‘grill fish’	nan	nan	nan		
-385.0	to burn; to shine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apeu	apeu 'burn paper'	nan	nan	nan		
-386.0	to shine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fail	nan	nan	nan	nan		
-387.0	to chew	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haŋ	nan	nan	nan	nan		
-388.0	to yawn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		halafoh	nan	nan	nan	nan		
-389.0	to suck	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dutʃ	dutʃ ‘suck bottle’	nan	nan	nan		
-390.0	to blow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuʔ	nan	nan	nan	nan		
-391.0	to spit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		malɛi	nan	nan	nan	nan		
-392.0	to vomit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		wuɟ	nan	nan	nan	nan		
-393.0	to rub	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		luh	nan	nan	nan	nan		
-394.0	to scratch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tu	nan	nan	nan	nan		
-395.0	itchy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ka:k	nan	nan	nan	nan		
-396.0	to swell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔ ɔbe	nan	nan	nan	nan		
-397.0	to hit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛh	nan	nan	nan	nan		
-398.0	to slap	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baʔ	nan	nan	nan	nan		
-399.0	to bite	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eh	nan	nan	nan	nan		
-400.0	to cut	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tatɔ	nan	nan	nan	nan		
-401.0	to cut down	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abɔʔɔi	nan	nan	nan	nan		
-402.0	to split	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adid	nan	nan	nan	nan		
-403.0	to divide	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dala:m	nan	nan	nan	nan		
-404.0	to stab	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		teʔ	nan	nan	nan	nan		
-405.0	to skewer	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		teʔ	nan	nan	nan	nan		
-406.0	to fight	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		saribeh	nan	nan	nan	nan		
-407.0	to guard	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bu ʔaŋ	nan	nan	nan	nan		
-408.0	to throw	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		od	nan	nan	nan	nan		
-409.0	to hunt	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naluh	nan	nan	nan	nan		
-410.0	to kill	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amine	nan	nan	nan	nan		
-411.0	to chase away	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aralil	nan	nan	nan	nan		
-414.0	to dig	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aruŋ;	tafi ʔiŋ ‘dig with hand’	nan	nan	nan		
-415.0	to bury	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apot	apot 'to bury', dere 'grave'	nan	nan	nan		
-416.0	to flow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafoil	nan	nan	nan	nan		
-417.0	to float	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ted	nan	nan	nan	nan		
-418.0	to freeze	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adobe	adobe ‘to harden’	nan	nan	nan		
-419.0	to hold	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuɲ	nan	nan	nan	nan		
-420.0	to tie	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apetʃ	nan	nan	nan	nan		
-421.0	to play	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔor	nan	nan	nan	nan		
-422.0	to pull	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bariŋ	nan	nan	nan	nan		
-423.0	to push	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adodo;	adodo ‘push’	nan	nan	nan		
-424.0	to turn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ladimaŋ	nan	nan	nan	nan		
-425.0	to dream	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apai	nan	nan	nan	nan		
-427.0	to live; to stay	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mi	nan	nan	nan	nan		
-428.0	to choose	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taraʔ	nan	nan	nan	nan		
-429.0	to grow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abɔu	nan	nan	nan	nan		
-430.0	to squeeze	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apap	nan	nan	nan	nan		
-431.0	to buy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fel	nan	nan	nan	nan		
-432.0	to sell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fail	nan	nan	nan	nan		
-433.0	to steal	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taʔu	nan	nan	nan	nan		
-434.0	to open	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		duriŋ	nan	nan	nan	nan		
-435.0	to close	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		utel	nan	nan	nan	nan		
-436.0	to climb	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mid	nan	nan	nan	nan		
-437.0	to hide	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafuniŋ	nan	nan	nan	nan		
-438.0	to wait	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adanaŋ	nan	nan	nan	nan		
-439.0	to fold	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pali	nan	nan	nan	nan		
-440.0	to help	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no  data	neita ‘add’	nan	nan	nan		
-441.0	to bark	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lɔu	nan	nan	nan	nan		
-442.0	to shoot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		masaŋ	nan	nan	nan	nan		
-443.0	to shoot with slingshot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-444.0	to pound; to beat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tapaŋ	nan	nan	nan	nan		
-445.0	to hit (drum)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		od	nan	nan	nan	nan		
-446.0	to call out	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		beat	nan	nan	nan	nan		
-447.0	to lie (tell untruth)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aba	nan	nan	nan	nan		
-448.0	to ask (question)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		utaʔaɲ	nan	nan	nan	nan		
-449.0	to count	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taʔan	nan	nan	nan	nan		
-450.0	one	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nu	nan	nan	nan	nan		
-451.0	two	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alo	nan	nan	nan	nan		
-452.0	three	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɔu	nan	nan	nan	nan		
-453.0	four	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ut	nan	nan	nan	nan		
-454.0	five	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ifihiŋ	nan	nan	nan	nan		
-455.0	six	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tala:ŋ	nan	nan	nan	nan		
-456.0	seven	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		itito	nan	nan	nan	nan		
-457.0	eight	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		turlo	nan	nan	nan	nan		
-458.0	nine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti enu	nan	nan	nan	nan		
-459.0	ten	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu	nan	nan	nan	nan		
-460.0	eleven	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ nu	faliŋ ‘more’	nan	nan	nan		
-461.0	twelve	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ alɔ	nan	nan	nan	nan		
-462.0	thirteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ tɔu	nan	nan	nan	nan		
-463.0	fourteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ ut	nan	nan	nan	nan		
-464.0	fifteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ ifihiŋ	nan	nan	nan	nan		
-465.0	sixteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ tala:ŋ	nan	nan	nan	nan		
-466.0	seventeen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ itito	nan	nan	nan	nan		
-467.0	eighteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ turlɔ	nan	nan	nan	nan		
-468.0	nineteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ tieinu	nan	nan	nan	nan		
-469.0	twenty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ	nan	nan	nan	nan		
-470.0	twenty one	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ nu	nan	nan	nan	nan		
-471.0	twenty two	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ alɔ	nan	nan	nan	nan		
-472.0	twenty three	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ tɔu	nan	nan	nan	nan		
-473.0	twenty four	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ ut	nan	nan	nan	nan		
-474.0	twenty five	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ ifihiŋ	nan	nan	nan	nan		
-475.0	thirty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er to	nan	nan	nan	nan		
-476.0	forty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er ut	nan	nan	nan	nan		
-477.0	fifty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er ifihiŋ	nan	nan	nan	nan		
-478.0	sixty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er talaaŋ	nan	nan	nan	nan		
-479.0	seventy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er itito	nan	nan	nan	nan		
-480.0	eighty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er turlo	nan	nan	nan	nan		
-481.0	ninety	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er ti’ einu	nan	nan	nan	nan		
-482.0	one hundred	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ratnu	nan	nan	nan	nan		
-483.0	one hundred and twenty three	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ratnu eralo faliŋ tou	nan	nan	nan	nan		
-484.0	two hundred	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		rat alo	nan	nan	nan	nan		
-485.0	thousand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ribnu	nan	nan	nan	nan		
-486.0	one hundred thousand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lib rat nu	nan	nan	nan	nan		
-487.0	grandmother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bab ‘ob	nan	nan	nan	nan		
-488.0	grandfather	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bab ‘lote	nan	nan	nan	nan		
-489.0	grandchild	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		di’iŋ bab	nan	nan	nan	nan		
-490.0	mother's brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		omaŋsel	nan	nan	nan	nan		
-491.0	nephew; niece	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ai	nan	nan	nan	nan		
-492.0	older brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ lote	matu lote (older)	nan	nan	nan		
-493.0	older sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		matu ob	nan	nan	nan	nan		
-494.0	sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ ob	nan	nan	nan	nan		
-495.0	woman's cross-cousin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ ob	nan	nan	nan	nan		
-496.0	woman's younger sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nivesel	nan	nan	nan	nan		
-497.0	younger brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		di lote	nan	nan	nan	nan		
-498.0	brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ lote	nan	nan	nan	nan		
-499.0	brother-in-law	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nafeŋ	nan	nan	nan	nan		
-500.0	cross-cousin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ob ai	nan	nan	nan	nan		
-501.0	father's sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nivesel	nan	nan	nan	nan		
-502.0	ridge(pole); peak; tip	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ape	nan	nan	nan	nan		
-503.0	rack(above hearth/for storing food)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		huruŋ	nan	nan	nan	nan		
-504.0	broom; sweep	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parin;	parin 'to sweep'; sapu 'broom'	nan	nan	nan		
-505.0	ground for ritual activities and public meetings	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-506.0	mound of stones for ritual activities	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dor	nan	nan	nan	nan		
-507.0	meeting house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hada baŋ	nan	nan	nan	nan		
-508.0	floor	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lantai	nan	nan	nan	nan		
-509.0	wall	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kabe	kabe 'bamboo'	nan	nan	nan		
-510.0	window	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sanele	nan	nan	nan	nan		
-511.0	cookhouse; kitchen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dapur	nan	nan	nan	nan		
-512.0	bed	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		de’	nan	nan	nan	nan		
-513.0	chair	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kadere	nan	nan	nan	nan		
-514.0	lamp	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lampu	nan	nan	nan	nan		
-515.0	candle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pa:n	nan	nan	nan	nan		
-516.0	to weave	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		deu;	nan	nan	nan	nan		
-517.0	shirt	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kod	nan	nan	nan	nan		
-518.0	necklace	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ba	nan	nan	nan	nan		
-519.0	earring	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falofaŋ	nan	nan	nan	nan		
-520.0	trousers	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dekolai	nan	nan	nan	nan		
-521.0	sarong (women)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		salim eŋ	salim ‘cloth’	nan	nan	nan		
-522.0	loom	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-523.0	thread	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ab	nan	nan	nan	nan		
-524.0	to worship	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔome	nan	nan	nan	nan		
-525.0	holy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bolaŋ	nan	nan	nan	nan		
-526.0	to bless	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-527.0	God	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lahtal	nan	nan	nan	nan		
-528.0	to pray	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔome	nan	nan	nan	nan		
-529.0	church	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		gareja	nan	nan	nan	nan		
-530.0	mosque	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		umasigi	nan	nan	nan	nan		
-531.0	to curse	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		arahain	nan	nan	nan	nan		
-532.0	priest (modern)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		palinta	nan	nan	nan	nan		
-533.0	sorcerer; witch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tinahain	nan	nan	nan	nan		
-534.0	initiation ceremony	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-535.0	sermon	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-536.0	sacrifice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-537.0	clan	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lelaŋ	nan	nan	nan	nan		
-538.0	chieftain	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lelaŋ omatu	nan	nan	nan	nan		
-539.0	to rule or govern	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parenta 'order (n)'	nan	nan	nan	nan		
-539.0	to rule or govern	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parentapuin	nan	nan	nan	nan		
-540.0	treaty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		belbasa	nan	nan	nan	nan		
-541.0	marriage	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sari med	nan	nan	nan	nan		
-542.0	friend	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tenaŋil	nan	nan	nan	nan		
-543.0	enemy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-544.0	king; ruler	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afen	nan	nan	nan	nan		
-545.0	stranger	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		name ho	nan	nan	nan	nan		
-546.0	to invite	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mariŋ	nan	nan	nan	nan		
-547.0	to command or order	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahou	nan	nan	nan	nan		
-548.0	dowry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afel	unsure	nan	nan	nan		
-549.0	the judge	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-550.0	accuse	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tameŋ	nan	nan	nan	nan		
-551.0	guilty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		u a’hal	nan	nan	nan	nan		
-552.0	innocent	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a’hal nane	nan	nan	nan	nan		
-553.0	the murder	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amine	nan	nan	nan	nan		
-554.0	the adultery	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-555.0	penalty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-556.0	fishnet	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		puko	nan	nan	nan	nan		
-557.0	to surrender	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-558.0	to defend	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eita	nan	nan	nan	nan		
-559.0	the war or battle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mali	nan	nan	nan	nan		
-560.0	poor	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lahal	nan	nan	nan	nan		
-561.0	rich	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kafaj	nan	nan	nan	nan		
-562.0	money	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		seŋ	nan	nan	nan	nan		
-563.0	market	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		don	nan	nan	nan	nan		
-564.0	price	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fali	nan	nan	nan	nan		
-565.0	to own	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-566.0	to borrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tupiŋ	nan	nan	nan	nan		
-567.0	to trade or barter	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dagaŋ	nan	nan	nan	nan		
-568.0	expensive	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falimate	nan	nan	nan	nan		
-569.0	cheap	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falika’ai	nan	nan	nan	nan		
-570.0	to grasp	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuin	nan	nan	nan	nan		
-571.0	to let go	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atain	nan	nan	nan	nan		
-572.0	to promise	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		u apahaʔ	nan	nan	nan	nan		
-573.0	word	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mateiŋ	nan	nan	nan	nan		
-574.0	to answer	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		u abor	nan	nan	nan	nan		
-575.0	to refuse	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-576.0	to whisper	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tamaŋ	nan	nan	nan	nan		
-577.0	to be silent	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		por	nan	nan	nan	nan		
-578.0	to tell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		wu hamu uin	nan	nan	nan	nan		
-579.0	to learn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no data	nan	nan	nan	nan		
-580.0	to teach	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sakolapuin	nan	nan	nan	nan		
-581.0	easy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naka’ai	nan	nan	nan	nan		
-582.0	difficult	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		karak	nan	nan	nan	nan		
-583.0	finished	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no’am	no’am ‘already’	nan	nan	nan		
-584.0	now	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fed	nan	nan	nan	nan		
-585.0	hour	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		jam	nan	nan	nan	nan		
-586.0	same	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ham	nan	nan	nan	nan		
-587.0	oven/cooking place	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eʔfɔi	nan	nan	nan	nan		
-588.0	flower (in e.g. mangga tree)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti buŋ	nan	nan	nan	nan		
-589.0	vein	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taru	nan	nan	nan	nan		
-590.0	long (stick)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tilai	nan	nan	nan	nan		
-591.0	tall (person)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ lɛbaŋ	name mate ‘status’	nan	nan	nan		
-592.0	short (stick)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti tɔʔaŋ	nan	nan	nan	nan		
-593.0	narrow (road)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kapuh	nan	nan	nan	nan		
-596.0	to search/hunt for	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lap	nan	nan	nan	nan		
-597.0	to crouch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		liʔ	nan	nan	nan	nan		
-598.0	to chase away; to expel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahin	ahin ‘chase person’	nan	nan	nan		
+0	sky	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		buraŋ	nan	nan	nan	nan		
+1	sun	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fed	nan	nan	nan	nan		
+2	moon	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ul	nan	nan	nan	nan		
+3	star	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ibiŋ	nan	nan	nan	nan		
+4	night	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dil pana	nan	nan	nan	nan		
+4	night	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		panaʔ	nan	nan	nan	nan		
+5	day	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɛŋ	nan	nan	nan	nan		
+5	day	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ved	nan	nan	nan	nan		
+6	year	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tun	nan	nan	nan	nan		
+7	morning	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lalami	nan	nan	nan	nan		
+8	yesterday	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ufami	nan	nan	nan	nan		
+9	day before yesterday	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔ tarɛŋ alɔ mi	2 days ago	nan	nan	nan		
+10	tomorrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dilɛl	nan	nan	nan	nan		
+11	day after tomorrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dilɛl alɔʔ	nan	nan	nan	nan		
+12	twilight; dawn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dil lalami	nan	nan	nan	nan		
+13	cloud	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafiʔiŋ	nan	nan	nan	nan		
+14	wind	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hamɔi	nan	nan	nan	nan		
+15	rain	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nɔi	nan	nan	nan	nan		
+16	drizzle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		noi reʔ reʔ	nan	nan	nan	nan		
+16	drizzle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		reʔ reʔ	nan	nan	nan	nan		
+17	rainbow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔ bɔ	nan	nan	nan	nan		
+18	thunder	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		buraŋ daʔud	daʔud 'sound of thunder'	nan	nan	nan		
+19	lightning	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔai	nan	nan	nan	nan		
+20	earthquake	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafufui	nan	nan	nan	nan		
+21	fog	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafiʔiŋ	nan	nan	nan	nan		
+22	river; stream	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mol	nan	nan	nan	nan		
+25	lake	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sei lafɔ	nan	nan	nan	nan		
+26	mountain	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔi	nan	nan	nan	nan		
+27	hill; ridge	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔi	nan	nan	nan	nan		
+28	village	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ	nan	nan	nan	nan		
+29	land; soil	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faʔai	nan	nan	nan	nan		
+30	Earth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pali	nan	nan	nan	nan		
+31	hole	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		boi ka?ai	"boi ka?ai ‘small hole’, lafɔ ‘big hole’"	nan	nan	nan		
+32	stone	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fɔi	nan	nan	nan	nan		
+33	coral (rock)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔʔɔi fɔi	nan	nan	nan	nan		
+34	(coral) reef	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔʔɔi	nan	nan	nan	nan		
+35	water (fresh)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sei	nan	nan	nan	nan		
+36	sea; sea water	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taŋ	nan	nan	nan	nan		
+37	wave	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bob	nan	nan	nan	nan		
+38	foam	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fara	nan	nan	nan	nan		
+39	forest	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahain	ahain ‘jungle’	nan	nan	nan		
+39	forest	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bana	ahain ‘jungle’	nan	nan	nan		
+40	field	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hahaɲ	nan	nan	nan	nan		
+40	field	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔ	nan	nan	nan	nan		
+41	island	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pali	nan	nan	nan	nan		
+42	rice field	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dil	"dil 'ladan1251-otvai', sawah: no word"	nan	nan	nan		
+43	garden	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		but	nan	nan	nan	nan		
+44	fence	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fɔ	nan	nan	nan	nan		
+45	road; path; way	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		seʔbur	nan	nan	nan	nan		
+46	canoe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛi	nan	nan	nan	nan		
+47	sail (n.)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lai	nan	nan	nan	nan		
+48	to sail	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taŋ ta lame	travel over sea'	nan	nan	nan		
+49	fishing hook	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hafɛi	nan	nan	nan	nan		
+50	fish trap	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bub	nan	nan	nan	nan		
+51	rope	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛi	nan	nan	nan	nan		
+52	machete	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sapa:d	nan	nan	nan	nan		
+53	axe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baliŋ	nan	nan	nan	nan		
+54	spear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bok	bok ‘kecil’	nan	nan	nan		
+56	stick; pole	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔpaŋ	nan	nan	nan	nan		
+59	bow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pe	nan	nan	nan	nan		
+60	arrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aburiŋ	nan	nan	nan	nan		
+61	knife	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		duir	nan	nan	nan	nan		
+62	comb	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kir	nan	nan	nan	nan		
+63	mat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bu	nan	nan	nan	nan		
+64	needle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		batiŋ	nan	nan	nan	nan		
+65	clothing	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		na:pa	nan	nan	nan	nan		
+67	fire	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔfail	nan	nan	nan	nan		
+68	smoke	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		banɔʔ	nan	nan	nan	nan		
+70	dust; fine earth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maru butuŋ	nan	nan	nan	nan		
+71	fireplace ash	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maru	nan	nan	nan	nan		
+72	mud	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		par	nan	nan	nan	nan		
+73	clay	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faʔai tɛn	nan	nan	nan	nan		
+74	gravel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		darofe	nan	nan	nan	nan		
+75	sand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fetʃ	sp. feit	nan	nan	nan		
+76	grass; brush	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bana	nan	nan	nan	nan		
+77	house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ	nan	nan	nan	nan		
+78	traditional house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hada baŋ	nan	nan	nan	nan		
+79	barn; storage house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛsɛl	nan	nan	nan	nan		
+80	raised platform	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		deʔ	nan	nan	nan	nan		
+81	door	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sɛʔar	nan	nan	nan	nan		
+83	roof thatch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		men	men baŋ ‘house with thatch roof’	nan	nan	nan		
+84	tree	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti	nan	nan	nan	nan		
+85	wood	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti	nan	nan	nan	nan		
+86	bark (of tree)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti fah	nan	nan	nan	nan		
+87	leaf	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		beh	bæh ‘hit’	nan	nan	nan		
+88	branch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abalɛ	nan	nan	nan	nan		
+89	firewood	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a	nan	nan	nan	nan		
+90	rattan	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lɛ	nan	nan	nan	nan		
+91	root	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aliʔaŋ	nan	nan	nan	nan		
+92	fruit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pir	nan	nan	nan	nan		
+93	seed	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afail	nan	nan	nan	nan		
+94	grain; cereal	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naʔfail	nan	nan	nan	nan		
+96	husked rice; uncooked rice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ala	nan	nan	nan	nan		
+97	rice grains (unhusked) (raw from field)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alaʔ	nan	nan	nan	nan		
+98	cooked rice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ala meɟ	sp. ala meit	nan	nan	nan		
+99	rice plant	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alaʔ	nan	nan	nan	nan		
+100	to plant (yam)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		oti mudiŋ	nan	nan	nan	nan		
+101	to plant (rice)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ala teʔ	nan	nan	nan	nan		
+102	betel nut; areca	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bu	nan	nan	nan	nan		
+103	betel vine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		meit	meit > meʤ	nan	nan	nan		
+103	betel vine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		meɟ	nan	nan	nan	nan		
+104	lime	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afai	nan	nan	nan	nan		
+105	chew betel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		na ha:ŋ	nan	nan	nan	nan		
+106	sweet potato	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falaɟ	nan	nan	nan	nan		
+107	cassava	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		outi	nan	nan	nan	nan		
+108	taro	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		agɔl	nan	nan	nan	nan		
+111	sugarcane	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sob	nan	nan	nan	nan		
+112	corn; maize	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bate	nan	nan	nan	nan		
+113	cooked corn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bate afail	nan	nan	nan	nan		
+114	coconut	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faʔ	nan	nan	nan	nan		
+116	lontar palm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɔk	nan	nan	nan	nan		
+117	sugar palm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nɔu	nan	nan	nan	nan		
+118	marungga	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mɔtɔŋ	nan	nan	nan	nan		
+119	gum tree; eucalyptus	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pu	nan	nan	nan	nan		
+120	bamboo	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pituŋ	nan	nan	nan	nan		
+121	banana	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mɔʔɔi	nan	nan	nan	nan		
+122	mango	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛ	nan	nan	nan	nan		
+123	papaya	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		timɔʔɔi	nan	nan	nan	nan		
+124	jackfruit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ifaŋtoŋ	nan	nan	nan	nan		
+125	breadfruit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		uliŋ	nan	nan	nan	nan		
+126	bean	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		utaŋ	nan	nan	nan	nan		
+127	honey	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		faɲ sei	nan	nan	nan	nan		
+128	milk	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		to	to ‘breastmilk’	nan	nan	nan		
+129	salt	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hahei	nan	nan	nan	nan		
+130	fat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tamar	nan	nan	nan	nan		
+132	bone	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔb	nan	nan	nan	nan		
+133	rib	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atoteʔ nɛmaŋ	nan	nan	nan	nan		
+134	sweat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		latutuŋ	nan	nan	nan	nan		
+135	tear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eŋmari	nan	nan	nan	nan		
+136	blood	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fui	nan	nan	nan	nan		
+138	heart	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		damur	nan	nan	nan	nan		
+139	liver	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fala:d	nan	nan	nan	nan		
+141	guts	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atoʔom	nan	nan	nan	nan		
+142	excrement	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hah	nan	nan	nan	nan		
+143	lungs	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fala:d	nan	nan	nan	nan		
+144	stomach; belly	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atoʔ	nan	nan	nan	nan		
+145	head	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lafuŋ	nan	nan	nan	nan		
+146	hair	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ariʔ nemaŋ	nan	nan	nan	nan		
+147	body hair	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛŋ	nan	nan	nan	nan		
+148	eye	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eʔfail	nan	nan	nan	nan		
+149	ear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afɛl	nan	nan	nan	nan		
+150	nose	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amiŋ	nan	nan	nan	nan		
+151	mouth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a:t	nan	nan	nan	nan		
+152	chin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		arfah	nan	nan	nan	nan		
+153	lips	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amiŋtapo	nan	nan	nan	nan		
+154	teeth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afiŋ	afiŋ nu 'one teeth'	nan	nan	nan		
+155	tongue	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alibuŋ	nan	nan	nan	nan		
+156	neck	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔrɔ	nan	nan	nan	nan		
+157	shoulder	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abare	nan	nan	nan	nan		
+158	body	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afah	nan	nan	nan	nan		
+159	forehead	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apɔŋfaʔ	nan	nan	nan	nan		
+160	nostril	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amiŋboi	nan	nan	nan	nan		
+161	mucus	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hin	nan	nan	nan	nan		
+162	cheek	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aduŋ	nan	nan	nan	nan		
+163	arm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ	nan	nan	nan	nan		
+164	hand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ om	ataŋpa’ ‘fingers’	nan	nan	nan		
+165	palm of hand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ om	nan	nan	nan	nan		
+166	finger	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ paʔ nu	nan	nan	nan	nan		
+167	fingernail	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ataŋ uʔhuɲ	nan	nan	nan	nan		
+168	breast	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɔ	nan	nan	nan	nan		
+169	chest	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adel	nan	nan	nan	nan		
+170	navel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuhei	nan	nan	nan	nan		
+171	penis	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atu	nan	nan	nan	nan		
+172	vagina	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a:l	nan	nan	nan	nan		
+173	testicles	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atu afail	nan	nan	nan	nan		
+174	leg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔfa	nan	nan	nan	nan		
+175	foot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔfa	nan	nan	nan	nan		
+176	heel of foot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔuda	nan	nan	nan	nan		
+177	sole of foot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔom	nan	nan	nan	nan		
+178	knee	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parih	nan	nan	nan	nan		
+179	back	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amɔt	nan	nan	nan	nan		
+180	spine; lower back	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amɔtsel	 ‘spine’	nan	nan	nan		
+181	waist	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahɛŋ	nan	nan	nan	nan		
+182	skin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		uil	nan	nan	nan	nan		
+183	sore; wound	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bah	nan	nan	nan	nan		
+184	ringworm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		at	nan	nan	nan	nan		
+185	scabies	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		harukaŋ	nan	nan	nan	nan		
+186	tinea	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		palaŋ	nan	nan	nan	nan		
+187	feverish	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tasɔʔ	nan	nan	nan	nan		
+188	conjunctivitis	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛʔfail ten	nan	nan	nan	nan		
+189	cold; influenza	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hu	nan	nan	nan	nan		
+190	person	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		name	nan	nan	nan	nan		
+191	name	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ani	nan	nan	nan	nan		
+192	child	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ai	nan	nan	nan	nan		
+193	man	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lote	nan	nan	nan	nan		
+194	woman	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔb	nan	nan	nan	nan		
+195	husband	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no lote	1SG man	nan	nan	nan		
+196	wife	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no ob	1SG woman	nan	nan	nan		
+197	mother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nivɛ	1SG mother	nan	nan	nan		
+198	father	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nimaŋ	nan	nan	nan	nan		
+199	older sibling	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		matu	nan	nan	nan	nan		
+200	younger sibling	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		di	nan	nan	nan	nan		
+201	bride price	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fali	nan	nan	nan	nan		
+202	slave	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		name o ahouʔ ei	nan	nan	nan	nan		
+203	1sg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nari	nan	nan	nan	nan		
+204	2sg (informal)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ari	nan	nan	nan	nan		
+205	2sg (polite)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hari	nan	nan	nan	nan		
+206	3sg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sari	nan	nan	nan	nan		
+207	1pl excl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		niri	nan	nan	nan	nan		
+208	1pl incl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		piri	nan	nan	nan	nan		
+209	2pl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		iri	nan	nan	nan	nan		
+210	3pl	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		supi	nan	nan	nan	nan		
+211	no; not	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔai	nan	nan	nan	nan		
+212	and	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛ	nan	nan	nan	nan		
+213	because	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fedeʔ	fedeʔ 'reason'	nan	nan	nan		
+216	what?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naba	nan	nan	nan	nan		
+217	who?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a:no	nan	nan	nan	nan		
+218	where?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔ mi	tarɔ mi ‘di mana’	nan	nan	nan		
+219	when?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		den	nan	nan	nan	nan		
+220	why?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔʔ ni(n)	nan	nan	nan	nan		
+221	how much; how many?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		den	nan	nan	nan	nan		
+222	how?	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarɔʔ nin	nan	nan	nan	nan		
+223	this	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɔʔ	nan	nan	nan	nan		
+224	that	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hou	nan	nan	nan	nan		
+225	at	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mi	nan	nan	nan	nan		
+226	in; inside	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ʔɔm	nan	nan	nan	nan		
+227	here	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɔʔɔ mi	nan	nan	nan	nan		
+228	there	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛmɔ mi	nan	nan	nan	nan		
+229	above	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛtɔ mi	hɛtɔ mi (direction) toŋ (high up)	nan	nan	nan		
+230	below	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɛlɛho mi	hɛlɛho mi ‘di bawah sana itu (altitude/diff level)’	nan	nan	nan		
+231	left (side)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fiʔiŋ	nan	nan	nan	nan		
+232	right (side)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taniŋ	nan	nan	nan	nan		
+233	a few	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		piteʔ	nan	nan	nan	nan		
+234	all	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		barpi	nan	nan	nan	nan		
+235	many	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lafoh	nan	nan	nan	nan		
+236	animal	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		binanta	nan	nan	nan	nan		
+238	dog	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bel	nan	nan	nan	nan		
+239	pig	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɔi	nan	nan	nan	nan		
+240	chicken	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hiu	nan	nan	nan	nan		
+241	rat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dur	nan	nan	nan	nan		
+242	lizard	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɛko	nan	nan	nan	nan		
+243	civet cat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alu	nan	nan	nan	nan		
+244	deer	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aru	nan	nan	nan	nan		
+245	frog	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		upapaʔ	nan	nan	nan	nan		
+246	bat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fak	fak 'big bat'	nan	nan	nan		
+247	flying fox; fruit bat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		madiruŋ	madiruŋ ‘small flying fox’	nan	nan	nan		
+249	tail	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔl	nan	nan	nan	nan		
+250	fish	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hab	nan	nan	nan	nan		
+251	shark	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tabɛi	nan	nan	nan	nan		
+252	whale	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		siruŋ piruŋ	nan	nan	nan	nan		
+253	dolphin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		usah dasah	nan	nan	nan	nan		
+254	crocodile	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baʔai	nan	nan	nan	nan		
+255	monitor lizard	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alɛh	nan	nan	nan	nan		
+256	starfish	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taŋ ibiŋ	nan	nan	nan	nan		
+257	turtle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sɛi ʔu	nan	nan	nan	nan		
+258	turtle (saltwater)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sɛi ʔu	nan	nan	nan	nan		
+259	bird	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hiuw	nan	nan	nan	nan		
+260	wing	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afitaŋ	nan	nan	nan	nan		
+262	feather	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hiuw falɔ	nan	nan	nan	nan		
+263	horn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amuʔ	nan	nan	nan	nan		
+264	snake	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mon	mɔn ‘domesticated’	nan	nan	nan		
+265	scorpion	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pail	nan	nan	nan	nan		
+266	egg	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔ	nan	nan	nan	nan		
+267	earthworm	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kadile	nan	nan	nan	nan		
+268	butterfly	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pupu	nan	nan	nan	nan		
+269	fly (n.)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		libuŋ	nan	nan	nan	nan		
+270	mosquito	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		in	nan	nan	nan	nan		
+271	ant	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abutɛ	nan	nan	nan	nan		
+272	grasshopper	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kafɛ	nan	nan	nan	nan		
+273	locust	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amariŋ	nan	nan	nan	nan		
+274	spider	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alɛlaŋ bɔbɔ	nan	nan	nan	nan		
+275	headlice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		oin	nan	nan	nan	nan		
+276	louse eggs	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fadin	nan	nan	nan	nan		
+277	mother louse	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔbe	nan	nan	nan	nan		
+278	flea	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ut	nan	nan	nan	nan		
+279	louse (clothing)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tameʔ	nan	nan	nan	nan		
+280	bedbug	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tameʔ	nan	nan	nan	nan		
+281	big	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mate	nan	nan	nan	nan		
+282	small	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kaʔai	nan	nan	nan	nan		
+283	old; worn (house)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ ɛm	nan	nan	nan	nan		
+284	new (house)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baŋ habar	nan	nan	nan	nan		
+285	old (people)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ tumɔ	nan	nan	nan	nan		
+286	young (people)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ afɔr	nan	nan	nan	nan		
+287	lazy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lahun	nan	nan	nan	nan		
+288	hot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bune	nan	nan	nan	nan		
+289	cold	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maʔab	nan	nan	nan	nan		
+290	good	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nɔʔ	nan	nan	nan	nan		
+291	bad	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sah	nan	nan	nan	nan		
+292	full	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afɛŋ	nan	nan	nan	nan		
+293	empty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		oh	nan	nan	nan	nan		
+294	near	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fanaŋ	nan	nan	nan	nan		
+295	far	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lɛt	nan	nan	nan	nan		
+296	wet	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		har	nan	nan	nan	nan		
+297	dry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔiraŋ	nan	nan	nan	nan		
+298	dry in sun	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		poil	nan	nan	nan	nan		
+302	short (people)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ kadɔŋ	nan	nan	nan	nan		
+303	thin (non-human)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tiʔiŋ	nan	nan	nan	nan		
+304	skinny (human)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔitiŋ	nan	nan	nan	nan		
+305	thick	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tapah	nan	nan	nan	nan		
+306	round	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kadɔlaŋ	nan	nan	nan	nan		
+307	dark	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pana	nan	nan	nan	nan		
+308	light	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lel	nan	nan	nan	nan		
+309	dirty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		karɔ	nan	nan	nan	nan		
+310	clean	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɔlaŋ	nan	nan	nan	nan		
+311	sharp	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hudiŋ	hudiŋ ‘knife sharp’	nan	nan	nan		
+312	blunt; dull	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		umɛ	nan	nan	nan	nan		
+313	heavy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tarofɛ	nan	nan	nan	nan		
+314	light (weight)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		filuŋ	nan	nan	nan	nan		
+315	straight	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mulaŋ	nan	nan	nan	nan		
+316	wide	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛraŋ	nan	nan	nan	nan		
+318	correct	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abul	nan	nan	nan	nan		
+319	wrong	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahal	nan	nan	nan	nan		
+320	ripe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ten	nan	nan	nan	nan		
+321	rotten	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bonɛ	nan	nan	nan	nan		
+322	bitter	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mahib	nan	nan	nan	nan		
+323	sweet	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		darefaŋ	nan	nan	nan	nan		
+324	sour	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aruhuɲ	sp. aruhuin	nan	nan	nan		
+325	salty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atɔr	nan	nan	nan	nan		
+326	flat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		buir	nan	nan	nan	nan		
+327	smooth	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dul	nan	nan	nan	nan		
+328	rough	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atɔʔ	nan	nan	nan	nan		
+329	black	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		laʔan	nan	nan	nan	nan		
+330	white	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afɛl	nan	nan	nan	nan		
+331	red	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɛn	nan	nan	nan	nan		
+332	green	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		leu	nan	nan	nan	nan		
+333	blue	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		leu	nan	nan	nan	nan		
+334	yellow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baʔoil	nan	nan	nan	nan		
+335	sick; painful	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		maʔar	nan	nan	nan	nan		
+336	shy; ashamed	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		malaʔ	nan	nan	nan	nan		
+337	thirsty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dɔrɔ taʔat	nan	nan	nan	nan		
+338	hungry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		malihiŋ	nan	nan	nan	nan		
+339	blind	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eŋ maru	nan	nan	nan	nan		
+340	deaf	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		palaʔ	nan	nan	nan	nan		
+341	scared	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		barɔɟ	nan	nan	nan	nan		
+342	angry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ariʔiŋ	nan	nan	nan	nan		
+343	to see	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɛdun	nan	nan	nan	nan		
+344	to hear	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alɛpaŋ	nan	nan	nan	nan		
+345	to smell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amuniŋ	nan	nan	nan	nan		
+346	to think	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tanut	nan	nan	nan	nan		
+347	to know	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahol	nan	nan	nan	nan		
+348	to say	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ubaŋ	nan	nan	nan	nan		
+349	to speak	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mateŋ	nan	nan	nan	nan		
+350	voice	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amaŋ	nan	nan	nan	nan		
+351	language	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mateŋ	nan	nan	nan	nan		
+352	to lie down	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tar	nan	nan	nan	nan		
+353	to sleep	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mɔp	nan	nan	nan	nan		
+354	to wake up	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		to	nan	nan	nan	nan		
+355	to wake someone up	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aden to	nan	nan	nan	nan		
+356	to bathe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		foil	nan	nan	nan	nan		
+357	to bathe (a child)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afoil	nan	nan	nan	nan		
+358	to sit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mih	nan	nan	nan	nan		
+359	to stand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		toh	nan	nan	nan	nan		
+360	to walk	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eʔfa puɲ	nan	nan	nan	nan		
+361	to run	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		teʔeŋ	nan	nan	nan	nan		
+362	to go	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sam	nan	nan	nan	nan		
+363	to swim	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		arɔŋ	nan	nan	nan	nan		
+364	to fly	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lil	nan	nan	nan	nan		
+365	to fall (from above)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mutʃ hel	nan	nan	nan	nan		
+366	to fall over	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ɔl	nan	nan	nan	nan		
+367	to drop	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amutʃ	nan	nan	nan	nan		
+368	to drink	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		na	nan	nan	nan	nan		
+369	to eat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ade	nan	nan	nan	nan		
+370	to cook	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dou	nan	nan	nan	nan		
+371	to wash	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lam	"lam 'wash clothes', hafo 'wash dishes'"	nan	nan	nan		
+372	to sew	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		harot	nan	nan	nan	nan		
+373	to live; be alive; living	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fetaŋ	nan	nan	nan	nan		
+374	to breathe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔeŋ baliŋ	nan	nan	nan	nan		
+375	to work	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		karasaŋ	nan	nan	nan	nan		
+376	to die	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		min	nan	nan	nan	nan		
+377	to give	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		en	nan	nan	nan	nan		
+378	to wipe	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		luh	nan	nan	nan	nan		
+379	to come	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hɔʔ	nan	nan	nan	nan		
+380	to laugh	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		asal	nan	nan	nan	nan		
+381	to cry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahaɲ	nan	nan	nan	nan		
+382	to dance	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sabeak	nan	nan	nan	nan		
+383	to sing	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dal	nan	nan	nan	nan		
+384	to burn (clear land)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tub	daŋ ‘grill fish’	nan	nan	nan		
+385	to burn; to shine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apeu	apeu 'burn paper'	nan	nan	nan		
+386	to shine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fail	nan	nan	nan	nan		
+387	to chew	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haŋ	nan	nan	nan	nan		
+388	to yawn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		halafoh	nan	nan	nan	nan		
+389	to suck	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dutʃ	dutʃ ‘suck bottle’	nan	nan	nan		
+390	to blow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuʔ	nan	nan	nan	nan		
+391	to spit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		malɛi	nan	nan	nan	nan		
+392	to vomit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		wuɟ	nan	nan	nan	nan		
+393	to rub	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		luh	nan	nan	nan	nan		
+394	to scratch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tu	nan	nan	nan	nan		
+395	itchy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ka:k	nan	nan	nan	nan		
+396	to swell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔ ɔbe	nan	nan	nan	nan		
+397	to hit	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bɛh	nan	nan	nan	nan		
+398	to slap	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		baʔ	nan	nan	nan	nan		
+399	to bite	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eh	nan	nan	nan	nan		
+400	to cut	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tatɔ	nan	nan	nan	nan		
+401	to cut down	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abɔʔɔi	nan	nan	nan	nan		
+402	to split	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adid	nan	nan	nan	nan		
+403	to divide	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dala:m	nan	nan	nan	nan		
+404	to stab	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		teʔ	nan	nan	nan	nan		
+405	to skewer	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		teʔ	nan	nan	nan	nan		
+406	to fight	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		saribeh	nan	nan	nan	nan		
+407	to guard	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bu ʔaŋ	nan	nan	nan	nan		
+408	to throw	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		od	nan	nan	nan	nan		
+409	to hunt	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naluh	nan	nan	nan	nan		
+410	to kill	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amine	nan	nan	nan	nan		
+411	to chase away	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aralil	nan	nan	nan	nan		
+414	to dig	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aruŋ	tafi ʔiŋ ‘dig with hand’	nan	nan	nan		
+415	to bury	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apot	"apot 'to bury', dere 'grave'"	nan	nan	nan		
+416	to flow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafoil	nan	nan	nan	nan		
+417	to float	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ted	nan	nan	nan	nan		
+418	to freeze	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adobe	adobe ‘to harden’	nan	nan	nan		
+419	to hold	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuɲ	nan	nan	nan	nan		
+420	to tie	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apetʃ	nan	nan	nan	nan		
+421	to play	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		haʔor	nan	nan	nan	nan		
+422	to pull	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bariŋ	nan	nan	nan	nan		
+423	to push	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adodo;	adodo ‘push’	nan	nan	nan		
+424	to turn	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ladimaŋ	nan	nan	nan	nan		
+425	to dream	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apai	nan	nan	nan	nan		
+427	to live; to stay	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mi	nan	nan	nan	nan		
+428	to choose	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taraʔ	nan	nan	nan	nan		
+429	to grow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		abɔu	nan	nan	nan	nan		
+430	to squeeze	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apap	nan	nan	nan	nan		
+431	to buy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fel	nan	nan	nan	nan		
+432	to sell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fail	nan	nan	nan	nan		
+433	to steal	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taʔu	nan	nan	nan	nan		
+434	to open	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		duriŋ	nan	nan	nan	nan		
+435	to close	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		utel	nan	nan	nan	nan		
+436	to climb	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mid	nan	nan	nan	nan		
+437	to hide	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tafuniŋ	nan	nan	nan	nan		
+438	to wait	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		adanaŋ	nan	nan	nan	nan		
+439	to fold	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pali	nan	nan	nan	nan		
+441	to bark	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lɔu	nan	nan	nan	nan		
+442	to shoot	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		masaŋ	nan	nan	nan	nan		
+444	to pound; to beat	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tapaŋ	nan	nan	nan	nan		
+445	to hit (drum)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		od	nan	nan	nan	nan		
+446	to call out	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		beat	nan	nan	nan	nan		
+447	to lie (tell untruth)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aba	nan	nan	nan	nan		
+448	to ask (question)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		utaʔaɲ	nan	nan	nan	nan		
+449	to count	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taʔan	nan	nan	nan	nan		
+450	one	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nu	nan	nan	nan	nan		
+451	two	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		alo	nan	nan	nan	nan		
+452	three	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tɔu	nan	nan	nan	nan		
+453	four	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ut	nan	nan	nan	nan		
+454	five	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ifihiŋ	nan	nan	nan	nan		
+455	six	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tala:ŋ	nan	nan	nan	nan		
+456	seven	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		itito	nan	nan	nan	nan		
+457	eight	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		turlo	nan	nan	nan	nan		
+458	nine	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti enu	nan	nan	nan	nan		
+459	ten	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu	nan	nan	nan	nan		
+460	eleven	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ nu	faliŋ ‘more’	nan	nan	nan		
+461	twelve	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ alɔ	nan	nan	nan	nan		
+462	thirteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ tɔu	nan	nan	nan	nan		
+463	fourteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ ut	nan	nan	nan	nan		
+464	fifteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ ifihiŋ	nan	nan	nan	nan		
+465	sixteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ tala:ŋ	nan	nan	nan	nan		
+466	seventeen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ itito	nan	nan	nan	nan		
+467	eighteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ turlɔ	nan	nan	nan	nan		
+468	nineteen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ernu faliŋ tieinu	nan	nan	nan	nan		
+469	twenty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ	nan	nan	nan	nan		
+470	twenty one	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ nu	nan	nan	nan	nan		
+471	twenty two	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ alɔ	nan	nan	nan	nan		
+472	twenty three	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ tɔu	nan	nan	nan	nan		
+473	twenty four	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ ut	nan	nan	nan	nan		
+474	twenty five	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eralɔ faliŋ ifihiŋ	nan	nan	nan	nan		
+475	thirty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er to	nan	nan	nan	nan		
+476	forty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er ut	nan	nan	nan	nan		
+477	fifty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er ifihiŋ	nan	nan	nan	nan		
+478	sixty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er talaaŋ	nan	nan	nan	nan		
+479	seventy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er itito	nan	nan	nan	nan		
+480	eighty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er turlo	nan	nan	nan	nan		
+481	ninety	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		er ti’ einu	nan	nan	nan	nan		
+482	one hundred	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ratnu	nan	nan	nan	nan		
+483	one hundred and twenty three	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ratnu eralo faliŋ tou	nan	nan	nan	nan		
+484	two hundred	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		rat alo	nan	nan	nan	nan		
+485	thousand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ribnu	nan	nan	nan	nan		
+486	one hundred thousand	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lib rat nu	nan	nan	nan	nan		
+487	grandmother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bab ‘ob	nan	nan	nan	nan		
+488	grandfather	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bab ‘lote	nan	nan	nan	nan		
+489	grandchild	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		di’iŋ bab	nan	nan	nan	nan		
+490	mother's brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		omaŋsel	nan	nan	nan	nan		
+491	nephew; niece	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ai	nan	nan	nan	nan		
+492	older brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ lote	matu lote (older)	nan	nan	nan		
+493	older sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		matu ob	nan	nan	nan	nan		
+494	sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ ob	nan	nan	nan	nan		
+495	woman's cross-cousin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ ob	nan	nan	nan	nan		
+496	woman's younger sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nivesel	nan	nan	nan	nan		
+497	younger brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		di lote	nan	nan	nan	nan		
+498	brother	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		udiŋ lote	nan	nan	nan	nan		
+499	brother-in-law	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nafeŋ	nan	nan	nan	nan		
+500	cross-cousin	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ob ai	nan	nan	nan	nan		
+501	father's sister	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		nivesel	nan	nan	nan	nan		
+502	ridge(pole); peak; tip	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ape	nan	nan	nan	nan		
+503	rack(above hearth/for storing food)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		huruŋ	nan	nan	nan	nan		
+504	broom; sweep	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parin	parin 'to sweep'; sapu 'broom'	nan	nan	nan		
+506	mound of stones for ritual activities	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dor	nan	nan	nan	nan		
+507	meeting house	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		hada baŋ	nan	nan	nan	nan		
+508	floor	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lantai	nan	nan	nan	nan		
+509	wall	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kabe	kabe 'bamboo'	nan	nan	nan		
+510	window	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sanele	nan	nan	nan	nan		
+511	cookhouse; kitchen	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dapur	nan	nan	nan	nan		
+512	bed	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		de’	nan	nan	nan	nan		
+513	chair	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kadere	nan	nan	nan	nan		
+514	lamp	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lampu	nan	nan	nan	nan		
+515	candle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		pa:n	nan	nan	nan	nan		
+516	to weave	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		deu	nan	nan	nan	nan		
+517	shirt	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kod	nan	nan	nan	nan		
+518	necklace	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ba	nan	nan	nan	nan		
+519	earring	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falofaŋ	nan	nan	nan	nan		
+520	trousers	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dekolai	nan	nan	nan	nan		
+521	sarong (women)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		salim eŋ	salim ‘cloth’	nan	nan	nan		
+523	thread	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ab	nan	nan	nan	nan		
+524	to worship	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔome	nan	nan	nan	nan		
+525	holy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		bolaŋ	nan	nan	nan	nan		
+527	God	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lahtal	nan	nan	nan	nan		
+528	to pray	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		aʔome	nan	nan	nan	nan		
+529	church	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		gareʤa	nan	nan	nan	nan		
+530	mosque	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		umasigi	nan	nan	nan	nan		
+531	to curse	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		arahain	nan	nan	nan	nan		
+532	priest (modern)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		palinta	nan	nan	nan	nan		
+533	sorcerer; witch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tinahain	nan	nan	nan	nan		
+537	clan	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lelaŋ	nan	nan	nan	nan		
+538	chieftain	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lelaŋ omatu	nan	nan	nan	nan		
+539	to rule or govern	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parenta 'order (n)'	nan	nan	nan	nan		
+539	to rule or govern	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		parentapuin	nan	nan	nan	nan		
+540	treaty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		belbasa	nan	nan	nan	nan		
+541	marriage	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sari med	nan	nan	nan	nan		
+542	friend	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tenaŋil	nan	nan	nan	nan		
+544	king; ruler	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afen	nan	nan	nan	nan		
+545	stranger	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		name ho	nan	nan	nan	nan		
+546	to invite	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mariŋ	nan	nan	nan	nan		
+547	to command or order	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahou	nan	nan	nan	nan		
+548	dowry	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		afel	unsure	nan	nan	nan		
+550	accuse	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tameŋ	nan	nan	nan	nan		
+551	guilty	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		u a’hal	nan	nan	nan	nan		
+552	innocent	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		a’hal nane	nan	nan	nan	nan		
+553	the murder	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		amine	nan	nan	nan	nan		
+556	fishnet	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		puko	nan	nan	nan	nan		
+558	to defend	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eita	nan	nan	nan	nan		
+559	the war or battle	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mali	nan	nan	nan	nan		
+560	poor	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lahal	nan	nan	nan	nan		
+561	rich	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kafaʤ	nan	nan	nan	nan		
+562	money	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		seŋ	nan	nan	nan	nan		
+563	market	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		don	nan	nan	nan	nan		
+564	price	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fali	nan	nan	nan	nan		
+566	to borrow	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tupiŋ	nan	nan	nan	nan		
+567	to trade or barter	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		dagaŋ	nan	nan	nan	nan		
+568	expensive	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falimate	nan	nan	nan	nan		
+569	cheap	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		falika’ai	nan	nan	nan	nan		
+570	to grasp	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		apuin	nan	nan	nan	nan		
+571	to let go	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		atain	nan	nan	nan	nan		
+572	to promise	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		u apahaʔ	nan	nan	nan	nan		
+573	word	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		mateiŋ	nan	nan	nan	nan		
+574	to answer	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		u abor	nan	nan	nan	nan		
+576	to whisper	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tamaŋ	nan	nan	nan	nan		
+577	to be silent	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		por	nan	nan	nan	nan		
+578	to tell	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		wu hamu uin	nan	nan	nan	nan		
+580	to teach	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		sakolapuin	nan	nan	nan	nan		
+581	easy	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		naka’ai	nan	nan	nan	nan		
+582	difficult	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		karak	nan	nan	nan	nan		
+583	finished	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		no’am	no’am ‘already’	nan	nan	nan		
+584	now	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		fed	nan	nan	nan	nan		
+585	hour	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ʤam	nan	nan	nan	nan		
+586	same	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ham	nan	nan	nan	nan		
+587	oven/cooking place	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		eʔfɔi	nan	nan	nan	nan		
+588	flower (in e.g. mangga tree)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti buŋ	nan	nan	nan	nan		
+589	vein	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		taru	nan	nan	nan	nan		
+590	long (stick)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		tilai	nan	nan	nan	nan		
+591	tall (person)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		namɛ lɛbaŋ	name mate ‘status’	nan	nan	nan		
+592	short (stick)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ti tɔʔaŋ	nan	nan	nan	nan		
+593	narrow (road)	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		kapuh	nan	nan	nan	nan		
+596	to search/hunt for	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		lap	nan	nan	nan	nan		
+597	to crouch	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		liʔ	nan	nan	nan	nan		
+598	to chase away; to expel	adan1251-otvai	Adang-Otvai	Timor-Alor-Pantar		ahin	ahin ‘chase person’	nan	nan	nan		
