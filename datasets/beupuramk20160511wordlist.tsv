@@ -1,588 +1,600 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0.0	sky	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'buraŋ	check the pronouns or pronominal prefixes in Steinhauer and see where they are used in  the word list	nan	('sky', 'adan1251', 'buraŋ')	nan		
-1.0	sun	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wɛd	w=written as v and b, but pronounced as labialized vowel or as /w/	nan	('sun', 'abui1241-fuime', 'wari')	nan		
-2.0	moon	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uru	onsetless labialized vowel	nan	('moon', 'abui1241-fuime', 'ije')	nan		
-3.0	star	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	jid	onsetless palatalized vowel	nan	('star', 'abui1241-fuime', 'fɪri')	nan		
-4.0	night	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir 'kua	nan	nan	"('night', 'pura1258', ""bir_'kua"")"	nan		
-4.0	night	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vir 'kua	nan	nan	"('night', 'pura1258', ""bir_'kua"")"	nan		
-5.0	day	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'rɛŋ	nan	nan	('day', 'abui1241-fuime', 'tadeng')	nan		
-6.0	year	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tuŋ	nan	nan	('year', 'abui1241-petle', 'tuŋ')	nan		
-7.0	morning	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'kua 'vɛŋ	nan	nan	"('morning', 'pura1258', ""'kua_'vɛŋ"")"	nan		
-8.0	yesterday	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'malɛŋ	nan	nan	"('yesterday', 'pura1258', ""'malɛŋ"")"	nan		
-9.0	day before yesterday	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɛnanta'ŋaru	nan	nan	"('day before yesterday', 'pura1258', ""bɛnanta'ŋaru"")"	nan		
-10.0	tomorrow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tobaŋ	nan	nan	('tomorrow', 'baka1276', 'tóbaŋ')	nan		
-11.0	day after tomorrow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɛnantan 'tue	nan	nan	"('day after tomorrow', 'pura1258', ""bɛnantan_'tue"")"	nan		
-12.0	twilight; dawn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟala 'abuŋ	nan	nan	('twilight; dawn', 'baka1276', 'bil_jara_abuŋ')	nan		
-13.0	cloud	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	banu	nan	nan	('cloud', 'baka1276', 'bənaw')	nan		
-14.0	wind	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛnar	onsetless vowel with small /h/ preceding it	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
-15.0	rain	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'nuar	onsetless vowel with small /h/ preceding it	nan	('rain', 'abui1241-fuime', 'anui')	nan		
-16.0	drizzle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'nuar ka'kiri	nan	nan	('drizzle', 'adan1251', 'noi_reʔ_reʔ')	nan		
-17.0	rainbow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'tambe	nan	nan	"('rainbow', 'pura1258', ""ka'tambe"")"	nan		
-18.0	thunder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'buraŋ 'dumuŋ	nan	nan	('thunder', 'adan1251', 'buraŋ_daʔud')	nan		
-19.0	lightning	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir'mɛla	MT pronounces /b/ slightly implosive	nan	('lightning', 'baka1276', 'bil_məlélak')	nan		
-20.0	earthquake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'pɔrta'ɟoa	nan	nan	('earthquake', 'abui1241-fuime', 'taiyoka')	nan		
-21.0	fog	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir ma'nuruŋ	MT pronounces /b/ slightly implosive	nan	('fog', 'blag1240-bama', 'ilmoró')	nan		
-22.0	river; stream	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	moar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-23.0	ice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛs	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-24.0	snow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'mopuŋ	nan	nan	"('snow', 'pura1258', ""'mopuŋ"")"	nan		
-25.0	lake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'zalbal, 'jalval	variation in pronunciation of /z,j/ and /b,v/	nan	('lake', 'abui1241-takal', 'ijä_ʋäl')	nan		
-26.0	mountain	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dɔl	nan	nan	('mountain', 'adan1251', 'dɔi')	nan		
-27.0	hill; ridge	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abu	onsetless vowel with small /h/ preceding it	nan	('hill; ridge', 'pura1258', 'abu')	nan		
-28.0	village	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abaŋ	nan	nan	('village', 'adan1251', 'baŋ')	nan		
-29.0	land; soil	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	make	nan	nan	('land; soil', 'pura1258', 'make')	nan		
-30.0	Earth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɔr	nan	nan	('Earth', 'alor1249-sar-a', 'por')	nan		
-31.0	hole	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɔr	nan	nan	('hole', 'blag1240-kulij', 'bor')	nan		
-32.0	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bar, var, war	variation in pronunciation of initial consonant, unlike in previous word /bor/ 'hole'	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-33.0	coral (rock)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bar omi	nan	nan	('coral (rock)', 'pura1258', 'bar_omi')	nan		
-34.0	(coral) reef	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	koka omi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-35.0	water (fresh)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟar	nan	nan	('water (fresh)', 'abui1241-fuime', 'je')	nan		
-36.0	sea; sea water	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋ	nan	nan	('sea; sea water', 'abui1241-fuime', 'tama')	nan		
-37.0	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buatele, olaŋale	ombak, gelombang	nan	('wave', 'alor1249-sar-a', 'buát')	nan		
-38.0	foam	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ur	nan	nan	('foam', 'pura1258', 'ur')	nan		
-39.0	forest	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'naha	nan	nan	('far', 'lamm1241', 'auwang')	nan		
-40.0	field	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir'pusi	nan	nan	('field', 'blag1240-warsa', 'bira')	nan		
-41.0	island	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɔr	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-42.0	rice field	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buta	nan	nan	('rice field', 'pura1258', 'buta')	nan		
-43.0	garden	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɓir	clip 1; 6:49 implosive b, alternative written as bil	nan	('garden', 'adan1251-lawah', 'dil')	nan		
-44.0	fence	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lapa	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-45.0	road; path; way	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	via, bia	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-46.0	canoe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟe	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-47.0	sail (n.)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'alal	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-48.0	to sail	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ala'ri	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-49.0	fishing hook	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kavil	alternative written as kabil	nan	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	nan		
-50.0	fish trap	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ab adoi	nan	nan	('fish trap', 'pura1258', 'ab_adoi')	nan		
-51.0	rope	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-52.0	machete	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'pada	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-53.0	axe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta	nan	nan	('axe', 'baka1276', 'taa')	nan		
-54.0	spear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dad	nan	nan	('spear', 'pura1258', 'dad')	nan		
-55.0	burden stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tejar tebaŋ,tejar tevaŋ	nan	nan	('burden stick', 'pura1258', 'tejar_tebaŋ,tejar_tevaŋ')	nan		
-56.0	stick; pole	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	doba	nan	nan	('stick; pole', 'adan1251', 'dɔpaŋ')	nan		
-57.0	digging stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	s%kop	nan	nan	('digging stick', 'kula1280-lanto', 'skɔp')	nan		
-59.0	bow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	humat	nan	nan	('bow', 'alor1249-sar-a', 'ʔamútan')	nan		
-60.0	arrow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'burit	nan	nan	('arrow', 'adan1251', 'aburiŋ')	nan		
-61.0	knife	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'meriŋ	nan	nan	('knife', 'blag1240-bama', 'semeriŋ')	nan		
-62.0	comb	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kiri	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-63.0	mat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bihi	nan	nan	('mat', 'adan1251', 'bu')	nan		
-64.0	needle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batul	nan	nan	('needle', 'adan1251', 'batiŋ')	nan		
-65.0	clothing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kondo	kondo=shirt, noaŋ=kain, deko=trousers	nan	"('clothing', 'alor1247-pandai', ""'kɔndɔ"")"	nan		
-67.0	fire	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'viliŋ	nan	nan	('fire', 'abui1241-fuime', 'ara')	nan		
-68.0	smoke	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'vanak, ad 'banak	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-70.0	dust; fine earth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	maro	nan	nan	('dust; fine earth', 'adan1251', 'maru_butuŋ')	nan		
-71.0	fireplace ash	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	debaŋ 'maro	debaŋ=tungku, maro= ash	nan	('fireplace ash', 'adan1251', 'maru')	nan		
-72.0	mud	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'nakuŋ	nan	nan	"('mud', 'abui1241-takal', ""fä.'näq"")"	nan		
-73.0	clay	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	make 'tena	make=tanah	nan	"('clay', 'pura1258', ""make_'tena"")"	nan		
-74.0	gravel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	da'roal	nan	nan	('gravel', 'adan1251', 'darofe')	nan		
-75.0	sand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɓehi	both pronounce it with a slighly implosive ɓ	nan	('sand', 'adan1251', 'fetʃ')	nan		
-76.0	grass; brush	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	napa	nan	nan	('grass; brush', 'adan1251', 'bana')	nan		
-77.0	house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-78.0	traditional house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava suku, lelaŋ hava	nan	nan	('traditional house', 'baka1276', 'hava_raja')	nan		
-79.0	barn; storage house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mɛraŋ	nan	nan	('barn; storage house', 'blag1240-kulij', 'merang')	nan		
-80.0	raised platform	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dei	nan	nan	('raised platform', 'adan1251', 'deʔ')	nan		
-81.0	door	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tundir	nan	nan	('door', 'baka1276', 'tuni')	nan		
-82.0	(thatch) roof	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iko'rima hava 'vei	written as atap rumah: hababei, after inquiry pronunciation as 'hava bei'	nan	"('(thatch) roof', 'pura1258', ""iko'rima_hava_'vei"")"	nan		
-83.0	roof thatch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	meniŋ	nan	nan	('roof thatch', 'abui1241-fuime', 'ameng')	nan		
-84.0	tree	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te	nan	nan	('tree', 'adan1251', 'ti')	nan		
-85.0	wood	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'boa	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-86.0	bark (of tree)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'buar	nan	nan	('bark (of tree)', 'adan1251', 'ti_fah')	nan		
-87.0	leaf	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'va:	nan	nan	('leaf', 'abui1241-fuime', 'watala')	nan		
-88.0	branch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'Ɂataŋ	nan	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
-89.0	firewood	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'dera	nan	nan	('firewood', 'blag1240-kulij', 'hadéra')	nan		
-90.0	rattan	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lia	nan	nan	('rattan', 'adan1251-lawah', 'lɛʔ')	nan		
-91.0	root	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teva'rikiŋ, teba'rikiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-92.0	fruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'hi:	nan	nan	"('fruit', 'pura1258', ""te'hi:"")"	nan		
-93.0	seed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekokar	alternative written as ekokal	nan	('seed', 'blag1240-bama', 'goxal')	nan		
-94.0	grain; cereal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-96.0	husked rice; uncooked rice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod	nan	nan	('husked rice; uncooked rice', 'baka1276', 'mod')	nan		
-97.0	rice grains (unhusked) (raw from field)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'kokal	nan	nan	"('rice grains (unhusked) (raw from field)', 'pura1258', ""mod_'kokal"")"	nan		
-98.0	cooked rice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'liaŋ	nan	nan	('cooked rice', 'baka1276', 'na_liyaŋ')	nan		
-99.0	rice plant	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'mudiŋ	nan	nan	('rice plant', 'baka1276', 'mod')	nan		
-100.0	to plant (yam)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batako 'mudiŋ	nan	nan	"('to plant (yam)', 'abui1241-takal', ""bä.'tä:kɔ_mur.'jä"")"	nan		
-101.0	to plant (rice)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'mudiŋ	nan	nan	('to plant (rice)', 'adan1251-lawah', 'mudiŋ')	nan		
-102.0	betel nut; areca	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-103.0	betel vine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-104.0	lime	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	havar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-105.0	chew betel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mat ha	nan	nan	"('chew betel', 'abui1241-takal', ""'me:.tiŋ_tä.'käj"")"	nan		
-106.0	sweet potato	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	au kasi	nan	nan	('sweet potato', 'abui1241-takal', 'kɔ')	nan		
-107.0	cassava	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	au benu	nan	nan	('cassava', 'blag1240-bama', 'nuk_benu')	nan		
-108.0	taro	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	au gol	nan	nan	('taro', 'pura1258', 'au_gol')	nan		
-109.0	sago	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tapoŋ	nan	nan	('sago', 'pura1258', 'tapoŋ')	nan		
-110.0	millet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nuat	nan	nan	('millet', 'alor1249-sar-a', 'nat')	nan		
-111.0	sugarcane	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ub	nan	nan	('sugarcane', 'abui1241-fuime', 'fa')	nan		
-112.0	corn; maize	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batar	nan	nan	('corn; maize', 'abui1241-fuime', 'faati')	nan		
-113.0	cooked corn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batar 'api	nan	nan	('cooked corn', 'abui1241-takal', 'fä:t_mä')	nan		
-114.0	coconut	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vet	written as bet	nan	('coconut', 'abui1241-fuime', 'wata')	nan		
-115.0	gwang	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dubu	nan	nan	"('gwang', 'alor1247-munas', ""k'dɛbu_'pukɔŋ"")"	nan		
-116.0	lontar palm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tua kori	nan	nan	('lontar palm', 'adan1251', 'tɔk')	nan		
-117.0	sugar palm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tua bur	nan	nan	('sugar palm', 'abui1241-fuime', 'tuok')	nan		
-118.0	marungga	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'toruŋ	nan	nan	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		
-119.0	gum tree; eucalyptus	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te maɟa	nan	nan	('gum tree; eucalyptus', 'pura1258', 'te_maɟa')	nan		
-120.0	bamboo	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɛtuŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-121.0	banana	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mɔl	nan	nan	('banana', 'abui1241-fuime', 'musa')	nan		
-122.0	mango	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	viat, biat	nan	nan	('mango', 'adan1251', 'bɛ')	nan		
-123.0	papaya	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kasi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-124.0	jackfruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tona	nan	nan	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		
-125.0	breadfruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	undur	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		
-126.0	bean	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taur	nan	nan	('bean', 'abui1241-fuime', 'takoi')	nan		
-127.0	honey	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tauŋ jar	nan	nan	('honey', 'alor1249-sar-a', 'taaŋ')	nan		
-128.0	milk	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	susu	nan	nan	('milk', 'adon1237', 'ˈtuhɔ')	nan		
-129.0	salt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	si'a	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-130.0	fat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'ma:	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-131.0	flesh; meat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	umuŋ	nan	nan	('flesh; meat', 'adon1237', 'ˈʔumɜ̃')	nan		
-132.0	bone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekira	nan	nan	('bone', 'alor1249-sar-a', 'kir')	nan		
-133.0	rib	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tabar kusi	nan	nan	('rib', 'baka1276', 't-abál_irá')	nan		
-134.0	sweat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'ruŋ	nan	nan	('sweat', 'abui1241-fuime', 'tamuring')	nan		
-135.0	tear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛŋono	nan	nan	('tear', 'abui1241-takal', 'ti.äŋ_nɐj')	nan		
-136.0	blood	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ve:	nan	nan	('blood', 'abui1241-fuime', 'we')	nan		
-138.0	heart	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ	nan	nan	"('heart', 'abui1241-takal', ""bu.kɔ.'mã"")"	nan		
-139.0	liver	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	alila	nan	nan	('liver', 'baka1276', '(e)lilá')	nan		
-140.0	kidney	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(no data)	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-141.0	guts	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tousar	nan	nan	"('guts', 'pura1258', ""a'tousar"")"	nan		
-142.0	excrement	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	as	onsetless vowel with small /h/ preceding it	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-143.0	lungs	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	eurat	nan	nan	('lungs', 'pura1258', 'eurat')	nan		
-144.0	stomach; belly	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	atou	nan	nan	('stomach; belly', 'abui1241-fuime', 'tatok_foko')	nan		
-145.0	head	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-146.0	hair	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ 'va	nan	nan	('hair', 'alor1249-sar-n', 'noʔon_waʔ')	nan		
-147.0	body hair	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'mudi	all body hairs	nan	('body hair', 'abui1241-fuime', 'teamur')	nan		
-148.0	eye	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛŋ	nan	nan	('eye', 'abui1241-fuime', 'tieng_bilka')	nan		
-149.0	ear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ver	nan	nan	('ear', 'abui1241-fuime', 'tawei_ata')	nan		
-150.0	nose	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'miŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-151.0	mouth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tai	nan	nan	('mouth', 'baka1276', 'taibor')	nan		
-152.0	chin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'va:	written with w	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-153.0	lips	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iɓar	slightly implosive b	nan	"('lips', 'alor1247-baran', ""'fifiŋ"")"	nan		
-154.0	teeth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aveŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-155.0	tongue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	azabur, aɟabur	nan	nan	"('tongue', 'abui1241-takal', ""tä.'li.fi"")"	nan		
-156.0	neck	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abo	nan	nan	('neck', 'pura1258', 'abo')	nan		
-157.0	shoulder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aɓea	slightly implosive b	nan	('shoulder', 'abui1241-fuime', 'tabang')	nan		
-158.0	body	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	eboa	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-159.0	forehead	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tapaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-160.0	nostril	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amiŋ 'bor	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-161.0	mucus	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amiŋ 'siŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-162.0	cheek	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'duŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-163.0	arm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tataŋ	nan	nan	('arm', 'abui1241-fuime', 'tatang')	nan		
-164.0	hand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tataŋ	nan	nan	"('hand', 'abui1241-takal', ""tä.'täŋ_pääkä"")"	nan		
-165.0	palm of hand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tataŋ omi	nan	nan	"('palm of hand', 'abui1241-takal', ""tä.'täŋ_ho:.mi"")"	nan		
-166.0	finger	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ataŋ tuba	nan	nan	('finger', 'baka1276', 'ataŋ_tuba')	nan		
-167.0	fingernail	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ataŋ kusir	nan	nan	('fingernail', 'abui1241-fuime', 'tatang_kusing')	nan		
-168.0	breast	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kono	nan	nan	('breast', 'pura1258', 'kono')	nan		
-169.0	chest	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adiar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-170.0	navel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	apuar 'ɛŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-171.0	penis	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oto	nan	nan	"('penis', 'abui1241-takal', ""tä.'tɔ"")"	nan		
-172.0	vagina	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ar	nan	nan	('vagina', 'adan1251', 'a:l')	nan		
-173.0	testicles	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kokar	nan	nan	('testicles', 'pura1258', 'kokar')	nan		
-174.0	leg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nia	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-175.0	foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nia	nan	nan	('foot', 'pura1258', 'nia')	nan		
-176.0	heel of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uda 'vari, uda 'wari	nan	nan	"('heel of foot', 'pura1258', ""uda_'vari,_uda_'wari"")"	nan		
-177.0	sole of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tia omi	nan	nan	"('sole of foot', 'blag1240-kulij', ""tija'_omi"")"	nan		
-178.0	knee	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ia kuku	nan	nan	('knee', 'abui1241-fuime', 'tabala_buku')	nan		
-179.0	back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amo'ta	nan	nan	('back', 'adan1251', 'amɔt')	nan		
-180.0	spine; lower back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ, taha waŋ	nan	nan	('spine; lower back', 'pura1258', 'taha_baŋ,_taha_waŋ')	nan		
-181.0	waist	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ, taha waŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-182.0	skin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ebuar	nan	nan	('skin', 'pura1258', 'ebuar')	nan		
-183.0	sore; wound	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bata	nan	nan	('sore; wound', 'adan1251', 'bah')	nan		
-184.0	ringworm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vanai	written with w	nan	('ringworm', 'pura1258', 'vanai')	nan		
-185.0	scabies	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kot	nan	nan	('scabies', 'pura1258', 'kot')	nan		
-186.0	tinea	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nama'ɟa:	nan	nan	"('tinea', 'pura1258', ""nama'ɟa:"")"	nan		
-187.0	feverish	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wa'wiriŋ	written as babiriŋ	nan	"('feverish', 'alor1247-besar', ""ta'fefa"")"	nan		
-188.0	conjunctivitis	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛŋ'tena	nan	nan	"('conjunctivitis', 'pura1258', ""ɛŋ'tena"")"	nan		
-189.0	cold; influenza	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tamiŋ 'omi ta'buhi	nose inside sesak	nan	('cold; influenza', 'baka1276', 'imiŋ_omi_pii')	nan		
-190.0	person	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-191.0	name	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛnɛ	nan	nan	('name', 'abui1241-fuime', 'na-ne')	nan		
-192.0	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka'neŋ, bal ka'kari, wal kakari	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-193.0	man	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'mehal	nan	nan	"('man', 'pura1258', ""nehe'mehal"")"	nan		
-194.0	woman	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'ɟaŋu	nan	nan	"('woman', 'pura1258', ""nehe'ɟaŋu"")"	nan		
-195.0	husband	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	emehal	nan	nan	('husband', 'alor1249-sar-a', 'masál')	nan		
-196.0	wife	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	e'ɟaŋu	nan	nan	"('wife', 'pura1258', ""e'ɟaŋu"")"	nan		
-197.0	mother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'niva	nan	nan	('mother', 'adan1251', 'nivɛ')	nan		
-198.0	father	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'nimaŋ	nan	nan	('father', 'abui1241-fuime', 'mama')	nan		
-199.0	older sibling	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekaku 'ale	nan	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan		
-200.0	younger sibling	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekaku 'kiki	nan	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	nan		
-201.0	bride price	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	eɓili	slightly implosive b	nan	('bride price', 'abui1241-fuime', 'he-bel')	nan		
-202.0	slave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	gahiŋ	nan	nan	('slave', 'alor1249-sar-a', 'gahiŋwal')	nan		
-203.0	1sg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	naiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-204.0	2sg (informal)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aiŋ	nan	nan	('2sg (informal)', 'kaer1234', 'a:ŋ')	nan		
-205.0	2sg (polite)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-206.0	3sg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ	nan	nan	('3sg', 'amar1273-kotos', 'in')	nan		
-207.0	1pl excl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	piŋ	check Steinhauer	nan	('1pl excl', 'pura1258', 'piŋ')	nan		
-208.0	1pl incl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	piŋ (emampi) (check Steinhauer)	check Steinhauer	nan	"('1pl incl', 'abui1241-takal', ""'pi.dɔ"")"	nan		
-209.0	2pl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ	nan	nan	"('2pl', 'abui1241-takal', ""'ri.dɔ"")"	nan		
-210.0	3pl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ (emampi) (check Steinhauer)	nan	nan	('3pl', 'lamm1241', 'ging')	nan		
-211.0	no; not	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	niaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-212.0	and	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	met	nan	nan	('and', 'pura1258', 'met')	nan		
-213.0	because	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-214.0	if	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ana	onsetless vowel with small /h/ preceding it	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-215.0	with	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ole	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-216.0	what?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	e'talaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-217.0	who?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nuba	nan	nan	('who?', 'pura1258', 'nuba')	nan		
-218.0	where?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'aŋmi	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-219.0	when?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tawediŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-220.0	why?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ea'talaŋ	nan	nan	"('why?', 'pura1258', ""ea'talaŋ"")"	nan		
-221.0	how much; how many?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adeŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-222.0	how?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'talaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-223.0	this	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aŋa	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-224.0	that	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aŋu	nan	nan	('that', 'kama1365', 'aŋ')	nan		
-225.0	at	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ni ae bia	ni=1sg, bia=jalan	nan	('at', 'amar1273-kotos', 'n-bi')	nan		
-225.0	at	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	via mi	ni=1sg, bia=jalan	nan	('at', 'abui1241-takal', 'miä')	nan		
-226.0	in; inside	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	omi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-227.0	here	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ŋami	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-228.0	there	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'momi	nan	nan	('there', 'adan1251', 'hɛmɔ_mi')	nan		
-229.0	above	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tela	nan	nan	"('above', 'pura1258', ""a'tela"")"	nan		
-230.0	below	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'lolaŋ	nan	nan	"('below', 'pura1258', ""a'lolaŋ"")"	nan		
-231.0	left (side)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	baɟaul	nan	nan	('left (side)', 'pura1258', 'baɟaul')	nan		
-232.0	right (side)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tane	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-233.0	a few	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaviŋ'dena	written with b instead of v	nan	"('a few', 'pura1258', ""kaviŋ'dena"")"	nan		
-234.0	all	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	emampi	nan	nan	('all', 'pura1258', 'emampi')	nan		
-235.0	many	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	toaŋ	nan	nan	('many', 'pura1258', 'toaŋ')	nan		
-236.0	animal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bi'nanta	nan	nan	('animal', 'adan1251', 'binanta')	nan		
-237.0	fowl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(no data)	nan	nan	('fowl', 'adan1251-otvai', 'no_data')	nan		
-238.0	dog	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabar	nan	nan	('dog', 'adan1251', 'bel')	nan		
-239.0	pig	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be	nan	nan	('pig', 'abui1241-fuime', 'fe')	nan		
-240.0	chicken	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	haŋi	nan	nan	('chicken', 'baka1276', 'haŋi')	nan		
-241.0	rat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	duru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-242.0	lizard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teke	nan	nan	('lizard', 'abui1241-fuime', 'tekok')	nan		
-243.0	civet cat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aro	onsetless vowel with small /h/ preceding it	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-244.0	deer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'ruhiŋ	nan	nan	('deer', 'abui1241-takal', 'ä.jut')	nan		
-245.0	frog	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	baka'baka	nan	nan	('frog', 'kama1365', 'takabau')	nan		
-246.0	bat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	damer	nan	nan	('bat', 'baka1276', 'demel')	nan		
-247.0	flying fox; fruit bat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bab	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-248.0	cuscus	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(no data)	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-249.0	tail	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ora	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-250.0	fish	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ab	nan	nan	('fish', 'abui1241-fuime', 'afu')	nan		
-251.0	shark	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hibir	nan	nan	('shark', 'adan1251', 'tabɛi')	nan		
-252.0	whale	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'laru	nan	nan	"('whale', 'alor1247-besar', ""'ikaŋ_ka'laru"")"	nan		
-253.0	dolphin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'kuɟa	nan	nan	"('dolphin', 'alor1247-besar', ""'ikaŋ_'kudʒae"")"	nan		
-254.0	crocodile	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'bapa	nan	nan	"('crocodile', 'alor1247-baran', ""'bapa"")"	nan		
-255.0	monitor lizard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-256.0	starfish	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋ hi'lawa	nan	nan	"('starfish', 'pura1258', ""taŋ_hi'lawa"")"	nan		
-257.0	turtle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarbo, ɟarɓo	alternative pronunciation with plain or implosive ɓ	nan	('turtle', 'pura1258', 'ɟarbo,_ɟarɓo')	nan		
-258.0	turtle (saltwater)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarbo	nan	nan	"('turtle (saltwater)', 'abui1241-takal', ""jɜɪ.'kɔi"")"	nan		
-259.0	bird	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	duŋ	nan	nan	('bird', 'blag1240-bama', 'duŋ')	nan		
-260.0	wing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'abat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-261.0	claw	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'hurak	nan	nan	"('claw', 'pura1258', ""'hurak"")"	nan		
-262.0	feather	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(duŋ) 'kura	nan	nan	"('feather', 'pura1258', ""(duŋ)_'kura"")"	nan		
-263.0	horn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amu	nan	nan	('horn', 'abui1241-fuime', 'ha-muk')	nan		
-264.0	snake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'dumiŋ	nan	nan	('snake', 'alor1249-sar-a', 'daam')	nan		
-265.0	scorpion	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'pɛl	nan	nan	('scorpion', 'abui1241-fuime', 'pei')	nan		
-266.0	egg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	haŋia 'dua	haŋia=chicken	nan	('egg', 'adan1251', 'dɔ')	nan		
-267.0	earthworm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dumiŋ kalaliŋ	nan	nan	('earthworm', 'baka1276', 'dukalaliŋ')	nan		
-268.0	butterfly	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kilba'budil	nan	nan	"('butterfly', 'pura1258', ""kilba'budil"")"	nan		
-269.0	fly (n.)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vavar	written with w	nan	('fly (n.)', 'alor1249-sar-a', 'jəfúr')	nan		
-270.0	mosquito	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kini	nan	nan	('mosquito', 'adan1251', 'in')	nan		
-271.0	ant	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uri	nan	nan	('ant', 'alor1249-sar-a', 'jeríh')	nan		
-272.0	grasshopper	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'bɛt	nan	nan	('grasshopper', 'adan1251', 'kafɛ')	nan		
-273.0	locust	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	da'rabuŋ	nan	nan	('locust', 'kelo1247-hopte', 'dəram')	nan		
-274.0	spider	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka'randa	nan	nan	"('spider', 'alor1247-besar', ""ka'raŋga"")"	nan		
-275.0	headlice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ	nan	nan	('headlice', 'abui1241-fuime', 'bikeng')	nan		
-276.0	louse eggs	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ 'dariŋ	nan	nan	"('louse eggs', 'pura1258', ""kubaŋ_'dariŋ"")"	nan		
-277.0	mother louse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ 'iva	nan	nan	('mother louse', 'adan1251', 'ɔbe')	nan		
-278.0	flea	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tata 'mɛra	nan	nan	"('flea', 'alor1247-munas', ""mə'rːɛ"")"	nan		
-279.0	louse (clothing)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ve:	MT repeats the word as ve, we and be.	nan	('louse (clothing)', 'abui1241-fuime', 'be')	nan		
-280.0	bedbug	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tame	nan	nan	('bedbug', 'abui1241-fuime', 'taamek')	nan		
-281.0	big	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ale	nan	nan	('big', 'baka1276', 'le')	nan		
-282.0	small	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kiki	nan	nan	('small', 'blag1240-bama', 'kiki')	nan		
-283.0	old; worn (house)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava 'vɛmaŋ	hava written as haba	nan	('old; worn (house)', 'blag1240-warsa', 'vemang')	nan		
-284.0	new (house)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava 'hiva	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-285.0	old (people)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe 'boma	nan	nan	"('old (people)', 'pura1258', ""nehe_'boma"")"	nan		
-286.0	young (people)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe 'kuar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-287.0	lazy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	maɟaruŋ niaŋ	nan	nan	('lazy', 'pura1258', 'maɟaruŋ_niaŋ')	nan		
-288.0	hot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tutuŋ	nan	nan	('hot', 'kafo1240', 'tutuŋ')	nan		
-289.0	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟabi, ka'ɟavi, ka'ɟawi	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-290.0	good	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	auŋ	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-291.0	bad	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟasi	nan	nan	('bad', 'adan1251', 'sah')	nan		
-292.0	full	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aviŋ,  awiŋ	nan	nan	('full', 'adan1251', 'afɛŋ')	nan		
-293.0	empty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	osiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-294.0	near	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	peaŋ	nan	nan	"('near', 'abui1241-takal', ""'pe̞ä.qä"")"	nan		
-295.0	far	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɔla	nan	nan	"('far', 'kaer1234', ""'olo"")"	nan		
-296.0	wet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'rita	nan	nan	('wet', 'keda1252-leuwa', 'ritaʔ_dɔrɔʔ')	nan		
-297.0	dry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'ata	nan	nan	"('dry', 'abui1241-takal', ""tä.kä.'tä"")"	nan		
-298.0	dry in sun	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kondo a'hele	this is an expression, kondo=shirt, ahele= hang up	nan	"('dry in sun', 'pura1258', ""kondo_a'hele"")"	nan		
-302.0	short (people)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe 'tukaŋ	nan	nan	('short (people)', 'amar1273-kotos', 'tukaʔ')	nan		
-303.0	thin (non-human)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'lala	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-304.0	skinny (human)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kira	nan	nan	('skinny (human)', 'pura1258', 'kira')	nan		
-305.0	thick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pusi	nan	nan	('thick', 'baka1276', 'pusi')	nan		
-306.0	round	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kopol	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-307.0	dark	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kua	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-308.0	light	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟara	nan	nan	"('light', 'alor1247-besar', ""'tarã"")"	nan		
-309.0	dirty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'rita	nan	nan	"('dirty', 'alor1247-baran', ""ka'lit:a"")"	nan		
-310.0	clean	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'mulaŋ	nan	nan	"('clean', 'pura1258', ""ha'mulaŋ"")"	nan		
-311.0	sharp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma:ŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-312.0	blunt; dull	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'kumal	nan	nan	('blunt; dull', 'adan1251', 'umɛ')	nan		
-313.0	heavy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'madi	nan	nan	('heavy', 'baka1276', 'tamádi')	nan		
-314.0	light (weight)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vila, wila	nan	nan	('light (weight)', 'adan1251', 'filuŋ')	nan		
-315.0	straight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	molo	nan	nan	('straight', 'abui1241-fuime', 'mulang')	nan		
-316.0	wide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɛraŋ	nan	nan	('wide', 'adan1251', 'bɛraŋ')	nan		
-318.0	correct	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	auŋ	nan	nan	('correct', 'pura1258', 'auŋ')	nan		
-319.0	wrong	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'hala	nan	nan	('wrong', 'abui1241-fuime', 'hasala')	nan		
-320.0	ripe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ehi tena	ehi=fruit, tena=ripe	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-321.0	rotten	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ehi ma'nisa	ehi=fruit, manisa=rotten	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-322.0	bitter	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'kara	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-323.0	sweet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'malak	nan	nan	('sweet', 'blag1240-bama', 'marak')	nan		
-324.0	sour	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'likil	nan	nan	('sour', 'baka1276', 'kelíkil')	nan		
-325.0	salty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'kara	nan	nan	"('salty', 'abui1241-takal', ""mä:.'qäl"")"	nan		
-326.0	flat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bira	nan	nan	('flat', 'abui1241-fuime', 'fui')	nan		
-327.0	smooth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir 'dula	nan	nan	('smooth', 'abui1241-fuime', 'rula')	nan		
-328.0	rough	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'koŋkar	nan	nan	('rough', 'blag1240-nule', 'koŋkarkoŋkar')	nan		
-329.0	black	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'Ɂana	nan	nan	('black', 'abui1241-fuime', 'akani')	nan		
-330.0	white	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'ɟaka	nan	nan	('white', 'alor1249-sar-a', 'miyáq')	nan		
-331.0	red	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛna	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-332.0	green	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'koa	nan	nan	('green', 'baka1276', 'kokua')	nan		
-333.0	blue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buraŋ kakoa	buraŋ=sky	nan	('blue', 'amar1273-kotos', 'biru')	nan		
-334.0	yellow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'Ɂori	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-335.0	sick; painful	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dira	nan	nan	('sick; painful', 'baka1276', 'dira')	nan		
-336.0	shy; ashamed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava'loriŋ	nan	nan	"('shy; ashamed', 'pura1258', ""ava'loriŋ"")"	nan		
-337.0	thirsty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	avo ta'Ɂata, abo ta'Ɂata	nan	nan	('thirsty', 'adan1251', 'dɔrɔ_taʔat')	nan		
-338.0	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'lapal, ava ma'lapal	nan	nan	('hungry', 'baka1276', 'manápal')	nan		
-339.0	blind	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛŋ'ɟasi	nan	nan	"('blind', 'pura1258', ""tɛŋ'ɟasi"")"	nan		
-340.0	deaf	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taveriŋ kabe	taveriŋ=ear	nan	('deaf', 'adon1237', 'kɜˈbekʔẽ')	nan		
-341.0	scared	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	t-uaŋ 'mari	nan	nan	('bride price', 'alor1249-sar-a', 'gaʔál')	nan		
-342.0	angry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'lil	nan	nan	"('angry', 'alor1247-munas', ""'ɔnɔ_k'likil"")"	nan		
-343.0	to see	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teiŋ	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-344.0	to hear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vɛŋ mɛ:	nan	nan	('to hear', 'baka1276', 'veŋme')	nan		
-345.0	to smell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ'bisa	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-346.0	to think	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'ukur	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan		
-347.0	to know	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teiŋ	nan	nan	('to know', 'baka1276', 'teiŋ')	nan		
-348.0	to say	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vɛŋ 'banaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-349.0	to speak	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vɛŋ 'tutuk	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-350.0	voice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amal	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-351.0	language	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hur	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-352.0	to lie down	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tia-tia	nan	nan	('to lie down', 'abui1241-fuime', 'ta')	nan		
-353.0	to sleep	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'baina	nan	nan	"('to sleep', 'pura1258', ""'baina"")"	nan		
-354.0	to wake up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tahi	nan	nan	('to wake up', 'adan1251', 'to')	nan		
-355.0	to wake someone up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɔt 'tahi, a tahiŋ	nan	nan	"('to wake someone up', 'pura1258', ""ɔt_'tahi,_a_tahiŋ"")"	nan		
-356.0	to bathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wera, bera	nan	nan	('to bathe', 'abui1241-fuime', 'tawel')	nan		
-357.0	to bathe (a child)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a 'wera	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-358.0	to sit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mihi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-359.0	to stand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tahi	nan	nan	('to stand', 'abui1241-fuime', 'nate')	nan		
-360.0	to walk	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ia vɛŋ lamal	ia=leg, lamal=walk	nan	('to walk', 'adan1251-lawah', 'lami')	nan		
-361.0	to run	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bihit 'lamal	nan	nan	('to run', 'abui1241-fuime', 'furei')	nan		
-362.0	to go	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ila	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-363.0	to swim	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'luli	nan	nan	"('to swim', 'abui1241-takal', ""ä.'jɔŋ"")"	nan		
-364.0	to fly	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'lili	nan	nan	('to fly', 'abui1241-fuime', 'li')	nan		
-365.0	to fall (from above)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bat atela mi 'hela	nan	nan	('to fall (from above)', 'alor1249-sar-a', 'baʔ')	nan		
-366.0	to fall over	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	beri	nan	nan	('to fall over', 'pura1258', 'beri')	nan		
-367.0	to drop	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a vaŋ 'hela	nan	nan	('to drop', 'blag1240-kulij', 'ening_bahera')	nan		
-368.0	to drink	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na	nan	nan	('to drink', 'adan1251', 'na')	nan		
-369.0	to eat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'Ɂadaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-370.0	to cook	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'doa	nan	nan	('to cook', 'adan1251', 'dou')	nan		
-371.0	to wash	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na vɛŋ 'bai	nan	nan	('to wash', 'alor1249-sar-a', '(uwam)_belí')	nan		
-372.0	to sew	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na ha'rota	nan	nan	('to sew', 'adan1251', 'harot')	nan		
-373.0	to live; be alive; living	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ɓeta	slightly implosive b	nan	('to live; be alive; living', 'adan1251', 'fetaŋ')	nan		
-374.0	to breathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hopaŋ	nan	nan	('to breathe', 'adan1251-lawah', 'haʔan')	nan		
-375.0	to work	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'riɟaŋ	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan		
-376.0	to die	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'mina	nan	nan	('to die', 'abui1241-fuime', 'mong')	nan		
-377.0	to give	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mema'Ɂɛnaŋ	nan	nan	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	nan		
-378.0	to wipe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir 'doho	nan	nan	"('to wipe', 'alor1247-pandai', ""'dɔhɔ"")"	nan		
-379.0	to come	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hoa	nan	nan	('to come', 'adan1251', 'hɔʔ')	nan		
-380.0	to laugh	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'lela	nan	nan	('to laugh', 'abui1241-fuime', 'talole')	nan		
-381.0	to cry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vau, bau	nan	nan	('to cry', 'baka1276', 'bow')	nan		
-382.0	to dance	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sara sumba	nan	nan	"('to dance', 'alor1247-besar', ""sar'sumba"")"	nan		
-383.0	to sing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dar ohi	nan	nan	('to sing', 'adan1251', 'dal')	nan		
-384.0	to burn (clear land)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bil ade	bil=garden, place; ade=burn	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-385.0	to burn; to shine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adɛt'biriŋ	nan	nan	"('to burn; to shine', 'pura1258', ""adɛt'biriŋ"")"	nan		
-386.0	to shine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'biriŋ	nan	nan	"('to shine', 'pura1258', ""'biriŋ"")"	nan		
-387.0	to chew	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lapuŋ	nan	nan	('to chew', 'kula1280-lanto', 'lecan')	nan		
-388.0	to yawn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	i'lohi	nan	nan	"('to yawn', 'pura1258', ""i'lohi"")"	nan		
-389.0	to suck	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dumiŋ	nan	nan	"('to suck', 'alor1247-baran', ""'dum:ɔ"")"	nan		
-390.0	to blow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	apu	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan		
-391.0	to spit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	puruŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-392.0	to vomit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	boal;  ida	nan	nan	('to vomit', 'pura1258', 'boal;__ida')	nan		
-393.0	to rub	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	osoŋ	nan	nan	('to rub', 'adon1237', 'doˈruʔ')	nan		
-394.0	to scratch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'rabi	nan	nan	('to scratch', 'alor1249-sar-a', 'kəraab')	nan		
-395.0	itchy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka	nan	nan	('itchy', 'adan1251', 'ka:k')	nan		
-396.0	to swell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'baraŋ, va'varaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-397.0	to hit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bue	nan	nan	('to hit', 'adan1251', 'bɛh')	nan		
-398.0	to slap	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paru	nan	nan	('to slap', 'pura1258', 'paru')	nan		
-399.0	to bite	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabar iŋ 'adaŋ	adaŋ=bite	nan	"('to bite', 'pura1258', ""ɟabar_iŋ_'adaŋ"")"	nan		
-400.0	to cut	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	boi	nan	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	nan		
-401.0	to cut down	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'baŋ	nan	nan	"('to cut down', 'pura1258', ""a'baŋ"")"	nan		
-402.0	to split	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'kahi	nan	nan	('to split', 'abui1241-fuime', 'kadel')	nan		
-403.0	to divide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paul	nan	nan	('to divide', 'pura1258', 'paul')	nan		
-404.0	to stab	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋi	nan	nan	('to stab', 'baka1276', 'taŋi')	nan		
-405.0	to skewer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	zabak, ɟabak	nan	nan	('to skewer', 'pura1258', 'zabak,_ɟabak')	nan		
-406.0	to fight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oraŋ	nan	nan	('to fight', 'pura1258', 'oraŋ')	nan		
-407.0	to guard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'buaŋ, weŋ 'buaŋ	nan	nan	"('to guard', 'abui1241-takal', ""ho:.'fi.kä:ng"")"	nan		
-408.0	to throw	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'oda	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-409.0	to hunt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teri	nan	nan	('to hunt', 'abui1241-fuime', 'hetiei')	nan		
-410.0	to kill	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'meaŋ	nan	nan	('to kill', 'abui1241-petle', 'bol_moŋ')	nan		
-411.0	to chase away	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teri	nan	nan	"('to chase away', 'abui1241-takal', ""tä.'pä:.tiŋ"")"	nan		
-413.0	to search for; to hunt for	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ala'piŋ	nan	nan	('to search for; to hunt for', 'adan1251-lawah', 'la:p')	nan		
-414.0	to dig	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'anaŋ	nan	nan	('to dig', 'alor1249-sar-a', 'han')	nan		
-415.0	to bury	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'rou	nan	nan	('to bury', 'baka1276', 'tow')	nan		
-416.0	to flow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	totu	nan	nan	('to flow', 'alor1249-sar-a', 'totis')	nan		
-417.0	to float	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tediŋ	nan	nan	('to float', 'abui1241-fuime', 'ije_fauiti')	nan		
-418.0	to freeze	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'namaŋ	nan	nan	('to freeze', 'kaer1234', 'anamo')	nan		
-419.0	to hold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pina	nan	nan	('to hold', 'abui1241-fuime', 'ho-puna')	nan		
-420.0	to tie	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaboŋ	nan	nan	('to tie', 'pura1258', 'kaboŋ')	nan		
-421.0	to play	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'mulal	nan	nan	('to play', 'abui1241-fuime', 'muila')	nan		
-422.0	to pull	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'siriŋ	nan	nan	"('to pull', 'pura1258', ""ma'siriŋ"")"	nan		
-423.0	to push	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tobaŋ	nan	nan	"('to push', 'alor1247-baran', ""'tɔbaŋ"")"	nan		
-424.0	to turn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'leleŋ	nan	nan	('to turn', 'blag1240-tuntu', 'gogóleŋ')	nan		
-425.0	to dream	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hi'parna	nan	nan	('to dream', 'adan1251', 'apai')	nan		
-426.0	to crouch; to bend over	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tou	nan	nan	('to crouch; to bend over', 'blag1240-bama', 'utukuŋ')	nan		
-427.0	to live; to stay	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mihi	nan	nan	"('to live; to stay', 'abui1241-takal', ""ɔ.mi.'ti"")"	nan		
-428.0	to choose	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ talai	nan	nan	('to choose', 'adan1251-otvai', 'taraʔ')	nan		
-429.0	to grow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bilaŋ	nan	nan	('to grow', 'alor1249-sar-a', 'ilá')	nan		
-430.0	to squeeze	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'omi	nan	nan	"('to squeeze', 'pura1258', ""ka'omi"")"	nan		
-431.0	to buy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'beli	nan	nan	('to buy', 'abui1241-fuime', 'bele')	nan		
-432.0	to sell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'bali	nan	nan	('to sell', 'abui1241-fuime', 'balik')	nan		
-433.0	to steal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taɁavi, taɁabi	nan	nan	('to steal', 'abui1241-fuime', 'takau')	nan		
-434.0	to open	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava'lɛlɛŋ, aba'lɛlɛŋ	nan	nan	"('to open', 'pura1258', ""ava'lɛlɛŋ,_aba'lɛlɛŋ"")"	nan		
-435.0	to close	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ'teriŋ	nan	nan	('to close', 'adan1251', 'utel')	nan		
-436.0	to climb	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'mida	nan	nan	('to climb', 'abui1241-fuime', 'hong_mira')	nan		
-437.0	to hide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'miŋa	nan	nan	"('to hide', 'alor1247-munas', ""'miaŋ"")"	nan		
-438.0	to wait	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'adiŋ	nan	nan	('to wait', 'adan1251-lawah', 'ʔadana')	nan		
-439.0	to fold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kondo pa'lilu	palilu=fold	nan	('to fold', 'adan1251', 'pali')	nan		
-440.0	to help	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'moliŋ	nan	nan	('to help', 'alor1249-sar-a', 'molah')	nan		
-441.0	to bark	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabar a'rou	nan	nan	('to bark', 'abui1241-takal', 'lɔi')	nan		
-442.0	to shoot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'masaŋ	nan	nan	('to shoot', 'adan1251', 'masaŋ')	nan		
-443.0	to shoot with slingshot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	gata me 'masaŋ	nan	nan	"('to shoot with slingshot', 'pura1258', ""gata_me_'masaŋ"")"	nan		
-444.0	to pound; to beat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'tapa	taba=pound, mod = rice	nan	('to pound; to beat', 'abui1241-fuime', 'tape')	nan		
-445.0	to hit (drum)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paiŋ 'oda	nan	nan	('to hit (drum)', 'adan1251', 'od')	nan		
-446.0	to call out	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'moriŋ	nan	nan	"('to call out', 'pura1258', ""'moriŋ"")"	nan		
-447.0	to lie (tell untruth)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'bule	nan	nan	"('to lie (tell untruth)', 'pura1258', ""ka'bule"")"	nan		
-448.0	to ask (question)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adaŋ'taɁaniŋ	nan	nan	('to ask (question)', 'abui1241-fuime', 'naatahang')	nan		
-449.0	to count	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	rɛkɛŋ, ta'anaŋ	nan	nan	('to count', 'adan1251', 'taʔan')	nan		
-450.0	one	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nu	nan	nan	('one', 'abui1241-fuime', 'nuku')	nan		
-451.0	two	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-452.0	three	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tue	nan	nan	('three', 'abui1241-fuime', 'sua')	nan		
-453.0	four	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buta	slightly implosive b	nan	('four', 'abui1241-fuime', 'buti')	nan		
-454.0	five	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	isiŋ	nan	nan	('five', 'abui1241-fuime', 'jeting')	nan		
-455.0	six	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'taliŋ	nan	nan	('six', 'abui1241-fuime', 'talaama')	nan		
-456.0	seven	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bi'titu	nan	nan	('seven', 'adan1251', 'itito')	nan		
-457.0	eight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tu'aru	nan	nan	('eight', 'baka1276', 'tuaru')	nan		
-458.0	nine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tu'rinu	nan	nan	('nine', 'adan1251', 'ti_enu')	nan		
-459.0	ten	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-460.0	eleven	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛl'tanu	nan	nan	('eleven', 'adan1251-lawah', 'airnu_waliŋu')	nan		
-461.0	twelve	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛl'ta:ru	nan	nan	"('twelve', 'pura1258', ""a'rinu_bɛl'ta:ru"")"	nan		
-462.0	thirteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta 'tue	nan	nan	"('thirteen', 'pura1258', ""a'rinu_bɛlta_'tue"")"	nan		
-463.0	fourteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta'buta	slightly implosive b	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-464.0	fifteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta 'isIŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-465.0	sixteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta 'taliŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-466.0	seventeen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta bi'titu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-467.0	eighteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta tu'aru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-468.0	nineteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta tu'rinu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-469.0	twenty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'a ru	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-470.0	twenty one	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛl'tanu	nan	nan	('twenty one', 'baka1276', 'ar_iaru_betal_nu')	nan		
-471.0	twenty two	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛl'ta:ru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-472.0	twenty three	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛlta 'tue	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-473.0	twenty four	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛlta 'buta	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-474.0	twenty five	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛlta 'isiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-475.0	thirty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'tue	nan	nan	('thirty', 'adan1251', 'er_to')	nan		
-476.0	forty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'buta	slightly implosive b	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-477.0	fifty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'isIŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-478.0	sixty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'talIŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-479.0	seventy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aribi'titu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-480.0	eighty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aritu'aru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-481.0	ninety	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aritu'rinu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-482.0	one hundred	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ratu'nu	nan	nan	('one hundred', 'adan1251', 'ratnu')	nan		
-483.0	one hundred and twenty three	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ratu'nu ari'aru 'bɛlta 'tue	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-484.0	two hundred	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ratu'aru	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-485.0	thousand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ri'bunu	nan	nan	('thousand', 'abui1241-fuime', 'rifi_nuku')	nan		
-486.0	one hundred thousand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ribu ra'tunu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-487.0	grandmother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'nidat 'memet	nan	nan	"('grandmother', 'pura1258', ""'nidat_'memet"")"	nan		
-488.0	grandfather	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'nidat 'boma	nan	nan	('grandfather', 'alor1249-sar-n', 'natapis')	nan		
-489.0	grandchild	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	noal 'nidat	nan	nan	"('grandchild', 'pura1258', ""noal_'nidat"")"	nan		
-490.0	mother's brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nima'ɛla	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-491.0	nephew; niece	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nebilaŋ	nan	nan	('nephew; niece', 'blag1240-kulij', 'ebilang')	nan		
-492.0	older brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ale	ale=big, 	nan	('older brother', 'adon1237', 'ʔariʔ,_kaka')	nan		
-493.0	older sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nedi'ɟaŋu	ɟaŋu=female	nan	"('older sister', 'pura1258', ""nedi'ɟaŋu"")"	nan		
-494.0	sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu, nedi'ɟaŋu	nan	nan	"('sister', 'pura1258', ""nekaku'ɟaŋu,_nedi'ɟaŋu"")"	nan		
-495.0	woman's cross-cousin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu e'kiki	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-496.0	woman's younger sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu e'kiki	ekiki=under, younger	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-497.0	younger brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'mehal e'kiki	mehal=male	nan	('younger brother', 'fata1247', 'nɔkɔ_nami')	nan		
-498.0	brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'mehal	ia'mutu=all the siblings in the family	nan	('brother', 'buna1278-bobon', 'khau_mone')	nan		
-499.0	brother-in-law	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'biaŋ	nan	nan	('brother-in-law', 'adan1251', 'nafeŋ')	nan		
-500.0	cross-cousin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nima'ɛla 'oal nabisa 'medi	my paman's child that I can marry; medi=marry	nan	"('cross-cousin', 'pura1258', ""nima'ɛla_'oal_nabisa_'medi"")"	nan		
-501.0	father's sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	niman e'kaku 'ɟaŋu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-502.0	ridge(pole); peak; tip	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nɔk, oŋ'dudul	nɔk=Dutch borrowing	nan	"('ridge(pole); peak; tip', 'pura1258', ""nɔk,_oŋ'dudul"")"	nan		
-503.0	rack(above hearth/for storing food)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tetu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-504.0	broom; sweep	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'buraŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-505.0	ground for ritual activities and public meetings	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	la'paŋan, bir'bira	birbira=tempat rata	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-506.0	mound of stones for ritual activities	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	doru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-507.0	meeting house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lelaŋ'hava	hava/haba=house	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-508.0	floor	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava'omi 'bira	hava=house, omi= inside, bira= flat	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-509.0	wall	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ga'nebe	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-510.0	window	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'bambaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-511.0	cookhouse; kitchen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'dampur	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-512.0	bed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tiaŋ'mana	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-513.0	chair	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dera	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-514.0	lamp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lampu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-515.0	candle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ud	nan	nan	('candle', 'adan1251', 'pa:n')	nan		
-516.0	to weave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dei, nadei	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-517.0	shirt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	konde	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-518.0	necklace	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bab	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-519.0	earring	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be, we	discussion of pronunciation clip 4, 13:00 min	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-520.0	trousers	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	deko ia a'veniŋ, deko ia a'weniŋ	deko=trousers, ia=leg, avenwiŋ=long	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-521.0	sarong (women)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iaŋ nehe 'ɟaŋu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-522.0	loom	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'liaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-523.0	thread	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'api	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-524.0	to worship	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ, sem'baɟaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-525.0	holy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'mulaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-526.0	to bless	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	naiŋ 'moliŋ	moliŋ=to help; naing=1sg. moliŋ also means 'be weak'. 	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-527.0	God	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	Laha'tala	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-528.0	to pray	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ, sem'baɟaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-529.0	church	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ga'rija	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-530.0	mosque	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'sigit, uma 'sigit	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-531.0	to curse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'gamar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-532.0	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nita, ɟou	panita=pendeta, ɟou=imam	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-533.0	sorcerer; witch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tani	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-534.0	initiation ceremony	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(no data)	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-535.0	sermon	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	Laha'tala ehur weŋ sarinta	e-hur=2sG-word; weŋ=veŋ, sarinta=tutuk=talk 	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-536.0	sacrifice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ameaŋ	ameaŋ=what is sacrified	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-537.0	clan	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'lɛlaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-538.0	chieftain	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'lɛlaŋ e'boma	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-539.0	to rule or govern	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'gahiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-540.0	treaty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nanu meha heiŋ	nanu meha haiŋ=put one sign	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-541.0	marriage	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taiŋ'medi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-542.0	friend	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'seraŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-543.0	enemy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dena'wala	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-544.0	king; ruler	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'hele	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-545.0	stranger	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(no data)	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-546.0	to invite	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ɟari	nan	nan	"('to invite', 'pura1258', ""a'ɟari"")"	nan		
-547.0	to command or order	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ'gahiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-548.0	dowry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ a'boi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-549.0	the judge	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(no data)	nan	nan	('the judge', 'adan1251-otvai', 'no_data')	nan		
-550.0	accuse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ eniŋ a'hala	lit. make him be.wrong	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-551.0	guilty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ahala, ahalaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-552.0	innocent	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'molo	lit. be true, be right	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-553.0	the murder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe a'meaŋ	nan	nan	"('the murder', 'pura1258', ""nehe_a'meaŋ"")"	nan		
-554.0	the adultery	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buha	lit. eat betelnut (makan pinang)	nan	('the adultery', 'pura1258', 'buha')	nan		
-555.0	penalty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	awaloriŋ benteriŋ	awaloriŋ=malu, shame; benteriŋ=close	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-556.0	fishnet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pukat	Indonesian	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-557.0	to surrender	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na ne'auŋ	lit. be full, satisfied	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-558.0	to defend	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta:ŋ pina	lit. tetap pegang	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-559.0	the war or battle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'libal	other words mentioned: oraŋ; tim babue	nan	('the war or battle', 'adan1251', 'mali')	nan		
-560.0	poor	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	masikiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-561.0	rich	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kawasa	nan	nan	('rich', 'adon1237', 'kəˈwasa')	nan		
-562.0	money	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sɛŋ	Dutch: cent	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-563.0	market	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-564.0	price	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	e'bili	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-565.0	to own	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	naing nena 'toaŋ	lit. my possession (is) much	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-566.0	to borrow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'banaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-567.0	to trade or barter	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'bali	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-568.0	expensive	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ebili 'ale	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-569.0	cheap	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ebili 'hela	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-570.0	to grasp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'pina	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-571.0	to let go	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'holoŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-572.0	to promise	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na tutuk 'benaŋ	tutuk=talk	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-573.0	word	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hur	kur=language	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-574.0	to answer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'banaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-575.0	to refuse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tobaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-576.0	to whisper	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nana	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-577.0	to be silent	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'imaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-578.0	to tell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'renta, veŋ tutuk	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-579.0	to learn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be'laɟar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-580.0	to teach	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	i'tubiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-581.0	easy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'kali	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-582.0	difficult	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'hala	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-583.0	finished	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	se'ŋila	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-584.0	now	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bede	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-585.0	hour	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oda	adapted loan from Portuguese 	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-586.0	same	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hama	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-587.0	oven/cooking place	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tutu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-588.0	flower (in e.g. mangga tree)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'buma	nan	nan	('flower (in e.g. mangga tree)', 'adan1251', 'ti_buŋ')	nan		
-589.0	vein	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hariki	nan	nan	('vein', 'adan1251', 'taru')	nan		
-590.0	long (stick)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te a'veniŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-591.0	tall (person)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe ba'lolu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-592.0	short (stick)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'tukaŋ	nan	nan	('short (stick)', 'alor1249-sar-a', 'tuk')	nan		
-593.0	narrow (road)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'puhiŋ	nan	nan	('narrow (road)', 'adan1251', 'kapuh')	nan		
-598.0	to chase away; to expel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lodo	nan	nan	('to chase away; to expel', 'pura1258', 'lodo')	nan		
+22	river; stream	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	moar	nan	nan	nan	nan		
+23	ice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛs	nan	nan	nan	nan		
+24	snow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'mopuŋ	nan	nan	nan	nan		
+25	lake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	zalbal	"variation in pronunciation of /z,j/ and /b,v/"	nan	nan	nan		
+25	lake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'jalval	"variation in pronunciation of /z,j/ and /b,v/"	nan	nan	nan		
+26	mountain	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dɔl	nan	nan	nan	nan		
+27	hill; ridge	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abu	onsetless vowel with small /h/ preceding it	nan	nan	nan		
+28	village	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abaŋ	nan	nan	nan	nan		
+29	land; soil	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	make	nan	nan	nan	nan		
+30	Earth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɔr	nan	nan	nan	nan		
+31	hole	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɔr	nan	nan	nan	nan		
+32	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bar	"variation in pronunciation of initial consonant, unlike in previous word /bor/ 'hole'"	nan	nan	nan		
+32	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	var	"variation in pronunciation of initial consonant, unlike in previous word /bor/ 'hole'"	nan	nan	nan		
+32	stone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	war	"variation in pronunciation of initial consonant, unlike in previous word /bor/ 'hole'"	nan	nan	nan		
+33	coral (rock)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bar omi	nan	nan	nan	nan		
+34	(coral) reef	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	koka omi	nan	nan	nan	nan		
+35	water (fresh)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟar	nan	nan	nan	nan		
+36	sea; sea water	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋ	nan	nan	nan	nan		
+37	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buatele	"ombak, gelombang"	nan	nan	nan		
+37	wave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	olaŋale	"ombak, gelombang"	nan	nan	nan		
+38	foam	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ur	nan	nan	nan	nan		
+39	forest	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'naha	nan	nan	nan	nan		
+40	field	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir'pusi	nan	nan	nan	nan		
+41	island	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɔr	nan	nan	nan	nan		
+42	rice field	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buta	nan	nan	nan	nan		
+43	garden	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɓir	"clip 1; 6:49 implosive b, alternative written as bil"	nan	nan	nan		
+44	fence	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lapa	nan	nan	nan	nan		
+45	road; path; way	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	via	nan	nan	nan	nan		
+45	road; path; way	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bia	nan	nan	nan	nan		
+46	canoe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟe	nan	nan	nan	nan		
+47	sail (n.)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'alal	nan	nan	nan	nan		
+48	to sail	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ala'ri	nan	nan	nan	nan		
+49	fishing hook	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kavil	alternative written as kabil	nan	nan	nan		
+50	fish trap	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ab adoi	nan	nan	nan	nan		
+51	rope	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sar	nan	nan	nan	nan		
+52	machete	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'pada	nan	nan	nan	nan		
+53	axe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta	nan	nan	nan	nan		
+54	spear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dad	nan	nan	nan	nan		
+55	burden stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tejar tebaŋ	nan	nan	nan	nan		
+55	burden stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tejar tevaŋ	nan	nan	nan	nan		
+56	stick; pole	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	doba	nan	nan	nan	nan		
+57	digging stick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	s%kop	nan	nan	nan	nan		
+59	bow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	humat	nan	nan	nan	nan		
+60	arrow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'burit	nan	nan	nan	nan		
+61	knife	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'meriŋ	nan	nan	nan	nan		
+62	comb	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kiri	nan	nan	nan	nan		
+63	mat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bihi	nan	nan	nan	nan		
+64	needle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batul	nan	nan	nan	nan		
+65	clothing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kondo	"kondo=shirt, noaŋ=kain, deko=trousers"	nan	nan	nan		
+67	fire	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'viliŋ	nan	nan	nan	nan		
+68	smoke	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'vanak	nan	nan	nan	nan		
+68	smoke	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ad 'banak	nan	nan	nan	nan		
+70	dust; fine earth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	maro	nan	nan	nan	nan		
+71	fireplace ash	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	debaŋ 'maro	"debaŋ=tungku, maro= ash"	nan	nan	nan		
+72	mud	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'nakuŋ	nan	nan	nan	nan		
+73	clay	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	make 'tena	make=tanah	nan	nan	nan		
+74	gravel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	da'roal	nan	nan	nan	nan		
+75	sand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɓehi	both pronounce it with a slighly implosive ɓ	nan	nan	nan		
+76	grass; brush	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	napa	nan	nan	nan	nan		
+77	house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava	nan	nan	nan	nan		
+78	traditional house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava suku	nan	nan	nan	nan		
+78	traditional house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lelaŋ hava	nan	nan	nan	nan		
+79	barn; storage house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mɛraŋ	nan	nan	nan	nan		
+80	raised platform	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dei	nan	nan	nan	nan		
+81	door	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tundir	nan	nan	nan	nan		
+82	(thatch) roof	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iko'rima hava 'vei	"written as atap rumah: hababei, after inquiry pronunciation as 'hava bei'"	nan	nan	nan		
+83	roof thatch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	meniŋ	nan	nan	nan	nan		
+84	tree	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te	nan	nan	nan	nan		
+85	wood	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'boa	nan	nan	nan	nan		
+86	bark (of tree)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'buar	nan	nan	nan	nan		
+87	leaf	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'va:	nan	nan	nan	nan		
+88	branch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'Ɂataŋ	nan	nan	nan	nan		
+89	firewood	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'dera	nan	nan	nan	nan		
+90	rattan	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lia	nan	nan	nan	nan		
+91	root	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teva'rikiŋ	nan	nan	nan	nan		
+91	root	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teba'rikiŋ	nan	nan	nan	nan		
+92	fruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'hi:	nan	nan	nan	nan		
+93	seed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekokar	alternative written as ekokal	nan	nan	nan		
+94	grain; cereal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod	nan	nan	nan	nan		
+96	husked rice; uncooked rice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod	nan	nan	nan	nan		
+97	rice grains (unhusked) (raw from field)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'kokal	nan	nan	nan	nan		
+98	cooked rice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'liaŋ	nan	nan	nan	nan		
+99	rice plant	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'mudiŋ	nan	nan	nan	nan		
+100	to plant (yam)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batako 'mudiŋ	nan	nan	nan	nan		
+101	to plant (rice)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'mudiŋ	nan	nan	nan	nan		
+102	betel nut; areca	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bu	nan	nan	nan	nan		
+103	betel vine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mat	nan	nan	nan	nan		
+104	lime	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	havar	nan	nan	nan	nan		
+105	chew betel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mat ha	nan	nan	nan	nan		
+106	sweet potato	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	au kasi	nan	nan	nan	nan		
+107	cassava	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	au benu	nan	nan	nan	nan		
+108	taro	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	au gol	nan	nan	nan	nan		
+109	sago	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tapoŋ	nan	nan	nan	nan		
+110	millet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nuat	nan	nan	nan	nan		
+111	sugarcane	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ub	nan	nan	nan	nan		
+112	corn; maize	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batar	nan	nan	nan	nan		
+113	cooked corn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batar 'api	nan	nan	nan	nan		
+114	coconut	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vet	written as bet	nan	nan	nan		
+115	gwang	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dubu	nan	nan	nan	nan		
+116	lontar palm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tua kori	nan	nan	nan	nan		
+117	sugar palm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tua bur	nan	nan	nan	nan		
+118	marungga	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'toruŋ	nan	nan	nan	nan		
+119	gum tree; eucalyptus	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te maɟa	nan	nan	nan	nan		
+120	bamboo	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pɛtuŋ	nan	nan	nan	nan		
+121	banana	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mɔl	nan	nan	nan	nan		
+122	mango	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	viat	nan	nan	nan	nan		
+122	mango	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	biat	nan	nan	nan	nan		
+123	papaya	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kasi	nan	nan	nan	nan		
+124	jackfruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tona	nan	nan	nan	nan		
+125	breadfruit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	undur	nan	nan	nan	nan		
+126	bean	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taur	nan	nan	nan	nan		
+127	honey	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tauŋ jar	nan	nan	nan	nan		
+128	milk	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	susu	nan	nan	nan	nan		
+129	salt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	si'a	nan	nan	nan	nan		
+130	fat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'ma:	nan	nan	nan	nan		
+131	flesh; meat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	umuŋ	nan	nan	nan	nan		
+132	bone	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekira	nan	nan	nan	nan		
+133	rib	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tabar kusi	nan	nan	nan	nan		
+134	sweat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'ruŋ	nan	nan	nan	nan		
+135	tear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛŋono	nan	nan	nan	nan		
+136	blood	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ve:	nan	nan	nan	nan		
+138	heart	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ	nan	nan	nan	nan		
+139	liver	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	alila	nan	nan	nan	nan		
+141	guts	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tousar	nan	nan	nan	nan		
+142	excrement	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	as	onsetless vowel with small /h/ preceding it	nan	nan	nan		
+143	lungs	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	eurat	nan	nan	nan	nan		
+144	stomach; belly	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	atou	nan	nan	nan	nan		
+145	head	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ	nan	nan	nan	nan		
+146	hair	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ 'va	nan	nan	nan	nan		
+147	body hair	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'mudi	all body hairs	nan	nan	nan		
+148	eye	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛŋ	nan	nan	nan	nan		
+149	ear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ver	nan	nan	nan	nan		
+150	nose	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'miŋ	nan	nan	nan	nan		
+151	mouth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tai	nan	nan	nan	nan		
+152	chin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'va:	written with w	nan	nan	nan		
+153	lips	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iɓar	slightly implosive b	nan	nan	nan		
+154	teeth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aveŋ	nan	nan	nan	nan		
+155	tongue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	azabur	nan	nan	nan	nan		
+155	tongue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aɟabur	nan	nan	nan	nan		
+156	neck	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abo	nan	nan	nan	nan		
+157	shoulder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aɓea	slightly implosive b	nan	nan	nan		
+158	body	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	eboa	nan	nan	nan	nan		
+159	forehead	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tapaŋ	nan	nan	nan	nan		
+160	nostril	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amiŋ 'bor	nan	nan	nan	nan		
+161	mucus	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amiŋ 'siŋ	nan	nan	nan	nan		
+162	cheek	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'duŋ	nan	nan	nan	nan		
+163	arm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tataŋ	nan	nan	nan	nan		
+164	hand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tataŋ	nan	nan	nan	nan		
+165	palm of hand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tataŋ omi	nan	nan	nan	nan		
+166	finger	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ataŋ tuba	nan	nan	nan	nan		
+167	fingernail	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ataŋ kusir	nan	nan	nan	nan		
+168	breast	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kono	nan	nan	nan	nan		
+169	chest	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adiar	nan	nan	nan	nan		
+170	navel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	apuar 'ɛŋ	nan	nan	nan	nan		
+171	penis	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oto	nan	nan	nan	nan		
+172	vagina	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ar	nan	nan	nan	nan		
+173	testicles	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kokar	nan	nan	nan	nan		
+174	leg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nia	nan	nan	nan	nan		
+175	foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nia	nan	nan	nan	nan		
+176	heel of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uda 'vari	nan	nan	nan	nan		
+176	heel of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uda 'wari	nan	nan	nan	nan		
+177	sole of foot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tia omi	nan	nan	nan	nan		
+178	knee	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ia kuku	nan	nan	nan	nan		
+179	back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amo'ta	nan	nan	nan	nan		
+180	spine; lower back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ	nan	nan	nan	nan		
+180	spine; lower back	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha waŋ	nan	nan	nan	nan		
+181	waist	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha baŋ	nan	nan	nan	nan		
+181	waist	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taha waŋ	nan	nan	nan	nan		
+182	skin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ebuar	nan	nan	nan	nan		
+183	sore; wound	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bata	nan	nan	nan	nan		
+184	ringworm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vanai	written with w	nan	nan	nan		
+185	scabies	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kot	nan	nan	nan	nan		
+186	tinea	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nama'ɟa:	nan	nan	nan	nan		
+187	feverish	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wa'wiriŋ	written as babiriŋ	nan	nan	nan		
+188	conjunctivitis	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛŋ'tena	nan	nan	nan	nan		
+189	cold; influenza	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tamiŋ 'omi ta'buhi	nose inside sesak	nan	nan	nan		
+190	person	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aiŋ	nan	nan	nan	nan		
+191	name	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɛnɛ	nan	nan	nan	nan		
+192	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka'neŋ	nan	nan	nan	nan		
+192	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bal ka'kari	nan	nan	nan	nan		
+192	child	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wal kakari	nan	nan	nan	nan		
+193	man	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'mehal	nan	nan	nan	nan		
+194	woman	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'ɟaŋu	nan	nan	nan	nan		
+195	husband	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	emehal	nan	nan	nan	nan		
+196	wife	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	e'ɟaŋu	nan	nan	nan	nan		
+197	mother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'niva	nan	nan	nan	nan		
+198	father	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'nimaŋ	nan	nan	nan	nan		
+199	older sibling	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekaku 'ale	nan	nan	nan	nan		
+200	younger sibling	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ekaku 'kiki	nan	nan	nan	nan		
+201	bride price	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	eɓili	slightly implosive b	nan	nan	nan		
+202	slave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	gahiŋ	nan	nan	nan	nan		
+203	1sg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	naiŋ	nan	nan	nan	nan		
+204	2sg (informal)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aiŋ	nan	nan	nan	nan		
+205	2sg (polite)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aiŋ	nan	nan	nan	nan		
+206	3sg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ	nan	nan	nan	nan		
+207	1pl excl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	piŋ	check Steinhauer	nan	nan	nan		
+208	1pl incl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	piŋ (emampi)	check Steinhauer	nan	nan	nan		
+209	2pl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ	nan	nan	nan	nan		
+210	3pl	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ (emampi) 	nan	nan	nan	nan		
+211	no; not	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	niaŋ	nan	nan	nan	nan		
+212	and	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	met	nan	nan	nan	nan		
+213	because	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uŋ	nan	nan	nan	nan		
+214	if	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ana	onsetless vowel with small /h/ preceding it	nan	nan	nan		
+215	with	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ole	nan	nan	nan	nan		
+216	what?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	e'talaŋ	nan	nan	nan	nan		
+217	who?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nuba	nan	nan	nan	nan		
+218	where?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'aŋmi	nan	nan	nan	nan		
+219	when?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tawediŋ	nan	nan	nan	nan		
+220	why?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ea'talaŋ	nan	nan	nan	nan		
+221	how much; how many?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adeŋ	nan	nan	nan	nan		
+222	how?	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'talaŋ	nan	nan	nan	nan		
+223	this	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aŋa	nan	nan	nan	nan		
+224	that	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aŋu	nan	nan	nan	nan		
+225	at	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ni ae bia	"ni=1sg, bia=jalan"	nan	nan	nan		
+225	at	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	via mi	"ni=1sg, bia=jalan"	nan	nan	nan		
+226	in; inside	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	omi	nan	nan	nan	nan		
+227	here	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ŋami	nan	nan	nan	nan		
+228	there	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'momi	nan	nan	nan	nan		
+229	above	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tela	nan	nan	nan	nan		
+230	below	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'lolaŋ	nan	nan	nan	nan		
+231	left (side)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	baɟaul	nan	nan	nan	nan		
+232	right (side)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tane	nan	nan	nan	nan		
+233	a few	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaviŋ'dena	written with b instead of v	nan	nan	nan		
+234	all	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	emampi	nan	nan	nan	nan		
+235	many	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	toaŋ	nan	nan	nan	nan		
+236	animal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bi'nanta	nan	nan	nan	nan		
+238	dog	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabar	nan	nan	nan	nan		
+239	pig	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be	nan	nan	nan	nan		
+240	chicken	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	haŋi	nan	nan	nan	nan		
+241	rat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	duru	nan	nan	nan	nan		
+242	lizard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	teke	nan	nan	nan	nan		
+243	civet cat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aro	onsetless vowel with small /h/ preceding it	nan	nan	nan		
+244	deer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'ruhiŋ	nan	nan	nan	nan		
+245	frog	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	baka'baka	nan	nan	nan	nan		
+246	bat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	damer	nan	nan	nan	nan		
+247	flying fox; fruit bat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bab	nan	nan	nan	nan		
+249	tail	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ora	nan	nan	nan	nan		
+250	fish	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ab	nan	nan	nan	nan		
+251	shark	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hibir	nan	nan	nan	nan		
+252	whale	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'laru	nan	nan	nan	nan		
+253	dolphin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'kuɟa	nan	nan	nan	nan		
+254	crocodile	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'bapa	nan	nan	nan	nan		
+255	monitor lizard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari	nan	nan	nan	nan		
+256	starfish	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋ hi'lawa	nan	nan	nan	nan		
+257	turtle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarbo	alternative pronunciation with plain or implosive ɓ	nan	nan	nan		
+257	turtle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarɓo	alternative pronunciation with plain or implosive ɓ	nan	nan	nan		
+258	turtle (saltwater)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟarbo	nan	nan	nan	nan		
+259	bird	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	duŋ	nan	nan	nan	nan		
+260	wing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'abat	nan	nan	nan	nan		
+261	claw	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'hurak	nan	nan	nan	nan		
+262	feather	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	(duŋ) 'kura	nan	nan	nan	nan		
+263	horn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amu	nan	nan	nan	nan		
+264	snake	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'dumiŋ	nan	nan	nan	nan		
+265	scorpion	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'pɛl	nan	nan	nan	nan		
+266	egg	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	haŋia 'dua	haŋia=chicken	nan	nan	nan		
+267	earthworm	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dumiŋ kalaliŋ	nan	nan	nan	nan		
+268	butterfly	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kilba'budil	nan	nan	nan	nan		
+269	fly (n.)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vavar	written with w	nan	nan	nan		
+270	mosquito	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kini	nan	nan	nan	nan		
+271	ant	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uri	nan	nan	nan	nan		
+272	grasshopper	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'bɛt	nan	nan	nan	nan		
+273	locust	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	da'rabuŋ	nan	nan	nan	nan		
+274	spider	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka'randa	nan	nan	nan	nan		
+275	headlice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ	nan	nan	nan	nan		
+276	louse eggs	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ 'dariŋ	nan	nan	nan	nan		
+277	mother louse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kubaŋ 'iva	nan	nan	nan	nan		
+278	flea	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tata 'mɛra	nan	nan	nan	nan		
+279	louse (clothing)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ve:	"MT repeats the word as ve, we and be."	nan	nan	nan		
+280	bedbug	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tame	nan	nan	nan	nan		
+281	big	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ale	nan	nan	nan	nan		
+282	small	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kiki	nan	nan	nan	nan		
+283	old; worn (house)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava 'vɛmaŋ	hava written as haba	nan	nan	nan		
+284	new (house)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava 'hiva	nan	nan	nan	nan		
+285	old (people)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe 'boma	nan	nan	nan	nan		
+286	young (people)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe 'kuar	nan	nan	nan	nan		
+287	lazy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	maɟaruŋ niaŋ	nan	nan	nan	nan		
+288	hot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tutuŋ	nan	nan	nan	nan		
+289	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟabi	nan	nan	nan	nan		
+289	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟavi	nan	nan	nan	nan		
+289	cold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'ɟawi	nan	nan	nan	nan		
+290	good	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	auŋ	nan	nan	nan	nan		
+291	bad	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟasi	nan	nan	nan	nan		
+292	full	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aviŋ	nan	nan	nan	nan		
+292	full	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	awiŋ	nan	nan	nan	nan		
+293	empty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	osiŋ	nan	nan	nan	nan		
+294	near	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	peaŋ	nan	nan	nan	nan		
+295	far	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɔla	nan	nan	nan	nan		
+296	wet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'rita	nan	nan	nan	nan		
+297	dry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'ata	nan	nan	nan	nan		
+298	dry in sun	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kondo a'hele	"this is an expression, kondo=shirt, ahele= hang up"	nan	nan	nan		
+302	short (people)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe 'tukaŋ	nan	nan	nan	nan		
+303	thin (non-human)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'lala	nan	nan	nan	nan		
+304	skinny (human)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kira	nan	nan	nan	nan		
+305	thick	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pusi	nan	nan	nan	nan		
+306	round	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kopol	nan	nan	nan	nan		
+307	dark	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kua	nan	nan	nan	nan		
+308	light	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟara	nan	nan	nan	nan		
+309	dirty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'rita	nan	nan	nan	nan		
+310	clean	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'mulaŋ	nan	nan	nan	nan		
+311	sharp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma:ŋ	nan	nan	nan	nan		
+312	blunt; dull	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'kumal	nan	nan	nan	nan		
+313	heavy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'madi	nan	nan	nan	nan		
+314	light (weight)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	"vila, wila"	nan	nan	nan	nan		
+315	straight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	molo	nan	nan	nan	nan		
+316	wide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bɛraŋ	nan	nan	nan	nan		
+318	correct	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	auŋ	nan	nan	nan	nan		
+319	wrong	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'hala	nan	nan	nan	nan		
+320	ripe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ehi tena	"ehi=fruit, tena=ripe"	nan	nan	nan		
+321	rotten	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ehi ma'nisa	"ehi=fruit, manisa=rotten"	nan	nan	nan		
+322	bitter	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'kara	nan	nan	nan	nan		
+323	sweet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'malak	nan	nan	nan	nan		
+324	sour	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'likil	nan	nan	nan	nan		
+325	salty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'kara	nan	nan	nan	nan		
+326	flat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bira	nan	nan	nan	nan		
+327	smooth	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir 'dula	nan	nan	nan	nan		
+328	rough	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'koŋkar	nan	nan	nan	nan		
+329	black	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'Ɂana	nan	nan	nan	nan		
+330	white	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'ɟaka	nan	nan	nan	nan		
+331	red	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛna	nan	nan	nan	nan		
+332	green	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'koa	nan	nan	nan	nan		
+333	blue	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buraŋ kakoa	buraŋ=sky	nan	nan	nan		
+334	yellow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'Ɂori	nan	nan	nan	nan		
+335	sick; painful	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dira	nan	nan	nan	nan		
+336	shy; ashamed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava'loriŋ	nan	nan	nan	nan		
+337	thirsty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	avo ta'Ɂata	nan	nan	nan	nan		
+337	thirsty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	abo ta'Ɂata	nan	nan	nan	nan		
+338	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'lapal	nan	nan	nan	nan		
+338	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava ma'lapal	nan	nan	nan	nan		
+339	blind	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛŋ'ɟasi	nan	nan	nan	nan		
+340	deaf	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taveriŋ kabe	taveriŋ=ear	nan	nan	nan		
+341	scared	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	t-uaŋ 'mari	nan	nan	nan	nan		
+342	angry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'lil	nan	nan	nan	nan		
+343	to see	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teiŋ	nan	nan	nan	nan		
+344	to hear	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vɛŋ mɛ:	nan	nan	nan	nan		
+345	to smell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ'bisa	nan	nan	nan	nan		
+346	to think	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'ukur	nan	nan	nan	nan		
+347	to know	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teiŋ	nan	nan	nan	nan		
+348	to say	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vɛŋ 'banaŋ	nan	nan	nan	nan		
+349	to speak	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vɛŋ 'tutuk	nan	nan	nan	nan		
+350	voice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	amal	nan	nan	nan	nan		
+351	language	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hur	nan	nan	nan	nan		
+352	to lie down	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tia-tia	nan	nan	nan	nan		
+353	to sleep	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'baina	nan	nan	nan	nan		
+354	to wake up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'tahi	nan	nan	nan	nan		
+355	to wake someone up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɔt 'tahi	nan	nan	nan	nan		
+355	to wake someone up	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a tahiŋ	nan	nan	nan	nan		
+356	to bathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	wera	nan	nan	nan	nan		
+356	to bathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bera	nan	nan	nan	nan		
+357	to bathe (a child)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a 'wera	nan	nan	nan	nan		
+358	to sit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mihi	nan	nan	nan	nan		
+359	to stand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tahi	nan	nan	nan	nan		
+360	to walk	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ia vɛŋ lamal	"ia=leg, lamal=walk"	nan	nan	nan		
+361	to run	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bihit 'lamal	nan	nan	nan	nan		
+362	to go	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ila	nan	nan	nan	nan		
+363	to swim	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'luli	nan	nan	nan	nan		
+364	to fly	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'lili	nan	nan	nan	nan		
+365	to fall (from above)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bat atela mi 'hela	nan	nan	nan	nan		
+366	to fall over	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	beri	nan	nan	nan	nan		
+367	to drop	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a vaŋ 'hela	nan	nan	nan	nan		
+368	to drink	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na	nan	nan	nan	nan		
+369	to eat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'Ɂadaŋ	nan	nan	nan	nan		
+370	to cook	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'doa	nan	nan	nan	nan		
+371	to wash	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na vɛŋ 'bai	nan	nan	nan	nan		
+372	to sew	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na ha'rota	nan	nan	nan	nan		
+373	to live; be alive; living	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ɓeta	slightly implosive b	nan	nan	nan		
+374	to breathe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hopaŋ	nan	nan	nan	nan		
+375	to work	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'riɟaŋ	nan	nan	nan	nan		
+376	to die	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'mina	nan	nan	nan	nan		
+377	to give	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mema'Ɂɛnaŋ	nan	nan	nan	nan		
+378	to wipe	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir 'doho	nan	nan	nan	nan		
+379	to come	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hoa	nan	nan	nan	nan		
+380	to laugh	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'lela	nan	nan	nan	nan		
+381	to cry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	"vau, bau"	nan	nan	nan	nan		
+382	to dance	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sara sumba	nan	nan	nan	nan		
+383	to sing	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dar ohi	nan	nan	nan	nan		
+384	to burn (clear land)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bil ade	"bil=garden, place; ade=burn"	nan	nan	nan		
+385	to burn; to shine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adɛt'biriŋ	nan	nan	nan	nan		
+386	to shine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'biriŋ	nan	nan	nan	nan		
+387	to chew	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lapuŋ	nan	nan	nan	nan		
+388	to yawn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	i'lohi	nan	nan	nan	nan		
+389	to suck	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dumiŋ	nan	nan	nan	nan		
+390	to blow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	apu	nan	nan	nan	nan		
+391	to spit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	puruŋ	nan	nan	nan	nan		
+392	to vomit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	boal	nan	nan	nan	nan		
+392	to vomit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ida	nan	nan	nan	nan		
+393	to rub	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	osoŋ	nan	nan	nan	nan		
+394	to scratch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'rabi	nan	nan	nan	nan		
+395	itchy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaka	nan	nan	nan	nan		
+396	to swell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ba'baraŋ	nan	nan	nan	nan		
+396	to swell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	va'varaŋ	nan	nan	nan	nan		
+397	to hit	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bue	nan	nan	nan	nan		
+398	to slap	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paru	nan	nan	nan	nan		
+399	to bite	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabar iŋ 'adaŋ	adaŋ=bite	nan	nan	nan		
+400	to cut	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	boi	nan	nan	nan	nan		
+401	to cut down	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'baŋ	nan	nan	nan	nan		
+402	to split	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'kahi	nan	nan	nan	nan		
+403	to divide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paul	nan	nan	nan	nan		
+404	to stab	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taŋi	nan	nan	nan	nan		
+405	to skewer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	zabak	nan	nan	nan	nan		
+405	to skewer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabak	nan	nan	nan	nan		
+406	to fight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oraŋ	nan	nan	nan	nan		
+407	to guard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'buaŋ	nan	nan	nan	nan		
+407	to guard	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	weŋ 'buaŋ	nan	nan	nan	nan		
+408	to throw	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'oda	nan	nan	nan	nan		
+409	to hunt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teri	nan	nan	nan	nan		
+410	to kill	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'meaŋ	nan	nan	nan	nan		
+411	to chase away	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teri	nan	nan	nan	nan		
+413	to search for; to hunt for	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ala'piŋ	nan	nan	nan	nan		
+414	to dig	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'anaŋ	nan	nan	nan	nan		
+415	to bury	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'rou	nan	nan	nan	nan		
+416	to flow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	totu	nan	nan	nan	nan		
+417	to float	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tediŋ	nan	nan	nan	nan		
+418	to freeze	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'namaŋ	nan	nan	nan	nan		
+419	to hold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pina	nan	nan	nan	nan		
+420	to tie	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kaboŋ	nan	nan	nan	nan		
+421	to play	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'mulal	nan	nan	nan	nan		
+422	to pull	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'siriŋ	nan	nan	nan	nan		
+423	to push	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tobaŋ	nan	nan	nan	nan		
+424	to turn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'leleŋ	nan	nan	nan	nan		
+425	to dream	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hi'parna	nan	nan	nan	nan		
+426	to crouch; to bend over	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tou	nan	nan	nan	nan		
+427	to live; to stay	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mihi	nan	nan	nan	nan		
+428	to choose	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ talai	nan	nan	nan	nan		
+429	to grow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bilaŋ	nan	nan	nan	nan		
+430	to squeeze	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'omi	nan	nan	nan	nan		
+431	to buy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'beli	nan	nan	nan	nan		
+432	to sell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'bali	nan	nan	nan	nan		
+433	to steal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taɁavi	nan	nan	nan	nan		
+433	to steal	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taɁabi	nan	nan	nan	nan		
+434	to open	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava'lɛlɛŋ	nan	nan	nan	nan		
+434	to open	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aba'lɛlɛŋ	nan	nan	nan	nan		
+435	to close	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ'teriŋ	nan	nan	nan	nan		
+436	to climb	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'mida	nan	nan	nan	nan		
+437	to hide	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'miŋa	nan	nan	nan	nan		
+438	to wait	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'adiŋ	nan	nan	nan	nan		
+439	to fold	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kondo pa'lilu	palilu=fold	nan	nan	nan		
+440	to help	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'moliŋ	nan	nan	nan	nan		
+441	to bark	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟabar a'rou	nan	nan	nan	nan		
+442	to shoot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'masaŋ	nan	nan	nan	nan		
+443	to shoot with slingshot	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	gata me 'masaŋ	nan	nan	nan	nan		
+444	to pound; to beat	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	mod 'tapa	"taba=pound, mod = rice"	nan	nan	nan		
+445	to hit (drum)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	paiŋ 'oda	nan	nan	nan	nan		
+446	to call out	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'moriŋ	nan	nan	nan	nan		
+447	to lie (tell untruth)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'bule	nan	nan	nan	nan		
+448	to ask (question)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	adaŋ'taɁaniŋ	nan	nan	nan	nan		
+449	to count	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	rɛkɛŋ	nan	nan	nan	nan		
+449	to count	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'anaŋ	nan	nan	nan	nan		
+450	one	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nu	nan	nan	nan	nan		
+451	two	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aru	nan	nan	nan	nan		
+452	three	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tue	nan	nan	nan	nan		
+453	four	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buta	slightly implosive b	nan	nan	nan		
+454	five	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	isiŋ	nan	nan	nan	nan		
+455	six	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'taliŋ	nan	nan	nan	nan		
+456	seven	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bi'titu	nan	nan	nan	nan		
+457	eight	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tu'aru	nan	nan	nan	nan		
+458	nine	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tu'rinu	nan	nan	nan	nan		
+459	ten	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu	nan	nan	nan	nan		
+460	eleven	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛl'tanu	nan	nan	nan	nan		
+461	twelve	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛl'ta:ru	nan	nan	nan	nan		
+462	thirteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta 'tue	nan	nan	nan	nan		
+463	fourteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta'buta	slightly implosive b	nan	nan	nan		
+464	fifteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta 'isIŋ	nan	nan	nan	nan		
+465	sixteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta 'taliŋ	nan	nan	nan	nan		
+466	seventeen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta bi'titu	nan	nan	nan	nan		
+467	eighteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta tu'aru	nan	nan	nan	nan		
+468	nineteen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'rinu bɛlta tu'rinu	nan	nan	nan	nan		
+469	twenty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'a ru	nan	nan	nan	nan		
+470	twenty one	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛl'tanu	nan	nan	nan	nan		
+471	twenty two	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛl'ta:ru	nan	nan	nan	nan		
+472	twenty three	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛlta 'tue	nan	nan	nan	nan		
+473	twenty four	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛlta 'buta	nan	nan	nan	nan		
+474	twenty five	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'aru bɛlta 'isiŋ	nan	nan	nan	nan		
+475	thirty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'tue	nan	nan	nan	nan		
+476	forty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'buta	slightly implosive b	nan	nan	nan		
+477	fifty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'isIŋ	nan	nan	nan	nan		
+478	sixty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ari'talIŋ	nan	nan	nan	nan		
+479	seventy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aribi'titu	nan	nan	nan	nan		
+480	eighty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aritu'aru	nan	nan	nan	nan		
+481	ninety	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	aritu'rinu	nan	nan	nan	nan		
+482	one hundred	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ratu'nu	nan	nan	nan	nan		
+483	one hundred and twenty three	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ratu'nu ari'aru 'bɛlta 'tue	nan	nan	nan	nan		
+484	two hundred	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ratu'aru	nan	nan	nan	nan		
+485	thousand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ri'bunu	nan	nan	nan	nan		
+486	one hundred thousand	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ribu ra'tunu	nan	nan	nan	nan		
+487	grandmother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'nidat 'memet	nan	nan	nan	nan		
+488	grandfather	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'nidat 'boma	nan	nan	nan	nan		
+489	grandchild	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	noal 'nidat	nan	nan	nan	nan		
+490	mother's brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nima'ɛla	nan	nan	nan	nan		
+491	nephew; niece	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nebilaŋ	nan	nan	nan	nan		
+492	older brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ale	"ale=big, "	nan	nan	nan		
+493	older sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nedi'ɟaŋu	ɟaŋu=female	nan	nan	nan		
+494	sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu	nan	nan	nan	nan		
+494	sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nedi'ɟaŋu	nan	nan	nan	nan		
+495	woman's cross-cousin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu e'kiki	nan	nan	nan	nan		
+496	woman's younger sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'ɟaŋu e'kiki	"ekiki=under, younger"	nan	nan	nan		
+497	younger brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'mehal e'kiki	mehal=male	nan	nan	nan		
+498	brother	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nekaku'mehal	ia'mutu=all the siblings in the family	nan	nan	nan		
+499	brother-in-law	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'biaŋ	nan	nan	nan	nan		
+500	cross-cousin	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nima'ɛla 'oal nabisa 'medi	my paman's child that I can marry; medi=marry	nan	nan	nan		
+501	father's sister	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	niman e'kaku 'ɟaŋu	nan	nan	nan	nan		
+502	ridge(pole); peak; tip	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nɔk	nɔk=Dutch borrowing	nan	nan	nan		
+502	ridge(pole); peak; tip	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ'dudul	nɔk=Dutch borrowing	nan	nan	nan		
+503	rack(above hearth/for storing food)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tetu	nan	nan	nan	nan		
+504	broom; sweep	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'buraŋ	nan	nan	nan	nan		
+505	ground for ritual activities and public meetings	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	la'paŋan	birbira=tempat rata	nan	nan	nan		
+505	ground for ritual activities and public meetings	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bir'bira	birbira=tempat rata	nan	nan	nan		
+506	mound of stones for ritual activities	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	doru	nan	nan	nan	nan		
+507	meeting house	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lelaŋ'hava	hava/haba=house	nan	nan	nan		
+508	floor	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hava'omi 'bira	"hava=house, omi= inside, bira= flat"	nan	nan	nan		
+509	wall	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ga'nebe	nan	nan	nan	nan		
+510	window	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'bambaŋ	nan	nan	nan	nan		
+511	cookhouse; kitchen	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'dampur	nan	nan	nan	nan		
+512	bed	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tiaŋ'mana	nan	nan	nan	nan		
+513	chair	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dera	nan	nan	nan	nan		
+514	lamp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lampu	nan	nan	nan	nan		
+515	candle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ud	nan	nan	nan	nan		
+516	to weave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dei	nan	nan	nan	nan		
+516	to weave	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nadei	nan	nan	nan	nan		
+517	shirt	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	konde	nan	nan	nan	nan		
+518	necklace	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bab	nan	nan	nan	nan		
+519	earring	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	"be, we"	"discussion of pronunciation clip 4, 13:00 min"	nan	nan	nan		
+520	trousers	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	deko ia a'veniŋ	"deko=trousers, ia=leg, avenwiŋ=long"	nan	nan	nan		
+520	trousers	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	deko ia a'weniŋ	"deko=trousers, ia=leg, avenwiŋ=long"	nan	nan	nan		
+521	sarong (women)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iaŋ nehe 'ɟaŋu	nan	nan	nan	nan		
+522	loom	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'liaŋ	nan	nan	nan	nan		
+523	thread	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'api	nan	nan	nan	nan		
+524	to worship	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ	nan	nan	nan	nan		
+524	to worship	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sem'baɟaŋ	nan	nan	nan	nan		
+525	holy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ha'mulaŋ	nan	nan	nan	nan		
+526	to bless	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	naiŋ 'moliŋ	moliŋ=to help; naing=1sg. moliŋ also means 'be weak'. 	nan	nan	nan		
+527	God	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	Laha'tala	nan	nan	nan	nan		
+528	to pray	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sam'baɟaŋ	nan	nan	nan	nan		
+528	to pray	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sem'baɟaŋ	nan	nan	nan	nan		
+529	church	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ga'rija	nan	nan	nan	nan		
+530	mosque	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'sigit	nan	nan	nan	nan		
+530	mosque	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	uma 'sigit	nan	nan	nan	nan		
+531	to curse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe'gamar	nan	nan	nan	nan		
+532	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nita	"panita=pendeta, ɟou=imam"	nan	nan	nan		
+532	priest (modern)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ɟou	"panita=pendeta, ɟou=imam"	nan	nan	nan		
+533	sorcerer; witch	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tani	nan	nan	nan	nan		
+535	sermon	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	Laha'tala ehur weŋ sarinta	"e-hur=2sG-word; weŋ=veŋ, sarinta=tutuk=talk "	nan	nan	nan		
+536	sacrifice	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ameaŋ	ameaŋ=what is sacrified	nan	nan	nan		
+537	clan	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'lɛlaŋ	nan	nan	nan	nan		
+538	chieftain	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'lɛlaŋ e'boma	nan	nan	nan	nan		
+539	to rule or govern	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'gahiŋ	nan	nan	nan	nan		
+540	treaty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nanu meha heiŋ	nanu meha haiŋ=put one sign	nan	nan	nan		
+541	marriage	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taiŋ'medi	nan	nan	nan	nan		
+542	friend	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'seraŋ	nan	nan	nan	nan		
+543	enemy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dena'wala	nan	nan	nan	nan		
+544	king; ruler	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'hele	nan	nan	nan	nan		
+546	to invite	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ɟari	nan	nan	nan	nan		
+547	to command or order	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ'gahiŋ	nan	nan	nan	nan		
+548	dowry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ a'boi	nan	nan	nan	nan		
+550	accuse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	iŋ eniŋ a'hala	lit. make him be.wrong	nan	nan	nan		
+551	guilty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	"ahala, ahalaŋ"	nan	nan	nan	nan		
+552	innocent	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'molo	"lit. be true, be right"	nan	nan	nan		
+553	the murder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe a'meaŋ	nan	nan	nan	nan		
+554	the adultery	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buha	lit. eat betelnut (makan pinang)	nan	nan	nan		
+555	penalty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	awaloriŋ benteriŋ	"awaloriŋ=malu, shame; benteriŋ=close"	nan	nan	nan		
+556	fishnet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pukat	Indonesian	nan	nan	nan		
+557	to surrender	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na ne'auŋ	"lit. be full, satisfied"	nan	nan	nan		
+558	to defend	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta:ŋ pina	lit. tetap pegang	nan	nan	nan		
+559	the war or battle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'libal	other words mentioned: oraŋ; tim babue	nan	nan	nan		
+560	poor	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	masikiŋ	nan	nan	nan	nan		
+561	rich	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	kawasa	nan	nan	nan	nan		
+562	money	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sɛŋ	Dutch: cent	nan	nan	nan		
+563	market	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oŋ	nan	nan	nan	nan		
+564	price	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	e'bili	nan	nan	nan	nan		
+565	to own	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	naing nena 'toaŋ	lit. my possession (is) much	nan	nan	nan		
+566	to borrow	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'banaŋ	nan	nan	nan	nan		
+567	to trade or barter	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'bali	nan	nan	nan	nan		
+568	expensive	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ebili 'ale	nan	nan	nan	nan		
+569	cheap	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ebili 'hela	nan	nan	nan	nan		
+570	to grasp	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'pina	nan	nan	nan	nan		
+571	to let go	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na'holoŋ	nan	nan	nan	nan		
+572	to promise	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na tutuk 'benaŋ	tutuk=talk	nan	nan	nan		
+573	word	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hur	kur=language	nan	nan	nan		
+574	to answer	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ 'banaŋ	nan	nan	nan	nan		
+575	to refuse	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'tobaŋ	nan	nan	nan	nan		
+576	to whisper	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pa'nana	nan	nan	nan	nan		
+577	to be silent	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta'imaŋ	nan	nan	nan	nan		
+578	to tell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'renta	nan	nan	nan	nan		
+578	to tell	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	veŋ tutuk	nan	nan	nan	nan		
+579	to learn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	be'laɟar	nan	nan	nan	nan		
+580	to teach	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	i'tubiŋ	nan	nan	nan	nan		
+581	easy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	sa'kali	nan	nan	nan	nan		
+582	difficult	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'hala	nan	nan	nan	nan		
+583	finished	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	se'ŋila	nan	nan	nan	nan		
+584	now	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	bede	nan	nan	nan	nan		
+585	hour	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oda	adapted loan from Portuguese 	nan	nan	nan		
+586	same	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hama	nan	nan	nan	nan		
+587	oven/cooking place	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tutu	nan	nan	nan	nan		
+588	flower (in e.g. mangga tree)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'buma	nan	nan	nan	nan		
+589	vein	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hariki	nan	nan	nan	nan		
+590	long (stick)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te a'veniŋ	nan	nan	nan	nan		
+591	tall (person)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe ba'lolu	nan	nan	nan	nan		
+592	short (stick)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'tukaŋ	nan	nan	nan	nan		
+593	narrow (road)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'puhiŋ	nan	nan	nan	nan		
+598	to chase away; to expel	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	lodo	nan	nan	nan	nan		
