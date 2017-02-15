@@ -12,7 +12,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "cognate_file",
     help="The file containing the cognate codes, in EDICTOR format",
-    default="tap-alignments-merged.tsv", nargs="?")
+    default="tap-cognates-merged.tsv", nargs="?")
 parser.add_argument(
     "--derived_cognate_file",
     help="Other files containing the cognate codes, in EDICTOR format",
@@ -33,14 +33,14 @@ parser.add_argument(
     help="Inspect and deal with alignments",
     action="store_true", default=False)
 parser.add_argument(
-    "--bad-cogids", nargs="*",
+    "--bad-cogids", nargs="*", default=[],
     help="Untrusted cogids in COGNATE_FILE, which should be ignored")
 args = parser.parse_args()
 file = args.cognate_file
 
 cognates = pandas.read_csv(
     file,
-    index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
+    index_col=["CONCEPT", "DOCULECT_ID", "IPA"],
     na_values="",
     keep_default_na=False,
     sep="\t")
@@ -93,7 +93,7 @@ word_lists = {}
 # Cache opened word list data frames
 
 for i, line in cognates.iterrows():
-    original_file = line["ORIGINAL_FILE"]
+    original_file = line["SOURCE"]
     word_list = word_lists.get(original_file)
 
     # If we have not opened that word list yet, do so now.
@@ -152,7 +152,7 @@ for i, line in cognates.iterrows():
                     sim = s
         except AttributeError:
             candidate = known_forms["Value"]
-        except KeyError:
+        except (KeyError, TypeError):
             print(
                 "Word form {:} not found in word list {:}."
                 " Assuming it got deleted".format(
