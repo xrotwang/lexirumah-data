@@ -47,6 +47,8 @@ cognates = pandas.read_csv(
 
 cognates["COGID"] = cognates["COGID"].astype('str')
 
+cognates.sort_index(inplace=True)
+
 # Generate form-based (and therefore more stable) cognate IDs
 for cogid, entries in cognates.groupby("COGID"):
     code = entries.index[0]
@@ -58,8 +60,6 @@ for cogid, entries in cognates.groupby("COGID"):
                 cognates.set_value(index, "COGID", str(code))
         except AttributeError:
             continue
-
-cognates.sort_index(inplace=True)
 
 # Remove duplicate Concept-Language-Form combinations
 while cognates.index.duplicated().any():
