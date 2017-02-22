@@ -59,10 +59,11 @@ p-cent2245-abvd	Austronesian	proto-Central-MP-ABVD				cent2245					Proto-Central
 p-cent2245-acd	Austronesian	proto-Central-MP-ACD				cent2245					Proto-Central Malayo-Polynesian reconstruction from the Comparative Austronesian Dictionary	pcmpacd	proto-Central-MP-ACD
 p-mala1545-abvd	Austronesian	proto-MP-ABVD				mala1545						protomp	proto-MP-ABVD
 p-mala1545-acd	Austronesian	proto-MP-ACD				mala1545						protomp	proto-MP-ACD
+pmpacd	Austronesian	proto-MP-ACD 2				mala1545						protomp	proto-MP-ACD 2
 sika1262	Austronesian	Sika		ski 		sika1262	-8.6237	122.084	"5Flores, 2Central"		"Originally listed as Sika2. We also have coordinates -8.3433/125.0922, but they are on east Alor."	sika	Sika
 sika1262-tanai	Austronesian	Sika-Tana Ai		ski 		sika1262	-8.6237	122.084	"5Flores, 2Central"		Sika list from ...	sikatanaai	Sika-Tana Ai
 tetu1246	Austronesian	Tetun Dili 		tdt 		tetu1246	-8.5478	125.5442	4Timor			tetundili	Tetun Dili 
-tetu1245-suai	Austronesian	Tetun Terik-Suai 		tdt			-9.318825	125	"4Timor, 2Central"			tetunteriksuai	Tetun Terik-Suai 
+tetu1245-suai	Austronesian	Tetun Terik-Suai 		tdt			-9.318825	125.0	"4Timor, 2Central"			tetunteriksuai	Tetun Terik-Suai 
 tetu1245	Austronesian	Tetun Terik		tdt			-9.318825	122.625	"4Timor, 2Central"			tetunteriksuai	Tetun Terik
 tetu1245-vique	Austronesian	Tetun Terik-Viqueque	tetu	tdt			-8.8608	126.3631	"4Timor, 2Central"			tetunterikviqueque	Tetun Terik-Viqueque
 tuku1254	Austronesian	Tokodede		tkd		tuku1254	-8.6128	125.2017	"4Timor, 2Central"		Tukudede: tuku1254	tokodede	Tokodede
@@ -76,7 +77,7 @@ abui1241-takal-o	Timor-Alor-Pantar	Abui-Takalelang (Orthographic)		abz		abui1241
 adan1251	Timor-Alor-Pantar	Adang		adn		adan1251	-8.1837	124.4979	"3Alor, 1West"			adang	Adang
 adan1251-otvai	Timor-Alor-Pantar	Adang-Otvai		adn		adan1251	-8.1898	124.5034					Adang-Otvai
 adan1251-lawah	Timor-Alor-Pantar	Adang-Lawahing		adn		adan1251	-8.2109	124.4272	"3Alor, 1West"			adanglawahing	Adang-Lawahing
-alor1247-besar	Austronesian	Alor-Besar						124	Alor			alorbesar	Alor-Besar
+alor1247-besar	Austronesian	Alor-Besar						124.0	Alor			alorbesar	Alor-Besar
 baka1276	Timor-Alor-Pantar	Blagar-Bakalang		beu		baka1276	-8.2634	124.2972	"1Pantar, 2East"			blagarbakalang	Blagar-Bakalang
 blag1240-bama	Timor-Alor-Pantar	Blagar-Bama		beu 			-8.2771	124.3013	"1Pantar, 2East"			blagarbama	Blagar-Bama
 blag1240	Timor-Alor-Pantar	Blagar		beu 			-8.2975	123.033	"1Pantar, 2East"			blagarkulijahi	Blagar
@@ -87,7 +88,7 @@ blag1240-tuntu	Timor-Alor-Pantar	Blagar-Tuntuli		beu			-8.2056	124.2907	"1Pantar
 blag1240-warsa	Timor-Alor-Pantar	Blagar-Warsalelang		beu			-8.3252	124.3011	"1Pantar, 2East"			blagarwarsalelang	Blagar-Warsalelang
 buna1278-bobon	Timor-Alor-Pantar	Bunak-Bobonaro	buna	bfn 			-8.4394	126.9821	"4Timor, 2Central"			bunakbobonaro	Bunak-Bobonaro
 buna1278-o	Timor-Alor-Pantar	Bunak (Orthographic)		bfn 			-8.9912	122.227	"4Timor, 2Central"		Orthographic data comes from Maliana table	bunakorthographic	Bunak (Orthographic)
-buna1278-suai	Timor-Alor-Pantar	Bunak-Suai		bfn 			-9.318825	125	"4Timor, 2Central"			bunaksuai	Bunak-Suai
+buna1278-suai	Timor-Alor-Pantar	Bunak-Suai		bfn 			-9.318825	125.0	"4Timor, 2Central"			bunaksuai	Bunak-Suai
 buna1278-malia	Timor-Alor-Pantar	Bunaq-Maliana		bfn 			-8.9912	125.2227	"4Timor, 2Central"			bunaqmaliana	Bunaq-Maliana
 dein1238	Timor-Alor-Pantar	Deing			deinx	dein1238	-8.3488	124.1304	"1Pantar, 1West"			deing	Deing
 fata1247	Timor-Alor-Pantar	Fataluku	fata	ddg		fata1247	-8.4394	126.9821	"4Timor, 3East"			fataluku	Fataluku
@@ -116,8 +117,9 @@ sawi1256	Timor-Alor-Pantar	Sawila		swt		sawi1256	-8.3433	125.0922	"3Alor, 3East"
 teiw1235	Timor-Alor-Pantar	Teiwa-Lebang	teiw	twe		teiw1235	-8.257	124.2151	"1Pantar, 1West"			teiwalebang	Teiwa-Lebang
 kola1287	Timor-Alor-Pantar	Wersing-Kolana		kvw		kola1287	-8.2844737	125.0477418	"3Alor, 3East"		"Village Kolana Selatan, on OSM"	wersingkolana	Wersing-Kolana
 wers1238	Timor-Alor-Pantar	Wersing		kvw		wers1238	-8.2908	125.1234	"3Alor, 3East"		Typological questionnaire is based on Wersing-Pureman dialect. Other data are  yet pending; can't find place on Choi map [Emily]	wersing	Wersing
-wers1238-marit	Timor-Alor-Pantar	Wersing-Maritaing		kvw		wers1238			"3Alor, 3East"			wersing	Wersing
+wers1238-marit	Timor-Alor-Pantar	Wersing-Maritaing		kvw		wers1238			"3Alor, 3East"			wersing	Wersing-Maritaing
 lamm1241	Timor-Alor-Pantar	Western Pantar-Tubbe		lev		lamm1241	-8.4631	124.1274	"1Pantar, 1West"			westernpantartubbe	Western Pantar-Tubbe
+lamm1241-westp	Timor-Alor-Pantar	Western Pantar		lev		lamm1241			"1Pantar, 1West"			westernpantar	Western Pantar
 alor1247-pandai	Austronesian	Alorese-Pandai											Alorese-Pandai
 alor1247-munas	Austronesian	Alorese-Munaseli											Alorese-Munaseli
 amar1273-kotos	Austronesian	Amarasi-Uab Meto-Kotos											Amarasi-Uab Meto-Kotos
