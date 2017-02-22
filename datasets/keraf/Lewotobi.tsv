@@ -8,15 +8,23 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13	cloud	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kowa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
 14	wind	lewo1244	Lewotobi	Austronesian	5Flores, 1East	aŋi	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan	140. Angin 
 15	rain	lewo1244	Lewotobi	Austronesian	5Flores, 1East	urã	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan	138. Hujan 
+22	river	lewo1244	Lewotobi	Austronesian	5Flores, 1East	luŋu	nan	nan	('river', 'keda1252', 'wei_kawaŋ')	nan	130. Sungai 
 25	lake	lewo1244	Lewotobi	Austronesian	5Flores, 1East	walã	nan	nan	('lake', 'abui1241-takal', 'ijä_ʋäl')	nan	129. Danau 
 26	mountain	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ile	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan	131. Gunung 
+30	earth	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tana	nan	nan	('earth', 'keda1252', 'auʔ')	nan	119. Tanah 
 32	stone	lewo1244	Lewotobi	Austronesian	5Flores, 1East	wato	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	120. Batu 
+35	water	lewo1244	Lewotobi	Austronesian	5Flores, 1East	waiʔ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	122. Air 
+36	sea	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tahi	nan	nan	('sea', 'keda1252', 'tahi')	nan	127. Laut 
 39	forest	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kərawo	nan	nan	('forest', 'lama1277-belan', 'eka_maŋan')	nan	132. Hutan
+45	road	lewo1244	Lewotobi	Austronesian	5Flores, 1East	larã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	7. Jalan
 51	rope	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tale	nan	nan	('rope', 'abui1241-fuime', 'tila')	nan	65. Tali
 65	clothing	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pakaian	nan	nan	"('clothing', 'alor1247-besar', ""pa'kiãŋ"")"	nan	68. Pakaian 
 67	fire	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ape	nan	nan	('fire', 'adan1251-otvai', 'aʔfail')	nan	148. Api 
 68	smoke	lewo1244	Lewotobi	Austronesian	5Flores, 1East	rihũ	nan	nan	('smoke', 'lewo1244', 'rihũ')	nan	150. Asap 
+70	dust	lewo1244	Lewotobi	Austronesian	5Flores, 1East	əwu	nan	nan	('dust', 'keda1252', 'ewol')	nan	15. Debu
+70	dust	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəwu	nan	nan	('dust', 'keda1252', 'ewol')	nan	151. Abu 
 75	sand	lewo1244	Lewotobi	Austronesian	5Flores, 1East	wəra	nan	nan	('sand', 'adon1237', 'ˈwɜra')	nan	121. Pasir 
+76	grass	lewo1244	Lewotobi	Austronesian	5Flores, 1East	luʔo	nan	nan	('grass', 'lama1277-lamal', 'kərəmet')	nan	118. Rumput 
 84	tree	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kajopukã	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan	110. Pohon 
 87	leaf	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ləpã	nan	nan	('leaf', 'keda1252-leuwa', 'lεpaʔ')	nan	112. Daun 
 91	root	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ramu	nan	nan	('root', 'abui1241-fuime', 'bata_ai')	nan	114. Akar 
@@ -25,10 +33,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lewo1244	Lewotobi	Austronesian	5Flores, 1East	buŋa	nan	nan	('flower', 'abui1241-fuime', 'kiki')	nan	116. Bunga 
 129	salt	lewo1244	Lewotobi	Austronesian	5Flores, 1East	siʔa	nan	nan	('salt', 'abui1241-fuime', 'ati')	nan	128. Garam 
 130	fat	lewo1244	Lewotobi	Austronesian	5Flores, 1East	worã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	104. Lemak 
+131	meat	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mətã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	103. Daging 
 132	bone	lewo1244	Lewotobi	Austronesian	5Flores, 1East	riʔu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	19. Tulang
 136	blood	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mei	nan	nan	('blood', 'adon1237', 'mei')	nan	26. Darah
 138	heart	lewo1244	Lewotobi	Austronesian	5Flores, 1East	puhũ	nan	nan	('heart', 'adon1237', 'ˈpuho')	nan	22. Jantung
 139	liver	lewo1244	Lewotobi	Austronesian	5Flores, 1East	atẽ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	21. Hati
+144	belly	lewo1244	Lewotobi	Austronesian	5Flores, 1East	luwu	nan	nan	('belly', 'keda1252', 'botin')	nan	18. Perut
 145	head	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kotə	nan	nan	('head', 'abui1241-fuime', 'kai')	nan	27. Kepala
 146	hair	lewo1244	Lewotobi	Austronesian	5Flores, 1East	rata	nan	nan	('hair', 'adon1237', 'ˈrataʔ')	nan	29. Rambut
 148	eye	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mata	nan	nan	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan	47. Mata
@@ -53,28 +63,42 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 199	older sibling	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kaka	nan	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan	61. Kakak
 200	younger sibling	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ari	nan	nan	('younger sibling', 'adan1251', 'di')	nan	62. Adik
 203	1sg	lewo1244	Lewotobi	Austronesian	5Flores, 1East	go	nan	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan	184. Saya 
+204	2sg;2pl	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mo	nan	nan	('2sg;2pl', 'keda1252', 'o')	nan	185. Engkau/ kamu 
+204	2sg;2pl	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mio	nan	nan	('2sg;2pl', 'keda1252', 'o')	nan	185. Engkau/ kamu 
 206	3sg	lewo1244	Lewotobi	Austronesian	5Flores, 1East	na	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	186. Dia 
+207	1pl.exc	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kame	nan	nan	('1pl.exc', 'keda1252', 'e')	nan	188. Kami 
+208	1pl.inc	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tite	nan	nan	('1pl.inc', 'keda1252', 'te')	nan	187. Kita 
 210	3pl	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ra	nan	nan	"('3pl', 'alor1247-baran', ""'fe:_sa'kali"")"	nan	189. Mereka 
 212	and	lewo1244	Lewotobi	Austronesian	5Flores, 1East	noʔõ	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan	197. Dan 
 213	because	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pukã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	199. Sebab 
 214	if	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kalu	nan	nan	"('if', 'alor1247-baran', ""'kalau"")"	nan	200. Jikalau 
 215	with	lewo1244	Lewotobi	Austronesian	5Flores, 1East	noʔõ	nan	nan	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan	198. Dengan
+216	what	lewo1244	Lewotobi	Austronesian	5Flores, 1East	a	nan	nan	('what', 'keda1252', 'ape')	nan	190. Apa 
+217	who	lewo1244	Lewotobi	Austronesian	5Flores, 1East	hege	nan	nan	('who', 'keda1252', 'sio')	nan	191. Siapa 
+218	where	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tea	nan	nan	('where', 'keda1252', 'didita')	nan	183. Di mana 
+219	when	lewo1244	Lewotobi	Austronesian	5Flores, 1East	boʔã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	174. Bilamana 
 223	this	lewo1244	Lewotobi	Austronesian	5Flores, 1East	teʔẽ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	179. Ini 
 224	that	lewo1244	Lewotobi	Austronesian	5Flores, 1East	teʔẽ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	180. Itu 
 227	here	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pi	nan	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan	177. Di sini 
 228	there	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pehe	nan	nan	('there', 'lama1277-lewog', 'pe')	nan	178. Di situ 
+231	left	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mekĩ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	2. Kiri
+232	right	lewo1244	Lewotobi	Austronesian	5Flores, 1East	wana	nan	nan	('right', 'keda1252', 'wana')	nan	3. Kanan
+233	few	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəsə	nan	nan	('few', 'keda1252', 'uraŋ')	nan	195. Sedikit 
 234	all	lewo1244	Lewotobi	Austronesian	5Flores, 1East	waokãe	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan	196. Semua 
 235	many	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ajã	nan	nan	('many', 'adon1237', 'ˈʔaːjʔa')	nan	194. Banyak 
 236	animal	lewo1244	Lewotobi	Austronesian	5Flores, 1East	binataŋ	nan	nan	('animal', 'adan1251', 'binanta')	nan	102. Binatang 
 238	dog	lewo1244	Lewotobi	Austronesian	5Flores, 1East	aho	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan	96. Anjing 
+249	tale	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kiku	nan	nan	('tale', 'keda1252', 'ebo')	nan	105. Ekor 
 250	fish	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ikã	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan	109. Ikan 
 259	bird	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəpã	nan	nan	('bird', 'lewo1244', 'kəpã')	nan	97. Burung 
 260	wing	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəpiʔ	nan	nan	('wing', 'abui1241-fuime', 'ha-bakai')	nan	100. Sayap 
 262	feather	lewo1244	Lewotobi	Austronesian	5Flores, 1East	rawu	nan	nan	('feather', 'adon1237', 'ˈrawuke')	nan	99. Bulu 
 264	snake	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ulaʔ	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan	106. Ular 
 266	egg	lewo1244	Lewotobi	Austronesian	5Flores, 1East	təlũ	nan	nan	('egg', 'adon1237', 'ˈtɛluk')	nan	98. Telur 
+279	louse	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kuto	nan	nan	('louse', 'keda1252', 'utuʔ')	nan	108. Kutu 
 281	big	lewo1244	Lewotobi	Austronesian	5Flores, 1East	belã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	158. Besar 
 282	small	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kərẽ	nan	nan	('small', 'abui1241-fuime', 'kding')	nan	157. Kecil 
+284	new	lewo1244	Lewotobi	Austronesian	5Flores, 1East	wuʔũ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	167. Baru 
 288	hot	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pəlate	nan	nan	('hot', 'adon1237', 'ˈplate')	nan	142. Panas 
 289	cold	lewo1244	Lewotobi	Austronesian	5Flores, 1East	loʔi	nan	nan	('cold', 'lewo1244', 'loʔi')	nan	143. Dingin 
 290	good	lewo1244	Lewotobi	Austronesian	5Flores, 1East	sarẽ	nan	nan	('good', 'lama1277-bama', 'əre')	nan	168. Baik 
@@ -85,14 +109,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 297	dry	lewo1244	Lewotobi	Austronesian	5Flores, 1East	marã	nan	nan	('dry', 'adon1237', 'ˈmaʔrã')	nan	144. Kering 
 299	long	lewo1244	Lewotobi	Austronesian	5Flores, 1East	bəlahã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	160. Panjang 
 301	short	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pəsu	nan	nan	('short', 'abui1241-fuime', 'bui')	nan	159. Pendek 
+303	thin	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mənipi	nan	nan	('thin', 'keda1252', 'mipi')	nan	161. Tipis 
 305	thick	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəwara	nan	nan	"('thick', 'alor1247-baran', ""'gapa"")"	nan	162. Tebal 
 309	dirty	lewo1244	Lewotobi	Austronesian	5Flores, 1East	milã	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan	14. Kotor
 311	sharp	lewo1244	Lewotobi	Austronesian	5Flores, 1East	gã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	81. Tajam 
+312	blunt	lewo1244	Lewotobi	Austronesian	5Flores, 1East	gəbohu	nan	nan	('blunt', 'keda1252', 'mamel')	nan	82. Tumpul 
 313	heavy	lewo1244	Lewotobi	Austronesian	5Flores, 1East	baʔa	nan	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan	147. Berat 
 315	straight	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəlodo	nan	nan	('straight', 'lewo1244', 'kəlodo')	nan	165. Lurus 
 316	wide	lewo1244	Lewotobi	Austronesian	5Flores, 1East	luas	nan	nan	('wide', 'lewo1244', 'luas')	nan	164. Luas 
 317	narrow	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kətəkə	nan	nan	('narrow', 'abui1241-fuime', 'karie')	nan	163. Sempit 
 321	rotten	lewo1244	Lewotobi	Austronesian	5Flores, 1East	wuhu	nan	nan	('rotten', 'abui1241-fuime', 'hamuni')	nan	111. Busuk 
+326	flat, smooth	lewo1244	Lewotobi	Austronesian	5Flores, 1East	rata	nan	nan	('flat, smooth', 'keda1252', 'napoʔ')	nan	146. Rata 
 329	black	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mitã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	152. Hitam 
 330	white	lewo1244	Lewotobi	Austronesian	5Flores, 1East	burã	nan	nan	('white', 'adon1237', 'ˈburaʔ')	nan	153. Putih 
 331	red	lewo1244	Lewotobi	Austronesian	5Flores, 1East	meʔã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	154. Merah 
@@ -100,6 +127,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 334	yellow	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kumã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	155. Kuning 
 341	scared	lewo1244	Lewotobi	Austronesian	5Flores, 1East	takuʔ	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan	25. Takut
 343	to see	lewo1244	Lewotobi	Austronesian	5Flores, 1East	notõ	nan	nan	('to see', 'fata1247', 'tɔtɔ')	nan	48. Melihat
+344	listen	lewo1244	Lewotobi	Austronesian	5Flores, 1East	bãi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	46. Dengar
 345	to smell	lewo1244	Lewotobi	Austronesian	5Flores, 1East	siõ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	32. Membaui
 346	to think	lewo1244	Lewotobi	Austronesian	5Flores, 1East	hu	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan	24. Pikir
 347	to know	lewo1244	Lewotobi	Austronesian	5Flores, 1East	koi	koi, moiː different inflections	nan	('to know', 'adon1237', 'ˈnoi,_ˈkoi')	nan	23. Tahu
@@ -111,13 +139,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 360	to walk	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pana	nan	nan	('to walk', 'adon1237', 'ˈpana')	nan	6. Berjalan
 363	to swim	lewo1244	Lewotobi	Austronesian	5Flores, 1East	naŋe	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan	10. Berenang
 364	to fly	lewo1244	Lewotobi	Austronesian	5Flores, 1East	bəka	nan	nan	('to fly', 'adon1237', 'ˈbɜka')	nan	101. Terbang 
+365	fall	lewo1244	Lewotobi	Austronesian	5Flores, 1East	goka	nan	nan	('fall', 'keda1252', 'moruʔ')	nan	95. Jatuh 
 368	to drink	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tenu	nan	nan	('to drink', 'adan1251', 'na')	nan	42. Minum
 369	to eat	lewo1244	Lewotobi	Austronesian	5Flores, 1East	təkã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	40. Makan
 370	to cook	lewo1244	Lewotobi	Austronesian	5Flores, 1East	biho	nan	nan	('to cook', 'keda1252', 'iu')	nan	41. Masak
 371	to wash	lewo1244	Lewotobi	Austronesian	5Flores, 1East	baha	nan	nan	('to wash', 'adon1237', 'ˈbaha')	nan	11. Mencuci
 372	to sew	lewo1244	Lewotobi	Austronesian	5Flores, 1East	hau	nan	nan	('to sew', 'adon1237', 'ˈhɑu')	nan	67. Menjahit 
+373	alive	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mori	nan	nan	('alive', 'keda1252', 'bita')	nan	76. Hidup 
 374	to breathe	lewo1244	Lewotobi	Austronesian	5Flores, 1East	hari nãi	nan	nan	"('to breathe', 'alor1247-baran', ""'tar:ɛ_'nah:ĩ:"")"	nan	31. Bernapas
 375	to work	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəriã	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan	83. Bekerja 
+376	dead	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mata	nan	nan	('dead', 'keda1252', 'mate')	nan	75. Mati 
 377	to give	lewo1244	Lewotobi	Austronesian	5Flores, 1East	sorõ	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan	91. Memberi 
 378	to wipe	lewo1244	Lewotobi	Austronesian	5Flores, 1East	hamu	nan	nan	('to wipe', 'buna1278-bobon', 'gamɔs')	nan	12. Hapus
 379	to come	lewo1244	Lewotobi	Austronesian	5Flores, 1East	səga	nan	nan	('to come', 'cent2245-hewa', 'səga')	nan	8. Datang
@@ -125,6 +156,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381	to cry	lewo1244	Lewotobi	Austronesian	5Flores, 1East	gaka	nan	nan	('to cry', 'amar1273-kotos', 'n-kae')	nan	37. Menangis
 382	to dance	lewo1244	Lewotobi	Austronesian	5Flores, 1East	soka	nan	nan	('child', 'kama1365', 'dum')	nan	86. Menari 
 383	to sing	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ñañi	nan	nan	"('to sing', 'kema1243', ""mə'nanit"")"	nan	85. Menyanyi
+384	burn	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tuno	nan	nan	('burn', 'keda1252', 'tun')	nan	149. Membakar 
 389	to suck	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tuho	nan	nan	('to suck', 'cent2245-hewa', 'wuhu')	nan	44. Menetek
 390	to blow	lewo1244	Lewotobi	Austronesian	5Flores, 1East	bu	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan	141. Bertiup 
 391	to spit	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pino	nan	nan	('to spit', 'keda1252', 'potaʔ')	nan	39. Meludah
@@ -150,50 +182,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lewo1244	Lewotobi	Austronesian	5Flores, 1East	piʔu	nan	nan	('to squeeze', 'adon1237', 'ˈpiʔuk')	nan	88. Memeras 
 441	to bark	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kajokəloka	nan	nan	('to bark', 'lewo1244', 'kajokəloka')	nan	113. Kulit kayu
 442	to shoot	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pasa	nan	nan	('to shoot', 'adon1237', 'ˈpasak')	nan	70. Menembak 
-599	left	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mekĩ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	2. Kiri
-600	right	lewo1244	Lewotobi	Austronesian	5Flores, 1East	wana	nan	nan	('right', 'keda1252', 'wana')	nan	3. Kanan
 601	footprint	lewo1244	Lewotobi	Austronesian	5Flores, 1East	maka	nan	nan	('footprint', 'keda1252', 'l._laleŋ')	nan	5. Kaki
-602	road	lewo1244	Lewotobi	Austronesian	5Flores, 1East	larã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	7. Jalan
 603	return	lewo1244	Lewotobi	Austronesian	5Flores, 1East	gəwali	nan	nan	('return', 'keda1252', 'puer')	nan	9. Balik
-604	dust	lewo1244	Lewotobi	Austronesian	5Flores, 1East	əwu	nan	nan	('dust', 'keda1252', 'ewol')	nan	15. Debu
-604	dust	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəwu	nan	nan	('dust', 'keda1252', 'ewol')	nan	151. Abu 
-605	belly	lewo1244	Lewotobi	Austronesian	5Flores, 1East	luwu	nan	nan	('belly', 'keda1252', 'botin')	nan	18. Perut
 606	stomach	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tãi kənaluŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	20. Isi perut
 607	tooth	lewo1244	Lewotobi	Austronesian	5Flores, 1East	ipə	nan	nan	('tooth', 'keda1252', 'awar')	nan	34. Gigi
-608	listen	lewo1244	Lewotobi	Austronesian	5Flores, 1East	bãi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	46. Dengar
 609	fist	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tubuk	nan	nan	('fist', 'keda1252', 'bajuʔ')	nan	72. Bertinju 
-610	dead	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mata	nan	nan	('dead', 'keda1252', 'mate')	nan	75. Mati 
-611	alive	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mori	nan	nan	('alive', 'keda1252', 'bita')	nan	76. Hidup 
 612	stem	lewo1244	Lewotobi	Austronesian	5Flores, 1East	pukã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	79. Batang 
-613	blunt	lewo1244	Lewotobi	Austronesian	5Flores, 1East	gəbohu	nan	nan	('blunt', 'keda1252', 'mamel')	nan	82. Tumpul 
 614	swollen	lewo1244	Lewotobi	Austronesian	5Flores, 1East	baʔa	nan	nan	('swollen', 'keda1252', 'babaŋ')	nan	87. Bengkak
-615	fall	lewo1244	Lewotobi	Austronesian	5Flores, 1East	goka	nan	nan	('fall', 'keda1252', 'moruʔ')	nan	95. Jatuh 
-616	meat	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mətã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	103. Daging 
-617	tale	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kiku	nan	nan	('tale', 'keda1252', 'ebo')	nan	105. Ekor 
 618	worm	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəbeŋə̃	nan	nan	('worm', 'keda1252', 'todaŋ')	nan	107. Cacing 
-619	louse	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kuto	nan	nan	('louse', 'keda1252', 'utuʔ')	nan	108. Kutu 
-620	grass	lewo1244	Lewotobi	Austronesian	5Flores, 1East	luʔo	nan	nan	('grass', 'lama1277-lamal', 'kərəmet')	nan	118. Rumput 
-621	earth	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tana	nan	nan	('earth', 'keda1252', 'auʔ')	nan	119. Tanah 
-622	water	lewo1244	Lewotobi	Austronesian	5Flores, 1East	waiʔ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	122. Air 
-623	sea	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tahi	nan	nan	('sea', 'keda1252', 'tahi')	nan	127. Laut 
-624	river	lewo1244	Lewotobi	Austronesian	5Flores, 1East	luŋu	nan	nan	('river', 'keda1252', 'wei_kawaŋ')	nan	130. Sungai 
 625	dew	lewo1244	Lewotobi	Austronesian	5Flores, 1East	apũ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	137. Embun 
-626	flat, smooth	lewo1244	Lewotobi	Austronesian	5Flores, 1East	rata	nan	nan	('flat, smooth', 'keda1252', 'napoʔ')	nan	146. Rata 
-627	burn	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tuno	nan	nan	('burn', 'keda1252', 'tun')	nan	149. Membakar 
-628	thin	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mənipi	nan	nan	('thin', 'keda1252', 'mipi')	nan	161. Tipis 
 629	old	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tua	nan	nan	('old', 'keda1252', 'taran')	nan	166. Tua 
-630	new	lewo1244	Lewotobi	Austronesian	5Flores, 1East	wuʔũ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	167. Baru 
 631	right, correct	lewo1244	Lewotobi	Austronesian	5Flores, 1East	nãdikã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	170. Betul 
-632	when	lewo1244	Lewotobi	Austronesian	5Flores, 1East	boʔã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	174. Bilamana 
 633	in	lewo1244	Lewotobi	Austronesian	5Flores, 1East	lau	lau, raeː different inflections?	nan	('in', 'keda1252', 'di')	nan	175. Di 
 634	inside	lewo1244	Lewotobi	Austronesian	5Flores, 1East	onã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	176. Dalam 
-635	where	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tea	nan	nan	('where', 'keda1252', 'didita')	nan	183. Di mana 
-636	2sg;2pl	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mo	nan	nan	('2sg;2pl', 'keda1252', 'o')	nan	185. Engkau/ kamu 
-636	2sg;2pl	lewo1244	Lewotobi	Austronesian	5Flores, 1East	mio	nan	nan	('2sg;2pl', 'keda1252', 'o')	nan	185. Engkau/ kamu 
-637	1pl.inc	lewo1244	Lewotobi	Austronesian	5Flores, 1East	tite	nan	nan	('1pl.inc', 'keda1252', 'te')	nan	187. Kita 
-638	1pl.exc	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kame	nan	nan	('1pl.exc', 'keda1252', 'e')	nan	188. Kami 
-639	what	lewo1244	Lewotobi	Austronesian	5Flores, 1East	a	nan	nan	('what', 'keda1252', 'ape')	nan	190. Apa 
-640	who	lewo1244	Lewotobi	Austronesian	5Flores, 1East	hege	nan	nan	('who', 'keda1252', 'sio')	nan	191. Siapa 
 641	other	lewo1244	Lewotobi	Austronesian	5Flores, 1East	gehã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	192. Lain
 642	some	lewo1244	Lewotobi	Austronesian	5Flores, 1East	bopirã	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	193. Beberapa 
-643	few	lewo1244	Lewotobi	Austronesian	5Flores, 1East	kəsə	nan	nan	('few', 'keda1252', 'uraŋ')	nan	195. Sedikit 

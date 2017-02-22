@@ -8,15 +8,23 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13.0	cloud	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kowa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
 14.0	wind	lama1277-kalik	Kalikasa	Austronesian	8Lembata	aŋin	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan	140. Angin 
 15.0	rain	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ujan	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan	138. Hujan 
+22.0	river	lama1277-kalik	Kalikasa	Austronesian	8Lembata	waer	nan	nan	('river', 'cent2245-hewa', 'wair_ba')	nan	130. Sungai 
 25.0	lake	lama1277-kalik	Kalikasa	Austronesian	8Lembata	liwu	nan	nan	"('lake', 'adon1237', ""'liwo"")"	nan	129. Danau 
 26.0	mountain	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ile	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan	131. Gunung 
+30.0	earth	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ənaj	nan	nan	('earth', 'cent2245-hewa', 'tana')	nan	119. Tanah 
 32.0	stone	lama1277-kalik	Kalikasa	Austronesian	8Lembata	watu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	120. Batu 
+35.0	water	lama1277-kalik	Kalikasa	Austronesian	8Lembata	waer	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	122. Air 
+36.0	sea	lama1277-kalik	Kalikasa	Austronesian	8Lembata	lojor	nan	nan	('sea', 'cent2245-hewa', 'tahiʔ')	nan	127. Laut 
 39.0	forest	lama1277-kalik	Kalikasa	Austronesian	8Lembata	maŋak	nan	nan	('forest', 'lama1277-belan', 'eka_maŋan')	nan	132. Hutan
+45.0	road	lama1277-kalik	Kalikasa	Austronesian	8Lembata	lalan	nan	nan	('road', 'lama1277-belan', 'lara')	nan	7. Jalan
 51.0	rope	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tale	nan	nan	('rope', 'lama1277-baipi', 'tale')	nan	65. Tali
 65.0	clothing	lama1277-kalik	Kalikasa	Austronesian	8Lembata	alelolo	nan	nan	('clothing', 'adon1237', 'aleˈlolo')	nan	68. Pakaian 
 67.0	fire	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ape	nan	nan	('fire', 'adan1251-otvai', 'aʔfail')	nan	148. Api 
 68.0	smoke	lama1277-kalik	Kalikasa	Austronesian	8Lembata	sənəgur	nan	nan	('smoke', 'adon1237', 'ˈnuhũ')	nan	150. Asap 
+70.0	dust	lama1277-kalik	Kalikasa	Austronesian	8Lembata	əmut	nan	nan	('dust', 'cent2245-hewa', 'awu')	nan	15. Debu
+70.0	dust	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kawok	nan	nan	('dust', 'cent2245-hewa', 'awu')	nan	151. Abu 
 75.0	sand	lama1277-kalik	Kalikasa	Austronesian	8Lembata	botan	nan	nan	('sand', 'keda1252-leuwa', 'buta')	nan	121. Pasir 
+76.0	grass	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kərəkak	nan	nan	('grass', 'cent2245-hewa', 'riʔi')	nan	118. Rumput 
 84.0	tree	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kaju	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan	110. Pohon 
 87.0	leaf	lama1277-kalik	Kalikasa	Austronesian	8Lembata	lolon	nan	nan	('leaf', 'adon1237', 'ˈlolõ')	nan	112. Daun 
 91.0	root	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ramut	nan	nan	('root', 'cent2245-hewa', 'ramut')	nan	114. Akar 
@@ -25,10 +33,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95.0	flower	lama1277-kalik	Kalikasa	Austronesian	8Lembata	puŋan	nan	nan	('flower', 'lama1277-belan', 'puŋa')	nan	116. Bunga 
 129.0	salt	lama1277-kalik	Kalikasa	Austronesian	8Lembata	irar	nan	nan	('salt', 'lama1277-baipi', 'siʔa')	nan	128. Garam 
 130.0	fat	lama1277-kalik	Kalikasa	Austronesian	8Lembata	wojak	nan	nan	('fat', 'cent2245-hewa', 'wura')	nan	104. Lemak 
+131.0	meat	lama1277-kalik	Kalikasa	Austronesian	8Lembata	elam	nan	nan	('meat', 'cent2245-hewa', 'ətan')	nan	103. Daging 
 132.0	bone	lama1277-kalik	Kalikasa	Austronesian	8Lembata	riuk	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	19. Tulang
 136.0	blood	lama1277-kalik	Kalikasa	Austronesian	8Lembata	səmei	nan	nan	('blood', 'adon1237', 'mei')	nan	26. Darah
 138.0	heart	lama1277-kalik	Kalikasa	Austronesian	8Lembata	puo	nan	nan	('heart', 'adon1237', 'ˈpuho')	nan	22. Jantung
 139.0	liver	lama1277-kalik	Kalikasa	Austronesian	8Lembata	oren	nan	nan	('liver', 'lama1277-imulo', 'orasa')	nan	21. Hati
+144.0	belly	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tai	nan	nan	('belly', 'cent2245-hewa', 'dula')	nan	18. Perut
 145.0	head	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ulun	nan	nan	('head', 'cent2245-hewa', 'loʔe')	nan	27. Kepala
 146.0	hair	lama1277-kalik	Kalikasa	Austronesian	8Lembata	latar	nan	nan	('hair', 'adon1237', 'ˈrataʔ')	nan	29. Rambut
 148.0	eye	lama1277-kalik	Kalikasa	Austronesian	8Lembata	matan	nan	nan	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan	47. Mata
@@ -53,28 +63,41 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 199.0	older sibling	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kaka	nan	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan	61. Kakak
 200.0	younger sibling	lama1277-kalik	Kalikasa	Austronesian	8Lembata	waji	nan	nan	('younger sibling', 'adan1251', 'di')	nan	62. Adik
 203.0	1sg	lama1277-kalik	Kalikasa	Austronesian	8Lembata	gone	nan	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan	184. Saya 
+204.0	2sg;2pl	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mone 	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	185. Engkau/ kamu 
 206.0	3sg	lama1277-kalik	Kalikasa	Austronesian	8Lembata	nane	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	186. Dia 
+207.0	1pl.exc	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kame	nan	nan	('1pl.exc', 'cent2245-hewa', 'ami')	nan	188. Kami 
+208.0	1pl.inc	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tite	nan	nan	('1pl.inc', 'cent2245-hewa', 'ita')	nan	187. Kita 
 210.0	3pl	lama1277-kalik	Kalikasa	Austronesian	8Lembata	dane	nan	nan	('3pl', 'lama1277-baipi', 'raʔe')	nan	189. Mereka 
 212.0	and	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ko	ko, mo: different inflections	nan	('and', 'lama1277-kalik', 'ko')	nan	197. Dan 
 213.0	because	lama1277-kalik	Kalikasa	Austronesian	8Lembata	pukən	nan	nan	('because', 'cent2245-hewa', 'əle')	nan	199. Sebab 
 214.0	if	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kalu ma	nan	nan	('if', 'cent2245-hewa', 'ganupa')	nan	200. Jikalau 
 215.0	with	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ko	ko, mo: different inflections	nan	('with', 'lama1277-kalik', 'ko')	nan	198. Dengan
+216.0	what	lama1277-kalik	Kalikasa	Austronesian	8Lembata	naoga	nan	nan	('what', 'cent2245-hewa', 'apar')	nan	190. Apa 
+217.0	who	lama1277-kalik	Kalikasa	Austronesian	8Lembata	naku	nan	nan	('who', 'cent2245-hewa', 'hainimu')	nan	191. Siapa 
+218.0	where	lama1277-kalik	Kalikasa	Austronesian	8Lembata	nagane	nan	nan	('where', 'cent2245-hewa', 'upa')	nan	183. Di mana 
+219.0	when	lama1277-kalik	Kalikasa	Austronesian	8Lembata	jəm pira	nan	nan	('when', 'cent2245-hewa', 'rəmapira')	nan	174. Bilamana 
 223.0	this	lama1277-kalik	Kalikasa	Austronesian	8Lembata	rene	nan	nan	('this', 'cent2245-hewa', 'ete')	nan	179. Ini 
 224.0	that	lama1277-kalik	Kalikasa	Austronesian	8Lembata	bete	nan	nan	('that', 'lama1277-kalik', 'bete')	nan	180. Itu 
 227.0	here	lama1277-kalik	Kalikasa	Austronesian	8Lembata	rene	nan	nan	('here', 'cent2245-hewa', 'ete')	nan	177. Di sini 
 228.0	there	lama1277-kalik	Kalikasa	Austronesian	8Lembata	bete	nan	nan	('there', 'lama1277-baipi', 'tewe')	nan	178. Di situ 
+231.0	left	lama1277-kalik	Kalikasa	Austronesian	8Lembata	seke	nan	nan	('left', 'cent2245-hewa', 'wirin')	nan	2. Kiri
+232.0	right	lama1277-kalik	Kalikasa	Austronesian	8Lembata	wana	nan	nan	('right', 'cent2245-hewa', 'wanan')	nan	3. Kanan
+233.0	few	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kənako	nan	nan	('few', 'cent2245-hewa', 'anakha')	nan	195. Sedikit 
 234.0	all	lama1277-kalik	Kalikasa	Austronesian	8Lembata	dərwaki	nan	nan	('all', 'lama1277-kalik', 'dərwaki')	nan	196. Semua 
 235.0	many	lama1277-kalik	Kalikasa	Austronesian	8Lembata	raik	nan	nan	"('many', 'keda1252', ""'rai"")"	nan	194. Banyak 
 236.0	animal	lama1277-kalik	Kalikasa	Austronesian	8Lembata	əwaŋ	nan	nan	('animal', 'adon1237', 'ˈʔɜˈwã')	nan	102. Binatang 
 238.0	dog	lama1277-kalik	Kalikasa	Austronesian	8Lembata	au	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan	96. Anjing 
+249.0	tale	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ikur	nan	nan	('tale', 'cent2245-hewa', 'i̤ʔur')	nan	105. Ekor 
 250.0	fish	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ika	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan	109. Ikan 
 259.0	bird	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kəlieŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	97. Burung 
 260.0	wing	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kəpik	nan	nan	('wing', 'cent2245-hewa', 'kapik')	nan	100. Sayap 
 262.0	feather	lama1277-kalik	Kalikasa	Austronesian	8Lembata	rawuk	nan	nan	('feather', 'adon1237', 'ˈrawuke')	nan	99. Bulu 
 264.0	snake	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ula	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan	106. Ular 
 266.0	egg	lama1277-kalik	Kalikasa	Austronesian	8Lembata	təluk	nan	nan	('egg', 'adon1237', 'ˈtɛluk')	nan	98. Telur 
+279.0	louse	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kutu	nan	nan	('louse', 'lama1277-baipi', 'kuto')	nan	108. Kutu 
 281.0	big	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kedak	nan	nan	('big', 'cent2245-hewa', 'gəte')	nan	158. Besar 
 282.0	small	lama1277-kalik	Kalikasa	Austronesian	8Lembata	anak	nan	nan	"('small', 'alor1247-baran', ""'an:aŋ"")"	nan	157. Kecil 
+284.0	new	lama1277-kalik	Kalikasa	Austronesian	8Lembata	wərun	nan	nan	('new', 'cent2245-hewa', 'wərun')	nan	167. Baru 
 288.0	hot	lama1277-kalik	Kalikasa	Austronesian	8Lembata	katiŋ	nan	nan	('hot', 'lama1277-imulo', 'kat')	nan	142. Panas 
 289.0	cold	lama1277-kalik	Kalikasa	Austronesian	8Lembata	bələtəs	nan	nan	('cold', 'abui1241-fuime', 'palata')	nan	143. Dingin 
 290.0	good	lama1277-kalik	Kalikasa	Austronesian	8Lembata	alus	nan	nan	('good', 'lama1277-kalik', 'alus')	nan	168. Baik 
@@ -85,14 +108,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 297.0	dry	lama1277-kalik	Kalikasa	Austronesian	8Lembata	majak	nan	nan	('dry', 'adon1237', 'ˈmaʔrã')	nan	144. Kering 
 299.0	long	lama1277-kalik	Kalikasa	Austronesian	8Lembata	doak	nan	nan	('long', 'lama1277-bama', 'bəlaha')	nan	160. Panjang 
 301.0	short	lama1277-kalik	Kalikasa	Austronesian	8Lembata	məgok	nan	nan	('short', 'lama1277-bama', 'lere')	nan	159. Pendek 
+303.0	thin	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mipiw	nan	nan	('thin', 'cent2245-hewa', 'leler')	nan	161. Tipis 
 305.0	thick	lama1277-kalik	Kalikasa	Austronesian	8Lembata	pərəwak	nan	nan	('thick', 'adon1237', 'pɜˈwɜrã')	nan	162. Tebal 
 309.0	dirty	lama1277-kalik	Kalikasa	Austronesian	8Lembata	milan	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan	14. Kotor
 311.0	sharp	lama1277-kalik	Kalikasa	Austronesian	8Lembata	rəkət	nan	nan	('sharp', 'cent2245-hewa', 'bain')	nan	81. Tajam 
+312.0	blunt	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kəmoson	nan	nan	('blunt', 'cent2245-hewa', 'bohu')	nan	82. Tumpul 
 313.0	heavy	lama1277-kalik	Kalikasa	Austronesian	8Lembata	bərat	nan	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan	147. Berat 
 315.0	straight	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mulur	nan	nan	('straight', 'abui1241-fuime', 'mulang')	nan	165. Lurus 
 316.0	wide	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kedak	nan	nan	('wide', 'lama1277-kalik', 'kedak')	nan	164. Luas 
 317.0	narrow	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kənipot	nan	nan	('narrow', 'lama1277-baipi', 'gələgipət')	nan	163. Sempit 
 321.0	rotten	lama1277-kalik	Kalikasa	Austronesian	8Lembata	wauk	nan	nan	('rotten', 'cent2245-hewa', 'wauk')	nan	111. Busuk 
+326.0	flat, smooth	lama1277-kalik	Kalikasa	Austronesian	8Lembata	lerek	nan	nan	('flat, smooth', 'cent2245-hewa', 'rata')	nan	146. Rata 
 329.0	black	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mitəm	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	152. Hitam 
 330.0	white	lama1277-kalik	Kalikasa	Austronesian	8Lembata	bujak	nan	nan	('white', 'adon1237', 'ˈburaʔ')	nan	153. Putih 
 331.0	red	lama1277-kalik	Kalikasa	Austronesian	8Lembata	meran	nan	nan	('red', 'cent2245-hewa', 'meran')	nan	154. Merah 
@@ -100,6 +126,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 334.0	yellow	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kumas	nan	nan	('yellow', 'lama1277-baipi', 'kuniŋ')	nan	155. Kuning 
 341.0	scared	lama1277-kalik	Kalikasa	Austronesian	8Lembata	takut	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan	25. Takut
 343.0	to see	lama1277-kalik	Kalikasa	Austronesian	8Lembata	du	nan	nan	('to see', 'lama1277-kalik', 'du')	nan	48. Melihat
+344.0	listen	lama1277-kalik	Kalikasa	Austronesian	8Lembata	daŋar	nan	nan	('listen', 'cent2245-hewa', 'diʔin')	nan	46. Dengar
 345.0	to smell	lama1277-kalik	Kalikasa	Austronesian	8Lembata	sodam	nan	nan	('to smell', 'cent2245-hewa', 'mowo')	nan	32. Membaui
 346.0	to think	lama1277-kalik	Kalikasa	Austronesian	8Lembata	petən	nan	nan	('to think', 'adon1237', 'ˈpetɜ')	nan	24. Pikir
 347.0	to know	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ketən	nan	nan	('to know', 'baka1276', 'teiŋ')	nan	23. Tahu
@@ -111,13 +138,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 360.0	to walk	lama1277-kalik	Kalikasa	Austronesian	8Lembata	pana	nan	nan	('to walk', 'adon1237', 'ˈpana')	nan	6. Berjalan
 363.0	to swim	lama1277-kalik	Kalikasa	Austronesian	8Lembata	naŋe	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan	10. Berenang
 364.0	to fly	lama1277-kalik	Kalikasa	Austronesian	8Lembata	bəka	nan	nan	('to fly', 'adon1237', 'ˈbɜka')	nan	101. Terbang 
+365.0	fall	lama1277-kalik	Kalikasa	Austronesian	8Lembata	gokal	nan	nan	('fall', 'cent2245-hewa', 'lodoŋ')	nan	95. Jatuh 
 368.0	to drink	lama1277-kalik	Kalikasa	Austronesian	8Lembata	menu	nan	nan	('to drink', 'adan1251', 'na')	nan	42. Minum
 369.0	to eat	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ka	ka, ga: different inflections	nan	('to eat', 'cent2245-hewa', 'ea')	nan	40. Makan
 370.0	to cook	lama1277-kalik	Kalikasa	Austronesian	8Lembata	loluŋ	nan	nan	('to cook', 'lama1277-kalik', 'loluŋ')	nan	41. Masak
 371.0	to wash	lama1277-kalik	Kalikasa	Austronesian	8Lembata	basa	nan	nan	('to wash', 'adon1237', 'ˈbaha')	nan	11. Mencuci
 372.0	to sew	lama1277-kalik	Kalikasa	Austronesian	8Lembata	saur	nan	nan	('to sew', 'adon1237', 'ˈhɑu')	nan	67. Menjahit 
+373.0	alive	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mojip	nan	nan	('alive', 'cent2245-hewa', 'moret')	nan	76. Hidup 
 374.0	to breathe	lama1277-kalik	Kalikasa	Austronesian	8Lembata	esa nain	nan	nan	('to breathe', 'lama1277-belan', 'hea_naik')	nan	31. Bernapas
 375.0	to work	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kərja	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan	83. Bekerja 
+376.0	dead	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mataj	nan	nan	('dead', 'cent2245-hewa', 'mate')	nan	75. Mati 
 377.0	to give	lama1277-kalik	Kalikasa	Austronesian	8Lembata	be	nan	nan	('to give', 'amar1273-kotos', 'n-fee')	nan	91. Memberi 
 378.0	to wipe	lama1277-kalik	Kalikasa	Austronesian	8Lembata	soka	nan	nan	('to wipe', 'lama1277-kalik', 'soka')	nan	12. Hapus
 379.0	to come	lama1277-kalik	Kalikasa	Austronesian	8Lembata	oli	nan	nan	('to come', 'lama1277-kalik', 'oli')	nan	8. Datang
@@ -125,6 +155,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381.0	to cry	lama1277-kalik	Kalikasa	Austronesian	8Lembata	əraw	nan	nan	"('to cry', 'fata1247', ""a'rurɛ"")"	nan	37. Menangis
 382.0	to dance	lama1277-kalik	Kalikasa	Austronesian	8Lembata	soka	nan	nan	('child', 'kama1365', 'dum')	nan	86. Menari 
 383.0	to sing	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kantar	nan	nan	('to sing', 'buna1278-bobon', 'kantar,_gio_logo')	nan	85. Menyanyi
+384.0	burn	lama1277-kalik	Kalikasa	Austronesian	8Lembata	papi	nan	nan	('burn', 'cent2245-hewa', 'holo')	nan	149. Membakar 
 389.0	to suck	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tusu	nan	nan	('to suck', 'cent2245-hewa', 'wuhu')	nan	44. Menetek
 390.0	to blow	lama1277-kalik	Kalikasa	Austronesian	8Lembata	diji	nan	nan	('to blow', 'lama1277-belan', 'didi')	nan	141. Bertiup 
 391.0	to spit	lama1277-kalik	Kalikasa	Austronesian	8Lembata	təmiju	nan	nan	('to spit', 'lama1277-baipi', 'pərino')	nan	39. Meludah
@@ -150,49 +181,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430.0	to squeeze	lama1277-kalik	Kalikasa	Austronesian	8Lembata	piuk	nan	nan	('to squeeze', 'adon1237', 'ˈpiʔuk')	nan	88. Memeras 
 441.0	to bark	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kajukamak	nan	nan	('to bark', 'cent2245-hewa', 'ulit_ai')	nan	113. Kulit kayu
 442.0	to shoot	lama1277-kalik	Kalikasa	Austronesian	8Lembata	pasak	nan	nan	('to shoot', 'adon1237', 'ˈpasak')	nan	70. Menembak 
-599.0	left	lama1277-kalik	Kalikasa	Austronesian	8Lembata	seke	nan	nan	('left', 'cent2245-hewa', 'wirin')	nan	2. Kiri
-600.0	right	lama1277-kalik	Kalikasa	Austronesian	8Lembata	wana	nan	nan	('right', 'cent2245-hewa', 'wanan')	nan	3. Kanan
 601.0	footprint	lama1277-kalik	Kalikasa	Austronesian	8Lembata	l. əpak	nan	nan	('footprint', 'cent2245-hewa', 'əpak')	nan	5. Kaki
-602.0	road	lama1277-kalik	Kalikasa	Austronesian	8Lembata	lalan	nan	nan	('road', 'lama1277-belan', 'lara')	nan	7. Jalan
 603.0	return	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tue	nan	nan	('return', 'cent2245-hewa', 'gəwali')	nan	9. Balik
-604.0	dust	lama1277-kalik	Kalikasa	Austronesian	8Lembata	əmut	nan	nan	('dust', 'cent2245-hewa', 'awu')	nan	15. Debu
-604.0	dust	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kawok	nan	nan	('dust', 'cent2245-hewa', 'awu')	nan	151. Abu 
-605.0	belly	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tai	nan	nan	('belly', 'cent2245-hewa', 'dula')	nan	18. Perut
 606.0	stomach	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tai kəbotin	nan	nan	('stomach', 'cent2245-hewa', 'tai_dula')	nan	20. Isi perut
 607.0	tooth	lama1277-kalik	Kalikasa	Austronesian	8Lembata	pai	nan	nan	('tooth', 'cent2245-hewa', 'niʔu')	nan	34. Gigi
-608.0	listen	lama1277-kalik	Kalikasa	Austronesian	8Lembata	daŋar	nan	nan	('listen', 'cent2245-hewa', 'diʔin')	nan	46. Dengar
 609.0	fist	lama1277-kalik	Kalikasa	Austronesian	8Lembata	sadok	nan	nan	('fist', 'cent2245-hewa', 'sadok')	nan	72. Bertinju 
-610.0	dead	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mataj	nan	nan	('dead', 'cent2245-hewa', 'mate')	nan	75. Mati 
-611.0	alive	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mojip	nan	nan	('alive', 'cent2245-hewa', 'moret')	nan	76. Hidup 
 612.0	stem	lama1277-kalik	Kalikasa	Austronesian	8Lembata	puk	nan	nan	('stem', 'cent2245-hewa', 'a̤i')	nan	79. Batang 
-613.0	blunt	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kəmoson	nan	nan	('blunt', 'cent2245-hewa', 'bohu')	nan	82. Tumpul 
 614.0	swollen	lama1277-kalik	Kalikasa	Austronesian	8Lembata	sənobaj	nan	nan	('swollen', 'cent2245-hewa', 'bowo')	nan	87. Bengkak
-615.0	fall	lama1277-kalik	Kalikasa	Austronesian	8Lembata	gokal	nan	nan	('fall', 'cent2245-hewa', 'lodoŋ')	nan	95. Jatuh 
-616.0	meat	lama1277-kalik	Kalikasa	Austronesian	8Lembata	elam	nan	nan	('meat', 'cent2245-hewa', 'ətan')	nan	103. Daging 
-617.0	tale	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ikur	nan	nan	('tale', 'cent2245-hewa', 'i̤ʔur')	nan	105. Ekor 
 618.0	worm	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ekoj	nan	nan	('worm', 'cent2245-hewa', 'taibener')	nan	107. Cacing 
-619.0	louse	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kutu	nan	nan	('louse', 'lama1277-baipi', 'kuto')	nan	108. Kutu 
-620.0	grass	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kərəkak	nan	nan	('grass', 'cent2245-hewa', 'riʔi')	nan	118. Rumput 
-621.0	earth	lama1277-kalik	Kalikasa	Austronesian	8Lembata	ənaj	nan	nan	('earth', 'cent2245-hewa', 'tana')	nan	119. Tanah 
-622.0	water	lama1277-kalik	Kalikasa	Austronesian	8Lembata	waer	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	122. Air 
-623.0	sea	lama1277-kalik	Kalikasa	Austronesian	8Lembata	lojor	nan	nan	('sea', 'cent2245-hewa', 'tahiʔ')	nan	127. Laut 
-624.0	river	lama1277-kalik	Kalikasa	Austronesian	8Lembata	waer	nan	nan	('river', 'cent2245-hewa', 'wair_ba')	nan	130. Sungai 
 625.0	dew	lama1277-kalik	Kalikasa	Austronesian	8Lembata	apun	nan	nan	('dew', 'cent2245-hewa', 'apun')	nan	137. Embun 
-626.0	flat, smooth	lama1277-kalik	Kalikasa	Austronesian	8Lembata	lerek	nan	nan	('flat, smooth', 'cent2245-hewa', 'rata')	nan	146. Rata 
-627.0	burn	lama1277-kalik	Kalikasa	Austronesian	8Lembata	papi	nan	nan	('burn', 'cent2245-hewa', 'holo')	nan	149. Membakar 
-628.0	thin	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mipiw	nan	nan	('thin', 'cent2245-hewa', 'leler')	nan	161. Tipis 
 629.0	old	lama1277-kalik	Kalikasa	Austronesian	8Lembata	magun	nan	nan	('old', 'cent2245-hewa', 'duan')	nan	166. Tua 
-630.0	new	lama1277-kalik	Kalikasa	Austronesian	8Lembata	wərun	nan	nan	('new', 'cent2245-hewa', 'wərun')	nan	167. Baru 
 631.0	right, correct	lama1277-kalik	Kalikasa	Austronesian	8Lembata	nər moi	nan	nan	('right, correct', 'cent2245-hewa', 'dəmen')	nan	170. Betul 
-632.0	when	lama1277-kalik	Kalikasa	Austronesian	8Lembata	jəm pira	nan	nan	('when', 'cent2245-hewa', 'rəmapira')	nan	174. Bilamana 
 633.0	in	lama1277-kalik	Kalikasa	Austronesian	8Lembata	je	nan	nan	('in', 'cent2245-hewa', 'reta')	nan	175. Di 
 634.0	inside	lama1277-kalik	Kalikasa	Austronesian	8Lembata	gomək	nan	nan	('inside', 'cent2245-hewa', 'ləman')	nan	176. Dalam 
-635.0	where	lama1277-kalik	Kalikasa	Austronesian	8Lembata	nagane	nan	nan	('where', 'cent2245-hewa', 'upa')	nan	183. Di mana 
-636.0	2sg;2pl	lama1277-kalik	Kalikasa	Austronesian	8Lembata	mone 	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	185. Engkau/ kamu 
-637.0	1pl.inc	lama1277-kalik	Kalikasa	Austronesian	8Lembata	tite	nan	nan	('1pl.inc', 'cent2245-hewa', 'ita')	nan	187. Kita 
-638.0	1pl.exc	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kame	nan	nan	('1pl.exc', 'cent2245-hewa', 'ami')	nan	188. Kami 
-639.0	what	lama1277-kalik	Kalikasa	Austronesian	8Lembata	naoga	nan	nan	('what', 'cent2245-hewa', 'apar')	nan	190. Apa 
-640.0	who	lama1277-kalik	Kalikasa	Austronesian	8Lembata	naku	nan	nan	('who', 'cent2245-hewa', 'hainimu')	nan	191. Siapa 
 641.0	other	lama1277-kalik	Kalikasa	Austronesian	8Lembata	gesak	nan	nan	('other', 'cent2245-hewa', 'pehan')	nan	192. Lain
 642.0	some	lama1277-kalik	Kalikasa	Austronesian	8Lembata	uapira	nan	nan	('some', 'cent2245-hewa', 'harua')	nan	193. Beberapa 
-643.0	few	lama1277-kalik	Kalikasa	Austronesian	8Lembata	kənako	nan	nan	('few', 'cent2245-hewa', 'anakha')	nan	195. Sedikit 

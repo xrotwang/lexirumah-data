@@ -8,15 +8,23 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13.0	cloud	keda1252	Kedang	Austronesian	8Lembata	owa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
 14.0	wind	keda1252	Kedang	Austronesian	8Lembata	aŋin	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan	140. Angin 
 15.0	rain	keda1252	Kedang	Austronesian	8Lembata	uya	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan	138. Hujan 
+22.0	river	keda1252	Kedang	Austronesian	8Lembata	wei kawaŋ	nan	nan	('river', 'keda1252', 'wei_kawaŋ')	nan	130. Sungai 
 25.0	lake	keda1252	Kedang	Austronesian	8Lembata	o̤pa	nan	nan	('lake', 'keda1252', 'o̤pa')	nan	129. Danau 
 26.0	mountain	keda1252	Kedang	Austronesian	8Lembata	ili	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan	131. Gunung 
+30.0	earth	keda1252	Kedang	Austronesian	8Lembata	auʔ	nan	nan	('earth', 'keda1252', 'auʔ')	nan	119. Tanah 
 32.0	stone	keda1252	Kedang	Austronesian	8Lembata	waʔ	nan	nan	nan	nan	120. Batu 
+35.0	water	keda1252	Kedang	Austronesian	8Lembata	wei	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	122. Air 
+36.0	sea	keda1252	Kedang	Austronesian	8Lembata	tahi	nan	nan	('sea', 'keda1252', 'tahi')	nan	127. Laut 
 39.0	forest	keda1252	Kedang	Austronesian	8Lembata	tuen	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan	132. Hutan
+45.0	road	keda1252	Kedang	Austronesian	8Lembata	lala	nan	nan	('road', 'keda1252', 'lala')	nan	7. Jalan
 51.0	rope	keda1252	Kedang	Austronesian	8Lembata	wade	nan	nan	('rope', 'abui1241-fuime', 'tila')	nan	65. Tali
 65.0	clothing	keda1252	Kedang	Austronesian	8Lembata	ulialen	nan	nan	('clothing', 'adon1237', 'aleˈlolo')	nan	68. Pakaian 
 67.0	fire	keda1252	Kedang	Austronesian	8Lembata	api	nan	nan	('fire', 'adan1251-otvai', 'aʔfail')	nan	148. Api 
 68.0	smoke	keda1252	Kedang	Austronesian	8Lembata	rubun	nan	nan	"('smoke', 'keda1252', ""'rubu"")"	nan	150. Asap 
+70.0	dust	keda1252	Kedang	Austronesian	8Lembata	lebu	nan	nan	('dust', 'keda1252', 'ewol')	nan	15. Debu
+70.0	dust	keda1252	Kedang	Austronesian	8Lembata	ewol	nan	nan	('dust', 'keda1252', 'ewol')	nan	151. Abu 
 75.0	sand	keda1252	Kedang	Austronesian	8Lembata	e̤ne	nan	nan	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	nan	121. Pasir 
+76.0	grass	keda1252	Kedang	Austronesian	8Lembata	ṳru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	118. Rumput 
 84.0	tree	keda1252	Kedang	Austronesian	8Lembata	ayiwa	nan	nan	('tree', 'keda1252', 'ayiwa')	nan	110. Pohon 
 87.0	leaf	keda1252	Kedang	Austronesian	8Lembata	lolon	nan	nan	('leaf', 'adon1237', 'ˈlolõ')	nan	112. Daun 
 91.0	root	keda1252	Kedang	Austronesian	8Lembata	ramuʔ	nan	nan	91.0-(485, 'dein1238', 'aribu nuk')	nan	114. Akar 
@@ -25,10 +33,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95.0	flower	keda1252	Kedang	Austronesian	8Lembata	puhun	nan	nan	('flower', 'abui1241-fuime', 'kiki')	nan	116. Bunga 
 129.0	salt	keda1252	Kedang	Austronesian	8Lembata	teʔu	nan	nan	('salt', 'abui1241-fuime', 'ati')	nan	128. Garam 
 130.0	fat	keda1252	Kedang	Austronesian	8Lembata	woyaʔ	nan	nan	('fat', 'abui1241-fuime', 'hetamada')	nan	104. Lemak 
+131.0	meat	keda1252	Kedang	Austronesian	8Lembata	ihin	nan	nan	('meat', 'keda1252', 'ihin')	nan	103. Daging 
 132.0	bone	keda1252	Kedang	Austronesian	8Lembata	lurin	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	19. Tulang
 136.0	blood	keda1252	Kedang	Austronesian	8Lembata	wei	nan	nan	('blood', 'abui1241-fuime', 'we')	nan	26. Darah
 138.0	heart	keda1252	Kedang	Austronesian	8Lembata	taeŋ	nan	nan	('heart', 'keda1252', 'taeŋ')	nan	22. Jantung
 139.0	liver	keda1252	Kedang	Austronesian	8Lembata	taʔmuti	nan	nan	('liver', 'keda1252', 'taʔmuti')	nan	21. Hati
+144.0	belly	keda1252	Kedang	Austronesian	8Lembata	botin	nan	nan	('belly', 'keda1252', 'botin')	nan	18. Perut
 145.0	head	keda1252	Kedang	Austronesian	8Lembata	tubar	nan	nan	('head', 'abui1241-fuime', 'kai')	nan	27. Kepala
 146.0	hair	keda1252	Kedang	Austronesian	8Lembata	uha	nan	nan	('hair', 'keda1252', 'uha')	nan	29. Rambut
 148.0	eye	keda1252	Kedang	Austronesian	8Lembata	mato	nan	nan	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan	47. Mata
@@ -53,28 +63,42 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 199.0	older sibling	keda1252	Kedang	Austronesian	8Lembata	ʔaʔe	nan	nan	('older sibling', 'cent2245-hewa', 'ueʔ')	nan	61. Kakak
 200.0	younger sibling	keda1252	Kedang	Austronesian	8Lembata	ariʔ	nan	nan	('younger sibling', 'adan1251', 'di')	nan	62. Adik
 203.0	1sg	keda1252	Kedang	Austronesian	8Lembata	eʔi	nan	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan	184. Saya 
+204.0	2sg;2pl	keda1252	Kedang	Austronesian	8Lembata	o	nan	nan	('2sg;2pl', 'keda1252', 'o')	nan	185. Engkau/ kamu 
+204.0	2sg;2pl	keda1252	Kedang	Austronesian	8Lembata	me	nan	nan	('2sg;2pl', 'cent2245-hewa', 'miu')	nan	185. Engkau/ kamu 
 206.0	3sg	keda1252	Kedang	Austronesian	8Lembata	nuo	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	186. Dia 
+207.0	1pl.exc	keda1252	Kedang	Austronesian	8Lembata	e	nan	nan	('1pl.exc', 'keda1252', 'e')	nan	188. Kami 
+208.0	1pl.inc	keda1252	Kedang	Austronesian	8Lembata	te	nan	nan	('1pl.inc', 'keda1252', 'te')	nan	187. Kita 
 210.0	3pl	keda1252	Kedang	Austronesian	8Lembata	suo	nan	nan	"('3pl', 'alor1247-baran', ""'fe:_sa'kali"")"	nan	189. Mereka 
 212.0	and	keda1252	Kedang	Austronesian	8Lembata	nore	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan	197. Dan 
 213.0	because	keda1252	Kedang	Austronesian	8Lembata	eleʔ	nan	nan	"('because', 'alor1247-baran', ""'karɛna,_sɛ'bab"")"	nan	199. Sebab 
 214.0	if	keda1252	Kedang	Austronesian	8Lembata	ere	nan	nan	"('if', 'alor1247-baran', ""'kalau"")"	nan	200. Jikalau 
 215.0	with	keda1252	Kedang	Austronesian	8Lembata	nore	nan	nan	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan	198. Dengan
+216.0	what	keda1252	Kedang	Austronesian	8Lembata	ape	nan	nan	('what', 'keda1252', 'ape')	nan	190. Apa 
+217.0	who	keda1252	Kedang	Austronesian	8Lembata	sio	nan	nan	('who', 'keda1252', 'sio')	nan	191. Siapa 
+218.0	where	keda1252	Kedang	Austronesian	8Lembata	didita	nan	nan	('where', 'keda1252', 'didita')	nan	183. Di mana 
+219.0	when	keda1252	Kedang	Austronesian	8Lembata	weaŋ piye	nan	nan	('when', 'keda1252', 'weaŋ_piye')	nan	174. Bilamana 
 223.0	this	keda1252	Kedang	Austronesian	8Lembata	noʔo	nan	nan	('this', 'keda1252', 'noʔo')	nan	179. Ini 
 224.0	that	keda1252	Kedang	Austronesian	8Lembata	nobeʔ	nan	nan	"('that', 'keda1252', ""no'beʔ"")"	nan	180. Itu 
 227.0	here	keda1252	Kedang	Austronesian	8Lembata	dinoʔo	nan	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan	177. Di sini 
 228.0	there	keda1252	Kedang	Austronesian	8Lembata	dinobeʔ	nan	nan	('there', 'keda1252', 'dinobeʔ')	nan	178. Di situ 
+231.0	left	keda1252	Kedang	Austronesian	8Lembata	weri	nan	nan	('left', 'keda1252', 'weri')	nan	2. Kiri
+232.0	right	keda1252	Kedang	Austronesian	8Lembata	wana	nan	nan	('right', 'keda1252', 'wana')	nan	3. Kanan
+233.0	few	keda1252	Kedang	Austronesian	8Lembata	uraŋ	nan	nan	('few', 'keda1252', 'uraŋ')	nan	195. Sedikit 
 234.0	all	keda1252	Kedang	Austronesian	8Lembata	reiʔ	nan	nan	"('all', 'keda1252', ""'rɛiʔ"")"	nan	196. Semua 
 235.0	many	keda1252	Kedang	Austronesian	8Lembata	rai	nan	nan	"('many', 'keda1252', ""'rai"")"	nan	194. Banyak 
 236.0	animal	keda1252	Kedang	Austronesian	8Lembata	ewaŋ	nan	nan	('animal', 'adon1237', 'ˈʔɜˈwã')	nan	102. Binatang 
 238.0	dog	keda1252	Kedang	Austronesian	8Lembata	au	nan	nan	nan	nan	96. Anjing 
+249.0	tale	keda1252	Kedang	Austronesian	8Lembata	ebo	nan	nan	('tale', 'keda1252', 'ebo')	nan	105. Ekor 
 250.0	fish	keda1252	Kedang	Austronesian	8Lembata	iʔa	nan	nan	nan	nan	109. Ikan 
 259.0	bird	keda1252	Kedang	Austronesian	8Lembata	udaŋ oloŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	97. Burung 
 260.0	wing	keda1252	Kedang	Austronesian	8Lembata	apiʔ	nan	nan	('wing', 'abui1241-fuime', 'ha-bakai')	nan	100. Sayap 
 262.0	feather	keda1252	Kedang	Austronesian	8Lembata	beriŋ	nan	nan	('feather', 'keda1252', 'beriŋ')	nan	99. Bulu 
 264.0	snake	keda1252	Kedang	Austronesian	8Lembata	ular	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan	106. Ular 
 266.0	egg	keda1252	Kedang	Austronesian	8Lembata	tolor	nan	nan	('egg', 'adon1237', 'ˈtɛluk')	nan	98. Telur 
+279.0	louse	keda1252	Kedang	Austronesian	8Lembata	utuʔ	nan	nan	('louse', 'keda1252', 'utuʔ')	nan	108. Kutu 
 281.0	big	keda1252	Kedang	Austronesian	8Lembata	rian	nan	nan	"('big', 'keda1252', ""ri'aː"")"	nan	158. Besar 
 282.0	small	keda1252	Kedang	Austronesian	8Lembata	ṳtun	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	157. Kecil 
+284.0	new	keda1252	Kedang	Austronesian	8Lembata	werun	nan	nan	('new', 'keda1252', 'werun')	nan	167. Baru 
 288.0	hot	keda1252	Kedang	Austronesian	8Lembata	panaʔ	nan	nan	('hot', 'adon1237', 'ˈplate')	nan	142. Panas 
 289.0	cold	keda1252	Kedang	Austronesian	8Lembata	emi	nan	nan	"('cold', 'keda1252', ""'ʔɛmi"")"	nan	143. Dingin 
 290.0	good	keda1252	Kedang	Austronesian	8Lembata	diʔen	nan	nan	"('good', 'alor1247-baran', ""'dik:ɛ"")"	nan	168. Baik 
@@ -85,14 +109,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 297.0	dry	keda1252	Kedang	Austronesian	8Lembata	mayaʔ	nan	nan	('dry', 'adon1237', 'ˈmaʔrã')	nan	144. Kering 
 299.0	long	keda1252	Kedang	Austronesian	8Lembata	lawan	nan	nan	('long', 'abui1241-fuime', 'lohu')	nan	160. Panjang 
 301.0	short	keda1252	Kedang	Austronesian	8Lembata	mekuʔ	nan	nan	('short', 'abui1241-fuime', 'bui')	nan	159. Pendek 
+303.0	thin	keda1252	Kedang	Austronesian	8Lembata	mipi	nan	nan	('thin', 'keda1252', 'mipi')	nan	161. Tipis 
 305.0	thick	keda1252	Kedang	Austronesian	8Lembata	kapal	nan	nan	"('thick', 'alor1247-baran', ""'gapa"")"	nan	162. Tebal 
 309.0	dirty	keda1252	Kedang	Austronesian	8Lembata	miteŋ	nan	nan	('dirty', 'amar1273-kotos', 'oe-metan')	nan	14. Kotor
 311.0	sharp	keda1252	Kedang	Austronesian	8Lembata	deye	nan	nan	('sharp', 'abui1241-fuime', 'bula')	nan	81. Tajam 
+312.0	blunt	keda1252	Kedang	Austronesian	8Lembata	mamel	nan	nan	('blunt', 'keda1252', 'mamel')	nan	82. Tumpul 
 313.0	heavy	keda1252	Kedang	Austronesian	8Lembata	baraʔ	nan	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan	147. Berat 
 315.0	straight	keda1252	Kedang	Austronesian	8Lembata	potoŋ	nan	nan	('straight', 'keda1252', 'potoŋ')	nan	165. Lurus 
 316.0	wide	keda1252	Kedang	Austronesian	8Lembata	riya	nan	nan	('wide', 'keda1252', 'riya')	nan	164. Luas 
 317.0	narrow	keda1252	Kedang	Austronesian	8Lembata	i̤pe	nan	nan	('narrow', 'abui1241-fuime', 'karie')	nan	163. Sempit 
 321.0	rotten	keda1252	Kedang	Austronesian	8Lembata	buruʔ	nan	nan	('rotten', 'abui1241-fuime', 'hamuni')	nan	111. Busuk 
+326.0	flat, smooth	keda1252	Kedang	Austronesian	8Lembata	napoʔ	nan	nan	('flat, smooth', 'keda1252', 'napoʔ')	nan	146. Rata 
 329.0	black	keda1252	Kedang	Austronesian	8Lembata	miteŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	152. Hitam 
 330.0	white	keda1252	Kedang	Austronesian	8Lembata	buyaʔ	nan	nan	('white', 'adon1237', 'ˈburaʔ')	nan	153. Putih 
 331.0	red	keda1252	Kedang	Austronesian	8Lembata	putu	nan	nan	('red', 'abui1241-fuime', 'kika')	nan	154. Merah 
@@ -100,6 +127,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 334.0	yellow	keda1252	Kedang	Austronesian	8Lembata	uman	nan	nan	('yellow', 'abui1241-fuime', 'adesan')	nan	155. Kuning 
 341.0	scared	keda1252	Kedang	Austronesian	8Lembata	taiʔ	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan	25. Takut
 343.0	to see	keda1252	Kedang	Austronesian	8Lembata	bora	nan	nan	('to see', 'keda1252', 'bora')	nan	48. Melihat
+344.0	listen	keda1252	Kedang	Austronesian	8Lembata	deŋər	nan	nan	('listen', 'keda1252', 'deŋər')	nan	46. Dengar
 345.0	to smell	keda1252	Kedang	Austronesian	8Lembata	naeʔ	nan	nan	('to smell', 'abui1241-fuime', 'munungra')	nan	32. Membaui
 346.0	to think	keda1252	Kedang	Austronesian	8Lembata	kelən	nan	nan	('to think', 'keda1252', 'kelən')	nan	24. Pikir
 347.0	to know	keda1252	Kedang	Austronesian	8Lembata	nuan	nan	nan	('to know', 'adon1237', 'ˈnoi,_ˈkoi')	nan	23. Tahu
@@ -111,13 +139,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 360.0	to walk	keda1252	Kedang	Austronesian	8Lembata	pan	nan	nan	('to walk', 'adon1237', 'ˈpana')	nan	6. Berjalan
 363.0	to swim	keda1252	Kedang	Austronesian	8Lembata	naŋe	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan	10. Berenang
 364.0	to fly	keda1252	Kedang	Austronesian	8Lembata	baʔa	nan	nan	('to fly', 'adon1237', 'ˈbɜka')	nan	101. Terbang 
+365.0	fall	keda1252	Kedang	Austronesian	8Lembata	moruʔ	nan	nan	('fall', 'keda1252', 'moruʔ')	nan	95. Jatuh 
 368.0	to drink	keda1252	Kedang	Austronesian	8Lembata	min	nan	nan	nan	nan	42. Minum
 369.0	to eat	keda1252	Kedang	Austronesian	8Lembata	a	a, kaː different inflections	nan	('to eat', 'abui1241-fuime', 'ne')	nan	40. Makan
 370.0	to cook	keda1252	Kedang	Austronesian	8Lembata	iu	nan	nan	('to cook', 'keda1252', 'iu')	nan	41. Masak
 371.0	to wash	keda1252	Kedang	Austronesian	8Lembata	bahiŋ	nan	nan	('to wash', 'adon1237', 'ˈbaha')	nan	11. Mencuci
 372.0	to sew	keda1252	Kedang	Austronesian	8Lembata	heuŋ	nan	nan	('to sew', 'adon1237', 'ˈhɑu')	nan	67. Menjahit 
+373.0	alive	keda1252	Kedang	Austronesian	8Lembata	bita	nan	nan	('alive', 'keda1252', 'bita')	nan	76. Hidup 
 374.0	to breathe	keda1252	Kedang	Austronesian	8Lembata	ipo	nan	nan	('to breathe', 'keda1252', 'ipo')	nan	31. Bernapas
 375.0	to work	keda1252	Kedang	Austronesian	8Lembata	kareyã	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan	83. Bekerja 
+376.0	dead	keda1252	Kedang	Austronesian	8Lembata	mate	nan	nan	('dead', 'keda1252', 'mate')	nan	75. Mati 
 377.0	to give	keda1252	Kedang	Austronesian	8Lembata	soroŋ	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan	91. Memberi 
 378.0	to wipe	keda1252	Kedang	Austronesian	8Lembata	poho	nan	nan	('to wipe', 'adon1237', 'ˈbɔhɔʔ')	nan	12. Hapus
 379.0	to come	keda1252	Kedang	Austronesian	8Lembata	adan	nan	nan	"('to come', 'keda1252', ""'adan"")"	nan	8. Datang
@@ -125,6 +156,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381.0	to cry	keda1252	Kedang	Austronesian	8Lembata	kueʔ	nan	nan	('to cry', 'kabo1247', 'kəwéye')	nan	37. Menangis
 382.0	to dance	keda1252	Kedang	Austronesian	8Lembata	soka	nan	nan	('child', 'kama1365', 'dum')	nan	86. Menari 
 383.0	to sing	keda1252	Kedang	Austronesian	8Lembata	lali	nan	nan	"('to sing', 'alor1247-baran', ""'bɔtɛ_'liaŋ"")"	nan	85. Menyanyi
+384.0	burn	keda1252	Kedang	Austronesian	8Lembata	tun	nan	nan	('burn', 'keda1252', 'tun')	nan	149. Membakar 
 389.0	to suck	keda1252	Kedang	Austronesian	8Lembata	tu	nan	nan	('to suck', 'cent2245-hewa', 'wuhu')	nan	44. Menetek
 390.0	to blow	keda1252	Kedang	Austronesian	8Lembata	puiʔ	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan	141. Bertiup 
 391.0	to spit	keda1252	Kedang	Austronesian	8Lembata	potaʔ	nan	nan	('to spit', 'keda1252', 'potaʔ')	nan	39. Meludah
@@ -150,50 +182,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430.0	to squeeze	keda1252	Kedang	Austronesian	8Lembata	buleŋ	nan	nan	('to squeeze', 'keda1252', 'buleŋ')	nan	88. Memeras 
 441.0	to bark	keda1252	Kedang	Austronesian	8Lembata	ayi amaʔ	nan	nan	('to bark', 'keda1252', 'ayi_amaʔ')	nan	113. Kulit kayu
 442.0	to shoot	keda1252	Kedang	Austronesian	8Lembata	pasaʔ	nan	nan	('to shoot', 'adon1237', 'ˈpasak')	nan	70. Menembak 
-599.0	left	keda1252	Kedang	Austronesian	8Lembata	weri	nan	nan	('left', 'keda1252', 'weri')	nan	2. Kiri
-600.0	right	keda1252	Kedang	Austronesian	8Lembata	wana	nan	nan	('right', 'keda1252', 'wana')	nan	3. Kanan
 601.0	footprint	keda1252	Kedang	Austronesian	8Lembata	l. laleŋ	nan	nan	('footprint', 'keda1252', 'l._laleŋ')	nan	5. Kaki
-602.0	road	keda1252	Kedang	Austronesian	8Lembata	lala	nan	nan	('road', 'keda1252', 'lala')	nan	7. Jalan
 603.0	return	keda1252	Kedang	Austronesian	8Lembata	puer	nan	nan	('return', 'keda1252', 'puer')	nan	9. Balik
-604.0	dust	keda1252	Kedang	Austronesian	8Lembata	lebu	nan	nan	('dust', 'keda1252', 'ewol')	nan	15. Debu
-604.0	dust	keda1252	Kedang	Austronesian	8Lembata	ewol	nan	nan	('dust', 'keda1252', 'ewol')	nan	151. Abu 
-605.0	belly	keda1252	Kedang	Austronesian	8Lembata	botin	nan	nan	('belly', 'keda1252', 'botin')	nan	18. Perut
 606.0	stomach	keda1252	Kedang	Austronesian	8Lembata	tein	nan	nan	('stomach', 'keda1252', 'tein')	nan	20. Isi perut
 607.0	tooth	keda1252	Kedang	Austronesian	8Lembata	awar	nan	nan	('tooth', 'keda1252', 'awar')	nan	34. Gigi
-608.0	listen	keda1252	Kedang	Austronesian	8Lembata	deŋər	nan	nan	('listen', 'keda1252', 'deŋər')	nan	46. Dengar
 609.0	fist	keda1252	Kedang	Austronesian	8Lembata	bajuʔ	nan	nan	('fist', 'keda1252', 'bajuʔ')	nan	72. Bertinju 
-610.0	dead	keda1252	Kedang	Austronesian	8Lembata	mate	nan	nan	('dead', 'keda1252', 'mate')	nan	75. Mati 
-611.0	alive	keda1252	Kedang	Austronesian	8Lembata	bita	nan	nan	('alive', 'keda1252', 'bita')	nan	76. Hidup 
 612.0	stem	keda1252	Kedang	Austronesian	8Lembata	ayin	nan	nan	('stem', 'keda1252', 'ayin')	nan	79. Batang 
-613.0	blunt	keda1252	Kedang	Austronesian	8Lembata	mamel	nan	nan	('blunt', 'keda1252', 'mamel')	nan	82. Tumpul 
 614.0	swollen	keda1252	Kedang	Austronesian	8Lembata	babaŋ	nan	nan	('swollen', 'keda1252', 'babaŋ')	nan	87. Bengkak
-615.0	fall	keda1252	Kedang	Austronesian	8Lembata	moruʔ	nan	nan	('fall', 'keda1252', 'moruʔ')	nan	95. Jatuh 
-616.0	meat	keda1252	Kedang	Austronesian	8Lembata	ihin	nan	nan	('meat', 'keda1252', 'ihin')	nan	103. Daging 
-617.0	tale	keda1252	Kedang	Austronesian	8Lembata	ebo	nan	nan	('tale', 'keda1252', 'ebo')	nan	105. Ekor 
 618.0	worm	keda1252	Kedang	Austronesian	8Lembata	todaŋ	nan	nan	('worm', 'keda1252', 'todaŋ')	nan	107. Cacing 
-619.0	louse	keda1252	Kedang	Austronesian	8Lembata	utuʔ	nan	nan	('louse', 'keda1252', 'utuʔ')	nan	108. Kutu 
-620.0	grass	keda1252	Kedang	Austronesian	8Lembata	ṳru	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	118. Rumput 
-621.0	earth	keda1252	Kedang	Austronesian	8Lembata	auʔ	nan	nan	('earth', 'keda1252', 'auʔ')	nan	119. Tanah 
-622.0	water	keda1252	Kedang	Austronesian	8Lembata	wei	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan	122. Air 
-623.0	sea	keda1252	Kedang	Austronesian	8Lembata	tahi	nan	nan	('sea', 'keda1252', 'tahi')	nan	127. Laut 
-624.0	river	keda1252	Kedang	Austronesian	8Lembata	wei kawaŋ	nan	nan	('river', 'keda1252', 'wei_kawaŋ')	nan	130. Sungai 
 625.0	dew	keda1252	Kedang	Austronesian	8Lembata	aʔaŋ	nan	nan	('dew', 'keda1252', 'aʔaŋ')	nan	137. Embun 
-626.0	flat, smooth	keda1252	Kedang	Austronesian	8Lembata	napoʔ	nan	nan	('flat, smooth', 'keda1252', 'napoʔ')	nan	146. Rata 
-627.0	burn	keda1252	Kedang	Austronesian	8Lembata	tun	nan	nan	('burn', 'keda1252', 'tun')	nan	149. Membakar 
-628.0	thin	keda1252	Kedang	Austronesian	8Lembata	mipi	nan	nan	('thin', 'keda1252', 'mipi')	nan	161. Tipis 
 629.0	old	keda1252	Kedang	Austronesian	8Lembata	taran	nan	nan	('old', 'keda1252', 'taran')	nan	166. Tua 
-630.0	new	keda1252	Kedang	Austronesian	8Lembata	werun	nan	nan	('new', 'keda1252', 'werun')	nan	167. Baru 
 631.0	right, correct	keda1252	Kedang	Austronesian	8Lembata	muar	nan	nan	('right, correct', 'keda1252', 'muar')	nan	170. Betul 
-632.0	when	keda1252	Kedang	Austronesian	8Lembata	weaŋ piye	nan	nan	('when', 'keda1252', 'weaŋ_piye')	nan	174. Bilamana 
 633.0	in	keda1252	Kedang	Austronesian	8Lembata	di	nan	nan	('in', 'keda1252', 'di')	nan	175. Di 
 634.0	inside	keda1252	Kedang	Austronesian	8Lembata	lomo	nan	nan	('inside', 'keda1252', 'lomo')	nan	176. Dalam 
-635.0	where	keda1252	Kedang	Austronesian	8Lembata	didita	nan	nan	('where', 'keda1252', 'didita')	nan	183. Di mana 
-636.0	2sg;2pl	keda1252	Kedang	Austronesian	8Lembata	o	nan	nan	('2sg;2pl', 'keda1252', 'o')	nan	185. Engkau/ kamu 
-636.0	2sg;2pl	keda1252	Kedang	Austronesian	8Lembata	me	nan	nan	('2sg;2pl', 'cent2245-hewa', 'miu')	nan	185. Engkau/ kamu 
-637.0	1pl.inc	keda1252	Kedang	Austronesian	8Lembata	te	nan	nan	('1pl.inc', 'keda1252', 'te')	nan	187. Kita 
-638.0	1pl.exc	keda1252	Kedang	Austronesian	8Lembata	e	nan	nan	('1pl.exc', 'keda1252', 'e')	nan	188. Kami 
-639.0	what	keda1252	Kedang	Austronesian	8Lembata	ape	nan	nan	('what', 'keda1252', 'ape')	nan	190. Apa 
-640.0	who	keda1252	Kedang	Austronesian	8Lembata	sio	nan	nan	('who', 'keda1252', 'sio')	nan	191. Siapa 
 641.0	other	keda1252	Kedang	Austronesian	8Lembata	palan	nan	nan	('other', 'keda1252', 'palan')	nan	192. Lain
 642.0	some	keda1252	Kedang	Austronesian	8Lembata	pie-pie	nan	nan	('some', 'keda1252', 'pie-pie')	nan	193. Beberapa 
-643.0	few	keda1252	Kedang	Austronesian	8Lembata	uraŋ	nan	nan	('few', 'keda1252', 'uraŋ')	nan	195. Sedikit 
