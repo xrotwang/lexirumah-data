@@ -8,10 +8,12 @@ alignment.
 
 """
 
+import sys
+
 import pandas
 import argparse
-from lingpy import LexStat, Alignments
 import pyclpa.util
+from lingpy import LexStat, Alignments
 
 
 def cognate_detect(segments):
@@ -29,6 +31,8 @@ parser.add_argument("filename", default="all_data.tsv", nargs="?",
                     help="Input filename containing word lists")
 parser.add_argument("--keep-orthographic", default=False, action='store_true',
                     help="Do not remove orthographic variants")
+parser.add_argument("--within-meaning", default=False, action='store_true',
+                    help="Split cross-semantic cognate classes at meaning boundaries")
 args = parser.parse_args()
 
 data = pandas.io.parsers.read_csv(
@@ -41,15 +45,20 @@ data = pandas.io.parsers.read_csv(
 if not args.keep_orthographic:
     data = data[~data["Language_ID"].str.endswith("-o")]
 
-replacement = {
-    'Feature_ID': 'CONCEPT_ID',
-    'Language_ID': 'DOCULECT_ID',
-    'Cognate Set': 'COGNATE_SET',
-    'English': 'CONCEPT',
-    'Language name (-dialect)': 'DOCULECT',
-    'Value': 'IPA'}
-cols = [replacement.get(c, c.upper()) for c in data.columns]
-data.columns = cols
+
+def cldf_to_lingpy(data, replacement={
+        'Feature_ID': 'CONCEPT_ID',
+        'Language_ID': 'DOCULECT_ID',
+        'Cognate Set': 'COGNATE_SET',
+        'English': 'CONCEPT',
+        'Language name (-dialect)': 'DOCULECT',
+        'Value': 'IPA'}):
+    """Turn CLDF column headers into LingPy column headers."""
+    cols = [replacement.get(c, c.upper()) for c in data.columns]
+    data.columns = cols
+
+
+cldf_to_lingpy(data)
 
 
 def tokenize(form,
@@ -59,6 +68,8 @@ def tokenize(form,
                  "ä": "a",
                  "ε": "ɛ",
                  "é": "e",
+                 "á": "a",
+                 "í": "i",
                  "Ɂ": "ʔ",
                  "ˈ": "'",
                  ":": "ː",
@@ -167,7 +178,13 @@ scorer = lex.bscorer
 
 cognates = pandas.read_csv(
     'tap-cognates.tsv', sep='\t', keep_default_na=False, na_values=[""],
-    skiprows=[0, 1, 2])
+    skiprows=[0, 1, 2, 4])
+
+cognates = cognates[~(
+    pandas.isnull(cognates["DOCULECT"])
+    | pandas.isnull(cognates["CONCEPT_ID"]))]
+
+cognates.sort_values(by="DOCULECT", inplace=True)
 
 cognates["LONG_COGID"] = None
 for i, row in cognates.iterrows():
@@ -178,7 +195,7 @@ for i, row in cognates.iterrows():
                            cognates["COGNATE_SET"][representative])
     else:
         cognates.set_value(i, "LONG_COGID", row["COGNATE_SET"])
-         
+
 short = {"Austronesian": "AN",
          "Timor-Alor-Pantar": "TAP"}
 cognates["DOCULECT"] = [
@@ -189,18 +206,28 @@ cognates["DOCULECT"] = [
     for lect, family, region in zip(
             cognates["DOCULECT"], cognates["FAMILY"], cognates["REGION"])]
 
-cognates.sort_values(by="DOCULECT", inplace=True)
-
 COG_IDs = []
-for i in cognates["LONG_COGID"]:
-    if i not in COG_IDs:
-        COG_IDs.append(i)
-cognates["COGID"] = [COG_IDs.index(x) for x in cognates["LONG_COGID"]]
+if args.within_meaning:
+    for _, i in cognates[["LONG_COGID", "CONCEPT_ID"]].iterrows():
+        i = tuple(i)
+        if i not in COG_IDs:
+            COG_IDs.append(i)
+    cognates["COGID"] = [
+        COG_IDs.index(tuple(x))
+        for _, x in cognates[["LONG_COGID", "CONCEPT_ID"]].iterrows()]
+else:
+    for i in cognates["LONG_COGID"]:
+        if i not in COG_IDs:
+            COG_IDs.append(i)
+    cognates["COGID"] = [
+        COG_IDs.index(x)
+        for x in cognates["LONG_COGID"]]
 cognates.to_csv("tap-cognates-merged.tsv",
                 index=False,
                 na_rep="",
                 sep="\t")
 
+sys.exit()
 
 # align data
 alm = Alignments('tap-cognates-merged.tsv', ref='COGID', segments='ALIGNMENT',
