@@ -1,6 +1,22 @@
 {
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/beupuramk20160511wordlist.tsv",
-  "id": "beupuramk20160511wordlist",
-  "name": "BEU_Pura_MK_2016_05_11_word list"
+	"language": "pura1258",
+	"sources": [{
+		"recorders": ["Marian Klamer"],
+		"date": ["2016-05-10", "2016-05-11"],
+		"location": "Dadibira, Pura island",
+		"speakers": [{
+			"name": "Waanisa Djainangga",
+			"speaker code": "WD"
+		}, {
+			"name": "Markus Teramahi",
+			"speaker code": "MT"
+		}]
+	}],
+	"transcriber": ["Marian Klamer"],
+	"date of transcription": "2016-05-24 till 2016-05-27",
+	"location of transcription": ["Kalabahi, Alor island", "Kuta, Bali island"],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/beupuramk20160511wordlist.tsv",
+	"id": "beupuramk20160511wordlist",
+	"name": "BEU_Pura_MK_2016_05_11_word list"
 }
