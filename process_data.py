@@ -39,6 +39,7 @@ try:
     from clld.db.meta import DBSession
     from clld.db.models import common
     Dataset = common.Dataset
+    Editor = common.Editor
     Contributor = common.Contributor
     ContributionContributor = common.ContributionContributor
     ValueSet = common.ValueSet
@@ -75,7 +76,8 @@ except ImportError:
         def __init__(self, *args, **kwargs):
             """Ignore everything."""
             pass
-    Dataset = Contributor = ContributionContributor = ValueSet = Ignore
+    Dataset = Editor = Contributor = ContributionContributor = ValueSet = (
+        Ignore)
     LexibankLanguage = Concept = Provider = Counterpart = Ignore
     CognatesetCounterpart = Cognateset = Ignore
     Family = Ignore
@@ -455,14 +457,17 @@ def import_contribution(
             for cognate in [row["Cognate Set"]]:
                 if type(cognate) == float:
                     cognate = int(cognate)
-                cognateset_id = hash(cognate)
+                elif type(cognate) == int:
+                    pass
+                else:
+                    cognateset_id = hash(cognate)
                 try:
                     cognateset = cognatesets[cognateset_id]
                 except KeyError:
                     cognateset = cognatesets[cognateset_id] = Cognateset(
                         id=cognateset_id,
                         contribution=contrib,
-                        name=cognateset_id)
+                        name=cognate)
                     print("Created cognate class", cognate)
                 DBSession.add(
                     CognatesetCounterpart(
@@ -517,19 +522,39 @@ def db_main(trust=[languages_path, concepticon_path]):
     """
     with open("metadata.json") as md:
         dataset_metadata = json.load(md)
-    DBSession.add(
-        Dataset(
-            id=dataset_metadata["id"],
-            name=dataset_metadata["name"],
-            publisher_name=dataset_metadata["publisher_name"],
-            publisher_place=dataset_metadata["publisher_place"],
-            publisher_url=dataset_metadata["publisher_url"],
-            license=dataset_metadata["license"],
-            domain=dataset_metadata["domain"],
-            contact=dataset_metadata["contact"],
-            jsondata={
-                'license_icon': dataset_metadata["license_icon"],
-                'license_name': dataset_metadata["license_name"]}))
+
+    ds = Dataset(
+        id=dataset_metadata["id"],
+        name=dataset_metadata["name"],
+        publisher_name=dataset_metadata["publisher_name"],
+        publisher_place=dataset_metadata["publisher_place"],
+        publisher_url=dataset_metadata["publisher_url"],
+        license=dataset_metadata["license"],
+        domain=dataset_metadata["domain"],
+        contact=dataset_metadata["contact"],
+        jsondata={
+            'license_icon': dataset_metadata["license_icon"],
+            'license_name': dataset_metadata["license_name"]})
+    DBSession.add(ds)
+
+    contributors = {}
+    primary = True
+    for i, editor in enumerate(dataset_metadata["editors"]):
+        if not editor:
+            primary = False
+            continue
+        contributor_name = HumanName(editor)
+        contributor_id = ("ED" + contributor_name.last + contributor_name.first)
+        # FIXME: Don't use ID hack, instead hand contributors dict
+        # through.
+        try:
+            contributor = contributors[contributor_id]
+        except KeyError:
+            contributors[contributor_id] = contributor = Contributor(
+                id=contributor_id,
+                name=str(contributor_name))
+        DBSession.add(Editor(dataset=ds, contributor=contributor,
+                             ord=i, primary=primary))
 
     concepticon = import_concepticon()
     languages = import_languages()
