@@ -1,6 +1,20 @@
 {
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/kemmk2002wordlist.tsv",
-  "id": "kemmk2002wordlist",
-  "name": "KEM_MK_2002_word list"
+	"language": "kema1243",
+	"sources": [{
+		"recorders": ["Marian Klamer"],
+		"date": "2002-05-09, Thursday",
+		"location": "Atabai (2 hours from Dili)",
+		"assistant": [{
+			"name": "Alfredo Tawares",
+			"notes": "student, 25 years old"
+		}],
+		"speakers": [{
+			"name": "Alfredo Manuel Leite",
+			"notes": "48 years old, also speaks Tetum and Indonesian"
+		}]
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/kemmk2002wordlist.tsv",
+	"id": "kemmk2002wordlist",
+	"name": "KEM_MK_2002_word list"
 }

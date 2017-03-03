@@ -1,6 +1,20 @@
 {
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/mgmmk2002wordlist.tsv",
-  "id": "mgmmk2002wordlist",
-  "name": "MGM_MK_2002_word list"
+	"language": "mamb1306",
+	"sources": [{
+		"recorders": ["Marian Klamer"],
+		"date": "2002-05-14, Tuesday",
+		"location": "Ainaro (4 hours from Dili)",
+		"assistant": [{
+			"name": "Jorge de Orleans",
+			"notes": "student, 20+ years old"
+		}],
+		"speakers": [{
+			"name": "Cesario Magno Sarmento",
+			"notes": "54 years old, director Presecondaria (SMP), speaks Indonesian and Portuguese fluently"
+		}]
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/mgmmk2002wordlist.tsv",
+	"id": "mgmmk2002wordlist",
+	"name": "MGM_MK_2002_word list"
 }
