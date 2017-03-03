@@ -1,6 +1,20 @@
 {
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/tkdmk2002wordlist.tsv",
-  "id": "tkdmk2002wordlist",
-  "name": "TKD_MK_2002_word list"
+	"language": "tuku1254",
+	"sources": [{
+		"recorders": ["Marian Klamer"],
+		"date": "2002-05-10, Friday",
+		"location": "Mauboke (west of Liquiçá, 1 hour from Dili)",
+		"assistant": [{
+			"name": "Maria Pareira Lobato",
+			"notes": "student, 26 years old"
+		}],
+		"speakers": [{
+			"name": "Mario Ataidi do Rego",
+			"notes": "70 years old, farmer, illiterate. Speaks Tetum, a little Indonesian and Portuguese"
+		}]
+	}],
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/tkdmk2002wordlist.tsv",
+	"id": "tkdmk2002wordlist",
+	"name": "TKD_MK_2002_word list"
 }
