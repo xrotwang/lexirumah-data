@@ -1,5 +1,45 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-33	coral (rock)	alor1247-pandai	Alorese-Pandai	Austronesian		'aŋgɛ	nan	nan	nan	nan		
+0	sky	alor1247-pandai	Alorese-Pandai	Austronesian		'kalːeŋ	nan	nan	('sky', 'adon1237', 'ˈkɜlɜ')	nan		
+1	sun	alor1247-pandai	Alorese-Pandai	Austronesian		lə'rːa	nan	nan	('sun', 'adon1237', 'ˈrɜra')	nan		
+2	moon	alor1247-pandai	Alorese-Pandai	Austronesian		'wulaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+3	star	alor1247-pandai	Alorese-Pandai	Austronesian		tə'mala	nan	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
+4	night	alor1247-pandai	Alorese-Pandai	Austronesian		ma'rːeŋ	nan	nan	"('night', 'alor1247-baran', ""ma'reŋ"")"	nan		
+5	day	alor1247-pandai	Alorese-Pandai	Austronesian		la'rːa	nan	nan	"('day', 'adon1237', ""rɜ'_rɔ̃"")"	nan		
+6	year	alor1247-pandai	Alorese-Pandai	Austronesian		'tuŋ	nan	nan	('year', 'abui1241-petle', 'tuŋ')	nan		
+7	morning	alor1247-pandai	Alorese-Pandai	Austronesian		kə'ramaŋ	nan	nan	"('morning', 'alor1247-pandai', ""kə'ramaŋ"")"	nan		
+7	morning	alor1247-pandai	Alorese-Pandai	Austronesian		'wura	nan	nan	"('morning', 'alor1247-munas', ""'wuraʔ"")"	nan		
+8	yesterday	alor1247-pandai	Alorese-Pandai	Austronesian		'wiaŋ	nan	nan	('yesterday', 'adon1237', 'ˈwia')	nan		
+9	day before yesterday	alor1247-pandai	Alorese-Pandai	Austronesian		'ɛrua 'hele	nan	nan	"('day before yesterday', 'alor1247-munas', ""'aru_'hɛlɛ"")"	nan		
+10	tomorrow	alor1247-pandai	Alorese-Pandai	Austronesian		'bau	nan	nan	('tomorrow', 'adon1237', 'ˈbauk')	nan		
+11	day after tomorrow	alor1247-pandai	Alorese-Pandai	Austronesian		'ɛrua 	nan	nan	"('day after tomorrow', 'adon1237', ""ʔɜrɜ_'rua"")"	nan		
+12	twilight; dawn	alor1247-pandai	Alorese-Pandai	Austronesian		'subu	nan	nan	"('twilight; dawn', 'alor1247-pandai', ""'subu"")"	nan		
+12	twilight; dawn	alor1247-pandai	Alorese-Pandai	Austronesian		'manu 'kɔkɔŋ	literally 'chicken crows'	nan	"('twilight; dawn', 'alor1247-pandai', ""'manu_'kɔkɔŋ"")"	nan		
+12	twilight; dawn	alor1247-pandai	Alorese-Pandai	Austronesian		'ɛkaŋ 'dahek	nan	nan	"('twilight; dawn', 'adon1237', ""ʔekã_'dahe"")"	nan		
+13	cloud	alor1247-pandai	Alorese-Pandai	Austronesian		'awaŋ	nan	nan	"('cloud', 'alor1247-pandai', ""'awaŋ"")"	nan		
+13	cloud	alor1247-pandai	Alorese-Pandai	Austronesian		'sapːu	I don't know what this word means, probably another word for cloud	nan	"('cloud', 'alor1247-pandai', ""'sapːu"")"	nan		
+14	wind	alor1247-pandai	Alorese-Pandai	Austronesian		'aŋiŋ	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
+15	rain	alor1247-pandai	Alorese-Pandai	Austronesian		'uraŋ	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
+16	drizzle	alor1247-pandai	Alorese-Pandai	Austronesian		'uraŋ 'rɛrɛ	nan	nan	"('drizzle', 'alor1247-besar', ""'uraŋ_fa'rɛha-fa'rɛha"")"	nan		
+16	drizzle	alor1247-pandai	Alorese-Pandai	Austronesian		'uraŋ 'sarːik	nan	nan	"('drizzle', 'alor1247-besar', ""'uraŋ_fa'rɛha-fa'rɛha"")"	nan		
+17	rainbow	alor1247-pandai	Alorese-Pandai	Austronesian		'tata 'bai	nan	nan	"('rainbow', 'alor1247-besar', ""'tata_bei-bei"")"	nan		
+18	thunder	alor1247-pandai	Alorese-Pandai	Austronesian		'hila	nan	nan	"('thunder', 'alor1247-besar', ""'hila"")"	nan		
+19	lightning	alor1247-pandai	Alorese-Pandai	Austronesian		'hila 'biloŋ	nan	nan	"('lightning', 'adon1237', ""kɜ'hilat"")"	nan		
+20	earthquake	alor1247-pandai	Alorese-Pandai	Austronesian		'tana 'otaŋ	literally 'earth shake'	nan	"('earthquake', 'alor1247-besar', ""'tana_'ɔdʒaŋ"")"	nan		
+20	earthquake	alor1247-pandai	Alorese-Pandai	Austronesian		'ɛkaŋ 'otaŋ	literally 'place shake'	nan	"('earthquake', 'alor1247-munas', ""'ɛkaŋ_'ɔtaŋ"")"	nan		
+21	fog	alor1247-pandai	Alorese-Pandai	Austronesian		'ɛkaŋ 'lu	nan	nan	"('fog', 'alor1247-pandai', ""'ɛkaŋ_'lu"")"	nan		
+22	river; stream	alor1247-pandai	Alorese-Pandai	Austronesian		'alu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+23	ice	alor1247-pandai	Alorese-Pandai	Austronesian		'ɛs	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+24	snow	alor1247-pandai	Alorese-Pandai	Austronesian		'salʤu	nan	nan	"('snow', 'alor1247-baran', ""'salʤu"")"	nan		
+25	lake	alor1247-pandai	Alorese-Pandai	Austronesian		'kɔlaŋ	nan	nan	"('lake', 'alor1247-munas', ""'kɔlaŋ_'nɛbɔk"")"	nan		
+26	mountain	alor1247-pandai	Alorese-Pandai	Austronesian		'wɔtɔ 'blɔlɔ	nan	nan	"('mountain', 'alor1247-munas', ""'wɔtɔ_b'lɔlɔk"")"	nan		
+27	hill; ridge	alor1247-pandai	Alorese-Pandai	Austronesian		'wɔtɔ	nan	nan	"('hill; ridge', 'alor1247-munas', ""'wɔtɔ_'wɛrɔʔ"")"	nan		
+28	village	alor1247-pandai	Alorese-Pandai	Austronesian		'lawɔ	nan	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		
+29	land; soil	alor1247-pandai	Alorese-Pandai	Austronesian		'tana	nan	nan	('land; soil', 'abui1241-fuime', 'anei')	nan		
+30	Earth	alor1247-pandai	Alorese-Pandai	Austronesian		'bumi	nan	nan	"('Earth', 'alor1247-besar', ""'bumi"")"	nan		
+31	hole	alor1247-pandai	Alorese-Pandai	Austronesian		'waŋɡɔ	nan	nan	"('hole', 'alor1247-munas', ""'waŋɔʔ"")"	nan		
+32	stone	alor1247-pandai	Alorese-Pandai	Austronesian		'watɔ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+33	coral (rock)	alor1247-pandai	Alorese-Pandai	Austronesian		'uhuŋ	nan	nan	"('coral (rock)', 'alor1247-pandai', ""'uhuŋ"")"	nan		
+33	coral (rock)	alor1247-pandai	Alorese-Pandai	Austronesian		'aŋgɛ	nan	nan	"('coral (rock)', 'alor1247-pandai', ""'aŋgɛ"")"	nan		
 34	(coral) reef	alor1247-pandai	Alorese-Pandai	Austronesian		'uhuŋ	nan	nan	nan	nan		
 35	water (fresh)	alor1247-pandai	Alorese-Pandai	Austronesian		'wai	nan	nan	nan	nan		
 36	sea; sea water	alor1247-pandai	Alorese-Pandai	Austronesian		'tahi	nan	nan	nan	nan		
