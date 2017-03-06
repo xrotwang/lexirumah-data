@@ -22,7 +22,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 20	earthquake	earthquake	gempa bumi	The physical world			earthquake	earthquake	20.0	6	EARTHQUAKE (noun)	3.0
 21	fog	fog	kabut	The physical world			fog	fog	21.0	249	FOG (noun)	3.0
 22	riverstream	"river; stream"	"sungai; kali"	The physical world			"river; stream"	"river; stream"	22.0	666	RIVER (noun)	3.0
-22		river	 Sungai		from Keraf		river	RIVER				
+1022		river	 Sungai		from Keraf		river	RIVER				
 23	ice	ice	es	The physical world			ice	ice	23.0	617	ICE (noun)	3.0
 24	snow	snow	salju	The physical world			snow	snow	24.0	784	SNOW (noun)	3.0
 25	lake	lake	danau	The physical world			lake	lake	25.0	624	LAKE (noun)	3.0
@@ -31,15 +31,15 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 28	village	village	"desa; kampung"	Social and political relations			village	village	28.0	930	VILLAGE (noun)	3.0
 29	landsoil	"land; soil"	tanah	The physical world			"land; soil"	"land; soil"	29.0	1015	SOIL (verb)	3.0
 30	earth	Earth	bumi	The physical world			Earth	Earth	30.0	1228	EARTH (SOIL) (noun)	3.0
-30		earth	 Tanah		from Keraf		earth	EARTH				
+1030		earth	 Tanah		from Keraf		earth	EARTH				
 31	hole	hole	lubang	Spatial relations			hole	hole	31.0	1667	HOLE (noun)	3.0
 32	stone	stone	batu	The physical world			stone	stone	32.0	1762	STONE (OF FRUIT) (noun)	3.0
 33	coralrock	coral (rock)	batu karang	The physical world			coral (rock)	coral (rock)	33.0	???	???	8.0
 34	coralreef	(coral) reef	karang	The physical world			(coral) reef	(coral) reef	34.0	660	REEF (noun)	3.0
 35	waterfresh	water (fresh)	air	The physical world			water (fresh)	water (fresh)	35.0	948	WATER (noun)	3.0
-35		water	 Air		from Keraf		water	WATER				
+1035		water	 Air		from Keraf		water	WATER				
 36	seaseawater	"sea; sea water"	"laut; air laut"	The physical world			"sea; sea water"	"sea; sea water"	36.0	1474	SEA (noun)	3.0
-36		sea	 Laut		from Keraf		sea	SEA				
+1036		sea	 Laut		from Keraf		sea	SEA				
 37	wave	wave	ombak	The physical world			wave	wave	37.0	978	WAVE (noun)	3.0
 38	foam	foam	busa	The physical world			foam	foam	38.0	1768	FOAM (noun)	3.0
 39	forest	forest	hutan	The physical world			forest	forest	39.0	420	FOREST (noun)	3.0
@@ -49,7 +49,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 43	garden	garden	kebun	Agriculture and vegetation			garden	garden	43.0	586	GARDEN (noun)	3.0
 44	fence	fence	pagar	Agriculture and vegetation			fence	fence	44.0	1690	FENCE (noun)	3.0
 45	roadpathway	"road; path; way"	jalanan	Motion			"road; path; way"	"road; path; way"	45.0	667	ROAD (noun)	3.0
-45		road	 Jalan		from Keraf		road	ROAD				
+1045		road	 Jalan		from Keraf		road	ROAD				
 46	canoe	canoe	"perahu; sampan"	Motion			canoe	canoe	46.0	1970	CANOE (noun)	3.0
 47	sailn	sail (n.)	layar	Motion			sail (n.)	sail (n.)	47.0	787	SAIL (verb)	3.0
 48	_sail	to sail	berlayar	Motion			to sail	to sail	48.0	787	SAIL (verb)	2.0
@@ -75,14 +75,14 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 68	smoke	smoke	asap	The physical world			smoke	smoke	68.0	1689	SMOKE (INHALE) (verb)	3.0
 69	ash	ash	abu	The physical world			ash	ash	69.0	646	ASH (noun)	3.0
 70	dustfineear	"dust; fine earth"	debu	The physical world			"dust; fine earth"	"dust; fine earth"	70.0	2	DUST (noun)	3.0
-70		dust	 Debu		from Keraf		dust	DUST				
+1070		dust	 Debu		from Keraf		dust	DUST				
 71	fireplaceas	fireplace ash	abu tungku	The physical world			fireplace ash	fireplace ash	71.0	185	FIREPLACE (noun)	5.0
 72	mud	mud	lumpur	The physical world			mud	mud	72.0	640	MUD (noun)	3.0
 73	clay	clay	tanah liat	The physical world			clay	clay	73.0	1399	CLAY (noun)	3.0
 74	gravel	gravel	(batu) kerikil	The physical world			gravel	gravel	74.0	0	???	8.0
 75	sand	sand	pasir	The physical world			sand	sand	75.0	671	SAND (noun)	3.0
 76	grassbrush	"grass; brush"	rumput	Agriculture and vegetation			"grass; brush"	"grass; brush"	76.0	1821	BRUSH (noun)	3.0
-76		grass	 Rumput		from Keraf		grass	GRASS				
+1076		grass	 Rumput		from Keraf		grass	GRASS				
 77	house	house	rumah	The house			house	house	77.0	1252	HOUSE (noun)	3.0
 78	traditional	traditional house	rumah adat	Religion and belief			traditional house	traditional house	78.0	???	???	8.0
 79	barnstorage	"barn; storage house"	gudang	Agriculture and vegetation			"barn; storage house"	"barn; storage house"	79.0	???	???	8.0
@@ -138,7 +138,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 129	salt	salt	garam	Food and drink			salt	salt	129.0	1274	SALT (noun)	3.0
 130	fat	fat	lemak	The body			fat	fat	130.0	2449	FAT (OF MEAT AND FOOD) (adjective)	3.0
 131	fleshmeat	"flesh; meat"	daging	The body			"flesh; meat"	"flesh; meat"	131.0	634	MEAT (noun)	3.0
-131		meat	 Daging		from Keraf		meat	MEAT				
+1131		meat	 Daging		from Keraf		meat	MEAT				
 132	bone	bone	tulang	The body			bone	bone	132.0	1394	BONE (noun)	3.0
 133	rib	rib	tulang rusuk	The body			rib	rib	133.0	801	RIB (noun)	3.0
 134	sweat	sweat	keringat	They body			sweat	sweat	134.0	126	SWEAT (PERSPIRE) (verb)	3.0
@@ -152,7 +152,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 142	excrement	excrement	tahi	The body			excrement	excrement	142.0	0	???	8.0
 143	lungs	lungs	paru-paru	The body			lungs	lungs	143.0	688	LUNG (noun)	8.0
 144	stomachbell	"stomach; belly"	perut	The body			"stomach; belly"	"stomach; belly"	144.0	2114	BELLY OR STOMACH (noun)	3.0
-144		belly	 Perut		from Keraf		belly	BELLY				
+1144		belly	 Perut		from Keraf		belly	BELLY				
 145	head	head	kepala	The body			head	head	145.0	1256	HEAD (noun)	3.0
 146	hair	hair	rambut	The body			hair	hair	146.0	1040	HAIR (noun)	3.0
 147	bodyhair	body hair	bulu (orang)	The body			body hair	body hair	147.0	189	BODY HAIR (noun)	3.0
@@ -213,13 +213,13 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 202	slave	slave	budak	Social and political relations			slave	slave	202.0	812	SLAVE (noun)	3.0
 203	1sg	1sg	saya	Kinship			1sg	1sg	203.0	1209	I	8.0
 204	2sginformal	2sg (informal)	"kau; kamu"	Kinship			2sg (informal)	2sg (informal)	204.0	1215	THOU	8.0
-204		"2sg;2pl"	 Engkau/ kamu		from Keraf		"2sg;2pl"	"2SG;2PL"				
+1204		"2sg;2pl"	 Engkau/ kamu		from Keraf		"2sg;2pl"	"2SG;2PL"				
 205	2sgpolite	2sg (polite)	anda	Kinship			2sg (polite)	2sg (polite)	205.0	0	???	8.0
 206	3sg	3sg	dia	Kinship			3sg	3sg	206.0	262	HE OR SHE OR IT	8.0
 207	1plexcl	1pl excl	kami	Kinship			1pl excl	1pl excl	207.0	1130	WE (EXCLUSIVE)	8.0
-207		1pl.exc	 Kami		from Keraf		1pl.exc	1PL.EXC				
+1207		1pl.exc	 Kami		from Keraf		1pl.exc	1PL.EXC				
 208	1plincl	1pl incl	kita	Kinship			1pl incl	1pl incl	208.0	1131	WE (INCLUSIVE)	8.0
-208		1pl.inc	 Kita		from Keraf		1pl.inc	1PL.INC				
+1208		1pl.inc	 Kita		from Keraf		1pl.inc	1PL.INC				
 209	2pl	2pl	kalian	Kinship			2pl	2pl	209.0	1213	YOU 	8.0
 210	3pl	3pl	mereka	Kinship			3pl	3pl	210.0	817	THEY	8.0
 211	nonot	"no; not"	"tidak; bukan"	Miscellaneous function words			"no; not"	"no; not"	211.0	1269	NO	2.0
@@ -228,13 +228,13 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 214	if	if	kalau	Cognition			if	if	214.0	1459	IF	2.0
 215	with	with	dengan	Miscellaneous function words			with	with	215.0	1340	WITH	2.0
 216	what	what?	apa?	Cognition			what?	what?	216.0	1236	WHAT	2.0
-216		what	 Apa		from Keraf		what	WHAT				
+1216		what	 Apa		from Keraf		what	WHAT				
 217	who	who?	siapa?	Cognition			who?	who?	217.0	1235	WHO	2.0
-217		who	 Siapa		from Keraf		who	WHO				
+1217		who	 Siapa		from Keraf		who	WHO				
 218	where	where?	mana? (di/ke/dari mana?)	Cognition			where?	where?	218.0	1237	WHERE	2.0
-218		where	 Di mana		from Keraf		where	WHERE				
+1218		where	 Di mana		from Keraf		where	WHERE				
 219	when	when?	kapan?	Cognition			when?	when?	219.0	1238	WHEN	2.0
-219		when	 Bilamana		from Keraf		when	WHEN				
+1219		when	 Bilamana		from Keraf		when	WHEN				
 220	why	why?	mengapa?	Cognition			why?	why?	220.0	1270	WHY	2.0
 221	howmuchhowm	"how much; how many?"	berapa?	Cognition			"how much; how many?"	"how much; how many?"	221.0	531	HOW MUCH	2.0
 222	how	how?	bagaimana?	Cognition			how?	how?	222.0	1239	HOW	2.0
@@ -247,11 +247,11 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 229	above	above	atas	Spatial relations			above	above	229.0	1741	ABOVE	2.0
 230	below	below	bawah	Spatial relations			below	below	230.0	2094	DOWN OR BELOW	5.0
 231	leftside	left (side)	kiri	Spatial relations			left (side)	left (side)	231.0	244	LEFT (adjective)	3.0
-231		left	 Kiri		from Keraf		left	LEFT				
+1231		left	 Kiri		from Keraf		left	LEFT				
 232	rightside	right (side)	kanan	Spatial relations			right (side)	right (side)	232.0	1019	RIGHT (adjective)	3.0
-232		right	 Kanan		from Keraf		right	RIGHT				
+1232		right	 Kanan		from Keraf		right	RIGHT				
 233	afew	a few	sedikit	Quantity			a few	a few	233.0	1242	FEW	3.0
-233		few	 Sedikit		from Keraf		few	FEW				
+1233		few	 Sedikit		from Keraf		few	FEW				
 234	all	all	semua	Quantity			all	all	234.0	98	ALL	2.0
 235	many	many	banyak	Quantity			many	many	235.0	428	BE MANY	2.0
 236	animal	animal	binatang	Animals			animal	animal	236.0	619	ANIMAL (noun)	3.0
@@ -268,7 +268,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 247	flyinfoxfru	"flying fox; fruit bat"	kalonÁ	Animals			"flying fox; fruit bat"	"flyinÁ fox; fruit bat"	247.0	0	???	5.0
 248	cuscus	cuscus	kuskus	Animals			cuscus	cuscus	248.0	0	???	8.0
 249	tail	tail	ekor	The body			tail	tail	249.0	1220	TAIL (noun)	3.0
-249		tale	 Ekor		from Keraf		tale	TALE				
+1249		tail	 Ekor		from Keraf		tale	TALE				
 250	fish	fish	ikan	Animals			fish	fish	250.0	227	FISH (noun)	3.0
 251	shark	shark	hiu	Animals			shark	shark	251.0	1110	SHARK (noun)	3.0
 252	whale	whale	(ikan) paus	Animals			whale	whale	252.0	957	WHALE (noun)	3.0
@@ -299,13 +299,13 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 277	motherlouse	mother louse	induk kutu kepala	Animals			mother louse	mother louse	277.0	1216	MOTHER (noun)	5.0
 278	flea	flea	kutu anjing	Animals			flea	flea	278.0	232	FLEA (noun)	3.0
 279	louseclothi	louse (clothing)	"tuma; kutu pakaian"	Animals			louse (clothing)	louse (clothing)	279.0	1392	LOUSE (noun)	3.0
-279		louse	 Kutu		from Keraf		louse	LOUSE				
+1279		louse	 Kutu		from Keraf		louse	LOUSE				
 280	bedbug	bedbug	kutu busuk	Animals			bedbug	bedbug	280.0	1949	BEDBUG (noun)	3.0
 281	big	big	besar	Spatial relations			big	big	281.0	1202	BIG (adjective)	3.0
 282	small	small	kecil	Spatial relations			small	small	282.0	2484	SMALL (NOT TALL) (adjective)	3.0
 283	oldwornhous	"old; worn (house)"	(rumah) tua	Time			"old; worn (house)"	"old; worn (house)"	283.0	2113	OLD (USED)	2.0
 284	newhouse	new (house)	(rumah) baru	Time			new (house)	new (house)	284.0	1231	NEW (adjective)	3.0
-284		new	 Baru		from Keraf		new	NEW				
+1284		new	 Baru		from Keraf		new	NEW				
 285	oldpeople	old (people)	(orang) tua	Time			old (people)	old (people)	285.0	2112	OLD (AGED)	2.0
 286	youngpeople	young (people)	(orang) muda	Time			young (people)	young (people)	286.0	564	YOUNG (OF MAN) (adjective)	3.0
 287	lazy	lazy	malas	The body			lazy	lazy	287.0	1564	LAZY (adjective)	3.0
@@ -325,7 +325,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 301	short	short	pendek	Spatial relations			short	short	301.0	1645	SHORT (adjective)	3.0
 302	shortpeople	short (people)	(orang) pendek	Spatial relations			short (people)	short (people)	302.0	2191	LOW (HEIGHT)	3.0
 303	thinnonhuma	thin (non-human)	tipis	Spatial relations			thin (non-human)	thin (non-human)	303.0	2307	THIN (OF HAIR AND LEAF) (adjective)	3.0
-303		thin	 Tipis		from Keraf		thin	THIN				
+1303		thin	 Tipis		from Keraf		thin	THIN				
 304	skinnyhuman	skinny (human)	kurus	Spatial relations			skinny (human)	skinny (human)	304.0	1400	THIN (SLIM)	8.0
 305	thick	thick	tebal	Spatial relations			thick	thick	305.0	1244	THICK (adjective)	3.0
 306	round	round	bulat	Spatial relations			round	round	306.0	1395	ROUND (adjective)	3.0
@@ -335,7 +335,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 310	clean	clean	bersih	Sense perception			clean	clean	310.0	2235	CLEAN (SOMETHING) (verb)	3.0
 311	sharp	sharp	tajam	Sense perception			sharp	sharp	311.0	1396	SHARP (adjective)	3.0
 312	bluntdull	"blunt; dull"	"tumpul; dol"	Sense perception			"blunt; dull"	"blunt; dull"	312.0	1397	DULL (adjective)	3.0
-312		blunt	 Tumpul		from Keraf		blunt	BLUNT				
+1312		blunt	 Tumpul		from Keraf		blunt	BLUNT				
 313	heavy	heavy	berat	Sense perception			heavy	heavy	313.0	1210	HEAVY (adjective)	3.0
 314	lightweight	light (weight)	ringan	Sense perception			light (weight)	light (weight)	314.0	737	LIGHT (IGNITE) (verb)	3.0
 315	straight	straight	lurus	Spatial relations			straight	straight	315.0	1404	STRAIGHT (adjective)	3.0
@@ -350,7 +350,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 324	sour	sour	asam	Sense perception			sour	sour	324.0	1906	SOUR (adjective)	3.0
 325	salty	salty	asin	Sense perception			salty	salty	325.0	1091	SALTY (adjective)	3.0
 326	flat	flat	"rata; datar"	Spatial relations			flat	flat	326.0	1633	FLAT (adjective)	3.0
-326		flat, smooth	 Rata		from Keraf		flat, smooth	FLAT, SMOOTH				
+1326		flat, smooth	 Rata		from Keraf		flat, smooth	FLAT, SMOOTH				
 327	smooth	smooth	"licin; halus"	Sense perception			smooth	smooth	327.0	1234	SMOOTH (adjective)	3.0
 328	rough	rough	kasar	Sense perception			rough	rough	328.0	1923	ROUGH (adjective)	3.0
 329	black	black	hitam	Sense perception			black	black	329.0	163	BLACK (adjective)	3.0
@@ -369,7 +369,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 342	angry	angry	marah	Emotions and values			angry	angry	342.0	1826	ANGRY (adjective)	3.0
 343	_see	to see	lihat	Sense perception			to see	to see	343.0	1409	SEE (verb)	2.0
 344	_hear	to hear	dengar	Sense perception			to hear	to hear	344.0	1408	HEAR (verb)	2.0
-344		listen	 Dengar		from Keraf		listen	LISTEN				
+1344		listen	 Dengar		from Keraf		listen	LISTEN				
 345	_smell	to smell	cium (bau)	Sense perception			to smell	to smell	345.0	1586	SMELL (PERCEIVE) (verb)	2.0
 346	_think	to think	pikir	Cognition			to think	to think	346.0	1415	THINK (REFLECT) (verb)	2.0
 347	_know	to know	tahu	Cognition			to know	to know	347.0	2248	KNOW (SOMEBODY) (verb)	2.0
@@ -391,7 +391,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 363	_swim	to swim	berenang	Motion			to swim	to swim	363.0	1439	SWIM (verb)	2.0
 364	_fly	to fly	terbang	Motion			to fly	to fly	364.0	1441	FLY (MOVE THROUGH AIR) (verb)	2.0
 365	_fallfromabo	to fall (from above)	jatuh (dari atas)	Motion			to fall (from above)	to fall (from above)	365.0	1280	FALL (verb)	2.0
-365		fall	 Jatuh		from Keraf		fall	FALL				
+1365		fall	 Jatuh		from Keraf		fall	FALL				
 366	_fallover	to fall over	tubang	Motion			to fall over	to fall over	366.0	???	???	8.0
 367	_drop	to drop	kasi jatuh (sesuatu)	Motion			to drop	to drop	367.0	750	DROP (verb)	2.0
 368	_drink	to drink	minum	Food and drink			to drink	to drink	368.0	1401	DRINK (verb)	2.0
@@ -400,11 +400,11 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 371	_wash	to wash	cuci	Basic actions and technology			to wash	to wash	371.0	1453	WASH (verb)	2.0
 372	_sew	to sew	jahit	Clothing and grooming			to sew	to sew	372.0	1457	SEW (verb)	2.0
 373	_livebealive	"to live; be alive; living"	"hidup; tidak mati"	The body			"to live; be alive; living"	"to live; be alive; living"	373.0	1422	BE ALIVE (verb)	2.0
-373		alive	 Hidup		from Keraf		alive	ALIVE				
+1373		alive	 Hidup		from Keraf		alive	ALIVE				
 374	_breathe	to breathe	napas	The body			to breathe	to breathe	374.0	1407	BREATHE (verb)	2.0
 375	_work	to work	kerja	Basic actions and technology			to work	to work	375.0	1086	WORK (ACTIVITY) (verb)	2.0
 376	_die	to die	mati	The body			to die	to die	376.0	1494	DIE (verb)	2.0
-376		dead	 Mati		from Keraf		dead	DEAD				
+1376		dead	 Mati		from Keraf		dead	DEAD				
 377	_give	to give	"beri; kasi"	Possession			to give	to give	377.0	1447	GIVE (verb)	2.0
 378	_wipe	to wipe	"seka; lap"	Basic actions and technology			to wipe	to wipe	378.0	1454	WIPE (verb)	2.0
 379	_come	to come	datang	Motion			to come	to come	379.0	1446	COME (verb)	2.0
@@ -413,7 +413,7 @@ Concept ID	Concept ID.1	English	Indonesian	Semantic field	Concept Notes	Core set
 382	_dance	to dance	menari	Motion			to dance	to dance	382.0	1879	DANCE (verb)	2.0
 383	_sing	to sing	menyanyi	Speech and language			to sing	to sing	383.0	1261	SING (verb)	2.0
 384	_burnclearla	to burn (clear land)	bakar (bakar kebun)	Agriculture and vegetation			to burn (clear land)	to burn (clear land)	384.0	141	BURN (SOMETHING) (verb)	2.0
-384		burn	 Membakar		from Keraf		burn	BURN				
+1384		burn	 Membakar		from Keraf		burn	BURN				
 385	_burntoshine	"to burn; to shine"	"bakar; menyala"	Sense perception			"to burn; to shine"	"to burn; to shine"	385.0	708	SHINE (verb)	4.0
 386	_shine	to shine	menyala	Sense perception			to shine	to shine	386.0	708	SHINE (verb)	2.0
 387	_chew	to chew	kunyah	Food and drink			to chew	to chew	387.0	321	CHEW (verb)	2.0
