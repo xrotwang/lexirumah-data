@@ -1,16 +1,22 @@
 {
-	"language": "buna1278-suai",
-	"sources": [{
-		"recorders": ["Marian Klamer"],
-		"date": "2016-01",
-		"location": "Dili, Timor Leste; -9.347048, 125.2717",
-		"speakers": [{
-			"name": "Marta Cardoso",
-			"date of birth": "1986"
-		}]
-	}],
   "abstract": "[No description]",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/bfnsuaimk201601wordlist.tsv",
   "id": "bfnsuaimk201601wordlist",
-  "name": "BFN_Suai_MK_2016_01_word list"
+  "language": "buna1278-suai",
+  "name": "BFN_Suai_MK_2016_01_word list",
+  "sources": [
+    {
+      "date": "2016-01",
+      "location": "Dili, Timor Leste; -9.347048, 125.2717",
+      "recorders": [
+        "Marian Klamer"
+      ],
+      "speakers": [
+        {
+          "date of birth": "1986",
+          "name": "Marta Cardoso"
+        }
+      ]
+    }
+  ]
 }

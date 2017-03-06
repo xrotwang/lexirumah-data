@@ -1,25 +1,35 @@
 {
-	"language": "lama1278",
-	"sources": [{
-		"recorders": ["Marian Klamer", "Yunus Sulistyono"],
-		"date": "2015-05-23",
-		"location": "Eputobi",
-		"speakers": [{
-			"name": "Bernardus Boli Manu",
-			"speaker code": "BBM"
-		}, {
-			"name": "Mariyati Manuk",
-			"speaker code": "MM"
-		}, {
-			"name": "Yohanes Ola Manuk",
-			"speaker code": "YOM"
-		},{
-			"name": "Augustinus Riwu",
-			"speaker code": "AR"
-		}]
-	}], 
-   "abstract": "[No description]",
+  "abstract": "[No description]",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lmhlimk20150524wordlist.tsv",
   "id": "lmhlimk20150524wordlist",
-  "name": "LMH_LI_MK_2015_05_24_word list"
+  "language": "lama1278",
+  "name": "LMH_LI_MK_2015_05_24_word list",
+  "sources": [
+    {
+      "date": "2015-05-23",
+      "location": "Eputobi",
+      "recorders": [
+        "Marian Klamer",
+        "Yunus Sulistyono"
+      ],
+      "speakers": [
+        {
+          "name": "Bernardus Boli Manu",
+          "speaker code": "BBM"
+        },
+        {
+          "name": "Mariyati Manuk",
+          "speaker code": "MM"
+        },
+        {
+          "name": "Yohanes Ola Manuk",
+          "speaker code": "YOM"
+        },
+        {
+          "name": "Augustinus Riwu",
+          "speaker code": "AR"
+        }
+      ]
+    }
+  ]
 }

@@ -1,26 +1,39 @@
 {
-	"language": "cent2245-hewa",
-	"sources": [{
-		"type": "field notes",
-		"recorders": ["Marian Klamer", "Yunus Sulistyono"],
-		"date": "2015-05-14",
-		"location": "Hewa, Flores Timur",
-		"speakers": [{
-			"name": "Maria Ifoni Liwu",
-			"speaker code": "MIL"
-		}, {
-			"name": "Ferfin Lia Olon Liwu",
-			"speaker code": "FLOL"
-		}]
-	}, {
-		"type": "Toolbox dictionary",
-		"date": "2013",
-		"recorders": ["Hanna Fricke"],
-		"location": "Hewa, Kecamatan Wulangitang, Flores Timur, NTT, Indonesia",
-		"authors": ["Hanna Fricke"]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/hwamk20150514wordlist.tsv",
-	"id": "hwamk20150514wordlist",
-	"name": "HWA_MK_2015_05_14_word list"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/hwamk20150514wordlist.tsv",
+  "id": "hwamk20150514wordlist",
+  "language": "cent2245-hewa",
+  "name": "HWA_MK_2015_05_14_word list",
+  "sources": [
+    {
+      "date": "2015-05-14",
+      "location": "Hewa, Flores Timur",
+      "recorders": [
+        "Marian Klamer",
+        "Yunus Sulistyono"
+      ],
+      "speakers": [
+        {
+          "name": "Maria Ifoni Liwu",
+          "speaker code": "MIL"
+        },
+        {
+          "name": "Ferfin Lia Olon Liwu",
+          "speaker code": "FLOL"
+        }
+      ],
+      "type": "field notes"
+    },
+    {
+      "authors": [
+        "Hanna Fricke"
+      ],
+      "date": "2013",
+      "location": "Hewa, Kecamatan Wulangitang, Flores Timur, NTT, Indonesia",
+      "recorders": [
+        "Hanna Fricke"
+      ],
+      "type": "Toolbox dictionary"
+    }
+  ]
 }

@@ -1,13 +1,19 @@
 {
-	"language": "abui1241-takal",
-	"sources": [{
-		"recorders": ["George Saad"],
-		"date": "2015-06-23, 2015-07-28",
-		"location": "Takalelang, Alor, NTT; 8.188656,124.626969",
-		"speakers": ["Dori Lanma"]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abztakalelanggs201505wordlist.tsv",
-	"id": "abztakalelanggs201505wordlist",
-	"name": "ABZ_Takalelang_GS_2015_05_word list"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abztakalelanggs201505wordlist.tsv",
+  "id": "abztakalelanggs201505wordlist",
+  "language": "abui1241-takal",
+  "name": "ABZ_Takalelang_GS_2015_05_word list",
+  "sources": [
+    {
+      "date": "2015-06-23, 2015-07-28",
+      "location": "Takalelang, Alor, NTT; 8.188656,124.626969",
+      "recorders": [
+        "George Saad"
+      ],
+      "speakers": [
+        "Dori Lanma"
+      ]
+    }
+  ]
 }

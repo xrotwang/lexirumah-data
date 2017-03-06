@@ -1,16 +1,22 @@
 {
-	"language": "alor1247-baran",
-	"sources": [{
-		"recorders": ["Marian Klamer"],
-		"date": "2003-05-26",
-		"location": "Kalabahi, Alor, NTT, Indonesia",
-		"speakers": [{
-			"name": "Zakiah Djou",
-			"date of birth": "1972-07-09"
-		}]
-	}],
   "abstract": "[No description]",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/aolbaranusamk2003wordlist.tsv",
   "id": "aolbaranusamk2003wordlist",
-  "name": "AOL_Baranusa_MK_2003_word list"
+  "language": "alor1247-baran",
+  "name": "AOL_Baranusa_MK_2003_word list",
+  "sources": [
+    {
+      "date": "2003-05-26",
+      "location": "Kalabahi, Alor, NTT, Indonesia",
+      "recorders": [
+        "Marian Klamer"
+      ],
+      "speakers": [
+        {
+          "date of birth": "1972-07-09",
+          "name": "Zakiah Djou"
+        }
+      ]
+    }
+  ]
 }

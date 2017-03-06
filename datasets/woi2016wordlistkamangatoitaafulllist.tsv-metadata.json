@@ -1,15 +1,22 @@
 {
-	"language": "kama1365",
-	"sources": [{
-		"type": "filednotes",
-		"location": "Atoitaa",
-		"date": "2010-2011",
-		"recorders": ["Antoinette Schapper"]
-	}, "Antoinette and Marten Manimau (2011). Kamus Pengantar Bahasa Kamang-Indonesia-Inggris. Kupang: Unit Bahasa dan Budaya (UBB)."],
-	"transcriber": ["Emily Maas"],
-	"date of transcription": "2016-12",
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/woi2016wordlistkamangatoitaafulllist.tsv",
-	"id": "woi2016wordlistkamangatoitaafulllist",
-	"name": "WOI_2016_word list Kamang-Atoitaa_full list"
+  "abstract": "[No description]",
+  "date of transcription": "2016-12",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/woi2016wordlistkamangatoitaafulllist.tsv",
+  "id": "woi2016wordlistkamangatoitaafulllist",
+  "language": "kama1365",
+  "name": "WOI_2016_word list Kamang-Atoitaa_full list",
+  "sources": [
+    {
+      "date": "2010-2011",
+      "location": "Atoitaa",
+      "recorders": [
+        "Antoinette Schapper"
+      ],
+      "type": "filednotes"
+    },
+    "Antoinette and Marten Manimau (2011). Kamus Pengantar Bahasa Kamang-Indonesia-Inggris. Kupang: Unit Bahasa dan Budaya (UBB)."
+  ],
+  "transcriber": [
+    "Emily Maas"
+  ]
 }

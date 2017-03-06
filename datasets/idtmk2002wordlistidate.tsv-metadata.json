@@ -1,16 +1,22 @@
 {
-	"language": "fata1247",
-	"sources": [{
-		"recorders": ["Marian Klamer"],
-		"date": "2002-05-12, Sunday",
-		"location": "Kalohan (desa Bora Mane Lima, close to Laclubar, 3,5 hours from Dili)",
-		"speakers": [{
-			"name": "Louis Soares",
-			"notes": "24 years old, nurse"
-		}]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/idtmk2002wordlistidate.tsv",
-	"id": "idtmk2002wordlistidate",
-	"name": "IDT_MK_2002_word list Idate"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/idtmk2002wordlistidate.tsv",
+  "id": "idtmk2002wordlistidate",
+  "language": "fata1247",
+  "name": "IDT_MK_2002_word list Idate",
+  "sources": [
+    {
+      "date": "2002-05-12, Sunday",
+      "location": "Kalohan (desa Bora Mane Lima, close to Laclubar, 3,5 hours from Dili)",
+      "recorders": [
+        "Marian Klamer"
+      ],
+      "speakers": [
+        {
+          "name": "Louis Soares",
+          "notes": "24 years old, nurse"
+        }
+      ]
+    }
+  ]
 }
