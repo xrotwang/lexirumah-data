@@ -155,7 +155,10 @@ if __name__ == "__main__":
 
         data["ALIGNMENT"] = list(alignment(data))
 
+        import pdb
+        pdb.set_trace()
         data["COGNATE_SET"] = [
+            "" if (i=='nan' or pandas.isnull(i) or not i) else
             list(set(data["COGNATE_SET"])).index(i)
             for i in data["COGNATE_SET"]]
 
@@ -178,7 +181,8 @@ if __name__ == "__main__":
                     method='lexstat',
                     ref='auto_cogid',
                     threshold=0.8)
-        lex.output("tsv", filename="tap-cognates", ignore="all", prettify=True)
+        lex.output("tsv", filename="tap-cognates", ignore="all",
+                   prettify=False)
         scorer = lex.bscorer
 
     if args.start <= 2:
@@ -195,14 +199,15 @@ if __name__ == "__main__":
         cognates["LONG_COGID"] = None
         import pdb
         pdb.set_trace()
-        for i, row in cognates.iterrows():
-            if (pandas.isnull(row["COGNATE_SET"]) or row["COGNATE_SET"] == "nan"):
+        for i, row in list(cognates.iterrows()):
+            cognateset = row["COGNATE_SET"]
+            if cognateset == "nan" or not cognateset or pandas.isnull(
+                    cognateset):
                 cogid = row["AUTO_COGID"]
-                representative = (cognates["AUTO_COGID"] == cogid).argmin()
+                representatives = cognates[cognates["AUTO_COGID"] == cogid]
+                representative = representatives.iloc[0]
                 cognates.set_value(i, "LONG_COGID",
-                                cognates["COGNATE_SET"][representative])
-                print(row)
-                print(cognates.iloc[representative])
+                                   representative["COGNATE_SET"])
             else:
                 cognates.set_value(i, "LONG_COGID", row["COGNATE_SET"])
 
