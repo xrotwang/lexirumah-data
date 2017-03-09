@@ -1,15 +1,21 @@
 {
-	"language": "kula1280-lanto",
-	"sources": [{
-		"recorders": ["Hannah Choi"],
-		"location": "Lantoka",
-		"speakers": [{
-			"name": "Penipius Mosali",
-			"speaker code": "PM"
-		}]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/tpghc20151002wordlist.tsv",
-	"id": "tpghc20151002wordlist",
-	"name": "TPG_HC_2015_10_02_word list"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/tpghc20151002wordlist.tsv",
+  "id": "tpghc20151002wordlist",
+  "language": "kula1280-lanto",
+  "name": "TPG_HC_2015_10_02_word list",
+  "sources": [
+    {
+      "location": "Lantoka",
+      "recorders": [
+        "Hannah Choi"
+      ],
+      "speakers": [
+        {
+          "name": "Penipius Mosali",
+          "speaker code": "PM"
+        }
+      ]
+    }
+  ]
 }

@@ -1,18 +1,25 @@
 {
-	"language": " maka1316",
-	"sources": [{
-		"recorders": ["Marian Klamer", "Benny Delpada"],
-		"date": "2016-01-12",
-		"location": "Nakroman, Los Palos",
-		"speakers": [{
-			"name": "Laurentino Tawares",
-			"speaker code": "LT",
-			"location": "Trisula, Los Palos, -8.439363, 126.982125",
-			"date of birth": "1987"
-		}]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/mkzmk20160112wordlist.tsv",
-	"id": "mkzmk20160112wordlist",
-	"name": "MKZ_MK_2016_01_12_word list"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/mkzmk20160112wordlist.tsv",
+  "id": "mkzmk20160112wordlist",
+  "language": " maka1316",
+  "name": "MKZ_MK_2016_01_12_word list",
+  "sources": [
+    {
+      "date": "2016-01-12",
+      "location": "Nakroman, Los Palos",
+      "recorders": [
+        "Marian Klamer",
+        "Benny Delpada"
+      ],
+      "speakers": [
+        {
+          "date of birth": "1987",
+          "location": "Trisula, Los Palos, -8.439363, 126.982125",
+          "name": "Laurentino Tawares",
+          "speaker code": "LT"
+        }
+      ]
+    }
+  ]
 }

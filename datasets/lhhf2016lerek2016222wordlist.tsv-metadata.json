@@ -1,21 +1,28 @@
 {
-	"language": "sout2896-lerek",
-	"sources": [{
-		"recorders": ["Hanna Fricke"],
-		"date": "2015-05-16, 2015-05-17",
-		"location": "Kalikasa, Kecamatan Atadei, Lembata, NTT, Indonesia",
-		"speakers": [{
-			"name": "Bernardus Boli Koban",
-			"speaker code": "BBK",
-			"origin": "Lerek, Kecamatan Atadei, Lembata, NTT, Indonesia"
-		}, {
-			"name": "Helena Helu Lajar",
-			"speaker code": "HHL",
-			"origin": "Lerek, Kecamatan Atadei, Lembata, NTT, Indonesia"
-		}]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lhhf2016lerek2016222wordlist.tsv",
-	"id": "lhhf2016lerek2016222wordlist",
-	"name": "LH_HF_2016_Lerek_2016_2_22_wordlist"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lhhf2016lerek2016222wordlist.tsv",
+  "id": "lhhf2016lerek2016222wordlist",
+  "language": "sout2896-lerek",
+  "name": "LH_HF_2016_Lerek_2016_2_22_wordlist",
+  "sources": [
+    {
+      "date": "2015-05-16, 2015-05-17",
+      "location": "Kalikasa, Kecamatan Atadei, Lembata, NTT, Indonesia",
+      "recorders": [
+        "Hanna Fricke"
+      ],
+      "speakers": [
+        {
+          "name": "Bernardus Boli Koban",
+          "origin": "Lerek, Kecamatan Atadei, Lembata, NTT, Indonesia",
+          "speaker code": "BBK"
+        },
+        {
+          "name": "Helena Helu Lajar",
+          "origin": "Lerek, Kecamatan Atadei, Lembata, NTT, Indonesia",
+          "speaker code": "HHL"
+        }
+      ]
+    }
+  ]
 }

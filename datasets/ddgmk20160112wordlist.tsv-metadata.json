@@ -1,21 +1,29 @@
 {
-
-	"language": "fata1247",
-	"sources": [{
-		"recorders": ["Marian Klamer", "Benny Delpada"],
-		"date": "2016-01-12",
-		"location": "Nakroman, Los Palos",
-		"speakers": [{
-			"name": "Laurentino Tawares",
-			"speaker code": "LT",
-			"date of birth": "1987",
-			"location": "Trisula, Los Palos; -8.439363, 126.982125",
-			"notes": "Bilingual in Makasae/Fataluku: Makasae home language of parents, Fataluku language of village community."
-		}]
-	}],
-	"transcriber": ["Marian Klamer"],
   "abstract": "[No description]",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/ddgmk20160112wordlist.tsv",
   "id": "ddgmk20160112wordlist",
-  "name": "DDG_MK_2016_01_12_word list"
+  "language": "fata1247",
+  "name": "DDG_MK_2016_01_12_word list",
+  "sources": [
+    {
+      "date": "2016-01-12",
+      "location": "Nakroman, Los Palos",
+      "recorders": [
+        "Marian Klamer",
+        "Benny Delpada"
+      ],
+      "speakers": [
+        {
+          "date of birth": "1987",
+          "location": "Trisula, Los Palos; -8.439363, 126.982125",
+          "name": "Laurentino Tawares",
+          "notes": "Bilingual in Makasae/Fataluku: Makasae home language of parents, Fataluku language of village community.",
+          "speaker code": "LT"
+        }
+      ]
+    }
+  ],
+  "transcriber": [
+    "Marian Klamer"
+  ]
 }

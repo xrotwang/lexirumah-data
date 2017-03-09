@@ -1,17 +1,23 @@
 {
-	"language": "abui1241-fuime",
-	"sources": [{
-		"recorders": ["Antoinette Schapper"],
-		"date": "2010-07-17",
-		"location": "Fuimelang(Atengmelang)",
-		"speakers": [{
-			"name": "Filmon Benjamin Manikari",
-			"date of birth": "1969",
-			"place of birth": "Fuimelang"
-		}]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abzfuimelangas2010wordlist.tsv",
-	"id": "abzfuimelangas2010wordlist",
-	"name": "ABZ_Fuimelang_AS_2010_word list"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abzfuimelangas2010wordlist.tsv",
+  "id": "abzfuimelangas2010wordlist",
+  "language": "abui1241-fuime",
+  "name": "ABZ_Fuimelang_AS_2010_word list",
+  "sources": [
+    {
+      "date": "2010-07-17",
+      "location": "Fuimelang(Atengmelang)",
+      "recorders": [
+        "Antoinette Schapper"
+      ],
+      "speakers": [
+        {
+          "date of birth": "1969",
+          "name": "Filmon Benjamin Manikari",
+          "place of birth": "Fuimelang"
+        }
+      ]
+    }
+  ]
 }
