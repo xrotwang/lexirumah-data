@@ -24,8 +24,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 19.0	lightning	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	deliŋ wobika	kilatan, cahaya	nan	('lightning', 'kama1365', 'deliŋ_wobika')	nan		
 20.0	earthquake	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	komeː	nan	nan	('earthquake', 'kama1365', 'komeː')	nan		
 21.0	fog	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	safuː	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	nan	"('fog', 'alor1247-munas', ""sə'pu"")"	nan		
-22.0	river; stream	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	il maʔtaŋ	il maʔtaŋ lit. stream with water	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-22.0	river; stream	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ili maʔtaŋ	il maʔtaŋ lit. stream with water	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+22.0	river; stream	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	il maʔtaŋ	il maʔtaŋ lit. stream with water	nan		nan		
+22.0	river; stream	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ili maʔtaŋ	il maʔtaŋ lit. stream with water	nan		nan		
 26.0	mountain	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	buk	nan	nan	7	nan		
 27.0	hill; ridge	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mana	nan	nan	('hill; ridge', 'kama1365', 'mana')	nan		
 28.0	village	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	komaŋ	nan	nan	('village', 'adan1251', 'baŋ')	nan		
@@ -44,20 +44,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 39.0	forest	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	atakai	nan	nan	('forest', 'kama1365', 'atakai')	nan		
 39.0	forest	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bong sak	nan	nan	('forest', 'kama1365', 'bong_sak')	nan		
 40.0	field	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		sak?	nan	nan	nan		
-41.0	island	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	buk	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+41.0	island	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	buk	nan	nan		nan		
 42.0	rice field	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aː sak	nan	nan	('rice field', 'kama1365', 'aː_sak')	nan		
 43.0	garden	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	finiŋ	nan	nan	5	nan		
-44.0	fence	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	baː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-44.0	fence	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tal	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-45.0	road; path; way	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	geːlbaːl, geːi, loː, maːi	yeba was already filled in, can't find it in the dictionary	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-45.0	road; path; way	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	jebɑ	yeba was already filled in, can't find it in the dictionary	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-46.0	canoe	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sipiː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+44.0	fence	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	baː	nan	nan		nan		
+44.0	fence	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tal	nan	nan		nan		
+45.0	road; path; way	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	geːlbaːl, geːi, loː, maːi	yeba was already filled in, can't find it in the dictionary	nan		nan		
+45.0	road; path; way	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	jebɑ	yeba was already filled in, can't find it in the dictionary	nan		nan		
+46.0	canoe	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sipiː	nan	nan		nan		
 49.0	fishing hook	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	awiː	nan	nan	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	nan		
 49.0	fishing hook	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	waneː	nan	nan	('fishing hook', 'kama1365', 'waneː')	nan		
 50.0	fish trap	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saː	dibuat dari bambu untuk megkap ikan yang ditinggal. NOT fish net or fish line.	nan	('fish trap', 'kama1365', 'saː')	nan		
-51.0	rope	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kape	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+51.0	rope	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kape	nan	nan		nan		
 52.0	machete	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kine	nan	nan	('machete', 'abui1241-fuime', 'kaweni')	nan		
-52.0	machete	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sapaːra	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+52.0	machete	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sapaːra	nan	nan		nan		
 53.0	axe	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paliŋ	nan	nan	('axe', 'abui1241-fuime', 'faling')	nan		
 54.0	spear	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kapa	nan	nan	"('spear', 'abui1241-takal', ""kä.'fäk"")"	nan		
 56.0	stick; pole	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	teːkaŋ	nan	nan	"('stick; pole', 'alor1247-munas', ""nə'kaŋ"")"	nan		
@@ -67,7 +67,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 61.0	knife	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sitei	nan	nan	('knife', 'kama1365', 'sitei')	nan		
 62.0	comb	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	daʔsi	nan	nan	('comb', 'kama1365', 'daʔsi')	nan		
 63.0	mat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	adi	balelaŋ is a large mat made out of bamboo	nan	('mat', 'abui1241-fuime', 'adik')	nan		
-63.0	mat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	balelaŋ	balelaŋ is a large mat made out of bamboo	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+63.0	mat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	balelaŋ	balelaŋ is a large mat made out of bamboo	nan		nan		
 64.0	needle	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	dafeː	nan	nan	('needle', 'kama1365', 'dafeː')	nan		
 65.0	clothing	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	falak	lit. cloth	nan	('clothing', 'kama1365', 'falak')	nan		
 67.0	fire	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ɑtɪ	nan	nan	1	nan		
@@ -80,7 +80,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 74.0	gravel	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	dawai	nan	nan	('gravel', 'kama1365', 'dawai')	nan		
 75.0	sand	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	siraiŋ	nan	nan	8	nan		
 76.0	grass; brush	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sak	nan	nan	('grass; brush', 'kama1365', 'sak')	nan		
-77.0	house	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sʊwɑj	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+77.0	house	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sʊwɑj	nan	nan		nan		
 78.0	traditional house	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	almaŋ	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
 79.0	barn; storage house	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	almaŋ	nan	nan	('barn; storage house', 'kama1365', 'almaŋ')	nan		
 80.0	raised platform	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kadiː silela	sitting platform of a house; raised platform of the house	nan	('raised platform', 'kama1365', 'kadiː_silela')	nan		
@@ -88,7 +88,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 82.0	(thatch) roof	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wot	nan	nan	('(thatch) roof', 'kama1365', 'wot')	nan		
 83.0	roof thatch	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		kapoŋ?	nan	nan	nan		
 84.0	tree	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bɔŋ	nan	nan	F	nan		
-85.0	wood	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ati	bɔŋ waːi ? raw wood	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+85.0	wood	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ati	bɔŋ waːi ? raw wood	nan		nan		
 86.0	bark (of tree)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aba	nan	nan	('bark (of tree)', 'adan1251', 'ti_fah')	nan		
 87.0	leaf	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wɪrɑ	nan	nan	c	nan		
 88.0	branch	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-taŋ	garawei is small branch; cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
@@ -101,16 +101,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 92.0	fruit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	uh	ix was already filled in	nan	('fruit', 'alor1249-sar-a', 'jit')	nan		
 93.0	seed	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bileː	bini is seed for planting a garden; bin baːt all kinds of seeds 	nan	('seed', 'amar1273-kotos', 'fini')	nan		
 93.0	seed	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bini, bin baːt	bini is seed for planting a garden; bin baːt all kinds of seeds 	nan	('seed', 'amar1273-kotos', 'fini')	nan		
-94.0	grain; cereal	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bileː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+94.0	grain; cereal	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bileː	nan	nan		nan		
 96.0	husked rice; uncooked rice	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aː beita	nan	nan	('husked rice; uncooked rice', 'kama1365', 'aː_beita')	nan		
 97.0	rice grains (unhusked) (raw from field)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	fataka	nan	nan	('rice grains (unhusked) (raw from field)', 'kama1365', 'fataka')	nan		
-98.0	cooked rice	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aː maː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+98.0	cooked rice	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aː maː	nan	nan		nan		
 99.0	rice plant	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		from examples I get the idea that rice plant is just aː	nan	nan	nan		
 100.0	to plant (yam)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mit	nan	nan	"('to plant (yam)', 'abui1241-takal', ""bä.'tä:kɔ_mur.'jä"")"	nan		
 101.0	to plant (rice)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	baːt tafe	nan	nan	('to plant (rice)', 'abui1241-fuime', 'taakda')	nan		
 102.0	betel nut; areca	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		bakaː ?	nan	nan	nan		
-103.0	betel vine	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maisi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-104.0	lime	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	awoi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+103.0	betel vine	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maisi	nan	nan		nan		
+104.0	lime	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	awoi	nan	nan		nan		
 106.0	sweet potato	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bileːl	nan	nan	('sweet potato', 'kama1365', 'bileːl')	nan		
 107.0	cassava	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	boŋ ko	nan	nan	('cassava', 'blag1240-warsa', 'bengkuk')	nan		
 108.0	taro	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	makai	nan	nan	('taro', 'amar1273-kotos', 'mae')	nan		
@@ -121,7 +121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 116.0	lontar palm	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aːkai	nan	nan	('lontar palm', 'kama1365', 'aːkai')	nan		
 118.0	marungga	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	koː wutoŋ	nan	nan	('marungga', 'alor1249-sar-a', 'quud_waʔ')	nan		
 119.0	gum tree; eucalyptus	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	foː boŋ	nan	nan	('gum tree; eucalyptus', 'kama1365', 'foː_boŋ')	nan		
-120.0	bamboo	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maːi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+120.0	bamboo	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maːi	nan	nan		nan		
 121.0	banana	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maw	maw was already filled in	nan	1	nan		
 121.0	banana	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	moːi	maw was already filled in	nan	('banana', 'abui1241-fuime', 'musa')	nan		
 122.0	mango	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wae	nan	nan	('mango', 'alor1249-sar-a', 'wow_‘domestic_mango’,_biyat_‘wild_mango’')	nan		
@@ -130,9 +130,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 125.0	breadfruit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kut ton	nan	nan	('breadfruit', 'abui1241-fuime', 'bataa_song')	nan		
 126.0	bean	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	titraː	nan	nan	('bean', 'kama1365', 'titraː')	nan		
 127.0	honey	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	laːwaŋ ila	nan	nan	('honey', 'abui1241-fuime', 'nawaang')	nan		
-128.0	milk	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ami iduka	not 'breast'	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-129.0	salt	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	asiː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-130.0	fat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bulaka	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+128.0	milk	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ami iduka	not 'breast'	nan		nan		
+129.0	salt	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	asiː	nan	nan		nan		
+130.0	fat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bulaka	nan	nan		nan		
 131.0	flesh; meat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	isei maː	nan	nan	('flesh; meat', 'amar1273-kotos', 'sisi')	nan		
 132.0	bone	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sɛl	nan	nan	1	nan		
 133.0	rib	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kapaːta	nan	nan	"('rib', 'abui1241-takal', ""he̞̞.qä.'fä.tä"")"	nan		
@@ -142,9 +142,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 136.0	blood	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	weː	nan	nan	('blood', 'abui1241-fuime', 'we')	nan		
 138.0	heart	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bukamaŋ	nan	nan	('heart', 'kama1365', 'bukamaŋ')	nan		
 139.0	liver	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tamui	nan	nan	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
-140.0	kidney	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taːui-taːui	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+140.0	kidney	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taːui-taːui	nan	nan		nan		
 141.0	guts	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kaːpuŋ	nan	nan	('guts', 'kama1365', 'kaːpuŋ')	nan		
-142.0	excrement	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	asi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+142.0	excrement	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	asi	nan	nan		nan		
 143.0	lungs	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	fusaː	nan	nan	('lungs', 'kama1365', 'fusaː')	nan		
 144.0	stomach; belly	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑpʊŋ	nan	nan	nan	nan		
 144.0	stomach; belly	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑtɔk	nan	nan	nan	nan		
@@ -155,15 +155,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 149.0	ear	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑwɑj	nan	nan	('ear', 'abui1241-fuime', 'tawei_ata')	nan		
 150.0	nose	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑlpɑŋ	nan	nan	m	nan		
 151.0	mouth	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑbɪ	nan	nan	a	nan		
-152.0	chin	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nawaː buk	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+152.0	chin	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nawaː buk	nan	nan		nan		
 153.0	lips	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nabibɑ	nan	nan	4	nan		
 154.0	teeth	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑwɛsi	nan	nan	1	nan		
 155.0	tongue	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nalpu	nan	nan	1	nan		
 156.0	neck	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	namaŋ	nan	nan	('neck', 'alor1249-sar-n', 'naman_ku')	nan		
 157.0	shoulder	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nawagɔrɔŋ	nan	nan	7	nan		
-158.0	body	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ih	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-161.0	mucus	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	fara	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-162.0	cheek	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	napoː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+158.0	body	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ih	nan	nan		nan		
+161.0	mucus	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	fara	nan	nan		nan		
+162.0	cheek	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	napoː	nan	nan		nan		
 163.0	arm	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑtaŋ	nan	nan	1	nan		
 164.0	hand	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑtaŋ	nan	nan	"('hand', 'abui1241-takal', ""tä.'täŋ_pääkä"")"	nan		
 166.0	finger	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	silba	nan	nan	('finger', 'kama1365', 'silba')	nan		
@@ -171,9 +171,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 167.0	fingernail	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kuisiŋ	koːso was already filled in 	nan	('fingernail', 'abui1241-fuime', 'tatang_kusing')	nan		
 168.0	breast	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ami	nɛmiː was already filled in	nan	('breast', 'alor1249-sar-a', 'haŋ')	nan		
 168.0	breast	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɛmiː	nɛmiː was already filled in	nan	('breast', 'alor1249-sar-a', 'haŋ')	nan		
-169.0	chest	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	koraŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-170.0	navel	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nabu	nabuː was already filled in, dictionary says nabu (-bu) 	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-170.0	navel	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nabuː	nabuː was already filled in, dictionary says nabu (-bu) 	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+169.0	chest	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	koraŋ	nan	nan		nan		
+170.0	navel	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nabu	nabuː was already filled in, dictionary says nabu (-bu) 	nan		nan		
+170.0	navel	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nabuː	nabuː was already filled in, dictionary says nabu (-bu) 	nan		nan		
 171.0	penis	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nafui	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	nan	"('penis', 'abui1241-takal', ""tä.'pä:l"")"	nan		
 172.0	vagina	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	naːi	-ai; Kemaluan perempuan, same as above.	nan	('vagina', 'adan1251', 'a:l')	nan		
 174.0	leg	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑwɑ	nan	nan	4	nan		
@@ -184,7 +184,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179.0	back	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑmutal	nɛymotɑ was already filled in 	nan	('back', 'adan1251', 'amɔt')	nan		
 179.0	back	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɛjmotɑ	nɛymotɑ was already filled in 	nan	('back', 'adan1251', 'amɔt')	nan		
 180.0	spine; lower back	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lakaːlsaŋ	nan	nan	('spine; lower back', 'kama1365', 'lakaːlsaŋ')	nan		
-181.0	waist	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nasaː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+181.0	waist	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nasaː	nan	nan		nan		
 182.0	skin	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kul	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
 182.0	skin	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɛkul	nan	nan	B	nan		
 183.0	sore; wound	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lamu	nan	nan	('sore; wound', 'abui1241-fuime', 'namu')	nan		
@@ -194,25 +194,25 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 187.0	feverish	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	beba	hot with fever	nan	"('feverish', 'alor1247-besar', ""ta'fefa"")"	nan		
 188.0	conjunctivitis	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kalenta	Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	nan	('conjunctivitis', 'kama1365', 'kalenta')	nan		
 189.0	cold; influenza	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aːlei	nan	nan	('cold; influenza', 'kama1365', 'aːlei')	nan		
-190.0	person	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	almakaŋ	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+190.0	person	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	almakaŋ	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	nan		nan		
 191.0	name	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑnej	nan	nan	('name', 'abui1241-fuime', 'na-ne')	nan		
 192.0	child	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	dum	nan	nan	e	nan		
 193.0	man	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lɑmɪ	nan	nan	h	nan		
 194.0	woman	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mare	nan	nan	9	nan		
 195.0	husband	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-lami	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
 196.0	wife	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-male	Not 'married woman'.	nan	"('wife', 'abui1241-takal', ""te̞̞.mä.'jɔl"")"	nan		
-197.0	mother	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɪjɑ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+197.0	mother	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɪjɑ	nan	nan		nan		
 198.0	father	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɛpɑ	nan	nan	2	nan		
-199.0	older sibling	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	idama	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+199.0	older sibling	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	idama	nan	nan		nan		
 199.0	older sibling	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	naka	nan	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan		
 200.0	younger sibling	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	idika	nan	nan	('younger sibling', 'adan1251', 'di')	nan		
 201.0	bride price	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	faːl	nan	nan	('bride price', 'abui1241-fuime', 'he-bel')	nan		
 202.0	slave	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maːi	nan	nan	('slave', 'kama1365', 'maːi')	nan		
-203.0	1sg	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	na	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+203.0	1sg	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	na	nan	nan		nan		
 204.0	2sg (informal)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	a	nan	nan	('2sg (informal)', 'kaer1234', 'a:ŋ')	nan		
 204.0	2sg (informal)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	al	nan	nan	"('2sg (informal)', 'abui1241-takal', ""'e̞̞.dɔ"")"	nan		
-205.0	2sg (polite)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	a	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-205.0	2sg (polite)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	al	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+205.0	2sg (polite)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	a	nan	nan		nan		
+205.0	2sg (polite)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	al	nan	nan		nan		
 206.0	3sg	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ga	nan	nan	('3sg', 'kaer1234', 'ga:ŋ')	nan		
 207.0	1pl excl	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ni	nan	nan	"('1pl excl', 'abui1241-takal', ""'ni.dɔ"")"	nan		
 208.0	1pl incl	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	si	nan	nan	('1pl incl', 'kama1365', 'si')	nan		
@@ -221,33 +221,33 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 209.0	2pl	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	il	nan	nan	"('2pl', 'abui1241-takal', ""'ri.dɔ"")"	nan		
 210.0	3pl	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ga	nan	nan	('3pl', 'kama1365', 'ga')	nan		
 210.0	3pl	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	gal	nan	nan	('3pl', 'kama1365', 'ga')	nan		
-211.0	no; not	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	naː	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+211.0	no; not	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	naː	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan		nan		
 212.0	and	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ahakuːl	nan	nan	('and', 'kama1365', 'ahakuːl')	nan		
-213.0	because	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	toh aha naː	  because of that	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-214.0	if	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-daŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+213.0	because	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	toh aha naː	  because of that	nan		nan		
+214.0	if	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-daŋ	nan	nan		nan		
 215.0	with	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-neŋ	nan	nan	('with', 'kama1365', '-neŋ')	nan		
-216.0	what?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	minaːu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+216.0	what?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	minaːu	nan	nan		nan		
 217.0	who?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-bo	nan	nan	('who?', 'kama1365', '-bo')	nan		
 217.0	who?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maːŋ, maːu	nan	nan	('who?', 'abui1241-petle', 'ma:')	nan		
 218.0	where?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taː	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
 218.0	where?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	toːi	nan	nan	('where?', 'buna1278-bobon', 'tɛro_gɛne,_tʃiɔ_gɛnɛ,_tɔ_gɛnɛ')	nan		
-219.0	when?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-daŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+219.0	when?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-daŋ	nan	nan		nan		
 221.0	how much; how many?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	talsiŋ	nan	nan	('how much; how many?', 'kama1365', 'talsiŋ')	nan		
-222.0	how?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	toːn	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-222.0	how?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	toːnda	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-223.0	this	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	apa	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+222.0	how?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	toːn	nan	nan		nan		
+222.0	how?	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	toːnda	nan	nan		nan		
+223.0	this	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	apa	nan	nan		nan		
 224.0	that	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aŋ	nan	nan	('that', 'kama1365', 'aŋ')	nan		
 224.0	that	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paŋ, -sa	nan	nan	('that', 'kama1365', 'aŋ')	nan		
 225.0	at	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wo	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	('at', 'kama1365', 'wo')	nan		
-226.0	in; inside	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-226.0	in; inside	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tumuŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-227.0	here	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	oi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+226.0	in; inside	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mi	nan	nan		nan		
+226.0	in; inside	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tumuŋ	nan	nan		nan		
+227.0	here	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	oi	nan	nan		nan		
 228.0	there	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aŋ mi	nan	nan	('there', 'adan1251', 'hɛmɔ_mi')	nan		
 229.0	above	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taː	nan	nan	('above', 'amar1273-kotos', 'ata')	nan		
 229.0	above	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tumuŋ	nan	nan	('above', 'kama1365', 'tumuŋ')	nan		
-230.0	below	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	iː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-231.0	left (side)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ela	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-232.0	right (side)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+230.0	below	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	iː	nan	nan		nan		
+231.0	left (side)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ela	nan	nan		nan		
+232.0	right (side)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kaŋ	nan	nan		nan		
 233.0	a few	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kabeːi	nan	nan	('a few', 'kama1365', 'kabeːi')	nan		
 233.0	a few	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tol, tol kon	nan	nan	('a few', 'kama1365', 'tol,_tol_kon')	nan		
 234.0	all	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kuma	nan	nan	('all', 'kama1365', 'kuma')	nan		
@@ -258,20 +258,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 238.0	dog	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kuj	nan	nan	('dog', 'abui1241-fuime', 'kai')	nan		
 239.0	pig	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	pej	nan	nan	('pig', 'abui1241-fuime', 'fe')	nan		
 240.0	chicken	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sibej	nan	nan	('chicken', 'kama1365', 'sibej')	nan		
-241.0	rat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tui	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+241.0	rat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tui	nan	nan		nan		
 242.0	lizard	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	takːeː	nan	nan	('lizard', 'abui1241-fuime', 'tekok')	nan		
 243.0	civet cat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	laku	nan	nan	('civet cat', 'adon1237', 'ˈlako')	nan		
 244.0	deer	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	auːh	nan	nan	('deer', 'abui1241-takal', 'ä.jut')	nan		
 245.0	frog	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	takabau	nan	nan	('frog', 'kama1365', 'takabau')	nan		
 246.0	bat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	matei	nan	nan	"('bat', 'abui1241-takal', ""mä.'re̞l"")"	nan		
-249.0	tail	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-wui	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+249.0	tail	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-wui	nan	nan		nan		
 250.0	fish	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	api	nan	nan	z	nan		
 254.0	crocodile	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	pieː	nan	nan	('crocodile', 'kama1365', 'pieː')	nan		
-255.0	monitor lizard	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wulet	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+255.0	monitor lizard	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wulet	nan	nan		nan		
 257.0	turtle	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ʤokeː	nan	nan	('turtle', 'kama1365', 'ʤokeː')	nan		
 259.0	bird	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	atul	sɪbe (chicken)	nan	[xt]	nan		
 259.0	bird	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sɪbe	sɪbe (chicken)	nan	[xt]	nan		
-260.0	wing	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-paʔta	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+260.0	wing	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-paʔta	nan	nan		nan		
 261.0	claw	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kuisiŋ	nan	nan	('claw', 'kama1365', 'kuisiŋ')	nan		
 262.0	feather	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	labuta	nan	nan	('feather', 'kama1365', 'labuta')	nan		
 263.0	horn	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-mu	nan	nan	('horn', 'abui1241-fuime', 'ha-muk')	nan		
@@ -296,18 +296,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 281.0	big	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	puku	puku already filled in 	nan	P	nan		
 282.0	small	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kidiŋ	nan	nan	f	nan		
 283.0	old; worn (house)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	farata	nan	nan	('old; worn (house)', 'kama1365', 'farata')	nan		
-284.0	new (house)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	supaka	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-285.0	old (people)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saːk	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-286.0	young (people)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	laisiŋ lauŋ	laisiŋ lauŋ lit. youth. lutei adj for men, fon adj for women	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-286.0	young (people)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lutei, fon	laisiŋ lauŋ lit. youth. lutei adj for men, fon adj for women	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+284.0	new (house)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	supaka	nan	nan		nan		
+285.0	old (people)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saːk	nan	nan		nan		
+286.0	young (people)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	laisiŋ lauŋ	laisiŋ lauŋ lit. youth. lutei adj for men, fon adj for women	nan		nan		
+286.0	young (people)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lutei, fon	laisiŋ lauŋ lit. youth. lutei adj for men, fon adj for women	nan		nan		
 287.0	lazy	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mi- -kailan	nan	nan	('lazy', 'kama1365', 'mi-_-kailan')	nan		
 288.0	hot	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tutuŋ	nan	nan	1	nan		
 289.0	cold	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	hipiŋ	nan	nan	6	nan		
 290.0	good	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kaŋ	nan	nan	1	nan		
 291.0	bad	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	boko	nan	nan	"('bad', 'abui1241-petle', ""'be:.ka"")"	nan		
 292.0	full	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	awila	nan	nan	('full', 'adan1251', 'afɛŋ')	nan		
-293.0	empty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kata	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-293.0	empty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saka	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+293.0	empty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kata	nan	nan		nan		
+293.0	empty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saka	nan	nan		nan		
 294.0	near	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-miŋ	nan	nan	('near', 'kama1365', '-miŋ')	nan		
 295.0	far	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	letei	nan	nan	('far', 'adan1251', 'lɛt')	nan		
 296.0	wet	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paraŋ	nan	nan	('wet', 'kama1365', 'paraŋ')	nan		
@@ -316,13 +316,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 302.0	short (people)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		maruk?	nan	nan	nan		
 303.0	thin (non-human)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	manih	nan	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		
 305.0	thick	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kusa	nan	nan	('thick', 'kama1365', 'kusa')	nan		
-307.0	dark	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ituta	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+307.0	dark	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ituta	nan	nan		nan		
 308.0	light	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	soːŋ	nan	nan	('light', 'kama1365', 'soːŋ')	nan		
 309.0	dirty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tini	nan	nan	('dirty', 'kama1365', 'tini')	nan		
 310.0	clean	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	beita	nan	nan	('blue', 'lamm1241', 'haluaga')	nan		
 310.0	clean	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bila	nan	nan	('blue', 'lamm1241', 'haluaga')	nan		
-311.0	sharp	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bisiŋ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-311.0	sharp	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	piːla	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+311.0	sharp	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bisiŋ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan		nan		
+311.0	sharp	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	piːla	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan		nan		
 312.0	blunt; dull	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bul	nan	nan	('blunt; dull', 'adan1251', 'umɛ')	nan		
 313.0	heavy	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	suː	nan	nan	('heavy', 'kama1365', 'suː')	nan		
 314.0	light (weight)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	seila	nan	nan	('light (weight)', 'abui1241-fuime', 'sierai')	nan		
@@ -331,10 +331,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 318.0	correct	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	matet	nan	nan	('correct', 'kama1365', 'matet')	nan		
 318.0	correct	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sol, soldama	nan	nan	('correct', 'kama1365', 'sol,_soldama')	nan		
 319.0	wrong	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taweŋ	nan	nan	('wrong', 'kama1365', 'taweŋ')	nan		
-320.0	ripe	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	iten	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-321.0	rotten	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kawahta	kawahta is half rotten and rotten due to overcooking; munta very rotten; makising muta very rotten and smelly	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-321.0	rotten	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	munta, makising muta	kawahta is half rotten and rotten due to overcooking; munta very rotten; makising muta very rotten and smelly	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-322.0	bitter	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	makaː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+320.0	ripe	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	iten	nan	nan		nan		
+321.0	rotten	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kawahta	kawahta is half rotten and rotten due to overcooking; munta very rotten; makising muta very rotten and smelly	nan		nan		
+321.0	rotten	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	munta, makising muta	kawahta is half rotten and rotten due to overcooking; munta very rotten; makising muta very rotten and smelly	nan		nan		
+322.0	bitter	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	makaː	nan	nan		nan		
 323.0	sweet	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ilakai	nan	nan	('sweet', 'blag1240-bama', 'marak')	nan		
 324.0	sour	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aleːsei	nan	nan	('sour', 'abui1241-fuime', 'alesing')	nan		
 325.0	salty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tama makaː	nan	nan	('salty', 'kama1365', 'tama_makaː')	nan		
@@ -351,45 +351,45 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 332.0	green	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		waːi lit.  blue-green 	nan	nan	nan		
 333.0	blue	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	waːi	waːita lit bright blue ; waːi lit.  blue-green 	nan	('blue', 'kama1365', 'waːi')	nan		
 333.0	blue	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	waːita	waːita lit bright blue ; waːi lit.  blue-green 	nan	('blue', 'kama1365', 'waːi')	nan		
-334.0	yellow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maleʔta	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+334.0	yellow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maleʔta	nan	nan		nan		
 335.0	sick; painful	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mat-	There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	nan	('sick; painful', 'adan1251-lawah', 'modiʔ')	nan		
 336.0	shy; ashamed	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	- laita	nan	nan	('shy; ashamed', 'kama1365', '-_laita')	nan		
 337.0	thirsty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-mantei	nan	nan	('thirsty', 'adan1251', 'dɔrɔ_taʔat')	nan		
 338.0	hungry	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-maitaŋ	nan	nan	('hungry', 'kama1365', '-maitaŋ')	nan		
 339.0	blind	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bita	nan	nan	('blind', 'kama1365', 'bita')	nan		
 340.0	deaf	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	uh	nan	nan	('deaf', 'kama1365', 'uh')	nan		
-341.0	scared	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-bieː	Lit. -bieeee	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+341.0	scared	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-bieː	Lit. -bieeee	nan		nan		
 342.0	angry	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-bieː	nan	nan	('angry', 'kama1365', '-bieː')	nan		
 342.0	angry	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kailaŋ	nan	nan	"('angry', 'alor1247-munas', ""'ɔnɔ_k'likil"")"	nan		
 343.0	to see	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-tak, ilai	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
 343.0	to see	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	gatɛk	nan	nan	6	nan		
 344.0	to hear	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-mai	nan	nan	('to hear', 'atim1239', 'mahia')	nan		
 344.0	to hear	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	waisin	nan	nan	('to hear', 'kama1365', 'waisin')	nan		
-345.0	to smell	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mun	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+345.0	to smell	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mun	nan	nan		nan		
 346.0	to think	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	suk	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan		
 346.0	to think	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	suk pak	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan		
 347.0	to know	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kaŋ	nan	nan	('to know', 'kama1365', 'kaŋ')	nan		
 347.0	to know	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lak	nan	nan	"('to know', 'abui1241-takal', ""'hi.e̞ŋ_lä.qä"")"	nan		
-348.0	to say	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lom	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-349.0	to speak	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kawaːi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-350.0	voice	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-maː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-351.0	language	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lek	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+348.0	to say	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lom	nan	nan		nan		
+349.0	to speak	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kawaːi	nan	nan		nan		
+350.0	voice	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-maː	nan	nan		nan		
+351.0	language	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lek	nan	nan		nan		
 352.0	to lie down	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	diː, taː	tadi was already filled in	nan	('to lie down', 'abui1241-fuime', 'ta')	nan		
 352.0	to lie down	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tadi	tadi was already filled in	nan	1	nan		
 353.0	to sleep	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tadi	tadi was already filled in	nan	1	nan		
-353.0	to sleep	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taː	tadi was already filled in	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+353.0	to sleep	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taː	tadi was already filled in	nan		nan		
 354.0	to wake up	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bileida	lit. open eyes	nan	('to wake up', 'kama1365', 'bileida')	nan		
 355.0	to wake someone up	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-tan	nan	nan	('to wake someone up', 'adan1251', 'aden_to')	nan		
 356.0	to bathe	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-wei	nan	nan	('to bathe', 'abui1241-fuime', 'tawel')	nan		
 358.0	to sit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mih	mih was already filled in	nan	1	nan		
-358.0	to sit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nih	mih was already filled in	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+358.0	to sit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nih	mih was already filled in	nan		nan		
 359.0	to stand	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	latsi	lɑtisiŋ was already filled in 	nan	('to stand', 'abui1241-fuime', 'nate')	nan		
 359.0	to stand	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lɑtisiŋ	lɑtisiŋ was already filled in 	nan	1	nan		
 360.0	to walk	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	loː	nan	nan	('to walk', 'kama1365', 'loː')	nan		
 360.0	to walk	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maː	nan	nan	('to walk', 'adan1251-lawah', 'lami')	nan		
 361.0	to run	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tak	nan	nan	('to run', 'adan1251', 'teʔeŋ')	nan		
-362.0	to go	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	we	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-363.0	to swim	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sai	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+362.0	to go	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	we	nan	nan		nan		
+363.0	to swim	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sai	nan	nan		nan		
 364.0	to fly	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lila	liːlɛ was already filled in	nan	('to fly', 'abui1241-fuime', 'li')	nan		
 364.0	to fly	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	liːlɛ	liːlɛ was already filled in	nan	('to fly', 'abui1241-fuime', 'li')	nan		
 365.0	to fall (from above)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kok	nan	nan	('to fall (from above)', 'kama1365', 'kok')	nan		
@@ -398,7 +398,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 367.0	to drop	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tarui	nan	nan	('to drop', 'kama1365', 'tarui')	nan		
 368.0	to drink	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	naj	nay was already filled in	nan	('to drink', 'adan1251', 'na')	nan		
 368.0	to drink	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ne	nay was already filled in	nan	('to drink', 'adan1251', 'na')	nan		
-369.0	to eat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-ah, kateː	inakate was already filled in	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+369.0	to eat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-ah, kateː	inakate was already filled in	nan		nan		
 369.0	to eat	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	inakate	inakate was already filled in	nan	1	nan		
 370.0	to cook	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taːm	nan	nan	('to cook', 'kama1365', 'taːm')	nan		
 371.0	to wash	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-sire	-sire v.tr.loc. wash; misire v.tr.appl. wash inside of; -wei v.intr.pat. Wash	nan	('to wash', 'kama1365', '-sire')	nan		
@@ -418,7 +418,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381.0	to cry	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tanei	nan	nan	('to cry', 'adon1237', 'ˈtani')	nan		
 382.0	to dance	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kureː	nan	nan	('to dance', 'kama1365', 'kureː')	nan		
 383.0	to sing	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	pilaŋ wowal	sing together 	nan	('to sing', 'kama1365', 'pilaŋ_wowal')	nan		
-384.0	to burn (clear land)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	midiː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+384.0	to burn (clear land)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	midiː	nan	nan		nan		
 385.0	to burn; to shine	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paisang	nan	nan	('to burn; to shine', 'kama1365', 'paisang')	nan		
 385.0	to burn; to shine	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saːra	nan	nan	('to burn; to shine', 'kama1365', 'saːra')	nan		
 386.0	to shine	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paisaŋ	nan	nan	('bitter', 'lamm1241', 'ku_minna')	nan		
@@ -427,9 +427,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 388.0	to yawn	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	awak	nan	nan	('to yawn', 'kama1365', 'awak')	nan		
 389.0	to suck	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-mak	nan	nan	('to suck', 'kama1365', '-mak')	nan		
 389.0	to suck	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mimak	nan	nan	('to suck', 'kama1365', '-mak')	nan		
-390.0	to blow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-subau	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-390.0	to blow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	misubau	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-391.0	to spit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	makoː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+390.0	to blow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-subau	nan	nan		nan		
+390.0	to blow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	misubau	nan	nan		nan		
+391.0	to spit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	makoː	nan	nan		nan		
 392.0	to vomit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-iwei	nan	nan	('to vomit', 'kama1365', '-iwei')	nan		
 392.0	to vomit	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	makoː	nan	nan	('to vomit', 'kama1365', 'makoː')	nan		
 393.0	to rub	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	luh	nan	nan	('to rub', 'abui1241-fuime', 'we-luuke')	nan		
@@ -451,7 +451,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 405.0	to skewer	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	siʔla	nan	nan	('to skewer', 'kama1365', 'siʔla')	nan		
 406.0	to fight	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	taːka	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
 407.0	to guard	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-pukan	nan	nan	"('to guard', 'abui1241-takal', ""ho:.'fi.kä:ng"")"	nan		
-408.0	to throw	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-tfa	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+408.0	to throw	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-tfa	nan	nan		nan		
 409.0	to hunt	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-o	nan	nan	('to hunt', 'kama1365', '-o')	nan		
 410.0	to kill	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paːn	nan	nan	"('to kill', 'alor1247-baran', ""'bun:ɔ"")"	nan		
 411.0	to chase away	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-surut	nan	nan	"('to chase away', 'alor1247-besar', ""'sɛ"")"	nan		
@@ -508,7 +508,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 454.0	five	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	iwesiŋ	nan	nan	('five', 'abui1241-fuime', 'jeting')	nan		
 455.0	six	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	isiŋnok	(5+1)	nan	('angry', 'lamm1241', 'arugga')	nan		
 455.0	six	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tɑmɑ	(5+1)	nan	1	nan		
-456.0	seven	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	isiŋok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+456.0	seven	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	isiŋok	nan	nan		nan		
 457.0	eight	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	isiŋsu	nan	nan	('eight', 'abui1241-fuime', 'jeti_sua')	nan		
 458.0	nine	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	isiŋbiat	nan	nan	('nine', 'abui1241-fuime', 'jeting_buti')	nan		
 459.0	ten	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk	nan	nan	('ten', 'kama1365', 'ataːk')	nan		
@@ -516,29 +516,29 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 460.0	eleven	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l nok	nan	nan	('eleven', 'kama1365', 'ata:k_nok_wa:l_nok')	nan		
 461.0	twelve	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l ok	nan	nan	('twelve', 'kama1365', 'ata:k_nok_wa:l_ok')	nan		
 462.0	thirteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l su	nan	nan	('thirteen', 'abui1241-fuime', 'wal_sua')	nan		
-463.0	fourteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l biat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-464.0	fifteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l iwesiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-465.0	sixteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋnok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-466.0	seventeen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-467.0	eighteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋsu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-468.0	nineteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋbiat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+463.0	fourteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l biat	nan	nan		nan		
+464.0	fifteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l iwesiŋ	nan	nan		nan		
+465.0	sixteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋnok	nan	nan		nan		
+466.0	seventeen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋok	nan	nan		nan		
+467.0	eighteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋsu	nan	nan		nan		
+468.0	nineteen	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k nok wa:l isiŋbiat	nan	nan		nan		
 469.0	twenty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok	nan	nan	('twenty', 'kama1365', 'ata:k_ok')	nan		
 470.0	twenty one	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l  nok	nan	nan	('twenty one', 'kama1365', 'ata:k_ok_gewa:l__nok')	nan		
-471.0	twenty two	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l ok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-472.0	twenty three	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l su	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-473.0	twenty four	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l biat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-474.0	twenty five	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l iwesiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+471.0	twenty two	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l ok	nan	nan		nan		
+472.0	twenty three	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l su	nan	nan		nan		
+473.0	twenty four	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l biat	nan	nan		nan		
+474.0	twenty five	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ata:k ok gewa:l iwesiŋ	nan	nan		nan		
 475.0	thirty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk su	nan	nan	('thirty', 'kama1365', 'ataːk_su')	nan		
-476.0	forty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk biat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-477.0	fifty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk iwesiŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-478.0	sixty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋnok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-479.0	seventy	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-480.0	eighty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋbiat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-481.0	ninety	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋbiat	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+476.0	forty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk biat	nan	nan		nan		
+477.0	fifty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk iwesiŋ	nan	nan		nan		
+478.0	sixty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋnok	nan	nan		nan		
+479.0	seventy	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋok	nan	nan		nan		
+480.0	eighty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋbiat	nan	nan		nan		
+481.0	ninety	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ataːk isiŋbiat	nan	nan		nan		
 482.0	one hundred	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	asaga	nan	nan	3	nan		
 484.0	two hundred	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	asaga ok	nan	nan	('two hundred', 'abui1241-fuime', 'aisaha_aijoku')	nan		
 485.0	thousand	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	libu nok	nan	nan	('thousand', 'abui1241-fuime', 'rifi_nuku')	nan		
-486.0	one hundred thousand	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	libu asaka nok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+486.0	one hundred thousand	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	libu asaka nok	nan	nan		nan		
 487.0	grandmother	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		The kinship task also asks for this term	nan	nan	nan		
 488.0	grandfather	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		The kinship task also asks for this term	nan	nan	nan		
 489.0	grandchild	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		The kinship task also asks for this term	nan	nan	nan		
@@ -557,63 +557,63 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 502.0	ridge(pole); peak; tip	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aifaŋ	-filiŋ ; geːŋ but those are more like top, summit	nan	('ridge(pole); peak; tip', 'kama1365', 'aifaŋ')	nan		
 502.0	ridge(pole); peak; tip	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	laweː	-filiŋ ; geːŋ but those are more like top, summit	nan	('ridge(pole); peak; tip', 'kama1365', 'laweː')	nan		
 503.0	rack(above hearth/for storing food)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		There may be two types, a high one (for e.g. storage) and a lower one; if so, elicit both.	nan	nan	nan		
-504.0	broom; sweep	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mut	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+504.0	broom; sweep	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mut	nan	nan		nan		
 505.0	ground for ritual activities and public meetings	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		The cultural features questionnaire also asks for this term.	nan	nan	nan		
 506.0	mound of stones for ritual activities	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		The cultural features questionnaire also asks for this term.	nan	nan	nan		
-509.0	wall	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bai	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-513.0	chair	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kadera	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-514.0	lamp	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	laŋpu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+509.0	wall	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bai	nan	nan		nan		
+513.0	chair	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kadera	nan	nan		nan		
+514.0	lamp	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	laŋpu	nan	nan		nan		
 515.0	candle	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	itu	nan	nan	('candle', 'adan1251', 'pa:n')	nan		
-516.0	to weave	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sine	tafe is for weaving mats 	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-516.0	to weave	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tafe	tafe is for weaving mats 	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-518.0	necklace	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	papu	lit. bead necklace	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-520.0	trousers	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	boŋ gaweh	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-521.0	sarong (women)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	keŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+516.0	to weave	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sine	tafe is for weaving mats 	nan		nan		
+516.0	to weave	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tafe	tafe is for weaving mats 	nan		nan		
+518.0	necklace	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	papu	lit. bead necklace	nan		nan		
+520.0	trousers	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	boŋ gaweh	nan	nan		nan		
+521.0	sarong (women)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	keŋ	nan	nan		nan		
 522.0	loom	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	nan	nan		
-528.0	to pray	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	migabei	migabei lit whisper a pray over something, read magic formula	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-528.0	to pray	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tuŋbak	migabei lit whisper a pray over something, read magic formula	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-532.0	priest (modern)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aːriŋ	aːriŋ is imam	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-533.0	sorcerer; witch	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	puːna	evil witch or wizard	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-537.0	clan	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	atamaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-537.0	clan	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lubui	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-538.0	chieftain	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saːk jeidama	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+528.0	to pray	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	migabei	migabei lit whisper a pray over something, read magic formula	nan		nan		
+528.0	to pray	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tuŋbak	migabei lit whisper a pray over something, read magic formula	nan		nan		
+532.0	priest (modern)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aːriŋ	aːriŋ is imam	nan		nan		
+533.0	sorcerer; witch	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	puːna	evil witch or wizard	nan		nan		
+537.0	clan	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	atamaŋ	nan	nan		nan		
+537.0	clan	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lubui	nan	nan		nan		
+538.0	chieftain	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saːk jeidama	nan	nan		nan		
 540.0	treaty	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		E.g. perjanjian antara dua suku untuk tidak berperang	nan	nan	nan		
-541.0	marriage	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	minataka minabeŋ	be in a marriage alliance	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-542.0	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-nok	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-542.0	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	oleh	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-543.0	enemy	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lawuːi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-544.0	king; ruler	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	leːi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-545.0	stranger	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	alma gafuŋ piaː	Lit: 'person with a different face’	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-547.0	to command or order	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-beh	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-547.0	to command or order	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tabeh	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+541.0	marriage	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	minataka minabeŋ	be in a marriage alliance	nan		nan		
+542.0	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-nok	nan	nan		nan		
+542.0	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	oleh	nan	nan		nan		
+543.0	enemy	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lawuːi	nan	nan		nan		
+544.0	king; ruler	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	leːi	nan	nan		nan		
+545.0	stranger	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	alma gafuŋ piaː	Lit: 'person with a different face’	nan		nan		
+547.0	to command or order	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-beh	nan	nan		nan		
+547.0	to command or order	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tabeh	nan	nan		nan		
 554.0	the adultery	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-tapui	Jika seseorang yg sudah menikah atau belum menikah berhubungan badan dengan orang yg bukan isteri/suaminya.	nan	('the adultery', 'kama1365', '-tapui')	nan		
-556.0	fishnet	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bit	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+556.0	fishnet	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bit	nan	nan		nan		
 559.0	the war or battle	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mauː	taoːi is a verb 	nan	('the war or battle', 'kama1365', 'mauː')	nan		
 559.0	the war or battle	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	oːring, taoːi	taoːi is a verb 	nan	('the war or battle', 'kama1365', 'oːring,_taoːi')	nan		
 561.0	rich	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kawasa	nan	nan	('rich', 'adon1237', 'kəˈwasa')	nan		
-562.0	money	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	seŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-563.0	market	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paːsar	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-564.0	price	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bal	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-566.0	to borrow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	akiŋ pil	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-567.0	to trade or barter	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tobalkei	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-571.0	to let go	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-tan	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-572.0	to promise	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	me wo--ʔbaː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+562.0	money	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	seŋ	nan	nan		nan		
+563.0	market	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	paːsar	nan	nan		nan		
+564.0	price	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	bal	nan	nan		nan		
+566.0	to borrow	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	akiŋ pil	nan	nan		nan		
+567.0	to trade or barter	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tobalkei	nan	nan		nan		
+571.0	to let go	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-tan	nan	nan		nan		
+572.0	to promise	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	me wo--ʔbaː	nan	nan		nan		
 575.0	to refuse	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		beta? Lit push away	nan	nan	nan		
-576.0	to whisper	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maisei	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-578.0	to tell	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kawaːi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-578.0	to tell	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mikawaːi , -ʔbaː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-580.0	to teach	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-taŋ baː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+576.0	to whisper	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maisei	nan	nan		nan		
+578.0	to tell	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kawaːi	nan	nan		nan		
+578.0	to tell	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	mikawaːi , -ʔbaː	nan	nan		nan		
+580.0	to teach	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-taŋ baː	nan	nan		nan		
 582.0	difficult	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central		nafeːsama in difficult circumstances; no other variant 	nan	nan	nan		
-583.0	finished	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sika	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-584.0	now	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ina	inou lit. just now	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-584.0	now	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	inou	inou lit. just now	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-585.0	hour	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wati tanda	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-586.0	same	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tawaː	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-587.0	oven/cooking place	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	dekaŋ	fireplace	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+583.0	finished	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sika	nan	nan		nan		
+584.0	now	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ina	inou lit. just now	nan		nan		
+584.0	now	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	inou	inou lit. just now	nan		nan		
+585.0	hour	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wati tanda	nan	nan		nan		
+586.0	same	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	tawaː	nan	nan		nan		
+587.0	oven/cooking place	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	dekaŋ	fireplace	nan		nan		
 588.0	flower (in e.g. mangga tree)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kik	nan	nan	('flower (in e.g. mangga tree)', 'kama1365', 'kik')	nan		
 589.0	vein	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aliː	nan	nan	('vein', 'adan1251', 'taru')	nan		
 590.0	long (stick)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lɑpɑŋ	nan	nan	5	nan		
-591.0	tall (person)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lapaŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-592.0	short (stick)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maruk	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+591.0	tall (person)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lapaŋ	nan	nan		nan		
+592.0	short (stick)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	maruk	nan	nan		nan		
 593.0	narrow (road)	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	katina	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	nan	('narrow (road)', 'kama1365', 'katina')	nan		
 598.0	to chase away; to expel	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-surut	nan	nan	('to chase away; to expel', 'kama1365', '-surut')	nan		

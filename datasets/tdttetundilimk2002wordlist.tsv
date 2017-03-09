@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	tetu1246	Tetun Dili 	Austronesian	4Timor	la'lehɑn	nan	l a ˈl e h ɑ n	"('sky', 'idat1237', ""la'lehɑn"")"	nan		
 1.0	sun	tetu1246	Tetun Dili 	Austronesian	4Timor	'lɔrɔ mɑ'tɑn	day eye	ˈl ɔ r ɔ _ m ɑ ˈt ɑ n	('sun', 'adon1237', 'ˈrɜra')	nan		
-2.0	moon	tetu1246	Tetun Dili 	Austronesian	4Timor	'fulɑn	nan	ˈf u l ɑ n - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+2.0	moon	tetu1246	Tetun Dili 	Austronesian	4Timor	'fulɑn	nan	ˈf u l ɑ n - ( - - - - - - - - )		nan		
 3.0	star	tetu1246	Tetun Dili 	Austronesian	4Timor	'fitun	nan	ˈf i t u n	('star', 'tetu1245-suai', 'fituŋ')	nan		
 4.0	night	tetu1246	Tetun Dili 	Austronesian	4Timor	kɑ'lɑn	nan	k ɑ ˈl - - ɑ n -	('night', 'baka1276', 'kamaluŋ')	nan		
 5.0	day	tetu1246	Tetun Dili 	Austronesian	4Timor	lɔ'rɔn	nan	l ɔ ˈr - ɔ n	"('day', 'adon1237', ""rɜ'_rɔ̃"")"	nan		
@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 25.0	lake	tetu1246	Tetun Dili 	Austronesian	4Timor	də'bu:	nan	d ə ˈb uː	"('lake', 'tetu1246', ""də'bu:"")"	nan		
 26.0	mountain	tetu1246	Tetun Dili 	Austronesian	4Timor	'fɔhɔ	nan	ˈf ɔ h ɔ	('mountain', 'buna1278-bobon', 'fous')	nan		
 29.0	land; soil	tetu1246	Tetun Dili 	Austronesian	4Timor	'rɑi	nan	ˈr ɑ i	"('land; soil', 'idat1237', ""la'rek"")"	nan		
-32.0	stone	tetu1246	Tetun Dili 	Austronesian	4Timor	fa'tuk	nan	f a ˈt u k	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+32.0	stone	tetu1246	Tetun Dili 	Austronesian	4Timor	fa'tuk	nan	f a ˈt u k		nan		
 35.0	water (fresh)	tetu1246	Tetun Dili 	Austronesian	4Timor	'bɛ:	nan	ˈb ɛː -	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
 36.0	sea; sea water	tetu1246	Tetun Dili 	Austronesian	4Timor	tɑ'si	nan	t ɑ ˈs i - - - - -	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	nan		
 39.0	forest	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔɑi 'larɑn	nan	nan	"('forest', 'idat1237', ""'ʔɑi_le'ʔik"")"	nan		
@@ -44,7 +44,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 97.0	rice grains (unhusked) (raw from field)	tetu1246	Tetun Dili 	Austronesian	4Timor	ha're:	nan	h a ˈr eː -	('rice grains (unhusked) (raw from field)', 'fata1247', 'alɛ_kafu')	nan		
 98.0	cooked rice	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔetu	nan	ˈʔ e t u	"('cooked rice', 'idat1237', ""'ʔetu"")"	nan		
 99.0	rice plant	tetu1246	Tetun Dili 	Austronesian	4Timor	'fɔ:s	nan	ˈf ɔː s	"('rice plant', 'tetu1246', ""'fɔ:s"")"	nan		
-102.0	betel nut; areca	tetu1246	Tetun Dili 	Austronesian	4Timor	'bua	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+102.0	betel nut; areca	tetu1246	Tetun Dili 	Austronesian	4Timor	'bua	nan	nan		nan		
 103.0	betel vine	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɑlus	nan	ˈm ɑ l u s	('betel vine', 'adon1237', 'ˈmaluʔ')	nan		
 104.0	lime	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔahu	nan	ˈʔ a h u -	('lime', 'adon1237', 'ˈʔapuʔ')	nan		
 105.0	chew betel	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɑma	nan	ˈm ɑ m a	('chew betel', 'amar1273-kotos', 'n-mama')	nan		
@@ -56,10 +56,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 129.0	salt	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɑsin	nan	ˈm ɑ - s i n	('salt', 'idat1237', 'masi')	nan		
 130.0	fat	tetu1246	Tetun Dili 	Austronesian	4Timor	'bokur	nan	ˈb o k u r	"('fat', 'buna1278-malia', ""'bɔkul"")"	nan		
 131.0	flesh; meat	tetu1246	Tetun Dili 	Austronesian	4Timor	'na:n	nan	- - ˈn aː - - n	"('flesh; meat', 'keda1252', ""na'ʔɛn"")"	nan		
-132.0	bone	tetu1246	Tetun Dili 	Austronesian	4Timor	'ruin	nan	ˈr u - i n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+132.0	bone	tetu1246	Tetun Dili 	Austronesian	4Timor	'ruin	nan	ˈr u - i n		nan		
 136.0	blood	tetu1246	Tetun Dili 	Austronesian	4Timor	'ra:n	nan	- - ˈr aː n	"('blood', 'alor1247-baran', ""'ra:"")"	nan		
 138.0	heart	tetu1246	Tetun Dili 	Austronesian	4Timor	'fuɑn	nan	ˈf u ɑ n	('heart', 'adon1237', 'ˈpuho')	nan		
-139.0	liver	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔatɛn	nan	ˈʔ a t ɛ n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+139.0	liver	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔatɛn	nan	ˈʔ a t ɛ n		nan		
 141.0	guts	tetu1246	Tetun Dili 	Austronesian	4Timor	'ten	guts; guts small; guts big	ˈt e n	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
 141.0	guts	tetu1246	Tetun Dili 	Austronesian	4Timor	ten kik	guts; guts small; guts big	t e n _ k i k	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
 144.0	stomach; belly	tetu1246	Tetun Dili 	Austronesian	4Timor	'kɑbun	nan	ˈk ɑ b u n -	('stomach; belly', 'tetu1245-suai', 'kabun')	nan		
@@ -76,14 +76,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 163.0	arm	tetu1246	Tetun Dili 	Austronesian	4Timor	'limɑn	nan	nan	('arm', 'adon1237', 'ˈlimaˈkɜt')	nan		
 164.0	hand	tetu1246	Tetun Dili 	Austronesian	4Timor	'limɑn 'tanɛn	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
 168.0	breast	tetu1246	Tetun Dili 	Austronesian	4Timor	'susun	nan	nan	('breast', 'adan1251', 'tɔ')	nan		
-170.0	navel	tetu1246	Tetun Dili 	Austronesian	4Timor	'husɑr	nan	- - ˈh u s - ɑ r - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+170.0	navel	tetu1246	Tetun Dili 	Austronesian	4Timor	'husɑr	nan	- - ˈh u s - ɑ r - - - - -		nan		
 174.0	leg	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔɑin	nan	ˈʔ ɑ i n	('leg', 'amar1273-kotos', 'hae-f')	nan		
 175.0	foot	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔɑin	nan	nan	('foot', 'cent2245-hewa', 'waʔi')	nan		
 178.0	knee	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔɑin tur	leg sit	ˈʔ ɑ i n _ t u - - r	('knee', 'adon1237', 'ˈlotorɜt')	nan		
 179.0	back	tetu1246	Tetun Dili 	Austronesian	4Timor	'kotuk	nan	ˈk o t u k -	"('back', 'tetu1245-suai', ""'kɔtuk"")"	nan		
 182.0	skin	tetu1246	Tetun Dili 	Austronesian	4Timor	'kulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
 190.0	person	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔɛma	nan	ˈʔ ɛ m a	"('person', 'abui1241-petle', ""am.'a"")"	nan		
-191.0	name	tetu1246	Tetun Dili 	Austronesian	4Timor	'narɑn	nan	ˈn a r ɑ n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+191.0	name	tetu1246	Tetun Dili 	Austronesian	4Timor	'narɑn	nan	ˈn a r ɑ n		nan		
 192.0	child	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔɔɑn	nan	nan	('child', 'adon1237', 'ˈʔanaʔ')	nan		
 193.0	man	tetu1246	Tetun Dili 	Austronesian	4Timor	'manɛ	nan	- ˈm - a n ɛ - - - - - -	('man', 'buna1278-bobon', 'mɔnɛ')	nan		
 194.0	woman	tetu1246	Tetun Dili 	Austronesian	4Timor	'fɛto	nan	ˈf ɛ t o	('woman', 'tetu1245-suai', 'fɛtɔ')	nan		
@@ -102,7 +102,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 206.0	3sg	tetu1246	Tetun Dili 	Austronesian	4Timor	'nia	nan	ˈn i - a - - - - -	('3sg', 'amar1273-kotos', 'in')	nan		
 207.0	1pl excl	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔami	nan	ˈʔ a m i	('1pl excl', 'adon1237', 'ˈkame')	nan		
 208.0	1pl incl	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔita	nan	- ˈʔ i t a - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-209.0	2pl	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔimi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+209.0	2pl	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔimi	nan	nan		nan		
 210.0	3pl	tetu1246	Tetun Dili 	Austronesian	4Timor	'sira	nan	( - - ) - - 's i r a - - - -	('3pl', 'adon1237', 'ˈraʔe')	nan		
 211.0	no; not	tetu1246	Tetun Dili 	Austronesian	4Timor	'lɑe	nan	ˈl ɑ - e -	"('no; not', 'idat1237', ""'lɑek"")"	nan		
 211.0	no; not	tetu1246	Tetun Dili 	Austronesian	4Timor	lae	nan	l a - e -	"('no; not', 'idat1237', ""'lɑek"")"	nan		
@@ -133,7 +133,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 235.0	many	tetu1246	Tetun Dili 	Austronesian	4Timor	'barɑk	nan	ˈb a r ɑ - k	"('many', 'tetu1246', ""'barɑk"")"	nan		
 236.0	animal	tetu1246	Tetun Dili 	Austronesian	4Timor	ʔɑnimɑl	nan	ʔ ɑ n i m ɑ l -	"('animal', 'fata1247', ""ani'mali"")"	nan		
 238.0	dog	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔɑsu	nan	ˈʔ ɑ s u - - - - - - -	('dog', 'adon1237', 'ˈʔaho')	nan		
-249.0	tail	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔikun	nan	ˈʔ i k u n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+249.0	tail	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔikun	nan	ˈʔ i k u n		nan		
 250.0	fish	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔikɑn	nan	ˈʔ i k ɑ n	('fish', 'adon1237', 'ˈʔikã')	nan		
 259.0	bird	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɑnu	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan		
 260.0	wing	tetu1246	Tetun Dili 	Austronesian	4Timor	li'rɑs	nan	l i ˈr ɑ s	"('wing', 'idat1237', ""'ri:s"")"	nan		
@@ -175,7 +175,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 320.0	ripe	tetu1246	Tetun Dili 	Austronesian	4Timor	'tɑsɑk	nan	ˈt ɑ s ɑ k - -	"('ripe', 'alor1247-baran', ""'tah:a"")"	nan		
 321.0	rotten	tetu1246	Tetun Dili 	Austronesian	4Timor	dɔ'dɔk	nan	- - d ɔ ˈd ɔ k	"('rotten', 'alor1247-baran', ""'datɛ"")"	nan		
 326.0	flat	tetu1246	Tetun Dili 	Austronesian	4Timor	ka'bɛ:r	nan	k a ˈb ɛː r	('flat', 'tetu1245-suai', 'kwɛr')	nan		
-329.0	black	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɛtɑn	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+329.0	black	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɛtɑn	nan	nan		nan		
 330.0	white	tetu1246	Tetun Dili 	Austronesian	4Timor	'mutin	nan	ˈm u t i n	('white', 'adon1237', 'ˈburaʔ')	nan		
 331.0	red	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɛɑn	nan	- ˈm ɛ - ɑ n	"('red', 'alor1247-baran', ""'mɛã"")"	nan		
 332.0	green	tetu1246	Tetun Dili 	Austronesian	4Timor	'mɑtɑk	nan	ˈm ɑ t ɑ k	('green', 'amar1273-kotos', 'mamateʔ')	nan		
@@ -247,10 +247,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 449.0	to count	tetu1246	Tetun Dili 	Austronesian	4Timor	'sura	nan	nan	('to count', 'buna1278-bobon', 'sura')	nan		
 450.0	one	tetu1246	Tetun Dili 	Austronesian	4Timor	'ʔida	nan	ˈʔ i d a	('one', 'amar1273-kotos', 'meseʔ')	nan		
 451.0	two	tetu1246	Tetun Dili 	Austronesian	4Timor	'rua	nan	- - ˈr u a	"('two', 'alor1247-baran', ""'rua"")"	nan		
-452.0	three	tetu1246	Tetun Dili 	Austronesian	4Timor	'tolu	nan	ˈt o l - u	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+452.0	three	tetu1246	Tetun Dili 	Austronesian	4Timor	'tolu	nan	ˈt o l - u		nan		
 453.0	four	tetu1246	Tetun Dili 	Austronesian	4Timor	'ha:t	nan	ˈh aː t - -	('four', 'adon1237', 'ˈpaːt')	nan		
 454.0	five	tetu1246	Tetun Dili 	Austronesian	4Timor	'lima	nan	- - ˈl i m a	('five', 'adon1237', 'ˈlema')	nan		
-455.0	six	tetu1246	Tetun Dili 	Austronesian	4Timor	'ne:n	nan	- - - - ˈn eː n -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+455.0	six	tetu1246	Tetun Dili 	Austronesian	4Timor	'ne:n	nan	- - - - ˈn eː n -		nan		
 456.0	seven	tetu1246	Tetun Dili 	Austronesian	4Timor	'hitu	nan	ˈh i t - - u	('seven', 'adan1251', 'itito')	nan		
 457.0	eight	tetu1246	Tetun Dili 	Austronesian	4Timor	'wɑlu	nan	( - - ) ˈw ɑ - - l u - - - -	('eight', 'buna1278-bobon', 'alu')	nan		
 458.0	nine	tetu1246	Tetun Dili 	Austronesian	4Timor	'sia	nan	ˈs i - a	('nine', 'adon1237', 'hiwa')	nan		

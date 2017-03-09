@@ -31,7 +31,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 29.0	land; soil	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	mua	nan	nan	('land; soil', 'alor1249-sar-a', 'maxáʔ')	nan		
 30.0	Earth	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	por	nan	nan	('Earth', 'alor1249-sar-a', 'por')	nan		
 31.0	hole	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bau	nan	nan	('hole', 'blag1240-bama', 'ilbaxa')	nan		
-32.0	stone	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hauwe	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+32.0	stone	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hauwe	nan	nan		nan		
 33.0	coral (rock)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	katang	batu (rock) di pantai	nan	('coral (rock)', 'kira1248', 'wor_katan')	nan		
 34.0	(coral) reef	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lassang	karang (reef) di dasar laut	nan	('(coral) reef', 'lama1278', 'aha')	nan		
 35.0	water (fresh)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	halia	nan	nan	('water (fresh)', 'abui1241-fuime', 'je')	nan		
@@ -47,7 +47,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 50.0	fish trap	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	pilang	dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	('fish trap', 'lamm1241', 'pilang')	nan		
 50.0	fish trap	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	sar	dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	"('fish trap', 'alor1247-pandai', ""'kɛr"")"	nan		
 51.0	rope	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	korang	nan	nan	('rope', 'lamm1241', 'korang')	nan		
-52.0	machete	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	pera	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+52.0	machete	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	pera	nan	nan		nan		
 53.0	axe	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	baling	nan	nan	('axe', 'abui1241-fuime', 'faling')	nan		
 54.0	spear	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kabbi	nan	nan	"('spear', 'abui1241-takal', ""kä.'fäk"")"	nan		
 55.0	burden stick	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tiawang	nan	nan	('burden stick', 'blag1240-tuntu', 'tévaŋ')	nan		
@@ -61,9 +61,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 62.0	comb	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	waring	nan	nan	('comb', 'lamm1241', 'waring')	nan		
 63.0	mat	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bis	nan	nan	('mat', 'adan1251', 'bu')	nan		
 64.0	needle	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	suwe	nan	nan	('needle', 'lamm1241', 'suwe')	nan		
-65.0	clothing	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tayang a'lor	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+65.0	clothing	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tayang a'lor	nan	nan		nan		
 67.0	fire	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ra	nan	nan	('fire', 'abui1241-fuime', 'ara')	nan		
-68.0	smoke	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bunna	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+68.0	smoke	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bunna	nan	nan		nan		
 70.0	dust; fine earth	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bro	nan	nan	('dust; fine earth', 'kaer1234', 'bram')	nan		
 71.0	fireplace ash	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	duli	NOT 'debu' (dust, after you have been sweeping)	nan	('fireplace ash', 'kafo1240', 'aruj')	nan		
 72.0	mud	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	para	nan	nan	('mud', 'adan1251', 'par')	nan		
@@ -71,7 +71,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 74.0	gravel	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kera	nan	nan	('gravel', 'lamm1241', 'kera')	nan		
 75.0	sand	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	si'ir	nan	nan	('sand', 'buna1278-bobon', 'sɛlɛ')	nan		
 76.0	grass; brush	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	alé	nan	nan	('grass; brush', 'baka1276', 'nevel')	nan		
-77.0	house	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bla	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+77.0	house	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bla	nan	nan		nan		
 78.0	traditional house	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kabi	nan	nan	('traditional house', 'lamm1241', 'kabi')	nan		
 79.0	barn; storage house	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kebang	nan	nan	('barn; storage house', 'dein1238', 'qebang')	nan		
 80.0	raised platform	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	luppu	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
@@ -93,9 +93,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 99.0	rice plant	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	halla	nan	nan	('rice plant', 'abui1241-fuime', 'ajak_kai')	nan		
 100.0	to plant (yam)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	(a) midding	nan	nan	"('to plant (yam)', 'abui1241-takal', ""bä.'tä:kɔ_mur.'jä"")"	nan		
 101.0	to plant (rice)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	(halla) garung	nan	nan	('to plant (rice)', 'lamm1241', '(halla)_garung')	nan		
-102.0	betel nut; areca	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-103.0	betel vine	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	meta	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-104.0	lime	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hauwe	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+102.0	betel nut; areca	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bu	nan	nan		nan		
+103.0	betel vine	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	meta	nan	nan		nan		
+104.0	lime	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hauwe	nan	nan		nan		
 105.0	chew betel	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	meta na	nan	nan	"('chew betel', 'abui1241-takal', ""'me:.tiŋ_tä.'käj"")"	nan		
 106.0	sweet potato	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	maloko mar	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
 107.0	cassava	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	wesarani	nan	nan	('cassava', 'lamm1241', 'wesarani')	nan		
@@ -114,13 +114,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 120.0	bamboo	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	mali	nan	nan	('bamboo', 'abui1241-takal', 'mäj')	nan		
 121.0	banana	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	maggi	nan	nan	('banana', 'abui1241-fuime', 'musa')	nan		
 122.0	mango	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bes	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-123.0	papaya	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kattelu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+123.0	papaya	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kattelu	nan	nan		nan		
 124.0	jackfruit	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kawerang	nan	nan	('jackfruit', 'adon1237', 'ˈkwɛrak')	nan		
 125.0	breadfruit	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kili	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		
 125.0	breadfruit	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tong	nan	nan	('breadfruit', 'abui1241-fuime', 'bataa_song')	nan		
 126.0	bean	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lai	nan	nan	('bean', 'lamm1241', 'lai')	nan		
 127.0	honey	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	wani	nan	nan	('honey', 'abui1241-fuime', 'nawaang')	nan		
-128.0	milk	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hang	not 'breast'	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+128.0	milk	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hang	not 'breast'	nan		nan		
 129.0	salt	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hissi	nan	nan	('salt', 'adon1237', 'ˈsiʔa')	nan		
 130.0	fat	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kawata	nan	nan	"('fat', 'kaer1234', ""ta'ma:"")"	nan		
 131.0	flesh; meat	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	dama'a	nan	nan	('flesh; meat', 'alor1249-sar-n', 'damát')	nan		
@@ -145,10 +145,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151.0	mouth	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nai	nan	nan	('mouth', 'baka1276', 'taibor')	nan		
 152.0	chin	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nawar	nan	nan	('chin', 'kira1248', 'nawabaka')	nan		
 153.0	lips	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nelas	nan	nan	('lips', 'lamm1241', 'nelas')	nan		
-154.0	teeth	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nawasing	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+154.0	teeth	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nawasing	nan	nan		nan		
 155.0	tongue	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nalebu	nan	nan	"('tongue', 'abui1241-takal', ""tä.'li.fi"")"	nan		
-156.0	neck	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nai hule	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-156.0	neck	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	neba	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+156.0	neck	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nai hule	nan	nan		nan		
+156.0	neck	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	neba	nan	nan		nan		
 157.0	shoulder	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	namakar	nan	nan	('shoulder', 'alor1249-sar-a', 'pemaqar,_pitahál')	nan		
 163.0	arm	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nattang	nan	nan	('arm', 'abui1241-fuime', 'tatang')	nan		
 164.0	hand	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ga-ttang	nan	nan	"('hand', 'abui1241-takal', ""tä.'täŋ_pääkä"")"	nan		
@@ -160,7 +160,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 171.0	penis	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ge lupi	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	nan	('penis', 'lamm1241', 'ge_lupi')	nan		
 172.0	vagina	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ge hissa	Kemaluan perempuan, same as above.	nan	('vagina', 'lamm1241', 'ge_hissa')	nan		
 173.0	testicles	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ge bola	nan	nan	('testicles', 'lamm1241', 'ge_bola')	nan		
-174.0	leg	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nauta	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+174.0	leg	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nauta	nan	nan		nan		
 175.0	foot	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ga-uta	nan	nan	('foot', 'adan1251', 'ɛʔfa')	nan		
 176.0	heel of foot	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nauta bai gamma	nan	nan	('heel of foot', 'lamm1241', 'nauta_bai_gamma')	nan		
 178.0	knee	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ukkang	nan	nan	('knee', 'abui1241-fuime', 'tabala_buku')	nan		
@@ -182,14 +182,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 195.0	husband	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	naimu	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
 196.0	wife	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nai manne	Not 'married woman'.	nan	('bride price', 'alor1249-sar-a', 'gaʔál')	nan		
 196.0	wife	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	naru	Not 'married woman'.	nan	('bride price', 'alor1249-sar-a', 'gaʔál')	nan		
-197.0	mother	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	niu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+197.0	mother	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	niu	nan	nan		nan		
 198.0	father	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	niar	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
 199.0	older sibling	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ni'e	nikkar (man's bro), ni'e (women's bro)	nan	"('older sibling', 'lamm1241', ""ni'e"")"	nan		
 199.0	older sibling	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nikkar	nikkar (man's bro), ni'e (women's bro)	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan		
 200.0	younger sibling	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	niaku	(same sex)	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	nan		
 201.0	bride price	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gu'e	nan	nan	('bride price', 'alor1249-sar-a', 'gaʔál')	nan		
 202.0	slave	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kola	nan	nan	('slave', 'lamm1241', 'kola')	nan		
-203.0	1sg	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nang	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+203.0	1sg	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nang	nan	nan		nan		
 204.0	2sg (informal)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hang	nan	nan	('2sg (informal)', 'kaer1234', 'a:ŋ')	nan		
 206.0	3sg	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gang	nan	nan	('3sg', 'kaer1234', 'ga:ŋ')	nan		
 207.0	1pl excl	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ning	nan	nan	"('1pl excl', 'abui1241-takal', ""'ni.dɔ"")"	nan		
@@ -205,7 +205,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 218.0	where?	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tame	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
 219.0	when?	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	dinni ta	nan	nan	"('when?', 'abui1241-takal', ""te̞i.'nä:"")"	nan		
 220.0	why?	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	taddi	nan	nan	"('why?', 'fata1247', ""tɛa'nɛ"")"	nan		
-221.0	how much; how many?	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	dinni	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+221.0	how much; how many?	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	dinni	nan	nan		nan		
 222.0	how?	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tar	nan	nan	('how?', 'buna1278-bobon', 'tʃuɛn_guɛtɁon')	nan		
 223.0	this	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	saiga	nan	nan	"('this', 'kaer1234', ""'ɛga"")"	nan		
 224.0	that	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	saina	nan	nan	('that', 'amar1273-kotos', '=an')	nan		
@@ -231,7 +231,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 245.0	frog	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	halia maro'o	nan	nan	"('frog', 'lamm1241', ""halia_maro'o"")"	nan		
 246.0	bat	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kalór	nan	nan	('bat', 'lamm1241', 'kalór')	nan		
 246.0	bat	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	madde	nan	nan	"('bat', 'abui1241-takal', ""mä.'re̞l"")"	nan		
-249.0	tail	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	geku	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+249.0	tail	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	geku	nan	nan		nan		
 250.0	fish	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hap	nan	nan	('fish', 'abui1241-fuime', 'afu')	nan		
 251.0	shark	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	sibbu	nan	nan	('shark', 'adan1251', 'tabɛi')	nan		
 252.0	whale	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	perung	nan	nan	('whale', 'adan1251', 'siruŋ_piruŋ')	nan		
@@ -264,7 +264,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 281.0	big	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ara	nan	nan	('big', 'baka1276', 'le')	nan		
 282.0	small	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kalla	nan	nan	('small', 'lamm1241', 'kalla')	nan		
 283.0	old; worn (house)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kassa	nan	nan	('old; worn (house)', 'lamm1241', 'kassa')	nan		
-284.0	new (house)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	sabi'a	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+284.0	new (house)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	sabi'a	nan	nan		nan		
 285.0	old (people)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	madda	nan	nan	('old (people)', 'adan1251-lawah', 'tumaʔa')	nan		
 286.0	young (people)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bogga	nan	nan	('young (people)', 'lamm1241', 'bogga')	nan		
 287.0	lazy	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	massa	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
@@ -290,10 +290,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 311.0	sharp	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	maggang	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan	('sharp', 'kabo1247', 'namaŋ')	nan		
 312.0	blunt; dull	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	mukka	nan	nan	('blunt; dull', 'lamm1241', 'mukka')	nan		
 313.0	heavy	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	sulla	nan	nan	('heavy', 'alor1249-sar-a', 'səfúr')	nan		
-314.0	light (weight)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	diala	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+314.0	light (weight)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	diala	nan	nan		nan		
 315.0	straight	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lamura	nan	nan	('straight', 'abui1241-fuime', 'mulang')	nan		
 316.0	wide	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	salala	nan	nan	('wide', 'abui1241-fuime', 'tilesing')	nan		
-318.0	correct	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	mita	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+318.0	correct	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	mita	nan	nan		nan		
 319.0	wrong	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	bekkang	nan	nan	('wrong', 'lamm1241', 'bekkang')	nan		
 320.0	ripe	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	dala	nan	nan	('blue', 'lamm1241', 'haluaga')	nan		
 321.0	rotten	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	baratta	nan	nan	('rotten', 'lamm1241', 'baratta')	nan		
@@ -329,16 +329,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 348.0	to say	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	asang	nan	nan	('to say', 'lamm1241', 'asang')	nan		
 349.0	to speak	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	birang	nan	nan	('to speak', 'dein1238', 'tra_birang')	nan		
 352.0	to lie down	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ti'ang	nan	nan	('to lie down', 'abui1241-fuime', 'ta')	nan		
-353.0	to sleep	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ti'ang	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+353.0	to sleep	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ti'ang	nan	nan		nan		
 354.0	to wake up	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	natianing	nan	nan	('to wake up', 'adan1251', 'to')	nan		
 355.0	to wake someone up	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gatipping	nan	nan	('to wake someone up', 'lamm1241', 'gatipping')	nan		
 356.0	to bathe	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	-ulang	nan	nan	('bitter', 'lamm1241', 'ku_minna')	nan		
-357.0	to bathe (a child)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gaulang	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+357.0	to bathe (a child)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gaulang	nan	nan		nan		
 358.0	to sit	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	mising	nan	nan	('to sit', 'atim1239', 'miti')	nan		
 359.0	to stand	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	natar	nan	nan	('to stand', 'abui1241-fuime', 'nate')	nan		
 360.0	to walk	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lama	nan	nan	('to walk', 'adan1251-lawah', 'lami')	nan		
 361.0	to run	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	biring	nan	nan	('to run', 'abui1241-fuime', 'furei')	nan		
-363.0	to swim	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tallang	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+363.0	to swim	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tallang	nan	nan		nan		
 364.0	to fly	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hilang	nan	nan	('to fly', 'abui1241-fuime', 'li')	nan		
 365.0	to fall (from above)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	tasing	nan	nan	('to fall (from above)', 'lamm1241', 'tasing')	nan		
 366.0	to fall over	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	baulung	e.g. pohon yang dipotong.	nan	('to fall over', 'lamm1241', 'baulung')	nan		
@@ -354,17 +354,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 376.0	to die	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hinna	nan	nan	('to die', 'abui1241-fuime', 'mong')	nan		
 377.0	to give	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gania	nan	nan	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	nan		
 378.0	to wipe	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lui	nan	nan	('to wipe', 'abui1241-takal', 'miŋ_luq')	nan		
-378.0	to wipe	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	yabbi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+378.0	to wipe	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	yabbi	nan	nan		nan		
 379.0	to come	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ma	nan	nan	('to come', 'abui1241-fuime', 'me')	nan		
 380.0	to laugh	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	yali	nan	nan	('to laugh', 'abui1241-petle', 'jei')	nan		
 381.0	to cry	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	halli	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
 382.0	to dance	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	sauke	nan	nan	('child', 'kama1365', 'dum')	nan		
 383.0	to sing	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	dali	nan	nan	('to sing', 'adan1251', 'dal')	nan		
-384.0	to burn (clear land)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	haddi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+384.0	to burn (clear land)	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	haddi	nan	nan		nan		
 385.0	to burn; to shine	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	war	nan	nan	('to burn; to shine', 'cent2245-hewa', 'baraʔ')	nan		
 386.0	to shine	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	diala	nan	nan	('to shine', 'alor1249-sar-a', 'liyar')	nan		
 387.0	to chew	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gammu	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
-389.0	to suck	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	pu'ung	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+389.0	to suck	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	pu'ung	nan	nan		nan		
 390.0	to blow	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	pusakai	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan		
 390.0	to blow	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	pussa	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan		
 390.0	to blow	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	puyang	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan		
@@ -374,7 +374,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 394.0	to scratch	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	baraggas	nan	nan	('to scratch', 'lamm1241', 'baraggas')	nan		
 394.0	to scratch	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	karasi	nan	nan	('to scratch', 'alor1249-sar-a', 'kəraab')	nan		
 395.0	itchy	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kaka	nan	nan	('itchy', 'adan1251', 'ka:k')	nan		
-396.0	to swell	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	halua	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+396.0	to swell	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	halua	nan	nan		nan		
 397.0	to hit	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gakkang	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
 398.0	to slap	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West		E.g. to slap someone on the cheek; NOT to clap hands. 	nan	nan	nan		
 399.0	to bite	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	gassi	nan	nan	('to bite', 'adan1251', 'eh')	nan		
@@ -404,7 +404,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 424.0	to turn	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	kolang	nan	nan	('to turn', 'lamm1241', 'kolang')	nan		
 425.0	to dream	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hippe	nan	nan	('to dream', 'adan1251', 'apai')	nan		
 426.0	to crouch; to bend over	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	lukking	To crouch as on an Indonesian toilet, NOT: to kneel	nan	('to crouch; to bend over', 'abui1241-fuime', 'luke')	nan		
-428.0	to choose	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nuta	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+428.0	to choose	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	nuta	nan	nan		nan		
 429.0	to grow	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ilang	nan	nan	('to grow', 'alor1249-sar-a', 'ilá')	nan		
 430.0	to squeeze	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	ding	nan	nan	('hungry', 'lamm1241', 'tas_massa')	nan		
 430.0	to squeeze	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	long	nan	nan	('to squeeze', 'lamm1241', 'long')	nan		
@@ -436,8 +436,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 455.0	six	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	hisnakkung	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
 456.0	seven	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	betalaku	nan	nan	('seven', 'lamm1241', 'betalaku')	nan		
 457.0	eight	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	beatiga	nan	nan	('eight', 'alor1249-sar-a', 'santig')	nan		
-458.0	nine	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	anuktannang	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-459.0	ten	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	keanuku	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+458.0	nine	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	anuktannang	nan	nan		nan		
+459.0	ten	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	keanuku	nan	nan		nan		
 460.0	eleven	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	keanuku wali ye	nan	nan	"('eleven', 'abui1241-takal', ""kär.'nu.qu._wäl_'nu.qu"")"	nan		
 461.0	twelve	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	keanuku wali alaku	nan	nan	('twelve', 'abui1241-fuime', 'wal_ajoku')	nan		
 462.0	thirteen	lamm1241	Western Pantar-Tubbe	Timor-Alor-Pantar	1Pantar, 1West	keanuku wali atiga	nan	nan	"('thirteen', 'abui1241-takal', ""kär.'nu.qu._wäl_'su.ä"")"	nan		
