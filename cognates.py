@@ -130,9 +130,9 @@ if __name__ == "__main__":
     parser.add_argument("--within-meaning", default=False, action='store_true',
                         help="Split cross-semantic cognate classes at meaning boundaries")
     parser.add_argument("--start", type=int, default=0,
-                        help="Start running at step START")
-    parser.add_argument("--end", type=int, default=2,
-                        help="Finish running at step END")
+                        help="Start running before step START")
+    parser.add_argument("--end", type=int, default=3,
+                        help="Finish running after step END")
     parser.add_argument("--reset", action="append", default=[],
                         help="Cognate IDs, meanings and language IDs to reset to automatic coding")
     args = parser.parse_args()
@@ -209,11 +209,23 @@ if __name__ == "__main__":
             if reset:
                 cogid = row["AUTO_COGID"]
                 representatives = cognates[cognates["AUTO_COGID"] == cogid]
-                representative = representatives.iloc[0]
-                cognates.set_value(i, "LONG_COGID",
-                                   representative["COGNATE_SET"])
             else:
-                cognates.set_value(i, "LONG_COGID", row["COGNATE_SET"])
+                cogid = row["COGNATE_SET"]
+                representatives = cognates[cognates["COGNATE_SET"] == cogid]
+            representative = representatives.iloc[0]
+            cognates.set_value(i, "LONG_COGID",
+                               (representative["DOCULECT_ID"],
+                                representative["CONCEPT_ID"],
+                                representative["IPA"]))
+
+        cognates.to_csv("tap-cognates-mg.tsv",
+                        index=False,
+                        na_rep="",
+                        sep="\t")
+
+    if args.start <= 3 <= args.end:
+        cognates = pandas.read_csv('tap-cognates-mg.tsv', sep='\t',
+                                   keep_default_na=False, na_values=[""])
 
         short = {"Austronesian": "AN",
                 "Timor-Alor-Pantar": "TAP"}
@@ -238,6 +250,7 @@ if __name__ == "__main__":
             for i in cognates["LONG_COGID"]:
                 if i not in COG_IDs:
                     COG_IDs.append(i)
+            print(COG_IDs)
             cognates["COGID"] = [
                 COG_IDs.index(x)
                 for x in cognates["LONG_COGID"]]
@@ -246,7 +259,7 @@ if __name__ == "__main__":
                         na_rep="",
                         sep="\t")
 
-    if args.start <= 3 <= args.end:
+    if args.start <= 4 <= args.end:
         # align data
         alm = Alignments('tap-cognates-merged.tsv', ref='COGID',
                          segments='ALIGNMENT', transcription='IPA',
@@ -255,7 +268,7 @@ if __name__ == "__main__":
                   mode="dialign", method="progressive", model="sca")
         alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
 
-    if args.start <= 4 <= args.end:
+    if args.start <= 5 <= args.end:
         alignments = pandas.read_csv(
             'tap-aligned.tsv',
             sep="\t",
