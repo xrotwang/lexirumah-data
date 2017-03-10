@@ -131,9 +131,13 @@ if __name__ == "__main__":
                         help="Split cross-semantic cognate classes at meaning boundaries")
     parser.add_argument("--start", type=int, default=0,
                         help="Start running at step START")
+    parser.add_argument("--end", type=int, default=2,
+                        help="Finish running at step END")
+    parser.add_argument("--reset", action="append", default=[],
+                        help="Cognate IDs, meanings and language IDs to reset to automatic coding")
     args = parser.parse_args()
 
-    if args.start <= 0:
+    if args.start <= 0 <= args.end:
         data = pandas.io.parsers.read_csv(
             args.filename,
             sep="," if args.filename.endswith(".csv") else "\t",
@@ -171,7 +175,7 @@ if __name__ == "__main__":
             na_rep="",
             encoding='utf-8')
 
-    if args.start <= 1:
+    if args.start <= 1 <= args.end:
         lex = LexStat("unaligned.tsv")
         lex.get_scorer(preprocessing=False,
                        runs=10000, ratio=(2, 1), vscale=1.0)
@@ -183,7 +187,7 @@ if __name__ == "__main__":
                    prettify=False)
         scorer = lex.bscorer
 
-    if args.start <= 2:
+    if args.start <= 2 <= args.end:
         cognates = pandas.read_csv(
             'tap-cognates.tsv', sep='\t', keep_default_na=False,
             na_values=[""])
@@ -197,8 +201,12 @@ if __name__ == "__main__":
         cognates["LONG_COGID"] = None
         for i, row in list(cognates.iterrows()):
             cognateset = row["COGNATE_SET"]
-            if cognateset == "nan" or not cognateset or pandas.isnull(
-                    cognateset):
+            reset = cognateset == "nan" or not cognateset or pandas.isnull(
+                    cognateset)
+            reset |= row["COGNATE_SET"] in args.reset
+            reset |= row["DOCULECT"] in args.reset
+            reset |= row["CONCEPT"] in args.reset
+            if reset:
                 cogid = row["AUTO_COGID"]
                 representatives = cognates[cognates["AUTO_COGID"] == cogid]
                 representative = representatives.iloc[0]
@@ -238,9 +246,7 @@ if __name__ == "__main__":
                         na_rep="",
                         sep="\t")
 
-    if args.start <= 3:
-        sys.exit()
-
+    if args.start <= 3 <= args.end:
         # align data
         alm = Alignments('tap-cognates-merged.tsv', ref='COGID',
                          segments='ALIGNMENT', transcription='IPA',
@@ -249,7 +255,7 @@ if __name__ == "__main__":
                   mode="dialign", method="progressive", model="sca")
         alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
 
-    if args.start <= 4:
+    if args.start <= 4 <= args.end:
         alignments = pandas.read_csv(
             'tap-aligned.tsv',
             sep="\t",
