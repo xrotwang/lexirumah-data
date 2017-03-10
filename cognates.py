@@ -155,8 +155,6 @@ if __name__ == "__main__":
 
         data["ALIGNMENT"] = list(alignment(data))
 
-        import pdb
-        pdb.set_trace()
         data["COGNATE_SET"] = [
             "" if (i=='nan' or pandas.isnull(i) or not i) else
             list(set(data["COGNATE_SET"])).index(i)
@@ -188,7 +186,7 @@ if __name__ == "__main__":
     if args.start <= 2:
         cognates = pandas.read_csv(
             'tap-cognates.tsv', sep='\t', keep_default_na=False,
-            na_values=[""], skiprows=[0, 1, 2, 4])
+            na_values=[""])
 
         cognates = cognates[~(
             pandas.isnull(cognates["DOCULECT"])
@@ -197,8 +195,6 @@ if __name__ == "__main__":
         cognates.sort_values(by="DOCULECT", inplace=True)
 
         cognates["LONG_COGID"] = None
-        import pdb
-        pdb.set_trace()
         for i, row in list(cognates.iterrows()):
             cognateset = row["COGNATE_SET"]
             if cognateset == "nan" or not cognateset or pandas.isnull(
