@@ -199,11 +199,12 @@ if __name__ == "__main__":
         cognates.sort_values(by="DOCULECT", inplace=True)
 
         cognates["LONG_COGID"] = None
+        pairs = set()
         for i, row in list(cognates.iterrows()):
             cognateset = row["COGNATE_SET"]
             reset = cognateset == "nan" or not cognateset or pandas.isnull(
                     cognateset)
-            reset |= row["COGNATE_SET"] in args.reset
+            reset |= str(row["COGNATE_SET"]) in args.reset
             reset |= row["DOCULECT"] in args.reset
             reset |= row["CONCEPT"] in args.reset
             if reset:
@@ -213,11 +214,14 @@ if __name__ == "__main__":
                 cogid = row["COGNATE_SET"]
                 representatives = cognates[cognates["COGNATE_SET"] == cogid]
             representative = representatives.iloc[0]
+            if row["CONCEPT"] != representative["CONCEPT"]:
+                pairs.add((row["CONCEPT"], representative["CONCEPT"]))
             cognates.set_value(i, "LONG_COGID",
                                (representative["DOCULECT_ID"],
                                 representative["CONCEPT_ID"],
                                 representative["IPA"]))
 
+        print(pairs)
         cognates.to_csv("tap-cognates-mg.tsv",
                         index=False,
                         na_rep="",

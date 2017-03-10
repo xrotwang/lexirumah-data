@@ -1,12 +1,12 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɛl'lau	sun high	ˈl ɛ l ˈl a u	"('sky', 'idat1237', ""la'lehɑn"")"	nan		
 1.0	sun	mamb1306	Mambai	Austronesian	4Timor, 2Central	lɛl 'mata	nan	l ɛ l - _ ˈm a t a -	('sun', 'adon1237', 'ˈrɜra')	nan		
-2.0	moon	mamb1306	Mambai	Austronesian	4Timor, 2Central	hul'kai	nan	h u l - - - ( - - ˈk a i - - - )		nan		
+2.0	moon	mamb1306	Mambai	Austronesian	4Timor, 2Central	hul'kai	nan	h u l - - - ( - - ˈk a i - - - )	('moon', 'baka1276', 'húru')	nan		
 3.0	star	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hit	nan	ˈh i t -	('star', 'baka1276', 'id')	nan		
 4.0	night	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɔda	dark	ˈh ɔ d a	"('night', 'mamb1306', ""'hɔda"")"	nan		
 5.0	day	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɛl'ban	sun bright	ˈl ɛ l ˈb a n	"('day', 'adon1237', ""rɜ'_rɔ̃"")"	nan		
 6.0	year	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tɔ:n	nan	ˈt ɔː n - -	('year', 'abui1241-petle', 'tuŋ')	nan		
-13.0	cloud	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'bɑi	nan	s ɑ ˈb ɑ i - - - -	"('cloud', 'laka1255', ""sa'bɑi"")"	nan		
+13.0	cloud	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'bɑi	nan	s ɑ ˈb ɑ i - - - -	"('cloud', 'mamb1306', ""sɑ'bɑi"")"	nan		
 14.0	wind	mamb1306	Mambai	Austronesian	4Timor, 2Central	'gel	nan	ˈg e l -	('wind', 'buna1278-bobon', 'bɛl')	nan		
 15.0	rain	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔus	nan	ˈʔ u s - -	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
 21.0	fog	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'bɑi 'hɔsa	? closed	s ɑ ˈb ɑ i _ ˈh ɔ s a -	"('fog', 'alor1247-munas', ""sə'pu"")"	nan		
@@ -15,22 +15,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 25.0	lake	mamb1306	Mambai	Austronesian	4Timor, 2Central	'le:b	nan	ˈl eː b	"('lake', 'mamb1306', ""'le:b"")"	nan		
 26.0	mountain	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔudu 'lau	nan	ˈʔ u d u _ ˈl a u	"('mountain', 'mamb1306', ""'ʔudu_'lau"")"	nan		
 29.0	land; soil	mamb1306	Mambai	Austronesian	4Timor, 2Central	'rae	nan	ˈr a e	"('land; soil', 'idat1237', ""la'rek"")"	nan		
-32.0	stone	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hat	nan	ˈh a t - -		nan		
+32.0	stone	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hat	nan	ˈh a t - -	"('stone', 'adon1237', ""'watɔ"")"	nan		
 35.0	water (fresh)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɛr	nan	ˈʔ ɛ r	('water (fresh)', 'abui1241-fuime', 'je')	nan		
 36.0	sea; sea water	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tas	nan	ˈt a s - - - - - -	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	nan		
 39.0	forest	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɑi 'lala	nan	nan	"('forest', 'idat1237', ""'ʔɑi_le'ʔik"")"	nan		
-43.0	garden	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔum 'ʔahe	nan	ʔ u m - _ ˈʔ a h e	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+43.0	garden	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔum 'ʔahe	nan	ʔ u m - _ ˈʔ a h e	"('garden', 'adon1237', ""'mãː"")"	nan		
 45.0	road; path; way	mamb1306	Mambai	Austronesian	4Timor, 2Central	dambat	nan	d a m b a t	('road; path; way', 'mamb1306', 'dambat')	nan		
 45.0	road; path; way	mamb1306	Mambai	Austronesian	4Timor, 2Central	sa'lolo	nan	s a ˈl o l o	"('road; path; way', 'kema1243', ""'sala"")"	nan		
 46.0	canoe	mamb1306	Mambai	Austronesian	4Timor, 2Central	'bɛro	small boat, big boat	ˈb ɛ r o - -	"('canoe', 'abui1241-petle', ""'pe.laŋ"")"	nan		
 46.0	canoe	mamb1306	Mambai	Austronesian	4Timor, 2Central	ro	small boat, big boat	r o -	"('canoe', 'idat1237', ""'rɔ:"")"	nan		
-51.0	rope	mamb1306	Mambai	Austronesian	4Timor, 2Central	'taɛl	nan	ˈt a ɛ l - -	('rope', 'abui1241-takal', 'tʰi.lä')	nan		
-51.0	rope	mamb1306	Mambai	Austronesian	4Timor, 2Central	tal	nan	t a - l - -	('rope', 'abui1241-takal', 'tʰi.lä')	nan		
+51.0	rope	mamb1306	Mambai	Austronesian	4Timor, 2Central	'taɛl	nan	ˈt a ɛ l - -	('rope', 'abui1241-fuime', 'tila')	nan		
+51.0	rope	mamb1306	Mambai	Austronesian	4Timor, 2Central	tal	nan	t a - l - -	('rope', 'abui1241-fuime', 'tila')	nan		
 52.0	machete	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ktan	nan	ˈk - t a n -	('machete', 'buna1278-malia', 'katana')	nan		
 56.0	stick; pole	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɑi 'tutu	nan	ʔ ɑ i _ ˈt u t u - -	('stick; pole', 'cent2245-hewa', 'ʔai_anak')	nan		
 61.0	knife	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɪr	nan	ˈn ɪ r	"('knife', 'mamb1306', ""'nɪr"")"	nan		
 65.0	clothing	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛna	nan	ˈh ɛ n a -	('clothing', 'adan1251-lawah', 'fɛnɛ')	nan		
-67.0	fire	mamb1306	Mambai	Austronesian	4Timor, 2Central	'aph	nan	- ˈa ph - -	('fire', 'adan1251-otvai', 'aʔfail')	nan		
+67.0	fire	mamb1306	Mambai	Austronesian	4Timor, 2Central	'aph	nan	- ˈa ph - -	('fire', 'adon1237', 'ˈʔape')	nan		
 68.0	smoke	mamb1306	Mambai	Austronesian	4Timor, 2Central	'masu	nan	ˈm a s u	('smoke', 'amar1273-kotos', 'masuʔ')	nan		
 70.0	dust; fine earth	mamb1306	Mambai	Austronesian	4Timor, 2Central	'rae 'ʔɑpɔ	soil dust	ˈr a e _ ˈʔ ɑ p ɔ -	"('dust; fine earth', 'idat1237', ""la'rɛ_ʔɑ'huk"")"	nan		
 71.0	fireplace ash	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ra:p	nan	ˈr aː p	"('fireplace ash', 'kema1243', ""'ʔapi_'rapɔ"")"	nan		
@@ -41,14 +41,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86.0	bark (of tree)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɑi 'tia	nan	nan	('bark (of tree)', 'adan1251-lawah', 'ti_ʔui')	nan		
 87.0	leaf	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɔra	nan	ˈn ɔ r a	"('leaf', 'buna1278-malia', ""'nɔʔ;_'otɛl_'nɔʔ"")"	nan		
 91.0	root	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ha	nan	ˈh a - - -	"('root', 'abui1241-takal', ""he̞.'äj"")"	nan		
-92.0	fruit	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hua	nan	- - - - - - ˈh u - a -	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+92.0	fruit	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hua	nan	- - - - - - ˈh u - a -	('fruit', 'adon1237', 'kajo_ˈwuã')	nan		
 93.0	seed	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nam 'hin	nan	ˈn a m _ ˈh i n	('seed', 'amar1273-kotos', 'fini')	nan		
 97.0	rice grains (unhusked) (raw from field)	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑn	nan	s ɑ n	('rice grains (unhusked) (raw from field)', 'mamb1306', 'sɑn')	nan		
 98.0	cooked rice	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔe:t	nasi, rice cook; nasi, cooked rice	ˈʔ eː t -	"('cooked rice', 'idat1237', ""'ʔetu"")"	nan		
 98.0	cooked rice	mamb1306	Mambai	Austronesian	4Timor, 2Central	san mami	nasi, rice cook; nasi, cooked rice	s a - n - _ m a m i	"('cooked rice', 'abui1241-takal', ""si.'eŋ_mä"")"	nan		
 99.0	rice plant	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sɑn 'hɔs	rice clean, rice skin; white rice, brown rice	ˈs ɑ n _ ˈh ɔ s -	"('rice plant', 'idat1237', ""la'hɔ:s"")"	nan		
 99.0	rice plant	mamb1306	Mambai	Austronesian	4Timor, 2Central	san tia	rice clean, rice skin; white rice, brown rice	s a n _ t i - a	('rice plant', 'mamb1306', 'san_tia')	nan		
-102.0	betel nut; areca	mamb1306	Mambai	Austronesian	4Timor, 2Central	'bo:	nan	nan		nan		
+102.0	betel nut; areca	mamb1306	Mambai	Austronesian	4Timor, 2Central	'bo:	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	nan		
 103.0	betel vine	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ma:l	nan	ˈm aː l - -	('betel vine', 'adon1237', 'ˈmaluʔ')	nan		
 104.0	lime	mamb1306	Mambai	Austronesian	4Timor, 2Central	'gau	nan	ˈg a u	"('lime', 'mamb1306', ""'gau"")"	nan		
 105.0	chew betel	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mɑm 'ma:l	nan	ˈm ɑ m - _ ˈm aː l - -	('chew betel', 'amar1273-kotos', 'n-mama')	nan		
@@ -58,28 +58,28 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 112.0	corn; maize	mamb1306	Mambai	Austronesian	4Timor, 2Central	bɑ'tar	nan	b ɑ ˈt a r	('corn; maize', 'abui1241-fuime', 'faati')	nan		
 128.0	milk	mamb1306	Mambai	Austronesian	4Timor, 2Central	su'sɛra	nan	s u ˈs ɛ r a -	('milk', 'adon1237', 'ˈtuhɔ')	nan		
 129.0	salt	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sia	nan	ˈs i a - -	('salt', 'baka1276', 'sia')	nan		
-130.0	fat	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l a	"('fat', 'mamb1306', ""'hula"")"	nan		
+130.0	fat	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hula	nan	ˈh u l a	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	nan		
 131.0	flesh; meat	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sɪs	nan	ˈs ɪ s -	('flesh; meat', 'amar1273-kotos', 'sisi')	nan		
-132.0	bone	mamb1306	Mambai	Austronesian	4Timor, 2Central	'rui	nan	ˈr u - i -		nan		
+132.0	bone	mamb1306	Mambai	Austronesian	4Timor, 2Central	'rui	nan	ˈr u - i -	('bone', 'adon1237', 'ˈriʔũː')	nan		
 133.0	rib	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lar	nan	ˈl a r	"('rib', 'mamb1306', ""'lar"")"	nan		
-139.0	liver	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɑte	nan	ˈʔ ɑ t e -		nan		
+139.0	liver	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɑte	nan	ˈʔ ɑ t e -	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
 141.0	guts	mamb1306	Mambai	Austronesian	4Timor, 2Central	te buti	intestines; intestines white; intestines brown	t e _ b u t i -	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
 141.0	guts	mamb1306	Mambai	Austronesian	4Timor, 2Central	te:	intestines; intestines white; intestines brown	t eː -	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
 144.0	stomach; belly	mamb1306	Mambai	Austronesian	4Timor, 2Central	'bɑi	nan	ˈb ɑ - i -	"('stomach; belly', 'idat1237', ""'baer"")"	nan		
-145.0	head	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔulu 'hɑtu	nan	ˈʔ u l u _ ˈh ɑ t u	"('head', 'laka1255', ""'ulu_'hatu"")"	nan		
+145.0	head	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔulu 'hɑtu	nan	ˈʔ u l u _ ˈh ɑ t u	('head', 'adan1251-lawah', 'loŋ')	nan		
 146.0	hair	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔulu laha	head hair	ˈʔ u l u _ l a h a	('hair', 'amar1273-kotos', 'ʔnaak_funu-f')	nan		
-148.0	eye	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mata	nan	- - - ˈm a t a -	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
+148.0	eye	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mata	nan	- - - ˈm a t a -	('eye', 'adon1237', 'matak3t')	nan		
 149.0	ear	mamb1306	Mambai	Austronesian	4Timor, 2Central	'kikɑ	nan	ˈk i k ɑ -	"('ear', 'kema1243', ""'ligɑr"")"	nan		
-150.0	nose	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔilu	nan	ˈʔ i l u -	"('nose', 'kema1243', ""'ʔilur"")"	nan		
+150.0	nose	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔilu	nan	ˈʔ i l u -	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
 151.0	mouth	mamb1306	Mambai	Austronesian	4Timor, 2Central	'gugu	nan	ˈg u g u -	('mouth', 'alor1249-sar-n', 'noxos')	nan		
-153.0	lips	mamb1306	Mambai	Austronesian	4Timor, 2Central	'gugu 'lita	nan	ˈg u g u _ ˈl i t a	('lips', 'buna1278-suai', 'gigɔ')	nan		
-154.0	teeth	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nipa	nan	ˈn i p a -	('teeth', 'adon1237', 'ˈipɜʔ')	nan		
+153.0	lips	mamb1306	Mambai	Austronesian	4Timor, 2Central	'gugu 'lita	nan	ˈg u g u _ ˈl i t a	('lips', 'buna1278-bobon', 'gaga_gi')	nan		
+154.0	teeth	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nipa	nan	ˈn i p a -	('teeth', 'adon1237', 'ˈip3ʔ')	nan		
 155.0	tongue	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lama	nan	ˈl a m a - -	"('tongue', 'kema1243', ""la'mɑr"")"	nan		
-156.0	neck	mamb1306	Mambai	Austronesian	4Timor, 2Central	tə'geu	nan	t ə ˈg e u	"('neck', 'laka1255', ""'keu"")"	nan		
+156.0	neck	mamb1306	Mambai	Austronesian	4Timor, 2Central	tə'geu	nan	t ə ˈg e u	"('neck', 'mamb1306', ""tə'geu"")"	nan		
 163.0	arm	mamb1306	Mambai	Austronesian	4Timor, 2Central	'limɑ	nan	nan	('arm', 'adon1237', 'ˈlimaˈkɜt')	nan		
 164.0	hand	mamb1306	Mambai	Austronesian	4Timor, 2Central	'limɑ	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
-168.0	breast	mamb1306	Mambai	Austronesian	4Timor, 2Central	'susu	nan	nan	('breast', 'adan1251', 'tɔ')	nan		
-170.0	navel	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pusaʔ	nan	- - ˈp u s - a ʔ - - - - -		nan		
+168.0	breast	mamb1306	Mambai	Austronesian	4Timor, 2Central	'susu	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	nan		
+170.0	navel	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pusaʔ	nan	- - ˈp u s - a ʔ - - - - -	('navel', 'abui1241-fuime', 'tabike')	nan		
 174.0	leg	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɔɛ	nan	ˈʔ ɔ ɛ -	('leg', 'amar1273-kotos', 'hae-f')	nan		
 175.0	foot	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɔɛ 'tane	leg ground	ʔ ɔ ɛ _ ˈt a n e	('foot', 'lama1278', 'kɔan_ˈleiŋ')	nan		
 178.0	knee	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɔɛ 'tunur	nan	ʔ ɔ ɛ - _ ˈt u n u r	('knee', 'adon1237', 'ˈlotorɜt')	nan		
@@ -91,29 +91,29 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193.0	man	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ma:n	nan	- ˈm - aː n - - - - - - -	('man', 'buna1278-bobon', 'mɔnɛ')	nan		
 194.0	woman	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hi:n	nan	- - ˈh iː n - - -	"('woman', 'idat1237', ""mahi'nak"")"	nan		
 195.0	husband	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɑi	nan	- - - - ˈl ɑ - i -	('husband', 'adon1237', 'ˈlakhẽ')	nan		
-196.0	wife	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hinɛ	nan	nan	('that', 'adon1237', 'ˈnhẽː')	nan		
+196.0	wife	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hinɛ	nan	nan	('wife', 'adon1237', 'hãː')	nan		
 197.0	mother	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔina	nan	nan	('mother', 'adon1237', 'ˈʔina')	nan		
 198.0	father	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔama	nan	nan	('father', 'adon1237', 'ˈʔama')	nan		
 199.0	older sibling	mamb1306	Mambai	Austronesian	4Timor, 2Central	bou (m)	nan	b o - u -	('older sibling', 'idat1237', 'pouk')	nan		
-199.0	older sibling	mamb1306	Mambai	Austronesian	4Timor, 2Central	ka:	nan	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan		
-200.0	younger sibling	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɑli	nan	ˈʔ ɑ l i	('younger sibling', 'adan1251', 'di')	nan		
+199.0	older sibling	mamb1306	Mambai	Austronesian	4Timor, 2Central	ka:	nan	nan	('older sibling', 'adon1237', 'kaka')	nan		
+200.0	younger sibling	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɑli	nan	ˈʔ ɑ l i	('younger sibling', 'adon1237', 'ˈʔarim')	nan		
 202.0	slave	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔata	nan	ˈʔ a t a - -	('slave', 'abui1241-takal', 'hɔ.täi')	nan		
 203.0	1sg	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔau	nan	nan	('1sg', 'amar1273-kotos', 'au')	nan		
 204.0	2sg (informal)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɔ:	nan	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		
 205.0	2sg (polite)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɔ:	nan	nan	"('2sg (polite)', 'kema1243', ""'ʔɔ:"")"	nan		
 206.0	3sg	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔu'ra	nan	ʔ u ˈr a	"('3sg', 'kema1243', ""'ʔua"")"	nan		
-207.0	1pl excl	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɑm	nan	ʔ ɑ m -	('1pl excl', 'adon1237', 'ˈkame')	nan		
-208.0	1pl incl	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔit	nan	- ˈʔ i t - - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-209.0	2pl	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔim hai'ra:	nan	nan		nan		
+207.0	1pl excl	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɑm	nan	ʔ ɑ m -	"('1pl excl', 'kema1243', ""'ʔami"")"	nan		
+208.0	1pl incl	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔit	nan	- ˈʔ i t - - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+209.0	2pl	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔim hai'ra:	nan	nan	"('2pl', 'mamb1306', ""ʔim_hai'ra:"")"	nan		
 210.0	3pl	mamb1306	Mambai	Austronesian	4Timor, 2Central	rɔm	nan	r ɔ m -	('3pl', 'cent2245-hewa', 'rimu')	nan		
-211.0	no; not	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tɑi 'sid	nan	ˈt ɑ i _ ˈs i d	"('no; not', 'mamb1306', ""'tɑi_'sid"")"	nan		
-212.0	and	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɔr	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
-213.0	because	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɛt	nan	ˈl ɛ t	"('because', 'mamb1306', ""'lɛt"")"	nan		
-213.0	because	mamb1306	Mambai	Austronesian	4Timor, 2Central	des	nan	d e s	('because', 'mamb1306', 'des')	nan		
-214.0	if	mamb1306	Mambai	Austronesian	4Timor, 2Central	arpila	'future'; 'past'	a r p i l a	('if', 'mamb1306', 'arpila')	nan		
-214.0	if	mamb1306	Mambai	Austronesian	4Timor, 2Central	ɑr'pil	'future'; 'past'	ɑ r ˈp i l -	('if', 'mamb1306', 'arpila')	nan		
-215.0	with	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɔr	nan	ˈn ɔ r -	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
-216.0	what?	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'pid	nan	s ɑ ˈp - i d -	"('what?', 'kema1243', "",sɑp'sia"")"	nan		
+211.0	no; not	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tɑi 'sid	nan	ˈt ɑ i _ ˈs i d	('no; not', 'keda1252', 'tɔn')	nan		
+212.0	and	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɔr	nan	nan	('and', 'adon1237', 'ˈtaliʔ')	nan		
+213.0	because	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɛt	nan	ˈl ɛ t	('because', 'cent2245-hewa', 'əle')	nan		
+213.0	because	mamb1306	Mambai	Austronesian	4Timor, 2Central	des	nan	d e s	('because', 'adan1251-otvai', 'fedeʔ')	nan		
+214.0	if	mamb1306	Mambai	Austronesian	4Timor, 2Central	arpila	'future'; 'past'	a r p i l a	"('if', 'kema1243', "",bɑi_'pila"")"	nan		
+214.0	if	mamb1306	Mambai	Austronesian	4Timor, 2Central	ɑr'pil	'future'; 'past'	ɑ r ˈp i l -	"('if', 'kema1243', "",bɑi_'pila"")"	nan		
+215.0	with	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɔr	nan	ˈn ɔ r -	('with', 'adon1237', 'ˈtaliʔ')	nan		
+216.0	what?	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'pid	nan	s ɑ ˈp - i d -	('what?', 'amar1273-kotos', 'saaʔ')	nan		
 217.0	who?	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sɛn	nan	ˈs ɛ n - -	('who?', 'amar1273-kotos', 'sekau')	nan		
 219.0	when?	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ɑrpil	nan	( - ˈɑ r - - ) - p i - - l -	('when?', 'adon1237', 'ˈʔɜrɜˈpira')	nan		
 220.0	why?	mamb1306	Mambai	Austronesian	4Timor, 2Central	'dɛs sɑ'pid	nan	ˈd ɛ ( s - _ - ) - s ɑ ˈp ( i d )	"('why?', 'idat1237', ""tan_ti_'sa:"")"	nan		
@@ -123,9 +123,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 224.0	that	mamb1306	Mambai	Austronesian	4Timor, 2Central	la'ra	nan	l a ˈr a	"('that', 'mamb1306', ""la'ra"")"	nan		
 225.0	at	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr	in/at; at home; in school	ˈh ɛ r - - -	"('at', 'mamb1306', ""'hɛr"")"	nan		
 225.0	at	mamb1306	Mambai	Austronesian	4Timor, 2Central	her um	in/at; at home; in school	h e r _ u m	"('at', 'mamb1306', ""'hɛr"")"	nan		
-226.0	in; inside	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr 'pɑsta 'lala	inside the bag	ˈh ɛ - r _ ˈp ɑ s t a _ ˈl a l a -	"('in; inside', 'kema1243', "",dia_'pɑsta_'larɑn"")"	nan		
+226.0	in; inside	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr 'pɑsta 'lala	inside the bag	ˈh ɛ - r _ ˈp ɑ s t a _ ˈl a l a -	"('in; inside', 'keda1252', ""bɛʔ_'lalɛŋ"")"	nan		
 227.0	here	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nei 'rɑi	nan	ˈn e i _ ˈr ɑ i	"('here', 'mamb1306', ""'nei_'rɑi"")"	nan		
-228.0	there	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr la'ra:	nan	nan	"('there', 'idat1237', ""hɛ_'lei"")"	nan		
+228.0	there	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr la'ra:	nan	nan	"('there', 'abui1241-takal', ""ɔ.'rɔ_nu:"")"	nan		
 229.0	above	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr 'tɛtɛ	nan	nan	"('above', 'mamb1306', ""'hɛr_'tɛtɛ"")"	nan		
 230.0	below	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr 'suɑ	nan	nan	"('below', 'idat1237', ""hɛ_'rahak"")"	nan		
 231.0	left (side)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɛr la'toi	nan	ˈh ɛ r _ l a ˈt o i	"('left (side)', 'kema1243', ""(,dia)_'toʔi"")"	nan		
@@ -139,7 +139,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 250.0	fish	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔika	nan	ˈʔ i k a -	('fish', 'adon1237', 'ˈʔikã')	nan		
 259.0	bird	mamb1306	Mambai	Austronesian	4Timor, 2Central	'man	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan		
 259.0	bird	mamb1306	Mambai	Austronesian	4Timor, 2Central	man hui	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan		
-260.0	wing	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lila	nan	ˈl i l - - a -	"('wing', 'kema1243', ""'lila'pa:r"")"	nan		
+260.0	wing	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lila	nan	ˈl i l - - a -	"('wing', 'idat1237', ""'ri:s"")"	nan		
 261.0	claw	mamb1306	Mambai	Austronesian	4Timor, 2Central	'kmat	nan	ˈk m a t	"('claw', 'mamb1306', ""'kmat"")"	nan		
 262.0	feather	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hulu	nan	ˈh u l u - - - - - - -	('feather', 'adan1251-lawah', 'hiu_wolo_(folo)')	nan		
 263.0	horn	mamb1306	Mambai	Austronesian	4Timor, 2Central	'diu	nan	ˈd i u	"('horn', 'mamb1306', ""'diu"")"	nan		
@@ -152,7 +152,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 282.0	small	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɔba	nan	ˈl ɔ b a	"('small', 'mamb1306', ""'lɔba"")"	nan		
 283.0	old; worn (house)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ɛta	nan	- ˈɛ t a -	"('old; worn (house)', 'dein1238', ""ata'"")"	nan		
 284.0	new (house)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'heu	nan	ˈh e u -	"('new (house)', 'kema1243', ""'he:un"")"	nan		
-285.0	old (people)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mɑi	old person; old man; old woman	ˈm ɑ - i - -	"('old (people)', 'laka1255', ""ma'in_(m)"")"	nan		
+285.0	old (people)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mɑi	old person; old man; old woman	ˈm ɑ - i - -	"('old (people)', 'laka1255', ""ma'in"")"	nan		
 285.0	old (people)	mamb1306	Mambai	Austronesian	4Timor, 2Central	man mai (m)	old person; old man; old woman	m a n _ m a i	('old (people)', 'mamb1306', 'man_mai_(m)')	nan		
 286.0	young (people)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hina 'sɑe	nan	ˈh i n a _ ˈs ɑ e	"('young (people)', 'mamb1306', ""'hina_'sɑe"")"	nan		
 288.0	hot	mamb1306	Mambai	Austronesian	4Timor, 2Central	'brus	nan	ˈb r u s	"('hot', 'mamb1306', ""'brus"")"	nan		
@@ -162,7 +162,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 292.0	full	mamb1306	Mambai	Austronesian	4Timor, 2Central	'be:n	nan	ˈb eː n - -	('full', 'adon1237', 'ˈpɜnɔ')	nan		
 294.0	near	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sebi	nan	ˈs e b i	"('near', 'idat1237', ""ka'pesi"")"	nan		
 295.0	far	mamb1306	Mambai	Austronesian	4Timor, 2Central	'rɔ:	nan	ˈr ɔː -	('far', 'adon1237', 'ˈdɔɑ̃')	nan		
-296.0	wet	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɛra	nan	ˈʔ ɛ r a	('wet', 'adan1251', 'har')	nan		
+296.0	wet	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɛra	nan	ˈʔ ɛ r a	('wet', 'adan1251-lawah', 'har')	nan		
 297.0	dry	mamb1306	Mambai	Austronesian	4Timor, 2Central	'glia	nan	ˈg l i a	"('dry', 'mamb1306', ""'glia"")"	nan		
 303.0	thin (non-human)	mamb1306	Mambai	Austronesian	4Timor, 2Central	hi'lirɛ	nan	h i ˈl i r ɛ -	"('thin (non-human)', 'kema1243', ""hi'rirɛn"")"	nan		
 305.0	thick	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɔgɔ	nan	ˈh ɔ - - g ɔ -	"('thick', 'kema1243', ""homo'gɔ:n"")"	nan		
@@ -170,7 +170,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 307.0	dark	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɔda	nan	ˈh ɔ d a	"('dark', 'mamb1306', ""'hɔda"")"	nan		
 309.0	dirty	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tita	nan	ˈt i t a	"('dirty', 'alor1247-baran', ""ka'lit:a"")"	nan		
 311.0	sharp	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɑti	nan	ˈh ɑ - - t i -	('sharp', 'adan1251-lawah', 'hudiŋ')	nan		
-312.0	blunt; dull	mamb1306	Mambai	Austronesian	4Timor, 2Central	'bou	nan	ˈb o - - u	('blunt; dull', 'adan1251', 'umɛ')	nan		
+312.0	blunt; dull	mamb1306	Mambai	Austronesian	4Timor, 2Central	'bou	nan	ˈb o - - u	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	nan		
 313.0	heavy	mamb1306	Mambai	Austronesian	4Timor, 2Central	mə'dɛd	nan	m ə - - ˈd ɛ d	"('heavy', 'mamb1306', ""mə'dɛd"")"	nan		
 315.0	straight	mamb1306	Mambai	Austronesian	4Timor, 2Central	də'lɔ:	nan	d ə ˈl ɔː	('straight', 'kama1365', 'sol')	nan		
 316.0	wide	mamb1306	Mambai	Austronesian	4Timor, 2Central	m'lua	nan	m - ˈl u a - - -	"('wide', 'fata1247', ""ma'luɛrɛn"")"	nan		
@@ -178,7 +178,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 320.0	ripe	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mami	nan	ˈm a m - - i -	"('ripe', 'abui1241-petle', ""'ma.di"")"	nan		
 321.0	rotten	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɔ:	nan	ˈh ɔː	"('rotten', 'mamb1306', ""'hɔ:"")"	nan		
 326.0	flat	mamb1306	Mambai	Austronesian	4Timor, 2Central	'rɛma	nan	- ˈr ɛ m - a - -	"('flat', 'alor1247-baran', ""'hama"")"	nan		
-329.0	black	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mɛta	nan	nan		nan		
+329.0	black	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mɛta	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
 330.0	white	mamb1306	Mambai	Austronesian	4Timor, 2Central	'buti	nan	ˈb u t i - -	('white', 'adon1237', 'ˈburaʔ')	nan		
 331.0	red	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mɛra	nan	- ˈm ɛ r a -	"('red', 'alor1247-baran', ""'mɛã"")"	nan		
 332.0	green	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mɔrɔ	nan	- ˈm ɔ - - r ɔ -	"('green', 'fata1247', ""'u:rɛkɛ"")"	nan		
@@ -201,18 +201,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 363.0	to swim	mamb1306	Mambai	Austronesian	4Timor, 2Central	'na:n	nan	ˈn aː n - -	('to swim', 'adon1237', 'ˈnaŋe')	nan		
 364.0	to fly	mamb1306	Mambai	Austronesian	4Timor, 2Central	'luh	nan	- ˈl u h - -	('to fly', 'cent2245-hewa', 'horo')	nan		
 365.0	to fall (from above)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mou	nan	ˈm o - - - u	"('to fall (from above)', 'idat1237', ""mɑ'nahu"")"	nan		
-368.0	to drink	mamb1306	Mambai	Austronesian	4Timor, 2Central	'e:n	nan	- ˈeː n	('to drink', 'adan1251', 'na')	nan		
+368.0	to drink	mamb1306	Mambai	Austronesian	4Timor, 2Central	'e:n	nan	- ˈeː n	('to drink', 'adan1251-lawah', 'naʔ')	nan		
 369.0	to eat	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mua	nan	ˈm u - a	('to eat', 'fata1247', 'macɛ')	nan		
 370.0	to cook	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tui	nan	ˈt u - i -	"('to cook', 'mamb1306', ""'tui"")"	nan		
 371.0	to wash	mamb1306	Mambai	Austronesian	4Timor, 2Central	'has	nan	- - ˈh a s -	('to wash', 'alor1247-baran', 'huɛ')	nan		
-372.0	to sew	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sɔr	nan	- - - ˈs ɔ - r - - - - - - - - - -	('to sew', 'adan1251', 'harot')	nan		
+372.0	to sew	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sɔr	nan	- - - ˈs ɔ - r - - - - - - - - - -	('to sew', 'adan1251-lawah', 'narotoʔ')	nan		
 373.0	to live; be alive; living	mamb1306	Mambai	Austronesian	4Timor, 2Central	'muɛr	to live (animal); to live (person)	ˈm u ɛ r - -	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
 373.0	to live; be alive; living	mamb1306	Mambai	Austronesian	4Timor, 2Central	mori	to live (animal); to live (person)	m o - r i -	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
 374.0	to breathe	mamb1306	Mambai	Austronesian	4Timor, 2Central	'dad 'snuga	breathe	ˈd a d _ ˈs n u g a	"('to breathe', 'mamb1306', ""'dad_'snuga"")"	nan		
 375.0	to work	mamb1306	Mambai	Austronesian	4Timor, 2Central	sir'bis	nan	s i r - ˈb i s -	"('to work', 'buna1278-malia', ""sɛrə'bisu"")"	nan		
 376.0	to die	mamb1306	Mambai	Austronesian	4Timor, 2Central	'maɛt	nan	ˈm a ɛ t - - -	('to die', 'adon1237', 'ˈmataː')	nan		
 376.0	to die	mamb1306	Mambai	Austronesian	4Timor, 2Central	mat	nan	m a - t - - -	('to die', 'adon1237', 'ˈmataː')	nan		
-377.0	to give	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ne:	nan	ˈn eː - -	('blind', 'adon1237', 'kɜˈnisũ,_kɜˈbuʔlɔ̃')	nan		
+377.0	to give	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ne:	nan	ˈn eː - -	('to give', 'adon1237', 'ˈneĩ')	nan		
 378.0	to wipe	mamb1306	Mambai	Austronesian	4Timor, 2Central	'das	nan	ˈd a s - -	"('to wipe', 'buna1278-malia', ""'dɑsɑh"")"	nan		
 379.0	to come	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ma:	nan	- - - ˈm aː - - -	('to come', 'abui1241-fuime', 'me')	nan		
 380.0	to laugh	mamb1306	Mambai	Austronesian	4Timor, 2Central	'gnil	nan	ˈg - n i l -	"('to laugh', 'kema1243', ""gi'nila"")"	nan		
@@ -220,7 +220,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382.0	to dance	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hudi	nan	ˈh u d i	"('to dance', 'keda1252', ""he'duŋ"")"	nan		
 383.0	to sing	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɔka	nan	ˈl ɔ k a	"('to sing', 'mamb1306', ""'lɔka"")"	nan		
 389.0	to suck	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sus	nan	ˈs u s	('to suck', 'amar1273-kotos', 'n-musi')	nan		
-390.0	to blow	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pua	nan	- - - - - ˈp u a - - - -	('to blow', 'abui1241-fuime', 'furungra')	nan		
+390.0	to blow	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pua	nan	- - - - - ˈp u a - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	nan		
 391.0	to spit	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tulɑ,bɑ	nan	ˈt u l ɑ	"('to spit', 'mamb1306', ""'tulɑ,bɑ"")"	nan		
 392.0	to vomit	mamb1306	Mambai	Austronesian	4Timor, 2Central	'mu:t	nan	ˈm uː t - -	"('to vomit', 'alor1247-baran', ""'mut:a"")"	nan		
 393.0	to rub	mamb1306	Mambai	Austronesian	4Timor, 2Central	'kɔs	nan	ˈk ɔ s -	('to rub', 'adon1237', 'doˈruʔ')	nan		
@@ -240,20 +240,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 417.0	to float	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lɛlɛ	nan	- - - ˈl ɛ l ɛ	('to float', 'buna1278-bobon', 'lɛlɛ')	nan		
 418.0	to freeze	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔisi	nan	ˈʔ i s i	"('to freeze', 'mamb1306', ""'ʔisi"")"	nan		
 419.0	to hold	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pɑl	nan	- ˈp ɑ l -	"('to hold', 'fata1247', ""u'falɛ"")"	nan		
-420.0	to tie	mamb1306	Mambai	Austronesian	4Timor, 2Central	'e:s	nan	- ˈeː s -	('to tie', 'buna1278-bobon', 'tʃi,_bilik')	nan		
+420.0	to tie	mamb1306	Mambai	Austronesian	4Timor, 2Central	'e:s	nan	- ˈeː s -	('to tie', 'buna1278-bobon', 'bilik')	nan		
 421.0	to play	mamb1306	Mambai	Austronesian	4Timor, 2Central	'bɑu	nan	- - ˈb ɑ - u	('to play', 'amar1273-kotos', 'na-ʔbaʔe')	nan		
 422.0	to pull	mamb1306	Mambai	Austronesian	4Timor, 2Central	'dad	nan	- ˈd a d - -	('to pull', 'blag1240-bama', 'tedo')	nan		
-423.0	to push	mamb1306	Mambai	Austronesian	4Timor, 2Central	'dud	nan	ˈd u d - - -	('to push', 'adan1251', 'adodo;')	nan		
+423.0	to push	mamb1306	Mambai	Austronesian	4Timor, 2Central	'dud	nan	ˈd u d - - -	('to push', 'adan1251-lawah', 'adoʔo')	nan		
 424.0	to turn	mamb1306	Mambai	Austronesian	4Timor, 2Central	mɑg'lili	nan	m ɑ g ˈl i l i	('to turn', 'blag1240-tuntu', 'gogóleŋ')	nan		
 430.0	to squeeze	mamb1306	Mambai	Austronesian	4Timor, 2Central	'his	nan	ˈh i s	"('to squeeze', 'mamb1306', ""'his"")"	nan		
 442.0	to shoot	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pos	nan	ˈp o s - -	('to shoot', 'adon1237', 'ˈpasak')	nan		
 449.0	to count	mamb1306	Mambai	Austronesian	4Timor, 2Central	'sur	nan	nan	('to count', 'buna1278-bobon', 'sura')	nan		
 450.0	one	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔid	nan	ˈʔ i d -	('one', 'amar1273-kotos', 'meseʔ')	nan		
 451.0	two	mamb1306	Mambai	Austronesian	4Timor, 2Central	'rua	nan	- - ˈr u a	"('two', 'alor1247-baran', ""'rua"")"	nan		
-452.0	three	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tel	nan	ˈt e l - -		nan		
+452.0	three	mamb1306	Mambai	Austronesian	4Timor, 2Central	'tel	nan	ˈt e l - -	('three', 'adan1251-otvai', 'tɔu')	nan		
 453.0	four	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pat	nan	ˈp a t - -	('four', 'adon1237', 'ˈpaːt')	nan		
 454.0	five	mamb1306	Mambai	Austronesian	4Timor, 2Central	'lim	nan	- - ˈl i m -	('five', 'adon1237', 'ˈlema')	nan		
-455.0	six	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɑi 'nidɛ	nan	ˈn ɑ i _ ˈn i d ɛ		nan		
+455.0	six	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɑi 'nidɛ	nan	ˈn ɑ i _ ˈn i d ɛ	"('six', 'mamb1306', ""'nɑi_'nidɛ"")"	nan		
 456.0	seven	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɑi 'rua	nan	ˈn ɑ i _ ˈr u a	"('seven', 'mamb1306', ""'nɑi_'rua"")"	nan		
 457.0	eight	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɑi 'telu	nan	ˈn ɑ i _ ˈt e l u	"('eight', 'mamb1306', ""'nɑi_'telu"")"	nan		
 458.0	nine	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɑi 'pata	nan	ˈn ɑ - - i - - _ ˈp a t a	"('nine', 'keda1252', ""leme_'apaʔ"")"	nan		
