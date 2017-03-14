@@ -174,11 +174,11 @@ for i, line in cognates.iterrows():
 
     if cogid_postcoding in args.bad_cogids:
         cogid_postcoding = None
-    
-    if (cogid_postcoding != cogid_old):
+    elif (cogid_postcoding != cogid_old):
         word_list.set_value(i, "Cognate Set", cogid_postcoding)
         if args.print and not pandas.isnull(cogid_old):
-            print(i, cogid_old, type(cogid_old), "→ ", cogid_postcoding, type(cogid_postcoding))
+            print("{:40} recoded: {:40} → {:40}".format(
+                str(i), cogid_old, cogid_postcoding))
 
     if args.alignments:
         # Compare alignments
