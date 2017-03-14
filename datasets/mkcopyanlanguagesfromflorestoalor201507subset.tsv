@@ -1,5 +1,5 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0.0	sky	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βula βutu	nan	β u l a _ β u t u	('sky', 'adan1251', 'buraŋ')	nan		
+0.0	sky	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βula βutu	nan	β u l a _ β u t u	('sky', 'alor1249-sar-a', 'bulá')	nan		
 0.0	sky	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ælæŋ	nan	- æ l æ ŋ	('sky', 'adon1237', 'ˈkɜlɜ')	nan		
 0.0	sky	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*laŋiC	nan	l a ŋ i C - ( - - - - - - - - )	"('sky', 'alor1247-munas', ""'laŋi"")"	nan		
 0.0	sky	p-aust1307-acd	proto-AN-ACD	Austronesian		*laŋiC	nan	l a ŋ i C - ( - - - - - - - - )	"('sky', 'alor1247-munas', ""'laŋi"")"	nan		
@@ -12,14 +12,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 1.0	sun	p-aust1307-acd	proto-AN-ACD	Austronesian		*siNaR	*waRi 'day; sun; dry in the sun'	s i N a R	('sun', 'p-aust1307-acd', '*siNaR')	nan		
 1.0	sun	p-aust1307-acd	proto-AN-ACD	Austronesian		*waRi	*waRi 'day; sun; dry in the sun'	w a R i	('sun', 'abui1241-fuime', 'wari')	nan		
 1.0	sun	p-mala1545-acd	proto-MP-ACD	Austronesian		*mata nu qalejaw	eye of the day'	m a t a _ n u _ q a l e j a w	('sun', 'p-mala1545-acd', '*mata_nu_qalejaw')	nan		
-2.0	moon	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βula-ŋ	nan	β u l a ŋ - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-2.0	moon	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘la lɔjɔ	nan	- u̘ l a _ - ( l ɔ j ɔ - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-2.0	moon	p-aust1307-abvd	proto-AN-ABVD	Austronesian		* bulaN	nan	b u l a N - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+2.0	moon	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βula-ŋ	nan	β u l a ŋ - ( - - - - - - - - )	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
+2.0	moon	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘la lɔjɔ	nan	- u̘ l a _ - ( l ɔ j ɔ - - - - )	('moon', 'keda1252-leuwa', 'u̘la_lɔjɔ')	nan		
+2.0	moon	p-aust1307-abvd	proto-AN-ABVD	Austronesian		* bulaN	nan	b u l a N - ( - - - - - - - - )	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
 2.0	moon	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qiNas	nan	q i N a s	('moon', 'p-aust1307-abvd', '*qiNas')	nan		
-2.0	moon	p-aust1307-acd	proto-AN-ACD	Austronesian		*bulaN	*bulaN 'moon, month, menstruation'	b u l a N - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-2.0	moon	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*bulan	nan	b u l a n - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-2.0	moon	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*bulan	nan	b u l a n - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-2.0	moon	p-mala1545-acd	proto-MP-ACD	Austronesian		*bulan	moon, month; menstruation; shell disk collar piece'	b u l a n - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+2.0	moon	p-aust1307-acd	proto-AN-ACD	Austronesian		*bulaN	*bulaN 'moon, month, menstruation'	b u l a N - ( - - - - - - - - )	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
+2.0	moon	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*bulan	nan	b u l a n - ( - - - - - - - - )	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
+2.0	moon	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*bulan	nan	b u l a n - ( - - - - - - - - )	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
+2.0	moon	p-mala1545-acd	proto-MP-ACD	Austronesian		*bulan	moon, month; menstruation; shell disk collar piece'	b u l a n - ( - - - - - - - - )	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
 3.0	star	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	dala	nan	d a - - - l a -	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
 3.0	star	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	malæ manuʔ	nan	m a l æ _ m a n u ʔ	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
 3.0	star	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	malæ tala	nan	m a l æ _ t a l a -	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
@@ -60,12 +60,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8.0	yesterday	p-mala1545-acd	proto-MP-ACD	Austronesian		*ñeRab	nan	ñ e R a b	('yesterday', 'p-mala1545-acd', '*neRab')	nan		
 12.0	twilight; dawn	p-mala1545-acd	proto-MP-ACD	Austronesian		*zawa	nan	z a w a	('twilight; dawn', 'p-mala1545-acd', '*zawa')	nan		
 13.0	cloud	p-aust1307-acd	proto-AN-ACD	Austronesian		*kudem	*kudem: darkend by clouds, overcast	k u - - d e m	('cloud', 'p-aust1307-acd', '*kudem')	nan		
-14.0	wind	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ani-n	nan	- a n i n - - - - - -	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
-14.0	wind	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘ŋin vεŋin	nan	- a̘ ŋ i n _ v ε ŋ i n	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
+14.0	wind	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ani-n	nan	- a n i n - - - - - -	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
+14.0	wind	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘ŋin vεŋin	nan	- a̘ ŋ i n _ v ε ŋ i n	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
 14.0	wind	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*bali	nan	- - b a l i -	('wind', 'buna1278-bobon', 'bɛl')	nan		
-14.0	wind	p-aust1307-acd	proto-AN-ACD	Austronesian		*haŋin	nan	h a ŋ i n - - - - - -	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
-14.0	wind	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*haŋin	nan	h a ŋ i n - - - - - -	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
-14.0	wind	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*haŋin	nan	h a ŋ i n - - - - - -	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
+14.0	wind	p-aust1307-acd	proto-AN-ACD	Austronesian		*haŋin	nan	h a ŋ i n - - - - - -	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
+14.0	wind	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*haŋin	nan	h a ŋ i n - - - - - -	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
+14.0	wind	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*haŋin	nan	h a ŋ i n - - - - - -	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
 15.0	rain	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ura-n	nan	- u r a n	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
 15.0	rain	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘ja	nan	u̘ - j a	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
 15.0	rain	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*quzaN	nan	q u z a N	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
@@ -93,10 +93,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 22.0	river; stream	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘bεʔ	nan	u̘ b ε ʔ - -	('river; stream', 'keda1252-leuwa', 'u̘bεʔ')	nan		
 22.0	river; stream	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ævæŋ	nan	- æ v æ ŋ	('river; stream', 'keda1252-leuwa', 'ævæŋ')	nan		
 25.0	lake	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	liβu-n	nan	l i β u n	"('lake', 'adon1237', ""'liwo"")"	nan		
-25.0	lake	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rano	nan	r a n o - -	('lake', 'p-aust1307-abvd', '*danaw')	nan		
-25.0	lake	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*danaw	nan	d a n a w -	('lake', 'p-aust1307-abvd', '*danaw')	nan		
-25.0	lake	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*danaw	nan	d a n a w -	('lake', 'p-aust1307-abvd', '*danaw')	nan		
-25.0	lake	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*danaw	nan	d a n a w -	('lake', 'p-aust1307-abvd', '*danaw')	nan		
+25.0	lake	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rano	nan	r a n o - -	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
+25.0	lake	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*danaw	nan	d a n a w -	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
+25.0	lake	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*danaw	nan	d a n a w -	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
+25.0	lake	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*danaw	nan	d a n a w -	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
 26.0	mountain	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ili-n	(mountain, hill)	- i l i n	"('mountain', 'adon1237', ""'ʔile"")"	nan		
 26.0	mountain	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βolo	(mountain, hill)	β o l o - -	('mountain', 'sika1262-tanai', 'βolo')	nan		
 26.0	mountain	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βolo-n	(mountain, hill)	β o l o n -	('mountain', 'sika1262-tanai', 'βolo')	nan		
@@ -113,17 +113,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 30.0	Earth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tanaq	nan	t a n a q -	"('Earth', 'adon1237', ""tana_'ʔekã"")"	nan		
 30.0	Earth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tanaq	nan	t a n a q -	"('Earth', 'adon1237', ""tana_'ʔekã"")"	nan		
 30.0	Earth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*taneq	nan	t a n e q -	"('Earth', 'adon1237', ""tana_'ʔekã"")"	nan		
-32.0	stone	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βatu	nan	β a t u -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+32.0	stone	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βatu	nan	β a t u -	"('stone', 'adon1237', ""'watɔ"")"	nan		
 32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tavan	nan	t a v a n	('stone', 'keda1252-leuwa', 'tavan')	nan		
-32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	uar	nan	u a r	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	uar	nan	u a r	('stone', 'fata1247', 'matar')	nan		
 32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	uluʔ	nan	u l u ʔ	('stone', 'keda1252-leuwa', 'uluʔ')	nan		
-32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ ai	nan	v a ʔ _ - a - i -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ luli	nan	v a ʔ _ l u l i -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ nimaʔ	nan	v a ʔ _ n i m a ʔ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ εra	nan	v a ʔ _ - ε r a -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-32.0	stone	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*batu	nan	b a t u -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-32.0	stone	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*batu	nan	b a t u -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-32.0	stone	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*batu	nan	b a t u -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ ai	nan	v a ʔ _ - a - i -	('stone', 'abui1241-fuime', 'vi')	nan		
+32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ luli	nan	v a ʔ _ l u l i -	('stone', 'abui1241-fuime', 'vi')	nan		
+32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ nimaʔ	nan	v a ʔ _ n i m a ʔ	('stone', 'abui1241-fuime', 'vi')	nan		
+32.0	stone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vaʔ εra	nan	v a ʔ _ - ε r a -	('stone', 'abui1241-fuime', 'vi')	nan		
+32.0	stone	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*batu	nan	b a t u -	"('stone', 'adon1237', ""'watɔ"")"	nan		
+32.0	stone	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*batu	nan	b a t u -	"('stone', 'adon1237', ""'watɔ"")"	nan		
+32.0	stone	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*batu	nan	b a t u -	"('stone', 'adon1237', ""'watɔ"")"	nan		
 35.0	water (fresh)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βair	nan	β a i r	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
 35.0	water (fresh)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	væi ai	nan	v æ i _ a i	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
 35.0	water (fresh)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		* daNum	nan	d a N u m	('water (fresh)', 'p-aust1307-abvd', '*_daNum')	nan		
@@ -147,7 +147,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 38.0	foam	p-mala1545-acd	proto-MP-ACD	Austronesian		*buseq	*buseq 'foam, bubbles'; *busa 'foam, suds'	b u s e q	('foam', 'p-aust1307-acd', '*buCaq')	nan		
 39.0	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kain laraŋ	nan	nan	"('forest', 'idat1237', ""'ʔɑi_le'ʔik"")"	nan		
 39.0	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘taŋ	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan		
-39.0	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɛ̘ʔa kain	nan	ɛ̘ ʔ a _ k a i n	('forest', 'adan1251', 'ahain')	nan		
+39.0	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɛ̘ʔa kain	nan	ɛ̘ ʔ a _ k a i n	('forest', 'keda1252-leuwa', 'ɛ̘ʔa_kain')	nan		
 39.0	forest	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kaSiw-kaSiw-an	nan	k a S i w k a S i w a n	('forest', 'p-aust1307-abvd', '*kaSiw-kaSiw-an')	nan		
 39.0	forest	p-aust1307-acd	proto-AN-ACD	Austronesian		*Calun	*tuqaS 'old, of people; primary forest, old forest'; *Salas 'forest, wilderness, woods'; *Calun 'secondary forest'	C a l u n	('forest', 'p-aust1307-acd', '*Calun')	nan		
 39.0	forest	p-aust1307-acd	proto-AN-ACD	Austronesian		*Salas	*tuqaS 'old, of people; primary forest, old forest'; *Salas 'forest, wilderness, woods'; *Calun 'secondary forest'	S a l a s	('forest', 'p-aust1307-acd', '*Salas')	nan		
@@ -156,7 +156,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 39.0	forest	p-mala1545-acd	proto-MP-ACD	Austronesian		*talun	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	t a l u n	('forest', 'p-aust1307-acd', '*Calun')	nan		
 39.0	forest	p-mala1545-acd	proto-MP-ACD	Austronesian		*tuqan	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	- t u - q a n -	('forest', 'p-aust1307-acd', '*tuqaS')	nan		
 41.0	island	p-mala1545-acd	proto-MP-ACD	Austronesian		*nusa	*nusa 'island'	n u s a	"('island', 'adon1237', ""'nuha"")"	nan		
-43.0	garden	p-aust1307-acd	proto-AN-ACD	Austronesian		*qumah	*qumah 'swidden, work a swidden'	q u m a h	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+43.0	garden	p-aust1307-acd	proto-AN-ACD	Austronesian		*qumah	*qumah 'swidden, work a swidden'	q u m a h	"('garden', 'adon1237', ""'mãː"")"	nan		
 43.0	garden	p-mala1545-acd	proto-MP-ACD	Austronesian		*q<in>uma	*q<in>uma 'cultivated field, garden'	q < i n > u m a	('garden', 'p-mala1545-acd', '*q<in>uma')	nan		
 44.0	fence	p-aust1307-acd	proto-AN-ACD	Austronesian		*qalad	*qalad 'fence, wall'	q a l a d	('fence', 'p-aust1307-acd', '*qalad')	nan		
 44.0	fence	p-mala1545-acd	proto-MP-ACD	Austronesian		*pager	*pager 'enclosure; palisade around a village; fence around a planted tree or cultivated field'	p a g e r	('fence', 'p-mala1545-acd', '*pager')	nan		
@@ -166,12 +166,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 45.0	road; path; way	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zalan	nan	z a l a n -	('road; path; way', 'p-aust1307-abvd', '*zalan')	nan		
 45.0	road; path; way	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*zalan	nan	z a l a n -	('road; path; way', 'p-aust1307-abvd', '*zalan')	nan		
 45.0	road; path; way	p-mala1545-acd	proto-MP-ACD	Austronesian		*zalan	nan	z a l a n -	('road; path; way', 'p-aust1307-abvd', '*zalan')	nan		
-51.0	rope	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tali	(rope, cord, vine)	t a - l i -	('rope', 'p-aust1307-abvd', '*CaliS')	nan		
-51.0	rope	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vadεʔ	nan	v a d ε ʔ	('rope', 'keda1252-leuwa', 'vadεʔ')	nan		
-51.0	rope	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*CaliS	nan	C a - l i S	('rope', 'p-aust1307-abvd', '*CaliS')	nan		
-51.0	rope	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tali	nan	t a - l i -	('rope', 'p-aust1307-abvd', '*CaliS')	nan		
+51.0	rope	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tali	(rope, cord, vine)	t a - l i -	('rope', 'abui1241-fuime', 'tila')	nan		
+51.0	rope	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vadεʔ	nan	v a d ε ʔ	"('rope', 'keda1252', ""wa'dɛʔ"")"	nan		
+51.0	rope	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*CaliS	nan	C a - l i S	('rope', 'abui1241-fuime', 'tila')	nan		
+51.0	rope	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tali	nan	t a - l i -	('rope', 'abui1241-fuime', 'tila')	nan		
 51.0	rope	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*waʀəj	nan	w a ʀ ə j	('rope', 'p-cent2245-abvd', '*waʀəj')	nan		
-51.0	rope	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*talih	nan	t a - l i h	('rope', 'p-aust1307-abvd', '*CaliS')	nan		
+51.0	rope	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*talih	nan	t a - l i h	('rope', 'abui1241-fuime', 'tila')	nan		
 52.0	machete	p-cent2245-acd	proto-Central-MP-ACD	Austronesian		*belas	nan	b e l a s	('machete', 'amar1273-kotos', 'benas')	nan		
 52.0	machete	p-aust1307-acd	proto-AN-ACD	Austronesian		*bunuS	nan	b u n u S	('machete', 'p-aust1307-acd', '*bunuS')	nan		
 59.0	bow	p-aust1307-acd	proto-AN-ACD	Austronesian		*busuR	nan	b u s u R	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		
@@ -179,12 +179,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 64.0	needle	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*zaʀum	nan	z a - ʀ u m - ( - - - - )	('needle', 'buna1278-bobon', 'daun')	nan		
 64.0	needle	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zaʀum	nan	z a - ʀ u m - ( - - - - )	('needle', 'buna1278-bobon', 'daun')	nan		
 64.0	needle	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*zaʀum	nan	z a - ʀ u m - ( - - - - )	('needle', 'buna1278-bobon', 'daun')	nan		
-67.0	fire	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	api	nan	- a p i - -	('fire', 'adan1251-otvai', 'aʔfail')	nan		
-67.0	fire	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘pi padu	nan	a̘ p i _ p a d u	('fire', 'adan1251-otvai', 'aʔfail')	nan		
+67.0	fire	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	api	nan	- a p i - -	('fire', 'adon1237', 'ˈʔape')	nan		
+67.0	fire	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘pi padu	nan	a̘ p i _ p a d u	('fire', 'adon1237', 'ˈʔape')	nan		
 67.0	fire	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	himaʔ	nan	h i m a ʔ	('fire', 'keda1252-leuwa', 'himaʔ')	nan		
-67.0	fire	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Sapuy	nan	S a p u y -	('fire', 'adan1251-otvai', 'aʔfail')	nan		
-67.0	fire	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hapuy	nan	h a p u y -	('fire', 'adan1251-otvai', 'aʔfail')	nan		
-67.0	fire	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hapuy	nan	h a p u y -	('fire', 'adan1251-otvai', 'aʔfail')	nan		
+67.0	fire	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Sapuy	nan	S a p u y -	('fire', 'adon1237', 'ˈʔape')	nan		
+67.0	fire	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hapuy	nan	h a p u y -	('fire', 'adon1237', 'ˈʔape')	nan		
+67.0	fire	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hapuy	nan	h a p u y -	('fire', 'adon1237', 'ˈʔape')	nan		
 68.0	smoke	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nuhi-n	nan	- - - - n u h i n	('smoke', 'adon1237', 'ˈnuhũ')	nan		
 68.0	smoke	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dumεʔ	nan	d u m ε ʔ	('smoke', 'keda1252-leuwa', 'dumεʔ')	nan		
 68.0	smoke	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	in bakɔ	nan	i n _ b a k ɔ	('smoke', 'keda1252-leuwa', 'in_bakɔ')	nan		
@@ -251,11 +251,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 91.0	root	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ʀamiS	nan	- - - - - ʀ a m i S	('root', 'keda1252-leuwa', 'ramuʔ')	nan		
 91.0	root	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*wakaʀ	nan	w a k a ʀ	('root', 'p-cent2245-abvd', '*wakaʀ')	nan		
 91.0	root	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*uɾat	nan	- u ɾ a t -	('root', 'p-mala1545-abvd', '*uɾat')	nan		
-92.0	fruit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βua-ŋ	nan	- - - - - - β u - a ŋ	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
-92.0	fruit	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘an	nan	- - - - - - - u̘ - a n	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
-92.0	fruit	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*buaq	nan	b u a q	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
-92.0	fruit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buaq	nan	b u a q	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
-92.0	fruit	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buaq	nan	b u a q	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+92.0	fruit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βua-ŋ	nan	- - - - - - β u - a ŋ	('fruit', 'adon1237', 'kajo_ˈwuã')	nan		
+92.0	fruit	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘an	nan	- - - - - - - u̘ - a n	('fruit', 'adon1237', 'kajo_ˈwuã')	nan		
+92.0	fruit	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'adon1237', 'kajo_ˈwuã')	nan		
+92.0	fruit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'adon1237', 'kajo_ˈwuã')	nan		
+92.0	fruit	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'adon1237', 'kajo_ˈwuã')	nan		
 93.0	seed	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βini	nan	β i n i	('seed', 'amar1273-kotos', 'fini')	nan		
 93.0	seed	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tavan	nan	t a v a n	('seed', 'keda1252-leuwa', 'tavan')	nan		
 93.0	seed	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	uluʔ	nan	u l u ʔ	('seed', 'adon1237', 'ˈkulʔũ')	nan		
@@ -273,15 +273,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 129.0	salt	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qasiɾa	nan	q a - s i ɾ a	('salt', 'p-aust1307-abvd', '*qasiʀa')	nan		
 129.0	salt	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*timus	nan	t i m u s	('salt', 'p-mala1545-abvd', '*timus')	nan		
 130.0	fat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hækær tεdal	nan	h æ k æ r _ t ε d a l	('fat', 'keda1252-leuwa', 'hækær_tεdal')	nan		
-130.0	fat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vɔjaʔ a̘val	nan	v ɔ j a ʔ _ a̘ v a l	('fat', 'keda1252-leuwa', 'vɔjaʔ_a̘val')	nan		
-130.0	fat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔpɔʔ dækær	nan	ɔ p ɔ ʔ _ d æ k æ r	('fat', 'keda1252-leuwa', 'ɔpɔʔ_dækær')	nan		
-130.0	fat	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Simaʀ	nan	- - S i m a ʀ	('fat', 'p-aust1307-abvd', '*Simaʀ')	nan		
-130.0	fat	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*miñak	nan	m i ñ a k	('fat', 'p-cent2245-abvd', '*miñak')	nan		
-130.0	fat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*himaɾ	nan	- - h i m a ɾ	('fat', 'p-aust1307-abvd', '*Simaʀ')	nan		
-130.0	fat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*meñak	nan	m e ñ a k	('fat', 'p-cent2245-abvd', '*miñak')	nan		
-130.0	fat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*miñak	nan	m i ñ a k	('fat', 'p-cent2245-abvd', '*miñak')	nan		
+130.0	fat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vɔjaʔ a̘val	nan	v ɔ j a ʔ _ a̘ v a l	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	nan		
+130.0	fat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔpɔʔ dækær	nan	ɔ p ɔ ʔ _ d æ k æ r	('fat', 'keda1252-leuwa', 'hækær_tεdal')	nan		
+130.0	fat	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Simaʀ	nan	- - S i m a ʀ	('fat', 'abui1241-fuime', 'hetamada')	nan		
+130.0	fat	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*miñak	nan	m i ñ a k	('fat', 'kema1243', 'mina')	nan		
+130.0	fat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*himaɾ	nan	- - h i m a ɾ	('fat', 'abui1241-fuime', 'hetamada')	nan		
+130.0	fat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*meñak	nan	m e ñ a k	('fat', 'kema1243', 'mina')	nan		
+130.0	fat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*miñak	nan	m i ñ a k	('fat', 'kema1243', 'mina')	nan		
 131.0	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ihi-ŋ	(flesh)	- i h i ŋ	('flesh; meat', 'adan1251-lawah', 'hiri')	nan		
-131.0	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mei-ŋ ʔəta-ŋ	(flesh)	m e i ŋ _ ʔ ə t a ŋ -	('flesh; meat', 'abui1241-fuime', 'mai_hitung')	nan		
+131.0	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mei-ŋ ʔəta-ŋ	(flesh)	m e i ŋ _ ʔ ə t a ŋ -	('flesh; meat', 'abui1241-fuime', 'mai_hituŋ')	nan		
 131.0	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔlui-ŋ	(flesh)	ʔ l u i ŋ - - - - - - -	('flesh; meat', 'sika1262-tanai', 'ʔlui-ŋ')	nan		
 131.0	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔlui-ŋ klama-ŋ	(flesh)	ʔ l u i ŋ _ k l a m a ŋ	('flesh; meat', 'sika1262-tanai', 'ʔlui-ŋ')	nan		
 131.0	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔlui-ŋ roto-ŋ	(flesh)	ʔ l u i ŋ _ - r o t o ŋ	('flesh; meat', 'sika1262-tanai', 'ʔlui-ŋ')	nan		
@@ -291,10 +291,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 131.0	flesh; meat	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*isi	nan	- i - s i -	('flesh; meat', 'amar1273-kotos', 'sisi')	nan		
 131.0	flesh; meat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hesi	nan	h e - s i -	('flesh; meat', 'amar1273-kotos', 'sisi')	nan		
 131.0	flesh; meat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*isi	nan	- i - s i -	('flesh; meat', 'amar1273-kotos', 'sisi')	nan		
-132.0	bone	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	luri-ŋ	nan	l u r i ŋ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+132.0	bone	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	luri-ŋ	nan	l u r i ŋ	('bone', 'adon1237', 'ˈriʔũː')	nan		
 132.0	bone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	haraʔ lurin	nan	h a r a ʔ _ l u r i n	('bone', 'keda1252-leuwa', 'haraʔ_lurin')	nan		
 132.0	bone	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*CuqelaN	nan	C u q e l a N	('bone', 'p-aust1307-abvd', '*CuqelaN')	nan		
-132.0	bone	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zuʀi	nan	z u ʀ i	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+132.0	bone	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zuʀi	nan	z u ʀ i	('bone', 'adon1237', 'ˈriʔũː')	nan		
 132.0	bone	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tuqelan	nan	t u q e l a n	('bone', 'p-aust1307-abvd', '*CuqelaN')	nan		
 135.0	tear	p-aust1307-acd	proto-AN-ACD	Austronesian		*luSeq	nan	l u S e q	('tear', 'p-aust1307-acd', '*luSeq')	nan		
 135.0	tear	p-mala1545-acd	proto-MP-ACD	Austronesian		*luheq	nan	l u h e q	('tear', 'p-aust1307-acd', '*luSeq')	nan		
@@ -307,24 +307,24 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 138.0	heart	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	puhu-ŋ βua-ŋ	nan	p u h u ŋ _ β u a ŋ	('heart', 'adon1237', 'ˈpuho')	nan		
 138.0	heart	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mutiʔ	nan	m u t i ʔ	"('heart', 'keda1252', ""taʔ'mutiʔ"")"	nan		
 138.0	heart	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔ̘nεʔ	nan	ɔ̘ n ε ʔ	('heart', 'keda1252-leuwa', 'ɔ̘nεʔ')	nan		
-139.0	liver	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔβate	nan	ʔ β a t e -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-139.0	liver	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qaCay	nan	q a C a - y	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-139.0	liver	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qatay	nan	q a t a - y	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-139.0	liver	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qatay	nan	q a t a - y	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+139.0	liver	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔβate	nan	ʔ β a t e -	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
+139.0	liver	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qaCay	nan	q a C a - y	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
+139.0	liver	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qatay	nan	q a t a - y	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
+139.0	liver	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qatay	nan	q a t a - y	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
 141.0	guts	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	taʔi-ŋ	(stomach)	- t - a ʔ i ŋ	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
 141.0	guts	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Cinaqi	nan	C i n a q i	('guts', 'p-aust1307-abvd', '*Cinaqi')	nan		
 141.0	guts	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taqi	(intestines)	t a - - q - - - i	('guts', 'p-aust1307-abvd', '*Cinaqi')	nan		
 141.0	guts	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tinaqi	(intestines)	t i n a q i	('guts', 'p-aust1307-abvd', '*Cinaqi')	nan		
-144.0	stomach; belly	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	taʔi-ŋ	(stomach)	t a ʔ i ŋ	('stomach; belly', 'adon1237', 'taĩ,_taim')	nan		
+144.0	stomach; belly	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	taʔi-ŋ	(stomach)	t a ʔ i ŋ	('stomach; belly', 'adon1237', 'taim')	nan		
 144.0	stomach; belly	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bɔtin	nan	- - b ɔ t i n	"('stomach; belly', 'keda1252', ""bɔ'tin"")"	nan		
 144.0	stomach; belly	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kampuŋ	(belly)	k a m p u ŋ -	('stomach; belly', 'p-cent2245-abvd', '*kampuŋ')	nan		
-144.0	stomach; belly	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tian	(belly)	t i - a n	('stomach; belly', 'adon1237', 'taĩ,_taim')	nan		
-144.0	stomach; belly	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tian	(belly)	t i - a n	('stomach; belly', 'adon1237', 'taĩ,_taim')	nan		
-145.0	head	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ	nan	- a l a ŋ	('head', 'p-aust1307-abvd', '*quluh')	nan		
-145.0	head	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tubar	nan	t u b a r	('head', 'keda1252-leuwa', 'tubar')	nan		
-145.0	head	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*quluh	nan	q u l u h	('head', 'p-aust1307-abvd', '*quluh')	nan		
-145.0	head	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('head', 'p-aust1307-abvd', '*quluh')	nan		
-145.0	head	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('head', 'p-aust1307-abvd', '*quluh')	nan		
+144.0	stomach; belly	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tian	(belly)	t i - a n	('stomach; belly', 'adon1237', 'taim')	nan		
+144.0	stomach; belly	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tian	(belly)	t i - a n	('stomach; belly', 'adon1237', 'taim')	nan		
+145.0	head	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ	nan	- a l a ŋ	('head', 'adan1251-lawah', 'loŋ')	nan		
+145.0	head	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tubar	nan	t u b a r	"('head', 'keda1252', ""tu'bar"")"	nan		
+145.0	head	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*quluh	nan	q u l u h	('head', 'adan1251-lawah', 'loŋ')	nan		
+145.0	head	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('head', 'adan1251-lawah', 'loŋ')	nan		
+145.0	head	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('head', 'adan1251-lawah', 'loŋ')	nan		
 146.0	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala	nan	- a l a -	('hair', 'sika1262', 'alan_roun')	nan		
 146.0	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ	nan	- a l a ŋ	('hair', 'sika1262', 'alan_roun')	nan		
 146.0	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ ʔrou-ŋ	nan	- a l a ŋ _ ʔ r o u ŋ	('hair', 'sika1262', 'alan_roun')	nan		
@@ -334,36 +334,36 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 146.0	hair	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*daun ni qulu	nan	d a u n _ n i _ q u l u	('hair', 'p-cent2245-abvd', '*daun_ni_qulu')	nan		
 146.0	hair	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('hair', 'amar1273-kotos', 'ʔnaak_funu-f')	nan		
 146.0	hair	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buhek	nan	b u h e k	('hair', 'p-aust1307-abvd', '*bukeS')	nan		
-148.0	eye	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mata	nan	- - - m a t a -	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
-148.0	eye	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mata-ŋ	nan	- - - m a t a ŋ	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
-148.0	eye	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	matɔ	nan	- - - m a t ɔ -	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
-148.0	eye	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*maCA	nan	- - - m a C A -	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
-148.0	eye	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mata	nan	- - - m a t a -	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
-148.0	eye	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mata	nan	- - - m a t a -	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
+148.0	eye	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mata	nan	- - - m a t a -	('eye', 'adon1237', 'matak3t')	nan		
+148.0	eye	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mata-ŋ	nan	- - - m a t a ŋ	('eye', 'adon1237', 'matak3t')	nan		
+148.0	eye	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	matɔ	nan	- - - m a t ɔ -	('eye', 'adon1237', 'matak3t')	nan		
+148.0	eye	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*maCA	nan	- - - m a C A -	('eye', 'adon1237', 'matak3t')	nan		
+148.0	eye	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mata	nan	- - - m a t a -	('eye', 'adon1237', 'matak3t')	nan		
+148.0	eye	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mata	nan	- - - m a t a -	('eye', 'adon1237', 'matak3t')	nan		
 149.0	ear	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tilu	nan	t i l u - -	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
 149.0	ear	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tilu-ŋ	nan	t i l u ŋ -	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
 149.0	ear	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	til	nan	t i l - - -	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
 149.0	ear	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Caliŋa	nan	C a l i ŋ a	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
 149.0	ear	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taliŋa	nan	t a l i ŋ a	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
 149.0	ear	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*taliŋa	nan	t a l i ŋ a	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
-150.0	nose	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	iru-ŋ	nan	- i r u ŋ	('nose', 'p-aust1307-abvd', '*mujiŋ')	nan		
-150.0	nose	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	niŋ	nan	- - n i ŋ	('nose', 'keda1252-leuwa', 'niŋ')	nan		
-150.0	nose	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*mujiŋ	nan	m u j i ŋ	('nose', 'p-aust1307-abvd', '*mujiŋ')	nan		
-150.0	nose	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ijuŋ	nan	- i j u ŋ	('nose', 'p-aust1307-abvd', '*mujiŋ')	nan		
-150.0	nose	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ijuŋ	nan	- i j u ŋ	('nose', 'p-aust1307-abvd', '*mujiŋ')	nan		
-150.0	nose	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ujuŋ	nan	- u j u ŋ	('nose', 'p-aust1307-abvd', '*mujiŋ')	nan		
+150.0	nose	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	iru-ŋ	nan	- i r u ŋ	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
+150.0	nose	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	niŋ	nan	- - n i ŋ	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
+150.0	nose	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*mujiŋ	nan	m u j i ŋ	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
+150.0	nose	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ijuŋ	nan	- i j u ŋ	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
+150.0	nose	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ijuŋ	nan	- i j u ŋ	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
+150.0	nose	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ujuŋ	nan	- u j u ŋ	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
 151.0	mouth	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	məmu	nan	m ə m u	('mouth', 'sika1262-tanai', 'məmu')	nan		
-151.0	mouth	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nunu vɔvɔ	nan	n u n u _ v ɔ v ɔ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-151.0	mouth	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ŋusu	nan	ŋ u s u -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+151.0	mouth	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nunu vɔvɔ	nan	n u n u _ v ɔ v ɔ	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan		
+151.0	mouth	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ŋusu	nan	ŋ u s u -	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan		
 151.0	mouth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*babaq	nan	b a - b a q	('mouth', 'p-cent2245-abvd', '*babaq')	nan		
 151.0	mouth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*baqbaq	nan	b a q b a q	('mouth', 'p-cent2245-abvd', '*babaq')	nan		
 154.0	teeth	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	niu-ŋ	(tooth)	n i - u ŋ	"('teeth', 'idat1237', ""'nea:n"")"	nan		
 154.0	teeth	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	avar	(tooth)	a v a r	"('teeth', 'keda1252', ""'ʔawar"")"	nan		
-154.0	teeth	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*nipen	nan	n i p e n	('teeth', 'adon1237', 'ˈipɜʔ')	nan		
-154.0	teeth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ipən	nan	- i p ə n	('teeth', 'adon1237', 'ˈipɜʔ')	nan		
-154.0	teeth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*nipən	nan	n i p ə n	('teeth', 'adon1237', 'ˈipɜʔ')	nan		
-154.0	teeth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ipen	nan	- i p e n	('teeth', 'adon1237', 'ˈipɜʔ')	nan		
-154.0	teeth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*nipen	nan	n i p e n	('teeth', 'adon1237', 'ˈipɜʔ')	nan		
+154.0	teeth	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*nipen	nan	n i p e n	('teeth', 'adon1237', 'ˈip3ʔ')	nan		
+154.0	teeth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ipən	nan	- i p ə n	('teeth', 'adon1237', 'ˈip3ʔ')	nan		
+154.0	teeth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*nipən	nan	n i p ə n	('teeth', 'adon1237', 'ˈip3ʔ')	nan		
+154.0	teeth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ipen	nan	- i p e n	('teeth', 'adon1237', 'ˈip3ʔ')	nan		
+154.0	teeth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*nipen	nan	n i p e n	('teeth', 'adon1237', 'ˈip3ʔ')	nan		
 155.0	tongue	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ma	nan	m a - - -	('tongue', 'amar1273-kotos', 'maa-f')	nan		
 155.0	tongue	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	maŋ	nan	m a ŋ - -	('tongue', 'amar1273-kotos', 'maa-f')	nan		
 155.0	tongue	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	æbæl	nan	- æ b æ l - - -	('tongue', 'adon1237', 'ˈɜwɜˈrɜt')	nan		
@@ -390,10 +390,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 164.0	hand	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*[qa]lima	nan	l i m a -	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
 167.0	fingernail	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔunur	nan	ʔ u n u r	('fingernail', 'adon1237', 'kɜˈmukurɜt')	nan		
 167.0	fingernail	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	liŋ urun	nan	l i ŋ _ u r u n	('fingernail', 'adon1237', 'kɜˈmukurɜt')	nan		
-168.0	breast	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	uhu-ŋ	nan	u h u ŋ	('breast', 'adan1251', 'tɔ')	nan		
-168.0	breast	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251', 'tɔ')	nan		
-168.0	breast	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251', 'tɔ')	nan		
-168.0	breast	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251', 'tɔ')	nan		
+168.0	breast	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	uhu-ŋ	nan	u h u ŋ	('breast', 'adan1251-lawah', 'toʔ')	nan		
+168.0	breast	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251-lawah', 'toʔ')	nan		
+168.0	breast	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251-lawah', 'toʔ')	nan		
+168.0	breast	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251-lawah', 'toʔ')	nan		
 174.0	leg	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βaʔi	nan	β a ʔ i -	('leg', 'amar1273-kotos', 'hae-f')	nan		
 174.0	leg	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βaʔi-ŋ	nan	β a ʔ i ŋ	('leg', 'amar1273-kotos', 'hae-f')	nan		
 174.0	leg	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qaqay	nan	q a q a - y	('leg', 'nede1245', 'gaya')	nan		
@@ -412,23 +412,23 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179.0	back	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘hur	nan	nan	('back', 'keda1252-leuwa', 'u̘hur')	nan		
 179.0	back	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔbi	nan	- ɔ b i	"('back', 'keda1252', ""'ʔobi"")"	nan		
 179.0	back	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*likud	nan	nan	('back', 'maka1316', 'laikoru')	nan		
-179.0	back	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mudi	nan	- - - m u d i	('back', 'adan1251', 'amɔt')	nan		
+179.0	back	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mudi	nan	- - - m u d i	('back', 'baka1276', 'mota')	nan		
 179.0	back	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*likud	nan	nan	('back', 'maka1316', 'laikoru')	nan		
 182.0	skin	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔuli-t	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
 182.0	skin	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	amaʔ	nan	- a m a ʔ - -	('skin', 'adon1237', 'ˈkamaˈkɜt')	nan		
 182.0	skin	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qaNiC	nan	q a N i C	('skin', 'p-aust1307-abvd', '*qaNiC')	nan		
 182.0	skin	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
 182.0	skin	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
-190.0	person	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Cau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	C a u	('person', 'p-aust1307-abvd', '*Cau')	nan		
-190.0	person	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u	('person', 'p-aust1307-abvd', '*Cau')	nan		
-190.0	person	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taumataq	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u m a t a q	('person', 'p-cent2245-abvd', '*taumataq')	nan		
-190.0	person	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u	('person', 'p-aust1307-abvd', '*Cau')	nan		
-191.0	name	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nara	nan	n a r a -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-191.0	name	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nara-ŋ	nan	n a r a ŋ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-191.0	name	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	naja	nan	n a j a -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-191.0	name	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ŋajan	nan	ŋ a j a n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-191.0	name	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ŋajan	nan	ŋ a j a n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-191.0	name	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ŋajan	nan	ŋ a j a n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+190.0	person	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Cau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	C a u	('person', 'adon1237', 'ˈʔata')	nan		
+190.0	person	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u	('person', 'adon1237', 'ˈʔata')	nan		
+190.0	person	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taumataq	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u m a t a q	('person', 'adon1237', 'ˈʔata')	nan		
+190.0	person	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u	('person', 'adon1237', 'ˈʔata')	nan		
+191.0	name	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nara	nan	n a r a -	('name', 'adon1237', 'ˈnarã')	nan		
+191.0	name	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nara-ŋ	nan	n a r a ŋ	('name', 'adon1237', 'ˈnarã')	nan		
+191.0	name	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	naja	nan	n a j a -	('name', 'adon1237', 'ˈnarã')	nan		
+191.0	name	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ŋajan	nan	ŋ a j a n	('name', 'adon1237', 'ˈnarã')	nan		
+191.0	name	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ŋajan	nan	ŋ a j a n	('name', 'adon1237', 'ˈnarã')	nan		
+191.0	name	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ŋajan	nan	ŋ a j a n	('name', 'adon1237', 'ˈnarã')	nan		
 192.0	child	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	me	nan	- - m e - -	('child', 'sika1262-tanai', 'me')	nan		
 192.0	child	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘naʔ	nan	- a̘ n a ʔ	('child', 'keda1252-leuwa', 'a̘naʔ')	nan		
 192.0	child	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*aNak	nan	- - - - - - a N a k - -	('child', 'p-aust1307-abvd', '*aNak')	nan		
@@ -487,67 +487,67 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 204.0	2sg (informal)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kamiu	nan	- k a m i u - - - - -	('2sg (informal)', 'cent2245-hewa', 'ʔau')	nan		
 206.0	3sg	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nimu	nan	n i m u - - - - -	('3sg', 'amar1273-kotos', 'in')	nan		
 206.0	3sg	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ni	nan	n i - - - - - - -	('3sg', 'amar1273-kotos', 'in')	nan		
-206.0	3sg	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nuɔ	nan	n u - ɔ - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-206.0	3sg	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*si-ia	nan	s ii - a	('3sg', 'adan1251', 'sari')	nan		
-206.0	3sg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*s-ia	nan	s i - a	('3sg', 'adan1251', 'sari')	nan		
-206.0	3sg	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*si-ia	nan	s ii - a	('3sg', 'adan1251', 'sari')	nan		
-207.0	1pl excl	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔami	nan	ʔ a m i	('1pl excl', 'adon1237', 'ˈkame')	nan		
+206.0	3sg	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nuɔ	nan	n u - ɔ - - - - -	('3sg', 'adon1237', 'ˈnaʔɛ')	nan		
+206.0	3sg	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*si-ia	nan	s ii - a	('3sg', 'p-aust1307-abvd', '*si-ia')	nan		
+206.0	3sg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*s-ia	nan	s i - a	('3sg', 'p-aust1307-abvd', '*si-ia')	nan		
+206.0	3sg	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*si-ia	nan	s ii - a	('3sg', 'p-aust1307-abvd', '*si-ia')	nan		
+207.0	1pl excl	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔami	nan	ʔ a m i	"('1pl excl', 'kema1243', ""'ʔami"")"	nan		
 207.0	1pl excl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tε	nan	t ε	('1pl excl', 'keda1252-leuwa', 'tε')	nan		
-207.0	1pl excl	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kami	nan	k a m i	('1pl excl', 'adon1237', 'ˈkame')	nan		
-207.0	1pl excl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*k-ami	nan	k a m i	('1pl excl', 'adon1237', 'ˈkame')	nan		
-207.0	1pl excl	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kami	nan	k a m i	('1pl excl', 'adon1237', 'ˈkame')	nan		
-208.0	1pl incl	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔita	nan	- ʔ i t a - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-208.0	1pl incl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kε	nan	- k - - ε - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-208.0	1pl incl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɛ	nan	- - - - ɛ - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-208.0	1pl incl	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i-kita	nan	i k i t a - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-208.0	1pl incl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*k-ita	nan	- k i t a - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-208.0	1pl incl	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i-kita	nan	i k i t a - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-209.0	2pl	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	miu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-209.0	2pl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mε	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+207.0	1pl excl	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kami	nan	k a m i	"('1pl excl', 'kema1243', ""'ʔami"")"	nan		
+207.0	1pl excl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*k-ami	nan	k a m i	"('1pl excl', 'kema1243', ""'ʔami"")"	nan		
+207.0	1pl excl	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kami	nan	k a m i	"('1pl excl', 'kema1243', ""'ʔami"")"	nan		
+208.0	1pl incl	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔita	nan	- ʔ i t a - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+208.0	1pl incl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kε	nan	- k - - ε - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+208.0	1pl incl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɛ	nan	- - - - ɛ - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+208.0	1pl incl	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i-kita	nan	i k i t a - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+208.0	1pl incl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*k-ita	nan	- k i t a - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+208.0	1pl incl	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i-kita	nan	i k i t a - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+209.0	2pl	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	miu	nan	nan	('2pl', 'adon1237', 'ˈmio')	nan		
+209.0	2pl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mε	nan	nan	('2pl', 'adon1237', 'ˈmio')	nan		
 209.0	2pl	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i-kamu	nan	nan	"('2pl', 'abui1241-takal', ""'ri.dɔ"")"	nan		
 210.0	3pl	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rimu	nan	r i m u	('3pl', 'cent2245-hewa', 'rimu')	nan		
-210.0	3pl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	suɔ	nan	( - - ) - - s u - ɔ - - - -	('3pl', 'adon1237', 'ˈraʔe')	nan		
-210.0	3pl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sida	nan	( - - ) - - s i d a - - - -	('3pl', 'adon1237', 'ˈraʔe')	nan		
-210.0	3pl	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*si-ida	nan	( - - ) - - s ii d a - - - -	('3pl', 'adon1237', 'ˈraʔe')	nan		
-211.0	no; not	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	eʔo-ŋ	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'cent2245-hewa', 'eʔon')	nan		
-211.0	no; not	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔhaʔ	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'cent2245-hewa', 'eʔon')	nan		
-211.0	no; not	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ini	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	- i - n i	('no; not', 'p-aust1307-abvd', '*ini')	nan		
-211.0	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*diaq	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	"('no; not', 'kema1243', ""'tai"")"	nan		
-211.0	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ta	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	"('no; not', 'kema1243', ""'tai"")"	nan		
-211.0	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ta-i	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	"('no; not', 'kema1243', ""'tai"")"	nan		
-211.0	no; not	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*diaq	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	"('no; not', 'kema1243', ""'tai"")"	nan		
-211.0	no; not	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qazi	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	q a z i	('no; not', 'p-mala1545-abvd', '*qazi')	nan		
+210.0	3pl	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	suɔ	nan	( - - ) - - s u - ɔ - - - -	('3pl', 'adan1251-otvai', 'supi')	nan		
+210.0	3pl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sida	nan	( - - ) - - s i d a - - - -	('3pl', 'adan1251-otvai', 'supi')	nan		
+210.0	3pl	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*si-ida	nan	( - - ) - - s ii d a - - - -	('3pl', 'adan1251-otvai', 'supi')	nan		
+211.0	no; not	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	eʔo-ŋ	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'adan1251-otvai', 'haʔai')	nan		
+211.0	no; not	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔhaʔ	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'adan1251-otvai', 'haʔai')	nan		
+211.0	no; not	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ini	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	- i - n i	"('no; not', 'abui1241-petle', ""na.'ha"")"	nan		
+211.0	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*diaq	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'keda1252', 'tɔn')	nan		
+211.0	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ta	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'keda1252', 'tɔn')	nan		
+211.0	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ta-i	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'keda1252', 'tɔn')	nan		
+211.0	no; not	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*diaq	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'keda1252', 'tɔn')	nan		
+211.0	no; not	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qazi	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	q a z i	('no; not', 'amar1273-kotos', 'ka...fa')	nan		
 212.0	and	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mole	nan	m o l e	('and', 'sika1262-tanai', 'mole')	nan		
 212.0	and	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ka	nan	k a	('and', 'lama1277-kalik', 'ko')	nan		
 212.0	and	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*mah	nan	m a h -	('and', 'amar1273-kotos', 'ma')	nan		
 212.0	and	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma	nan	m a - -	('and', 'amar1273-kotos', 'ma')	nan		
 212.0	and	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ka	nan	k a	('and', 'lama1277-kalik', 'ko')	nan		
 212.0	and	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma	nan	m a - -	('and', 'amar1273-kotos', 'ma')	nan		
-213.0	because	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	loni-ŋ	nan	l o n i ŋ -	('because', 'sika1262-tanai', 'loni-ŋ')	nan		
-213.0	because	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	εlε	nan	ε l ε	('because', 'keda1252-leuwa', 'εlε')	nan		
-214.0	if	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	raʔik	nan	r a ʔ i k	('if', 'sika1262-tanai', 'raʔik')	nan		
-214.0	if	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	εrε	nan	- - - - ε r - - - ε - ( - - - - - - - - - ) -	('if', 'keda1252-leuwa', 'εrε')	nan		
-214.0	if	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ka	nan	k a - - - - - - - - -	('if', 'p-aust1307-abvd', '*ka')	nan		
-214.0	if	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*nu	nan	n u - -	('if', 'p-aust1307-abvd', '*nu')	nan		
-214.0	if	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma	nan	m a - -	('if', 'p-cent2245-abvd', '*ma')	nan		
-214.0	if	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ka	nan	k a - - - - - - - - -	('if', 'p-aust1307-abvd', '*ka')	nan		
-214.0	if	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*nu	nan	n u - -	('if', 'p-aust1307-abvd', '*nu')	nan		
+213.0	because	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	loni-ŋ	nan	l o n i ŋ -	('because', 'kula1280-lanto', 'anuna')	nan		
+213.0	because	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	εlε	nan	ε l ε	('because', 'cent2245-hewa', 'əle')	nan		
+214.0	if	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	raʔik	nan	r a ʔ i k	('if', 'lamm1241', 'ing')	nan		
+214.0	if	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	εrε	nan	- - - - ε r - - - ε - ( - - - - - - - - - ) -	('if', 'keda1252', 'ere')	nan		
+214.0	if	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ka	nan	k a - - - - - - - - -	"('if', 'alor1247-baran', ""'kalau"")"	nan		
+214.0	if	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*nu	nan	n u - -	('if', 'cent2245-hewa', 'ganupa')	nan		
+214.0	if	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma	nan	m a - -	('if', 'abui1241-takal', 'mɞɪ')	nan		
+214.0	if	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ka	nan	k a - - - - - - - - -	"('if', 'alor1247-baran', ""'kalau"")"	nan		
+214.0	if	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*nu	nan	n u - -	('if', 'cent2245-hewa', 'ganupa')	nan		
 215.0	with	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dapεʔ	nan	d a p ε ʔ	('with', 'keda1252-leuwa', 'dapεʔ')	nan		
-215.0	with	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nɔrε	nan	n ɔ r ε	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
-216.0	what?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘pε	nan	- a̘ p - ε - -	('what?', 'keda1252-leuwa', 'a̘pε')	nan		
-216.0	what?	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*n-anu	nan	n a n u -	('what?', 'p-aust1307-abvd', '*n-anu')	nan		
-216.0	what?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*apa	nan	- a p - a - -	('what?', 'keda1252-leuwa', 'a̘pε')	nan		
-216.0	what?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sapa	nan	s a p - a - -	('what?', 'keda1252-leuwa', 'a̘pε')	nan		
-216.0	what?	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*-anu	nan	- a n u -	('what?', 'p-aust1307-abvd', '*n-anu')	nan		
-216.0	what?	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*apa	nan	- a p - a - -	('what?', 'keda1252-leuwa', 'a̘pε')	nan		
+215.0	with	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nɔrε	nan	n ɔ r ε	('with', 'adon1237', 'ˈtaliʔ')	nan		
+216.0	what?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘pε	nan	- a̘ p - ε - -	('what?', 'alor1247-baran', 'pei')	nan		
+216.0	what?	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*n-anu	nan	n a n u -	"('what?', 'abui1241-petle', ""na.'la"")"	nan		
+216.0	what?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*apa	nan	- a p - a - -	('what?', 'alor1247-baran', 'pei')	nan		
+216.0	what?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sapa	nan	s a p - a - -	('what?', 'alor1247-baran', 'pei')	nan		
+216.0	what?	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*-anu	nan	- a n u -	"('what?', 'abui1241-petle', ""na.'la"")"	nan		
+216.0	what?	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*apa	nan	- a p - a - -	('what?', 'alor1247-baran', 'pei')	nan		
 217.0	who?	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	hai	nan	h a - i	('who?', 'cent2245-hewa', 'hai')	nan		
 217.0	who?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	siɔ	nan	- - s i - ɔ	('who?', 'amar1273-kotos', 'sekau')	nan		
 217.0	who?	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*si-ima	nan	- - s ii m a	('who?', 'amar1273-kotos', 'sekau')	nan		
 217.0	who?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sai	nan	- - s a - i	('who?', 'amar1273-kotos', 'sekau')	nan		
 217.0	who?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sei	nan	- - s e - i	('who?', 'amar1273-kotos', 'sekau')	nan		
 217.0	who?	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i-sai	nan	- i s a - i	('who?', 'amar1273-kotos', 'sekau')	nan		
-218.0	where?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dita	nan	- d - i t a - - - - - - - - ( - - - - - - - ) -	('angry', 'lamm1241', 'arugga')	nan		
-218.0	where?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dεnita	nan	d ε n i t a - - - - - - - - ( - - - - - - - ) -	('angry', 'lamm1241', 'arugga')	nan		
+218.0	where?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dita	nan	- d - i t a - - - - - - - - ( - - - - - - - ) -	"('where?', 'abui1241-petle', ""'te(:).ha"")"	nan		
+218.0	where?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dεnita	nan	d ε n i t a - - - - - - - - ( - - - - - - - ) -	"('where?', 'abui1241-petle', ""'te(:).ha"")"	nan		
 218.0	where?	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i-nu	nan	- i - n u - - - - -	('where?', 'p-aust1307-abvd', '*i-nu')	nan		
 218.0	where?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*be	nan	( - - ) b e -	('where?', 'cent2245-hewa', 'upa')	nan		
 218.0	where?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*pae	nan	( - - ) p a e	('where?', 'cent2245-hewa', 'upa')	nan		
@@ -569,20 +569,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 223.0	this	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nɔʔ	nan	n ɔ - - - ʔ - - - -	('this', 'adon1237', 'ˈnhiː')	nan		
 223.0	this	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i-ni	nan	- i - - - - - n i -	('this', 'adon1237', 'ˈnhiː')	nan		
 223.0	this	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*-ni	nan	- - - - - - - n i -	('this', 'adon1237', 'ˈnhiː')	nan		
-223.0	this	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i ni	nan	- i - - _ - - n i -	('this', 'adon1237', 'ˈnhiː')	nan		
+223.0	this	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i ni	nan	- i - - _ - - n i -	('this', 'p-mala1545-abvd', '*i_ni')	nan		
 224.0	that	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	sɔbε	nan	s ɔ b ε	('that', 'keda1252-leuwa', 'sɔbε')	nan		
 224.0	that	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*-na	nan	- n a -	('that', 'amar1273-kotos', '=an')	nan		
 224.0	that	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i na	nan	- - i _ n a	('that', 'amar1273-kotos', 'ee')	nan		
-225.0	at	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*di	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi,_dɜ,_pi')	nan		
-225.0	at	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi,_dɜ,_pi')	nan		
-225.0	at	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*di	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi,_dɜ,_pi')	nan		
-225.0	at	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*di	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi,_dɜ,_pi')	nan		
-225.0	at	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi,_dɜ,_pi')	nan		
+225.0	at	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*di	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi')	nan		
+225.0	at	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi')	nan		
+225.0	at	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*di	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi')	nan		
+225.0	at	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*di	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi')	nan		
+225.0	at	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'adon1237', 'dɜˈhi')	nan		
 227.0	here	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bæʔ	nan	b æ ʔ	('here', 'keda1252-leuwa', 'bæʔ')	nan		
-227.0	here	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di nɔʔ	nan	d i _ - - n ɔ ʔ -	"('here', 'fata1247', ""ɛ'naɁɛ"")"	nan		
-228.0	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di mæ	nan	d i - _ - - m æ -	('there', 'keda1252-leuwa', 'di_mæ')	nan		
-228.0	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di nɔbε	nan	d i - - _ n ɔ b ε	('there', 'keda1252', 'dinobeʔ')	nan		
-228.0	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nɔbε	nan	- - - - - n ɔ b ε	('there', 'keda1252', 'dinobeʔ')	nan		
+227.0	here	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di nɔʔ	nan	d i _ - - n ɔ ʔ -	('here', 'adan1251-otvai', 'hɔʔɔ_mi')	nan		
+228.0	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di mæ	nan	d i - _ - - m æ -	('there', 'adan1251-otvai', 'hɛmɔ_mi')	nan		
+228.0	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di nɔbε	nan	d i - - _ n ɔ b ε	('there', 'adon1237', 'dɜˈhɛrɜ')	nan		
+228.0	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nɔbε	nan	- - - - - n ɔ b ε	('there', 'adon1237', 'dɜˈhɛrɜ')	nan		
 229.0	above	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i babaw	nan	i _ - b a b a w	('above', 'p-aust1307-abvd', '*i_babaw')	nan		
 229.0	above	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i taqas	nan	nan	('above', 'p-aust1307-abvd', '*i_taqas')	nan		
 229.0	above	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*atas	nan	nan	('above', 'p-aust1307-abvd', '*i_taqas')	nan		
@@ -595,12 +595,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 231.0	left (side)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ka-wiʀi	nan	k a w i ʀ - - i	('left (side)', 'amar1273-kotos', 'ʔrii')	nan		
 231.0	left (side)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ka-wiʀi	nan	k a w i ʀ - - i	('left (side)', 'amar1273-kotos', 'ʔrii')	nan		
 231.0	left (side)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ka-wiɾi	nan	k a w i ɾ - - i	('left (side)', 'amar1273-kotos', 'ʔrii')	nan		
-232.0	right (side)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βana	nan	- - β a n - - a	('right (side)', 'keda1252-leuwa', 'vana')	nan		
-232.0	right (side)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vana	nan	- - v a n - - a	('right (side)', 'keda1252-leuwa', 'vana')	nan		
-232.0	right (side)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ka-wanaN	nan	k a w a n a N -	('right (side)', 'keda1252-leuwa', 'vana')	nan		
-232.0	right (side)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ka-wanan	nan	k a w a n a n -	('right (side)', 'keda1252-leuwa', 'vana')	nan		
-232.0	right (side)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ka-wanan	nan	k a w a n a n -	('right (side)', 'keda1252-leuwa', 'vana')	nan		
-233.0	a few	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kəsik ha	nan	k ə s i k _ h a - - - - -	('a few', 'adon1237', 'ˈʔɜsiʔ,_kuluk')	nan		
+232.0	right (side)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βana	nan	- - β a n - - a	('right (side)', 'adan1251-otvai', 'taniŋ')	nan		
+232.0	right (side)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vana	nan	- - v a n - - a	('right (side)', 'adan1251-otvai', 'taniŋ')	nan		
+232.0	right (side)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ka-wanaN	nan	k a w a n a N -	('right (side)', 'adan1251-otvai', 'taniŋ')	nan		
+232.0	right (side)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ka-wanan	nan	k a w a n a n -	('right (side)', 'adan1251-otvai', 'taniŋ')	nan		
+232.0	right (side)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ka-wanan	nan	k a w a n a n -	('right (side)', 'adan1251-otvai', 'taniŋ')	nan		
+233.0	a few	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kəsik ha	nan	k ə s i k _ h a - - - - -	('a few', 'adon1237', 'ˈʔɜsiʔ')	nan		
 233.0	a few	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	uraŋ	nan	nan	('a few', 'keda1252-leuwa', 'uraŋ')	nan		
 234.0	all	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	haha	nan	h a h a	('all', 'sika1262-tanai', 'haha')	nan		
 234.0	all	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ræiʔ	nan	r æ i ʔ	"('all', 'keda1252', ""'rɛiʔ"")"	nan		
@@ -614,37 +614,37 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 238.0	dog	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*wasu	nan	w a s u - - - - - - -	('dog', 'adon1237', 'ˈʔaho')	nan		
 238.0	dog	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*asu	nan	- a s u - - - - - - -	('dog', 'adon1237', 'ˈʔaho')	nan		
 238.0	dog	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*asu	nan	- a s u - - - - - - -	('dog', 'adon1237', 'ˈʔaho')	nan		
-241.0	rat	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*labaw	nan	l a b a w	('rat', 'p-aust1307-abvd', '*labaw')	nan		
-241.0	rat	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*labaw	nan	l a b a w	('rat', 'p-aust1307-abvd', '*labaw')	nan		
-241.0	rat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*labaw	nan	l a b a w	('rat', 'p-aust1307-abvd', '*labaw')	nan		
-249.0	tail	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	iʔur	nan	- i ʔ u r	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+241.0	rat	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*labaw	nan	l a b a w	('rat', 'amar1273-kotos', 'knafo')	nan		
+241.0	rat	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*labaw	nan	l a b a w	('rat', 'amar1273-kotos', 'knafo')	nan		
+241.0	rat	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*labaw	nan	l a b a w	('rat', 'amar1273-kotos', 'knafo')	nan		
+249.0	tail	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	iʔur	nan	- i ʔ u r	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
 249.0	tail	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	lado-ŋ	nan	l a d o ŋ	('tail', 'sika1262-tanai', 'lado-ŋ')	nan		
 249.0	tail	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	εbɔ	nan	ε b ɔ	('tail', 'keda1252', 'ʔebɔ')	nan		
-249.0	tail	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ikuʀ	nan	i k u ʀ - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-249.0	tail	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ikuʀ	nan	i k u ʀ - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-249.0	tail	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ikuɾ	nan	i k u ɾ - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+249.0	tail	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ikuʀ	nan	i k u ʀ - - - - -	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
+249.0	tail	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ikuʀ	nan	i k u ʀ - - - - -	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
+249.0	tail	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ikuɾ	nan	i k u ɾ - - - - -	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
 250.0	fish	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	iʔa-ŋ	nan	- i ʔ a ŋ	('fish', 'adon1237', 'ˈʔikã')	nan		
 250.0	fish	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	i̘ʔa ɛ̘laŋ	nan	i̘ ʔ a _ ɛ̘ l a ŋ	('fish', 'adon1237', 'ˈʔikã')	nan		
 250.0	fish	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Sikan	nan	S i k a n	('fish', 'adon1237', 'ˈʔikã')	nan		
 250.0	fish	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hikan	nan	h i k a n	('fish', 'adon1237', 'ˈʔikã')	nan		
 250.0	fish	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hikan	nan	h i k a n	('fish', 'adon1237', 'ˈʔikã')	nan		
-259.0	bird	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	horo-ŋ	nan	h o r o ŋ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+259.0	bird	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	horo-ŋ	nan	h o r o ŋ	('bird', 'cent2245-hewa', 'kəna_horon')	nan		
 259.0	bird	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	udaŋ	nan	u d - a ŋ -	('bird', 'keda1252-leuwa', 'udaŋ')	nan		
 259.0	bird	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qayam	nan	q a y a m	('bird', 'p-aust1307-abvd', '*qayam')	nan		
 259.0	bird	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*manuk	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan		
 259.0	bird	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*manuk	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan		
 259.0	bird	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qayam	nan	q a y a m	('bird', 'p-aust1307-abvd', '*qayam')	nan		
-260.0	wing	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kəpik	nan	k ə p i k - -	('wing', 'p-cent2245-abvd', '*kapak')	nan		
-260.0	wing	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	apiʔ	nan	- a p i ʔ - -	('wing', 'keda1252-leuwa', 'apiʔ')	nan		
-260.0	wing	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*paNid	nan	p a N i d	('wing', 'p-aust1307-abvd', '*paNid')	nan		
-260.0	wing	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kapak	nan	k a p a k - -	('wing', 'p-cent2245-abvd', '*kapak')	nan		
-260.0	wing	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panij	nan	p a n i j	('wing', 'p-aust1307-abvd', '*paNid')	nan		
-260.0	wing	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kapak	nan	k a p a k - -	('wing', 'p-cent2245-abvd', '*kapak')	nan		
-260.0	wing	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*panid	nan	p a n i d	('wing', 'p-aust1307-abvd', '*paNid')	nan		
+260.0	wing	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kəpik	nan	k ə p i k - -	('wing', 'abui1241-fuime', 'ha-bakai')	nan		
+260.0	wing	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	apiʔ	nan	- a p i ʔ - -	('wing', 'abui1241-fuime', 'ha-bakai')	nan		
+260.0	wing	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*paNid	nan	p a N i d	('wing', 'kama1365', '-paʔta')	nan		
+260.0	wing	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kapak	nan	k a p a k - -	('wing', 'abui1241-fuime', 'ha-bakai')	nan		
+260.0	wing	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panij	nan	p a n i j	('wing', 'kama1365', '-paʔta')	nan		
+260.0	wing	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kapak	nan	k a p a k - -	('wing', 'abui1241-fuime', 'ha-bakai')	nan		
+260.0	wing	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*panid	nan	p a n i d	('wing', 'kama1365', '-paʔta')	nan		
 262.0	feather	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βulu-ŋ	nan	β u l u ŋ - - - - -	('feather', 'adan1251-lawah', 'hiu_wolo_(folo)')	nan		
 262.0	feather	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*bulu	nan	b u l u - - - - - -	('feather', 'adan1251-lawah', 'hiu_wolo_(folo)')	nan		
 262.0	feather	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*bulu	nan	b u l u - - - - - -	('feather', 'adan1251-lawah', 'hiu_wolo_(folo)')	nan		
-263.0	horn	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tara-ŋ	nan	t a r a ŋ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+263.0	horn	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tara-ŋ	nan	t a r a ŋ	('horn', 'adon1237', 'taˈrã')	nan		
 264.0	snake	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	naɡa	/ular/ = Indonesian loan; /naga/ = from Sanskrit	n a ɡ - a	('snake', 'sika1262-tanai', 'naɡa')	nan		
 264.0	snake	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ular	/ular/ = Indonesian loan; /naga/ = from Sanskrit	- u l a r	('snake', 'adon1237', 'ˈʔulaʔ')	nan		
 264.0	snake	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘lar pupun	nan	u̘ l a r _ p u p u n	('snake', 'adon1237', 'ˈʔulaʔ')	nan		
@@ -684,15 +684,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 281.0	big	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ɾaya	nan	nan	"('big', 'keda1252', ""ri'aː"")"	nan		
 281.0	big	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-ɾaya	nan	nan	"('big', 'keda1252', ""ri'aː"")"	nan		
 282.0	small	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	anak	/anak/ = from Malay	a n a k - -	"('small', 'alor1247-baran', ""'an:aŋ"")"	nan		
-282.0	small	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kəsik	/anak/ = from Malay	k ə s i k -	('small', 'abui1241-fuime', 'kding')	nan		
-282.0	small	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kulεŋ kaiʔ	nan	k u l ε ŋ _ k a i ʔ	('small', 'adan1251', 'kaʔai')	nan		
-282.0	small	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	utu kulεŋ	nan	u t u - _ k u l ε ŋ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-282.0	small	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	utu ɔlɔr	nan	u t u - _ - ɔ l ɔ r	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-282.0	small	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kding')	nan		
+282.0	small	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kəsik	/anak/ = from Malay	k ə s i k -	('small', 'abui1241-fuime', 'kdiŋ')	nan		
+282.0	small	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kulεŋ kaiʔ	nan	k u l ε ŋ _ k a i ʔ	('small', 'adan1251-lawah', 'kaʔai')	nan		
+282.0	small	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	utu kulεŋ	nan	u t u - _ k u l ε ŋ	('small', 'keda1252-leuwa', 'utu_kulεŋ')	nan		
+282.0	small	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	utu ɔlɔr	nan	u t u - _ - ɔ l ɔ r	('small', 'keda1252-leuwa', 'utu_ɔlɔr')	nan		
+282.0	small	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kdiŋ')	nan		
 282.0	small	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*dikiq	nan	d i k i q - -	('small', 'p-cent2245-abvd', '*dikiq')	nan		
-282.0	small	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kding')	nan		
+282.0	small	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kdiŋ')	nan		
 282.0	small	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*dikiq	nan	d i k i q - -	('small', 'p-cent2245-abvd', '*dikiq')	nan		
-282.0	small	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kding')	nan		
+282.0	small	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kdiŋ')	nan		
 283.0	old; worn (house)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	blupur	nan	b l u p u r - - - - - -	('old; worn (house)', 'sika1262-tanai', 'blupur')	nan		
 283.0	old; worn (house)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	blupur huβer	nan	b l u p u r _ h u β e r	('old; worn (house)', 'sika1262-tanai', 'blupur')	nan		
 283.0	old; worn (house)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tua	nan	t u - a - - -	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	nan		
@@ -725,8 +725,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 290.0	good	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma-pia	nan	m a p i a	('good', 'p-cent2245-abvd', '*ma-pia')	nan		
 290.0	good	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-pia	nan	m a p i a	('good', 'p-cent2245-abvd', '*ma-pia')	nan		
 291.0	bad	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	həmu	nan	h ə m u	('bad', 'sika1262', 'hemu')	nan		
-291.0	bad	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡoʔi-t	nan	ɡ o ʔ i t	('bad', 'cent2245-hewa', 'ɡoʔid_(mainly_used_for_things_that_are_not_nice)')	nan		
-291.0	bad	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡoʔis	nan	ɡ o ʔ i s	('bad', 'cent2245-hewa', 'ɡoʔid_(mainly_used_for_things_that_are_not_nice)')	nan		
+291.0	bad	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡoʔi-t	nan	ɡ o ʔ i t	('bad', 'cent2245-hewa', 'ɡoʔid')	nan		
+291.0	bad	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡoʔis	nan	ɡ o ʔ i s	('bad', 'cent2245-hewa', 'ɡoʔid')	nan		
 291.0	bad	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	buruʔ balaŋ	nan	b u r u ʔ _ b a l a ŋ	('bad', 'keda1252-leuwa', 'buruʔ_balaŋ')	nan		
 291.0	bad	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	datεn ɔhaʔ	nan	nan	"('bad', 'alor1247-baran', ""'datɛ"")"	nan		
 291.0	bad	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	iŋin bɔaŋ	nan	i ŋ i n _ b ɔ a ŋ	('bad', 'keda1252-leuwa', 'iŋin_bɔaŋ')	nan		
@@ -800,7 +800,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 311.0	sharp	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tazim	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	- - t a z i m	('sharp', 'p-aust1307-abvd', '*Cazem')	nan		
 312.0	blunt; dull	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bou-ŋ	nan	b o - - u ŋ	('blunt; dull', 'amar1273-kotos', 'n-bufu')	nan		
 312.0	blunt; dull	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mumuk	nan	m u m u k -	('blunt; dull', 'sika1262-tanai', 'mumuk')	nan		
-312.0	blunt; dull	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘mal	nan	- u̘ m a l - -	('blunt; dull', 'adan1251', 'umɛ')	nan		
+312.0	blunt; dull	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘mal	nan	- u̘ m a l - -	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	nan		
 312.0	blunt; dull	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*dumpul	nan	d u m p u l	('blunt; dull', 'p-cent2245-abvd', '*dumpul')	nan		
 312.0	blunt; dull	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*dumpul	nan	d u m p u l	('blunt; dull', 'p-cent2245-abvd', '*dumpul')	nan		
 312.0	blunt; dull	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*pundul	nan	p u n d u l	('blunt; dull', 'p-cent2245-abvd', '*dumpul')	nan		
@@ -813,10 +813,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 316.0	wide	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kləβa-ŋ	nan	k l ə β a ŋ -	('wide', 'adon1237', 'ˈbeleʔ')	nan		
 316.0	wide	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	peŋa-ŋ	nan	p - e ŋ a ŋ	('wide', 'adon1237', 'ˈbeleʔ')	nan		
 316.0	wide	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kεdεŋ kεnaʔ	nan	k ε d ε ŋ _ k ε n a ʔ	('wide', 'keda1252-leuwa', 'kεdεŋ_kεnaʔ')	nan		
-316.0	wide	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ria baraʔ	nan	r i a _ b a r a ʔ	('wide', 'adan1251', 'bɛraŋ')	nan		
+316.0	wide	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ria baraʔ	nan	r i a _ b a r a ʔ	('wide', 'adan1251-lawah', 'bɛrɛŋ')	nan		
 316.0	wide	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-lawas	nan	- - m a l - a w a s - - -	('wide', 'p-aust1307-abvd', '*ma-lawas')	nan		
-316.0	wide	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*labeɾ	nan	- - l a b e ɾ -	('wide', 'adan1251', 'bɛraŋ')	nan		
-316.0	wide	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-labeɾ	nan	m a l a b e ɾ -	('wide', 'adan1251', 'bɛraŋ')	nan		
+316.0	wide	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*labeɾ	nan	- - l a b e ɾ -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	nan		
+316.0	wide	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-labeɾ	nan	m a l a b e ɾ -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	nan		
 318.0	correct	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	akə-t	nan	a k ə t	('correct', 'sika1262-tanai', 'akə-t')	nan		
 318.0	correct	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-bener	nan	m a b e n e r	('correct', 'p-mala1545-abvd', '*ma-bener')	nan		
 321.0	rotten	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βau-ŋ	nan	β a u ŋ	('rotten', 'sika1262-tanai', 'βau-ŋ')	nan		
@@ -831,12 +831,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 326.0	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	desak	nan	d e s a k -	('flat', 'sika1262-tanai', 'desak')	nan		
 326.0	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	dətu-ŋ	nan	d ə t u ŋ -	('flat', 'sika1262-tanai', 'desak')	nan		
 326.0	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔalus	nan	ʔ a l u s -	('flat', 'sika1262-tanai', 'ʔalus')	nan		
-329.0	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mita-ŋ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-329.0	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mitak	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-329.0	black	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mitεŋ kajɔʔ	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+329.0	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mita-ŋ	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
+329.0	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mitak	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
+329.0	black	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mitεŋ kajɔʔ	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
 329.0	black	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*CeŋeN	nan	- - - C e ŋ - e N	('black', 'p-aust1307-abvd', '*CeŋeN')	nan		
-329.0	black	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma-qetəm	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-329.0	black	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-qitem	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+329.0	black	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma-qetəm	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
+329.0	black	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-qitem	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
 330.0	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bura	nan	b u r a - - - - - - - - - - - -	('white', 'adon1237', 'ˈburaʔ')	nan		
 330.0	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bura bara	nan	b u r a _ b a r a	('white', 'adon1237', 'ˈburaʔ')	nan		
 330.0	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ibok	nan	- i b o - - k	('white', 'adon1237', 'ˈburaʔ')	nan		
@@ -869,14 +869,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 336.0	shy; ashamed	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mayaq	nan	m a - y a q -	('shy; ashamed', 'p-aust1307-abvd', '*ma-Siaq')	nan		
 336.0	shy; ashamed	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-hiaq	nan	m a h i a q -	('shy; ashamed', 'p-aust1307-abvd', '*ma-Siaq')	nan		
 341.0	scared	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-takut	nan	m a t a k u t	"('scared', 'alor1247-baran', ""'taku"")"	nan		
-343.0	to see	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	niʔa	nan	n i ʔ a	('to see', 'amar1273-kotos', 'n-ita,_n-meo')	nan		
-343.0	to see	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔita	nan	ʔ i t a -	('to see', 'amar1273-kotos', 'n-ita,_n-meo')	nan		
+343.0	to see	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	niʔa	nan	n i ʔ a	('to see', 'amar1273-kotos', 'n-kisu')	nan		
+343.0	to see	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔita	nan	ʔ i t a -	('to see', 'amar1273-kotos', 'n-kisu')	nan		
 343.0	to see	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bɔraʔ hεraʔ	nan	- b ɔ r a ʔ _ h ε r a ʔ	('to see', 'keda1252', 'bora')	nan		
 343.0	to see	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ui	nan	u i	('to see', 'keda1252-leuwa', 'ui')	nan		
 343.0	to see	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	εbεŋ bɔraʔ	nan	ε b ε ŋ - - _ b ɔ r a ʔ	('to see', 'keda1252', 'bora')	nan		
-343.0	to see	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'amar1273-kotos', 'n-ita,_n-meo')	nan		
-343.0	to see	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'amar1273-kotos', 'n-ita,_n-meo')	nan		
-343.0	to see	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'amar1273-kotos', 'n-ita,_n-meo')	nan		
+343.0	to see	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'amar1273-kotos', 'n-kisu')	nan		
+343.0	to see	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'amar1273-kotos', 'n-kisu')	nan		
+343.0	to see	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'amar1273-kotos', 'n-kisu')	nan		
 344.0	to hear	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	plina	nan	p - l i n a	"('to hear', 'laka1255', ""'li:"")"	nan		
 344.0	to hear	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rəna	nan	r ə n a	('to hear', 'adon1237', 'ˈdɜŋɜʔ')	nan		
 344.0	to hear	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	baŋær	nan	b a ŋ æ r - - - - -	('to hear', 'adon1237', 'ˈdɜŋɜʔ')	nan		
@@ -898,7 +898,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346.0	to think	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*demdem	nan	d e m d e m	('to think', 'p-aust1307-abvd', '*-ajem')	nan		
 347.0	to know	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	raʔinta-ŋ	nan	- - - r a ʔ i n t a ŋ	('to know', 'cent2245-hewa', 'raitan')	nan		
 347.0	to know	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lalaŋ	nan	l a l a ŋ	('to know', 'alor1249-sar-a', 'kalál')	nan		
-347.0	to know	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ui	nan	- u i	('to know', 'adon1237', 'ˈnoi,_ˈkoi')	nan		
+347.0	to know	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ui	nan	- u i	('to know', 'adon1237', 'ˈkoi')	nan		
 347.0	to know	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*bajaq	nan	b a j a q	('to know', 'p-aust1307-abvd', '*bajaq')	nan		
 347.0	to know	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*taqu	nan	t a q u	('to know', 'lama1277-lewoe', 'təgo')	nan		
 348.0	to say	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	həro-ŋ	nan	h ə r o ŋ	('to say', 'sika1262-tanai', 'həro-ŋ')	nan		
@@ -962,11 +962,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 365.0	to fall (from above)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ka-nabuq	nan	k a n a b u q	('to fall (from above)', 'p-cent2245-abvd', '*ka-nabuq')	nan		
 365.0	to fall (from above)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma-nabuq	nan	m a n a b u q	('to fall (from above)', 'p-cent2245-abvd', '*ka-nabuq')	nan		
 365.0	to fall (from above)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*nabuq	nan	- - n a b u q	('to fall (from above)', 'p-cent2245-abvd', '*ka-nabuq')	nan		
-368.0	to drink	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔ-inu	nan	ʔ i n u - -	('to drink', 'adan1251', 'na')	nan		
-368.0	to drink	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	in a	nan	i n _ a	('to drink', 'adan1251', 'na')	nan		
+368.0	to drink	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔ-inu	nan	ʔ i n u - -	('to drink', 'adan1251-lawah', 'naʔ')	nan		
+368.0	to drink	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	in a	nan	i n _ a	('to drink', 'adan1251-lawah', 'naʔ')	nan		
 368.0	to drink	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*mimah	nan	m i m a h	('to drink', 'p-aust1307-abvd', '*mimah')	nan		
-368.0	to drink	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*inum	nan	- i n u - m	('to drink', 'adan1251', 'na')	nan		
-368.0	to drink	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*inum	nan	- i n u - m	('to drink', 'adan1251', 'na')	nan		
+368.0	to drink	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*inum	nan	- i n u - m	('to drink', 'adan1251-lawah', 'naʔ')	nan		
+368.0	to drink	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*inum	nan	- i n u - m	('to drink', 'adan1251-lawah', 'naʔ')	nan		
 369.0	to eat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔoa	nan	ʔ o - a -	('to eat', 'sika1262-tanai', 'ʔoa')	nan		
 369.0	to eat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a	nan	a	('to eat', 'keda1252-leuwa', 'a')	nan		
 369.0	to eat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hiduʔ	nan	- - h i d u ʔ	('to eat', 'keda1252-leuwa', 'hiduʔ')	nan		
@@ -983,14 +983,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 371.0	to wash	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	popo	/popo/ = wash clothes; /rasi/ = wash dishes; /kusa-ŋ/ = wash hair	p o p o	('to wash', 'cent2245-hewa', 'popo')	nan		
 371.0	to wash	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rasi	/popo/ = wash clothes; /rasi/ = wash dishes; /kusa-ŋ/ = wash hair	r a s i - -	('to wash', 'sika1262-tanai', 'rasi')	nan		
 371.0	to wash	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hidaŋ	nan	h i d a ŋ	('to wash', 'keda1252-leuwa', 'hidaŋ')	nan		
-372.0	to sew	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	raʔit	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+372.0	to sew	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	raʔit	nan	nan	('to sew', 'adan1251-lawah', 'narotoʔ')	nan		
 372.0	to sew	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*taSiq	nan	t a S i q	('to sew', 'p-aust1307-abvd', '*taSiq')	nan		
-372.0	to sew	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zaqit	nan	z a q i t	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+372.0	to sew	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zaqit	nan	z a q i t	('to sew', 'adan1251-lawah', 'narotoʔ')	nan		
 372.0	to sew	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tahiq	nan	t a h i q	('to sew', 'p-aust1307-abvd', '*taSiq')	nan		
-372.0	to sew	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*zaqit	nan	z a q i t	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+372.0	to sew	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*zaqit	nan	z a q i t	('to sew', 'adan1251-lawah', 'narotoʔ')	nan		
 373.0	to live; be alive; living	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	morə-t	nan	m o - - r ə t - - - - -	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
-373.0	to live; be alive; living	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bita	nan	- b i t a -	('to live; be alive; living', 'adan1251', 'fetaŋ')	nan		
-373.0	to live; be alive; living	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bita matε	nan	b i t a _ m a t ε	('to live; be alive; living', 'adan1251', 'fetaŋ')	nan		
+373.0	to live; be alive; living	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bita	nan	- b i t a -	('to live; be alive; living', 'adan1251-lawah', 'wɛcɛŋ')	nan		
+373.0	to live; be alive; living	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bita matε	nan	b i t a _ m a t ε	('to live; be alive; living', 'adan1251-lawah', 'wɛcɛŋ')	nan		
 373.0	to live; be alive; living	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-qudip	nan	m a q u d i p	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
 373.0	to live; be alive; living	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*maqudip	nan	m a q u d i p	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
 373.0	to live; be alive; living	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-qudip	nan	m a q u d i p	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
@@ -1009,10 +1009,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 377.0	to give	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bɔʔ	nan	b ɔ ʔ	('to give', 'keda1252-leuwa', 'bɔʔ')	nan		
 377.0	to give	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hɔtaʔ	nan	h ɔ t a ʔ	('to give', 'keda1252-leuwa', 'hɔtaʔ')	nan		
 377.0	to give	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lɔbɔ	nan	l ɔ b ɔ	('to give', 'keda1252-leuwa', 'bɔʔ')	nan		
-377.0	to give	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ni	nan	n i - -	('blind', 'adon1237', 'kɜˈnisũ,_kɜˈbuʔlɔ̃')	nan		
+377.0	to give	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ni	nan	n i - -	('to give', 'adon1237', 'ˈneĩ')	nan		
 377.0	to give	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	sɔrɔŋ natεŋ	nan	s ɔ r ɔ ŋ _ n a t ε ŋ	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan		
 377.0	to give	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	sεraʔ saraʔ	nan	s ε r a ʔ _ s a r a ʔ	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan		
-378.0	to wipe	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bloso	(rub or wipe)	b l o s o - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+378.0	to wipe	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bloso	(rub or wipe)	b l o s o - - -	"('to wipe', 'alor1247-pandai', ""'dɔhɔ"")"	nan		
 378.0	to wipe	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dɔru	nan	d ɔ r u -	('to wipe', 'keda1252-leuwa', 'dɔru')	nan		
 378.0	to wipe	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	pɔhɔʔ	nan	p - ɔ h ɔ ʔ - -	('to wipe', 'adon1237', 'ˈbɔhɔʔ')	nan		
 379.0	to come	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	boʔu	nan	b o ʔ u	('to come', 'sika1262-tanai', 'boʔu')	nan		
@@ -1029,16 +1029,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381.0	to cry	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Caŋis	nan	C a ŋ i s	('to cry', 'adon1237', 'ˈtani')	nan		
 381.0	to cry	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taŋis	nan	t a ŋ i s	('to cry', 'adon1237', 'ˈtani')	nan		
 381.0	to cry	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*taŋis	nan	t a ŋ i s	('to cry', 'adon1237', 'ˈtani')	nan		
-383.0	to sing	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kantar	/kantar/ = from Portuguese	k a n t a r -	('to sing', 'buna1278-bobon', 'kantar,_gio_logo')	nan		
+383.0	to sing	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kantar	/kantar/ = from Portuguese	k a n t a r -	('to sing', 'buna1278-bobon', 'gio_logo')	nan		
 383.0	to sing	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	sora sorai	/kantar/ = from Portuguese	s o r a _ s o r a i -	('to sing', 'sika1262-tanai', 'sora_sorai')	nan		
 384.0	to burn (clear land)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	holo	*holo (vb trans); olor (vb intrans)	h o l o -	('to burn (clear land)', 'cent2245-hewa', 'holo')	nan		
 384.0	to burn (clear land)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	olor	*holo (vb trans); olor (vb intrans)	- o l o r	('to burn (clear land)', 'cent2245-hewa', 'holo')	nan		
 384.0	to burn (clear land)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hεiʔ	nan	h ε i ʔ	('to burn (clear land)', 'keda1252-leuwa', 'hεiʔ')	nan		
-384.0	to burn (clear land)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	paʔ bεɔʔ	nan	p a ʔ _ b ε ɔ ʔ	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+384.0	to burn (clear land)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	paʔ bεɔʔ	nan	p a ʔ _ b ε ɔ ʔ	('to burn (clear land)', 'keda1252', 'paʔ_(lumar)')	nan		
 384.0	to burn (clear land)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tunu	nan	t u n u	"('to burn (clear land)', 'alor1247-baran', ""'tun:ɔ"")"	nan		
 384.0	to burn (clear land)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tunu	nan	t u n u	"('to burn (clear land)', 'alor1247-baran', ""'tun:ɔ"")"	nan		
-387.0	to chew	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mamaq	(also chew betel)	m a - m a q	('back', 'lamm1241', 'naing_wiri')	nan		
-387.0	to chew	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mamaq	(also chew betel)	m a - m a q	('back', 'lamm1241', 'naing_wiri')	nan		
+387.0	to chew	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mamaq	(also chew betel)	m a - m a q	"('to chew', 'alor1247-besar', ""'mamɛ"")"	nan		
+387.0	to chew	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mamaq	(also chew betel)	m a - m a q	"('to chew', 'alor1247-besar', ""'mamɛ"")"	nan		
 388.0	to yawn	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-Suab	nan	m a S u a b	('to yawn', 'p-aust1307-abvd', '*ma-Suab')	nan		
 388.0	to yawn	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-Suaw	nan	m a S u a w	('to yawn', 'p-aust1307-abvd', '*ma-Suab')	nan		
 388.0	to yawn	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mawap	nan	m a w - a p	('to yawn', 'p-aust1307-abvd', '*ma-Suab')	nan		
@@ -1052,13 +1052,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 389.0	to suck	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*sepsep	nan	s e ps e p	('to suck', 'adon1237', 'ˈʔisɜp')	nan		
 389.0	to suck	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*susu	nan	s u s u -	('to suck', 'amar1273-kotos', 'n-musi')	nan		
 389.0	to suck	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*sepsep	nan	s e ps e p	('to suck', 'adon1237', 'ˈʔisɜp')	nan		
-390.0	to blow	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Siup	nan	S - - i u p - - - - - -	('to blow', 'abui1241-fuime', 'furungra')	nan		
-390.0	to blow	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*upi	nan	- - - - u p - i - - - -	('to blow', 'abui1241-fuime', 'furungra')	nan		
-390.0	to blow	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hiup	nan	- - h i u p - - - - - -	('to blow', 'abui1241-fuime', 'furungra')	nan		
+390.0	to blow	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Siup	nan	S - - i u p - - - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	nan		
+390.0	to blow	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*upi	nan	- - - - u p - i - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	nan		
+390.0	to blow	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hiup	nan	- - h i u p - - - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	nan		
 391.0	to spit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bota-ŋ	/ilur/ = noun; /nilur/, /tuhe-ŋ/, /bota-ŋ/ = verb	b o t a ŋ	('to spit', 'sika1262-tanai', 'bota-ŋ')	nan		
 391.0	to spit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ilur	/ilur/ = noun; /nilur/, /tuhe-ŋ/, /bota-ŋ/ = verb	- i l u - r -	('to spit', 'sika1262-tanai', 'ilur')	nan		
 391.0	to spit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nilur	/ilur/ = noun; /nilur/, /tuhe-ŋ/, /bota-ŋ/ = verb	n i l u - r -	('to spit', 'sika1262-tanai', 'ilur')	nan		
-391.0	to spit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tuhe-ŋ	/ilur/ = noun; /nilur/, /tuhe-ŋ/, /bota-ŋ/ = verb	t u h e ŋ	('to spit', 'sika1262-tanai', 'tuhe-ŋ')	nan		
+391.0	to spit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tuhe-ŋ	/ilur/ = noun; /nilur/, /tuhe-ŋ/, /bota-ŋ/ = verb	t u h e ŋ	('to spit', 'lamm1241-westp', 'tuppung')	nan		
 391.0	to spit	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	i̘juʔ	nan	- i̘ j u ʔ	('to spit', 'keda1252-leuwa', 'i̘juʔ')	nan		
 391.0	to spit	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mijuʔ	nan	m i j u ʔ	('to spit', 'keda1252-leuwa', 'i̘juʔ')	nan		
 391.0	to spit	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	pɔtaʔ mijuʔ	nan	p ɔ t a ʔ _ m i j u ʔ	('to spit', 'keda1252-leuwa', 'pɔtaʔ_mijuʔ')	nan		
@@ -1099,7 +1099,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 400.0	to cut	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	patar pati	nan	nan	('to cut', 'cent2245-hewa', 'bati')	nan		
 400.0	to cut	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	poro	nan	p o r o -	('to cut', 'sika1262-tanai', 'poro')	nan		
 400.0	to cut	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	poʔok	nan	p o ʔ o k	('to cut', 'sika1262-tanai', 'poro')	nan		
-400.0	to cut	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bεl baʔ	nan	nan	('to cut', 'adon1237', 'ˈbelo,_ˈporoʔ')	nan		
+400.0	to cut	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bεl baʔ	nan	nan	('to cut', 'adon1237', 'ˈporoʔ')	nan		
 400.0	to cut	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bεluŋ	nan	b ε l u ŋ	('to cut', 'keda1252-leuwa', 'bεluŋ')	nan		
 400.0	to cut	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	patε i̘hu	nan	nan	('to cut', 'cent2245-hewa', 'bati')	nan		
 400.0	to cut	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	pæriʔ piʔ	nan	nan	('to cut', 'cent2245-hewa', 'bati')	nan		
@@ -1121,7 +1121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 404.0	to stab	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bælɔʔ baʔ	nan	b æ l ɔ ʔ _ b a - - ʔ	('to stab', 'keda1252-leuwa', 'bakɔʔ')	nan		
 404.0	to stab	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bælɔʔ bεhar	nan	b æ l ɔ ʔ _ b εh - a r	('to stab', 'keda1252-leuwa', 'bakɔʔ')	nan		
 404.0	to stab	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bælɔʔ ɔhɔr	nan	b æ l ɔ ʔ _ - ɔ h ɔ r	('to stab', 'keda1252-leuwa', 'bakɔʔ')	nan		
-404.0	to stab	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tuhuʔ bakɔʔ	nan	t u h u ʔ _ b a k ɔ ʔ	('to stab', 'adan1251', 'teʔ')	nan		
+404.0	to stab	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tuhuʔ bakɔʔ	nan	t u h u ʔ _ b a k ɔ ʔ	('to stab', 'adan1251-lawah', 'tɛʔɛ')	nan		
 404.0	to stab	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*susuk	nan	s u s u k	('to stab', 'p-cent2245-abvd', '*susuk')	nan		
 404.0	to stab	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*suksuk	nan	s u ks u k	('to stab', 'p-cent2245-abvd', '*susuk')	nan		
 406.0	to fight	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	punu βiʔi-ŋ	nan	p u n u _ β i - ʔ i ŋ	('to fight', 'adon1237', 'pɜˈwuno')	nan		
@@ -1129,7 +1129,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 406.0	to fight	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bajuʔ bεkε	nan	b a j u ʔ _ b ε k ε	"('to fight', 'alor1247-baran', ""ka'laĩ_'fak:ĩ"")"	nan		
 406.0	to fight	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	halaʔ	nan	h a l a ʔ	('to fight', 'keda1252-leuwa', 'halaʔ')	nan		
 406.0	to fight	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	miʔεr rεŋa	nan	m i ʔ ε r _ r ε ŋ a	('to fight', 'keda1252-leuwa', 'miʔεr_rεŋa')	nan		
-406.0	to fight	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	sara bεl	nan	s a r a - _ b ε l -	('to fight', 'adan1251', 'saribeh')	nan		
+406.0	to fight	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	sara bεl	nan	s a r a - _ b ε l -	('to fight', 'adan1251-lawah', 'sariŋ_bini')	nan		
 408.0	to throw	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	roga	nan	r o g a -	('to throw', 'sika1262-tanai', 'roga')	nan		
 408.0	to throw	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡeba	nan	ɡ e b a -	('to throw', 'sika1262-tanai', 'ɡeba')	nan		
 408.0	to throw	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βehak	nan	β e h a k	('to throw', 'keda1252-leuwa', 'bεʔ')	nan		
@@ -1175,11 +1175,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 419.0	to hold	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tɔbɔl	nan	t ɔ b ɔ l -	('to hold', 'keda1252-leuwa', 'tɔbɔl')	nan		
 419.0	to hold	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*gemgem	nan	g e m g e m	('to hold', 'p-aust1307-abvd', '*gemgem')	nan		
 419.0	to hold	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*gemgem	nan	g e m g e m	('to hold', 'p-aust1307-abvd', '*gemgem')	nan		
-420.0	to tie	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	pəte	nan	p ə t e -	('to tie', 'adan1251', 'apetʃ')	nan		
+420.0	to tie	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	pəte	nan	p ə t e -	('to tie', 'adan1251-lawah', 'ʔapeceʔ')	nan		
 420.0	to tie	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	aviʔ	nan	a v i ʔ	('to tie', 'keda1252-leuwa', 'aviʔ')	nan		
-420.0	to tie	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hɔŋεn	nan	h ɔ - - - - ŋ ε n	"('to tie', 'keda1252', ""'ujuŋ,_ho'ŋɛn"")"	nan		
+420.0	to tie	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hɔŋεn	nan	h ɔ - - - - ŋ ε n	"('to tie', 'keda1252', ""ho'ŋɛn"")"	nan		
 420.0	to tie	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	læra	nan	l æ r - a	('to tie', 'keda1252-leuwa', 'læra')	nan		
-420.0	to tie	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	pætiŋ	nan	p æ t i ŋ	('to tie', 'adan1251', 'apetʃ')	nan		
+420.0	to tie	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	pætiŋ	nan	p æ t i ŋ	('to tie', 'adan1251-lawah', 'ʔapeceʔ')	nan		
 420.0	to tie	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hikət	nan	h i k ə t -	('to tie', 'p-cent2245-abvd', '*hikət')	nan		
 420.0	to tie	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hiket	nan	h i k e t -	('to tie', 'p-cent2245-abvd', '*hikət')	nan		
 421.0	to play	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔləbe	nan	ʔ l ə b e	('to play', 'amar1273-kotos', 'na-ʔbaʔe')	nan		
@@ -1194,7 +1194,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 423.0	to push	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rusik	(push, shove)	r u s i k - -	('to push', 'sika1262-tanai', 'rusik')	nan		
 423.0	to push	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	hɔtaʔ	nan	h ɔ t a ʔ -	('to push', 'keda1252-leuwa', 'hɔtaʔ')	nan		
 423.0	to push	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tæʔæ	nan	- - t æ ʔ æ	('to push', 'keda1252-leuwa', 'hɔtaʔ')	nan		
-423.0	to push	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘ruʔ	nan	- u̘ r u ʔ	('to push', 'adan1251', 'adodo;')	nan		
+423.0	to push	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘ruʔ	nan	- u̘ r u ʔ	('to push', 'adan1251-lawah', 'adoʔo')	nan		
 423.0	to push	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	æ̘næʔ	nan	- æ̘ n æ ʔ	('to push', 'keda1252-leuwa', 'æ̘næʔ')	nan		
 423.0	to push	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔ̘baŋ	nan	- - ɔ̘ b - a ŋ - -	"('to push', 'keda1252', ""'obaŋ"")"	nan		
 424.0	to turn	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	pleur	/pleur/ = turn around; /βalər/ = turn over	p l e - u r	('to turn', 'sika1262-tanai', 'pleur')	nan		
@@ -1239,8 +1239,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 436.0	to climb	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sakay	nan	s a k a y -	('to climb', 'p-cent2245-abvd', '*sakay')	nan		
 436.0	to climb	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*dakih	nan	d a k i h	('to climb', 'p-aust1307-abvd', '*dakiS')	nan		
 436.0	to climb	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*pa-nahik	nan	p a n a h i k	('to climb', 'p-cent2245-abvd', '*panaik')	nan		
-437.0	to hide	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buni	nan	b u n i	('angry', 'lamm1241', 'arugga')	nan		
-437.0	to hide	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buni	nan	b u n i	('angry', 'lamm1241', 'arugga')	nan		
+437.0	to hide	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buni	nan	b u n i	('to hide', 'abui1241-fuime', 'tabuŋ')	nan		
+437.0	to hide	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buni	nan	b u n i	('to hide', 'abui1241-fuime', 'tabuŋ')	nan		
 442.0	to shoot	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*panaq	nan	p a n a q	('to shoot', 'cent2245-hewa', 'bana')	nan		
 442.0	to shoot	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panaq	(an arrow)	p a n a q	('to shoot', 'cent2245-hewa', 'bana')	nan		
 442.0	to shoot	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*panaq	(an arrow)	p a n a q	('to shoot', 'cent2245-hewa', 'bana')	nan		
@@ -1265,11 +1265,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 451.0	two	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*duSa	nan	d u S a	('two', 'keda1252-leuwa', 'suε')	nan		
 451.0	two	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*dua	nan	d u - a	('two', 'keda1252-leuwa', 'suε')	nan		
 451.0	two	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*duha	nan	d u h a	('two', 'keda1252-leuwa', 'suε')	nan		
-452.0	three	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	təlu	nan	t ə l - u - - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-452.0	three	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tælu	nan	t æ l - u - - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-452.0	three	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*telu	nan	t e l - u - - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-452.0	three	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*təlu	nan	t ə l - u - - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-452.0	three	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*telu	nan	t e l - u - - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+452.0	three	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	təlu	nan	t ə l - u - - - - - -	('three', 'adan1251-otvai', 'tɔu')	nan		
+452.0	three	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tælu	nan	t æ l - u - - - - - -	('three', 'adan1251-otvai', 'tɔu')	nan		
+452.0	three	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*telu	nan	t e l - u - - - - - -	('three', 'adan1251-otvai', 'tɔu')	nan		
+452.0	three	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*təlu	nan	t ə l - u - - - - - -	('three', 'adan1251-otvai', 'tɔu')	nan		
+452.0	three	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*telu	nan	t e l - u - - - - - -	('three', 'adan1251-otvai', 'tɔu')	nan		
 453.0	four	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	hutu	nan	h u t u	('four', 'abui1241-fuime', 'buti')	nan		
 453.0	four	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘paʔ	nan	a̘ p a ʔ	('four', 'adon1237', 'ˈpaːt')	nan		
 453.0	four	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*sepat	nan	s e p a t - -	('four', 'adon1237', 'ˈpaːt')	nan		
@@ -1280,11 +1280,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 454.0	five	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	lima	nan	- - l i m a	('five', 'adon1237', 'ˈlema')	nan		
 454.0	five	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lεmε	nan	- - l ε m ε	('five', 'adon1237', 'ˈlema')	nan		
 454.0	five	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*lima	nan	- - l i m a	('five', 'adon1237', 'ˈlema')	nan		
-588.0	flower (in e.g. mangga tree)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	puhu-ŋ	nan	p u h - u ŋ	('flower (in e.g. mangga tree)', 'adan1251', 'ti_buŋ')	nan		
-588.0	flower (in e.g. mangga tree)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	puhun	nan	p u h - u n	('flower (in e.g. mangga tree)', 'adan1251', 'ti_buŋ')	nan		
-588.0	flower (in e.g. mangga tree)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	('flower (in e.g. mangga tree)', 'adan1251', 'ti_buŋ')	nan		
-588.0	flower (in e.g. mangga tree)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	('flower (in e.g. mangga tree)', 'adan1251', 'ti_buŋ')	nan		
-590.0	long (stick)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bloŋ	nan	b l o ŋ	('long (stick)', 'adon1237', 'ˈblaha,_bɜlahɜˈa')	nan		
+588.0	flower (in e.g. mangga tree)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	puhu-ŋ	nan	p u h - u ŋ	('flower (in e.g. mangga tree)', 'adon1237', 'ˈpuhũ')	nan		
+588.0	flower (in e.g. mangga tree)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	puhun	nan	p u h - u n	('flower (in e.g. mangga tree)', 'adon1237', 'ˈpuhũ')	nan		
+588.0	flower (in e.g. mangga tree)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	('flower (in e.g. mangga tree)', 'adon1237', 'ˈpuhũ')	nan		
+588.0	flower (in e.g. mangga tree)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	('flower (in e.g. mangga tree)', 'adon1237', 'ˈpuhũ')	nan		
+590.0	long (stick)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bloŋ	nan	b l o ŋ	('long (stick)', 'adon1237', 'bɜlahɜˈa')	nan		
 590.0	long (stick)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lava dεkar	lava dεkar (distance); lεla dɔaʔ (time)	l a v a _ d ε k a r	('long (stick)', 'adan1251-lawah', 'low')	nan		
 590.0	long (stick)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lεla dɔaʔ	lava dεkar (distance); lεla dɔaʔ (time)	l ε l a _ d ɔ - a ʔ	('long (stick)', 'adan1251-lawah', 'low')	nan		
 590.0	long (stick)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*inaduq	nan	i n a d u q	('long (stick)', 'p-aust1307-abvd', '*inaduq')	nan		

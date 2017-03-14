@@ -173,7 +173,7 @@ for i, line in cognates.iterrows():
         pass
 
     if cogid_postcoding in args.bad_cogids:
-        continue
+        cogid_postcoding = None
     
     if (cogid_postcoding != cogid_old):
         word_list.set_value(i, "Cognate Set", cogid_postcoding)

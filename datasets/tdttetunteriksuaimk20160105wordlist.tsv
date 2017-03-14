@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lalɛhaŋ	nan	l a l ɛ h a ŋ	"('sky', 'idat1237', ""la'lehɑn"")"	nan		
 1.0	sun	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	loro matan	nan	l o r o _ m a t a n	('sun', 'adon1237', 'ˈrɜra')	nan		
-2.0	moon	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fulaŋ	nan	f u l a ŋ - ( - - - - - - - - )	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+2.0	moon	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fulaŋ	nan	f u l a ŋ - ( - - - - - - - - )	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
 3.0	star	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fituŋ	nan	f i t u ŋ	('star', 'tetu1245-suai', 'fituŋ')	nan		
 4.0	night	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kalaŋ	nan	k a l - - a ŋ -	('night', 'baka1276', 'kamaluŋ')	nan		
 5.0	day	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lɔrɔŋ	nan	l ɔ r - ɔ ŋ	"('day', 'adon1237', ""rɜ'_rɔ̃"")"	nan		
@@ -13,7 +13,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 11.0	day after tomorrow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	abaŋ baiŋ rua	nan	a b a ŋ _ b a i ŋ _ r u a	('day after tomorrow', 'tetu1245-suai', 'abaŋ_baiŋ_rua')	nan		
 12.0	twilight; dawn	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	da'dɛ:r saŋ	nan	d a ˈd ɛː r _ s a ŋ	"('twilight; dawn', 'tetu1245-suai', ""da'dɛ:r_saŋ"")"	nan		
 13.0	cloud	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	o'raga	nan	- o ˈr a g a	"('cloud', 'tetu1245-suai', ""o'raga"")"	nan		
-14.0	wind	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	aniŋ	nan	- a n i ŋ - - - - - -	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
+14.0	wind	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	aniŋ	nan	- a n i ŋ - - - - - -	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
 15.0	rain	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	udaŋ	nan	- u d a ŋ	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
 16.0	drizzle	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	udaŋ 'rihik	nan	u d a ŋ _ - ˈr i h i k	"('drizzle', 'alor1247-besar', ""'uraŋ_fa'rɛha-fa'rɛha"")"	nan		
 17.0	rainbow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kɔ:r	nan	k ɔː r	('rainbow', 'tetu1245-suai', 'kɔ:r')	nan		
@@ -22,22 +22,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 20.0	earthquake	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rai nak'doko	rai= earth, nakdoko = shake	r a i _ n a k ˈd o k o	"('earthquake', 'tetu1245-suai', ""rai_nak'doko"")"	nan		
 21.0	fog	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	abu-abu	nan	a b u a b u	"('fog', 'alor1247-munas', ""sə'pu"")"	nan		
 22.0	river; stream	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mota	nan	m o t a	('river; stream', 'tetu1245-suai', 'mota')	nan		
-23.0	ice	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	zelu	nan	nan	('ice', 'buna1278-bobon', 'zelu,_es')	nan		
-24.0	snow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	saldZu	nan	s a l d Z u	"('snow', 'alor1247-baran', ""'salʤu"")"	nan		
+23.0	ice	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	zelu	nan	nan	('ice', 'buna1278-bobon', 'zelu')	nan		
+24.0	snow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	saldZu	nan	s a l d Z u	"('snow', 'alor1247-besar', ""'salʤu"")"	nan		
 25.0	lake	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ta:ŋki	nan	t aː ŋ k - i	('lake', 'tetu1245-suai', 'ta:ŋki')	nan		
 26.0	mountain	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	karuik	nan	k a r u i k	('mountain', 'tetu1245-suai', 'karuik')	nan		
-27.0	hill; ridge	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	karuik lɛtɛŋ	nan	k a r u i k _ l ɛ t ɛ ŋ	('hill; ridge', 'tetu1245-suai', 'karuik_lɛtɛŋ')	nan		
+27.0	hill; ridge	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	karuik lɛtɛŋ	nan	k a r u i k _ l ɛ t ɛ ŋ	('hill; ridge', 'lamm1241-westp', 'kukka_bila')	nan		
 28.0	village	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	suku	nan	s u k u	('village', 'tetu1245-suai', 'suku')	nan		
 29.0	land; soil	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rai	nan	r a i	"('land; soil', 'idat1237', ""la'rek"")"	nan		
 30.0	Earth	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mundu	nan	m u n d u	('Earth', 'tetu1245-suai', 'mundu')	nan		
 31.0	hole	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kuak	nan	k u a k	('hole', 'tetu1245-suai', 'kuak')	nan		
-32.0	stone	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fatuk	nan	f a t u k	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+32.0	stone	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fatuk	nan	f a t u k	"('stone', 'adon1237', ""'watɔ"")"	nan		
 33.0	coral (rock)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fatuk ruiŋ	nan	f a t u k _ r u i ŋ	('coral (rock)', 'tetu1245-suai', 'fatuk_ruiŋ')	nan		
 34.0	(coral) reef	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ahu ruiŋ	ahu=nest; lime, ruiN=coral	a h u _ r u i ŋ	('(coral) reef', 'tetu1245-suai', 'ahu_ruiŋ')	nan		
 35.0	water (fresh)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	we:	nan	w eː -	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
 36.0	sea; sea water	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tasi	nan	t a s i - - - - -	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	nan		
 37.0	wave	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lalɔraŋ, arus	ombak=wave, gelombang=waves	l a l ɔ r a ŋ	('wave', 'tetu1245-suai', 'lalɔraŋ,_arus')	nan		
-38.0	foam	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	furiŋ	nan	f u r - - i ŋ -	('foam', 'adan1251', 'fara')	nan		
+38.0	foam	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	furiŋ	nan	f u r - - i ŋ -	('foam', 'adan1251-lawah', 'wara-wara')	nan		
 39.0	forest	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rahuŋ	nan	- - r a h u ŋ - -	('forest', 'baka1276', 'rehe')	nan		
 40.0	field	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	duɁut barak	borak=field	d u ʔ u t _ b a r a k	('field', 'tetu1245-suai', 'duɁut_barak')	nan		
 41.0	island	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	luaŋ	nan	l u a ŋ	('island', 'tetu1245-suai', 'luaŋ')	nan		
@@ -50,9 +50,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 48.0	to sail	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ba buka naɁaŋ	lit. go search fish 	b a _ b u k a _ n a ʔ a ŋ	('to sail', 'tetu1245-suai', 'ba_buka_naɁaŋ')	nan		
 49.0	fishing hook	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kaɛr 'isin	nan	k a ɛ r _ ˈi s i n	"('fishing hook', 'tetu1245-suai', ""kaɛr_'isin"")"	nan		
 50.0	fish trap	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rɛdi	nan	r ɛ d i	('fish trap', 'buna1278-bobon', 'rɛnɛ')	nan		
-51.0	rope	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tali	nan	t a - l i -	('rope', 'abui1241-takal', 'tʰi.lä')	nan		
-52.0	machete	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	taha	nan	t a h a	"('machete', 'laka1255', ""ha'tɛsi"")"	nan		
-53.0	axe	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	baliu	nan	nan	('axe', 'abui1241-fuime', 'faling')	nan		
+51.0	rope	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tali	nan	t a - l i -	('rope', 'abui1241-fuime', 'tila')	nan		
+52.0	machete	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	taha	nan	t a h a	('machete', 'maka1316', 'sita')	nan		
+53.0	axe	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	baliu	nan	nan	('axe', 'abui1241-fuime', 'faliŋ')	nan		
 54.0	spear	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	dɪma	nan	d ɪ m a	('spear', 'tetu1245-suai', 'dɪma')	nan		
 55.0	burden stick	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	leba	nan	- - l e b a -	"('burden stick', 'adon1237', ""bə'lebaʔ"")"	nan		
 56.0	stick; pole	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	dima	nan	d i m a -	('stick; pole', 'tetu1245-suai', 'dima')	nan		
@@ -60,11 +60,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 59.0	bow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rama	nan	nan	('bow', 'buna1278-bobon', 'lama')	nan		
 60.0	arrow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rama ɔaŋ	OaN=child	nan	('arrow', 'buna1278-bobon', 'lama_gɔl')	nan		
 61.0	knife	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tudik	nan	t u d i k	('knife', 'baka1276', 'tudik')	nan		
-62.0	comb	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kaulu	nan	k a - - u l u	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-63.0	mat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	biti	nan	b i t i -	('mat', 'adan1251', 'bu')	nan		
+62.0	comb	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kaulu	nan	k a - - u l u	('comb', 'abui1241-fuime', 'keeti')	nan		
+63.0	mat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	biti	nan	b i t i -	('mat', 'adan1251-lawah', 'bahu')	nan		
 64.0	needle	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	dauŋ	nan	d a u - - ŋ - ( - - - - )	('needle', 'buna1278-bobon', 'daun')	nan		
 65.0	clothing	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	unuk	nan	- u n u k	('clothing', 'adan1251-lawah', 'fɛnɛ')	nan		
-67.0	fire	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ahi	nan	- a h i	('fire', 'adan1251-otvai', 'aʔfail')	nan		
+67.0	fire	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ahi	nan	- a h i	('fire', 'adon1237', 'ˈʔape')	nan		
 68.0	smoke	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	suar	nan	s u a r	('smoke', 'tetu1245-suai', 'suar')	nan		
 70.0	dust; fine earth	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	raibɔ:ŋ	raibO:N= dust, fine earth; ai rahuN= saw dust	r a i b ɔː ŋ	('dust; fine earth', 'tetu1245-suai', 'raibɔ:ŋ')	nan		
 71.0	fireplace ash	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ahi latuŋ	ahi=fire, latuN=ash	- a h i - _ l a t u ŋ	"('fireplace ash', 'idat1237', ""'wɑi_ɑhuk"")"	nan		
@@ -88,7 +88,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89.0	firewood	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai maran	maran= dry, sunun = burn	a i _ m a r a n	('firewood', 'tetu1245-suai', 'ai_maran')	nan		
 90.0	rattan	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	oe	nan	o e	('rattan', 'adon1237', 'ˈʔua')	nan		
 91.0	root	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	abut	nan	- a b u t	"('root', 'idat1237', ""ra'put"")"	nan		
-92.0	fruit	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	Ɂaifuaŋ	nan	ʔ a i - - - f u a - ŋ	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+92.0	fruit	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	Ɂaifuaŋ	nan	ʔ a i - - - f u a - ŋ	('fruit', 'adon1237', 'kajo_ˈwuã')	nan		
 93.0	seed	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	musan	nan	m u s a n	('seed', 'tetu1245-suai', 'musan')	nan		
 94.0	grain; cereal	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hare	nan	h a r e -	('grain; cereal', 'tetu1245-suai', 'hare')	nan		
 96.0	husked rice; uncooked rice	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fɔɁɔs	nan	f ɔ ʔ ɔ s	('husked rice; uncooked rice', 'tetu1245-suai', 'fɔɁɔs')	nan		
@@ -97,7 +97,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 99.0	rice plant	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hare oan	nan	h a r e _ o a n	('rice plant', 'tetu1245-suai', 'hare_oan')	nan		
 100.0	to plant (yam)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kuda (ai fehuk)	kuda = plant, ai fehuk = ubi	- k u d a	('to plant (yam)', 'tetu1245-suai', 'kuda_(ai_fehuk)')	nan		
 101.0	to plant (rice)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kuda (hare)	nan	- k u d a	('to plant (rice)', 'tetu1245-suai', 'kuda_(hare)')	nan		
-102.0	betel nut; areca	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bua	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+102.0	betel nut; areca	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bua	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	nan		
 103.0	betel vine	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fuik	nan	f u i k	('betel vine', 'tetu1245-suai', 'fuik')	nan		
 104.0	lime	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ahu	nan	- a h u -	('lime', 'adon1237', 'ˈʔapuʔ')	nan		
 105.0	chew betel	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mama fuik	nan	m a m a _ f u - i k	('chew betel', 'amar1273-kotos', 'n-mama')	nan		
@@ -112,64 +112,64 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 115.0	gwang	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nu: talin nurak	nan	n uː _ t a l i n _ n u r a k	('gwang', 'tetu1245-suai', 'nu:_talin_nurak')	nan		
 116.0	lontar palm	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai tali	nan	- a i _ - - - t a l i	('lontar palm', 'tetu1245-suai', 'ai_tali')	nan		
 117.0	sugar palm	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tua	nan	t u a -	('sugar palm', 'abui1241-fuime', 'tuok')	nan		
-118.0	marungga	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	maut	nan	m a - u t	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		
+118.0	marungga	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	maut	nan	m a - u t	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	nan		
 119.0	gum tree; eucalyptus	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai mutin	nan	- a i _ m u t i n	('gum tree; eucalyptus', 'tetu1245-suai', 'ai_mutin')	nan		
-120.0	bamboo	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	au	nan	a u	('bamboo', 'lama1278', 'ˈaːu')	nan		
+120.0	bamboo	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	au	nan	a u	"('bamboo', 'alor1247-pandai', ""'au"")"	nan		
 121.0	banana	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hudi	nan	h u d i	('banana', 'tetu1245-suai', 'hudi')	nan		
 122.0	mango	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha:s	nan	h aː s	('mango', 'tetu1245-suai', 'ha:s')	nan		
 123.0	papaya	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai butak	nan	a i _ b u t a k	('papaya', 'tetu1245-suai', 'ai_butak')	nan		
 124.0	jackfruit	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kulu	nan	k u l u -	('jackfruit', 'alor1249-sar-a', 'kulár')	nan		
 126.0	bean	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fore	nan	f o r e	('bean', 'tetu1245-suai', 'fore')	nan		
-127.0	honey	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	wani wen	nan	w a n i _ w e - n	('honey', 'abui1241-fuime', 'nawaang')	nan		
+127.0	honey	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	wani wen	nan	w a n i _ w e - n	('honey', 'abui1241-fuime', 'nawaaŋ')	nan		
 128.0	milk	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	susu wen	nan	s u s u _ w e - n	('milk', 'adon1237', 'ˈtuhɔ')	nan		
 129.0	salt	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	masin	nan	m a - s i n	('salt', 'idat1237', 'masi')	nan		
-130.0	fat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bokur	nan	b o k u r	"('fat', 'buna1278-malia', ""'bɔkul"")"	nan		
+130.0	fat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bokur	nan	b o k u r	('fat', 'buna1278-bobon', 'gubɛl')	nan		
 131.0	flesh; meat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naɁan	nan	- - n a ʔ a n	"('flesh; meat', 'keda1252', ""na'ʔɛn"")"	nan		
-132.0	bone	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ruin	nan	r u - i n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+132.0	bone	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ruin	nan	r u - i n	('bone', 'adon1237', 'ˈriʔũː')	nan		
 133.0	rib	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	knosen	nan	k - n o s e n	('rib', 'tetu1245-suai', 'knosen')	nan		
 134.0	sweat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kosar	nan	k o s a r	('sweat', 'tetu1245-suai', 'kosar')	nan		
 135.0	tear	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mata lun	nan	m a t a _ l u - n	('tear', 'sout2896-kalik', 'ˈmata_ˈvaen')	nan		
 136.0	blood	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ra:	nan	- - r aː -	"('blood', 'alor1247-baran', ""'ra:"")"	nan		
 138.0	heart	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fuan	nan	f u a n	('heart', 'adon1237', 'ˈpuho')	nan		
-139.0	liver	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	aten	nan	- a t e n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+139.0	liver	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	aten	nan	- a t e n	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
 140.0	kidney	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	buka sorik	nan	b u k a _ s o r i k	('kidney', 'tetu1245-suai', 'buka_sorik')	nan		
 141.0	guts	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	te oan	nan	t e _ - o - a n	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
-142.0	excrement	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	animal ten	nan	a n i m a l _ t e n	('excrement', 'tetu1245-suai', 'animal_ten')	nan		
+142.0	excrement	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	animal ten	nan	a n i m a l _ t e n	"('excrement', 'abui1241-takal', ""wɐ.tä:_'qɐ.ru"")"	nan		
 143.0	lungs	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kɔ:k	nan	k ɔː k - - - -	('lungs', 'tetu1245-suai', 'kɔ:k')	nan		
 144.0	stomach; belly	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kabun	nan	k a b u n -	('stomach; belly', 'tetu1245-suai', 'kabun')	nan		
 145.0	head	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ulun	nan	- u l u n	('head', 'adan1251-lawah', 'loŋ')	nan		
 146.0	hair	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fu:k	nan	- f - uː k - - - -	('hair', 'amar1273-kotos', 'ʔnaak_funu-f')	nan		
 147.0	body hair	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rahuk	nan	nan	('body hair', 'adon1237', 'ˈrawuˈkɜt')	nan		
-148.0	eye	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	matan	nan	- - - m a t a n	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
+148.0	eye	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	matan	nan	- - - m a t a n	('eye', 'adon1237', 'matak3t')	nan		
 149.0	ear	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tilun	nan	t i l u n -	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
-150.0	nose	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	inur	nan	- i n u r	('nose', 'fata1247', 'mini')	nan		
+150.0	nose	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	inur	nan	- i n u r	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
 151.0	mouth	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ibun	nan	- i b u n	"('mouth', 'alor1247-baran', ""'fofaŋ"")"	nan		
-152.0	chin	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	timir	nan	t i m i r	('chin', 'tetu1245-suai', 'timir')	nan		
-153.0	lips	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ibun 'suhun	nan	i b u n _ ˈs u h u n	('lips', 'adon1237', 'ˈnuhuˈk3t')	nan		
+152.0	chin	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	timir	nan	t i m i r	"('chin', 'alor1247-besar', ""'bamɛŋ"")"	nan		
+153.0	lips	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ibun 'suhun	nan	i b u n _ ˈs u h u n	"('lips', 'idat1237', ""ji'par_li'tak"")"	nan		
 154.0	teeth	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nihaŋ	nan	n i h a ŋ	"('teeth', 'idat1237', ""'nea:n"")"	nan		
 155.0	tongue	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	na'na:n	nan	n a ˈn aː n	"('tongue', 'idat1237', ""'na:n"")"	nan		
 156.0	neck	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ka'kɔrɔk	nan	k a - - ˈk ɔ r ɔ k	"('neck', 'idat1237', ""'kakɔ'rɔ:k"")"	nan		
 157.0	shoulder	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ka'ba:s	nan	k a ˈb aː s	"('shoulder', 'tetu1245-suai', ""ka'ba:s"")"	nan		
 158.0	body	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	isi'lɔlɔn	nan	i s i ˈl ɔ l ɔ n	"('body', 'tetu1245-suai', ""isi'lɔlɔn"")"	nan		
-159.0	forehead	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	re:n	nan	r eː n	('forehead', 'tetu1245-suai', 're:n')	nan		
-160.0	nostril	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	inur kuak	nan	- i n u r _ k u - a k	"('nostril', 'fata1247', ""mini_'kuru"")"	nan		
-161.0	mucus	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kuɁus	nan	k u ʔ u s	('mucus', 'tetu1245-suai', 'kuɁus')	nan		
-162.0	cheek	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hasan	nan	h a s a n	('cheek', 'buna1278-suai', 'hasan')	nan		
+159.0	forehead	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	re:n	nan	r eː n	"('forehead', 'alor1247-besar', ""kala'rakang"")"	nan		
+160.0	nostril	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	inur kuak	nan	- i n u r _ k u - a k	('nostril', 'amar1273-kotos', 'pana-n_kona-f')	nan		
+161.0	mucus	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kuɁus	nan	k u ʔ u s	('mucus', 'pmpacd', '*idus')	nan		
+162.0	cheek	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hasan	nan	h a s a n	('cheek', 'abui1241-takal', 'tä.run')	nan		
 163.0	arm	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lima'kabun	nan	nan	('arm', 'adon1237', 'ˈlimaˈkɜt')	nan		
 164.0	hand	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	liman	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
 165.0	palm of hand	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lima'tanen	nan	l i m a ˈt a n e n	"('palm of hand', 'tetu1245-suai', ""lima'tanen"")"	nan		
 166.0	finger	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lima'fuan	nan	l i m a ˈf u a n	"('finger', 'tetu1245-suai', ""lima'fuan"")"	nan		
 167.0	fingernail	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lima'knutak	nan	l i m a ˈk n u t a k	"('fingernail', 'tetu1245-suai', ""lima'knutak"")"	nan		
-168.0	breast	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	susun	nan	nan	('breast', 'adan1251', 'tɔ')	nan		
-169.0	chest	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hirus'matan	nan	h i r u s ˈm a t a n	"('chest', 'tetu1245-suai', ""hirus'matan"")"	nan		
-170.0	navel	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	husar	nan	- - h u s - a r - - - - -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+168.0	breast	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	susun	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	nan		
+169.0	chest	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hirus'matan	nan	h i r u s ˈm a t a n	('chest', 'abui1241-takal', 'tä.rä.hie̞ŋ')	nan		
+170.0	navel	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	husar	nan	- - h u s - a r - - - - -	('navel', 'abui1241-fuime', 'tabike')	nan		
 171.0	penis	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lasa'kain	nan	l a s a ˈk a i n	"('penis', 'tetu1245-suai', ""lasa'kain"")"	nan		
 172.0	vagina	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	huɁi	nan	h u ʔ i	('vagina', 'tetu1245-suai', 'huɁi')	nan		
 173.0	testicles	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lasa'tolun	nan	l a s a ˈt o l u n	"('testicles', 'tetu1245-suai', ""lasa'tolun"")"	nan		
 174.0	leg	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai	nan	a i	('leg', 'amar1273-kotos', 'hae-f')	nan		
 175.0	foot	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai	nan	nan	('foot', 'cent2245-hewa', 'waʔi')	nan		
 176.0	heel of foot	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai'knuban	nan	a i ˈk n u b a n	"('heel of foot', 'tetu1245-suai', ""ai'knuban"")"	nan		
-177.0	sole of foot	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai'tanen	nan	a i ˈt a n e n	"('sole of foot', 'tetu1245-suai', ""ai'tanen"")"	nan		
+177.0	sole of foot	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai'tanen	nan	a i ˈt a n e n	('sole of foot', 'pmpacd', '*dapan')	nan		
 178.0	knee	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ai'tur	nan	- a i ˈt u r	('knee', 'adon1237', 'ˈlotorɜt')	nan		
 179.0	back	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'kɔtuk	nan	ˈk ɔ t u k -	"('back', 'tetu1245-suai', ""'kɔtuk"")"	nan		
 180.0	spine; lower back	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'kidan	nan	ˈk i d a n	"('spine; lower back', 'tetu1245-suai', ""'kidan"")"	nan		
@@ -182,13 +182,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 187.0	feverish	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	isi ma'lirin	nan	i s i _ m a ˈl i r i n	"('feverish', 'tetu1245-suai', ""isi_ma'lirin"")"	nan		
 188.0	conjunctivitis	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mata 'moras	moras=hurt, sick	m a t a _ ˈm - o r a s	"('conjunctivitis', 'tetu1245-suai', ""mata_'moras"")"	nan		
 189.0	cold; influenza	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fani	nan	f a - - n i	"('cold; influenza', 'fata1247', ""fa'hinɛ"")"	nan		
-190.0	person	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ɛma	nan	- ɛ m a	"('person', 'abui1241-petle', ""am.'a"")"	nan		
-191.0	name	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naran	nan	n a r a n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+190.0	person	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ɛma	nan	- ɛ m a	('person', 'abui1241-fuime', 'ama')	nan		
+191.0	name	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naran	nan	n a r a n	('name', 'adon1237', 'ˈnarã')	nan		
 192.0	child	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ua	nan	- u a	('child', 'adan1251-lawah', 'ʔei')	nan		
 193.0	man	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	manɛ	nan	- m - a n ɛ - - - - - -	('man', 'buna1278-bobon', 'mɔnɛ')	nan		
 194.0	woman	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fɛtɔ	nan	f ɛ t ɔ	('woman', 'tetu1245-suai', 'fɛtɔ')	nan		
 195.0	husband	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	manɛn	nan	m a n ɛ - n -	('husband', 'amar1273-kotos', 'mone')	nan		
-196.0	wife	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fɛn	nan	nan	('that', 'adon1237', 'ˈnhẽː')	nan		
+196.0	wife	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fɛn	nan	nan	('wife', 'adon1237', 'hãː')	nan		
 197.0	mother	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ina	nan	nan	('mother', 'adon1237', 'ˈʔina')	nan		
 198.0	father	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ama	nan	nan	('father', 'adon1237', 'ˈʔama')	nan		
 199.0	older sibling	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mau, bi	mau = older brother, bi=older sister	m a - - u	('older sibling', 'tetu1245-suai', 'mau,_bi')	nan		
@@ -199,16 +199,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 204.0	2sg (informal)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	o	nan	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		
 205.0	2sg (polite)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	o	nan	nan	"('2sg (polite)', 'kema1243', ""'ʔɔ:"")"	nan		
 206.0	3sg	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nia	nan	n i - a - - - - -	('3sg', 'amar1273-kotos', 'in')	nan		
-207.0	1pl excl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ami	nan	- a m i	('1pl excl', 'adon1237', 'ˈkame')	nan		
-208.0	1pl incl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ita	nan	- - i t a - - - - - -	('1pl incl', 'adon1237', 'ˈtite')	nan		
-209.0	2pl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	imi	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-210.0	3pl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	sia	nan	( - - ) - - s i - a - - - -	('3pl', 'adon1237', 'ˈraʔe')	nan		
-211.0	no; not	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	laɛ	nan	l a - ɛ -	"('no; not', 'idat1237', ""'lɑek"")"	nan		
-212.0	and	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɔ:	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
+207.0	1pl excl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ami	nan	- a m i	"('1pl excl', 'kema1243', ""'ʔami"")"	nan		
+208.0	1pl incl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ita	nan	- - i t a - - - - - -	('1pl incl', 'keda1252-leuwa', 'kε')	nan		
+209.0	2pl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	imi	nan	nan	('2pl', 'adon1237', 'ˈmio')	nan		
+210.0	3pl	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	sia	nan	( - - ) - - s i - a - - - -	('3pl', 'adan1251-otvai', 'supi')	nan		
+211.0	no; not	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	laɛ	nan	l a - ɛ -	('no; not', 'adon1237', 'ˈhalaʔ')	nan		
+212.0	and	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɔ:	nan	nan	('and', 'adon1237', 'ˈtaliʔ')	nan		
 213.0	because	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tamba	nan	nan	('because', 'buna1278-bobon', 'tamba')	nan		
-214.0	if	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	se:	nan	s eː	('if', 'buna1278-suai', 'se')	nan		
-215.0	with	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɔ:	nan	n ɔː - -	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
-216.0	what?	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	saɁida, sa	sa= abbreviation	s a ʔ i d a	"('what?', 'laka1255', ""sa'ʔisa"")"	nan		
+214.0	if	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	se:	nan	s eː	('if', 'buna1278-bobon', 'se')	nan		
+215.0	with	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɔ:	nan	n ɔː - -	('with', 'adon1237', 'ˈtaliʔ')	nan		
+216.0	what?	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	saɁida, sa	sa= abbreviation	s a ʔ i d a	('what?', 'amar1273-kotos', 'saaʔ')	nan		
 217.0	who?	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	sɛ:	nan	- - s ɛː -	('who?', 'amar1273-kotos', 'sekau')	nan		
 218.0	where?	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɛ'bɛ:	nan	( n ɛ ) ˈb ɛː -	('where?', 'cent2245-hewa', 'upa')	nan		
 219.0	when?	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	wai'hira	nan	w a i - - ˈh i r a	"('when?', 'idat1237', ""a'lira"")"	nan		
@@ -217,14 +217,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 222.0	how?	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nalo 'nusa	nan	n a l o _ ˈn u s a	"('how?', 'idat1237', ""nu'sa:"")"	nan		
 223.0	this	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɛ:	nan	- - - - - - - n ɛː -	('this', 'adon1237', 'ˈnhiː')	nan		
 224.0	that	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɛ'ba:	nan	- n ɛ ˈb aː	"('that', 'keda1252', ""no'beʔ"")"	nan		
-225.0	at	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha	nan	nan	('at', 'adon1237', 'dɜˈhi,_dɜ,_pi')	nan		
+225.0	at	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha	nan	nan	('at', 'adon1237', 'dɜˈhi')	nan		
 226.0	in; inside	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha'laran	nan	i h a ˈl a r - a n	"('in; inside', 'tetu1245-suai', ""iha'laran"")"	nan		
-227.0	here	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha nɛɁa	nan	- i h a _ n ɛ ʔ a	"('here', 'fata1247', ""ɛ'naɁɛ"")"	nan		
-228.0	there	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha ŋɛ'ba:	nan	- i h a _ ŋ ɛ ˈb aː - - - -	('there', 'fata1247', 'inaɁɛ')	nan		
+227.0	here	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha nɛɁa	nan	- i h a _ n ɛ ʔ a	('here', 'adan1251-otvai', 'hɔʔɔ_mi')	nan		
+228.0	there	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha ŋɛ'ba:	nan	- i h a _ ŋ ɛ ˈb aː - - - -	('there', 'buna1278-bobon', 'otaba_gɛnɛ')	nan		
 229.0	above	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha 'lɛten	nan	nan	"('above', 'mamb1306', ""'hɛr_'tɛtɛ"")"	nan		
 230.0	below	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	iha 'kraik	nan	nan	"('below', 'idat1237', ""hɛ_'rahak"")"	nan		
 231.0	left (side)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	karuk	nan	k a r u k	"('left (side)', 'laka1255', ""ka'ru:k"")"	nan		
-232.0	right (side)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kwana	nan	- - - kw - a n a -	('right (side)', 'abui1241-fuime', 'teikang')	nan		
+232.0	right (side)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kwana	nan	- - - kw - a n a -	('right (side)', 'adan1251-otvai', 'taniŋ')	nan		
 233.0	a few	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	uan 'ida	nan	- ua n _ - ˈi d a	"('a few', 'tetu1245-suai', ""uan_'ida"")"	nan		
 234.0	all	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hotu	nan	nan	('all', 'tetu1245-suai', 'hotu')	nan		
 235.0	many	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	waɁin	nan	w a ʔ i n	('many', 'buna1278-bobon', 'baɁis')	nan		
@@ -233,15 +233,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 238.0	dog	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	asu	nan	- a s u - - - - - - -	('dog', 'adon1237', 'ˈʔaho')	nan		
 239.0	pig	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fahi	nan	f a h i -	('pig', 'abui1241-fuime', 'fe')	nan		
 240.0	chicken	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	manu 'diɁan	nan	nan	('chicken', 'adon1237', 'ˈmanuk')	nan		
-241.0	rat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lahɔ	nan	l a h ɔ	('rat', 'tetu1245-suai', 'lahɔ')	nan		
+241.0	rat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lahɔ	nan	l a h ɔ	('rat', 'amar1273-kotos', 'knafo')	nan		
 242.0	lizard	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	toko	nan	t o k o - - -	('lizard', 'abui1241-fuime', 'tekok')	nan		
 243.0	civet cat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mɛda	nan	- - - m ɛ d a	('civet cat', 'amar1273-kotos', 'metan')	nan		
-244.0	deer	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bibi 'rusa	nan	nan	('deer', 'buna1278-bobon', 'bibu,_rusa')	nan		
+244.0	deer	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bibi 'rusa	nan	nan	('deer', 'buna1278-bobon', 'rusa')	nan		
 245.0	frog	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lɛkat	nan	l ɛ - k - - a t -	('frog', 'kula1280-lanto', 'luŋkita')	nan		
 246.0	bat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	niki	nan	- - n i k i	('bat', 'adon1237', 'pɜˈnike')	nan		
 247.0	flying fox; fruit bat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	niki uan	nan	n i k i _ u a n	('flying fox; fruit bat', 'tetu1245-suai', 'niki_uan')	nan		
 248.0	cuscus	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	laku	nan	l a k u	('cuscus', 'tetu1245-suai', 'laku')	nan		
-249.0	tail	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ikun	nan	- i k u n	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+249.0	tail	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ikun	nan	- i k u n	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
 250.0	fish	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naɁan tasi	na?an=meat, tasi=sea	n a ʔ a n _ t a s i	('fish', 'adon1237', 'ˈʔikã')	nan		
 251.0	shark	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naɁan tasi	tasi =sea	n a ʔ a n _ t a s i	('shark', 'tetu1245-suai', 'naɁan_tasi')	nan		
 252.0	whale	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naɁan tasi	nan	( - - - - - - - - - ) n a ʔ a n - _ ( t a s i )	('whale', 'kola1287', 'anai')	nan		
@@ -317,7 +317,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 326.0	flat	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kwɛr	nan	kw ɛ - - r	('flat', 'tetu1245-suai', 'kwɛr')	nan		
 327.0	smooth	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ka'ronak	nan	k a ˈr o n a k	('smooth', 'buna1278-malia', 'rɛnɛk')	nan		
 328.0	rough	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'fukun maka'Ɂas	nan	ˈf u k u n _ m a k a ˈʔ a s	"('rough', 'tetu1245-suai', ""'fukun_maka'Ɂas"")"	nan		
-329.0	black	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mɛtan	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+329.0	black	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mɛtan	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
 330.0	white	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mutin	nan	m u t i n	('white', 'adon1237', 'ˈburaʔ')	nan		
 331.0	red	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mean	nan	- m e - a n	"('red', 'alor1247-baran', ""'mɛã"")"	nan		
 332.0	green	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	(ai tahaŋ) matak	nan	m a t a k	('green', 'amar1273-kotos', 'mamateʔ')	nan		
@@ -328,7 +328,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 337.0	thirsty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'ro:	nan	h a ˈr oː	"('thirsty', 'tetu1245-suai', ""ha'ro:"")"	nan		
 338.0	hungry	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	habaha	nan	h a b a h a	('hungry', 'tetu1245-suai', 'habaha')	nan		
 339.0	blind	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mata at	nan	m a t a _ - a t - -	('blind', 'tetu1245-suai', 'mata_at')	nan		
-340.0	deaf	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	diuk	nan	d i u k	('deaf', 'tetu1245-suai', 'diuk')	nan		
+340.0	deaf	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	diuk	nan	d i u k	('deaf', 'pmpacd', '*tuli')	nan		
 341.0	scared	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hataɁuk	nan	h a t a ʔ u k	"('scared', 'alor1247-baran', ""'taku"")"	nan		
 342.0	angry	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nawan 'saɁe	nan	n a w a n _ ˈs a ʔ e	"('angry', 'tetu1245-suai', ""nawan_'saɁe"")"	nan		
 343.0	to see	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hare:	nan	h a r eː - -	('to see', 'abui1241-fuime', 'he-rei')	nan		
@@ -362,7 +362,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 371.0	to wash	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fasi	nan	f - a s i - -	('to wash', 'adon1237', 'ˈbaha')	nan		
 372.0	to sew	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	suku	nan	s u k u -	('to sew', 'idat1237', 'suʔu')	nan		
 373.0	to live; be alive; living	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	moris	nan	m o - r i s	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
-374.0	to breathe	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nawan	nan	n a w a n	('to breathe', 'tetu1245-suai', 'nawan')	nan		
+374.0	to breathe	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nawan	nan	n a w a n	('to breathe', 'pmpacd', '*ma-ñawa')	nan		
 375.0	to work	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	se'risu	nan	s e ˈr - - i s u	"('to work', 'buna1278-malia', ""sɛrə'bisu"")"	nan		
 376.0	to die	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	matɛ	nan	m a - t ɛ - -	('to die', 'adon1237', 'ˈmataː')	nan		
 377.0	to give	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fɔ	nan	f ɔ - -	('to give', 'amar1273-kotos', 'n-fee')	nan		
@@ -373,12 +373,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382.0	to dance	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bidu	nan	b i d u	('to dance', 'buna1278-suai', 'biru')	nan		
 383.0	to sing	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'nanu	nan	h a ˈn a n u -	"('to sing', 'kema1243', ""mə'nanit"")"	nan		
 384.0	to burn (clear land)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	sunu'rai	nan	s u n u ˈr a i	"('to burn (clear land)', 'tetu1245-suai', ""sunu'rai"")"	nan		
-385.0	to burn; to shine	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lakan	nan	- l a k a n -	('to burn; to shine', 'sout2896-lerek', 'ˈonikənɡ;_ˈtalɛk;_ˈtalɛk_ˈkay')	nan		
+385.0	to burn; to shine	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lakan	nan	- l a k a n -	('to burn; to shine', 'pmpacd', '*dilap')	nan		
 386.0	to shine	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lakan	nan	- - l a k a n	('to shine', 'cent2245-hewa', 'ladon')	nan		
-387.0	to chew	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hak'na:n	nan	h a k ˈn aː n	('to chew', 'adan1251', 'haŋ')	nan		
+387.0	to chew	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hak'na:n	nan	h a k ˈn aː n	('to chew', 'adan1251-lawah', 'ʔoʔoŋ')	nan		
 388.0	to yawn	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ma:s	nan	m aː s	('to yawn', 'tetu1245-suai', 'ma:s')	nan		
 389.0	to suck	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hɔrɔn	nan	h ɔ r ɔ n	('to suck', 'tetu1245-suai', 'hɔrɔn')	nan		
-390.0	to blow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hu:	nan	- - - h - - uː - - - - -	('to blow', 'abui1241-fuime', 'furungra')	nan		
+390.0	to blow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hu:	nan	- - - h - - uː - - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	nan		
 391.0	to spit	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kaba 'wɛn	nan	k a b a _ ˈw ɛ n	"('to spit', 'tetu1245-suai', ""kaba_'wɛn"")"	nan		
 392.0	to vomit	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'muta	nan	ˈm u t a -	"('to vomit', 'alor1247-baran', ""'mut:a"")"	nan		
 393.0	to rub	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'dɔkɔ	nan	ˈd ɔ k ɔ -	('to rub', 'adon1237', 'doˈruʔ')	nan		
@@ -407,12 +407,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 417.0	to float	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nam'lɛlɛ	nan	n a m ˈl ɛ l ɛ	('to float', 'buna1278-bobon', 'lɛlɛ')	nan		
 418.0	to freeze	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	sai'fatuk	nan	- - - - s a i ˈf a t u k	"('to freeze', 'alor1247-baran', ""'fatɔ"")"	nan		
 419.0	to hold	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'kaɛr	nan	ˈk a ɛ r	('to hold', 'idat1237', 'kui')	nan		
-420.0	to tie	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'kɛsi	nan	ˈk ɛ s i	('to tie', 'buna1278-bobon', 'tʃi,_bilik')	nan		
+420.0	to tie	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'kɛsi	nan	ˈk ɛ s i	('to tie', 'buna1278-bobon', 'bilik')	nan		
 421.0	to play	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'lɪmak	nan	h a ˈl ɪ m a k	('to play', 'abui1241-fuime', 'muila')	nan		
 422.0	to pull	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'dada	nan	- ˈd a d a -	('to pull', 'blag1240-bama', 'tedo')	nan		
-423.0	to push	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'dudu	nan	ˈd u d u - -	('to push', 'adan1251', 'adodo;')	nan		
+423.0	to push	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'dudu	nan	ˈd u d u - -	('to push', 'adan1251-lawah', 'adoʔo')	nan		
 424.0	to turn	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'sɛ:s	nan	ˈs ɛː s	"('to turn', 'tetu1245-suai', ""'sɛ:s"")"	nan		
-425.0	to dream	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'mɛhi	nan	ˈm ɛ h i	('to dream', 'buna1278-bobon', 'malak,_mehi')	nan		
+425.0	to dream	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'mɛhi	nan	ˈm ɛ h i	('to dream', 'buna1278-bobon', 'malak')	nan		
 426.0	to crouch; to bend over	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'tuɁu	nan	h a ˈt u ʔ u	"('to crouch; to bend over', 'tetu1245-suai', ""ha'tuɁu"")"	nan		
 427.0	to live; to stay	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'hɛla	nan	ˈh ɛ l a	"('to live; to stay', 'tetu1245-suai', ""'hɛla"")"	nan		
 428.0	to choose	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'hili	nan	ˈh i l i	('to choose', 'sout2896-lerek', 'ˈpilɛ')	nan		
@@ -422,12 +422,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 432.0	to sell	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'faɁen	nan	ˈf a ʔ e n	('to sell', 'alor1249-sar-a', 'maʔaŋ')	nan		
 433.0	to steal	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'naɁo	nan	h a ˈn a ʔ o -	"('to steal', 'tetu1245-suai', ""ha'naɁo"")"	nan		
 434.0	to open	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'lɔke	nan	ˈl ɔ k e	('to open', 'blag1240-warsa', 'legi')	nan		
-435.0	to close	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'taka	nan	ˈt a k a	('to close', 'buna1278-bobon', 'thaɁa,_ube')	nan		
+435.0	to close	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'taka	nan	ˈt a k a	('to close', 'buna1278-bobon', 'thaɁa')	nan		
 436.0	to climb	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'saɁe	nan	ˈs a ʔ e	('to climb', 'buna1278-bobon', 'saɁe')	nan		
 437.0	to hide	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'subar, hak'sumin	subar=hide stuff, haksumin=hide person, hide oneself	ˈs u b a r	"('to hide', 'tetu1245-suai', ""'subar,_hak'sumin"")"	nan		
 438.0	to wait	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'hein	nan	ˈh e i n	"('to wait', 'tetu1245-suai', ""'hein"")"	nan		
 439.0	to fold	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'hikar, hias	no difference in meaning	ˈh i k a r	('to fold', 'buna1278-suai', 'ekhal')	nan		
-440.0	to help	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'tulun	nan	ˈt u l u - n -	('to help', 'atim1239', 'netulung')	nan		
+440.0	to help	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'tulun	nan	ˈt u l u - n -	('to help', 'atim1239', 'netuluŋ')	nan		
 441.0	to bark	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	natenu	nan	n a t e n u	('to bark', 'tetu1245-suai', 'natenu')	nan		
 442.0	to shoot	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'tɪru	nan	ˈt ɪ - r u	"('to shoot', 'idat1237', ""'tiru"")"	nan		
 443.0	to shoot with slingshot	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tiru nodi karet ai	nan	t i r u _ n o d i _ k a r e t _ a i	('to shoot with slingshot', 'tetu1245-suai', 'tiru_nodi_karet_ai')	nan		
@@ -439,11 +439,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 449.0	to count	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	sura	nan	nan	('to count', 'buna1278-bobon', 'sura')	nan		
 450.0	one	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'ida	nan	ˈi d a	('one', 'amar1273-kotos', 'meseʔ')	nan		
 451.0	two	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rua	nan	- - r u a	"('two', 'alor1247-baran', ""'rua"")"	nan		
-452.0	three	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tɔlu	nan	t ɔ l - u	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
+452.0	three	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tɔlu	nan	t ɔ l - u	('three', 'adan1251-otvai', 'tɔu')	nan		
 453.0	four	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha:t	nan	h aː t - -	('four', 'adon1237', 'ˈpaːt')	nan		
 454.0	five	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lɪma	nan	- - l ɪ m a	('five', 'adon1237', 'ˈlema')	nan		
-455.0	six	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɛ:ŋ	nan	- - - - n ɛː ŋ -	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-456.0	seven	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hɪtu	nan	h ɪ t - - u	('seven', 'adan1251', 'itito')	nan		
+455.0	six	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɛ:ŋ	nan	- - - - n ɛː ŋ -	('six', 'adon1237', 'ˈnamu')	nan		
+456.0	seven	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hɪtu	nan	h ɪ t - - u	('seven', 'adan1251-lawah', 'wuitoʔ')	nan		
 457.0	eight	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	walu	nan	( - - ) w a - - l u - - - -	('eight', 'buna1278-bobon', 'alu')	nan		
 458.0	nine	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	siwi	nan	s i w i	('nine', 'adon1237', 'hiwa')	nan		
 459.0	ten	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	sanulu	nan	s a n u l u	('ten', 'buna1278-bobon', 'sogo')	nan		
@@ -464,14 +464,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 474.0	twenty five	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rua nulu resin lima	nan	r u a _ n u l - - u _ r e s i n _ l i m a	"('twenty five', 'maka1316', ""ru_lo'laɁe_resi_'lima"")"	nan		
 475.0	thirty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tɔlu nulu	nan	t ɔ l u _ n u l u	('thirty', 'adon1237', 'pulu_ˈtɜlo')	nan		
 476.0	forty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha:t nulu	nan	h aː t _ n u l u	('forty', 'tetu1245-suai', 'ha:t_nulu')	nan		
-477.0	fifty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lima nulu	nan	l i m a _ n u l u	('fifty', 'tetu1245-suai', 'lima_nulu')	nan		
-478.0	sixty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ne:n nulu	nan	n eː n _ n u l u	('sixty', 'tetu1245-suai', 'ne:n_nulu')	nan		
-479.0	seventy	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hitu nulu	nan	h i t u _ n u l u	('seventy', 'tetu1245-suai', 'hitu_nulu')	nan		
+477.0	fifty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	lima nulu	nan	l i m a _ n u l u	('fifty', 'pmpacd', '*lima_ŋa_puluq')	nan		
+478.0	sixty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ne:n nulu	nan	n eː n _ n u l u	('sixty', 'pmpacd', '*enem_ŋa_puluq')	nan		
+479.0	seventy	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hitu nulu	nan	h i t u _ n u l u	('seventy', 'pmpacd', '*pitu_ŋa_puluq')	nan		
 480.0	eighty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	walu nulu	nan	w a l u _ n u l u	('eighty', 'cent2245-hewa', 'pulu_ʋalu')	nan		
 481.0	ninety	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	siwi nulu	nan	s i w i _ n u l u	('ninety', 'tetu1245-suai', 'siwi_nulu')	nan		
 482.0	one hundred	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	atus ida	nan	- a t u s _ - i d a -	('one hundred', 'keda1252', 'ratuʔ_ʔudeʔ')	nan		
 483.0	one hundred and twenty three	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	atus ida rua nulu resin tolu	nan	a t u s _ i d a - _ r u - a _ n u l - - u - _ r e s i n _ t o l - - u	('one hundred and twenty three', 'buna1278-bobon', 'atus_uen_sogo_hiliɁon_lesin_goniɁo')	nan		
-484.0	two hundred	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	atus rua	nan	a t u s - - _ r u - a -	('angry', 'lamm1241', 'arugga')	nan		
+484.0	two hundred	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	atus rua	nan	a t u s - - _ r u - a -	('two hundred', 'adan1251-lawah', 'ratalu')	nan		
 485.0	thousand	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rihun ida	nan	r i h u n - _ i d a - -	('thousand', 'tetu1245-suai', 'rihun_ida')	nan		
 486.0	one hundred thousand	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	rihun atus ida	nan	r i h u n _ a t u s _ i d a -	('one hundred thousand', 'buna1278-suai', 'lihun_atus_uen')	nan		
 487.0	grandmother	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bei 'fɛto	nan	- b e i _ ˈf ɛ t o	"('grandmother', 'tetu1245-suai', ""bei_'fɛto"")"	nan		
@@ -486,7 +486,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 496.0	woman's younger sister	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ali 'fɛto	nan	a l i _ ˈf ɛ t o	"(""woman's younger sister"", 'tetu1245-suai', ""ali_'fɛto"")"	nan		
 497.0	younger brother	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ali 'mane	nan	- a l - i _ ˈm a n e	"('younger brother', 'tetu1245-suai', ""ali_'mane"")"	nan		
 498.0	brother	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	mau	nan	m a u	('brother', 'tetu1245-suai', 'mau')	nan		
-499.0	brother-in-law	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naɁi	nan	n a ʔ i	('brother-in-law', 'cent2245-hewa', 'ʋari,_ueʔ')	nan		
+499.0	brother-in-law	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	naɁi	nan	n a ʔ i	('brother-in-law', 'cent2245-hewa', 'ʋari')	nan		
 500.0	cross-cousin	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	tua'naŋga	nan	t u - a ˈn a ŋ g a	('cross-cousin', 'kola1287', 'tatabeng_(waikang)')	nan		
 501.0	father's sister	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	baba	nan	b a b a	"(""father's sister"", 'tetu1245-suai', 'baba')"	nan		
 502.0	ridge(pole); peak; tip	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	uma 'lalatan	nan	u m a _ ˈl a l a t a n	"('ridge(pole); peak; tip', 'tetu1245-suai', ""uma_'lalatan"")"	nan		
@@ -495,7 +495,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 505.0	ground for ritual activities and public meetings	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	uma 'fukun	nan	u m a _ ˈf u k u n	"('ground for ritual activities and public meetings', 'tetu1245-suai', ""uma_'fukun"")"	nan		
 506.0	mound of stones for ritual activities	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fatuk 'lulik	nan	f a t u k _ ˈl u l i k	"('mound of stones for ritual activities', 'tetu1245-suai', ""fatuk_'lulik"")"	nan		
 507.0	meeting house	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	uma 'lulik	nan	u m a _ ˈl u l - i k -	"('meeting house', 'tetu1245-suai', ""uma_'lulik"")"	nan		
-508.0	floor	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	labis	nan	l a b i s	('floor', 'tetu1245-suai', 'labis')	nan		
+508.0	floor	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	labis	nan	l a b i s	('floor', 'lamm1241-westp', 'himis')	nan		
 509.0	wall	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ka'didir	nan	k a ˈd i d i r	('wall', 'fata1247', 'kɔtɕɔ')	nan		
 510.0	window	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ja'nela	nan	j a ˈn - e l a	('window', 'adon1237', 'ɡɜˈnela')	nan		
 511.0	cookhouse; kitchen	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ahi 'matak	nan	a h i _ ˈm a t a k	"('cookhouse; kitchen', 'tetu1245-suai', ""ahi_'matak"")"	nan		
@@ -514,8 +514,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 524.0	to worship	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'mulak	nan	- h a ˈm u l a k	"('to worship', 'teiw1235', ""ha'mar"")"	nan		
 525.0	holy	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'santo	Port	ˈs a n t o	"('holy', 'abui1241-takal', ""sä.'ni"")"	nan		
 526.0	to bless	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'bɛnsa	Port	ˈb ɛ - ns a - -	('to bless', 'buna1278-bobon', 'bensaun')	nan		
-527.0	God	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nai ma'romak	nai=lord, maromak=god	n a i _ m a ˈr o m a k	('God', 'buna1278-bobon', 'maromak,_hɔt_gɔmɔ,_hɔt_gɔl')	nan		
-528.0	to pray	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'mulak, rɛza	nan	- h a ˈm u l a k	('to pray', 'adan1251', 'aʔome')	nan		
+527.0	God	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nai ma'romak	nai=lord, maromak=god	n a i _ m a ˈr o m a k	('God', 'buna1278-bobon', 'maromak')	nan		
+528.0	to pray	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'mulak, rɛza	nan	- h a ˈm u l a k	"('to pray', 'teiw1235', ""'hamar"")"	nan		
 529.0	church	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	uma 'kreda	nan	u m a _ ˈk r e d a	"('church', 'tetu1245-suai', ""uma_'kreda"")"	nan		
 530.0	mosque	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	islam sia uma 'kreda	nan	i s l a m _ s i a _ u m a _ ˈk r e d a	"('mosque', 'tetu1245-suai', ""islam_sia_uma_'kreda"")"	nan		
 531.0	to curse	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	diɁan	nan	- d i ʔ a n	('to curse', 'adon1237', 'ˈtuma')	nan		
@@ -528,10 +528,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 538.0	chieftain	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ama adat	nan	a m a _ a d a t	('chieftain', 'tetu1245-suai', 'ama_adat')	nan		
 539.0	to rule or govern	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	haruka	nan	h a r u k a -	('to rule or govern', 'buna1278-bobon', 'garuka')	nan		
 540.0	treaty	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	dura	nan	d u r a	('treaty', 'buna1278-bobon', 'tɛtʃu')	nan		
-541.0	marriage	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hola 'malu	hola=buy, marry; malu = each other	h o l a _ ˈm a l u	('marriage', 'adan1251', 'sari_med')	nan		
+541.0	marriage	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hola 'malu	hola=buy, marry; malu = each other	h o l a _ ˈm a l u	"('marriage', 'tetu1245-suai', ""hola_'malu"")"	nan		
 542.0	friend	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	'kmaluk, belu	nan	ˈk m a l u k -	"('friend', 'idat1237', ""'maluk"")"	nan		
 543.0	enemy	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	a:t malu	a:t=bad, malu=each other	aː t _ m a l u	('enemy', 'tetu1245-suai', 'a:t_malu')	nan		
-544.0	king; ruler	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	liurai, dato	nan	nan	('king; ruler', 'buna1278-bobon', 'liu_rai,_ɛn_masak,_ɛn_loi')	nan		
+544.0	king; ruler	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	liurai, dato	nan	nan	('king; ruler', 'buna1278-bobon', 'ɛn_masak')	nan		
 545.0	stranger	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ɛma matak, ema liur	matak=not ripe, liur=foreign	ɛ m a _ m a t a k	('stranger', 'tetu1245-suai', 'ɛma_matak,_ema_liur')	nan		
 546.0	to invite	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'liku	nan	h a ˈl i k u	"('to invite', 'tetu1245-suai', ""ha'liku"")"	nan		
 547.0	to command or order	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'ruka	nan	h a ˈr u k a	('to command or order', 'buna1278-bobon', 'garuka')	nan		
@@ -547,11 +547,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 557.0	to surrender	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	hit 'liman	hit=lift up	h i t _ ˈl i m a n	"('to surrender', 'tetu1245-suai', ""hit_'liman"")"	nan		
 558.0	to defend	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	nɔsi, kaɛr	nOsi=defend; kaer = maintain	n ɔ s i	('to defend', 'tetu1245-suai', 'nɔsi,_kaɛr')	nan		
 559.0	the war or battle	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	funu	nan	f u - - n u	('the war or battle', 'adon1237', 'pɜˈwuno')	nan		
-560.0	poor	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kiak	nan	k i a k - - - -	('poor', 'buna1278-bobon', 'kiak_gɔl,_ɛn_hobɛl,_en_bai_hobɛl')	nan		
+560.0	poor	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	kiak	nan	k i a k - - - -	('poor', 'buna1278-bobon', 'ɛn_hobɛl')	nan		
 561.0	rich	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	riku	nan	r i k u	('rich', 'fata1247', 'riku')	nan		
 562.0	money	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	osan	nan	o s - a n - -	('money', 'abui1241-takal', 'se̞äŋ')	nan		
 563.0	market	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	bazar	nan	b a z a r -	('market', 'buna1278-bobon', 'basal')	nan		
-564.0	price	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fɔ:lɪŋ	nan	f ɔː l ɪ ŋ	('price', 'adan1251', 'fali')	nan		
+564.0	price	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	fɔ:lɪŋ	nan	f ɔː l ɪ ŋ	('price', 'cent2245-hewa', 'ʋelin')	nan		
 565.0	to own	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	itak	itak=our possession (1pl.inc possessor)	i t a k	('to own', 'buna1278-bobon', 'atʃi')	nan		
 566.0	to borrow	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	foti	nan	f o t i	('to borrow', 'tetu1245-suai', 'foti')	nan		
 567.0	to trade or barter	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	faɁen	nan	f a ʔ e n	('to trade or barter', 'tetu1245-suai', 'faɁen')	nan		
@@ -574,10 +574,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 584.0	now	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	oras ne:	nan	o r a s _ n eː	('now', 'tetu1245-suai', 'oras_ne:')	nan		
 585.0	hour	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ɔras, tuku	nan	ɔ r a s -	('hour', 'buna1278-bobon', 'oras')	nan		
 586.0	same	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	ha'nɛ:san	nan	h a ˈn ɛː s a n -	"('same', 'fata1247', ""'waɁanɛ"")"	nan		
-588.0	flower (in e.g. mangga tree)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	funan nosi ai	nan	f u n a n _ n o s i _ a i	('flower (in e.g. mangga tree)', 'adan1251', 'ti_buŋ')	nan		
+588.0	flower (in e.g. mangga tree)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	funan nosi ai	nan	f u n a n _ n o s i _ a i	('flower (in e.g. mangga tree)', 'adon1237', 'ˈpuhũ')	nan		
 589.0	vein	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	uat	nan	u a t	('vein', 'mamb1306', 'hua')	nan		
 590.0	long (stick)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	(ai) naruk	nan	- - n a r u k	"('long (stick)', 'idat1237', ""mɑ'naruk"")"	nan		
 591.0	tall (person)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	(ema) naruk	nan	n a r u k	('tall (person)', 'tetu1245-suai', '(ema)_naruk')	nan		
 592.0	short (stick)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	(ai) badak	nan	b a d a k -	('short (stick)', 'amar1273-kotos', 'paraʔ')	nan		
 593.0	narrow (road)	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	klɔ:t	nan	k - l ɔː t - -	"('narrow (road)', 'idat1237', ""ku'lɔt"")"	nan		
-598.0	to chase away; to expel	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	teɁur	to shoo away (verbal)	t e ʔ u r	('to chase away; to expel', 'sout2896-lerek', 'ˈdəɡur')	nan		
+598.0	to chase away; to expel	tetu1245-suai	Tetun Terik-Suai 	Austronesian	4Timor, 2Central	teɁur	to shoo away (verbal)	t e ʔ u r	('to chase away; to expel', 'lamm1241-westp', '-buttir')	nan		
