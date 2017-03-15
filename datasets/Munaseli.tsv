@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0	sky	alor1247-munas	Alorese-Munaseli	Austronesian		'laŋi	nan	nan	"('sky', 'alor1247-munas', ""'laŋi"")"	nan		
 1	sun	alor1247-munas	Alorese-Munaseli	Austronesian		lə'rːa	nan	nan	('sun', 'adon1237', 'ˈrɜra')	nan		
-2	moon	alor1247-munas	Alorese-Munaseli	Austronesian		'wulaŋ	nan	nan	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
+2	moon	alor1247-munas	Alorese-Munaseli	Austronesian		'wulaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 3	star	alor1247-munas	Alorese-Munaseli	Austronesian		'mala	nan	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
 4	night	alor1247-munas	Alorese-Munaseli	Austronesian		mə'rːɛŋ	nan	nan	"('night', 'alor1247-baran', ""ma'reŋ"")"	nan		
 5	day	alor1247-munas	Alorese-Munaseli	Austronesian		la'ra	nan	nan	"('day', 'adon1237', ""rɜ'_rɔ̃"")"	nan		
@@ -16,7 +16,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 11	day after tomorrow	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛrua 	nan	nan	"('day after tomorrow', 'adon1237', ""ʔɜrɜ_'rua"")"	nan		
 12	twilight; dawn	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛkaŋ 'dahɛk	nan	nan	"('twilight; dawn', 'adon1237', ""ʔekã_'dahe"")"	nan		
 13	cloud	alor1247-munas	Alorese-Munaseli	Austronesian		'nabaʔ	nan	nan	"('cloud', 'alor1247-munas', ""'nabaʔ"")"	nan		
-14	wind	alor1247-munas	Alorese-Munaseli	Austronesian		'aŋiŋ	nan	nan	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
+14	wind	alor1247-munas	Alorese-Munaseli	Austronesian		'aŋiŋ	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
 15	rain	alor1247-munas	Alorese-Munaseli	Austronesian		'uraŋ	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
 15	rain	alor1247-munas	Alorese-Munaseli	Austronesian		'uraŋ 'tuŋ	to rain (lit. rain falls)	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
 16	drizzle	alor1247-munas	Alorese-Munaseli	Austronesian		'uraŋ sə'rːik	nan	nan	"('drizzle', 'alor1247-besar', ""'uraŋ_fa'rɛha-fa'rɛha"")"	nan		
@@ -26,25 +26,25 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 19	lightning	alor1247-munas	Alorese-Munaseli	Austronesian		'hilaʔ	nan	nan	"('lightning', 'adon1237', ""kɜ'hilat"")"	nan		
 20	earthquake	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛkaŋ 'ɔtaŋ	lit. place/garden shake	nan	"('earthquake', 'alor1247-munas', ""'ɛkaŋ_'ɔtaŋ"")"	nan		
 21	fog	alor1247-munas	Alorese-Munaseli	Austronesian		sə'pu	nan	nan	"('fog', 'alor1247-munas', ""sə'pu"")"	nan		
-22	river; stream	alor1247-munas	Alorese-Munaseli	Austronesian		'aluk	nan	nan	('river; stream', 'abui1241-fuime', 'lu')	nan		
-23	ice	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛs	nan	nan	"('ice', 'alor1247-baran', ""'ɛs"")"	nan		
-24	snow	alor1247-munas	Alorese-Munaseli	Austronesian		'salʤu	nan	nan	"('snow', 'alor1247-besar', ""'salʤu"")"	nan		
+22	river; stream	alor1247-munas	Alorese-Munaseli	Austronesian		'aluk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+23	ice	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛs	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+24	snow	alor1247-munas	Alorese-Munaseli	Austronesian		'salʤu	nan	nan	"('snow', 'alor1247-baran', ""'salʤu"")"	nan		
 25	lake	alor1247-munas	Alorese-Munaseli	Austronesian		'wai 'nɛbɔk	lit. water still	nan	"('lake', 'alor1247-munas', ""'wai_'nɛbɔk"")"	nan		
 25	lake	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔlaŋ 'nɛbɔk	lit. pool still	nan	"('lake', 'alor1247-munas', ""'kɔlaŋ_'nɛbɔk"")"	nan		
 26	mountain	alor1247-munas	Alorese-Munaseli	Austronesian		'wɔtɔ b'lɔlɔk	mountain (mount high)	nan	"('mountain', 'alor1247-munas', ""'wɔtɔ_b'lɔlɔk"")"	nan		
 27	hill; ridge	alor1247-munas	Alorese-Munaseli	Austronesian		'wɔtɔ 'wɛrɔʔ	hill (mount short)	nan	"('hill; ridge', 'alor1247-munas', ""'wɔtɔ_'wɛrɔʔ"")"	nan		
-27	hill; ridge	alor1247-munas	Alorese-Munaseli	Austronesian		'dɔlu	nan	nan	"('hill; ridge', 'alor1247-besar', ""'dɔla"")"	nan		
+27	hill; ridge	alor1247-munas	Alorese-Munaseli	Austronesian		'dɔlu	nan	nan	('hill; ridge', 'adan1251-otvai', 'dɔi')	nan		
 28	village	alor1247-munas	Alorese-Munaseli	Austronesian		'ləwɔ	nan	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		
 29	land; soil	alor1247-munas	Alorese-Munaseli	Austronesian		'tana	nan	nan	('land; soil', 'abui1241-fuime', 'anei')	nan		
 30	Earth	alor1247-munas	Alorese-Munaseli	Austronesian		'tana	nan	nan	"('Earth', 'adon1237', ""tana_'ʔekã"")"	nan		
 31	hole	alor1247-munas	Alorese-Munaseli	Austronesian		'nuɔʔ	hole (on the ground)	nan	"('hole', 'alor1247-munas', ""'nuɔʔ"")"	nan		
 31	hole	alor1247-munas	Alorese-Munaseli	Austronesian		'waŋɔʔ	hole (into something)	nan	"('hole', 'alor1247-munas', ""'waŋɔʔ"")"	nan		
-32	stone	alor1247-munas	Alorese-Munaseli	Austronesian		'watɔ	nan	nan	"('stone', 'adon1237', ""'watɔ"")"	nan		
+32	stone	alor1247-munas	Alorese-Munaseli	Austronesian		'watɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 33	coral (rock)	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔka	nan	nan	('coral (rock)', 'abui1241-takal', 'ʋi__ko.qäi')	nan		
-34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'tuhu	nan	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'huŋ	coral reef (does not grow)	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'uhuŋ	coral reef (still alive, cactus-like shape)	nan	('(coral) reef', 'adan1251-otvai', 'ɔʔɔi')	nan		
-34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'aŋgu	coral reef (still alive, umbrella-like shape)	nan	('(coral) reef', 'abui1241-takal', 'ko.qäi')	nan		
+34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'tuhu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'huŋ	coral reef (does not grow)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'uhuŋ	coral reef (still alive, cactus-like shape)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+34	(coral) reef	alor1247-munas	Alorese-Munaseli	Austronesian		'aŋgu	coral reef (still alive, umbrella-like shape)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 35	water (fresh)	alor1247-munas	Alorese-Munaseli	Austronesian		'wai	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
 36	sea; sea water	alor1247-munas	Alorese-Munaseli	Austronesian		'tahiʔ	nan	nan	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	nan		
 37	wave	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔmbaʔ	nan	nan	"('wave', 'alor1247-besar', ""'umba"")"	nan		
@@ -54,22 +54,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 39	forest	alor1247-munas	Alorese-Munaseli	Austronesian		'dɛhɛk	nan	nan	"('forest', 'alor1247-munas', ""'dɛhɛk"")"	nan		
 39	forest	alor1247-munas	Alorese-Munaseli	Austronesian		'duaŋ	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan		
 40	field	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛkaŋ 'lata	nan	nan	"('field', 'alor1247-munas', ""'ɛkaŋ_'lata"")"	nan		
-41	island	alor1247-munas	Alorese-Munaseli	Austronesian		'nuha	nan	nan	"('island', 'alor1247-besar', ""nu'ha"")"	nan		
+41	island	alor1247-munas	Alorese-Munaseli	Austronesian		'nuha	nan	nan	"('island', 'adon1237', ""'nuha"")"	nan		
 42	rice field	alor1247-munas	Alorese-Munaseli	Austronesian		'sawa 'alɛr	nan	nan	"('rice field', 'abui1241-takal', ""'sä.wä"")"	nan		
 43	garden	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛkaŋ 	nan	nan	"('garden', 'alor1247-besar', ""'ɛkaŋ_"")"	nan		
 43	garden	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛkaŋ 'butaʔ	nan	nan	"('garden', 'alor1247-besar', ""'ɛkaŋ_"")"	nan		
-44	fence	alor1247-munas	Alorese-Munaseli	Austronesian		laka-'lakaʔ	nan	nan	"('fence', 'alor1247-munas', ""laka-'lakaʔ"")"	nan		
-45	road; path; way	alor1247-munas	Alorese-Munaseli	Austronesian		'laraŋ	nan	nan	"('road; path; way', 'adon1237', ""'rarã"")"	nan		
-45	road; path; way	alor1247-munas	Alorese-Munaseli	Austronesian		'tɔr	nan	nan	"('road; path; way', 'alor1247-baran', ""'tɔ:r"")"	nan		
-46	canoe	alor1247-munas	Alorese-Munaseli	Austronesian		'tɛna	nan	nan	"('canoe', 'alor1247-besar', ""'tɛna"")"	nan		
-47	sail (n.)	alor1247-munas	Alorese-Munaseli	Austronesian		'ladʒa	nan	nan	('sail (n.)', 'abui1241-petle', 'lol')	nan		
-48	to sail	alor1247-munas	Alorese-Munaseli	Austronesian		'buaʔ	nan	nan	"('to sail', 'alor1247-besar', ""'bua"")"	nan		
+44	fence	alor1247-munas	Alorese-Munaseli	Austronesian		laka-'lakaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+45	road; path; way	alor1247-munas	Alorese-Munaseli	Austronesian		'laraŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+45	road; path; way	alor1247-munas	Alorese-Munaseli	Austronesian		'tɔr	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+46	canoe	alor1247-munas	Alorese-Munaseli	Austronesian		'tɛna	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+47	sail (n.)	alor1247-munas	Alorese-Munaseli	Austronesian		'ladʒa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+48	to sail	alor1247-munas	Alorese-Munaseli	Austronesian		'buaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 49	fishing hook	alor1247-munas	Alorese-Munaseli	Austronesian		'kawil	nan	nan	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	nan		
 50	fish trap	alor1247-munas	Alorese-Munaseli	Austronesian		'wuwɔ	nan	nan	"('fish trap', 'alor1247-munas', ""'wuwɔ"")"	nan		
 50	fish trap	alor1247-munas	Alorese-Munaseli	Austronesian		'nɔpal	nan	nan	"('fish trap', 'alor1247-besar', ""ka'nopaŋ"")"	nan		
-51	rope	alor1247-munas	Alorese-Munaseli	Austronesian		'talɛ	nan	nan	('rope', 'abui1241-fuime', 'tila')	nan		
-52	machete	alor1247-munas	Alorese-Munaseli	Austronesian		'pedaʔ	nan	nan	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	nan		
-53	axe	alor1247-munas	Alorese-Munaseli	Austronesian		'bali	nan	nan	('axe', 'abui1241-fuime', 'faliŋ')	nan		
+51	rope	alor1247-munas	Alorese-Munaseli	Austronesian		'talɛ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+52	machete	alor1247-munas	Alorese-Munaseli	Austronesian		'pedaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+53	axe	alor1247-munas	Alorese-Munaseli	Austronesian		'bali	nan	nan	('axe', 'abui1241-fuime', 'faling')	nan		
 54	spear	alor1247-munas	Alorese-Munaseli	Austronesian		kɛ'laleiŋ	spear (to catch small fish)	nan	"('spear', 'adon1237', ""'ɡalaʔ"")"	nan		
 54	spear	alor1247-munas	Alorese-Munaseli	Austronesian		tuŋ'raiŋ	(big) spear 	nan	"('spear', 'alor1247-munas', ""tuŋ'raiŋ"")"	nan		
 54	spear	alor1247-munas	Alorese-Munaseli	Austronesian		'rapaŋ	(big) spear 	nan	"('spear', 'alor1247-munas', ""'rapaŋ"")"	nan		
@@ -78,17 +78,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 57	digging stick	alor1247-munas	Alorese-Munaseli	Austronesian		'biŋku	nan	nan	"('digging stick', 'alor1247-besar', ""'biŋku"")"	nan		
 59	bow	alor1247-munas	Alorese-Munaseli	Austronesian		'wuhu	nan	nan	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		
 60	arrow	alor1247-munas	Alorese-Munaseli	Austronesian		'hupɔl	nan	nan	"('arrow', 'alor1247-besar', ""'hupɔ"")"	nan		
-61	knife	alor1247-munas	Alorese-Munaseli	Austronesian		'duriʔ	nan	nan	('knife', 'adan1251-lawah', 'duir')	nan		
-62	comb	alor1247-munas	Alorese-Munaseli	Austronesian		'kiri	nan	nan	('comb', 'abui1241-fuime', 'keeti')	nan		
+61	knife	alor1247-munas	Alorese-Munaseli	Austronesian		'duriʔ	nan	nan	('knife', 'abui1241-fuime', 'lui')	nan		
+62	comb	alor1247-munas	Alorese-Munaseli	Austronesian		'kiri	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 63	mat	alor1247-munas	Alorese-Munaseli	Austronesian		ɔ'haŋ	nan	nan	('mat', 'adon1237', 'ˈʔɔhãː')	nan		
 63	mat	alor1247-munas	Alorese-Munaseli	Austronesian		'hoaŋ	nan	nan	('mat', 'adon1237', 'ˈʔɔhãː')	nan		
 64	needle	alor1247-munas	Alorese-Munaseli	Austronesian		'batul	nan	nan	('needle', 'adan1251-lawah', 'bátuŋ')	nan		
 65	clothing	alor1247-munas	Alorese-Munaseli	Austronesian		pə'kiaŋ	nan	nan	"('clothing', 'alor1247-besar', ""pa'kiãŋ"")"	nan		
-66	oven	alor1247-munas	Alorese-Munaseli	Austronesian		'likaʔ	nan	nan	"('oven', 'alor1247-besar', ""'lika"")"	nan		
-66	oven	alor1247-munas	Alorese-Munaseli	Austronesian		'kada 'likaʔ	fireplace made of three stones 	nan	"('oven', 'alor1247-besar', ""'lika"")"	nan		
+66	oven	alor1247-munas	Alorese-Munaseli	Austronesian		'likaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+66	oven	alor1247-munas	Alorese-Munaseli	Austronesian		'kada 'likaʔ	fireplace made of three stones 	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 67	fire	alor1247-munas	Alorese-Munaseli	Austronesian		'ape	nan	nan	('fire', 'adon1237', 'ˈʔape')	nan		
 68	smoke	alor1247-munas	Alorese-Munaseli	Austronesian		p'nuhuŋ	nan	nan	('smoke', 'adon1237', 'ˈnuhũ')	nan		
-69	ash	alor1247-munas	Alorese-Munaseli	Austronesian		'awo 'kaha	ash (fireplace)	nan	"('ash', 'alor1247-besar', ""'afɔ"")"	nan		
+69	ash	alor1247-munas	Alorese-Munaseli	Austronesian		'awo 'kaha	ash (fireplace)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 70	dust; fine earth	alor1247-munas	Alorese-Munaseli	Austronesian		krawuʔ	nan	nan	('dust; fine earth', 'alor1247-munas', 'krawuʔ')	nan		
 71	fireplace ash	alor1247-munas	Alorese-Munaseli	Austronesian		'awo 'kaha	nan	nan	('fireplace ash', 'adon1237', 'kɜˈʔawuk')	nan		
 72	mud	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔta	nan	nan	"('mud', 'alor1247-munas', ""'mɔta"")"	nan		
@@ -102,13 +102,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 78	traditional house	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'adat	nan	nan	"('traditional house', 'alor1247-besar', ""'uma_'hada"")"	nan		
 78	traditional house	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'lɛlaŋ	nan	nan	"('traditional house', 'alor1247-besar', ""'uma_'hada"")"	nan		
 79	barn; storage house	alor1247-munas	Alorese-Munaseli	Austronesian		ladaʔ	nan	nan	('barn; storage house', 'alor1247-munas', 'ladaʔ')	nan		
-80	raised platform	alor1247-munas	Alorese-Munaseli	Austronesian		'dɛki	nan	nan	"('raised platform', 'alor1247-besar', ""'dɛki"")"	nan		
+80	raised platform	alor1247-munas	Alorese-Munaseli	Austronesian		'dɛki	nan	nan	('raised platform', 'adan1251-otvai', 'deʔ')	nan		
 81	door	alor1247-munas	Alorese-Munaseli	Austronesian		'pitu 'mataŋ	nan	nan	('door', 'adon1237', 'ˈpita')	nan		
 81	door	alor1247-munas	Alorese-Munaseli	Austronesian		'pite 'mataŋ	nan	nan	('door', 'adon1237', 'ˈpita')	nan		
 82	(thatch) roof	alor1247-munas	Alorese-Munaseli	Austronesian		'takar	nan	nan	('(thatch) roof', 'adon1237', 'ˈnakɜ')	nan		
 83	roof thatch	alor1247-munas	Alorese-Munaseli	Austronesian		'luo	nan	nan	('roof thatch', 'adon1237', 'ˈluʔo')	nan		
 84	tree	alor1247-munas	Alorese-Munaseli	Austronesian		'kaʤɔ 'pukɔŋ	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan		
-85	wood	alor1247-munas	Alorese-Munaseli	Austronesian		'kaʤɔ	nan	nan	"('wood', 'alor1247-besar', ""'kaʤɔ"")"	nan		
+85	wood	alor1247-munas	Alorese-Munaseli	Austronesian		'kaʤɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 86	bark (of tree)	alor1247-munas	Alorese-Munaseli	Austronesian		'kaʤɔ 'kamaŋ	lit. tree skin	nan	('bark (of tree)', 'adon1237', 'kajo_ˈkaʔmã')	nan		
 87	leaf	alor1247-munas	Alorese-Munaseli	Austronesian		'kaʤɔ 'lɔlɔŋ	lit. tree top	nan	('leaf', 'adon1237', 'ˈlolõ')	nan		
 88	branch	alor1247-munas	Alorese-Munaseli	Austronesian		'kaʤɔ 'limaŋ	lit. tree hand	nan	"('branch', 'alor1247-besar', ""'kaʤɔ_'limaŋ"")"	nan		
@@ -116,20 +116,20 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89	firewood	alor1247-munas	Alorese-Munaseli	Austronesian		'kaʤɔ 'ape	nan	nan	('firewood', 'adon1237', 'kajo_ˈʔape')	nan		
 90	rattan	alor1247-munas	Alorese-Munaseli	Austronesian		'uwe	nan	nan	"('rattan', 'alor1247-besar', ""'ufi"")"	nan		
 90	rattan	alor1247-munas	Alorese-Munaseli	Austronesian		'lua	nan	nan	"('rattan', 'alor1247-munas', ""'lua"")"	nan		
-91	root	alor1247-munas	Alorese-Munaseli	Austronesian		'ramuk	nan	nan	"('root', 'alor1247-besar', ""ram'bukuŋ"")"	nan		
+91	root	alor1247-munas	Alorese-Munaseli	Austronesian		'ramuk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 92	fruit	alor1247-munas	Alorese-Munaseli	Austronesian		i'hik	nan	nan	"('fruit', 'alor1247-besar', ""i'hikiŋ"")"	nan		
 93	seed	alor1247-munas	Alorese-Munaseli	Austronesian		'kuluŋ	nan	nan	('seed', 'adon1237', 'ˈkulʔũ')	nan		
-94	grain; cereal	alor1247-munas	Alorese-Munaseli	Austronesian		'pare	nan	nan	"('grain; cereal', 'alor1247-besar', ""'pari"")"	nan		
-95	flower	alor1247-munas	Alorese-Munaseli	Austronesian		'puhuŋ	nan	nan	"('flower', 'alor1247-besar', ""'puhuŋ"")"	nan		
+94	grain; cereal	alor1247-munas	Alorese-Munaseli	Austronesian		'pare	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+95	flower	alor1247-munas	Alorese-Munaseli	Austronesian		'puhuŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 96	husked rice; uncooked rice	alor1247-munas	Alorese-Munaseli	Austronesian		'pare	nan	nan	"('husked rice; uncooked rice', 'alor1247-besar', ""'pari"")"	nan		
 96	husked rice; uncooked rice	alor1247-munas	Alorese-Munaseli	Austronesian		'wata 'pare	nan	nan	"('husked rice; uncooked rice', 'alor1247-besar', ""'pari"")"	nan		
-97	rice grains (unhusked) (raw from field)	alor1247-munas	Alorese-Munaseli	Austronesian		'pare 'wuliŋ	nan	nan	"('rice grains (unhusked) (raw from field)', 'alor1247-besar', ""'pari_mu'lɛŋ"")"	nan		
+97	rice grains (unhusked) (raw from field)	alor1247-munas	Alorese-Munaseli	Austronesian		'pare 'wuliŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 98	cooked rice	alor1247-munas	Alorese-Munaseli	Austronesian		'wata	nan	nan	('cooked rice', 'adon1237', 'wata_mɜˈnihũ')	nan		
 98	cooked rice	alor1247-munas	Alorese-Munaseli	Austronesian		'wata 'tahak	nan	nan	('cooked rice', 'adon1237', 'wata_mɜˈnihũ')	nan		
 99	rice plant	alor1247-munas	Alorese-Munaseli	Austronesian		'pare 'nawaŋ	nan	nan	"('rice plant', 'alor1247-besar', ""'pari"")"	nan		
 100	to plant (yam)	alor1247-munas	Alorese-Munaseli	Austronesian		'mula 'kura 	nan	nan	('to plant (yam)', 'abui1241-fuime', 'murua')	nan		
 101	to plant (rice)	alor1247-munas	Alorese-Munaseli	Austronesian		'mula 'pare	nan	nan	"('to plant (rice)', 'alor1247-besar', ""'mula_'pari"")"	nan		
-102	betel nut; areca	alor1247-munas	Alorese-Munaseli	Austronesian		'ua	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	nan		
+102	betel nut; areca	alor1247-munas	Alorese-Munaseli	Austronesian		'ua	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 103	betel vine	alor1247-munas	Alorese-Munaseli	Austronesian		'malu	nan	nan	('betel vine', 'adon1237', 'ˈmaluʔ')	nan		
 104	lime	alor1247-munas	Alorese-Munaseli	Austronesian		'apu	nan	nan	('lime', 'adon1237', 'ˈʔapuʔ')	nan		
 105	chew betel	alor1247-munas	Alorese-Munaseli	Austronesian		'gouŋ 'malu	chew betel (2SG)	nan	('chew betel', 'adon1237', 'ɡãːˈwuaʔ')	nan		
@@ -146,22 +146,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 115	gwang	alor1247-munas	Alorese-Munaseli	Austronesian		k'dɛbu 'pukɔŋ	gwang tree	nan	"('gwang', 'alor1247-munas', ""k'dɛbu_'pukɔŋ"")"	nan		
 116	lontar palm	alor1247-munas	Alorese-Munaseli	Austronesian		'koɔli 'pukɔŋ	lontar tree	nan	"('lontar palm', 'abui1241-takal', ""äj.'qɔl"")"	nan		
 117	sugar palm	alor1247-munas	Alorese-Munaseli	Austronesian		'pɔla 'pukɔŋ	sugar tree	nan	('sugar palm', 'adon1237', 'ˈpolaʔ')	nan		
-118	marungga	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔtɔŋ	nan	nan	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	nan		
+118	marungga	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔtɔŋ	nan	nan	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		
 119	gum tree; eucalyptus	alor1247-munas	Alorese-Munaseli	Austronesian		'nihɛr	nan	nan	"('gum tree; eucalyptus', 'alor1247-munas', ""'nihɛr"")"	nan		
-120	bamboo	alor1247-munas	Alorese-Munaseli	Austronesian		pə'tuŋ	nan	nan	('bamboo', 'adan1251-otvai', 'pituŋ')	nan		
+120	bamboo	alor1247-munas	Alorese-Munaseli	Austronesian		pə'tuŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 121	banana	alor1247-munas	Alorese-Munaseli	Austronesian		'mukɔ	nan	nan	('banana', 'abui1241-fuime', 'musa')	nan		
 122	mango	alor1247-munas	Alorese-Munaseli	Austronesian		'paɔ	nan	nan	('mango', 'adon1237', 'ˈpau')	nan		
-123	papaya	alor1247-munas	Alorese-Munaseli	Austronesian		'sela	nan	nan	('papaya', 'adan1251-lawah', 'kahatɛlɛ')	nan		
+123	papaya	alor1247-munas	Alorese-Munaseli	Austronesian		'sela	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 124	jackfruit	alor1247-munas	Alorese-Munaseli	Austronesian		'nakaŋ	nan	nan	"('jackfruit', 'alor1247-besar', ""'naŋka"")"	nan		
 125	breadfruit	alor1247-munas	Alorese-Munaseli	Austronesian		p'lɔka	nan	nan	"('breadfruit', 'alor1247-munas', ""p'lɔka"")"	nan		
 126	bean	alor1247-munas	Alorese-Munaseli	Austronesian		'kepa	nan	nan	"('bean', 'alor1247-besar', ""'kepa"")"	nan		
 127	honey	alor1247-munas	Alorese-Munaseli	Austronesian		b'lane 'waiŋ	lit. bee water's	nan	"('honey', 'alor1247-besar', ""fa'lanɛ_'fekiŋ"")"	nan		
 128	milk	alor1247-munas	Alorese-Munaseli	Austronesian		'susu	nan	nan	('milk', 'adon1237', 'ˈtuhɔ')	nan		
-129	salt	alor1247-munas	Alorese-Munaseli	Austronesian		'sia	nan	nan	('salt', 'adan1251-otvai', 'hahei')	nan		
-130	fat	alor1247-munas	Alorese-Munaseli	Austronesian		'wɔrak	nan	nan	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	nan		
+129	salt	alor1247-munas	Alorese-Munaseli	Austronesian		'sia	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+130	fat	alor1247-munas	Alorese-Munaseli	Austronesian		'wɔrak	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 131	flesh; meat	alor1247-munas	Alorese-Munaseli	Austronesian		'hik	nan	nan	('flesh; meat', 'adan1251-lawah', 'hiri')	nan		
-132	bone	alor1247-munas	Alorese-Munaseli	Austronesian		'rue	bone (bones of a living person/animal)	nan	('bone', 'adon1237', 'ˈriʔũː')	nan		
-132	bone	alor1247-munas	Alorese-Munaseli	Austronesian		'ruiŋ	bone (bones detached from the body)	nan	('bone', 'adon1237', 'ˈriʔũː')	nan		
+132	bone	alor1247-munas	Alorese-Munaseli	Austronesian		'rue	bone (bones of a living person/animal)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+132	bone	alor1247-munas	Alorese-Munaseli	Austronesian		'ruiŋ	bone (bones detached from the body)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 133	rib	alor1247-munas	Alorese-Munaseli	Austronesian		'hakaŋ	nan	nan	"('rib', 'alor1247-besar', ""'hakaŋ"")"	nan		
 134	sweat	alor1247-munas	Alorese-Munaseli	Austronesian		nə'mɛk	nan	nan	"('sweat', 'alor1247-besar', ""ha'name"")"	nan		
 135	tear	alor1247-munas	Alorese-Munaseli	Austronesian		'louŋ	nan	nan	('tear', 'adon1237', 'ˈlõː')	nan		
@@ -170,30 +170,30 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 136	blood	alor1247-munas	Alorese-Munaseli	Austronesian		'ra	nan	nan	"('blood', 'alor1247-baran', ""'ra:"")"	nan		
 136	blood	alor1247-munas	Alorese-Munaseli	Austronesian		'raŋ	to bleed	nan	"('blood', 'alor1247-baran', ""'ra:"")"	nan		
 138	heart	alor1247-munas	Alorese-Munaseli	Austronesian		tap'kubaŋ	heart (probably derived from tapo kubang 'coconut small/not ripe'	nan	"('heart', 'abui1241-takal', ""bu.kɔ.'mã"")"	nan		
-139	liver	alor1247-munas	Alorese-Munaseli	Austronesian		a'tɛŋ	nan	nan	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
-140	kidney	alor1247-munas	Alorese-Munaseli	Austronesian		wɛ'huŋ	nan	nan	"('kidney', 'alor1247-munas', ""wɛ'huŋ"")"	nan		
+139	liver	alor1247-munas	Alorese-Munaseli	Austronesian		a'tɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+140	kidney	alor1247-munas	Alorese-Munaseli	Austronesian		wɛ'huŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 141	guts	alor1247-munas	Alorese-Munaseli	Austronesian		'taiŋ kə'rik	nan	nan	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
 141	guts	alor1247-munas	Alorese-Munaseli	Austronesian		'taiŋ 'beiŋ	nan	nan	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
-142	excrement	alor1247-munas	Alorese-Munaseli	Austronesian		'taiŋ	nan	nan	('excrement', 'adon1237', 'tae')	nan		
-142	excrement	alor1247-munas	Alorese-Munaseli	Austronesian		'sapi 'taiŋ	cow excrement	nan	"('excrement', 'abui1241-takal', ""wɐ.tä:_'qɐ.ru"")"	nan		
-142	excrement	alor1247-munas	Alorese-Munaseli	Austronesian		'witi 'taiŋ	goat excrement	nan	"('excrement', 'abui1241-takal', ""wɐ.tä:_'qɐ.ru"")"	nan		
-143	lungs	alor1247-munas	Alorese-Munaseli	Austronesian		'wuraŋ	nan	nan	('lungs', 'adon1237', 'ˈwurhã')	nan		
+142	excrement	alor1247-munas	Alorese-Munaseli	Austronesian		'taiŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+142	excrement	alor1247-munas	Alorese-Munaseli	Austronesian		'sapi 'taiŋ	cow excrement	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+142	excrement	alor1247-munas	Alorese-Munaseli	Austronesian		'witi 'taiŋ	goat excrement	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+143	lungs	alor1247-munas	Alorese-Munaseli	Austronesian		'wuraŋ	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
 144	stomach; belly	alor1247-munas	Alorese-Munaseli	Austronesian		'tukaʔ	stomach, belly (1SG)	nan	('stomach; belly', 'abui1241-fuime', 'tatok_foko')	nan		
 144	stomach; belly	alor1247-munas	Alorese-Munaseli	Austronesian		'tukaŋ	nan	nan	('stomach; belly', 'abui1241-fuime', 'tatok_foko')	nan		
-145	head	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔtɔʔ	head (1SG)	nan	('head', 'abui1241-fuime', 'kai')	nan		
-145	head	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔtɔŋ	nan	nan	('head', 'abui1241-fuime', 'kai')	nan		
+145	head	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔtɔʔ	head (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+145	head	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔtɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 146	hair	alor1247-munas	Alorese-Munaseli	Austronesian		'rata	nan	nan	('hair', 'adon1237', 'ˈrataʔ')	nan		
 147	body hair	alor1247-munas	Alorese-Munaseli	Austronesian		'wuluk	nan	nan	"('body hair', 'alor1247-besar', ""fu'lukuŋ"")"	nan		
-148	eye	alor1247-munas	Alorese-Munaseli	Austronesian		'mataʔ	eye (1SG)	nan	('eye', 'adon1237', 'matak3t')	nan		
-148	eye	alor1247-munas	Alorese-Munaseli	Austronesian		'mataŋ	nan	nan	('eye', 'adon1237', 'matak3t')	nan		
+148	eye	alor1247-munas	Alorese-Munaseli	Austronesian		'mataʔ	eye (1SG)	nan	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
+148	eye	alor1247-munas	Alorese-Munaseli	Austronesian		'mataŋ	nan	nan	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
 149	ear	alor1247-munas	Alorese-Munaseli	Austronesian		'tiluʔ	ear (1SG)	nan	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
 149	ear	alor1247-munas	Alorese-Munaseli	Austronesian		'tiluŋ	nan	nan	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
-150	nose	alor1247-munas	Alorese-Munaseli	Austronesian		'iruʔ	nose (1SG)	nan	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
-150	nose	alor1247-munas	Alorese-Munaseli	Austronesian		'iruŋ	nan	nan	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
-151	mouth	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhuʔ	mouth (1SG)	nan	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan		
-151	mouth	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhuŋ 	nan	nan	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan		
-152	chin	alor1247-munas	Alorese-Munaseli	Austronesian		'bamɛʔ	chin (1SG)	nan	"('chin', 'alor1247-besar', ""'bamɛŋ"")"	nan		
-152	chin	alor1247-munas	Alorese-Munaseli	Austronesian		'bamɛŋ	nan	nan	"('chin', 'alor1247-besar', ""'bamɛŋ"")"	nan		
+150	nose	alor1247-munas	Alorese-Munaseli	Austronesian		'iruʔ	nose (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+150	nose	alor1247-munas	Alorese-Munaseli	Austronesian		'iruŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+151	mouth	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhuʔ	mouth (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+151	mouth	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhuŋ 	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+152	chin	alor1247-munas	Alorese-Munaseli	Austronesian		'bamɛʔ	chin (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+152	chin	alor1247-munas	Alorese-Munaseli	Austronesian		'bamɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 153	lips	alor1247-munas	Alorese-Munaseli	Austronesian		'wiwiʔ	lips (1SG)	nan	"('lips', 'alor1247-baran', ""'fifiŋ"")"	nan		
 153	lips	alor1247-munas	Alorese-Munaseli	Austronesian		'wiwiŋ	nan	nan	"('lips', 'alor1247-baran', ""'fifiŋ"")"	nan		
 154	teeth	alor1247-munas	Alorese-Munaseli	Austronesian		ulɔʔ	teeth (1SG)	nan	"('teeth', 'alor1247-baran', ""'ʔulɔŋ"")"	nan		
@@ -202,14 +202,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 156	neck	alor1247-munas	Alorese-Munaseli	Austronesian		k'bukɔr	front part of the neck, throat	nan	"('neck', 'alor1247-munas', ""k'bukɔr"")"	nan		
 156	neck	alor1247-munas	Alorese-Munaseli	Austronesian		'wuliŋ	nan	nan	"('neck', 'alor1247-baran', ""'fuliŋ"")"	nan		
 157	shoulder	alor1247-munas	Alorese-Munaseli	Austronesian		'hanaŋ	nan	nan	"('shoulder', 'alor1247-besar', ""'hanɛ̃"")"	nan		
-158	body	alor1247-munas	Alorese-Munaseli	Austronesian		'badak	body (1SG)	nan	"('body', 'alor1247-munas', ""'badak"")"	nan		
-158	body	alor1247-munas	Alorese-Munaseli	Austronesian		'badaŋ	nan	nan	"('body', 'alor1247-munas', ""'badak"")"	nan		
-159	forehead	alor1247-munas	Alorese-Munaseli	Austronesian		k'larak	nan	nan	"('forehead', 'alor1247-besar', ""kala'rakang"")"	nan		
-160	nostril	alor1247-munas	Alorese-Munaseli	Austronesian		'iruŋ 'waŋɔʔ	lit. nose hole	nan	('nostril', 'adon1237', 'iruˈnɜt_kɜˈlɜŋũ')	nan		
-160	nostril	alor1247-munas	Alorese-Munaseli	Austronesian		'iru 'wanɔʔ	lit. nose hole (1SG)	nan	('nostril', 'adon1237', 'iruˈnɜt_kɜˈlɜŋũ')	nan		
-161	mucus	alor1247-munas	Alorese-Munaseli	Austronesian		'sini	nan	nan	('mucus', 'adan1251-otvai', 'hin')	nan		
-162	cheek	alor1247-munas	Alorese-Munaseli	Austronesian		pipiŋ	nan	nan	('cheek', 'adon1237', 'ˈpipiˈkɜt')	nan		
-162	cheek	alor1247-munas	Alorese-Munaseli	Austronesian		pipiʔ	cheek (1SG)	nan	('cheek', 'adon1237', 'ˈpipiˈkɜt')	nan		
+158	body	alor1247-munas	Alorese-Munaseli	Austronesian		'badak	body (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+158	body	alor1247-munas	Alorese-Munaseli	Austronesian		'badaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+159	forehead	alor1247-munas	Alorese-Munaseli	Austronesian		k'larak	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+160	nostril	alor1247-munas	Alorese-Munaseli	Austronesian		'iruŋ 'waŋɔʔ	lit. nose hole	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+160	nostril	alor1247-munas	Alorese-Munaseli	Austronesian		'iru 'wanɔʔ	lit. nose hole (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+161	mucus	alor1247-munas	Alorese-Munaseli	Austronesian		'sini	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+162	cheek	alor1247-munas	Alorese-Munaseli	Austronesian		pipiŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+162	cheek	alor1247-munas	Alorese-Munaseli	Austronesian		pipiʔ	cheek (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 163	arm	alor1247-munas	Alorese-Munaseli	Austronesian		'limaŋ	nan	nan	('arm', 'adon1237', 'ˈlimaˈkɜt')	nan		
 163	arm	alor1247-munas	Alorese-Munaseli	Austronesian		limaʔ	arm (1SG)	nan	('arm', 'adon1237', 'ˈlimaˈkɜt')	nan		
 164	hand	alor1247-munas	Alorese-Munaseli	Austronesian		'limaŋ	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
@@ -219,9 +219,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 166	finger	alor1247-munas	Alorese-Munaseli	Austronesian		'numak	nan	nan	"('finger', 'alor1247-besar', ""kalu'makaŋ"")"	nan		
 167	fingernail	alor1247-munas	Alorese-Munaseli	Austronesian		'nugul	nan	nan	('fingernail', 'adon1237', 'kɜˈmukurɜt')	nan		
 168	breast	alor1247-munas	Alorese-Munaseli	Austronesian		'tuho	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	nan		
-169	chest	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔlɔʔ	chest (1SG)	nan	"('chest', 'alor1247-munas', ""'kɔlɔŋ"")"	nan		
-169	chest	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔlɔŋ	nan	nan	"('chest', 'alor1247-munas', ""'kɔlɔŋ"")"	nan		
-170	navel	alor1247-munas	Alorese-Munaseli	Austronesian		'puhɔr	nan	nan	('navel', 'abui1241-fuime', 'tabike')	nan		
+169	chest	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔlɔʔ	chest (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+169	chest	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔlɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+170	navel	alor1247-munas	Alorese-Munaseli	Austronesian		'puhɔr	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 171	penis	alor1247-munas	Alorese-Munaseli	Austronesian		'utiŋ	nan	nan	('penis', 'adon1237', 'ˈute')	nan		
 172	vagina	alor1247-munas	Alorese-Munaseli	Austronesian		'utiʔ	penis (1SG)	nan	"('vagina', 'alor1247-munas', ""'utiʔ"")"	nan		
 172	vagina	alor1247-munas	Alorese-Munaseli	Austronesian		'pukiŋ	nan	nan	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	nan		
@@ -242,8 +242,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179	back	alor1247-munas	Alorese-Munaseli	Austronesian		'punuŋ	nan	nan	"('back', 'alor1247-besar', ""'punuŋ"")"	nan		
 179	back	alor1247-munas	Alorese-Munaseli	Austronesian		punuʔ	back (1SG)	nan	"('back', 'alor1247-besar', ""'punuŋ"")"	nan		
 180	spine; lower back	alor1247-munas	Alorese-Munaseli	Austronesian		'hie 'beiŋ	nan	nan	"('spine; lower back', 'alor1247-munas', ""'hie_'beiŋ"")"	nan		
-181	waist	alor1247-munas	Alorese-Munaseli	Austronesian		'alɛŋ	nan	nan	"('waist', 'alor1247-besar', ""'alɛ̃"")"	nan		
-181	waist	alor1247-munas	Alorese-Munaseli	Austronesian		'alɛʔ	waist (1SG)	nan	"('waist', 'alor1247-besar', ""'alɛ̃"")"	nan		
+181	waist	alor1247-munas	Alorese-Munaseli	Austronesian		'alɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+181	waist	alor1247-munas	Alorese-Munaseli	Austronesian		'alɛʔ	waist (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 182	skin	alor1247-munas	Alorese-Munaseli	Austronesian		'kulik	skin (1SG)	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
 183	sore; wound	alor1247-munas	Alorese-Munaseli	Austronesian		'ukak	nan	nan	"('sore; wound', 'alor1247-besar', ""'uka"")"	nan		
 183	sore; wound	alor1247-munas	Alorese-Munaseli	Austronesian		'ugar	nan	nan	"('sore; wound', 'alor1247-besar', ""'uka"")"	nan		
@@ -256,13 +256,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 188	conjunctivitis	alor1247-munas	Alorese-Munaseli	Austronesian		'mataŋ 'meaŋ	lit. eye red	nan	"('conjunctivitis', 'alor1247-munas', ""'mataŋ_'meaŋ"")"	nan		
 189	cold; influenza	alor1247-munas	Alorese-Munaseli	Austronesian		ha'nːuŋ	nan	nan	"('cold; influenza', 'alor1247-munas', ""ha'nːuŋ"")"	nan		
 189	cold; influenza	alor1247-munas	Alorese-Munaseli	Austronesian		'iru'ɔnɔŋ mə'tːɛʔ	lit. nose inside obstructed	nan	"('cold; influenza', 'alor1247-munas', ""'iru'ɔnɔŋ_mə'tːɛʔ"")"	nan		
-190	person	alor1247-munas	Alorese-Munaseli	Austronesian		'ata	nan	nan	('person', 'adon1237', 'ˈʔata')	nan		
-190	person	alor1247-munas	Alorese-Munaseli	Austronesian		mə'sia	nan	nan	('person', 'abui1241-fuime', 'ama')	nan		
-191	name	alor1247-munas	Alorese-Munaseli	Austronesian		'naraŋ	nan	nan	('name', 'adon1237', 'ˈnarã')	nan		
-191	name	alor1247-munas	Alorese-Munaseli	Austronesian		'naraʔ	name (1SG)	nan	('name', 'adon1237', 'ˈnarã')	nan		
-192	child	alor1247-munas	Alorese-Munaseli	Austronesian		'ana	nan	nan	"('child', 'alor1247-besar', ""'anaŋ"")"	nan		
-192	child	alor1247-munas	Alorese-Munaseli	Austronesian		'anaʔ	child (1SG)	nan	"('child', 'alor1247-besar', ""'anaŋ"")"	nan		
-192	child	alor1247-munas	Alorese-Munaseli	Austronesian		'anaŋ	nan	nan	"('child', 'alor1247-besar', ""'anaŋ"")"	nan		
+190	person	alor1247-munas	Alorese-Munaseli	Austronesian		'ata	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+190	person	alor1247-munas	Alorese-Munaseli	Austronesian		mə'sia	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+191	name	alor1247-munas	Alorese-Munaseli	Austronesian		'naraŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+191	name	alor1247-munas	Alorese-Munaseli	Austronesian		'naraʔ	name (1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+192	child	alor1247-munas	Alorese-Munaseli	Austronesian		'ana	nan	nan	('child', 'adon1237', 'ˈʔanaʔ')	nan		
+192	child	alor1247-munas	Alorese-Munaseli	Austronesian		'anaʔ	child (1SG)	nan	('child', 'adon1237', 'ˈʔanaʔ')	nan		
+192	child	alor1247-munas	Alorese-Munaseli	Austronesian		'anaŋ	nan	nan	('child', 'adon1237', 'ˈʔanaʔ')	nan		
 193	man	alor1247-munas	Alorese-Munaseli	Austronesian		k'lake	nan	nan	('man', 'adon1237', 'ˈʔama_lake')	nan		
 194	woman	alor1247-munas	Alorese-Munaseli	Austronesian		k'wae	nan	nan	"('woman', 'alor1247-baran', ""ka'fae"")"	nan		
 195	husband	alor1247-munas	Alorese-Munaseli	Austronesian		k'lake	nan	nan	('husband', 'adon1237', 'ˈlakhẽ')	nan		
@@ -276,101 +276,101 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 198	father	alor1247-munas	Alorese-Munaseli	Austronesian		'ama	nan	nan	('father', 'adon1237', 'ˈʔama')	nan		
 198	father	alor1247-munas	Alorese-Munaseli	Austronesian		'amaŋ	nan	nan	('father', 'adon1237', 'ˈʔama')	nan		
 199	older sibling	alor1247-munas	Alorese-Munaseli	Austronesian		'tata	nan	nan	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	nan		
-199	older sibling	alor1247-munas	Alorese-Munaseli	Austronesian		'kakaŋ	nan	nan	('older sibling', 'adon1237', 'kaka')	nan		
+199	older sibling	alor1247-munas	Alorese-Munaseli	Austronesian		'kakaŋ	nan	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan		
 200	younger sibling	alor1247-munas	Alorese-Munaseli	Austronesian		'kau	nan	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	nan		
 200	younger sibling	alor1247-munas	Alorese-Munaseli	Austronesian		'ulːa	minimal pair 'ula' snake and 'ulla' younger sibling	nan	"('younger sibling', 'alor1247-munas', ""'ulːa"")"	nan		
-200	younger sibling	alor1247-munas	Alorese-Munaseli	Austronesian		'ariŋ	nan	nan	('younger sibling', 'adon1237', 'ˈʔarim')	nan		
-201	bride price	alor1247-munas	Alorese-Munaseli	Austronesian		k'wae 'wɛliŋ	nan	nan	('bride price', 'adon1237', 'weli')	nan		
+200	younger sibling	alor1247-munas	Alorese-Munaseli	Austronesian		'ariŋ	nan	nan	('younger sibling', 'adan1251-otvai', 'di')	nan		
+201	bride price	alor1247-munas	Alorese-Munaseli	Austronesian		k'wae 'wɛliŋ	nan	nan	('bride price', 'abui1241-fuime', 'he-bel')	nan		
 202	slave	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɛnta 	nan	nan	"('slave', 'alor1247-munas', ""b'lɛnta_"")"	nan		
 203	1sg	alor1247-munas	Alorese-Munaseli	Austronesian		'go	nan	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan		
 204	2sg (informal)	alor1247-munas	Alorese-Munaseli	Austronesian		'mo	nan	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		
-205	2sg (polite)	alor1247-munas	Alorese-Munaseli	Austronesian		'mo	nan	nan	"('2sg (polite)', 'alor1247-baran', ""'mɔ:"")"	nan		
-206	3sg	alor1247-munas	Alorese-Munaseli	Austronesian		'ro	nan	nan	"('3sg', 'alor1247-munas', ""'ro"")"	nan		
-206	3sg	alor1247-munas	Alorese-Munaseli	Austronesian		'no	nan	nan	('3sg', 'adon1237', 'ˈnaʔɛ')	nan		
-207	1pl excl	alor1247-munas	Alorese-Munaseli	Austronesian		'kame	nan	nan	"('1pl excl', 'alor1247-besar', ""'kame"")"	nan		
-208	1pl incl	alor1247-munas	Alorese-Munaseli	Austronesian		'tite	nan	nan	"('1pl incl', 'alor1247-besar', ""'ite"")"	nan		
-208	1pl incl	alor1247-munas	Alorese-Munaseli	Austronesian		'ite	nan	nan	"('1pl incl', 'alor1247-besar', ""'ite"")"	nan		
-209	2pl	alor1247-munas	Alorese-Munaseli	Austronesian		'mi	nan	nan	('2pl', 'adon1237', 'ˈmio')	nan		
-210	3pl	alor1247-munas	Alorese-Munaseli	Austronesian		'we	nan	nan	"('3pl', 'alor1247-baran', ""'fe:_sa'kali"")"	nan		
-211	no; not	alor1247-munas	Alorese-Munaseli	Austronesian		'lahɛʔ	nan	nan	('no; not', 'adon1237', 'ˈhalaʔ')	nan		
-211	no; not	alor1247-munas	Alorese-Munaseli	Austronesian		'lahɛ	nan	nan	('no; not', 'adon1237', 'ˈhalaʔ')	nan		
-212	and	alor1247-munas	Alorese-Munaseli	Austronesian		nəŋ	nan	nan	('and', 'adon1237', 'ˈtaliʔ')	nan		
-212	and	alor1247-munas	Alorese-Munaseli	Austronesian		'naŋ	nan	nan	('and', 'adon1237', 'ˈtaliʔ')	nan		
-214	if	alor1247-munas	Alorese-Munaseli	Austronesian		nəm kə'te kə'ne	nan	nan	"('if', 'alor1247-munas', ""nəm_kə'te_kə'ne"")"	nan		
-215	with	alor1247-munas	Alorese-Munaseli	Austronesian		'naŋ	nan	nan	('with', 'adon1237', 'ˈtaliʔ')	nan		
-216	what?	alor1247-munas	Alorese-Munaseli	Austronesian		'pai	nan	nan	('what?', 'alor1247-baran', 'pei')	nan		
-216	what?	alor1247-munas	Alorese-Munaseli	Austronesian		'apai	nan	nan	('what?', 'alor1247-baran', 'pei')	nan		
+205	2sg (polite)	alor1247-munas	Alorese-Munaseli	Austronesian		'mo	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+206	3sg	alor1247-munas	Alorese-Munaseli	Austronesian		'ro	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+206	3sg	alor1247-munas	Alorese-Munaseli	Austronesian		'no	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+207	1pl excl	alor1247-munas	Alorese-Munaseli	Austronesian		'kame	nan	nan	('1pl excl', 'adon1237', 'ˈkame')	nan		
+208	1pl incl	alor1247-munas	Alorese-Munaseli	Austronesian		'tite	nan	nan	('1pl incl', 'adon1237', 'ˈtite')	nan		
+208	1pl incl	alor1247-munas	Alorese-Munaseli	Austronesian		'ite	nan	nan	('1pl incl', 'adon1237', 'ˈtite')	nan		
+209	2pl	alor1247-munas	Alorese-Munaseli	Austronesian		'mi	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+210	3pl	alor1247-munas	Alorese-Munaseli	Austronesian		'we	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+211	no; not	alor1247-munas	Alorese-Munaseli	Austronesian		'lahɛʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+211	no; not	alor1247-munas	Alorese-Munaseli	Austronesian		'lahɛ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+212	and	alor1247-munas	Alorese-Munaseli	Austronesian		nəŋ	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
+212	and	alor1247-munas	Alorese-Munaseli	Austronesian		'naŋ	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
+214	if	alor1247-munas	Alorese-Munaseli	Austronesian		nəm kə'te kə'ne	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+215	with	alor1247-munas	Alorese-Munaseli	Austronesian		'naŋ	nan	nan	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
+216	what?	alor1247-munas	Alorese-Munaseli	Austronesian		'pai	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+216	what?	alor1247-munas	Alorese-Munaseli	Austronesian		'apai	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 217	who?	alor1247-munas	Alorese-Munaseli	Austronesian		'hɛwai	nan	nan	"('who?', 'alor1247-munas', ""'hɛwai"")"	nan		
 217	who?	alor1247-munas	Alorese-Munaseli	Austronesian		'haru	nan	nan	"('who?', 'alor1247-besar', ""'fiaru"")"	nan		
 217	who?	alor1247-munas	Alorese-Munaseli	Austronesian		hewai'aru	nan	nan	"('who?', 'alor1247-munas', ""'hɛwai"")"	nan		
 218	where?	alor1247-munas	Alorese-Munaseli	Austronesian		r'ga	nan	nan	"('where?', 'alor1247-munas', ""r'ga"")"	nan		
 218	where?	alor1247-munas	Alorese-Munaseli	Austronesian		r'ga 'naŋ	from where	nan	"('where?', 'alor1247-munas', ""r'ga"")"	nan		
-219	when?	alor1247-munas	Alorese-Munaseli	Austronesian		ɛr'pira	nan	nan	"('when?', 'alor1247-baran', ""ɛrpɛ'hɛlɛ"")"	nan		
+219	when?	alor1247-munas	Alorese-Munaseli	Austronesian		ɛr'pira	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 220	why?	alor1247-munas	Alorese-Munaseli	Austronesian		pai 'naŋ	nan	nan	"('why?', 'alor1247-baran', ""'peinã:"")"	nan		
 221	how much; how many?	alor1247-munas	Alorese-Munaseli	Austronesian		'pira	nan	nan	('how much; how many?', 'adon1237', 'ˈpira')	nan		
-222	how?	alor1247-munas	Alorese-Munaseli	Austronesian		nəm'ga	nan	nan	"('how?', 'alor1247-besar', ""namɔ'naŋga"")"	nan		
-222	how?	alor1247-munas	Alorese-Munaseli	Austronesian		nəmən;ga	nan	nan	"('how?', 'alor1247-besar', ""namɔ'naŋga"")"	nan		
-223	this	alor1247-munas	Alorese-Munaseli	Austronesian		'ke	nan	nan	"('this', 'alor1247-munas', ""'ke"")"	nan		
+222	how?	alor1247-munas	Alorese-Munaseli	Austronesian		nəm'ga	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+222	how?	alor1247-munas	Alorese-Munaseli	Austronesian		nəmən;ga	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+223	this	alor1247-munas	Alorese-Munaseli	Austronesian		'ke	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 224	that	alor1247-munas	Alorese-Munaseli	Austronesian		kə'tːe	that (MED)	nan	"('that', 'alor1247-baran', "",ka'te"")"	nan		
 224	that	alor1247-munas	Alorese-Munaseli	Austronesian		kwə'lːi	that (DIST)	nan	"('that', 'alor1247-munas', ""kwə'lːi"")"	nan		
 225	at	alor1247-munas	Alorese-Munaseli	Austronesian		və'lːi	nan	nan	"('at', 'alor1247-besar', ""'ali"")"	nan		
 225	at	alor1247-munas	Alorese-Munaseli	Austronesian		go 'ke 'laraŋ 'ɔnɔŋ	1SG at road inside	nan	"('at', 'alor1247-munas', ""go_'ke_'laraŋ_'ɔnɔŋ"")"	nan		
-226	in; inside	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔnɔŋ	nan	nan	('in; inside', 'adon1237', 'ˈʔɔnʔeʔ')	nan		
-227	here	alor1247-munas	Alorese-Munaseli	Austronesian		r'kɛ	nan	nan	"('here', 'alor1247-munas', ""r'kɛ"")"	nan		
-228	there	alor1247-munas	Alorese-Munaseli	Austronesian		rvə'lːi	nan	nan	"('there', 'alor1247-besar', ""'fali_'kali"")"	nan		
-228	there	alor1247-munas	Alorese-Munaseli	Austronesian		rkwə'lːi	nan	nan	"('there', 'alor1247-besar', ""'fali_'kali"")"	nan		
-228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'tːi	there (above)	nan	"('there', 'alor1247-baran', ""'alika'le:"")"	nan		
-228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'tːi  'lɔlɔŋ	there above	nan	"('there', 'alor1247-baran', ""'alika'le:"")"	nan		
-228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'lːi	there (below)	nan	"('there', 'alor1247-besar', ""'fali_'kali"")"	nan		
-228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'lːi 'lauŋ	there below	nan	"('there', 'alor1247-besar', ""'fali_'kali"")"	nan		
-229	above	alor1247-munas	Alorese-Munaseli	Austronesian		'lɔlɔŋ	nan	nan	('above', 'adon1237', 'ˈbloʔlõ')	nan		
+226	in; inside	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔnɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+227	here	alor1247-munas	Alorese-Munaseli	Austronesian		r'kɛ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+228	there	alor1247-munas	Alorese-Munaseli	Austronesian		rvə'lːi	nan	nan	('there', 'abui1241-petle', 'we')	nan		
+228	there	alor1247-munas	Alorese-Munaseli	Austronesian		rkwə'lːi	nan	nan	('there', 'abui1241-petle', 'we')	nan		
+228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'tːi	there (above)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'tːi  'lɔlɔŋ	there above	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'lːi	there (below)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+228	there	alor1247-munas	Alorese-Munaseli	Austronesian		kə'lːi 'lauŋ	there below	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+229	above	alor1247-munas	Alorese-Munaseli	Austronesian		'lɔlɔŋ	nan	nan	('above', 'adon1237', 'ˈbloʔlõ,_lolõ')	nan		
 230	below	alor1247-munas	Alorese-Munaseli	Austronesian		'lauŋ	nan	nan	"('below', 'alor1247-besar', ""'ali_'laŋ"")"	nan		
-231	left (side)	alor1247-munas	Alorese-Munaseli	Austronesian		'hɛkɛŋ	nan	nan	('left (side)', 'adon1237', 'nekeʔ')	nan		
-232	right (side)	alor1247-munas	Alorese-Munaseli	Austronesian		'dikɛŋ	nan	nan	('right (side)', 'abui1241-fuime', 'teikaŋ')	nan		
+231	left (side)	alor1247-munas	Alorese-Munaseli	Austronesian		'hɛkɛŋ	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+232	right (side)	alor1247-munas	Alorese-Munaseli	Austronesian		'dikɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 233	a few	alor1247-munas	Alorese-Munaseli	Austronesian		'wisuʔ	nan	nan	"('a few', 'alor1247-besar', ""'usu"")"	nan		
 234	all	alor1247-munas	Alorese-Munaseli	Austronesian		s'kaliʔ	nan	nan	"('all', 'alor1247-baran', ""'ʔata_sa'kali"")"	nan		
 234	all	alor1247-munas	Alorese-Munaseli	Austronesian		sə'kali	nan	nan	"('all', 'alor1247-baran', ""'ʔata_sa'kali"")"	nan		
 235	many	alor1247-munas	Alorese-Munaseli	Austronesian		'rasa	nan	nan	"('many', 'alor1247-munas', ""'rasa"")"	nan		
-236	animal	alor1247-munas	Alorese-Munaseli	Austronesian		bi'nata	nan	nan	"('animal', 'alor1247-besar', ""bi'nataŋ"")"	nan		
+236	animal	alor1247-munas	Alorese-Munaseli	Austronesian		bi'nata	nan	nan	('animal', 'adan1251-otvai', 'binanta')	nan		
 237	fowl	alor1247-munas	Alorese-Munaseli	Austronesian		'wuluk 'gapal	nan	nan	"('fowl', 'alor1247-munas', ""'wuluk_'gapal"")"	nan		
 238	dog	alor1247-munas	Alorese-Munaseli	Austronesian		'ahɔ	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan		
 238	dog	alor1247-munas	Alorese-Munaseli	Austronesian		'hao	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan		
 239	pig	alor1247-munas	Alorese-Munaseli	Austronesian		'wawe	nan	nan	('pig', 'abui1241-fuime', 'fe')	nan		
 240	chicken	alor1247-munas	Alorese-Munaseli	Austronesian		'manuʔ	nan	nan	"('chicken', 'alor1247-besar', ""'manu"")"	nan		
-241	rat	alor1247-munas	Alorese-Munaseli	Austronesian		'more	nan	nan	('rat', 'adon1237', 'ˈkromɛ')	nan		
+241	rat	alor1247-munas	Alorese-Munaseli	Austronesian		'more	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 242	lizard	alor1247-munas	Alorese-Munaseli	Austronesian		tə'kːɛʔ	nan	nan	('lizard', 'abui1241-fuime', 'tekok')	nan		
 243	civet cat	alor1247-munas	Alorese-Munaseli	Austronesian		'lakɔ	nan	nan	('civet cat', 'adon1237', 'ˈlako')	nan		
 244	deer	alor1247-munas	Alorese-Munaseli	Austronesian		'ruha	nan	nan	('deer', 'abui1241-takal', 'ä.jut')	nan		
 245	frog	alor1247-munas	Alorese-Munaseli	Austronesian		mə'tːɔ	nan	nan	('frog', 'adon1237', 'ˈmɜto')	nan		
 246	bat	alor1247-munas	Alorese-Munaseli	Austronesian		'mikɛ	nan	nan	"('bat', 'alor1247-munas', ""'mikɛ"")"	nan		
-247	flying fox; fruit bat	alor1247-munas	Alorese-Munaseli	Austronesian		mi'hua	nan	nan	('flying fox; fruit bat', 'adan1251-otvai', 'madiruŋ')	nan		
-249	tail	alor1247-munas	Alorese-Munaseli	Austronesian		'ikuk	nan	nan	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
+247	flying fox; fruit bat	alor1247-munas	Alorese-Munaseli	Austronesian		mi'hua	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+249	tail	alor1247-munas	Alorese-Munaseli	Austronesian		'ikuk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 250	fish	alor1247-munas	Alorese-Munaseli	Austronesian		'ikaŋ	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan		
 251	shark	alor1247-munas	Alorese-Munaseli	Austronesian		'io	nan	nan	('shark', 'adon1237', 'ˈhio')	nan		
 252	whale	alor1247-munas	Alorese-Munaseli	Austronesian		k'laruʔ	nan	nan	"('whale', 'alor1247-besar', ""'ikaŋ_ka'laru"")"	nan		
 253	dolphin	alor1247-munas	Alorese-Munaseli	Austronesian		'kudʒa	nan	nan	"('dolphin', 'alor1247-besar', ""'ikaŋ_'kudʒae"")"	nan		
 254	crocodile	alor1247-munas	Alorese-Munaseli	Austronesian		'bapa	nan	nan	"('crocodile', 'alor1247-baran', ""'bapa"")"	nan		
-255	monitor lizard	alor1247-munas	Alorese-Munaseli	Austronesian		'tɛto 'damar	nan	nan	"('monitor lizard', 'alor1247-munas', ""'tɛto_'damar"")"	nan		
+255	monitor lizard	alor1247-munas	Alorese-Munaseli	Austronesian		'tɛto 'damar	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 256	starfish	alor1247-munas	Alorese-Munaseli	Austronesian		ta'pinaʔ	nan	nan	"('starfish', 'alor1247-munas', ""ta'pinaʔ"")"	nan		
 257	turtle	alor1247-munas	Alorese-Munaseli	Austronesian		'kea	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		
-258	turtle (saltwater)	alor1247-munas	Alorese-Munaseli	Austronesian		'kea	nan	nan	('turtle (saltwater)', 'adon1237', 'ˈkeʔa')	nan		
-259	bird	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔlɔŋ	nan	nan	"('bird', 'alor1247-baran', ""'koloŋ"")"	nan		
-260	wing	alor1247-munas	Alorese-Munaseli	Austronesian		'kapik	nan	nan	('wing', 'abui1241-fuime', 'ha-bakai')	nan		
+258	turtle (saltwater)	alor1247-munas	Alorese-Munaseli	Austronesian		'kea	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		
+259	bird	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔlɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+260	wing	alor1247-munas	Alorese-Munaseli	Austronesian		'kapik	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 261	claw	alor1247-munas	Alorese-Munaseli	Austronesian		'kɛla 'leiŋ	nan	nan	('claw', 'adon1237', 'kɜˈmukure')	nan		
 262	feather	alor1247-munas	Alorese-Munaseli	Austronesian		'wuluk	nan	nan	('feather', 'adan1251-lawah', 'hiu_wolo_(folo)')	nan		
-263	horn	alor1247-munas	Alorese-Munaseli	Austronesian		'huar	nan	nan	('horn', 'adon1237', 'taˈrã')	nan		
+263	horn	alor1247-munas	Alorese-Munaseli	Austronesian		'huar	nan	nan	"('horn', 'alor1247-baran', ""ru'ha:"")"	nan		
 264	snake	alor1247-munas	Alorese-Munaseli	Austronesian		'ula	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan		
 265	scorpion	alor1247-munas	Alorese-Munaseli	Austronesian		'ala	nan	nan	"('scorpion', 'alor1247-besar', ""'ala"")"	nan		
 266	egg	alor1247-munas	Alorese-Munaseli	Austronesian		tə'luk	nan	nan	('egg', 'adon1237', 'ˈtɛluk')	nan		
 267	earthworm	alor1247-munas	Alorese-Munaseli	Austronesian		'ula 'wali	nan	nan	('earthworm', 'adon1237', 'kalaˈwala')	nan		
 268	butterfly	alor1247-munas	Alorese-Munaseli	Austronesian		krə'bɛŋ	nan	nan	"('butterfly', 'alor1247-munas', ""krə'bɛŋ"")"	nan		
-269	fly (n.)	alor1247-munas	Alorese-Munaseli	Austronesian		'namuʔ	nan	nan	('fly (n.)', 'adon1237', 'kɜˈnɜpũ')	nan		
+269	fly (n.)	alor1247-munas	Alorese-Munaseli	Austronesian		'namuʔ	nan	nan	('blind', 'adon1237', 'kɜˈnisũ,_kɜˈbuʔlɔ̃')	nan		
 270	mosquito	alor1247-munas	Alorese-Munaseli	Austronesian		'kapːuŋ	nan	nan	"('mosquito', 'alor1247-besar', ""'kapuŋ"")"	nan		
 271	ant	alor1247-munas	Alorese-Munaseli	Austronesian		kə'rːek	nan	nan	('ant', 'adon1237', 'kɜˈmɜrɜk')	nan		
 272	grasshopper	alor1247-munas	Alorese-Munaseli	Austronesian		'marɔʔ	nan	nan	"('grasshopper', 'alor1247-munas', ""'marɔʔ"")"	nan		
-273	locust	alor1247-munas	Alorese-Munaseli	Austronesian		'mɛruŋ b'lurɔŋ	nan	nan	"('locust', 'abui1241-takal', ""kä.'me̞.liŋ"")"	nan		
-273	locust	alor1247-munas	Alorese-Munaseli	Austronesian		'mɛruŋ 'gihi	nan	nan	"('locust', 'abui1241-takal', ""kä.'me̞.liŋ"")"	nan		
-273	locust	alor1247-munas	Alorese-Munaseli	Austronesian		'mɛruŋ 	nan	nan	"('locust', 'abui1241-takal', ""kä.'me̞.liŋ"")"	nan		
+273	locust	alor1247-munas	Alorese-Munaseli	Austronesian		'mɛruŋ b'lurɔŋ	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+273	locust	alor1247-munas	Alorese-Munaseli	Austronesian		'mɛruŋ 'gihi	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
+273	locust	alor1247-munas	Alorese-Munaseli	Austronesian		'mɛruŋ 	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
 274	spider	alor1247-munas	Alorese-Munaseli	Austronesian		kaŋ'ga 'rukaʔ	nan	nan	"('spider', 'alor1247-besar', ""ka'raŋga"")"	nan		
 275	headlice	alor1247-munas	Alorese-Munaseli	Austronesian		'kutɔ	nan	nan	('headlice', 'adon1237', 'ˈkutɔ')	nan		
 276	louse eggs	alor1247-munas	Alorese-Munaseli	Austronesian		k'lɛhɛŋ	nan	nan	('louse eggs', 'adon1237', 'kɜˈlɛhɛ̃')	nan		
@@ -379,59 +379,59 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 278	flea	alor1247-munas	Alorese-Munaseli	Austronesian		mə'rːɛ	flea (small one that jumps)	nan	"('flea', 'alor1247-munas', ""mə'rːɛ"")"	nan		
 279	louse (clothing)	alor1247-munas	Alorese-Munaseli	Austronesian		knə'pɛr	nan	nan	"('louse (clothing)', 'alor1247-munas', ""knə'pɛr"")"	nan		
 280	bedbug	alor1247-munas	Alorese-Munaseli	Austronesian		'madʒuŋ	nan	nan	('bedbug', 'abui1241-fuime', 'taamek')	nan		
-281	big	alor1247-munas	Alorese-Munaseli	Austronesian		'beaʔ	nan	nan	('big', 'adon1237', 'ˈbele')	nan		
-281	big	alor1247-munas	Alorese-Munaseli	Austronesian		'peiŋ	nan	nan	('big', 'adon1237', 'ˈbele')	nan		
+281	big	alor1247-munas	Alorese-Munaseli	Austronesian		'beaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+281	big	alor1247-munas	Alorese-Munaseli	Austronesian		'peiŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 282	small	alor1247-munas	Alorese-Munaseli	Austronesian		'anaŋ	nan	nan	"('small', 'alor1247-baran', ""'an:aŋ"")"	nan		
 282	small	alor1247-munas	Alorese-Munaseli	Austronesian		'kihu	nan	nan	"('small', 'alor1247-munas', ""'kihu"")"	nan		
 283	old; worn (house)	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'basaŋ	nan	nan	"('old; worn (house)', 'alor1247-besar', ""'uma_'basaŋ"")"	nan		
 284	new (house)	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'wunɔŋ	nan	nan	('new (house)', 'alor1247-baran', 'funɔ')	nan		
 285	old (people)	alor1247-munas	Alorese-Munaseli	Austronesian		mə'sia 'tua	nan	nan	"('old (people)', 'alor1247-munas', ""mə'sia_'tua"")"	nan		
-286	young (people)	alor1247-munas	Alorese-Munaseli	Austronesian		mə'sia 'muda	nan	nan	"('young (people)', 'abui1241-takal', ""'mä:.jɪk"")"	nan		
-286	young (people)	alor1247-munas	Alorese-Munaseli	Austronesian		bik'wae	young girl	nan	"('young (people)', 'alor1247-besar', ""bei'kafae"")"	nan		
-286	young (people)	alor1247-munas	Alorese-Munaseli	Austronesian		bi'lamɛŋ	young boy	nan	"('young (people)', 'alor1247-besar', ""bei'lamɛ̃"")"	nan		
+286	young (people)	alor1247-munas	Alorese-Munaseli	Austronesian		mə'sia 'muda	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+286	young (people)	alor1247-munas	Alorese-Munaseli	Austronesian		bik'wae	young girl	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+286	young (people)	alor1247-munas	Alorese-Munaseli	Austronesian		bi'lamɛŋ	young boy	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 287	lazy	alor1247-munas	Alorese-Munaseli	Austronesian		p'lihaŋ	nan	nan	"('lazy', 'alor1247-munas', ""p'lihaŋ"")"	nan		
 288	hot	alor1247-munas	Alorese-Munaseli	Austronesian		p'latiŋ	nan	nan	('hot', 'adon1237', 'ˈplate')	nan		
 289	cold	alor1247-munas	Alorese-Munaseli	Austronesian		k'luaŋ	nan	nan	('cold', 'abui1241-fuime', 'palata')	nan		
 290	good	alor1247-munas	Alorese-Munaseli	Austronesian		'dikɛk	nan	nan	"('good', 'alor1247-baran', ""'dik:ɛ"")"	nan		
 291	bad	alor1247-munas	Alorese-Munaseli	Austronesian		'rupaŋ 'lahɛ	nan	nan	"('bad', 'alor1247-munas', ""'rupaŋ_'lahɛ"")"	nan		
 292	full	alor1247-munas	Alorese-Munaseli	Austronesian		pə'nɔŋ	nan	nan	('full', 'adon1237', 'ˈpɜnɔ')	nan		
-293	empty	alor1247-munas	Alorese-Munaseli	Austronesian		'amuk	nan	nan	('empty', 'adon1237', 'ˈʔaʔmũ')	nan		
+293	empty	alor1247-munas	Alorese-Munaseli	Austronesian		'amuk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 294	near	alor1247-munas	Alorese-Munaseli	Austronesian		'dahɛʔ	nan	nan	('near', 'adon1237', 'ˈdahe')	nan		
 295	far	alor1247-munas	Alorese-Munaseli	Austronesian		'doaŋ	nan	nan	('far', 'adon1237', 'ˈdɔɑ̃')	nan		
 296	wet	alor1247-munas	Alorese-Munaseli	Austronesian		'ɛlɛk	nan	nan	"('wet', 'alor1247-baran', ""'ɛlɛ"")"	nan		
 297	dry	alor1247-munas	Alorese-Munaseli	Austronesian		'marak	nan	nan	('dry', 'adon1237', 'ˈmaʔrã')	nan		
-298	dry in sun	alor1247-munas	Alorese-Munaseli	Austronesian		'paiŋ 	"cloth that dried in the sun is ""kondo marak"""	nan	('dry in sun', 'adan1251-lawah', 'fɛd_poi')	nan		
-299	long	alor1247-munas	Alorese-Munaseli	Austronesian		b'lahak	nan	nan	"('long', 'abui1241-takal', ""lɔ.'hu"")"	nan		
-300	tall	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɔlɔk	nan	nan	"('tall', 'alor1247-besar', ""ba'lɔlɔ"")"	nan		
-301	short	alor1247-munas	Alorese-Munaseli	Austronesian		mə'ku	nan	nan	"('short', 'alor1247-besar', ""'maku"")"	nan		
-302	short (people)	alor1247-munas	Alorese-Munaseli	Austronesian		'wɛrɔʔ	nan	nan	('short (people)', 'adon1237', 'rɜʔˈrẽ')	nan		
+298	dry in sun	alor1247-munas	Alorese-Munaseli	Austronesian		'paiŋ 	"cloth that dried in the sun is ""kondo marak"""	nan	('angry', 'lamm1241', 'arugga')	nan		
+299	long	alor1247-munas	Alorese-Munaseli	Austronesian		b'lahak	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+300	tall	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɔlɔk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+301	short	alor1247-munas	Alorese-Munaseli	Austronesian		mə'ku	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+302	short (people)	alor1247-munas	Alorese-Munaseli	Austronesian		'wɛrɔʔ	nan	nan	('foot', 'adon1237', 'ˈleikɜt_tɜˈnɑpʔã')	nan		
 303	thin (non-human)	alor1247-munas	Alorese-Munaseli	Austronesian		'nipi	nan	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		
 303	thin (non-human)	alor1247-munas	Alorese-Munaseli	Austronesian		'nipi̤	nan	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		
 304	skinny (human)	alor1247-munas	Alorese-Munaseli	Austronesian		'kipɛk	nan	nan	"('skinny (human)', 'alor1247-munas', ""'kipɛk"")"	nan		
 304	skinny (human)	alor1247-munas	Alorese-Munaseli	Austronesian		'kahaŋ	skinny (less frequent)	nan	"('skinny (human)', 'alor1247-munas', ""'kahaŋ"")"	nan		
 305	thick	alor1247-munas	Alorese-Munaseli	Austronesian		'gapal	nan	nan	"('thick', 'alor1247-baran', ""'gapa"")"	nan		
-306	round	alor1247-munas	Alorese-Munaseli	Austronesian		'pɔlik	nan	nan	"('round', 'alor1247-munas', ""'pɔlik"")"	nan		
-307	dark	alor1247-munas	Alorese-Munaseli	Austronesian		'kuiŋ	nan	nan	"('dark', 'alor1247-besar', ""'kui"")"	nan		
+306	round	alor1247-munas	Alorese-Munaseli	Austronesian		'pɔlik	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+307	dark	alor1247-munas	Alorese-Munaseli	Austronesian		'kuiŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 308	light	alor1247-munas	Alorese-Munaseli	Austronesian		ɛ'luŋ	nan	nan	"('light', 'alor1247-munas', ""ɛ'luŋ"")"	nan		
 309	dirty	alor1247-munas	Alorese-Munaseli	Austronesian		k'litaʔ	nan	nan	"('dirty', 'alor1247-baran', ""ka'lit:a"")"	nan		
 310	clean	alor1247-munas	Alorese-Munaseli	Austronesian		'lahɛŋ	nan	nan	"('clean', 'alor1247-besar', ""'lahiŋ"")"	nan		
 310	clean	alor1247-munas	Alorese-Munaseli	Austronesian		'lahɛk	nan	nan	"('clean', 'alor1247-besar', ""'lahiŋ"")"	nan		
-311	sharp	alor1247-munas	Alorese-Munaseli	Austronesian		də'kɛk	nan	nan	"('sharp', 'alor1247-besar', ""'dakːɛ"")"	nan		
-311	sharp	alor1247-munas	Alorese-Munaseli	Austronesian		də'kɛ 'tɔrak	nan	nan	"('sharp', 'alor1247-besar', ""'dakːɛ"")"	nan		
+311	sharp	alor1247-munas	Alorese-Munaseli	Austronesian		də'kɛk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+311	sharp	alor1247-munas	Alorese-Munaseli	Austronesian		də'kɛ 'tɔrak	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 312	blunt; dull	alor1247-munas	Alorese-Munaseli	Austronesian		'pouŋ	nan	nan	"('blunt; dull', 'alor1247-munas', ""'pouŋ"")"	nan		
 313	heavy	alor1247-munas	Alorese-Munaseli	Austronesian		'bak	nan	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan		
 313	heavy	alor1247-munas	Alorese-Munaseli	Austronesian		'baʔ	I think this is the most frequent realization	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan		
 314	light (weight)	alor1247-munas	Alorese-Munaseli	Austronesian		'bɛrɛ	nan	nan	"('light (weight)', 'alor1247-besar', ""'bɛru"")"	nan		
-315	straight	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔlɔŋ	nan	nan	('straight', 'abui1241-fuime', 'mulaŋ')	nan		
+315	straight	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔlɔŋ	nan	nan	('straight', 'abui1241-fuime', 'mulang')	nan		
 316	wide	alor1247-munas	Alorese-Munaseli	Austronesian		p'lɛŋaŋ	nan	nan	('wide', 'adon1237', 'ˈbeleʔ')	nan		
-317	narrow	alor1247-munas	Alorese-Munaseli	Austronesian		'kupɔʔ	nan	nan	"('narrow', 'alor1247-besar', ""'kipɛ"")"	nan		
+317	narrow	alor1247-munas	Alorese-Munaseli	Austronesian		'kupɔʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 318	correct	alor1247-munas	Alorese-Munaseli	Austronesian		'murɔk	nan	nan	('correct', 'adon1237', 'muʔˈrɜ̃')	nan		
 319	wrong	alor1247-munas	Alorese-Munaseli	Austronesian		'hala	wrong (1SG)	nan	('wrong', 'abui1241-fuime', 'hasala')	nan		
 319	wrong	alor1247-munas	Alorese-Munaseli	Austronesian		'halaŋ	nan	nan	('wrong', 'abui1241-fuime', 'hasala')	nan		
-320	ripe	alor1247-munas	Alorese-Munaseli	Austronesian		'tahak	nan	nan	('ripe', 'adan1251-otvai', 'ten')	nan		
-321	rotten	alor1247-munas	Alorese-Munaseli	Austronesian		'wouʔ	nan	nan	"('rotten', 'alor1247-besar', ""'fou"")"	nan		
-321	rotten	alor1247-munas	Alorese-Munaseli	Austronesian		'ulɔr 'mirɔʔ	rotten (lit. that has worms)	nan	"('rotten', 'alor1247-munas', ""'ulɔr_'mirɔʔ"")"	nan		
-322	bitter	alor1247-munas	Alorese-Munaseli	Austronesian		'paiʔ	nan	nan	"('bitter', 'alor1247-besar', ""'pei"")"	nan		
+320	ripe	alor1247-munas	Alorese-Munaseli	Austronesian		'tahak	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+321	rotten	alor1247-munas	Alorese-Munaseli	Austronesian		'wouʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+321	rotten	alor1247-munas	Alorese-Munaseli	Austronesian		'ulɔr 'mirɔʔ	rotten (lit. that has worms)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+322	bitter	alor1247-munas	Alorese-Munaseli	Austronesian		'paiʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 323	sweet	alor1247-munas	Alorese-Munaseli	Austronesian		tə'gɛ	nan	nan	"('sweet', 'alor1247-besar', ""'taŋge"")"	nan		
 324	sour	alor1247-munas	Alorese-Munaseli	Austronesian		'giloŋ	nan	nan	('sour', 'adon1237', 'ˈɡilo')	nan		
 325	salty	alor1247-munas	Alorese-Munaseli	Austronesian		pə'rːrɔ	nan	nan	('salty', 'adon1237', 'ˈpɜro')	nan		
@@ -439,34 +439,34 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 327	smooth	alor1247-munas	Alorese-Munaseli	Austronesian		'mɛluk	nan	nan	('smooth', 'adon1237', 'kɜˈmelut')	nan		
 327	smooth	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɔhɔʔ	nan	nan	"('smooth', 'alor1247-munas', ""b'lɔhɔʔ"")"	nan		
 328	rough	alor1247-munas	Alorese-Munaseli	Austronesian		'bogal	nan	nan	"('rough', 'alor1247-munas', ""'bogal"")"	nan		
-329	black	alor1247-munas	Alorese-Munaseli	Austronesian		'mitɛŋ	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
+329	black	alor1247-munas	Alorese-Munaseli	Austronesian		'mitɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 330	white	alor1247-munas	Alorese-Munaseli	Austronesian		'burak	nan	nan	('white', 'adon1237', 'ˈburaʔ')	nan		
-331	red	alor1247-munas	Alorese-Munaseli	Austronesian		'meaŋ	nan	nan	"('red', 'alor1247-besar', ""'meaŋ"")"	nan		
+331	red	alor1247-munas	Alorese-Munaseli	Austronesian		'meaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 332	green	alor1247-munas	Alorese-Munaseli	Austronesian		'taŋaŋ	nan	nan	"('green', 'alor1247-munas', ""'taŋaŋ"")"	nan		
 333	blue	alor1247-munas	Alorese-Munaseli	Austronesian		'idʒɔŋ	nan	nan	"('blue', 'alor1247-munas', ""'idʒɔŋ"")"	nan		
-334	yellow	alor1247-munas	Alorese-Munaseli	Austronesian		'kumɔŋ	nan	nan	"('yellow', 'alor1247-besar', ""'kumɔŋ"")"	nan		
-335	sick; painful	alor1247-munas	Alorese-Munaseli	Austronesian		b'laraŋ	nan	nan	('sick; painful', 'adon1237', 'bɜˈrarʔa')	nan		
+334	yellow	alor1247-munas	Alorese-Munaseli	Austronesian		'kumɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+335	sick; painful	alor1247-munas	Alorese-Munaseli	Austronesian		b'laraŋ	nan	nan	('sick; painful', 'adon1237', 'ˈbrara,_bɜˈrarʔa')	nan		
 336	shy; ashamed	alor1247-munas	Alorese-Munaseli	Austronesian		m'niaŋ	nan	nan	"('shy; ashamed', 'alor1247-besar', ""'maniaŋ"")"	nan		
 337	thirsty	alor1247-munas	Alorese-Munaseli	Austronesian		'onɔ 'marak	lit. inside dry (1SG)	nan	('thirsty', 'adon1237', 'ɑnɜk_ˈmara')	nan		
 337	thirsty	alor1247-munas	Alorese-Munaseli	Austronesian		'onɔŋ 'marak	lit. inside dry	nan	('thirsty', 'adon1237', 'ɑnɜk_ˈmara')	nan		
 338	hungry	alor1247-munas	Alorese-Munaseli	Austronesian		'tukaŋ 'malu	nan	nan	('hungry', 'adon1237', 'ˈmalu')	nan		
 338	hungry	alor1247-munas	Alorese-Munaseli	Austronesian		'tukaʔ 'malu	(1SG)	nan	('hungry', 'adon1237', 'ˈmalu')	nan		
 339	blind	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔmak	nan	nan	"('blind', 'alor1247-munas', ""'kɔmak"")"	nan		
-340	deaf	alor1247-munas	Alorese-Munaseli	Austronesian		'mukɛk	nan	nan	"('deaf', 'alor1247-baran', ""ka'muk:ɛ"")"	nan		
+340	deaf	alor1247-munas	Alorese-Munaseli	Austronesian		'mukɛk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 341	scared	alor1247-munas	Alorese-Munaseli	Austronesian		'takuʔ	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan		
 342	angry	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔnɔ k'likil	(1SG)	nan	"('angry', 'alor1247-munas', ""'ɔnɔ_k'likil"")"	nan		
 342	angry	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔnɔŋ k'likil	nan	nan	"('angry', 'alor1247-munas', ""'ɔnɔ_k'likil"")"	nan		
 343	to see	alor1247-munas	Alorese-Munaseli	Austronesian		'sɛruʔ	nan	nan	"('to see', 'alor1247-baran', ""'sɛru"")"	nan		
 344	to hear	alor1247-munas	Alorese-Munaseli	Austronesian		də'ŋa	nan	nan	('to hear', 'adon1237', 'ˈdɜŋɜʔ')	nan		
-345	to smell	alor1247-munas	Alorese-Munaseli	Austronesian		'hugoʔ	nan	nan	"('to smell', 'alor1247-munas', ""'hugoʔ"")"	nan		
+345	to smell	alor1247-munas	Alorese-Munaseli	Austronesian		'hugoʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 346	to think	alor1247-munas	Alorese-Munaseli	Austronesian		g'nukuʔ	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan		
-347	to know	alor1247-munas	Alorese-Munaseli	Austronesian		'koiŋ	(1SG)	nan	('to know', 'adon1237', 'ˈkoi')	nan		
-348	to say	alor1247-munas	Alorese-Munaseli	Austronesian		'mariŋ	nan	nan	"('to say', 'alor1247-baran', ""ma'rĩ:"")"	nan		
-349	to speak	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu	nan	nan	"('to speak', 'alor1247-besar', ""'tutu"")"	nan		
-349	to speak	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu 'apa	nan	nan	"('to speak', 'alor1247-besar', ""'tutu"")"	nan		
-350	voice	alor1247-munas	Alorese-Munaseli	Austronesian		'alaʔ	(1SG)	nan	('voice', 'adon1237', 'ˈrãː')	nan		
-350	voice	alor1247-munas	Alorese-Munaseli	Austronesian		'alaŋ	nan	nan	('voice', 'adon1237', 'ˈrãː')	nan		
-351	language	alor1247-munas	Alorese-Munaseli	Austronesian		k'dirɛʔ	nan	nan	"('language', 'alor1247-besar', ""'kirɛ"")"	nan		
+347	to know	alor1247-munas	Alorese-Munaseli	Austronesian		'koiŋ	(1SG)	nan	('to know', 'adon1237', 'ˈnoi,_ˈkoi')	nan		
+348	to say	alor1247-munas	Alorese-Munaseli	Austronesian		'mariŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+349	to speak	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+349	to speak	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu 'apa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+350	voice	alor1247-munas	Alorese-Munaseli	Austronesian		'alaʔ	(1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+350	voice	alor1247-munas	Alorese-Munaseli	Austronesian		'alaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+351	language	alor1247-munas	Alorese-Munaseli	Austronesian		k'dirɛʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 352	to lie down	alor1247-munas	Alorese-Munaseli	Austronesian		'pɔna	nan	nan	"('to lie down', 'alor1247-besar', ""'pɔna-'pɔna"")"	nan		
 353	to sleep	alor1247-munas	Alorese-Munaseli	Austronesian		'turu	nan	nan	('to sleep', 'adon1237', 'ˈturu')	nan		
 354	to wake up	alor1247-munas	Alorese-Munaseli	Austronesian		'bauŋ	nan	nan	"('to wake up', 'alor1247-baran', ""'baũ"")"	nan		
@@ -475,12 +475,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 356	to bathe	alor1247-munas	Alorese-Munaseli	Austronesian		ha'bːɔ	nan	nan	('to bathe', 'adon1237', 'ˈhabo')	nan		
 356	to bathe	alor1247-munas	Alorese-Munaseli	Austronesian		'habɔ	nan	nan	('to bathe', 'adon1237', 'ˈhabo')	nan		
 357	to bathe (a child)	alor1247-munas	Alorese-Munaseli	Austronesian		ha'bːɔ 'bai	nan	nan	('to bathe (a child)', 'adon1237', 'ˈhabo')	nan		
-358	to sit	alor1247-munas	Alorese-Munaseli	Austronesian		'tobɔ	nan	nan	"('to sit', 'alor1247-besar', ""'tobɔ"")"	nan		
+358	to sit	alor1247-munas	Alorese-Munaseli	Austronesian		'tobɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 359	to stand	alor1247-munas	Alorese-Munaseli	Austronesian		'tidɛ	nan	nan	"('to stand', 'alor1247-baran', ""'tid:ɛ"")"	nan		
 360	to walk	alor1247-munas	Alorese-Munaseli	Austronesian		'pana 'lei	(1SG)	nan	('to walk', 'adon1237', 'ˈpana')	nan		
 360	to walk	alor1247-munas	Alorese-Munaseli	Austronesian		'pana 'leiŋ	nan	nan	('to walk', 'adon1237', 'ˈpana')	nan		
 361	to run	alor1247-munas	Alorese-Munaseli	Austronesian		p'laeŋ	nan	nan	('to run', 'adon1237', 'pɑˈlaʔe')	nan		
-362	to go	alor1247-munas	Alorese-Munaseli	Austronesian		'kaiʔ	(1SG)	nan	"('to go', 'alor1247-munas', ""'kaiʔ"")"	nan		
+362	to go	alor1247-munas	Alorese-Munaseli	Austronesian		'kaiʔ	(1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 363	to swim	alor1247-munas	Alorese-Munaseli	Austronesian		'naŋgɛ	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan		
 364	to fly	alor1247-munas	Alorese-Munaseli	Austronesian		bə'kaŋ	nan	nan	('to fly', 'adon1237', 'ˈbɜka')	nan		
 365	to fall (from above)	alor1247-munas	Alorese-Munaseli	Austronesian		'gɔkal 'lɔdɔŋ	nan	nan	('to fall (from above)', 'adon1237', 'ˈɡɔka')	nan		
@@ -488,19 +488,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 367	to drop	alor1247-munas	Alorese-Munaseli	Austronesian		'lelaŋ 'gɔkal	lit. to make fall	nan	('to drop', 'adon1237', 'na_ˈɡoka')	nan		
 368	to drink	alor1247-munas	Alorese-Munaseli	Austronesian		'go 'kɛnuŋ	(1SG)	nan	('to drink', 'adan1251-lawah', 'naʔ')	nan		
 368	to drink	alor1247-munas	Alorese-Munaseli	Austronesian		'kɛnuŋ	nan	nan	('to drink', 'adan1251-lawah', 'naʔ')	nan		
-369	to eat	alor1247-munas	Alorese-Munaseli	Austronesian		'kaŋ 	(1SG)	nan	"('to eat', 'alor1247-besar', ""'kaŋ_'apa"")"	nan		
+369	to eat	alor1247-munas	Alorese-Munaseli	Austronesian		'kaŋ 	(1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 370	to cook	alor1247-munas	Alorese-Munaseli	Austronesian		'dakaŋ 	nan	nan	"('to cook', 'alor1247-baran', ""'dakaŋ"")"	nan		
 371	to wash	alor1247-munas	Alorese-Munaseli	Austronesian		'bema	to wash clothes	nan	('to wash', 'alor1247-baran', 'bɛmɛ')	nan		
 371	to wash	alor1247-munas	Alorese-Munaseli	Austronesian		'hue	to wash dishes	nan	"('to wash', 'alor1247-munas', ""'hue"")"	nan		
-371	to wash	alor1247-munas	Alorese-Munaseli	Austronesian		'lamiŋ	to wash others	nan	('to wash', 'adan1251-lawah', 'la:m')	nan		
+371	to wash	alor1247-munas	Alorese-Munaseli	Austronesian		'lamiŋ	to wash others	nan	('angry', 'lamm1241', 'arugga')	nan		
 372	to sew	alor1247-munas	Alorese-Munaseli	Austronesian		'haur	nan	nan	('to sew', 'adon1237', 'ˈhɑu')	nan		
 372	to sew	alor1247-munas	Alorese-Munaseli	Austronesian		'bulaŋ	to sew/to patch	nan	"('to sew', 'alor1247-munas', ""'bulaŋ"")"	nan		
 373	to live; be alive; living	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔrik	nan	nan	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
 374	to breathe	alor1247-munas	Alorese-Munaseli	Austronesian		'hɔpaŋ	nan	nan	('to breathe', 'adan1251-lawah', 'haʔan')	nan		
 375	to work	alor1247-munas	Alorese-Munaseli	Austronesian		kr'dʒaŋ	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan		
 376	to die	alor1247-munas	Alorese-Munaseli	Austronesian		'mate	nan	nan	('to die', 'adon1237', 'ˈmataː')	nan		
-377	to give	alor1247-munas	Alorese-Munaseli	Austronesian		'niŋ	nan	nan	('to give', 'adon1237', 'ˈneĩ')	nan		
-378	to wipe	alor1247-munas	Alorese-Munaseli	Austronesian		'hapɔ	nan	nan	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	nan		
+377	to give	alor1247-munas	Alorese-Munaseli	Austronesian		'niŋ	nan	nan	('blind', 'adon1237', 'kɜˈnisũ,_kɜˈbuʔlɔ̃')	nan		
+378	to wipe	alor1247-munas	Alorese-Munaseli	Austronesian		'hapɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 379	to come	alor1247-munas	Alorese-Munaseli	Austronesian		'bɛta	nan	nan	('to come', 'adon1237', 'ˈbeto')	nan		
 379	to come	alor1247-munas	Alorese-Munaseli	Austronesian		'bɛtaŋ	nan	nan	('to come', 'adon1237', 'ˈbeto')	nan		
 380	to laugh	alor1247-munas	Alorese-Munaseli	Austronesian		'gɛki	nan	nan	('to laugh', 'adon1237', 'ˈɡeka')	nan		
@@ -511,17 +511,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382	to dance	alor1247-munas	Alorese-Munaseli	Austronesian		'tɔdʒa	nan	nan	"('to dance', 'alor1247-munas', ""'tɔdʒa"")"	nan		
 383	to sing	alor1247-munas	Alorese-Munaseli	Austronesian		'kaŋ 'liaŋ	(1SG)	nan	"('to sing', 'alor1247-baran', ""'bɔtɛ_'liaŋ"")"	nan		
 383	to sing	alor1247-munas	Alorese-Munaseli	Austronesian		'naŋ 'liaŋ	(3SG)	nan	"('to sing', 'alor1247-baran', ""'bɔtɛ_'liaŋ"")"	nan		
-384	to burn (clear land)	alor1247-munas	Alorese-Munaseli	Austronesian		'papiŋ	nan	nan	"('to burn (clear land)', 'alor1247-munas', ""'papiŋ"")"	nan		
+384	to burn (clear land)	alor1247-munas	Alorese-Munaseli	Austronesian		'papiŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 385	to burn; to shine	alor1247-munas	Alorese-Munaseli	Austronesian		sə'ruʔ 	nan	nan	"('to burn; to shine', 'alor1247-besar', ""'saru_"")"	nan		
 385	to burn; to shine	alor1247-munas	Alorese-Munaseli	Austronesian		'tutuŋ	nan	nan	"('to burn; to shine', 'alor1247-munas', ""'tutuŋ"")"	nan		
 386	to shine	alor1247-munas	Alorese-Munaseli	Austronesian		'bɔlɔr	nan	nan	"('to shine', 'alor1247-besar', ""'bɔlo"")"	nan		
 386	to shine	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔbaŋ	nan	nan	"('to shine', 'alor1247-munas', ""'ɔbaŋ"")"	nan		
-387	to chew	alor1247-munas	Alorese-Munaseli	Austronesian		'mamɛ	nan	nan	"('to chew', 'alor1247-besar', ""'mamɛ"")"	nan		
+387	to chew	alor1247-munas	Alorese-Munaseli	Austronesian		'mamɛ	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
 388	to yawn	alor1247-munas	Alorese-Munaseli	Austronesian		p'noek	nan	nan	"('to yawn', 'alor1247-besar', ""'panoe"")"	nan		
 389	to suck	alor1247-munas	Alorese-Munaseli	Austronesian		'hiuʔ	nan	nan	"('to suck', 'alor1247-munas', ""'hiuʔ"")"	nan		
-390	to blow	alor1247-munas	Alorese-Munaseli	Austronesian		'puiʔk	nan	nan	('to blow', 'abui1241-fuime', 'furuŋra')	nan		
-391	to spit	alor1247-munas	Alorese-Munaseli	Austronesian		'ilu	saliva	nan	"('to spit', 'alor1247-munas', ""'ilu"")"	nan		
-391	to spit	alor1247-munas	Alorese-Munaseli	Austronesian		'pitɔŋ	nan	nan	"('to spit', 'alor1247-munas', ""'pitɔŋ"")"	nan		
+390	to blow	alor1247-munas	Alorese-Munaseli	Austronesian		'puiʔk	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan		
+391	to spit	alor1247-munas	Alorese-Munaseli	Austronesian		'ilu	saliva	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+391	to spit	alor1247-munas	Alorese-Munaseli	Austronesian		'pitɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 392	to vomit	alor1247-munas	Alorese-Munaseli	Austronesian		'mutaŋ	nan	nan	"('to vomit', 'alor1247-baran', ""'mut:a"")"	nan		
 392	to vomit	alor1247-munas	Alorese-Munaseli	Austronesian		'bɔras	to vomit (of baby)	nan	"('to vomit', 'alor1247-munas', ""'bɔras"")"	nan		
 392	to vomit	alor1247-munas	Alorese-Munaseli	Austronesian		k'bɔr	nan	nan	"('to vomit', 'alor1247-munas', ""'bɔras"")"	nan		
@@ -531,7 +531,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 395	itchy	alor1247-munas	Alorese-Munaseli	Austronesian		'gateʔ	nan	nan	('itchy', 'adon1237', 'ˈɡatɜk')	nan		
 396	to swell	alor1247-munas	Alorese-Munaseli	Austronesian		'hiŋ	nan	nan	"('to swell', 'alor1247-besar', ""'ihĩ"")"	nan		
 396	to swell	alor1247-munas	Alorese-Munaseli	Austronesian		'ihiŋ	nan	nan	"('to swell', 'alor1247-besar', ""'ihĩ"")"	nan		
-397	to hit	alor1247-munas	Alorese-Munaseli	Austronesian		'boaʔ	nan	nan	"('to hit', 'alor1247-besar', ""'bɛhɛ"")"	nan		
+397	to hit	alor1247-munas	Alorese-Munaseli	Austronesian		'boaʔ	nan	nan	('to hit', 'adan1251-otvai', 'bɛh')	nan		
 397	to hit	alor1247-munas	Alorese-Munaseli	Austronesian		'tubuʔ	to hit (to punch)	nan	"('to hit', 'alor1247-munas', ""'tubuʔ"")"	nan		
 397	to hit	alor1247-munas	Alorese-Munaseli	Austronesian		'danɛ	nan	nan	"('to hit', 'alor1247-besar', ""'danɛ"")"	nan		
 398	to slap	alor1247-munas	Alorese-Munaseli	Austronesian		lə'pa	nan	nan	"('to slap', 'alor1247-besar', ""'lapa"")"	nan		
@@ -542,10 +542,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 403	to divide	alor1247-munas	Alorese-Munaseli	Austronesian		'bagɛ	nan	nan	"('to divide', 'alor1247-besar', ""'bagɛ"")"	nan		
 403	to divide	alor1247-munas	Alorese-Munaseli	Austronesian		'wɛkaŋ	nan	nan	"('to divide', 'alor1247-munas', ""'wɛkaŋ"")"	nan		
 404	to stab	alor1247-munas	Alorese-Munaseli	Austronesian		'sikaʔ	nan	nan	"('to stab', 'alor1247-baran', ""'sik:a"")"	nan		
-405	to skewer	alor1247-munas	Alorese-Munaseli	Austronesian		'tuhuʔ	nan	nan	('to skewer', 'adon1237', 'ˈtɜɡuʔ')	nan		
+405	to skewer	alor1247-munas	Alorese-Munaseli	Austronesian		'tuhuʔ	nan	nan	('to skewer', 'adon1237', 'ˈtuhuk,_ˈtɜɡuʔ')	nan		
 406	to fight	alor1247-munas	Alorese-Munaseli	Austronesian		'boa wə'ki	to fight (lit. to hit each other)	nan	"('to fight', 'alor1247-baran', ""ka'laĩ_'fak:ĩ"")"	nan		
 407	to guard	alor1247-munas	Alorese-Munaseli	Austronesian		'kwaraŋ	nan	nan	"('to guard', 'alor1247-munas', ""'kwaraŋ"")"	nan		
-408	to throw	alor1247-munas	Alorese-Munaseli	Austronesian		'deiʔ	nan	nan	('to throw', 'adan1251-lawah', 'ød')	nan		
+408	to throw	alor1247-munas	Alorese-Munaseli	Austronesian		'deiʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 409	to hunt	alor1247-munas	Alorese-Munaseli	Austronesian		'gɛna 'ɛkaŋ	lit. to search place, garden	nan	"('to hunt', 'alor1247-munas', ""'gɛna_'ɛkaŋ"")"	nan		
 410	to kill	alor1247-munas	Alorese-Munaseli	Austronesian		'bunɔ	nan	nan	"('to kill', 'alor1247-baran', ""'bun:ɔ"")"	nan		
 411	to chase away	alor1247-munas	Alorese-Munaseli	Austronesian		'lisoʔ	to chase away, to go after	nan	"('to chase away', 'alor1247-munas', ""'lisoʔ"")"	nan		
@@ -573,7 +573,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	alor1247-munas	Alorese-Munaseli	Austronesian		'hɔpɛ	nan	nan	"('to squeeze', 'alor1247-besar', ""'hɔpɛ"")"	nan		
 431	to buy	alor1247-munas	Alorese-Munaseli	Austronesian		p'nahaŋ	nan	nan	"('to buy', 'alor1247-besar', ""pa'nahaŋ"")"	nan		
 432	to sell	alor1247-munas	Alorese-Munaseli	Austronesian		'maka	nan	nan	"('to sell', 'alor1247-besar', ""ta'maku"")"	nan		
-433	to steal	alor1247-munas	Alorese-Munaseli	Austronesian		'leka	nan	nan	('to steal', 'adon1237', 'ˈlãː')	nan		
+433	to steal	alor1247-munas	Alorese-Munaseli	Austronesian		'leka	nan	nan	('blind', 'adon1237', 'kɜˈnisũ,_kɜˈbuʔlɔ̃')	nan		
 433	to steal	alor1247-munas	Alorese-Munaseli	Austronesian		'loe	to open (for clothes, take off clothes)	nan	"('to steal', 'alor1247-munas', ""'loe"")"	nan		
 434	to open	alor1247-munas	Alorese-Munaseli	Austronesian		'tɛraʔ	nan	nan	"('to open', 'alor1247-besar', ""'tɛra"")"	nan		
 435	to close	alor1247-munas	Alorese-Munaseli	Austronesian		'gɛrɛ	nan	nan	"('to close', 'alor1247-besar', ""'gɛrɛ"")"	nan		
@@ -593,7 +593,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 448	to ask (question)	alor1247-munas	Alorese-Munaseli	Austronesian		'rɛkɛŋ	nan	nan	"('to ask (question)', 'alor1247-besar', ""'rɛkɛŋ"")"	nan		
 449	to count	alor1247-munas	Alorese-Munaseli	Austronesian		'tou	nan	nan	"('to count', 'alor1247-besar', ""'tou"")"	nan		
 450	one	alor1247-munas	Alorese-Munaseli	Austronesian		'rua	nan	nan	"('one', 'alor1247-besar', ""'rua"")"	nan		
-451	two	alor1247-munas	Alorese-Munaseli	Austronesian		tə'lːɔ	nan	nan	('two', 'adan1251-lawah', 'a:lu')	nan		
+451	two	alor1247-munas	Alorese-Munaseli	Austronesian		tə'lːɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 452	three	alor1247-munas	Alorese-Munaseli	Austronesian		'paʔ	nan	nan	"('three', 'alor1247-besar', ""'pa"")"	nan		
 453	four	alor1247-munas	Alorese-Munaseli	Austronesian		'lɛma	nan	nan	"('four', 'alor1247-besar', ""'lɛma"")"	nan		
 454	five	alor1247-munas	Alorese-Munaseli	Austronesian		nə'mu	nan	nan	('five', 'adon1237', 'ˈlema')	nan		
@@ -601,168 +601,168 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 456	seven	alor1247-munas	Alorese-Munaseli	Austronesian		'buto	nan	nan	('seven', 'adan1251-lawah', 'wuitoʔ')	nan		
 457	eight	alor1247-munas	Alorese-Munaseli	Austronesian		'hiwa	nan	nan	"('eight', 'alor1247-besar', ""'hifa"")"	nan		
 458	nine	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou	nan	nan	"('nine', 'alor1247-besar', ""'kartou"")"	nan		
-459	ten	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'tou	nan	nan	"('ten', 'alor1247-baran', ""'kartɔ"")"	nan		
+459	ten	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'tou	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 460	eleven	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'rua	nan	nan	"('eleven', 'alor1247-besar', ""'kartou_'ilaka_'rua"")"	nan		
 461	twelve	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak tə'lːɔ	nan	nan	"('twelve', 'alor1247-besar', ""'kartou_'ilaka_'talːɔ"")"	nan		
 462	thirteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'paʔ	nan	nan	"('thirteen', 'alor1247-besar', ""'kartou_'ilaka_'pa"")"	nan		
-463	fourteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'lɛma	nan	nan	"('fourteen', 'abui1241-takal', ""kär.'nu.qu._wäl_'bu.ti"")"	nan		
-464	fifteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak nə'mu	nan	nan	"('fifteen', 'abui1241-takal', ""kär.'nu.qu._wäl_'je̞̞.tiŋ"")"	nan		
-465	sixteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'pito	nan	nan	"('sixteen', 'abui1241-takal', ""kär.'nu.qu._wäl_'tä.lä.mä"")"	nan		
-466	seventeen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'buto	nan	nan	"('seventeen', 'abui1241-takal', ""kär.'nu.qu._wäl_je̞̞.tiŋ_ä.jo.'qu"")"	nan		
-467	eighteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'hiwa	nan	nan	"('eighteen', 'abui1241-takal', ""kär.'nu.qu._wäl_je̞̞.ti_'su.ä"")"	nan		
-468	nineteen	alor1247-munas	Alorese-Munaseli	Austronesian		'karua	nan	nan	"('nineteen', 'alor1247-besar', ""'karua"")"	nan		
-469	twenty	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak 'tou	nan	nan	('twenty', 'abui1241-fuime', 'kar_ajoku')	nan		
+463	fourteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'lɛma	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+464	fifteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak nə'mu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+465	sixteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'pito	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+466	seventeen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'buto	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+467	eighteen	alor1247-munas	Alorese-Munaseli	Austronesian		kər'tou 'ilak 'hiwa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+468	nineteen	alor1247-munas	Alorese-Munaseli	Austronesian		'karua	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+469	twenty	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak 'tou	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
 470	twenty one	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak 'rua	nan	nan	"('twenty one', 'alor1247-besar', ""'karua_'ilaka_'rua"")"	nan		
-471	twenty two	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak tə'lːɔ	nan	nan	"('twenty two', 'abui1241-takal', ""kär.'ä.jo.qu_wäl_'ä.jo.qu"")"	nan		
-472	twenty three	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak 'paʔ	nan	nan	"('twenty three', 'abui1241-takal', ""kär.'ä.jo.qu_wäl_'su.ä"")"	nan		
-473	twenty four	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak 'lɛma	nan	nan	"('twenty four', 'abui1241-takal', ""kär.'ä.jo.qu_wäl_'bu.ti"")"	nan		
-474	twenty five	alor1247-munas	Alorese-Munaseli	Austronesian		kartə'lːɔ	nan	nan	"('twenty five', 'alor1247-besar', ""kar'talːɔ"")"	nan		
+471	twenty two	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak tə'lːɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+472	twenty three	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak 'paʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+473	twenty four	alor1247-munas	Alorese-Munaseli	Austronesian		'karua 'ilak 'lɛma	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+474	twenty five	alor1247-munas	Alorese-Munaseli	Austronesian		kartə'lːɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 475	thirty	alor1247-munas	Alorese-Munaseli	Austronesian		kar'paʔ	nan	nan	"('thirty', 'alor1247-besar', ""kar'pa"")"	nan		
-476	forty	alor1247-munas	Alorese-Munaseli	Austronesian		kar'lɛma	nan	nan	"('forty', 'abui1241-takal', ""kär.'bu.ti"")"	nan		
-477	fifty	alor1247-munas	Alorese-Munaseli	Austronesian		karnə'mu	nan	nan	"('fifty', 'abui1241-takal', ""kär.'je̞̞.tiŋ"")"	nan		
-478	sixty	alor1247-munas	Alorese-Munaseli	Austronesian		kar'pito	nan	nan	"('sixty', 'abui1241-takal', ""kär.'tä.lä.mä"")"	nan		
-479	seventy	alor1247-munas	Alorese-Munaseli	Austronesian		kar'buto	nan	nan	('seventy', 'adan1251-lawah', 'airitoʔ')	nan		
-480	eighty	alor1247-munas	Alorese-Munaseli	Austronesian		kar'hiwa	nan	nan	"('eighty', 'abui1241-takal', ""kär.'su.ä"")"	nan		
-481	ninety	alor1247-munas	Alorese-Munaseli	Austronesian		'ratu	nan	nan	"('ninety', 'alor1247-besar', ""'ratu"")"	nan		
+476	forty	alor1247-munas	Alorese-Munaseli	Austronesian		kar'lɛma	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+477	fifty	alor1247-munas	Alorese-Munaseli	Austronesian		karnə'mu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+478	sixty	alor1247-munas	Alorese-Munaseli	Austronesian		kar'pito	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+479	seventy	alor1247-munas	Alorese-Munaseli	Austronesian		kar'buto	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+480	eighty	alor1247-munas	Alorese-Munaseli	Austronesian		kar'hiwa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+481	ninety	alor1247-munas	Alorese-Munaseli	Austronesian		'ratu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 482	one hundred	alor1247-munas	Alorese-Munaseli	Austronesian		'ratu 'karua 'ilak tə'lːɔ	nan	nan	"('one hundred', 'alor1247-besar', ""'ratu_'karua_'ilaka_'talːɔ"")"	nan		
-483	one hundred and twenty three	alor1247-munas	Alorese-Munaseli	Austronesian		'ratu 'rua	nan	nan	"('one hundred and twenty three', 'alor1247-besar', ""'ratu_'rua"")"	nan		
+483	one hundred and twenty three	alor1247-munas	Alorese-Munaseli	Austronesian		'ratu 'rua	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 484	two hundred	alor1247-munas	Alorese-Munaseli	Austronesian		'ribu	nan	nan	"('two hundred', 'alor1247-besar', ""'ribu"")"	nan		
 485	thousand	alor1247-munas	Alorese-Munaseli	Austronesian		'ratu 'ribu	nan	nan	"('thousand', 'alor1247-besar', ""'ratu"")"	nan		
-486	one hundred thousand	alor1247-munas	Alorese-Munaseli	Austronesian		'bapa k'wae	nan	nan	"('one hundred thousand', 'alor1247-besar', ""'bapaŋ_ka'fae"")"	nan		
+486	one hundred thousand	alor1247-munas	Alorese-Munaseli	Austronesian		'bapa k'wae	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 487	grandmother	alor1247-munas	Alorese-Munaseli	Austronesian		'bapa k'lake	nan	nan	('grandmother', 'adan1251-lawah', 'bapa')	nan		
 488	grandfather	alor1247-munas	Alorese-Munaseli	Austronesian		'bapa	nan	nan	('grandfather', 'adan1251-lawah', 'bapa')	nan		
 489	grandchild	alor1247-munas	Alorese-Munaseli	Austronesian		pukɔŋ k'lake	nan	nan	"('grandchild', 'alor1247-munas', ""pukɔŋ_k'lake"")"	nan		
-490	mother's brother	alor1247-munas	Alorese-Munaseli	Austronesian		'nulaʔ	nan	nan	"(""mother's brother"", 'adan1251-otvai', 'omaŋsel')"	nan		
-490	mother's brother	alor1247-munas	Alorese-Munaseli	Austronesian		mə'nulaŋ	nan	nan	"(""mother's brother"", 'adan1251-otvai', 'omaŋsel')"	nan		
+490	mother's brother	alor1247-munas	Alorese-Munaseli	Austronesian		'nulaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+490	mother's brother	alor1247-munas	Alorese-Munaseli	Austronesian		mə'nulaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 491	nephew; niece	alor1247-munas	Alorese-Munaseli	Austronesian		'tata k'lake	nan	nan	"('nephew; niece', 'alor1247-munas', ""'tata_k'lake"")"	nan		
 492	older brother	alor1247-munas	Alorese-Munaseli	Austronesian		'tata k'wae 	nan	nan	"('older brother', 'alor1247-munas', ""'tata_k'wae_"")"	nan		
 493	older sister	alor1247-munas	Alorese-Munaseli	Austronesian		'binɛʔ	nan	nan	"('older sister', 'alor1247-besar', ""'binɛŋ_ka'fae"")"	nan		
 493	older sister	alor1247-munas	Alorese-Munaseli	Austronesian		'binɛŋ	nan	nan	"('older sister', 'alor1247-besar', ""'binɛŋ_ka'fae"")"	nan		
 494	sister	alor1247-munas	Alorese-Munaseli	Austronesian		'wiaʔ	nan	nan	"('sister', 'alor1247-munas', ""'wiaʔ"")"	nan		
-495	woman's cross-cousin	alor1247-munas	Alorese-Munaseli	Austronesian		'kau k'wae	nan	nan	"(""woman's cross-cousin"", 'alor1247-besar', ""'ariŋ_ka'fae"")"	nan		
-495	woman's cross-cousin	alor1247-munas	Alorese-Munaseli	Austronesian		'ulːa k'wae	nan	nan	"(""woman's cross-cousin"", 'alor1247-besar', ""'ariŋ_ka'fae"")"	nan		
-496	woman's younger sister	alor1247-munas	Alorese-Munaseli	Austronesian		'kau k'lake	nan	nan	"(""woman's younger sister"", 'alor1247-besar', ""'ariŋ_ka'lake"")"	nan		
-496	woman's younger sister	alor1247-munas	Alorese-Munaseli	Austronesian		'ulːa k'lake	nan	nan	"(""woman's younger sister"", 'alor1247-besar', ""'ariŋ_ka'lake"")"	nan		
+495	woman's cross-cousin	alor1247-munas	Alorese-Munaseli	Austronesian		'kau k'wae	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+495	woman's cross-cousin	alor1247-munas	Alorese-Munaseli	Austronesian		'ulːa k'wae	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+496	woman's younger sister	alor1247-munas	Alorese-Munaseli	Austronesian		'kau k'lake	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+496	woman's younger sister	alor1247-munas	Alorese-Munaseli	Austronesian		'ulːa k'lake	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 497	younger brother	alor1247-munas	Alorese-Munaseli	Austronesian		'naʔ	nan	nan	"('younger brother', 'alor1247-besar', ""'naŋ_ka'lake"")"	nan		
 497	younger brother	alor1247-munas	Alorese-Munaseli	Austronesian		'naŋ 	nan	nan	"('younger brother', 'alor1247-besar', ""'naŋ_ka'lake"")"	nan		
 498	brother	alor1247-munas	Alorese-Munaseli	Austronesian		'opuʔ	nan	nan	"('brother', 'alor1247-besar', ""'opuŋ"")"	nan		
 498	brother	alor1247-munas	Alorese-Munaseli	Austronesian		'opuŋ	nan	nan	"('brother', 'alor1247-besar', ""'opuŋ"")"	nan		
-498	brother	alor1247-munas	Alorese-Munaseli	Austronesian		'naraŋ	nan	nan	('brother', 'adon1237', 'ʔariʔ')	nan		
+498	brother	alor1247-munas	Alorese-Munaseli	Austronesian		'naraŋ	nan	nan	('brother', 'adon1237', 'ʔariʔ,_kaka')	nan		
 499	brother-in-law	alor1247-munas	Alorese-Munaseli	Austronesian		wai kɔ'lːuʔ	cross-cousin (female)	nan	"('brother-in-law', 'alor1247-munas', ""wai_kɔ'lːuʔ"")"	nan		
 499	brother-in-law	alor1247-munas	Alorese-Munaseli	Austronesian		'higu 'nuka	cross-cousin (male)	nan	"('brother-in-law', 'alor1247-munas', ""'higu_'nuka"")"	nan		
 500	cross-cousin	alor1247-munas	Alorese-Munaseli	Austronesian		'pukɔŋ k'wae	nan	nan	"('cross-cousin', 'alor1247-munas', ""'pukɔŋ_k'wae"")"	nan		
-501	father's sister	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɔkɔŋ	nan	nan	"(""father's sister"", 'alor1247-munas', ""b'lɔkɔŋ"")"	nan		
+501	father's sister	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɔkɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 502	ridge(pole); peak; tip	alor1247-munas	Alorese-Munaseli	Austronesian		'hɛrɛʔ	nan	nan	"('ridge(pole); peak; tip', 'alor1247-besar', ""'huruŋ"")"	nan		
-503	rack(above hearth/for storing food)	alor1247-munas	Alorese-Munaseli	Austronesian		'namɔ	nan	nan	"('rack(above hearth/for storing food)', 'alor1247-besar', ""'namɔ"")"	nan		
-504	broom; sweep	alor1247-munas	Alorese-Munaseli	Austronesian		'lɛlaŋ 'ɔnɔŋ	nan	nan	"('broom; sweep', 'alor1247-besar', ""'dolu_'nɔŋ_'ula_'naga"")"	nan		
-505	ground for ritual activities and public meetings	alor1247-munas	Alorese-Munaseli	Austronesian		'dɔru	nan	nan	"('ground for ritual activities and public meetings', 'alor1247-besar', ""'dolu"")"	nan		
-506	mound of stones for ritual activities	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'lɛlaŋ 	nan	nan	"('mound of stones for ritual activities', 'alor1247-besar', ""'uma_'hada"")"	nan		
-507	meeting house	alor1247-munas	Alorese-Munaseli	Austronesian		'lantɛʔ	nan	nan	"('meeting house', 'alor1247-besar', ""'lamiŋ"")"	nan		
-508	floor	alor1247-munas	Alorese-Munaseli	Austronesian		'keba	wall internal	nan	"('floor', 'alor1247-besar', ""ga'nabɛŋ"")"	nan		
-508	floor	alor1247-munas	Alorese-Munaseli	Austronesian		gə'bːe	wall external	nan	"('floor', 'alor1247-besar', ""ga'nabɛŋ"")"	nan		
-509	wall	alor1247-munas	Alorese-Munaseli	Austronesian		'pitu 'anaŋ	lit. door small	nan	"('wall', 'alor1247-munas', ""'pitu_'anaŋ"")"	nan		
-509	wall	alor1247-munas	Alorese-Munaseli	Austronesian		pitu 'aŋiŋ	lit. door wind	nan	"('wall', 'alor1247-munas', ""'pitu_'anaŋ"")"	nan		
-510	window	alor1247-munas	Alorese-Munaseli	Austronesian		'pawɔ 'awɔ	nan	nan	"('window', 'alor1247-munas', ""'pawɔ_'awɔ"")"	nan		
-511	cookhouse; kitchen	alor1247-munas	Alorese-Munaseli	Austronesian		'dɛki 'turu	lit. platform sleep	nan	"('cookhouse; kitchen', 'alor1247-munas', ""'dɛki_'turu"")"	nan		
-512	bed	alor1247-munas	Alorese-Munaseli	Austronesian		kan'dɛra	nan	nan	('bed', 'adon1237', 'kɜˈnatã')	nan		
-513	chair	alor1247-munas	Alorese-Munaseli	Austronesian		'lampɔʔ	nan	nan	"('chair', 'alor1247-besar', ""'lampu"")"	nan		
-514	lamp	alor1247-munas	Alorese-Munaseli	Austronesian		'tapal	nan	nan	('lamp', 'abui1241-takal', 'fä.lä:.qä')	nan		
+503	rack(above hearth/for storing food)	alor1247-munas	Alorese-Munaseli	Austronesian		'namɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+504	broom; sweep	alor1247-munas	Alorese-Munaseli	Austronesian		'lɛlaŋ 'ɔnɔŋ	nan	nan	"('broom; sweep', 'alor1247-munas', ""'lɛlaŋ_'ɔnɔŋ"")"	nan		
+505	ground for ritual activities and public meetings	alor1247-munas	Alorese-Munaseli	Austronesian		'dɔru	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+506	mound of stones for ritual activities	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'lɛlaŋ 	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+507	meeting house	alor1247-munas	Alorese-Munaseli	Austronesian		'lantɛʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+508	floor	alor1247-munas	Alorese-Munaseli	Austronesian		'keba	wall internal	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+508	floor	alor1247-munas	Alorese-Munaseli	Austronesian		gə'bːe	wall external	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+509	wall	alor1247-munas	Alorese-Munaseli	Austronesian		'pitu 'anaŋ	lit. door small	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+509	wall	alor1247-munas	Alorese-Munaseli	Austronesian		pitu 'aŋiŋ	lit. door wind	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+510	window	alor1247-munas	Alorese-Munaseli	Austronesian		'pawɔ 'awɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+511	cookhouse; kitchen	alor1247-munas	Alorese-Munaseli	Austronesian		'dɛki 'turu	lit. platform sleep	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+512	bed	alor1247-munas	Alorese-Munaseli	Austronesian		kan'dɛra	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+513	chair	alor1247-munas	Alorese-Munaseli	Austronesian		'lampɔʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+514	lamp	alor1247-munas	Alorese-Munaseli	Austronesian		'tapal	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 515	candle	alor1247-munas	Alorese-Munaseli	Austronesian		'tane	nan	nan	('candle', 'adon1237', 'tɜˈnaro')	nan		
-516	to weave	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔndɔ	nan	nan	"('to weave', 'alor1247-besar', ""'kɔndʒɔ"")"	nan		
-517	shirt	alor1247-munas	Alorese-Munaseli	Austronesian		'maŋgɛr	nan	nan	"('shirt', 'alor1247-besar', ""'maŋge"")"	nan		
-517	shirt	alor1247-munas	Alorese-Munaseli	Austronesian		'emar	(big) necklace (like rosary)	nan	"('shirt', 'alor1247-besar', ""'maŋge"")"	nan		
-517	shirt	alor1247-munas	Alorese-Munaseli	Austronesian		'maŋgɛr 'bɔta	necklace (worn by tribal chief)	nan	"('shirt', 'alor1247-besar', ""'maŋge"")"	nan		
-518	necklace	alor1247-munas	Alorese-Munaseli	Austronesian		'anti	nan	nan	"('necklace', 'alor1247-besar', ""'anti"")"	nan		
-518	necklace	alor1247-munas	Alorese-Munaseli	Austronesian		mɔ'lːiʔ	nan	nan	"('necklace', 'alor1247-munas', ""mɔ'lːiʔ"")"	nan		
-519	earring	alor1247-munas	Alorese-Munaseli	Austronesian		'deko 'leiŋ b'lahak	lit. trousers leg long	nan	"('earring', 'alor1247-besar', ""'deko_'leiŋ_bəla'hakaŋ"")"	nan		
-520	trousers	alor1247-munas	Alorese-Munaseli	Austronesian		k'wateʔ	nan	nan	"('trousers', 'alor1247-besar', ""ka'fate"")"	nan		
-521	sarong (women)	alor1247-munas	Alorese-Munaseli	Austronesian		'he b'lia	nan	nan	"('sarong (women)', 'alor1247-besar', ""'he"")"	nan		
-521	sarong (women)	alor1247-munas	Alorese-Munaseli	Austronesian		'he 'nəŋ b'lia	nan	nan	"('sarong (women)', 'alor1247-besar', ""'he"")"	nan		
-522	loom	alor1247-munas	Alorese-Munaseli	Austronesian		'kapɔ	nan	nan	"('loom', 'alor1247-munas', ""'kapɔ"")"	nan		
-523	thread	alor1247-munas	Alorese-Munaseli	Austronesian		sə'beaŋ	to pray all together	nan	"('thread', 'alor1247-besar', ""sam'beaŋ"")"	nan		
-523	thread	alor1247-munas	Alorese-Munaseli	Austronesian		'gamar 'apa	to pray alone	nan	"('thread', 'alor1247-munas', ""'gamar_'apa"")"	nan		
-523	thread	alor1247-munas	Alorese-Munaseli	Austronesian		kə'bokuŋ	to pray when one person preaches and the others listen, for example when there is someone who is sick and people gather	nan	"('thread', 'abui1241-takal', ""kä.'päi"")"	nan		
-524	to worship	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔlɔŋ 'mɛhɛŋ	nan	nan	"('to worship', 'alor1247-munas', ""'halaŋ_'lahɛ"")"	nan		
-524	to worship	alor1247-munas	Alorese-Munaseli	Austronesian		'halaŋ 'lahɛ	lit. not wrong	nan	"('to worship', 'alor1247-munas', ""'halaŋ_'lahɛ"")"	nan		
-525	holy	alor1247-munas	Alorese-Munaseli	Austronesian		'mama a'lapːɔ k'waraŋ 'tite	lit. God bless 1PL.INCL	nan	"('holy', 'alor1247-munas', ""'mama_a'lapːɔ_k'waraŋ_'tite"")"	nan		
-526	to bless	alor1247-munas	Alorese-Munaseli	Austronesian		a'lapːɔ	nan	nan	"('to bless', 'alor1247-besar', ""a'lapa"")"	nan		
-527	God	alor1247-munas	Alorese-Munaseli	Austronesian		'gamar 'apa	nan	nan	"('God', 'alor1247-munas', ""'gamar_'apa"")"	nan		
-528	to pray	alor1247-munas	Alorese-Munaseli	Austronesian		gər'dʒa	nan	nan	"('to pray', 'alor1247-besar', ""ga'rɛdʒa"")"	nan		
-529	church	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'sigi	nan	nan	"('church', 'alor1247-besar', ""'uma_'sigi"")"	nan		
-530	mosque	alor1247-munas	Alorese-Munaseli	Austronesian		'hoi 'hari 'biru	nan	nan	('mosque', 'abui1241-takal', 'äl_he̞.mo:q_fä.lä')	nan		
-530	mosque	alor1247-munas	Alorese-Munaseli	Austronesian		'noe 'puwaŋ	to swear (lit. to swear oath)	nan	"('mosque', 'alor1247-besar', ""'noe_'gama"")"	nan		
-531	to curse	alor1247-munas	Alorese-Munaseli	Austronesian		'guru 'indʒil	nan	nan	"('to curse', 'alor1247-munas', ""'guru_'indʒil"")"	nan		
-531	to curse	alor1247-munas	Alorese-Munaseli	Austronesian		pan'ditaʔ	nan	nan	"('to curse', 'alor1247-besar', ""'hatib"")"	nan		
-532	priest (modern)	alor1247-munas	Alorese-Munaseli	Austronesian		m'nakaʔ	nan	nan	"('priest (modern)', 'alor1247-besar', ""ma'naka"")"	nan		
-533	sorcerer; witch	alor1247-munas	Alorese-Munaseli	Austronesian		'nadʒaŋ 'borɛŋ	lit. hut gather	nan	"('sorcerer; witch', 'alor1247-munas', ""'nadʒaŋ_'borɛŋ"")"	nan		
-534	initiation ceremony	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu 'indʒil	nan	nan	"('initiation ceremony', 'alor1247-besar', ""'tutu"")"	nan		
-535	sermon	alor1247-munas	Alorese-Munaseli	Austronesian		'raŋ 'mahu	nan	nan	('sermon', 'adon1237', 'ˈnuã_marĩ')	nan		
-536	sacrifice	alor1247-munas	Alorese-Munaseli	Austronesian		'lɛlaŋ	nan	nan	"('sacrifice', 'alor1247-besar', ""'lalaŋ"")"	nan		
-537	clan	alor1247-munas	Alorese-Munaseli	Austronesian		'kotɔŋ 'huar	nan	nan	"('clan', 'alor1247-munas', ""'kotɔŋ_'huar"")"	nan		
-538	chieftain	alor1247-munas	Alorese-Munaseli	Austronesian		'sɔrak 'sɔgaŋ	"to rule or govern (""sogang"": to support, to obey)"	nan	"('chieftain', 'alor1247-munas', ""'sɔrak_'sɔgaŋ"")"	nan		
-539	to rule or govern	alor1247-munas	Alorese-Munaseli	Austronesian		'bela 'badʒa	nan	nan	"('to rule or govern', 'alor1247-besar', ""'bela_'badʒa"")"	nan		
-540	treaty	alor1247-munas	Alorese-Munaseli	Austronesian		'rale 'gute	nan	nan	"('treaty', 'alor1247-munas', ""'rale_'gute"")"	nan		
-541	marriage	alor1247-munas	Alorese-Munaseli	Austronesian		'niru	nan	nan	"('marriage', 'alor1247-munas', ""'niru"")"	nan		
-542	friend	alor1247-munas	Alorese-Munaseli	Austronesian		'nɛgɔŋ	nan	nan	"('friend', 'abui1241-takal', ""ne̞.'fe:.lä"")"	nan		
-543	enemy	alor1247-munas	Alorese-Munaseli	Austronesian		'peiŋ 'beaʔ	nan	nan	"('enemy', 'abui1241-takal', ""ti.e̞.nä_'be̞ä.qä"")"	nan		
-544	king; ruler	alor1247-munas	Alorese-Munaseli	Austronesian		'ata 'laraŋ 'doaŋ	lit. person road far	nan	"('king; ruler', 'alor1247-besar', ""'ata_mata'puna"")"	nan		
-545	stranger	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔndaŋ	nan	nan	"('stranger', 'alor1247-besar', ""pa'mada"")"	nan		
+516	to weave	alor1247-munas	Alorese-Munaseli	Austronesian		'kɔndɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+517	shirt	alor1247-munas	Alorese-Munaseli	Austronesian		'maŋgɛr	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+517	shirt	alor1247-munas	Alorese-Munaseli	Austronesian		'emar	(big) necklace (like rosary)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+517	shirt	alor1247-munas	Alorese-Munaseli	Austronesian		'maŋgɛr 'bɔta	necklace (worn by tribal chief)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+518	necklace	alor1247-munas	Alorese-Munaseli	Austronesian		'anti	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+518	necklace	alor1247-munas	Alorese-Munaseli	Austronesian		mɔ'lːiʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+519	earring	alor1247-munas	Alorese-Munaseli	Austronesian		'deko 'leiŋ b'lahak	lit. trousers leg long	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+520	trousers	alor1247-munas	Alorese-Munaseli	Austronesian		k'wateʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+521	sarong (women)	alor1247-munas	Alorese-Munaseli	Austronesian		'he b'lia	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+521	sarong (women)	alor1247-munas	Alorese-Munaseli	Austronesian		'he 'nəŋ b'lia	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+522	loom	alor1247-munas	Alorese-Munaseli	Austronesian		'kapɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+523	thread	alor1247-munas	Alorese-Munaseli	Austronesian		sə'beaŋ	to pray all together	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+523	thread	alor1247-munas	Alorese-Munaseli	Austronesian		'gamar 'apa	to pray alone	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+523	thread	alor1247-munas	Alorese-Munaseli	Austronesian		kə'bokuŋ	to pray when one person preaches and the others listen, for example when there is someone who is sick and people gather	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+524	to worship	alor1247-munas	Alorese-Munaseli	Austronesian		'mɔlɔŋ 'mɛhɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+524	to worship	alor1247-munas	Alorese-Munaseli	Austronesian		'halaŋ 'lahɛ	lit. not wrong	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+525	holy	alor1247-munas	Alorese-Munaseli	Austronesian		'mama a'lapːɔ k'waraŋ 'tite	lit. God bless 1PL.INCL	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+526	to bless	alor1247-munas	Alorese-Munaseli	Austronesian		a'lapːɔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+527	God	alor1247-munas	Alorese-Munaseli	Austronesian		'gamar 'apa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+528	to pray	alor1247-munas	Alorese-Munaseli	Austronesian		gər'dʒa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+529	church	alor1247-munas	Alorese-Munaseli	Austronesian		'uma 'sigi	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+530	mosque	alor1247-munas	Alorese-Munaseli	Austronesian		'hoi 'hari 'biru	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+530	mosque	alor1247-munas	Alorese-Munaseli	Austronesian		'noe 'puwaŋ	to swear (lit. to swear oath)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+531	to curse	alor1247-munas	Alorese-Munaseli	Austronesian		'guru 'indʒil	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+531	to curse	alor1247-munas	Alorese-Munaseli	Austronesian		pan'ditaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+532	priest (modern)	alor1247-munas	Alorese-Munaseli	Austronesian		m'nakaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+533	sorcerer; witch	alor1247-munas	Alorese-Munaseli	Austronesian		'nadʒaŋ 'borɛŋ	lit. hut gather	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+534	initiation ceremony	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu 'indʒil	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+535	sermon	alor1247-munas	Alorese-Munaseli	Austronesian		'raŋ 'mahu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+536	sacrifice	alor1247-munas	Alorese-Munaseli	Austronesian		'lɛlaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+537	clan	alor1247-munas	Alorese-Munaseli	Austronesian		'kotɔŋ 'huar	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+538	chieftain	alor1247-munas	Alorese-Munaseli	Austronesian		'sɔrak 'sɔgaŋ	"to rule or govern (""sogang"": to support, to obey)"	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+539	to rule or govern	alor1247-munas	Alorese-Munaseli	Austronesian		'bela 'badʒa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+540	treaty	alor1247-munas	Alorese-Munaseli	Austronesian		'rale 'gute	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+541	marriage	alor1247-munas	Alorese-Munaseli	Austronesian		'niru	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+542	friend	alor1247-munas	Alorese-Munaseli	Austronesian		'nɛgɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+543	enemy	alor1247-munas	Alorese-Munaseli	Austronesian		'peiŋ 'beaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+544	king; ruler	alor1247-munas	Alorese-Munaseli	Austronesian		'ata 'laraŋ 'doaŋ	lit. person road far	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+545	stranger	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔndaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 546	to invite	alor1247-munas	Alorese-Munaseli	Austronesian		'gahiŋ	nan	nan	"('to invite', 'alor1247-besar', ""'gahĩŋ"")"	nan		
-547	to command or order	alor1247-munas	Alorese-Munaseli	Austronesian		'weli 'pala	nan	nan	"('to command or order', 'alor1247-munas', ""'weli_'pala"")"	nan		
-548	dowry	alor1247-munas	Alorese-Munaseli	Austronesian		'dewan 'adat	nan	nan	"('dowry', 'alor1247-munas', ""'dewan_'adat"")"	nan		
+547	to command or order	alor1247-munas	Alorese-Munaseli	Austronesian		'weli 'pala	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+548	dowry	alor1247-munas	Alorese-Munaseli	Austronesian		'dewan 'adat	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 549	the judge	alor1247-munas	Alorese-Munaseli	Austronesian		'turuŋ 'apa	nan	nan	"('the judge', 'alor1247-besar', ""'turuŋ"")"	nan		
-550	accuse	alor1247-munas	Alorese-Munaseli	Austronesian		'mariŋ 'go 'hala	lit. say 1SG wrong	nan	"('accuse', 'alor1247-munas', ""'mariŋ_'go_'hala"")"	nan		
-551	guilty	alor1247-munas	Alorese-Munaseli	Austronesian		'hala 'lahɛ	lit. wrong not	nan	"('guilty', 'abui1241-takal', ""rɔ.fi_'nä.hä"")"	nan		
-552	innocent	alor1247-munas	Alorese-Munaseli	Austronesian		bunɔ wə'ki	lit. kill each other	nan	"('innocent', 'alor1247-besar', ""'bunɔ"")"	nan		
+550	accuse	alor1247-munas	Alorese-Munaseli	Austronesian		'mariŋ 'go 'hala	lit. say 1SG wrong	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+551	guilty	alor1247-munas	Alorese-Munaseli	Austronesian		'hala 'lahɛ	lit. wrong not	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+552	innocent	alor1247-munas	Alorese-Munaseli	Austronesian		bunɔ wə'ki	lit. kill each other	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 553	the murder	alor1247-munas	Alorese-Munaseli	Austronesian		'buha	nan	nan	"('the murder', 'alor1247-besar', ""'buha_ma'leku"")"	nan		
 554	the adultery	alor1247-munas	Alorese-Munaseli	Austronesian		'pate 'hala	nan	nan	"('the adultery', 'alor1247-besar', ""'pate_'hala"")"	nan		
-555	penalty	alor1247-munas	Alorese-Munaseli	Austronesian		'pukɔʔ	nan	nan	"('penalty', 'alor1247-besar', ""'pukɔ"")"	nan		
-556	fishnet	alor1247-munas	Alorese-Munaseli	Austronesian		'sɔmba	nan	nan	"('fishnet', 'alor1247-besar', ""'ampɔ"")"	nan		
-557	to surrender	alor1247-munas	Alorese-Munaseli	Austronesian		'rɛmba	nan	nan	"('to surrender', 'alor1247-munas', ""'rɛmba"")"	nan		
-558	to defend	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhɔ 'kataŋ	lit. enemy compete	nan	"('to defend', 'alor1247-munas', ""'nuhɔ_'kataŋ"")"	nan		
+555	penalty	alor1247-munas	Alorese-Munaseli	Austronesian		'pukɔʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+556	fishnet	alor1247-munas	Alorese-Munaseli	Austronesian		'sɔmba	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+557	to surrender	alor1247-munas	Alorese-Munaseli	Austronesian		'rɛmba	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+558	to defend	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhɔ 'kataŋ	lit. enemy compete	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 559	the war or battle	alor1247-munas	Alorese-Munaseli	Austronesian		'kuraŋ g'nasiŋ	nan	nan	"('the war or battle', 'alor1247-munas', ""'kuraŋ_g'nasiŋ"")"	nan		
-560	poor	alor1247-munas	Alorese-Munaseli	Austronesian		k'wasaŋ	nan	nan	"('poor', 'alor1247-besar', ""ka'fasaŋ"")"	nan		
-560	poor	alor1247-munas	Alorese-Munaseli	Austronesian		'bisaŋ	rich (wealthy)	nan	"('poor', 'alor1247-besar', ""ka'fasaŋ"")"	nan		
+560	poor	alor1247-munas	Alorese-Munaseli	Austronesian		k'wasaŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+560	poor	alor1247-munas	Alorese-Munaseli	Austronesian		'bisaŋ	rich (wealthy)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 561	rich	alor1247-munas	Alorese-Munaseli	Austronesian		k'uar	nan	nan	"('rich', 'alor1247-munas', ""k'uar"")"	nan		
 561	rich	alor1247-munas	Alorese-Munaseli	Austronesian		'bintis	nan	nan	"('rich', 'alor1247-munas', ""'bintis"")"	nan		
-562	money	alor1247-munas	Alorese-Munaseli	Austronesian		'wu	nan	nan	"('money', 'alor1247-besar', ""'fu"")"	nan		
-563	market	alor1247-munas	Alorese-Munaseli	Austronesian		'weliŋ	nan	nan	"('market', 'alor1247-besar', ""'feliŋ"")"	nan		
-564	price	alor1247-munas	Alorese-Munaseli	Austronesian		'apa 'ada	nan	nan	"('price', 'alor1247-besar', ""'go_'apa"")"	nan		
-565	to own	alor1247-munas	Alorese-Munaseli	Austronesian		'bihɛʔ	nan	nan	"('to own', 'alor1247-besar', ""'bihɛ"")"	nan		
-566	to borrow	alor1247-munas	Alorese-Munaseli	Austronesian		'raŋ 'wu	lit. make market	nan	"('to borrow', 'alor1247-munas', ""'raŋ_'wu"")"	nan		
-567	to trade or barter	alor1247-munas	Alorese-Munaseli	Austronesian		'weliŋ b'lɔlɔʔ	lit. price high	nan	"('to trade or barter', 'alor1247-besar', ""'feliŋ"")"	nan		
-568	expensive	alor1247-munas	Alorese-Munaseli	Austronesian		'weliŋ 'wɛrɔʔ	lit. price short	nan	('expensive', 'adon1237', 'ˈwelĩ')	nan		
-569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		kə'kuŋ	(1SG)	nan	"('cheap', 'alor1247-munas', ""_tə'kuŋ"")"	nan		
-569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		mə'kuŋ	(2SG)	nan	"('cheap', 'alor1247-munas', ""_tə'kuŋ"")"	nan		
-569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		nə'kuŋ	(3SG)	nan	"('cheap', 'alor1247-munas', ""_tə'kuŋ"")"	nan		
-569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		mə'kuŋ	(1PL.EXCL)	nan	"('cheap', 'alor1247-munas', ""_tə'kuŋ"")"	nan		
-569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		 tə'kuŋ	(1PL.INCL)	nan	"('cheap', 'alor1247-munas', ""_tə'kuŋ"")"	nan		
-569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		rə'kuŋ	(3PL)	nan	"('cheap', 'alor1247-munas', ""_tə'kuŋ"")"	nan		
-569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		mə'kuŋ	(2PL)	nan	"('cheap', 'alor1247-munas', ""_tə'kuŋ"")"	nan		
-570	to grasp	alor1247-munas	Alorese-Munaseli	Austronesian		'nawuŋ	nan	nan	"('to grasp', 'abui1241-takal', ""hɔ.'pun.nä"")"	nan		
-571	to let go	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhu 'lɔdɔŋ	nan	nan	"('to let go', 'alor1247-munas', ""'nuhu_'lɔdɔŋ"")"	nan		
-572	to promise	alor1247-munas	Alorese-Munaseli	Austronesian		k'dirɛʔ	nan	nan	"('to promise', 'alor1247-besar', ""'kirɛ"")"	nan		
-573	word	alor1247-munas	Alorese-Munaseli	Austronesian		'hodɛ k'dirɛʔ	nan	nan	"('word', 'alor1247-munas', ""'hodɛ_k'dirɛʔ"")"	nan		
-574	to answer	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔnɔ 'gɛhiŋ	lit. inside doesn't want	nan	"('to answer', 'alor1247-munas', ""'ɔnɔ_'gɛhiŋ"")"	nan		
-575	to refuse	alor1247-munas	Alorese-Munaseli	Austronesian		'maga	nan	nan	"('to refuse', 'alor1247-besar', ""ta'maga"")"	nan		
-576	to whisper	alor1247-munas	Alorese-Munaseli	Austronesian		'ramaʔ	nan	nan	"('to whisper', 'alor1247-munas', ""'ramaʔ"")"	nan		
-577	to be silent	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu 'mariŋ	lit. speak say	nan	"('to be silent', 'alor1247-besar', ""'tutu"")"	nan		
-578	to tell	alor1247-munas	Alorese-Munaseli	Austronesian		'guru 'apa	nan	nan	"('to tell', 'alor1247-munas', ""'guru_'apa"")"	nan		
-579	to learn	alor1247-munas	Alorese-Munaseli	Austronesian		'nuaŋ 'apa	nan	nan	"('to learn', 'alor1247-munas', ""'nuaŋ_'apa"")"	nan		
-580	to teach	alor1247-munas	Alorese-Munaseli	Austronesian		sɛ'sadʒa	nan	nan	"('to teach', 'alor1247-munas', ""sɛ'sadʒa"")"	nan		
-580	to teach	alor1247-munas	Alorese-Munaseli	Austronesian		pə'duk	nan	nan	"('to teach', 'alor1247-munas', ""pə'duk"")"	nan		
-581	easy	alor1247-munas	Alorese-Munaseli	Austronesian		'tudaʔ	nan	nan	"('easy', 'alor1247-munas', ""'tudaʔ"")"	nan		
-582	difficult	alor1247-munas	Alorese-Munaseli	Austronesian		'hapuʔ	nan	nan	"('difficult', 'alor1247-munas', ""'hapuʔ"")"	nan		
-583	finished	alor1247-munas	Alorese-Munaseli	Austronesian		'nihu	nan	nan	"('finished', 'alor1247-besar', ""'hamuŋ"")"	nan		
-584	now	alor1247-munas	Alorese-Munaseli	Austronesian		'dane	nan	nan	"('now', 'alor1247-besar', ""'dane"")"	nan		
-585	hour	alor1247-munas	Alorese-Munaseli	Austronesian		'hama	nan	nan	"('hour', 'alor1247-besar', ""'hama"")"	nan		
-586	same	alor1247-munas	Alorese-Munaseli	Austronesian		'likaʔ	nan	nan	"('same', 'alor1247-besar', ""'lika"")"	nan		
-587	oven/cooking place	alor1247-munas	Alorese-Munaseli	Austronesian		'puhuŋ	nan	nan	('oven/cooking place', 'adan1251-lawah', 'ʔa')	nan		
+562	money	alor1247-munas	Alorese-Munaseli	Austronesian		'wu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+563	market	alor1247-munas	Alorese-Munaseli	Austronesian		'weliŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+564	price	alor1247-munas	Alorese-Munaseli	Austronesian		'apa 'ada	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+565	to own	alor1247-munas	Alorese-Munaseli	Austronesian		'bihɛʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+566	to borrow	alor1247-munas	Alorese-Munaseli	Austronesian		'raŋ 'wu	lit. make market	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+567	to trade or barter	alor1247-munas	Alorese-Munaseli	Austronesian		'weliŋ b'lɔlɔʔ	lit. price high	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+568	expensive	alor1247-munas	Alorese-Munaseli	Austronesian		'weliŋ 'wɛrɔʔ	lit. price short	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		kə'kuŋ	(1SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		mə'kuŋ	(2SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		nə'kuŋ	(3SG)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		mə'kuŋ	(1PL.EXCL)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		 tə'kuŋ	(1PL.INCL)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		rə'kuŋ	(3PL)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+569	cheap	alor1247-munas	Alorese-Munaseli	Austronesian		mə'kuŋ	(2PL)	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+570	to grasp	alor1247-munas	Alorese-Munaseli	Austronesian		'nawuŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+571	to let go	alor1247-munas	Alorese-Munaseli	Austronesian		'nuhu 'lɔdɔŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+572	to promise	alor1247-munas	Alorese-Munaseli	Austronesian		k'dirɛʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+573	word	alor1247-munas	Alorese-Munaseli	Austronesian		'hodɛ k'dirɛʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+574	to answer	alor1247-munas	Alorese-Munaseli	Austronesian		'ɔnɔ 'gɛhiŋ	lit. inside doesn't want	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+575	to refuse	alor1247-munas	Alorese-Munaseli	Austronesian		'maga	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+576	to whisper	alor1247-munas	Alorese-Munaseli	Austronesian		'ramaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+577	to be silent	alor1247-munas	Alorese-Munaseli	Austronesian		'tutu 'mariŋ	lit. speak say	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+578	to tell	alor1247-munas	Alorese-Munaseli	Austronesian		'guru 'apa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+579	to learn	alor1247-munas	Alorese-Munaseli	Austronesian		'nuaŋ 'apa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+580	to teach	alor1247-munas	Alorese-Munaseli	Austronesian		sɛ'sadʒa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+580	to teach	alor1247-munas	Alorese-Munaseli	Austronesian		pə'duk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+581	easy	alor1247-munas	Alorese-Munaseli	Austronesian		'tudaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+582	difficult	alor1247-munas	Alorese-Munaseli	Austronesian		'hapuʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+583	finished	alor1247-munas	Alorese-Munaseli	Austronesian		'nihu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+584	now	alor1247-munas	Alorese-Munaseli	Austronesian		'dane	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+585	hour	alor1247-munas	Alorese-Munaseli	Austronesian		'hama	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+586	same	alor1247-munas	Alorese-Munaseli	Austronesian		'likaʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+587	oven/cooking place	alor1247-munas	Alorese-Munaseli	Austronesian		'puhuŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 588	flower (in e.g. mangga tree)	alor1247-munas	Alorese-Munaseli	Austronesian		'aliŋ	nan	nan	"('flower (in e.g. mangga tree)', 'alor1247-munas', ""'aliŋ"")"	nan		
 589	vein	alor1247-munas	Alorese-Munaseli	Austronesian		b'lahak	nan	nan	"('vein', 'alor1247-besar', ""('kadʒo)_bəla'hakaŋ"")"	nan		
-590	long (stick)	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɔlɔk	nan	nan	('long (stick)', 'adon1237', 'bɜlahɜˈa')	nan		
-591	tall (person)	alor1247-munas	Alorese-Munaseli	Austronesian		mə'ku	nan	nan	"('tall (person)', 'alor1247-besar', ""('kadʒo)_'maku"")"	nan		
+590	long (stick)	alor1247-munas	Alorese-Munaseli	Austronesian		b'lɔlɔk	nan	nan	('long (stick)', 'adon1237', 'ˈblaha,_bɜlahɜˈa')	nan		
+591	tall (person)	alor1247-munas	Alorese-Munaseli	Austronesian		mə'ku	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
 592	short (stick)	alor1247-munas	Alorese-Munaseli	Austronesian		'kupɔʔ	nan	nan	"('short (stick)', 'alor1247-besar', ""'kipɛ"")"	nan		
-595	roof rafter	alor1247-munas	Alorese-Munaseli	Austronesian		'gɛna	nan	nan	"('roof rafter', 'alor1247-besar', ""'gɛna"")"	nan		
-596	to search/hunt for	alor1247-munas	Alorese-Munaseli	Austronesian		'tɔbɔ 'tɛlɛng	nan	nan	"('to search/hunt for', 'alor1247-besar', ""'tɔbɔ_'tae"")"	nan		
-597	to crouch	alor1247-munas	Alorese-Munaseli	Austronesian		'tutɛ	nan	nan	"('to crouch', 'alor1247-besar', ""'tutɛ"")"	nan		
+595	roof rafter	alor1247-munas	Alorese-Munaseli	Austronesian		'gɛna	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+596	to search/hunt for	alor1247-munas	Alorese-Munaseli	Austronesian		'tɔbɔ 'tɛlɛng	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+597	to crouch	alor1247-munas	Alorese-Munaseli	Austronesian		'tutɛ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		

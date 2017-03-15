@@ -6,18 +6,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 5	day	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ləro	nan	nan	"('day', 'adon1237', ""rɜ'_rɔ̃"")"	nan	173. Hari 
 6	year	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tuŋ	nan	nan	('year', 'abui1241-petle', 'tuŋ')	nan	172. Tahun 
 13	cloud	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔowa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
-14	wind	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	aŋin	nan	nan	('wind', 'adon1237', 'ˈʔaŋĩ')	nan	140. Angin 
+14	wind	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	aŋin	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan	140. Angin 
 15	rain	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	urã	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan	138. Hujan 
 22	river; stream	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	luŋu	nan	nan	('river; stream', 'cent2245-hewa', 'wair_ba')	nan	130. Sungai 
 25	lake	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	opa	nan	nan	('lake', 'keda1252', 'o̤pa')	nan	129. Danau 
 26	mountain	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ile	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan	131. Gunung 
 30	Earth	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tana	nan	nan	('Earth', 'cent2245-hewa', 'tana')	nan	119. Tanah 
-32	stone	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wato	nan	nan	"('stone', 'adon1237', ""'watɔ"")"	nan	120. Batu 
+32	stone	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wato	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	120. Batu 
 35	water (fresh)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wae	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan	122. Air 
 36	sea; sea water	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tahi	nan	nan	('sea; sea water', 'cent2245-hewa', 'tahiʔ')	nan	127. Laut 
 39	forest	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	əso ʔuho	nan	nan	('forest', 'lama1277-belan', 'eka_maŋan')	nan	132. Hutan
 45	road; path; way	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	laran	nan	nan	('road; path; way', 'lama1277-belan', 'lara')	nan	7. Jalan
-51	rope	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tale	nan	nan	('rope', 'abui1241-fuime', 'tila')	nan	65. Tali
+51	rope	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tale	nan	nan	('rope', 'lama1277-baipi', 'tale')	nan	65. Tali
 65	clothing	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	uluale	nan	nan	('clothing', 'adon1237', 'aleˈlolo')	nan	68. Pakaian 
 67	fire	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	a̤pe	breathy vowel	nan	('fire', 'adon1237', 'ˈʔape')	nan	148. Api 
 68	smoke	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nuhẽ	nan	nan	('smoke', 'adon1237', 'ˈnuhũ')	nan	150. Asap 
@@ -28,58 +28,58 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 84	tree	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	əso	nan	nan	('tree', 'kula1280-lanto', 'aska_ge')	nan	110. Pohon 
 87	leaf	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	lolõ	nan	nan	('leaf', 'adon1237', 'ˈlolõ')	nan	112. Daun 
 91	root	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ramu	nan	nan	('root', 'cent2245-hewa', 'ramut')	nan	114. Akar 
-92	fruit	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wuʔɔ̃	nan	nan	('fruit', 'adon1237', 'kajo_ˈwuã')	nan	117. Buah 
+92	fruit	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wuʔɔ̃	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan	117. Buah 
 93	seed	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔulũ	nan	nan	('seed', 'adon1237', 'ˈkulʔũ')	nan	115. Biji 
-95	flower	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	puhũ	nan	nan	"('flower', 'alor1247-besar', ""'puhuŋ"")"	nan	116. Bunga 
+95	flower	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	puhũ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	116. Bunga 
 129	salt	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	taʔo	nan	nan	('salt', 'lama1277-baipi', 'siʔa')	nan	128. Garam 
-130	fat	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	worõ	nan	nan	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	nan	104. Lemak 
+130	fat	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	worõ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	104. Lemak 
 131	flesh; meat	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	əlã	nan	nan	('flesh; meat', 'lama1277-dulhi', 'əwã')	nan	103. Daging 
-132	bone	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	riʔũ	nan	nan	('bone', 'adon1237', 'ˈriʔũː')	nan	19. Tulang
+132	bone	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	riʔũ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	19. Tulang
 136	blood	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	meʔi	nan	nan	('blood', 'adon1237', 'mei')	nan	26. Darah
 138	heart	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pũhũ	nan	nan	('heart', 'adon1237', 'ˈpuho')	nan	22. Jantung
-139	liver	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ũhã	nan	nan	('liver', 'fata1247', 'ari')	nan	21. Hati
+139	liver	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ũhã	nan	nan	('liver', 'lama1277-imulo', 'orasa')	nan	21. Hati
 144	stomach; belly	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	botih	nan	nan	('stomach; belly', 'cent2245-hewa', 'dula')	nan	18. Perut
-145	head	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	əte	nan	nan	('head', 'abui1241-fuime', 'kai')	nan	27. Kepala
+145	head	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	əte	nan	nan	('head', 'cent2245-hewa', 'loʔe')	nan	27. Kepala
 146	hair	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	əte ratã	nan	nan	('hair', 'adon1237', 'ˈrataʔ')	nan	29. Rambut
 148	eye	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ulu	nan	nan	('eye', 'lama1277-imulo', 'kulukəs')	nan	47. Mata
 149	ear	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tilũ	nan	nan	('ear', 'adon1237', 'ˈtiluˈk3t')	nan	45. Telinga
-150	nose	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nirũ	nan	nan	('nose', 'adon1237', 'ˈiruˈn3t')	nan	30. Hidung
-151	mouth	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nuhe	nan	nan	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan	33. Mulut
+150	nose	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nirũ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	30. Hidung
+151	mouth	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nuhe	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	33. Mulut
 155	tongue	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ebe	nan	nan	('tongue', 'adon1237', 'ˈɜwɜˈrɜt')	nan	35. Lidah
 156	neck	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wull̃	nan	nan	"('neck', 'alor1247-baran', ""'fuliŋ"")"	nan	28. Leher
 164	hand	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	lima	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan	1. Tangan
 175	foot	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	lei	nan	nan	('foot', 'adon1237', 'ˈleikɜt_tɜˈnɑpʔã')	nan	4. Kaki
 179	back	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	woho	nan	nan	('back', 'adon1237', 'ˈwohʔoˈkɜt')	nan	17. Punggung
 182	skin	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	uli	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan	16. Kulit
-190	person	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	atadiyã	nan	nan	('person', 'adon1237', 'ˈʔata')	nan	53. Orang
-191	name	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nara	nan	nan	('name', 'adon1237', 'ˈnarã')	nan	63. Nama
-192	child	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ana	nan	nan	('child', 'cent2245-hewa', 'dedi_anak')	nan	56. Anak
+190	person	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	atadiyã	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	53. Orang
+191	name	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nara	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	63. Nama
+192	child	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ana	nan	nan	('child', 'adon1237', 'ˈʔanaʔ')	nan	56. Anak
 193	man	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	rəbã	nan	nan	('man', 'keda1252', 'ebe_ʔabe')	nan	54. Laki-laki
 194	woman	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bare	nan	nan	('woman', 'kama1365', 'mare')	nan	55. Wanita
 195	husband	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	təlaʔe	nan	nan	('husband', 'adon1237', 'ˈlakhẽ')	nan	57. Suami
 196	wife	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bare	nan	nan	('wife', 'lama1277-lewoe', 'bare')	nan	58. Isteri
 197	mother	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ina	nan	nan	('mother', 'lama1277-belan', 'ina')	nan	59. Ibu
 198	father	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ama	nan	nan	('father', 'adon1237', 'ˈʔama')	nan	60. Bapak
-199	older sibling	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔaʔa	nan	nan	('older sibling', 'adon1237', 'kaka')	nan	61. Kakak
-200	younger sibling	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wari	nan	nan	('younger sibling', 'adon1237', 'ˈʔarim')	nan	62. Adik
+199	older sibling	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔaʔa	nan	nan	('older sibling', 'adon1237', 'kakãm,_kaka')	nan	61. Kakak
+200	younger sibling	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wari	nan	nan	('younger sibling', 'adan1251-otvai', 'di')	nan	62. Adik
 203	1sg	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	goe	nan	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan	184. Saya 
 204	2sg (informal)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	moʔe	nan	nan	('2sg (informal)', 'cent2245-hewa', 'miu')	nan	185. Engkau/ kamu 
 204	2sg (informal)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mio	nan	nan	('2sg (informal)', 'cent2245-hewa', 'miu')	nan	185. Engkau/ kamu 
-206	3sg	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	noʔe	nan	nan	('3sg', 'adon1237', 'ˈnaʔɛ')	nan	186. Dia 
+206	3sg	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	noʔe	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	186. Dia 
 207	1pl excl	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ome	nan	nan	('1pl excl', 'cent2245-hewa', 'ami')	nan	188. Kami 
 208	1pl incl	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	gite	nan	nan	('1pl incl', 'cent2245-hewa', 'ita')	nan	187. Kita 
-210	3pl	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	roʔe	nan	nan	('3pl', 'adon1237', 'ˈraʔe')	nan	189. Mereka 
-212	and	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nu	nan	nan	('and', 'adon1237', 'ˈtaliʔ')	nan	197. Dan 
+210	3pl	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	roʔe	nan	nan	('3pl', 'lama1277-baipi', 'raʔe')	nan	189. Mereka 
+212	and	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nu	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan	197. Dan 
 213	because	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔele	nan	nan	('because', 'cent2245-hewa', 'əle')	nan	199. Sebab 
 215	with	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	rua	nan	nan	('with', 'lama1277-lewoe', 'rua')	nan	198. Dengan
 216	what?	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ape	nan	nan	('what?', 'alor1247-baran', 'pei')	nan	190. Apa 
 217	who?	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	heʔe	nan	nan	('who?', 'cent2245-hewa', 'hainimu')	nan	191. Siapa 
 218	where?	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	deʔea	nan	nan	('where?', 'cent2245-hewa', 'upa')	nan	183. Di mana 
 219	when?	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	erepirə	nan	nan	('when?', 'cent2245-hewa', 'rəmapira')	nan	174. Bilamana 
-223	this	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bobo	nan	nan	('this', 'kama1365', 'apa')	nan	179. Ini 
+223	this	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bobo	nan	nan	('this', 'cent2245-hewa', 'ete')	nan	179. Ini 
 224	that	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nene	nan	nan	"('that', 'keda1252', ""no'beʔ"")"	nan	180. Itu 
-227	here	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	noʔo	nan	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan	177. Di sini 
-228	there	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	weli	nan	nan	"('there', 'alor1247-besar', ""'fali_'kali"")"	nan	178. Di situ 
+227	here	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	noʔo	nan	nan	('here', 'cent2245-hewa', 'ete')	nan	177. Di sini 
+228	there	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	weli	nan	nan	('there', 'abui1241-petle', 'we')	nan	178. Di situ 
 231	left (side)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wirĩ	nan	nan	('left (side)', 'adan1251-otvai', 'fiʔiŋ')	nan	2. Kiri
 232	right (side)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wana	nan	nan	('right (side)', 'adan1251-otvai', 'taniŋ')	nan	3. Kanan
 233	a few	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	kana	nan	nan	('a few', 'cent2245-hewa', 'anakha')	nan	195. Sedikit 
@@ -90,13 +90,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 249	tail	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔiʔu	nan	nan	('tail', 'cent2245-hewa', 'i̤ʔur')	nan	105. Ekor 
 250	fish	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔiʔã	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan	109. Ikan 
 259	bird	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	manuʔotõ	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan	97. Burung 
-260	wing	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	api	nan	nan	('wing', 'abui1241-fuime', 'ha-bakai')	nan	100. Sayap 
+260	wing	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	api	nan	nan	('wing', 'cent2245-hewa', 'kapik')	nan	100. Sayap 
 262	feather	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	rawũ	nan	nan	('feather', 'adon1237', 'ˈrawuke')	nan	99. Bulu 
 264	snake	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ula	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan	106. Ular 
 266	egg	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	təlũ	nan	nan	('egg', 'adon1237', 'ˈtɛluk')	nan	98. Telur 
 279	louse (clothing)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	uto	nan	nan	('louse (clothing)', 'lama1277-baipi', 'kuto')	nan	108. Kutu 
-281	big	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bəle	nan	nan	('big', 'adon1237', 'ˈbele')	nan	158. Besar 
-282	small	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	kana	nan	nan	('small', 'abui1241-fuime', 'kdiŋ')	nan	157. Kecil 
+281	big	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bəle	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	158. Besar 
+282	small	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	kana	nan	nan	('small', 'abui1241-fuime', 'kding')	nan	157. Kecil 
 284	new (house)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wərũ	nan	nan	('new (house)', 'lama1277-baipi', 'wuʔũ')	nan	167. Baru 
 288	hot	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pati	nan	nan	('hot', 'adon1237', 'ˈplate')	nan	142. Panas 
 289	cold	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	lətɔ	nan	nan	('cold', 'abui1241-fuime', 'palata')	nan	143. Dingin 
@@ -106,12 +106,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 295	far	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	doa	nan	nan	('far', 'adon1237', 'ˈdɔɑ̃')	nan	182. Jauh 
 296	wet	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ilo	nan	nan	('wet', 'lama1277-lewoe', 'ilo')	nan	145. Basah 
 297	dry	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mɔrɔ	nan	nan	('dry', 'adon1237', 'ˈmaʔrã')	nan	144. Kering 
-299	long	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bawã	nan	nan	"('long', 'abui1241-takal', ""lɔ.'hu"")"	nan	160. Panjang 
-301	short	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	boʔõ	nan	nan	('short', 'abui1241-takal', 'bui')	nan	159. Pendek 
+299	long	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bawã	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	160. Panjang 
+301	short	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	boʔõ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	159. Pendek 
 303	thin (non-human)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mipi	nan	nan	('thin (non-human)', 'cent2245-hewa', 'leler')	nan	161. Tipis 
 305	thick	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wəra	nan	nan	('thick', 'adon1237', 'pɜˈwɜrã')	nan	162. Tebal 
 309	dirty	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	raʔe	nan	nan	('dirty', 'lama1277-lewoe', 'raʔe')	nan	14. Kotor
-311	sharp	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	reʔõ	nan	nan	('sharp', 'buna1278-bobon', 'sɔɁ')	nan	81. Tajam 
+311	sharp	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	reʔõ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	81. Tajam 
 312	blunt; dull	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	milu	nan	nan	('blunt; dull', 'cent2245-hewa', 'bohu')	nan	82. Tumpul 
 313	heavy	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	bəra	nan	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan	147. Berat 
 315	straight	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mohpa	nan	nan	('straight', 'lama1277-baipi', 'mopa')	nan	165. Lurus 
@@ -119,7 +119,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 317	narrow	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ʔuhu	nan	nan	('narrow', 'lama1277-baipi', 'gələgipət')	nan	163. Sempit 
 321	rotten	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	weu	nan	nan	('rotten', 'cent2245-hewa', 'wauk')	nan	111. Busuk 
 326	flat	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mənete	nan	nan	('flat', 'cent2245-hewa', 'rata')	nan	146. Rata 
-329	black	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mistã	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan	152. Hitam 
+329	black	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mistã	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	152. Hitam 
 330	white	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	burɔ̃	nan	nan	('white', 'adon1237', 'ˈburaʔ')	nan	153. Putih 
 331	red	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mera	nan	nan	('red', 'cent2245-hewa', 'meran')	nan	154. Merah 
 332	green	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	taŋe	nan	nan	"('green', 'alor1247-munas', ""'taŋaŋ"")"	nan	156. Hijau 
@@ -127,7 +127,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 341	scared	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	goʔə	nan	nan	('scared', 'adon1237', 'ˈsoʔot')	nan	25. Takut
 343	to see	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	todo	nan	nan	('to see', 'lama1277-baipi', 'tədə')	nan	48. Melihat
 344	to hear	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	dəŋe	nan	nan	('to hear', 'cent2245-hewa', 'diʔin')	nan	46. Dengar
-345	to smell	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	hodã	nan	nan	('to smell', 'alor1247-baran', 'siɔ̃:')	nan	32. Membaui
+345	to smell	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	hodã	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	32. Membaui
 346	to think	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	huã	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan	24. Pikir
 347	to know	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	təgo	nan	nan	('to know', 'lama1277-lewoe', 'təgo')	nan	23. Tahu
 348	to say	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	təde	nan	nan	('to say', 'lama1277-baipi', 'mari')	nan	64. Bilang
@@ -149,21 +149,21 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 375	to work	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ewo eʔo	nan	nan	('to work', 'lama1277-lewoe', 'ewo_eʔo')	nan	83. Bekerja 
 376	to die	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mata	nan	nan	('to die', 'cent2245-hewa', 'mate')	nan	75. Mati 
 377	to give	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	sorõ	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan	91. Memberi 
-378	to wipe	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	hapu	nan	nan	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	nan	12. Hapus
-379	to come	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	hoʔe	nan	nan	('to come', 'blag1240-kulij', 'hoa')	nan	8. Datang
+378	to wipe	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	hapu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	12. Hapus
+379	to come	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	hoʔe	nan	nan	('to come', 'adan1251-otvai', 'hɔʔ')	nan	8. Datang
 380	to laugh	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	geʔa	nan	nan	('to laugh', 'adon1237', 'ˈɡeka')	nan	36. Tertawa
 381	to cry	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tani	nan	nan	('to cry', 'adon1237', 'ˈtani')	nan	37. Menangis
-382	to dance	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	sokə	nan	nan	('to dance', 'abui1241-fuime', 'tohaijok')	nan	86. Menari 
-383	to sing	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	kata	nan	nan	('to sing', 'buna1278-bobon', 'gio_logo')	nan	85. Menyanyi
+382	to dance	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	sokə	nan	nan	('child', 'kama1365', 'dum')	nan	86. Menari 
+383	to sing	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	kata	nan	nan	('to sing', 'buna1278-bobon', 'kantar,_gio_logo')	nan	85. Menyanyi
 384	to burn (clear land)	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	deʔe	nan	nan	('to burn (clear land)', 'cent2245-hewa', 'holo')	nan	149. Membakar 
 389	to suck	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tuhu	nan	nan	('to suck', 'cent2245-hewa', 'wuhu')	nan	44. Menetek
-390	to blow	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pui	nan	nan	('to blow', 'abui1241-fuime', 'furuŋra')	nan	141. Bertiup 
+390	to blow	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pui	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan	141. Bertiup 
 391	to spit	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	piru	nan	nan	('to spit', 'lama1277-baipi', 'pərino')	nan	39. Meludah
 392	to vomit	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mu	nan	nan	"('to vomit', 'alor1247-baran', ""'mut:a"")"	nan	38. Muntah
 393	to rub	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	doru	nan	nan	('to rub', 'adon1237', 'doˈruʔ')	nan	13. Gosok
 394	to scratch	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ragu	nan	nan	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	nan	77. Menggaruk 
 399	to bite	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	giʔi	nan	nan	('to bite', 'adon1237', 'ˈɡike')	nan	43. Gigit
-400	to cut	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	belu	nan	nan	('to cut', 'adon1237', 'ˈporoʔ')	nan	78. Memotong
+400	to cut	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	belu	nan	nan	('to cut', 'adon1237', 'ˈbelo,_ˈporoʔ')	nan	78. Memotong
 402	to split	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ləgo	nan	nan	('to split', 'adon1237', 'ˈlɜkɑʔ')	nan	80. Membelah 
 404	to stab	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	tuba	nan	nan	('to stab', 'alor1249-sar-a', 'tatap')	nan	71. Menikam 
 406	to fight	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ladu(woʔi)	nan	nan	('to fight', 'lama1277-lewoe', 'ladu(woʔi)')	nan	73. berkelahi 
@@ -181,18 +181,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	piu	nan	nan	('to squeeze', 'adon1237', 'ˈpiʔuk')	nan	88. Memeras 
 441	to bark	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	əso ʔamã	nan	nan	('to bark', 'keda1252', 'ayi_amaʔ')	nan	113. Kulit kayu
 442	to shoot	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pasa	nan	nan	('to shoot', 'adon1237', 'ˈpasak')	nan	70. Menembak 
-601	footprint	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	l. pã	nan	nan	('footprint', 'lama1277-baipi', 'l._əpã')	nan	5. Kaki
+601	footprint	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	l. pã	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	5. Kaki
 603	return	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	peko	nan	nan	('return', 'cent2245-hewa', 'gəwali')	nan	9. Balik
-606	stomach	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ũhãlau	nan	nan	('stomach', 'lama1277-lewoe', 'ũhãlau')	nan	20. Isi perut
+606	stomach	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ũhãlau	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	20. Isi perut
 607	tooth	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ihpe	nan	nan	('tooth', 'cent2245-hewa', 'niʔu')	nan	34. Gigi
 609	fist	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	sado	nan	nan	('fist', 'cent2245-hewa', 'sadok')	nan	72. Bertinju 
 612	stem	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	nawa	nan	nan	('stem', 'cent2245-hewa', 'a̤i')	nan	79. Batang 
 614	swollen	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	mawa	nan	nan	('swollen', 'cent2245-hewa', 'bowo')	nan	87. Bengkak
 618	worm	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	səwalo	nan	nan	('worm', 'cent2245-hewa', 'taibener')	nan	107. Cacing 
-625	dew	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	apũ	nan	nan	('dew', 'cent2245-hewa', 'apun')	nan	137. Embun 
-629	old	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	magũ	nan	nan	('old', 'lama1277-lamat', 'magũ')	nan	166. Tua 
-631	right, correct	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	na toʔõ	nan	nan	('right, correct', 'lama1277-lewoe', 'na_toʔõ')	nan	170. Betul 
+625	dew	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	apũ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	137. Embun 
+629	old	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	magũ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	166. Tua 
+631	right, correct	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	na toʔõ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	170. Betul 
 633	in	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	wəli	nan	nan	('in', 'cent2245-hewa', 'reta')	nan	175. Di 
 634	inside	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	ləmə	nan	nan	('inside', 'cent2245-hewa', 'ləman')	nan	176. Dalam 
-641	other	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pehã	nan	nan	('other', 'cent2245-hewa', 'pehan')	nan	192. Lain
+641	other	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pehã	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	192. Lain
 642	some	lama1277-lewoe	Lewoeleng	Austronesian	8Lembata	pirəpirə	nan	nan	('some', 'cent2245-hewa', 'harua')	nan	193. Beberapa 
