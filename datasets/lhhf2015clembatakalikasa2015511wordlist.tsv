@@ -1,553 +1,587 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈləm	nan	nan	"('sky', 'adon1237', 'ˈkɜlɜ')"	nan		W1a
-1	sun	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luˈvak	nan	nan	"('sun', 'adon1237', 'ˈrɜra')"	nan		W1a
-2	moon	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈlan	nan	nan	"('moon', 'adon1237', 'ˈwulɑ̃')"	nan		W1a
-3	star	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	toˈnar	nan	nan	"('star', 'lama1277-imulo', 'tonar')"	nan		W1a
-4	night	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	buk	nan	nan	"('night', 'keda1252', ""u'bɛn"")"	nan		W1a
-5	day	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	leˈd͡ʒo	nan	nan	"('day', 'abui1241-fuime', 'tadeŋ')"	nan		W1a
-6	year	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tun	nan	nan	"('year', 'abui1241-petle', 'tuŋ')"	nan		W1a
-7	morning	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈɛn	nan	nan	"('morning', 'sout2896-kalik', 'baˈɛn')"	nan		W1a
-8	yesterday	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nəɡəˈro	nan	nan	"('yesterday', 'sout2896-kalik', 'nəɡəˈro')"	nan		W1a
-9	day before yesterday	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒəma ˈd͡ʒua be	nan	nan	"('day before yesterday', 'cent2245-hewa', 'rəma_rua_ete')"	nan		W1a
-10	tomorrow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bamˈbe	nan	nan	"('tomorrow', 'sout2896-kalik', 'bamˈbe')"	nan		W1a
-11	day after tomorrow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒəma ˈd͡ʒua	nan	nan	"('day after tomorrow', 'cent2245-hewa', 'rema_rua')"	nan		W1a
-12	twilight; dawn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈeka buˈd͡ʒak	nan	nan	"('twilight; dawn', 'adon1237', ""ʔekã_'dahe"")"	nan		W1aC1
+0	sky	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈləm	nan	nan	"('sky', 'abui1241-fuime', 'adi')"	nan		W1a
+1	sun	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luˈvak	nan	nan	"('sun', 'abui1241-fuime', 'wari')"	nan		W1a
+2	moon	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈlan	nan	nan	"('moon', 'abui1241-fuime', 'ije')"	nan		W1a
+3	star	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	toˈnar	nan	nan	"('star', 'abui1241-fuime', 'fɪri')"	nan		W1a
+4	night	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	buk	nan	nan	"('night', 'abui1241-fuime', 'tungtama')"	nan		W1a
+5	day	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	leˈd͡ʒo	nan	nan	"('day', 'abui1241-fuime', 'tadeng')"	nan		W1a
+6	year	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tun	nan	nan	"('year', 'adan1251', 'tun')"	nan		W1a
+7	morning	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈɛn	nan	nan	"('morning', 'abui1241-fuime', 'akuni')"	nan		W1a
+8	yesterday	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nəɡəˈro	nan	nan	"('yesterday', 'abui1241-fuime', 'tuonaa')"	nan		W1a
+9	day before yesterday	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒəma ˈd͡ʒua be	nan	nan	"('day before yesterday', 'abui1241-fuime', 'hetadeng ayoku')"	nan		W1a
+10	tomorrow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bamˈbe	nan	nan	"('tomorrow', 'abui1241-fuime', 'akuni')"	nan		W1a
+11	day after tomorrow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒəma ˈd͡ʒua	nan	nan	"('day after tomorrow', 'abui1241-fuime', 'ayoku')"	nan		W1a
+12	twilight; dawn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈeka buˈd͡ʒak	nan	nan	"('twilight; dawn', 'abui1241-fuime', 'arida pe')"	nan		W1aC1
 13	cloud	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	koˈvar	in the recording this word has the suffix -u	nan	"('cloud', 'abui1241-fuime', 'kabuti')"	nan		W1a
-14	wind	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈŋin	in the recording this word has the suffix -u	nan	"('wind', 'adon1237', 'ˈʔaŋĩ')"	nan		W1a
-15	rain	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈd͡ʒan	nan	nan	"('rain', 'adon1237', 'ˈʔurɑŋ')"	nan		W1a
-16	drizzle	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈd͡ʒan ɡrəˈtik	nan	nan	"('drizzle', 'alor1247-besar', ""'uraŋ_fa'rɛha-fa'rɛha"")"	nan		W1a
+14	wind	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈŋin	in the recording this word has the suffix -u	nan	"('wind', 'abui1241-fuime', 'timoi')"	nan		W1a
+15	rain	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈd͡ʒan	nan	nan	"('rain', 'abui1241-fuime', 'anui')"	nan		W1a
+16	drizzle	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈd͡ʒan ɡrəˈtik	nan	nan	"('drizzle', 'sout2896-kalik', 'uˈd͡ʒan ɡrəˈtik')"	nan		W1a
 17	rainbow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tokˈbad͡ʒu	nan	nan	"('rainbow', 'sout2896-kalik', 'tokˈbad͡ʒu')"	nan		W1a
-18	thunder	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kələˈɡor	in the recording this word has the suffix -u	nan	"('thunder', 'adon1237', ""kɜ'lɜka"")"	nan		W1a
-19	lightning	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ksiˈlap	nan	nan	"('lightning', 'adon1237', ""kɜ'hilat"")"	nan		W1a
-20	earthquake	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈblero ɛˈkok	nan	nan	"('earthquake', 'adon1237', ""'brero"")"	nan		W1a
-21	fog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	koˈvaru bənəˈbət	-u is a suffix	nan	"('fog', 'sout2896-kalik', 'koˈvaru_bənəˈbət')"	nan		W1a
+18	thunder	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kələˈɡor	in the recording this word has the suffix -u	nan	"('thunder', 'sout2896-kalik', 'kələˈɡor')"	nan		W1a
+19	lightning	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ksiˈlap	nan	nan	"('lightning', 'abui1241-fuime', 'falielai')"	nan		W1a
+20	earthquake	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈblero ɛˈkok	nan	nan	"('earthquake', 'abui1241-fuime', 'taiyoka')"	nan		W1a
+21	fog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	koˈvaru bənəˈbət	-u is a suffix	nan	"('fog', 'abui1241-fuime', 'tabo')"	nan		W1a
+22	river; stream	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈbak	nan	nan	"('river; stream', 'abui1241-fuime', 'lu')"	nan		W1a
 25	lake	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvai liˈvuŋ	nan	nan	"('lake', 'abui1241-fuime', 'wafoko')"	nan		W1a
-26	mountain	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈler	in the recording this word has the suffix -u	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan		W1a
-27	hill; ridge	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvoloŋ	nan	nan	"('hill; ridge', 'cent2245-hewa', 'ʋolon')"	nan		W1a
-28	village	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈvu	in the recording this word has the suffix -u	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		W1a; NB
-28	village	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈvɔr	in the recording this word has the suffix -u	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		W1a; NB
+26	mountain	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈler	in the recording this word has the suffix -u	nan	"('mountain', 'abui1241-fuime', 'buku')"	nan		W1a
+27	hill; ridge	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvoloŋ	nan	nan	"('hill; ridge', 'abui1241-fuime', 'buku')"	nan		W1a
+28	village	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈvu	in the recording this word has the suffix -u	nan	"('village', 'abui1241-fuime', 'melang')"	nan		W1a; NB
+28	village	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈvɔr	in the recording this word has the suffix -u	nan	"('village', 'abui1241-fuime', 'melang')"	nan		W1a; NB
 29	land; soil	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈna	in the recording this word has the suffix -u	nan	"('land; soil', 'abui1241-fuime', 'anei')"	nan		W1a; W1a
 29	land; soil	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈnan	in the recording this word has the suffix -u	nan	"('land; soil', 'abui1241-fuime', 'anei')"	nan		W1a; W1a
-31	hole	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈmaŋ	nan	nan	"('hole', 'lama1278', 'ˈumaŋ')"	nan		W1a
-32	stone	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈtɔr	in the recording this word has the suffix -u	nan	"('stone', 'adon1237', ""'watɔ"")"	nan		W1a; W1a
-32	stone	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvatu	in the recording this word has the suffix -u	nan	"('stone', 'adon1237', ""'watɔ"")"	nan		W1a; W1a
-33	coral (rock)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvatu kaˈraŋ	nan	nan	"('coral (rock)', 'kira1248', 'wor_katan')"	nan		W1a
-37	wave	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɔˈd͡ʒɔk	nan	nan	"('wave', 'alor1247-munas', ""'ɔdʒɔʔ"")"	nan		W1a
-38	foam	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈvud͡ʒa	nan	nan	"('foam', 'sout2896-kalik', 'pəˈvud͡ʒa')"	nan		W1a
+30	Earth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtana ˈɛkan	nan	nan	"('Earth', 'abui1241-fuime', 'buku')"	nan		W1a
+31	hole	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈmaŋ	nan	nan	"('hole', 'abui1241-fuime', 'uli')"	nan		W1a
+32	stone	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈtɔr	in the recording this word has the suffix -u	nan	"('stone', 'abui1241-fuime', 'vi')"	nan		W1a; W1a
+32	stone	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvatu	in the recording this word has the suffix -u	nan	"('stone', 'abui1241-fuime', 'vi')"	nan		W1a; W1a
+33	coral (rock)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvatu kaˈraŋ	nan	nan	"('coral (rock)', 'abui1241-fuime', 'vi futi')"	nan		W1a
+35	water (fresh)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈɛr	nan	nan	"('water (fresh)', 'abui1241-fuime', 'je')"	nan		W1a; W1a
+35	water (fresh)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvai	nan	nan	"('water (fresh)', 'abui1241-fuime', 'je')"	nan		W1a; W1a
+36	sea; sea water	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	loˈd͡ʒɔr	nan	nan	"('sea; sea water', 'abui1241-fuime', 'tama')"	nan		W1a
+37	wave	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɔˈd͡ʒɔk	nan	nan	"('wave', 'abui1241-fuime', 'fou')"	nan		W1a
+38	foam	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈvud͡ʒa	nan	nan	"('foam', 'abui1241-fuime', 'bou balaaking')"	nan		W1a
 39	forest	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈŋak	nan	nan	"('forest', 'sout2896-kalik', 'maˈŋak')"	nan		W1a; F1
-39	forest	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈduan	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan		W1a; F1
-40	field	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nəˈpan	nan	nan	"('field', 'sout2896-kalik', 'nəˈpan')"	nan		
-43	garden	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	eka	in the recording the word has the suffix -u	nan	"('garden', 'sout2896-kalik', 'eka')"	nan		W1a
-43	garden	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ekan	in the recording the word has the suffix -u	nan	"('garden', 'sout2896-kalik', 'eka')"	nan		W1a
-44	fence	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈdal	nan	nan	"('fence', 'sout2896-kalik', 'kaˈdal')"	nan		W1a
+39	forest	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈduan	nan	nan	"('forest', 'sout2896-kalik', 'maˈŋak')"	nan		W1a; F1
+40	field	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nəˈpan	nan	nan	"('field', 'abui1241-fuime', 'rol')"	nan		
+43	garden	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	eka	in the recording the word has the suffix -u	nan	"('garden', 'abui1241-fuime', 'uti')"	nan		W1a
+43	garden	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ekan	in the recording the word has the suffix -u	nan	"('garden', 'abui1241-fuime', 'uti')"	nan		W1a
+44	fence	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈdal	nan	nan	"('fence', 'adan1251', 'fɔ')"	nan		W1a
+45	road; path; way	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈlan	nan	nan	"('road; path; way', 'abui1241-fuime', 'sefoko')"	nan		W1a
 46	canoe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tena	nan	nan	"('canoe', 'sout2896-kalik', 'tena')"	nan		W1a
 46	canoe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	teˈnar	nan	nan	"('canoe', 'sout2896-kalik', 'tena')"	nan		W1a
-47	sail (n.)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lad͡ʒar	it is a clan name	nan	"('sail (n.)', 'sout2896-kalik', 'lad͡ʒar')"	nan		?
+47	sail (n.)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lad͡ʒar	it is a clan name	nan	"('sail (n.)', 'adan1251', 'lai')"	nan		?
 48	to sail	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈleva	nan	nan	"('to sail', 'sout2896-kalik', 'ˈleva')"	nan		W1a
-49	fishing hook	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈvil	in the recording the word has the suffix -u	nan	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	nan		W1a
-50	fish trap	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	puˈkət	the informatn was not so sure about this word	nan	"('fish trap', 'alor1247-pandai', ""'pukɔ"")"	nan		
+49	fishing hook	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈvil	in the recording the word has the suffix -u	nan	"('fishing hook', 'sout2896-kalik', 'kaˈvil')"	nan		W1a
+50	fish trap	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	puˈkət	"the informatn was not so sure about this wordin the recording the word has the suffix -u"	nan	"('fish trap', 'adan1251', 'bub')"	nan		W1a
 51	rope	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈlɛr	nan	nan	"('rope', 'abui1241-fuime', 'tila')"	nan		W1a
-52	machete	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	peˈdar	nan	nan	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	nan		W1a
-53	axe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkapa	nan	nan	"('axe', 'adon1237', ""soru_'kɑpa"")"	nan		W1a
-54	spear	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈlar	nan	nan	"('spear', 'adon1237', ""'ɡalaʔ"")"	nan		W1a
-55	burden stick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəleˈbar	in the recording the word has the suffix -u	nan	"('burden stick', 'adon1237', ""bə'lebaʔ"")"	nan		W1a
-56	stick; pole	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nɔˈdɔk	in the recording the word has the suffix -u	nan	"('stick; pole', 'blag1240-kulij', 'hudok')"	nan		W1a
-57	digging stick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snɔˈkar	nan	nan	"('digging stick', 'pmpacd', '*suqan')"	nan		W1a
+52	machete	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	peˈdar	nan	nan	"('machete', 'abui1241-fuime', 'kaweni')"	nan		W1a
+53	axe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkapa	nan	nan	"('axe', 'abui1241-fuime', 'faling')"	nan		W1a
+54	spear	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈlar	nan	nan	"('spear', 'sout2896-kalik', 'ɡaˈlar')"	nan		W1a
+55	burden stick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəleˈbar	in the recording the word has the suffix -u	nan	"('burden stick', 'sout2896-kalik', 'bəleˈbar')"	nan		W1a
+56	stick; pole	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nɔˈdɔk	in the recording the word has the suffix -u	nan	"('stick; pole', 'abui1241-fuime', 'tukarang')"	nan		W1a
+57	digging stick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snɔˈkar	nan	nan	"('digging stick', 'sout2896-kalik', 'snɔˈkar')"	nan		W1a
 58	dibble stick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈaŋ	in the recording uang has the suffix -u	nan	"('dibble stick', 'sout2896-kalik', 'uˈaŋ')"	nan		W1a; W1a
 58	dibble stick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsnipat	in the recording uang has the suffix -u	nan	"('dibble stick', 'sout2896-kalik', 'uˈaŋ')"	nan		W1a; W1a
-59	bow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈvɔr	nan	nan	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		W1a
-60	arrow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsupəl	in the recording the word has the suffix -u	nan	"('arrow', 'sout2896-kalik', 'ˈsupəl')"	nan		W1a
-61	knife	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈrit	nan	nan	"('knife', 'sout2896-kalik', 'məˈrit')"	nan		W1a
+59	bow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈvɔr	nan	nan	"('bow', 'abui1241-fuime', 'peti')"	nan		W1a
+60	arrow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsupəl	in the recording the word has the suffix -u	nan	"('arrow', 'abui1241-fuime', 'kaike')"	nan		W1a
+61	knife	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈrit	nan	nan	"('knife', 'abui1241-fuime', 'lui')"	nan		W1a
 62	comb	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kiˈrer	in the recording kirer has the suffix -u	nan	"('comb', 'abui1241-fuime', 'keeti')"	nan		W1a
-63	mat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	oˈsan	in the recording osan has the suffix -u	nan	"('mat', 'adon1237', 'ˈʔɔhãː')"	nan		W1a
-64	needle	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlusir	nan	nan	"('needle', 'sout2896-kalik', 'ˈlusir')"	nan		W1a
+63	mat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	oˈsan	in the recording osan has the suffix -u	nan	"('mat', 'abui1241-fuime', 'adik')"	nan		W1a
+64	needle	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlusir	nan	nan	"('needle', 'abui1241-fuime', 'ting')"	nan		W1a
 65	clothing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈka-ŋa	"1) ŋa is a plural suffix, 2) literally 'on the waist' (see also no. 66)"	nan	"('clothing', 'sout2896-kalik', 'məˈka-ŋa')"	nan		W1b; W1b
-65	clothing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈale ˈlolo	see also no. 118. ale lolo menas litarally 'on the waist'	nan	"('clothing', 'adon1237', 'aleˈlolo')"	nan		W1a
-65	clothing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈale ˈlɔlɔ	"1) ŋa is a plural suffix, 2) literally 'on the waist' (see also no. 66)"	nan	"('clothing', 'adon1237', 'aleˈlolo')"	nan		W1b; W1b
-67	fire	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈper	in the recording the word has the suffix -u	nan	"('fire', 'adon1237', 'ˈʔape')"	nan		W1a
-68	smoke	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snəˈɡur	nan	nan	"('smoke', 'lama1277-lamal', 'sənəgur')"	nan		W1a
+65	clothing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈale ˈlolo	see also no. 118. ale lolo menas litarally 'on the waist'	nan	"('clothing', 'sout2896-kalik', 'məˈka-ŋa')"	nan		W1a
+65	clothing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈale ˈlɔlɔ	"1) ŋa is a plural suffix, 2) literally 'on the waist' (see also no. 66)"	nan	"('clothing', 'sout2896-kalik', 'məˈka-ŋa')"	nan		W1b; W1b
+67	fire	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈper	in the recording the word has the suffix -u	nan	"('fire', 'abui1241-fuime', 'ara')"	nan		W1a
+68	smoke	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snəˈɡur	nan	nan	"('smoke', 'abui1241-fuime', 'ara tika')"	nan		W1a
 69	ash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈvɔk	nan	nan	"('ash', 'sout2896-kalik', 'kaˈvɔk')"	nan		W1a
-71	fireplace ash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈvɔk	nan	nan	"('fireplace ash', 'adon1237', 'kɜˈʔawuk')"	nan		W1a
+70	dust; fine earth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈmʊt	in the recording the word has the suffix -u	nan	"('dust; fine earth', 'abui1241-fuime', 'tabuong')"	nan		W1a
+71	fireplace ash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈvɔk	nan	nan	"('fireplace ash', 'adan1251', 'maru')"	nan		W1a
 72	mud	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	keˈmat	nan	nan	"('mud', 'sout2896-kalik', 'keˈmat')"	nan		W1a
-73	clay	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈna vaˈkɔt	nan	nan	"('clay', 'sout2896-kalik', 'əˈna_vaˈkɔt')"	nan		W1a
-74	gravel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈrɛsa	wuresa is plural of wurek	nan	"('gravel', 'lamm1241-westp', 'kera')"	nan		W1a; W1a
-74	gravel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvatu vuˈrɛk	wuresa is plural of wurek	nan	"('gravel', 'lamm1241-westp', 'kera')"	nan		W1a; W1a
-75	sand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbotan	nan	nan	"('sand', 'keda1252-leuwa', 'buta')"	nan		W1a
-77	house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈnan	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		W1a; W1a
-77	house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuna	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		W1a; W1a
-78	traditional house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuna keˈdak	nan	nan	"('traditional house', 'abui1241-fuime', 'kadaŋ')"	nan		W1a
-79	barn; storage house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	veˈtak	nan	nan	"('barn; storage house', 'sout2896-kalik', 'veˈtak')"	nan		W1a
+73	clay	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈna vaˈkɔt	nan	nan	"('clay', 'sout2896-kalik', 'əˈna vaˈkɔt')"	nan		W1a
+74	gravel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈrɛsa	wuresa is plural of wurek	nan	"('gravel', 'sout2896-kalik', 'vuˈrɛsa')"	nan		W1a; W1a
+74	gravel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvatu vuˈrɛk	wuresa is plural of wurek	nan	"('gravel', 'sout2896-kalik', 'vuˈrɛsa')"	nan		W1a; W1a
+75	sand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbotan	nan	nan	"('sand', 'abui1241-fuime', 'malatai')"	nan		W1a
+76	grass; brush	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	krəˈkak	nan	nan	"('grass; brush', 'abui1241-fuime', 'kupei')"	nan		W1a
+77	house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈnan	nan	nan	"('house', 'abui1241-fuime', 'fala')"	nan		W1a; W1a
+77	house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuna	nan	nan	"('house', 'abui1241-fuime', 'fala')"	nan		W1a; W1a
+78	traditional house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuna keˈdak	nan	nan	"('traditional house', 'abui1241-fuime', 'kadang')"	nan		W1a
+79	barn; storage house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	veˈtak	nan	nan	"('barn; storage house', 'adan1251', 'ɛsɛl')"	nan		W1a
 80	raised platform	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈlik	nan	nan	"('raised platform', 'abui1241-fuime', 'lik')"	nan		W1a
-81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knaˈvɛr	nan	nan	"('door', 'lama1278', 'kəˈnawe')"	nan		W1b; W1b
-81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈknaver	nan	nan	"('door', 'lama1278', 'kəˈnawe')"	nan		W1a
-81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈknavi	nan	nan	"('door', 'lama1278', 'kəˈnawe')"	nan		W1a
-81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈknavi	nan	nan	"('door', 'lama1278', 'kəˈnawe')"	nan		W1b; W1b
-82	(thatch) roof	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	naˈkər	nan	nan	"('(thatch) roof', 'adon1237', 'ˈnakɜ')"	nan		W1a; W1a
-82	(thatch) roof	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈvuŋ	uwung actually means ridge of a roof …	nan	"('(thatch) roof', 'sout2896-kalik', 'uˈvuŋ')"	nan		W1a; W1a
-83	roof thatch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luˈɔr	in the recording the word has the suffix -u	nan	"('roof thatch', 'adon1237', 'ˈluʔo')"	nan		W1a
-84	tree	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu	nan	nan	"('tree', 'adon1237', 'ˈkajo')"	nan		W1a; W1a
-84	tree	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒɔr	nan	nan	"('tree', 'adon1237', 'ˈkajo')"	nan		W1a; W1a
-85	wood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu	nan	nan	"('wood', 'maka1316', 'ata')"	nan		W1a; W1a
-85	wood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒɔr	nan	nan	"('wood', 'maka1316', 'ata')"	nan		W1a; W1a
-86	bark (of tree)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu kaˈmak	nan	nan	"('bark (of tree)', 'adon1237', 'kajo_ˈkaʔmã')"	nan		W1a
-87	leaf	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lɔˈlon	nan	nan	"('leaf', 'adon1237', 'ˈlolõ')"	nan		W1a
-88	branch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	viˈkil	nan	nan	"('branch', 'adon1237', 'ˈwikʔĩ')"	nan		W1a
-89	firewood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒɔr ta doˈsɔm	literally 'the wood that we burn'	nan	"('firewood', 'sout2896-kalik', 'ˈkad͡ʒɔr_ta_doˈsɔm')"	nan		W1a
-90	rattan	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈad͡ʒ	in the recording the word hat the suffix -u	nan	"('rattan', 'sout2896-kalik', 'uˈad͡ʒ')"	nan		W1a
-91	root	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	raˈmut	nan	nan	"('root', 'abui1241-fuime', 'bata_ai')"	nan		W1a
-92	fruit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈak	nan	nan	"('fruit', 'adon1237', 'kajo_ˈwuã')"	nan		W1a
-93	seed	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	riˈuk	nan	nan	"('seed', 'lama1277-lewot', 'riuk')"	nan		W1a
-94	grain; cereal	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈsɔ-d͡ʒa	"d͡ʒa is a plural suffix, lisu means rice"	nan	"('grain; cereal', 'keda1252', ""ʔa'nɛn"")"	nan		W1a
+81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knaˈvɛr	nan	nan	"('door', 'abui1241-fuime', 'lung')"	nan		W1b; W1b
+81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈknaver	nan	nan	"('door', 'abui1241-fuime', 'lung')"	nan		W1a
+81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈknavi	nan	nan	"('door', 'abui1241-fuime', 'lung')"	nan		W1a
+81	door	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈknavi	nan	nan	"('door', 'abui1241-fuime', 'lung')"	nan		W1b; W1b
+82	(thatch) roof	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	naˈkər	nan	nan	"('(thatch) roof', 'sout2896-kalik', 'naˈkər')"	nan		W1a; W1a
+82	(thatch) roof	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈvuŋ	uwung actually means ridge of a roof …	nan	"('(thatch) roof', 'sout2896-kalik', 'naˈkər')"	nan		W1a; W1a
+83	roof thatch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luˈɔr	in the recording the word has the suffix -u	nan	"('roof thatch', 'abui1241-fuime', 'ameng')"	nan		W1a
+84	tree	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu	nan	nan	"('tree', 'abui1241-fuime', 'ˈbata')"	nan		W1a; W1a
+84	tree	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒɔr	nan	nan	"('tree', 'abui1241-fuime', 'ˈbata')"	nan		W1a; W1a
+85	wood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu	nan	nan	"('wood', 'sout2896-kalik', 'ˈkad͡ʒu')"	nan		W1a; W1a
+85	wood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒɔr	nan	nan	"('wood', 'sout2896-kalik', 'ˈkad͡ʒu')"	nan		W1a; W1a
+86	bark (of tree)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu kaˈmak	nan	nan	"('bark (of tree)', 'abui1241-fuime', 'ˈbata hekai')"	nan		W1a
+87	leaf	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lɔˈlon	nan	nan	"('leaf', 'abui1241-fuime', 'watala')"	nan		W1a
+88	branch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	viˈkil	nan	nan	"('branch', 'abui1241-fuime', 'bata tawaking')"	nan		W1a
+89	firewood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒɔr ta doˈsɔm	literally 'the wood that we burn'	nan	"('firewood', 'abui1241-fuime', 'ara waasing')"	nan		W1a
+90	rattan	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈad͡ʒ	in the recording the word hat the suffix -u	nan	"('rattan', 'abui1241-fuime', 'tibu')"	nan		W1a
+91	root	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	raˈmut	nan	nan	"('root', 'abui1241-fuime', 'bata ai')"	nan		W1a
+92	fruit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈak	nan	nan	"('fruit', 'sout2896-kalik', 'vuˈak')"	nan		W1a
+93	seed	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	riˈuk	nan	nan	"('seed', 'abui1241-fuime', 'biika')"	nan		W1a
+94	grain; cereal	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈsɔ-d͡ʒa	"d͡ʒa is a plural suffix, lisu means rice"	nan	"('grain; cereal', 'adan1251', 'naʔfail')"	nan		W1a
 95	flower	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbuŋa	nan	nan	"('flower', 'abui1241-fuime', 'kiki')"	nan		W1a
-96	husked rice; uncooked rice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlisɔ daˈnen	nan	nan	"('husked rice; uncooked rice', 'keda1252', ""ʔa'nɛn"")"	nan		W1a
-97	rice grains (unhusked) (raw from field)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlisɔ kaˈrad͡ʒ	nan	nan	"('rice grains (unhusked) (raw from field)', 'sout2896-kalik', 'ˈlisɔ_kaˈrad͡ʒ')"	nan		W1a
-98	cooked rice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəluˈɔk	nan	nan	"('cooked rice', 'maka1316', 'koi')"	nan		W1a
-99	rice plant	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈsɔr	in the recordinɡ the word has the suffix -u	nan	"('rice plant', 'sout2896-kalik', 'liˈsɔr')"	nan		W1a
+96	husked rice; uncooked rice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlisɔ daˈnen	nan	nan	"('husked rice; uncooked rice', 'abui1241-fuime', 'ajak')"	nan		W1a
+97	rice grains (unhusked) (raw from field)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlisɔ kaˈrad͡ʒ	nan	nan	"('rice grains (unhusked) (raw from field)', 'sout2896-kalik', 'ˈlisɔ kaˈrad͡ʒ')"	nan		W1a
+98	cooked rice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəluˈɔk	nan	nan	"('cooked rice', 'abui1241-fuime', 'ajak ma')"	nan		W1a
+99	rice plant	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈsɔr	in the recordinɡ the word has the suffix -u	nan	"('rice plant', 'abui1241-fuime', 'ajak kai')"	nan		W1a
 100	to plant (yam)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	mul	nan	nan	"('to plant (yam)', 'abui1241-fuime', 'murua')"	nan		W1a
-101	to plant (rice)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	mul (ˈlisɔ)	nan	nan	"('to plant (rice)', 'adon1237', 'ˈtubak')"	nan		W1a
-102	betel nut; areca	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kleˈruk	nan	nan	"('betel nut; areca', 'sout2896-kalik', 'kleˈruk')"	nan		W1a
-103	betel vine	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈlɔr	nan	nan	"('betel vine', 'adon1237', 'ˈmaluʔ')"	nan		W1a
-104	lime	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈpʊr	nan	nan	"('lime', 'adon1237', 'ˈʔapuʔ')"	nan		W1a
-105	chew betel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡa malɔˈlɔ	nan	nan	"('chew betel', 'adon1237', 'ɡãːˈwuaʔ')"	nan		W1a
-106	sweet potato	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	saˈvan	nan	nan	"('sweet potato', 'sout2896-kalik', 'saˈvan')"	nan		W1a
-107	cassava	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	skaˈd͡ʒo uˈsər	nan	nan	"('cassava', 'sout2896-kalik', 'skaˈd͡ʒo_uˈsər')"	nan		W1a
-110	millet	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vəˈtəm	nan	nan	"('millet', 'keda1252', ""wɛ'rɛʔ"")"	nan		W1a
-111	sugarcane	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈvɔr	nan	nan	"('sugarcane', 'adon1237', 'ˈtɜwɔ')"	nan		W1a
-112	corn; maize	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kvaˈrɔr	nan	nan	"('corn; maize', 'sout2896-kalik', 'kvaˈrɔr')"	nan		W1a
-112	corn; maize	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkvaru	nan	nan	"('corn; maize', 'sout2896-kalik', 'kvaˈrɔr')"	nan		W1a
+101	to plant (rice)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	mul (ˈlisɔ)	nan	nan	"('to plant (rice)', 'abui1241-fuime', 'taakda')"	nan		W1a
+102	betel nut; areca	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kleˈruk	nan	nan	"('betel nut; areca', 'atim1239', 'fu')"	nan		W1a
+103	betel vine	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈlɔr	nan	nan	"('betel vine', 'abui1241-fuime', 'meeting')"	nan		W1a
+104	lime	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈpʊr	nan	nan	"('lime', 'abui1241-fuime', 'awai')"	nan		W1a
+105	chew betel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡa malɔˈlɔ	nan	nan	"('chew betel', 'abui1241-fuime', 'fu take')"	nan		W1a
+106	sweet potato	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	saˈvan	nan	nan	"('sweet potato', 'abui1241-fuime', 'mongko')"	nan		W1a
+107	cassava	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	skaˈd͡ʒo uˈsər	nan	nan	"('cassava', 'abui1241-fuime', 'bataako')"	nan		W1a
+110	millet	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vəˈtəm	nan	nan	"('millet', 'abui1241-fuime', 'kala')"	nan		W1a
+111	sugarcane	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈvɔr	nan	nan	"('sugarcane', 'abui1241-fuime', 'fa')"	nan		W1a
+112	corn; maize	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kvaˈrɔr	nan	nan	"('corn; maize', 'atim1239', 'fati')"	nan		W1a
+112	corn; maize	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkvaru	nan	nan	"('corn; maize', 'atim1239', 'fati')"	nan		W1a
 113	cooked corn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəbaˈŋa-d͡ʒa	d͡ʒa is a plural suffix	nan	"('cooked corn', 'sout2896-kalik', 'kəbaˈŋa-d͡ʒa')"	nan		W1a
-114	coconut	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tapɔr	nan	nan	"('coconut', 'adon1237', 'ˈtapo')"	nan		W1a
-116	lontar palm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkolɛr	nan	nan	"('lontar palm', 'abui1241-takal', ""äj.'qɔl"")"	nan		W1a
-117	sugar palm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkebɔl	nan	nan	"('sugar palm', 'lama1278', 'ˈkɛbɔ')"	nan		
-118	marungga	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	moˈtɔŋ	nan	nan	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	nan		
-119	gum tree; eucalyptus	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu buˈd͡ʒak	could be a literal translation from ɪndonesian	nan	"('gum tree; eucalyptus', 'alor1247-besar', ""'kaʤɔ_bu'rakaŋ"")"	nan		
-120	bamboo	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈrɔr	no ɡeneral word for bamboo	nan	"('bamboo', 'alor1247-pandai', ""'au"")"	nan		
-120	bamboo	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈtuŋ	no ɡeneral word for bamboo	nan	"('bamboo', 'alor1247-pandai', ""'au"")"	nan		
-120	bamboo	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈrim	no ɡeneral word for bamboo	nan	"('bamboo', 'alor1247-pandai', ""'au"")"	nan		
-120	bamboo	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəˈlaŋ	no ɡeneral word for bamboo	nan	"('bamboo', 'alor1247-pandai', ""'au"")"	nan		
-121	banana	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmuku	nan	nan	"('banana', 'abui1241-fuime', 'musa')"	nan		W1a
-121	banana	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmukɔr	nan	nan	"('banana', 'abui1241-fuime', 'musa')"	nan		W1a
-122	mango	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpau	nan	nan	"('mango', 'adon1237', 'ˈpau')"	nan		W1a
-122	mango	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpaɔr	nan	nan	"('mango', 'adon1237', 'ˈpau')"	nan		W1a
-123	papaya	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈd͡ʒam	nan	nan	"('papaya', 'adon1237', 'paˈjã')"	nan		W1a
-124	jackfruit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kveˈrak	nan	nan	"('jackfruit', 'adon1237', 'ˈkwɛrak')"	nan		W1a
-125	breadfruit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kuˈnʊr	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		W1a
-126	bean	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈtan	nan	nan	"('bean', 'adan1251-lawah', 'ʔutuŋ')"	nan		W1a
-127	honey	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈrua ˈvaen	nan	nan	"('honey', 'abui1241-fuime', 'nawaaŋ')"	nan		W1a
-128	milk	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈsɔr	nan	nan	"('milk', 'adan1251-lawah', 'toʔ')"	nan		W1a
+114	coconut	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tapɔr	nan	nan	"('coconut', 'abui1241-fuime', 'wata')"	nan		W1a
+116	lontar palm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkolɛr	nan	nan	"('lontar palm', 'sout2896-kalik', 'ˈkolɛr')"	nan		W1a
+117	sugar palm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkebɔl	nan	nan	"('sugar palm', 'abui1241-fuime', 'tuok')"	nan		
+118	marungga	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	moˈtɔŋ	nan	nan	"('marungga', 'sout2896-kalik', 'moˈtɔŋ')"	nan		
+119	gum tree; eucalyptus	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkad͡ʒu buˈd͡ʒak	could be a literal translation from ɪndonesian	nan	"('gum tree; eucalyptus', 'abui1241-fuime', 'ra.u')"	nan		
+120	bamboo	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈrɔr	"no ɡeneral word for bamboouˈrɔr; pəˈtuŋ; pəˈrim; bəˈlaŋ"	nan	"('bamboo', 'abui1241-fuime', 'mai')"	nan		W1a
+121	banana	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmuku	nan	nan	"('banana', 'abui1241-fuime', 'balei')"	nan		W1a
+121	banana	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmukɔr	nan	nan	"('banana', 'abui1241-fuime', 'balei')"	nan		W1a
+122	mango	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpau	nan	nan	"('mango', 'sout2896-kalik', 'ˈpau')"	nan		W1a
+122	mango	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpaɔr	nan	nan	"('mango', 'sout2896-kalik', 'ˈpau')"	nan		W1a
+123	papaya	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈd͡ʒam	nan	nan	"('papaya', 'abui1241-fuime', 'bataa mija')"	nan		W1a
+124	jackfruit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kveˈrak	nan	nan	"('jackfruit', 'abui1241-fuime', 'song')"	nan		W1a
+125	breadfruit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kuˈnʊr	nan	nan	"('breadfruit', 'abui1241-fuime', 'bataa song')"	nan		W1a
+126	bean	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈtan	nan	nan	"('bean', 'abui1241-fuime', 'takoi')"	nan		W1a
+127	honey	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈrua ˈvaen	nan	nan	"('honey', 'abui1241-fuime', 'nawaang')"	nan		W1a
+128	milk	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈsɔr	nan	nan	"('milk', 'abui1241-fuime', 'tike')"	nan		W1a
 129	salt	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈrar	nan	nan	"('salt', 'abui1241-fuime', 'ati')"	nan		W1a
-130	fat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	voˈd͡ʒak	nan	nan	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	nan		W1a
-132	bone	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	riˈuk	nan	nan	"('bone', 'adon1237', 'ˈriʔũː')"	nan		W1a
-133	rib	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənaˈvan	nan	nan	"('rib', 'adon1237', 'kɜˈnawaˈne')"	nan		W1a
-134	sweat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	krəˈvun	nan	nan	"('sweat', 'adon1237', 'ˈʔɜwũ')"	nan		W1a
-135	tear	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmata ˈvaen	nan	nan	"('tear', 'sout2896-kalik', 'ˈmata_ˈvaen')"	nan		W1a
-136	blood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsmein	nan	nan	"('blood', 'adon1237', 'mei')"	nan		W1a
-137	tendon	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈlis	nan	nan	"('tendon', 'cent2245-hewa', 'a:li')"	nan		W1a
-138	heart	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	puˈo	nan	nan	"('heart', 'adon1237', 'ˈpuho')"	nan		W1a
-139	liver	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɔr	nan	nan	"('liver', 'fata1247', 'ari')"	nan		W1a
-140	kidney	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kɛk	nan	nan	"('kidney', 'amar1273-kotos', 'aki-f')"	nan		W1a
-141	guts	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəbɔˈti	kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts	nan	"('guts', 'adon1237', 'kɜˈbotĩ')"	nan		W1a; W1a
-141	guts	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tai kaˈluŋ	kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts	nan	"('guts', 'abui1241-fuime', 'tatok_falala')"	nan		W1a; W1a
-142	excrement	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈɛr	nan	nan	"('excrement', 'adon1237', 'tae')"	nan		W1a
-143	lungs	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈd͡ʒa	nan	nan	"('lungs', 'adon1237', 'ˈwurhã')"	nan		W1a
-145	head	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈlu	nan	nan	"('head', 'adan1251-lawah', 'loŋ')"	nan		W1a
-146	hair	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈtar	nan	nan	"('hair', 'adon1237', 'ˈrataʔ')"	nan		W1a
-147	body hair	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	raˈvʊk	nan	nan	"('body hair', 'adon1237', 'ˈrawuˈkɜt')"	nan		W1a
-148	eye	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈta	nan	nan	"('eye', 'adon1237', 'matak3t')"	nan		W1a
-149	ear	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kiˈŋa	nan	nan	"('ear', 'lama1277-imulo', 'kiŋasa')"	nan		W1a
-150	nose	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈd͡ʒu	nan	nan	"('nose', 'adon1237', 'ˈiruˈn3t')"	nan		W1a
-151	mouth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nus	nan	nan	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan		W1a
-152	chin	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡrim	nan	nan	"('chin', 'lama1278', 'ˈkɔrɛŋ')"	nan		W1a
-154	teeth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈi	nan	nan	"('teeth', 'adon1237', 'ˈip3ʔ')"	nan		W1a
-155	tongue	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	eˈvɛl	nan	nan	"('tongue', 'adon1237', 'ˈɜwɜˈrɜt')"	nan		W1a
-156	neck	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈle	nan	nan	"('neck', 'alor1247-baran', ""'fuliŋ"")"	nan		W1a
-157	shoulder	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kvaˈlɛk	nan	nan	"('shoulder', 'cent2245-hewa', 'palik')"	nan		W1a
-158	body	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vəˈki naˈvak	nan	nan	"('body', 'adan1251-otvai', 'afah')"	nan		W1a
-159	forehead	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəniˈtɔ	nan	nan	"('forehead', 'adon1237', 'kɜˈniːtoˈkɜt')"	nan		W1a
-160	nostril	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈd͡ʒu uˈmaŋ	nan	nan	"('nostril', 'adon1237', 'iruˈnɜt_kɜˈlɜŋũ')"	nan		W1a
-161	mucus	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈd͡ʒu kɔˈtɔl	nan	nan	"('mucus', 'cent2245-hewa', 'iru_kləkak')"	nan		W1a
-162	cheek	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	piˈpi	nan	nan	"('cheek', 'adon1237', 'ˈpipiˈkɜt')"	nan		W1a
-163	arm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈma	nan	nan	"('arm', 'adon1237', 'ˈlimaˈkɜt')"	nan		W1a
-164	hand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈma	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		W1a
-165	palm of hand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈma əˈpak	nan	nan	"('palm of hand', 'cent2245-hewa', 'lima_əpak')"	nan		W1a
-166	finger	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kiˈkil	nan	nan	"('finger', 'cent2245-hewa', 'kikir')"	nan		W1a
-167	fingernail	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tənuˈmək	nan	nan	"('fingernail', 'sout2896-kalik', 'tənuˈmək')"	nan		W1a
-168	breast	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈsu	tusor? see also no. 129	nan	"('breast', 'adan1251-lawah', 'toʔ')"	nan		W1a
-169	chest	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kɔˈrɔk	nan	nan	"('chest', 'alor1247-munas', ""'kɔlɔŋ"")"	nan		W1a
+130	fat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	voˈd͡ʒak	nan	nan	"('fat', 'abui1241-fuime', 'hetamada')"	nan		W1a
+131	flesh; meat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	eˈlam	nan	nan	"('flesh; meat', 'abui1241-fuime', 'mai hitung')"	nan		W1a
+132	bone	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	riˈuk	nan	nan	"('bone', 'abui1241-fuime', 'hetaipa')"	nan		W1a
+133	rib	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənaˈvan	nan	nan	"('rib', 'abui1241-fuime', 'heakafata')"	nan		W1a
+134	sweat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	krəˈvun	nan	nan	"('sweat', 'abui1241-fuime', 'tamuring')"	nan		W1a
+135	tear	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmata ˈvaen	nan	nan	"('tear', 'abui1241-fuime', 'jang nau')"	nan		W1a
+136	blood	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsmein	nan	nan	"('blood', 'abui1241-fuime', 'we')"	nan		W1a
+137	tendon	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈlis	nan	nan	"('tendon', 'abui1241-fuime', 'teai')"	nan		W1a
+138	heart	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	puˈo	nan	nan	"('heart', 'abui1241-fuime', 'tebikemang')"	nan		W1a
+139	liver	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɔr	nan	nan	"('liver', 'abui1241-fuime', 'tekaleu')"	nan		W1a
+140	kidney	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kɛk	nan	nan	"('kidney', 'sout2896-kalik', 'kɛk')"	nan		W1a
+141	guts	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəbɔˈti	kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts	nan	"('guts', 'abui1241-fuime', 'tatok falala')"	nan		W1a; W1a
+141	guts	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tai kaˈluŋ	kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts	nan	"('guts', 'abui1241-fuime', 'tatok falala')"	nan		W1a; W1a
+142	excrement	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈɛr	nan	nan	"('excrement', 'abui1241-fuime', 'asi')"	nan		W1a
+143	lungs	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈd͡ʒa	nan	nan	"('lungs', 'sout2896-kalik', 'vuˈd͡ʒa')"	nan		W1a
+144	stomach; belly	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tai	nan	nan	"('stomach; belly', 'abui1241-fuime', 'tatok foko')"	nan		W1a
+145	head	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈlu	nan	nan	"('head', 'abui1241-fuime', 'kai')"	nan		W1a
+146	hair	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈtar	nan	nan	"('hair', 'sout2896-kalik', 'laˈtar')"	nan		W1a
+147	body hair	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	raˈvʊk	nan	nan	"('body hair', 'sout2896-kalik', 'raˈvʊk')"	nan		W1a
+148	eye	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈta	nan	nan	"('eye', 'sout2896-kalik', 'maˈta')"	nan		W1a
+149	ear	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kiˈŋa	nan	nan	"('ear', 'abui1241-fuime', 'tawei ata')"	nan		W1a
+150	nose	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈd͡ʒu	nan	nan	"('nose', 'abui1241-fuime', 'tamini')"	nan		W1a
+151	mouth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nus	nan	nan	"('mouth', 'sout2896-kalik', 'nus')"	nan		W1a
+152	chin	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡrim	nan	nan	"('chin', 'sout2896-kalik', 'ɡrim')"	nan		W1a
+154	teeth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈi	nan	nan	"('teeth', 'abui1241-fuime', 'taweiti')"	nan		W1a
+155	tongue	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	eˈvɛl	nan	nan	"('tongue', 'abui1241-fuime', 'talifi')"	nan		W1a
+156	neck	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vuˈle	nan	nan	"('neck', 'sout2896-kalik', 'vuˈle')"	nan		W1a
+157	shoulder	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kvaˈlɛk	nan	nan	"('shoulder', 'abui1241-fuime', 'tabang')"	nan		W1a
+158	body	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vəˈki naˈvak	nan	nan	"('body', 'sout2896-kalik', 'vəˈki naˈvak')"	nan		W1a
+159	forehead	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəniˈtɔ	nan	nan	"('forehead', 'adan1251', 'apɔŋfaʔ')"	nan		W1a
+160	nostril	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈd͡ʒu uˈmaŋ	nan	nan	"('nostril', 'adan1251', 'amiŋboi')"	nan		W1a
+161	mucus	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈd͡ʒu kɔˈtɔl	nan	nan	"('mucus', 'adan1251', 'hin')"	nan		W1a
+162	cheek	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	piˈpi	nan	nan	"('cheek', 'adan1251', 'aduŋ')"	nan		W1a
+163	arm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈma	nan	nan	"('arm', 'abui1241-fuime', 'tatang')"	nan		W1a
+164	hand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈma	nan	nan	"('hand', 'sout2896-kalik', 'liˈma')"	nan		W1a
+165	palm of hand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈma əˈpak	nan	nan	"('palm of hand', 'sout2896-kalik', 'liˈma əˈpak')"	nan		W1a
+166	finger	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kiˈkil	nan	nan	"('finger', 'abui1241-fuime', 'tatang paaka')"	nan		W1a
+167	fingernail	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tənuˈmək	nan	nan	"('fingernail', 'abui1241-fuime', 'tatang kusing')"	nan		W1a
+168	breast	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈsu	tusor? see also no. 129	nan	"('breast', 'abui1241-fuime', 'tekodang')"	nan		W1a
+169	chest	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kɔˈrɔk	nan	nan	"('chest', 'adan1251', 'adel')"	nan		W1a
 170	navel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəpuˈsər	nan	nan	"('navel', 'abui1241-fuime', 'tabike')"	nan		W1a
 171	penis	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kɔˈlɔŋ	ˈuti (vulɡar)	nan	"('penis', 'sout2896-kalik', 'kɔˈlɔŋ')"	nan		W1a; W1a
-171	penis	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuti	ˈuti (vulɡar)	nan	"('penis', 'adon1237', 'ˈute')"	nan		W1a; W1a
-172	vagina	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈna	məˈna (vulɡar)	nan	"('vagina', 'adon1237', 'ˈmɜna')"	nan		W1a; W1a
-172	vagina	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈvi	məˈna (vulɡar)	nan	"('vagina', 'sout2896-kalik', 'vaˈvi')"	nan		W1a; W1a
+171	penis	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuti	ˈuti (vulɡar)	nan	"('penis', 'sout2896-kalik', 'kɔˈlɔŋ')"	nan		W1a; W1a
+172	vagina	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈna	məˈna (vulɡar)	nan	"('vagina', 'sout2896-kalik', 'məˈna')"	nan		W1a; W1a
+172	vagina	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈvi	məˈna (vulɡar)	nan	"('vagina', 'sout2896-kalik', 'məˈna')"	nan		W1a; W1a
 173	testicles	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lɛk	nan	nan	"('testicles', 'sout2896-kalik', 'lɛk')"	nan		W1a
-174	leg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	li	nan	nan	"('leg', 'adon1237', 'ˈleikɜt')"	nan		W1a
-175	foot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	li	nan	nan	"('foot', 'adon1237', 'ˈleikɜt_tɜˈnɑpʔã')"	nan		W1a
-176	heel of foot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nuˈdəp	nan	nan	"('heel of foot', 'adon1237', 'ˈnudɜrɜt')"	nan		W1a
-177	sole of foot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	li əˈpak	nan	nan	"('sole of foot', 'cent2245-hewa', 'ʋaʔi_əpak')"	nan		W1a
-178	knee	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	loˈtɔr	nan	nan	"('knee', 'sout2896-kalik', 'loˈtɔr')"	nan		W1a
-179	back	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənaˈru	is the final -u a suffix?	nan	"('back', 'lewo1244', 'keko')"	nan		W1a
-180	spine; lower back	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈnaru riˈuk	nan	nan	"('spine; lower back', 'sout2896-kalik', 'kəˈnaru_riˈuk')"	nan		W1a
-181	waist	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈle	nan	nan	"('waist', 'alor1247-besar', ""'alɛ̃"")"	nan		W1a
-182	skin	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kuˈda	nan	nan	"('skin', 'lama1277-kalik', 'kudan')"	nan		W1a
-183	sore; wound	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈd͡ʒak	nan	nan	"('sore; wound', 'sout2896-kalik', 'ɡaˈd͡ʒak')"	nan		W1a
-184	ringworm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənəˈtək	nan	nan	"('ringworm', 'pmpacd', '*buqeni')"	nan		W1a
-185	scabies	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈbura	nan	nan	"('scabies', 'adon1237', 'kəˈbuʔu')"	nan		W1a
-186	tinea	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kraˈposa	nan	nan	"('tinea', 'sout2896-kalik', 'kraˈposa')"	nan		W1a
-187	feverish	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈti ɡeˈɡet	nan	nan	"('feverish', 'sout2896-kalik', 'kaˈti_ɡeˈɡet')"	nan		W1a
-188	conjunctivitis	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈta ˈklara	nan	nan	"('conjunctivitis', 'sout2896-kalik', 'maˈta_ˈklara')"	nan		W1a
-189	cold; influenza	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nur	nan	nan	"('cold; influenza', 'alor1247-besar', ""'niruŋ_'matɛ"")"	nan		W1a; W1a
-189	cold; influenza	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nurən	nan	nan	"('cold; influenza', 'alor1247-besar', ""'niruŋ_'matɛ"")"	nan		W1a; W1a
-190	person	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈata diˈkən	nan	nan	"('person', 'keda1252', ""ate_'diʔen"")"	nan		W1a
-191	name	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnad͡ʒan	nan	nan	"('name', 'adon1237', 'ˈnarã')"	nan		W1a
+174	leg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	li	nan	nan	"('leg', 'abui1241-fuime', 'tetuku')"	nan		W1a
+175	foot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	li	nan	nan	"('foot', 'sout2896-kalik', 'li')"	nan		W1a
+176	heel of foot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nuˈdəp	nan	nan	"('heel of foot', 'abui1241-fuime', 'tetuku hiakfolang')"	nan		W1a
+177	sole of foot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	li əˈpak	nan	nan	"('sole of foot', 'sout2896-kalik', 'li əˈpak')"	nan		W1a
+178	knee	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	loˈtɔr	nan	nan	"('knee', 'abui1241-fuime', 'tabala buku')"	nan		W1a
+179	back	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənaˈru	is the final -u a suffix?	nan	"('back', 'abui1241-fuime', 'teui')"	nan		W1a
+180	spine; lower back	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈnaru riˈuk	nan	nan	"('spine; lower back', 'adan1251', 'amɔtsel')"	nan		W1a
+181	waist	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈle	nan	nan	"('waist', 'sout2896-kalik', 'aˈle')"	nan		W1a
+182	skin	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kuˈda	nan	nan	"('skin', 'abui1241-fuime', 'tekul')"	nan		W1a
+183	sore; wound	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈd͡ʒak	nan	nan	"('sore; wound', 'abui1241-fuime', 'namu')"	nan		W1a
+184	ringworm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənəˈtək	nan	nan	"('ringworm', 'abui1241-fuime', 'kafising')"	nan		W1a
+185	scabies	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈbura	nan	nan	"('scabies', 'abui1241-fuime', 'kafising')"	nan		W1a
+186	tinea	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kraˈposa	nan	nan	"('tinea', 'abui1241-fuime', 'kafising')"	nan		W1a
+187	feverish	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈti ɡeˈɡet	nan	nan	"('feverish', 'abui1241-fuime', 'kamura')"	nan		W1a
+188	conjunctivitis	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈta ˈklara	nan	nan	"('conjunctivitis', 'abui1241-fuime', 'tiang beakda')"	nan		W1a
+189	cold; influenza	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nur	nan	nan	"('cold; influenza', 'abui1241-fuime', 'pasing')"	nan		W1a; W1a
+189	cold; influenza	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nurən	nan	nan	"('cold; influenza', 'abui1241-fuime', 'pasing')"	nan		W1a; W1a
+190	person	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈata diˈkən	nan	nan	"('person', 'abui1241-fuime', 'ama')"	nan		W1a
+191	name	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnad͡ʒan	nan	nan	"('name', 'abui1241-fuime', 'na-ne')"	nan		W1a
 192	child	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kɔˈpɔŋ	nan	nan	"('child', 'abui1241-fuime', 'ne-wi')"	nan		W1a
-193	man	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈmɛn	nan	nan	"('man', 'fata1247', 'nami')"	nan		W1a
-194	woman	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	biˈnɛn	nan	nan	"('woman', 'idat1237', ""mahi'nak"")"	nan		W1a
-195	husband	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈvan laˈme	nan	nan	"('husband', 'lama1277-belan', 'ha')"	nan		W1a
-196	wife	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈvan biˈne	nan	nan	"('wife', 'alor1247-baran', ""ka'fae"")"	nan		W1a
-197	mother	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈina	nan	nan	"('mother', 'adon1237', 'ˈʔina')"	nan		W1a
-198	father	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈama	nan	nan	"('father', 'adon1237', 'ˈʔama')"	nan		W1a
-199	older sibling	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈta	nan	nan	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	nan		W1a
-200	younger sibling	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈd͡ʒin	nan	nan	"('younger sibling', 'sout2896-kalik', 'vaˈd͡ʒin')"	nan		W1a
-201	bride price	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	veˈli əˈlan	nan	nan	"('bride price', 'adon1237', 'weli')"	nan		W1a
+193	man	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈmɛn	nan	nan	"('man', 'abui1241-fuime', 'neng')"	nan		W1a
+194	woman	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	biˈnɛn	nan	nan	"('woman', 'abui1241-fuime', 'maijo')"	nan		W1a
+195	husband	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈvan laˈme	nan	nan	"('husband', 'keda1252', ""ate 'rian"")"	nan		W1a
+196	wife	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈvan biˈne	nan	nan	"('wife', 'sout2896-kalik', 'aˈvan biˈne')"	nan		W1a
+197	mother	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈina	nan	nan	"('mother', 'abui1241-fuime', 'nija')"	nan		W1a
+198	father	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈama	nan	nan	"('father', 'abui1241-fuime', 'mama')"	nan		W1a
+199	older sibling	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈta	nan	nan	"('older sibling', 'abui1241-fuime', 'nana')"	nan		W1a
+200	younger sibling	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈd͡ʒin	nan	nan	"('younger sibling', 'abui1241-fuime', 'nekokda')"	nan		W1a
+201	bride price	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	veˈli əˈlan	nan	nan	"('bride price', 'abui1241-fuime', 'he-bel')"	nan		W1a
 202	slave	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sənuˈdaŋ	nan	nan	"('slave', 'sout2896-kalik', 'sənuˈdaŋ')"	nan		W1a
-203	1sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡo	short form	nan	"('1sg', 'adon1237', 'ˈɡoʔɛ')"	nan		W1a; W1a; ?
-203	1sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡone	nan	nan	"('1sg', 'adon1237', 'ˈɡoʔɛ')"	nan		W1a; W1a; ?
-206	3sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	na	proclitic	nan	"('3sg', 'adon1237', 'ˈnaʔɛ')"	nan		W1a
-206	3sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nane	nan	nan	"('3sg', 'adon1237', 'ˈnaʔɛ')"	nan		W1a
-209	2pl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmio	nan	nan	"('2pl', 'adon1237', 'ˈmio')"	nan		W1a
-210	3pl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	da	proclitic	nan	"('3pl', 'adon1237', 'ˈraʔe')"	nan		W1a
-210	3pl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	dane	nan	nan	"('3pl', 'adon1237', 'ˈraʔe')"	nan		W1a
-211	no; not	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtake	nan	nan	"('no; not', 'keda1252', 'tɔn')"	nan		W1a
-212	and	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	no	also means 'with'	nan	"('and', 'adon1237', 'ˈtaliʔ')"	nan		W1a; W1a
-212	and	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pa	also means 'then'	nan	"('and', 'lama1277-lewot', 'fe')"	nan		W1a; W1a
-213	because	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpukən	nan	nan	"('because', 'adon1237', 'ˈpukɜ')"	nan		W1a
-214	if	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ma	nan	nan	"('if', 'abui1241-takal', 'mɞɪ')"	nan		N1
-215	with	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	no	nan	nan	"('with', 'adon1237', 'ˈtaliʔ')"	nan		W1a
+203	1sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡo	short form	nan	"('1sg', 'sout2896-kalik', 'ɡo')"	nan		W1a; W1a; ?
+203	1sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡone	nan	nan	"('1sg', 'sout2896-kalik', 'ɡo')"	nan		W1a; W1a; ?
+204	2sg (informal)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	mo	short form	nan	"('2sg (informal)', 'sout2896-kalik', 'mo')"	nan		W1a; W1a
+204	2sg (informal)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	mone	nan	nan	"('2sg (informal)', 'sout2896-kalik', 'mo')"	nan		W1a; W1a
+206	3sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	na	proclitic	nan	"('3sg', 'alor1247-baran', ""'nɔ:"")"	nan		W1a
+206	3sg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nane	nan	nan	"('3sg', 'alor1247-baran', ""'nɔ:"")"	nan		W1a
+207	1pl excl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kam	proclitic	nan	"('1pl excl', 'alor1247-baran', ""'kame"")"	nan		W1a
+207	1pl excl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkame	nan	nan	"('1pl excl', 'alor1247-baran', ""'kame"")"	nan		W1a
+208	1pl incl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtite	nan	nan	"('1pl incl', 'alor1247-baran', "",ʔi'tɛ"")"	nan		W1a
+209	2pl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmio	nan	nan	"('2pl', 'alor1247-baran', "",mi sa'kali"")"	nan		W1a
+210	3pl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	da	proclitic	nan	"('3pl', 'alor1247-baran', ""'fe: sa'kali"")"	nan		W1a
+210	3pl	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	dane	nan	nan	"('3pl', 'alor1247-baran', ""'fe: sa'kali"")"	nan		W1a
+211	no; not	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtake	nan	nan	"('no; not', 'adan1251', 'haʔai')"	nan		W1a
+212	and	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	no	also means 'with'	nan	"('and', 'alor1247-baran', 'nɔ̃:')"	nan		W1a; W1a
+212	and	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pa	also means 'then'	nan	"('and', 'alor1247-baran', 'nɔ̃:')"	nan		W1a; W1a
+213	because	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpukən	nan	nan	"('because', 'alor1247-baran', ""'karɛna, sɛ'bab"")"	nan		W1a
+214	if	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ma	nan	nan	"('if', 'alor1247-baran', ""'kalau"")"	nan		N1
+215	with	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	no	nan	nan	"('with', 'alor1247-baran', 'nɔ̃:')"	nan		W1a
+216	what?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	an	nan	nan	"('what?', 'alor1247-baran', 'pei')"	nan		W1a
+217	who?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	eˈnak	nan	nan	"('who?', 'alor1247-baran', ""'haf:a"")"	nan		W1a
+218	where?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡa	short form	nan	"('where?', 'alor1247-baran', ""na'ŋga 'ɔrɔ"")"	nan		
+218	where?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡane	nan	nan	"('where?', 'alor1247-baran', ""na'ŋga 'ɔrɔ"")"	nan		
+219	when?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒəm(a) ˈpira	nan	nan	"('when?', 'alor1247-baran', ""ɛrpɛ'hɛlɛ"")"	nan		W1a
 220	why?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bo an	nan	nan	"('why?', 'alor1247-baran', ""'peinã:"")"	nan		W1a
 220	why?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	puˈkən an	nan	nan	"('why?', 'alor1247-baran', ""'peinã:"")"	nan		W1a
-221	how much; how many?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpira	nan	nan	"('how much; how many?', 'adon1237', 'ˈpira')"	nan		W1a
-222	how?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nao ɡa	word by word: 'kind where'	nan	"('how?', 'sout2896-kalik', 'nao_ɡa')"	nan		W1a
-223	this	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ve	nan	nan	"('this', 'lama1277-ritae', 'tokowe')"	nan		W1a
+221	how much; how many?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpira	nan	nan	"('how much; how many?', 'adan1251', 'den')"	nan		W1a
+222	how?	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nao ɡa	word by word: 'kind where'	nan	"('how?', 'sout2896-kalik', 'nao ɡa')"	nan		W1a
+223	this	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ve	nan	nan	"('this', 'sout2896-kalik', 've')"	nan		W1a
 224	that	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vo	nan	nan	"('that', 'sout2896-kalik', 'vo')"	nan		W1a
 225	at	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	la	?	nan	"('at', 'sout2896-kalik', 'la')"	nan		
-226	in; inside	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	d͡ʒe ... or	nan	nan	"('in; inside', 'sout2896-kalik', 'd͡ʒe_..._or')"	nan		W1a
-227	here	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	re	nan	nan	"('here', 'buna1278-bobon', 'arenɔ')"	nan		W1a
-228	there	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vəˈli	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	"('there', 'alor1247-besar', ""'fali_'kali"")"	nan		W1a; W1a; W1a
-228	there	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒae	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	"('there', 'adon1237', 'dɜˈhɛrɜ')"	nan		W1a; W1a; W1a
-228	there	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlau	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	"('there', 'sout2896-kalik', 'ˈlau')"	nan		W1a; W1a; W1a
+226	in; inside	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	d͡ʒe ... or	nan	nan	"('in; inside', 'adan1251', 'ʔɔm')"	nan		W1a
+227	here	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	re	nan	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan		W1a
+228	there	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vəˈli	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	"('there', 'sout2896-kalik', 'vəˈli')"	nan		W1a; W1a; W1a
+228	there	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒae	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	"('there', 'sout2896-kalik', 'vəˈli')"	nan		W1a; W1a; W1a
+228	there	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlau	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	"('there', 'sout2896-kalik', 'vəˈli')"	nan		W1a; W1a; W1a
 229	above	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	d͡ʒe	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	"('above', 'sout2896-kalik', 'd͡ʒe')"	nan		W1a; W1a; W1a
-229	above	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlolo	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	"('above', 'adon1237', 'ˈbloʔlõ')"	nan		W1a; W1a; W1a
-229	above	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡolo	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	"('above', 'adon1237', 'ˈbloʔlõ')"	nan		W1a; W1a; W1a
+229	above	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlolo	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	"('above', 'sout2896-kalik', 'd͡ʒe')"	nan		W1a; W1a; W1a
+229	above	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡolo	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	"('above', 'sout2896-kalik', 'd͡ʒe')"	nan		W1a; W1a; W1a
 230	below	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlere	nan	nan	"('below', 'sout2896-kalik', 'ˈlere')"	nan		W1a
-234	all	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	svaˈɔl	nan	nan	"('all', 'lama1277-lamah', 'waol')"	nan		W1a
-235	many	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈraik	nan	nan	"('many', 'keda1252', ""'rai"")"	nan		W1a
-236	animal	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈvaŋ	in the recording the word appears in tis plural form	nan	"('animal', 'adon1237', 'ˈʔɜˈwã')"	nan		W1a
-238	dog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	au	nan	nan	"('dog', 'adon1237', 'ˈʔaho')"	nan		W1a
-238	dog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈɔr	nan	nan	"('dog', 'adon1237', 'ˈʔaho')"	nan		W1a
-239	pig	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vavi	nan	nan	"('pig', 'abui1241-fuime', 'fe')"	nan		W1a
-239	pig	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈvɛr	nan	nan	"('pig', 'abui1241-fuime', 'fe')"	nan		W1a
-240	chicken	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈnʊk	nan	nan	"('chicken', 'alor1247-besar', ""'manu"")"	nan		W1a
-241	rat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kroˈmɛr	nan	nan	"('rat', 'adon1237', 'ˈkromɛ')"	nan		W1a
-242	lizard	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈkɛk	nan	nan	"('lizard', 'abui1241-fuime', 'tekok')"	nan		W1a
-243	civet cat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈkɔr	nan	nan	"('civet cat', 'adon1237', 'ˈlako')"	nan		W1a
-244	deer	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ruˈsar	nan	nan	"('deer', 'abui1241-takal', 'ä.jut')"	nan		W1a
-245	frog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəməˈtɔr	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'adon1237', 'ˈmɜto')"	nan		W1a; W1a
-245	frog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈtəŋ	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'sout2896-kalik', 'tuˈtəŋ')"	nan		W1a; W1a
-245	frog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtulɔr	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'nan', 'tulu')"	nan		W1a; W1a
-245	frog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tulu	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'nan', 'tulu')"	nan		
+231	left (side)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	seˈke	nan	nan	"('left (side)', 'abui1241-fuime', 'teibika')"	nan		W1a
+232	right (side)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈna	nan	nan	"('right (side)', 'sout2896-kalik', 'vaˈna')"	nan		W1a
+233	a few	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənaˈkɔt	nan	nan	"('a few', 'sout2896-kalik', 'kənaˈkɔt')"	nan		W1a
+234	all	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	svaˈɔl	nan	nan	"('all', 'sout2896-kalik', 'svaˈɔl')"	nan		W1a
+235	many	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈraik	nan	nan	"('many', 'sout2896-kalik', 'ˈraik')"	nan		W1a
+236	animal	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈvaŋ	in the recording the word appears in tis plural form	nan	"('animal', 'sout2896-kalik', 'əˈvaŋ')"	nan		W1a
+238	dog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	au	nan	nan	"('dog', 'sout2896-kalik', 'au')"	nan		W1a
+238	dog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈɔr	nan	nan	"('dog', 'sout2896-kalik', 'au')"	nan		W1a
+239	pig	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vavi	nan	nan	"('pig', 'sout2896-kalik', 'vavi')"	nan		W1a
+239	pig	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈvɛr	nan	nan	"('pig', 'sout2896-kalik', 'vavi')"	nan		W1a
+240	chicken	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈnʊk	nan	nan	"('chicken', 'sout2896-kalik', 'maˈnʊk')"	nan		W1a
+241	rat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kroˈmɛr	nan	nan	"('rat', 'sout2896-kalik', 'kroˈmɛr')"	nan		W1a
+242	lizard	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈkɛk	nan	nan	"('lizard', 'sout2896-kalik', 'təˈkɛk')"	nan		W1a
+243	civet cat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈkɔr	nan	nan	"('civet cat', 'sout2896-kalik', 'laˈkɔr')"	nan		W1a
+244	deer	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ruˈsar	nan	nan	"('deer', 'sout2896-kalik', 'ruˈsar')"	nan		W1a
+245	frog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəməˈtɔr	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'sout2896-kalik', 'kəməˈtɔr')"	nan		W1a; W1a
+245	frog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈtəŋ	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'sout2896-kalik', 'kəməˈtɔr')"	nan		W1a; W1a
+245	frog	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtulɔr	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'sout2896-kalik', 'kəməˈtɔr')"	nan		W1a; W1a
+245	frog	nan	nan	nan	nan	tulu	"kəməˈtɔr can be eaten, the others not"	nan	"('frog', 'sout2896-kalik', 'kəməˈtɔr')"	nan		
 246	bat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	krɛˈbɛŋ	nan	nan	"('bat', 'sout2896-kalik', 'krɛˈbɛŋ')"	nan		W1a
-247	flying fox; fruit bat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmiˈkɛr	nan	nan	"('flying fox; fruit bat', 'sout2896-kalik', 'kəmiˈkɛr')"	nan		W1a
-250	fish	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈkan	nan	nan	"('fish', 'adon1237', 'ˈʔikã')"	nan		W1a
-251	shark	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈɔr	nan	nan	"('shark', 'adon1237', 'ˈhio')"	nan		W1a
+247	flying fox; fruit bat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmiˈkɛr	nan	nan	"('flying fox; fruit bat', 'adan1251', 'madiruŋ')"	nan		W1a
+249	tail	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈkur	nan	nan	"('tail', 'abui1241-fuime', 'ha-wai')"	nan		W1a
+250	fish	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈkan	nan	nan	"('fish', 'abui1241-fuime', 'afu')"	nan		W1a
+251	shark	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈɔr	nan	nan	"('shark', 'sout2896-kalik', 'iˈɔr')"	nan		W1a
 252	whale	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈmus	nan	nan	"('whale', 'sout2896-kalik', 'təˈmus')"	nan		W1a
-254	crocodile	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkobu	nan	nan	"('crocodile', 'adon1237', 'ˈkobu')"	nan		W1a
+254	crocodile	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkobu	nan	nan	"('crocodile', 'abui1241-fuime', 'fahai')"	nan		W1a
 255	monitor lizard	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəˈpap	nan	nan	"('monitor lizard', 'sout2896-kalik', 'bəˈpap')"	nan		W1a
-257	turtle	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkea	nan	nan	"('turtle', 'adon1237', 'ˈkeʔa')"	nan		W1a
-258	turtle (saltwater)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkea	nan	nan	"('turtle (saltwater)', 'adon1237', 'ˈkeʔa')"	nan		W1a
-259	bird	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kliˈɛŋ	nan	nan	"('bird', 'sout2896-kalik', 'kliˈɛŋ')"	nan		W1a; W1a
-259	bird	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈklie	nan	nan	"('bird', 'sout2896-kalik', 'kliˈɛŋ')"	nan		W1a; W1a
+257	turtle	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkea	nan	nan	"('turtle', 'abui1241-fuime', 'youko')"	nan		W1a
+258	turtle (saltwater)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkea	nan	nan	"('turtle (saltwater)', 'adan1251', 'sɛi ʔu')"	nan		W1a
+259	bird	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kliˈɛŋ	nan	nan	"('bird', 'abui1241-fuime', 'ruo')"	nan		W1a; W1a
+259	bird	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈklie	nan	nan	"('bird', 'abui1241-fuime', 'ruo')"	nan		W1a; W1a
 260	wing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈpik	nan	nan	"('wing', 'abui1241-fuime', 'ha-bakai')"	nan		W1a
-262	feather	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈklie raˈvʊk	nan	nan	"('feather', 'adon1237', 'ˈrawuke')"	nan		W1a
-263	horn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈra	nan	nan	"('horn', 'adon1237', 'taˈrã')"	nan		W1a
-264	snake	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈlar	nan	nan	"('snake', 'adon1237', 'ˈʔulaʔ')"	nan		W1a
-265	scorpion	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈlɔt	nan	nan	"('scorpion', 'alor1247-besar', ""'ala"")"	nan		W1a
-266	egg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tɛˈlʊk	nan	nan	"('egg', 'adon1237', 'ˈtɛluk')"	nan		W1a
-267	earthworm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	səlvaˈlak	nan	nan	"('earthworm', 'adon1237', 'kalaˈwala')"	nan		W1a
+262	feather	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈklie raˈvʊk	nan	nan	"('feather', 'sout2896-kalik', 'ˈklie raˈvʊk')"	nan		W1a
+263	horn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈra	nan	nan	"('horn', 'abui1241-fuime', 'ha-muk')"	nan		W1a
+264	snake	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈlar	nan	nan	"('snake', 'abui1241-fuime', 'mon')"	nan		W1a
+265	scorpion	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈlɔt	nan	nan	"('scorpion', 'abui1241-fuime', 'pei')"	nan		W1a
+266	egg	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tɛˈlʊk	nan	nan	"('egg', 'abui1241-fuime', 'bira')"	nan		W1a
+267	earthworm	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	səlvaˈlak	nan	nan	"('earthworm', 'sout2896-kalik', 'səlvaˈlak')"	nan		W1a
 268	butterfly	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəbuˈkal	nan	nan	"('butterfly', 'abui1241-fuime', 'kupak')"	nan		W1a
-269	fly (n.)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmaˈmʊk	nan	nan	"('fly (n.)', 'adon1237', 'kɜˈnɜpũ')"	nan		W1a
+269	fly (n.)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmaˈmʊk	nan	nan	"('fly (n.)', 'abui1241-fuime', 'fulfai')"	nan		W1a
 270	mosquito	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəməˈŋɛŋ	nan	nan	"('mosquito', 'abui1241-fuime', 'kuima')"	nan		W1a
-271	ant	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təmiˈsɛr	nan	nan	"('ant', 'cent2245-hewa', 'mihe')"	nan		W1a
-272	grasshopper	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈd͡ʒɔr	nan	nan	"('grasshopper', 'sout2896-kalik', 'maˈd͡ʒɔr')"	nan		W1a
-273	locust	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmɔˈrɔŋ	nan	nan	"('locust', 'abui1241-takal', ""kä.'me̞.liŋ"")"	nan		W1a
-274	spider	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lakboˈrit	nan	nan	"('spider', 'sout2896-kalik', 'lakboˈrit')"	nan		W1a
-275	headlice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kuˈtɔr	nan	nan	"('headlice', 'adon1237', 'ˈkutɔ')"	nan		W1a; W1a
-275	headlice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkutu	nan	nan	"('headlice', 'adon1237', 'ˈkutɔ')"	nan		W1a; W1a
-276	louse eggs	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkutu kiˈan	nan	nan	"('louse eggs', 'alor1247-besar', ""'kuto_ka'lehã"")"	nan		W1a
-277	mother louse	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkutu iˈnan	nan	nan	"('mother louse', 'adon1237', 'kutɔ_ˈʔinã')"	nan		W1a
-278	flea	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təməˈlar	nan	nan	"('flea', 'alor1247-besar', ""'aho_ta'mela"")"	nan		W1a
+271	ant	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təmiˈsɛr	nan	nan	"('ant', 'abui1241-fuime', 'fiikai')"	nan		W1a
+272	grasshopper	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈd͡ʒɔr	nan	nan	"('grasshopper', 'abui1241-fuime', 'tunui')"	nan		W1a
+273	locust	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmɔˈrɔŋ	nan	nan	"('locust', 'sout2896-kalik', 'kəmɔˈrɔŋ')"	nan		W1a
+274	spider	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lakboˈrit	nan	nan	"('spider', 'abui1241-fuime', 'bala-bala')"	nan		W1a
+275	headlice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kuˈtɔr	nan	nan	"('headlice', 'abui1241-fuime', 'bikeng')"	nan		W1a; W1a
+275	headlice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkutu	nan	nan	"('headlice', 'abui1241-fuime', 'bikeng')"	nan		W1a; W1a
+276	louse eggs	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkutu kiˈan	nan	nan	"('louse eggs', 'abui1241-fuime', 'bikeng tulung')"	nan		W1a
+277	mother louse	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkutu iˈnan	nan	nan	"('mother louse', 'adan1251', 'ɔbe')"	nan		W1a
+278	flea	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təməˈlar	nan	nan	"('flea', 'abui1241-fuime', 'kai nebikeng')"	nan		W1a
+279	louse (clothing)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kətuˈmau	nan	nan	"('louse (clothing)', 'abui1241-fuime', 'be')"	nan		W1a
 280	bedbug	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təmaˈd͡ʒuŋ	nan	nan	"('bedbug', 'abui1241-fuime', 'taamek')"	nan		W1a
-281	big	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	keˈdak	nan	nan	"('big', 'cent2245-hewa', 'gəte')"	nan		W1a
-282	small	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈnak	nan	nan	"('small', 'alor1247-baran', ""'an:aŋ"")"	nan		W1a
+281	big	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	keˈdak	nan	nan	"('big', 'abui1241-fuime', 'foko')"	nan		W1a
+282	small	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈnak	nan	nan	"('small', 'abui1241-fuime', 'kding')"	nan		W1a
 283	old; worn (house)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	noˈlʊŋ	nan	nan	"('old; worn (house)', 'abui1241-fuime', 'makila')"	nan		W1a
+284	new (house)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vəˈrʊn	nan	nan	"('new (house)', 'abui1241-fuime', 'fija')"	nan		W1a
 285	old (people)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈɡuna	maˈɡunaː for men; tuˈanaː for women. These are plural forms.	nan	"('old (people)', 'abui1241-fuime', 'kalejeita')"	nan		W1a; W1a
 285	old (people)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈana	maˈɡunaː for men; tuˈanaː for women. These are plural forms.	nan	"('old (people)', 'abui1241-fuime', 'kalejeita')"	nan		W1a; W1a
 286	young (people)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡraˈnak	ɡraˈnakː for men; ɡəˈrəpː for women	nan	"('young (people)', 'abui1241-fuime', 'abeti')"	nan		W1a; W1a
 286	young (people)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəˈrəp	ɡraˈnakː for men; ɡəˈrəpː for women	nan	"('young (people)', 'abui1241-fuime', 'abeti')"	nan		W1a; W1a
-287	lazy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəˈnɔɡəl	nan	nan	"('lazy', 'sout2896-kalik', 'bəˈnɔɡəl')"	nan		W1a
-288	hot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈti	nan	nan	"('hot', 'lama1277-imulo', 'kat')"	nan		W1a; W1a
-288	hot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knaˈtiŋ	nan	nan	"('hot', 'lama1277-imulo', 'kat')"	nan		W1a; W1a
+287	lazy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəˈnɔɡəl	nan	nan	"('lazy', 'abui1241-fuime', 'kiliki')"	nan		W1a
+288	hot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈti	nan	nan	"('hot', 'abui1241-fuime', 'lila')"	nan		W1a; W1a
+288	hot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knaˈtiŋ	nan	nan	"('hot', 'abui1241-fuime', 'lila')"	nan		W1a; W1a
 289	cold	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈtəs	nan	nan	"('cold', 'abui1241-fuime', 'palata')"	nan		W1a
-290	good	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈlus	nan	nan	"('good', 'lama1277-kalik', 'alus')"	nan		W1a
-291	bad	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈdatək	nan	nan	"('bad', 'alor1247-baran', ""'datɛ"")"	nan		W1a
-292	full	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈnuk	nan	nan	"('full', 'adon1237', 'ˈpɜnɔ')"	nan		W1a
+290	good	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈlus	nan	nan	"('good', 'abui1241-fuime', 'kang')"	nan		W1a
+291	bad	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈdatək	nan	nan	"('bad', 'abui1241-fuime', 'beaka')"	nan		W1a
+292	full	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈnuk	nan	nan	"('full', 'abui1241-fuime', 'we-midi')"	nan		W1a
 293	empty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈliŋ	nan	nan	"('empty', 'abui1241-fuime', 'taka')"	nan		W1a
-294	near	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	daˈek	nan	nan	"('near', 'adon1237', 'ˈdahe')"	nan		W1a
-295	far	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	doˈak	nan	nan	"('far', 'adon1237', 'ˈdɔɑ̃')"	nan		W1a
-296	wet	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sənəˈbar	nan	nan	"('wet', 'lama1277-lamal', 'sənəbe')"	nan		W1a
-297	dry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈd͡ʒak	nan	nan	"('dry', 'adon1237', 'ˈmaʔrã')"	nan		W1a
-298	dry in sun	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈri (məˈka)	nan	nan	"('dry in sun', 'adan1251-lawah', 'fɛd_poi')"	nan		W1a
+294	near	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	daˈek	nan	nan	"('near', 'adan1251', 'fanaŋ')"	nan		W1a
+295	far	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	doˈak	nan	nan	"('far', 'sout2896-kalik', 'doˈak')"	nan		W1a
+296	wet	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sənəˈbar	nan	nan	"('wet', 'abui1241-fuime', 'alina')"	nan		W1a
+297	dry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈd͡ʒak	nan	nan	"('dry', 'abui1241-fuime', 'takata')"	nan		W1a
+298	dry in sun	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈri (məˈka)	nan	nan	"('dry in sun', 'abui1241-fuime', 'waritek')"	nan		W1a
 299	long	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	doˈak	nan	nan	"('long', 'abui1241-fuime', 'lohu')"	nan		W1a
 300	tall	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	gɔˈlɔk	nan	nan	"('tall', 'abui1241-fuime', 'lohu')"	nan		W1b
 301	short	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈɡɔk	nan	nan	"('short', 'abui1241-fuime', 'bui')"	nan		W1b
-302	short (people)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	(aˈdik) leˈrɛk	nan	nan	"('short (people)', 'lama1278', 'ˈlɛrɛʔ')"	nan		W1b
-304	skinny (human)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	krɔˈɡɔŋ	nan	nan	"('skinny (human)', 'adon1237', 'pɜˈriɡo')"	nan		W1b
-305	thick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	prəˈvak	nan	nan	"('thick', 'adon1237', 'pɜˈwɜrã')"	nan		W1b
+302	short (people)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	(aˈdik) leˈrɛk	nan	nan	"('short (people)', 'sout2896-kalik', '(aˈdik) leˈrɛk')"	nan		W1b
+303	thin (non-human)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	mipˈiv	nan	nan	"('thin (non-human)', 'abui1241-fuime', 'foli')"	nan		W1b
+304	skinny (human)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	krɔˈɡɔŋ	nan	nan	"('skinny (human)', 'sout2896-kalik', 'krɔˈɡɔŋ')"	nan		W1b
+305	thick	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	prəˈvak	nan	nan	"('thick', 'abui1241-fuime', 'taapati')"	nan		W1b
 306	round	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	klɔˈpɔr	nan	nan	"('round', 'sout2896-kalik', 'klɔˈpɔr')"	nan		W1b; W1b
 306	round	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kˈpɔlɔt	nan	nan	"('round', 'sout2896-kalik', 'klɔˈpɔr')"	nan		W1b; W1b
 307	dark	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	rəˈmak	ˈmitəm also means black	nan	"('dark', 'abui1241-fuime', 'akuni')"	nan		W1b; W1b
 307	dark	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmitəm	ˈmitəm also means black	nan	"('dark', 'abui1241-fuime', 'akuni')"	nan		W1b; W1b
 308	light	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəneˈkən	nan	nan	"('light', 'abui1241-fuime', 'falaka')"	nan		W1b
-309	dirty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	miˈlan	nan	nan	"('dirty', 'amar1273-kotos', 'oe-metan')"	nan		W1b
-310	clean	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	slaˈɛk	nan	nan	"('clean', 'sout2896-kalik', 'slaˈɛk')"	nan		W1b
+309	dirty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	miˈlan	nan	nan	"('dirty', 'abui1241-fuime', 'dakung')"	nan		W1b
+310	clean	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	slaˈɛk	nan	nan	"('clean', 'abui1241-fuime', 'sani')"	nan		W1b
 311	sharp	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	rəˈkət	nan	nan	"('sharp', 'abui1241-fuime', 'bula')"	nan		W1b
-313	heavy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bənəˈrat	nan	nan	"('heavy', 'adon1237', 'ˈbaʔat')"	nan		W1b
-314	light (weight)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kleˈak	nan	nan	"('light (weight)', 'adon1237', 'kɜˈliɛʔ')"	nan		W1b
-315	straight	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	moˈlur	nan	nan	"('straight', 'abui1241-fuime', 'mulaŋ')"	nan		W1b
-316	wide	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pleˈdan	nan	nan	"('wide', 'adon1237', 'ˈbeleʔ')"	nan		W1b
+312	blunt; dull	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmɔˈsɔn	nan	nan	"('blunt; dull', 'abui1241-fuime', 'toping')"	nan		W1b
+313	heavy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bənəˈrat	nan	nan	"('heavy', 'abui1241-fuime', 'tuhai')"	nan		W1b
+314	light (weight)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kleˈak	nan	nan	"('light (weight)', 'abui1241-fuime', 'sierai')"	nan		W1b
+315	straight	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	moˈlur	nan	nan	"('straight', 'abui1241-fuime', 'mulang')"	nan		W1b
+316	wide	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pleˈdan	nan	nan	"('wide', 'abui1241-fuime', 'tilesing')"	nan		W1b
 317	narrow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kniˈpɔt	nan	nan	"('narrow', 'abui1241-fuime', 'karie')"	nan		W1b
-318	correct	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	muˈd͡ʒək	nan	nan	"('correct', 'sout2896-kalik', 'muˈd͡ʒək')"	nan		W1b
+318	correct	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	muˈd͡ʒək	nan	nan	"('correct', 'abui1241-fuime', 'rofi')"	nan		W1b
 319	wrong	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snaˈlak	nan	nan	"('wrong', 'abui1241-fuime', 'hasala')"	nan		W1b
-320	ripe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈsak	nan	nan	"('ripe', 'abui1241-fuime', 'we-maeekiŋ')"	nan		W1b
+320	ripe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈsak	nan	nan	"('ripe', 'abui1241-fuime', 'we-maeeking')"	nan		W1b
 321	rotten	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kədaˈtək	nan	nan	"('rotten', 'abui1241-fuime', 'hamuni')"	nan		W1b
 322	bitter	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈnait	nan	nan	"('bitter', 'abui1241-fuime', 'makali')"	nan		W1b
-323	sweet	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snəˈruk	nan	nan	"('sweet', 'sout2896-kalik', 'snəˈruk')"	nan		W1b
-324	sour	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kniˈluk	nan	nan	"('sour', 'sout2896-kalik', 'kniˈluk')"	nan		W1b
+323	sweet	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snəˈruk	nan	nan	"('sweet', 'abui1241-fuime', 'ralong')"	nan		W1b
+324	sour	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kniˈluk	nan	nan	"('sour', 'abui1241-fuime', 'alesing')"	nan		W1b
 325	salty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pənɛˈd͡ʒʊk	nan	nan	"('salty', 'sout2896-kalik', 'pənɛˈd͡ʒʊk')"	nan		W1b
-327	smooth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəməˈlɔs	nan	nan	"('smooth', 'adon1237', 'kɜˈmelut')"	nan		W1b
-328	rough	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡroˈsiŋ	nan	nan	"('rough', 'sout2896-kalik', 'ɡroˈsiŋ')"	nan		W1b
-329	black	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	miˈtəm	nan	nan	"('black', 'adon1237', 'ˈmitɜ')"	nan		W1b
-330	white	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	buˈd͡ʒak	nan	nan	"('white', 'adon1237', 'ˈburaʔ')"	nan		W1b
+326	flat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	leˈrɛk	nan	nan	"('flat', 'abui1241-fuime', 'fui')"	nan		W1b
+327	smooth	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəməˈlɔs	nan	nan	"('smooth', 'abui1241-fuime', 'rula')"	nan		W1b
+328	rough	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡroˈsiŋ	nan	nan	"('rough', 'abui1241-fuime', 'fikda')"	nan		W1b
+329	black	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	miˈtəm	nan	nan	"('black', 'abui1241-fuime', 'akani')"	nan		W1b
+330	white	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	buˈd͡ʒak	nan	nan	"('white', 'abui1241-fuime', 'kuli')"	nan		W1b
 331	red	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	meˈran	nan	nan	"('red', 'abui1241-fuime', 'kika')"	nan		W1b
-332	green	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈd͡ʒoni	nan	nan	"('green', 'alor1247-besar', ""'idʒɔŋ"")"	nan		W1b
-333	blue	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəbəˈris	nan	nan	"('blue', 'sout2896-kalik', 'kəbəˈris')"	nan		W1b
+332	green	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈd͡ʒoni	nan	nan	"('green', 'abui1241-fuime', 'walangai')"	nan		W1b
+333	blue	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəbəˈris	nan	nan	"('blue', 'abui1241-fuime', 'walangai')"	nan		W1b
 334	yellow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kuˈmas	nan	nan	"('yellow', 'abui1241-fuime', 'adesan')"	nan		W1b
-335	sick; painful	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡai	nan	nan	"('sick; painful', 'sout2896-kalik', 'ˈɡai')"	nan		W1b
-336	shy; ashamed	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kruˈit	nan	nan	"('shy; ashamed', 'sout2896-kalik', 'kruˈit')"	nan		W1b
-337	thirsty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmai	nan	nan	"('thirsty', 'sout2896-kalik', 'ˈmai')"	nan		W1b
-338	hungry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈluv	nan	nan	"('hungry', 'adon1237', 'ˈmalu')"	nan		W1b
-339	blind	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kniˈpɛk	nan	nan	"('blind', 'sout2896-kalik', 'kniˈpɛk')"	nan		W1b
-340	deaf	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kleˈbit	also means 'stupid'	nan	"('deaf', 'adon1237', 'kɜˈbekʔẽ')"	nan		W1b
-341	scared	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	têmêkon	nan	nan	"('scared', 'sout2896-kalik', 'têmêkon')"	nan		W1b
-342	angry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡrɛˈdi	nan	nan	"('angry', 'sout2896-kalik', 'ɡrɛˈdi')"	nan		W1b
-343	to see	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	du	nan	nan	"('to see', 'lama1277-kalik', 'du')"	nan		W1b
-345	to smell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɔˈdam	nan	nan	"('to smell', 'abui1241-fuime', 'munuŋra')"	nan		W1b
-346	to think	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpetən	nan	nan	"('to think', 'adon1237', 'ˈpetɜ')"	nan		W1b
-347	to know	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-eˈtən	needs a subject prefix and usually the object suffix -a	nan	"('to know', 'baka1276', 'teiŋ')"	nan		W1b
-348	to say	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈnua	nan	nan	"('to say', 'abui1241-fuime', 'taŋa')"	nan		W1b
-349	to speak	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pətuˈtosa	nan	nan	"('to speak', 'abui1241-fuime', 'taŋa')"	nan		W1b
-350	voice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	raŋ	nan	nan	"('voice', 'sout2896-kalik', 'raŋ')"	nan		W1b
+335	sick; painful	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡai	nan	nan	"('sick; painful', 'abui1241-fuime', 'na-rik')"	nan		W1b
+336	shy; ashamed	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kruˈit	nan	nan	"('shy; ashamed', 'abui1241-fuime', 'na-mielai')"	nan		W1b
+337	thirsty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmai	nan	nan	"('thirsty', 'abui1241-fuime', 'takaite, neretda')"	nan		W1b
+338	hungry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈluv	nan	nan	"('hungry', 'abui1241-fuime', 'mirai')"	nan		W1b
+339	blind	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kniˈpɛk	nan	nan	"('blind', 'abui1241-fuime', 'akuta')"	nan		W1b
+340	deaf	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kleˈbit	also means 'stupid'	nan	"('deaf', 'abui1241-fuime', 'tawei beaka')"	nan		W1b
+341	scared	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	têmêkon	nan	nan	"('scared', 'abui1241-fuime', 'mielang')"	nan		W1b
+342	angry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡrɛˈdi	nan	nan	"('angry', 'abui1241-fuime', 'kawai')"	nan		W1b
+343	to see	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	du	nan	nan	"('to see', 'abui1241-fuime', 'he-rei')"	nan		W1b
+344	to hear	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdəŋər	nan	nan	"('to hear', 'abui1241-fuime', 'wefaling')"	nan		W1b
+345	to smell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɔˈdam	nan	nan	"('to smell', 'abui1241-fuime', 'munungra')"	nan		W1b
+346	to think	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpetən	nan	nan	"('to think', 'abui1241-fuime', 'ha-lakda')"	nan		W1b
+347	to know	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-eˈtən	needs a subject prefix and usually the object suffix -a	nan	"('to know', 'sout2896-kalik', '-etən')"	nan		W1b
+348	to say	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈnua	nan	nan	"('to say', 'abui1241-fuime', 'tanga')"	nan		W1b
+349	to speak	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pətuˈtosa	nan	nan	"('to speak', 'abui1241-fuime', 'tanga')"	nan		W1b
+350	voice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	raŋ	nan	nan	"('voice', 'adan1251', 'amaŋ')"	nan		W1b
 351	language	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kniˈriŋ	nan	nan	"('language', 'sout2896-kalik', 'kniˈriŋ')"	nan		W1b
-352	to lie down	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈva	nan	nan	"('to lie down', 'lama1277-belan', 'pawaŋ')"	nan		W1b
-353	to sleep	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəˈlɛ	nan	nan	"('to sleep', 'lama1277-imulo', 'gəle')"	nan		W1b
-354	to wake up	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbaŋu	nan	nan	"('to wake up', 'alor1247-baran', ""'baũ"")"	nan		W1b
-355	to wake someone up	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈriɔ	nan	nan	"('to wake someone up', 'adon1237', 'ˈʔio')"	nan		W1b
-356	to bathe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈbo	nan	nan	"('to bathe', 'adon1237', 'ˈhabo')"	nan		W1b
-357	to bathe (a child)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈbura	nan	nan	"('to bathe (a child)', 'adon1237', 'ˈhabo')"	nan		W1b
+352	to lie down	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈva	nan	nan	"('to lie down', 'abui1241-fuime', 'ta')"	nan		W1b
+353	to sleep	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəˈlɛ	nan	nan	"('to sleep', 'abui1241-fuime', 'ta')"	nan		W1b
+354	to wake up	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbaŋu	nan	nan	"('to wake up', 'abui1241-fuime', 'taliele')"	nan		W1b
+355	to wake someone up	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈriɔ	nan	nan	"('to wake someone up', 'abui1241-fuime', 'aruda')"	nan		W1b
+356	to bathe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈbo	nan	nan	"('to bathe', 'abui1241-fuime', 'tawel')"	nan		W1b
+357	to bathe (a child)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈbura	nan	nan	"('to bathe (a child)', 'sout2896-kalik', 'ləˈbura')"	nan		W1b
 358	to sit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtobe	nan	nan	"('to sit', 'abui1241-fuime', 'miti')"	nan		W1b
-359	to stand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdiri	nan	nan	"('to stand', 'adon1237', 'ˈdeʔi')"	nan		W1b
-360	to walk	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpana məˈra lim	means literally 'going using your food'	nan	"('to walk', 'adon1237', 'ˈpana')"	nan		W1b
-361	to run	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkari	nan	nan	"('to run', 'sout2896-kalik', 'ˈkari')"	nan		W1b
+359	to stand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdiri	nan	nan	"('to stand', 'abui1241-fuime', 'nate')"	nan		W1b
+360	to walk	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpana məˈra lim	means literally 'going using your food'	nan	"('to walk', 'abui1241-fuime', 'lak')"	nan		W1b
+361	to run	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkari	nan	nan	"('to run', 'abui1241-fuime', 'furei')"	nan		W1b
 362	to go	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpana	nan	nan	"('to go', 'sout2896-kalik', 'ˈpana')"	nan		W1b
-363	to swim	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdulɔ	nan	nan	"('to swim', 'lama1277-lewuk', 'dulo')"	nan		W1b; W1b
-363	to swim	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnaŋe	nan	nan	"('to swim', 'adon1237', 'ˈnaŋe')"	nan		W1b; W1b
-364	to fly	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəˈka	nan	nan	"('to fly', 'adon1237', 'ˈbɜka')"	nan		W1b
-366	to fall over	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈbal	nan	nan	"('to fall over', 'lama1278', 'ˈtɔbɑŋ')"	nan		W1b; W1b
-366	to fall over	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡoˈkal	nan	nan	"('to fall over', 'sout2896-kalik', 'ɡoˈkal')"	nan		W1b; W1b
-367	to drop	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈra ləˈŋata	1) lit. you make sth. Fall	nan	"('to drop', 'keda1252', ""mɔ'ruʔ"")"	nan		W1b; W1b
-367	to drop	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈsola	1) lit. you make sth. Fall	nan	"('to drop', 'sout2896-kalik', 'pəˈsola')"	nan		W1b; W1b
-368	to drink	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-enu	nan	nan	"('to drink', 'adan1251-lawah', 'naʔ')"	nan		W1b
+363	to swim	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdulɔ	nan	nan	"('to swim', 'sout2896-kalik', 'ˈdulɔ')"	nan		W1b; W1b
+363	to swim	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnaŋe	nan	nan	"('to swim', 'sout2896-kalik', 'ˈdulɔ')"	nan		W1b; W1b
+364	to fly	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bəˈka	nan	nan	"('to fly', 'abui1241-fuime', 'li')"	nan		W1b
+365	to fall (from above)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈŋat	"peal is for humans, lêngat for things"	nan	"('to fall (from above)', 'abui1241-fuime', 'takuwila')"	nan		W1b; W1b
+365	to fall (from above)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	peˈal	"peal is for humans, lêngat for things"	nan	"('to fall (from above)', 'abui1241-fuime', 'takuwila')"	nan		W1b; W1b
+366	to fall over	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈbal	nan	nan	"('to fall over', 'abui1241-fuime', 'takuwila')"	nan		W1b; W1b
+366	to fall over	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡoˈkal	nan	nan	"('to fall over', 'abui1241-fuime', 'takuwila')"	nan		W1b; W1b
+367	to drop	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈra ləˈŋata	1) lit. you make sth. Fall	nan	"('to drop', 'sout2896-kalik', 'məˈra ləˈŋata')"	nan		W1b; W1b
+367	to drop	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈsola	1) lit. you make sth. Fall	nan	"('to drop', 'sout2896-kalik', 'məˈra ləˈŋata')"	nan		W1b; W1b
+368	to drink	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-enu	nan	nan	"('to drink', 'abui1241-fuime', 'iebuk')"	nan		W1b
 369	to eat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ga	"1SG,1IN,3PL: ka; the others ga. But this distinctions seems to be vanishing."	nan	"('to eat', 'abui1241-fuime', 'ne')"	nan		W1b
 369	to eat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ka	"1SG,1IN,3PL: ka; the others ga. But this distinctions seems to be vanishing."	nan	"('to eat', 'abui1241-fuime', 'ne')"	nan		W1b
-370	to cook	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	loˈlu	nan	nan	"('to cook', 'lama1277-kalik', 'loluŋ')"	nan		W1b
-371	to wash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈsa	"1) face, 2) clothes, 3) dishes"	nan	"('to wash', 'adon1237', 'ˈbaha')"	nan		W1b; W1b; W1b
-371	to wash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pus	"1) face, 2) clothes, 3) dishes"	nan	"('to wash', 'adon1237', 'ˈbaha')"	nan		W1b; W1b; W1b
-371	to wash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈreup	"1) face, 2) clothes, 3) dishes"	nan	"('to wash', 'pmpacd', '*Siñaw')"	nan		W1b; W1b; W1b
-372	to sew	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	saur	nan	nan	"('to sew', 'adon1237', 'ˈhɑu')"	nan		W1b
-374	to breathe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nai	nan	nan	"('to breathe', 'alor1247-baran', ""'tar:ɛ_'nah:ĩ:"")"	nan		W1b
-375	to work	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kərˈd͡ʒan	nan	nan	"('to work', 'abui1241-takal', 'kär.je̞äŋ')"	nan		W1b
-377	to give	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	be	nan	nan	"('to give', 'amar1273-kotos', 'n-fee')"	nan		W1b; W1b
-377	to give	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	noto	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan		W1b; W1b
-378	to wipe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɔk	nan	nan	"('to wipe', 'lama1277-kalik', 'soka')"	nan		W1b
-379	to come	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɔˈli	nan	nan	"('to come', 'lama1277-kalik', 'oli')"	nan		W1b
-380	to laugh	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡeˈka	nan	nan	"('to laugh', 'adon1237', 'ˈɡeka')"	nan		W1b
-381	to cry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈra	nan	nan	"('to cry', 'fata1247', ""a'rurɛ"")"	nan		W1b
+370	to cook	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	loˈlu	nan	nan	"('to cook', 'abui1241-fuime', 'made')"	nan		W1b
+371	to wash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈsa	"1) face, 2) clothes, 3) dishes"	nan	"('to wash', 'abui1241-fuime', 'luok')"	nan		W1b; W1b; W1b
+371	to wash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pus	"1) face, 2) clothes, 3) dishes"	nan	"('to wash', 'abui1241-fuime', 'luok')"	nan		W1b; W1b; W1b
+371	to wash	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈreup	"1) face, 2) clothes, 3) dishes"	nan	"('to wash', 'abui1241-fuime', 'luok')"	nan		W1b; W1b; W1b
+372	to sew	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	saur	nan	nan	"('to sew', 'abui1241-fuime', 'kapuike')"	nan		W1b
+373	to live; be alive; living	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	moˈd͡ʒip	nan	nan	"('to live; be alive; living', 'abui1241-fuime', 're')"	nan		W1b
+374	to breathe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	nai	nan	nan	"('to breathe', 'abui1241-fuime', 'ahel')"	nan		W1b
+375	to work	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kərˈd͡ʒan	nan	nan	"('to work', 'adan1251', 'karasaŋ')"	nan		W1b
+376	to die	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	matek	nan	nan	"('to die', 'abui1241-fuime', 'mong')"	nan		W1b
+377	to give	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	be	nan	nan	"('to give', 'abui1241-fuime', 'ede')"	nan		W1b; W1b
+377	to give	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	noto	nan	nan	"('to give', 'abui1241-fuime', 'ede')"	nan		W1b; W1b
+378	to wipe	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɔk	nan	nan	"('to wipe', 'sout2896-kalik', 'sɔk')"	nan		W1b
+379	to come	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɔˈli	nan	nan	"('to come', 'abui1241-fuime', 'me')"	nan		W1b
+380	to laugh	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡeˈka	nan	nan	"('to laugh', 'abui1241-fuime', 'talole')"	nan		W1b
+381	to cry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈra	nan	nan	"('to cry', 'abui1241-fuime', 'biakda')"	nan		W1b
 382	to dance	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsoka	nan	nan	"('to dance', 'abui1241-fuime', 'tohaijok')"	nan		W1b
-383	to sing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kanˈtar	nan	nan	"('to sing', 'buna1278-bobon', 'gio_logo')"	nan		W1b
-385	to burn; to shine	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈra	nan	nan	"('to burn; to shine', 'cent2245-hewa', 'baraʔ')"	nan		W1b
+383	to sing	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kanˈtar	nan	nan	"('to sing', 'abui1241-fuime', 'yai wefanga')"	nan		W1b
+384	to burn (clear land)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈpi	"papi 'clear land', tuno 'grill'"	nan	"('to burn (clear land)', 'sout2896-kalik', 'paˈpi')"	nan		W1b; W1b
+384	to burn (clear land)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtunɔ	"papi 'clear land', tuno 'grill'"	nan	"('to burn (clear land)', 'sout2896-kalik', 'paˈpi')"	nan		W1b; W1b
+385	to burn; to shine	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈra	nan	nan	"('to burn; to shine', 'abui1241-fuime', 'hiede')"	nan		W1b
 386	to shine	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈləka	nan	nan	"('to shine', 'sout2896-kalik', 'vaˈləka')"	nan		W1b
-387	to chew	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈmɔt	nan	nan	"('to chew', 'alor1247-besar', ""'mamɛ"")"	nan		W1b
-388	to yawn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmuˈav	nan	nan	"('to yawn', 'pmpacd', '*huab')"	nan		W1b
-389	to suck	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdusəp	nan	nan	"('to suck', 'adon1237', 'ˈʔisɜp')"	nan		W1b
-390	to blow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pur	nan	nan	"('to blow', 'abui1241-fuime', 'furuŋra')"	nan		W1b
-391	to spit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈmid͡ʒu	nan	nan	"('to spit', 'keda1252', 'potaʔ')"	nan		W1b
-392	to vomit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luˈa	nan	nan	"('to vomit', 'lama1277-belan', 'lua')"	nan		W1b
-393	to rub	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdoru	nan	nan	"('to rub', 'adon1237', 'doˈruʔ')"	nan		W1b
-394	to scratch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈraɡu	nan	nan	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	nan		W1b
-395	itchy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəˈtək	nan	nan	"('itchy', 'adon1237', 'ˈɡatɜk')"	nan		W1b
-396	to swell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snoˈbad͡ʒ	nan	nan	"('to swell', 'sout2896-kalik', 'snoˈbad͡ʒ')"	nan		W1b
-397	to hit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈluk	nan	nan	"('to hit', 'keda1252', ""pa'luʔ"")"	nan		W1b
-398	to slap	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈpa	nan	nan	"('to slap', 'adon1237', 'ˈtɜpɑk')"	nan		W1b
-399	to bite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡike	nan	nan	"('to bite', 'adon1237', 'ˈɡike')"	nan		W1b; ?
-399	to bite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡiki	nan	nan	"('to bite', 'adon1237', 'ˈɡike')"	nan		W1b; ?
-400	to cut	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbelu	nan	nan	"('to cut', 'keda1252', 'bel')"	nan		W1b
-401	to cut down	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈkat	"1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself"	nan	"('to cut down', 'sout2896-kalik', 'baˈkat')"	nan		W1b; W1b
-401	to cut down	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtoba	"1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself"	nan	"('to cut down', 'adon1237', 'ˈhobat')"	nan		W1b; W1b
-402	to split	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈɡa	nan	nan	"('to split', 'adon1237', 'ˈlɜkɑʔ')"	nan		W1b
-403	to divide	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vɛˈka	nan	nan	"('to divide', 'adon1237', 'ˈweka')"	nan		W1b
-404	to stab	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈbak	nan	nan	"('to stab', 'alor1249-sar-a', 'tatap')"	nan		W1b
+387	to chew	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈmɔt	nan	nan	"('to chew', 'abui1241-fuime', 'take')"	nan		W1b
+388	to yawn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəmuˈav	nan	nan	"('to yawn', 'abui1241-fuime', 'ahau')"	nan		W1b
+389	to suck	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdusəp	nan	nan	"('to suck', 'abui1241-fuime', 'buk')"	nan		W1b
+390	to blow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pur	nan	nan	"('to blow', 'abui1241-fuime', 'furungra')"	nan		W1b
+391	to spit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈmid͡ʒu	nan	nan	"('to spit', 'sout2896-kalik', 'təˈmid͡ʒu')"	nan		W1b
+392	to vomit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luˈa	nan	nan	"('to vomit', 'abui1241-fuime', 'iu')"	nan		W1b
+393	to rub	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdoru	nan	nan	"('to rub', 'abui1241-fuime', 'we-luuke')"	nan		W1b
+394	to scratch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈraɡu	nan	nan	"('to scratch', 'abui1241-fuime', 'kafie')"	nan		W1b
+395	itchy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəˈtək	nan	nan	"('itchy', 'abui1241-fuime', 'no-jokung')"	nan		W1b
+396	to swell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snoˈbad͡ʒ	nan	nan	"('to swell', 'abui1241-fuime', 'na-mudi')"	nan		W1b
+397	to hit	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈluk	nan	nan	"('to hit', 'abui1241-fuime', 'tebol')"	nan		W1b
+398	to slap	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈpa	nan	nan	"('to slap', 'sout2896-kalik', 'təˈpa')"	nan		W1b
+399	to bite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡike	nan	nan	"('to bite', 'abui1241-fuime', '(kai) netakai')"	nan		W1b; ?
+399	to bite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɡiki	nan	nan	"('to bite', 'abui1241-fuime', '(kai) netakai')"	nan		W1b; ?
+400	to cut	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbelu	nan	nan	"('to cut', 'abui1241-fuime', 'ha-weike')"	nan		W1b
+401	to cut down	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈkat	"1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself"	nan	"('to cut down', 'abui1241-fuime', 'ha-weike')"	nan		W1b; W1b
+401	to cut down	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtoba	"1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself"	nan	"('to cut down', 'abui1241-fuime', 'ha-weike')"	nan		W1b; W1b
+402	to split	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈɡa	nan	nan	"('to split', 'abui1241-fuime', 'kadel')"	nan		W1b
+403	to divide	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vɛˈka	nan	nan	"('to divide', 'abui1241-fuime', 'hawal')"	nan		W1b
+404	to stab	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈbak	nan	nan	"('to stab', 'abui1241-fuime', 'ensei')"	nan		W1b
 405	to skewer	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	roˈbak	nan	nan	"('to skewer', 'sout2896-kalik', 'roˈbak')"	nan		W1b; W1b
-405	to skewer	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈɡu	nan	nan	"('to skewer', 'sout2896-kalik', 'təˈɡu')"	nan		W1b; W1b
-406	to fight	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpunu	nan	nan	"('to fight', 'adon1237', 'pɜˈwuno')"	nan		W1b
+405	to skewer	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈɡu	nan	nan	"('to skewer', 'sout2896-kalik', 'roˈbak')"	nan		W1b; W1b
+406	to fight	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpunu	nan	nan	"('to fight', 'abui1241-fuime', 'taluk')"	nan		W1b
 408	to throw	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbatu	nan	nan	"('to throw', 'abui1241-fuime', 'huore')"	nan		W1b
-409	to hunt	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈti	nan	nan	"('to hunt', 'adon1237', 'ˈbatĩ')"	nan		W1b
-410	to kill	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-ar maˈtad͡ʒa	literally means: 'making (someone) die'. The word for 'cut' is also used to express the meaning 'kill'.	nan	"('to kill', 'amar1273-kotos', 'na-ʔmate')"	nan		W1b
+409	to hunt	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈti	nan	nan	"('to hunt', 'abui1241-fuime', 'hetiei')"	nan		W1b
+410	to kill	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-ar maˈtad͡ʒa	literally means: 'making (someone) die'. The word for 'cut' is also used to express the meaning 'kill'.	nan	"('to kill', 'abui1241-fuime', 'tefeheng')"	nan		W1b
 411	to chase away	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	oˈkap	nan	nan	"('to chase away', 'sout2896-kalik', 'oˈkap')"	nan		W1b
-413	to search for; to hunt for	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəˈsak	nan	nan	"('to search for; to hunt for', 'sout2896-kalik', 'ɡəˈsak')"	nan		W1b
-414	to dig	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈli	nan	nan	"('to dig', 'alor1247-baran', ""'gali"")"	nan		W1b
-415	to bury	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈni	nan	nan	"('to bury', 'keda1252', ""'tanɛŋ"")"	nan		W1b
-416	to flow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈŋak	nan	nan	"('to flow', 'adon1237', 'baʔ')"	nan		W1b
-417	to float	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈteda	nan	nan	"('to float', 'abui1241-fuime', 'ije_fauiti')"	nan		W1b
-418	to freeze	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈtʊk	comes from vatu 'stone'	nan	"('to freeze', 'alor1247-baran', ""'fatɔ"")"	nan		W1b
-419	to hold	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	soˈɡa	nan	nan	"('to hold', 'lama1277-belan', 'soga')"	nan		W1b
-420	to tie	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	puˈd͡ʒu	nan	nan	"('to tie', 'sout2896-kalik', 'puˈd͡ʒu')"	nan		W1b
-421	to play	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈglasa	nan	nan	"('to play', 'adon1237', 'ɡ(ɜ)ˈlahaʔ')"	nan		W1b
-422	to pull	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvidu	nan	nan	"('to pull', 'cent2245-hewa', 'ide')"	nan		W1b
-423	to push	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈdʊk	nan	nan	"('to push', 'adan1251-lawah', 'adoʔo')"	nan		W1b
-424	to turn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɛˈɡɔl	nan	nan	"('to turn', 'sout2896-kalik', 'ɛˈɡɔl')"	nan		W1b
-425	to dream	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈrən	nan	nan	"('to dream', 'adon1237', 'tɜˈʔuru')"	nan		W1b
-426	to crouch; to bend over	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	svaˈkat	nan	nan	"('to crouch; to bend over', 'sout2896-kalik', 'svaˈkat')"	nan		W1b
-427	to live; to stay	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-'ia	nan	nan	"('to live; to stay', 'keda1252', ""'puaʔ"")"	nan		W1b
-428	to choose	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpile	nan	nan	"('to choose', 'adon1237', 'ˈpilɛ')"	nan		W1b; W1b
-428	to choose	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpili	nan	nan	"('to choose', 'adon1237', 'ˈpilɛ')"	nan		W1b; W1b
-429	to grow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnubu	nan	nan	"('to grow', 'sout2896-kalik', 'ˈnubu')"	nan		W1b
-430	to squeeze	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpiuk	nan	nan	"('to squeeze', 'adon1237', 'ˈpiʔuk')"	nan		W1b
-431	to buy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈopi	nan	nan	"('to buy', 'adon1237', 'ˈhope')"	nan		W1b
-432	to sell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	duˈrum	nan	nan	"('to sell', 'adon1237', 'ˈduʔũ')"	nan		W1b
+413	to search for; to hunt for	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡəˈsak	nan	nan	"('to search for; to hunt for', 'abui1241-fuime', 'tahai')"	nan		W1b
+414	to dig	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈli	nan	nan	"('to dig', 'abui1241-fuime', 'we-teu')"	nan		W1b
+415	to bury	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈni	nan	nan	"('to bury', 'abui1241-fuime', 'uli')"	nan		W1b
+416	to flow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	baˈŋak	nan	nan	"('to flow', 'abui1241-fuime', 'ije tawele')"	nan		W1b
+417	to float	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈteda	nan	nan	"('to float', 'abui1241-fuime', 'ije fauiti')"	nan		W1b
+418	to freeze	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaˈtʊk	comes from vatu 'stone'	nan	"('to freeze', 'adan1251', 'adobe')"	nan		W1b
+419	to hold	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	soˈɡa	nan	nan	"('to hold', 'abui1241-fuime', 'ho-puna')"	nan		W1b
+420	to tie	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	puˈd͡ʒu	nan	nan	"('to tie', 'abui1241-fuime', 'ha-kode')"	nan		W1b
+421	to play	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈglasa	nan	nan	"('to play', 'abui1241-fuime', 'muila')"	nan		W1b
+422	to pull	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈvidu	nan	nan	"('to pull', 'abui1241-fuime', 'ha-fik')"	nan		W1b
+423	to push	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈdʊk	nan	nan	"('to push', 'abui1241-fuime', 'ha-tikalie')"	nan		W1b
+424	to turn	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɛˈɡɔl	nan	nan	"('to turn', 'abui1241-fuime', 'awai')"	nan		W1b
+425	to dream	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈrən	nan	nan	"('to dream', 'abui1241-fuime', 'pieila')"	nan		W1b
+426	to crouch; to bend over	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	svaˈkat	nan	nan	"('to crouch; to bend over', 'abui1241-fuime', 'luke')"	nan		W1b
+427	to live; to stay	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	-'ia	nan	nan	"('to live; to stay', 'adan1251', 'mi')"	nan		W1b
+428	to choose	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpile	nan	nan	"('to choose', 'abui1241-fuime', 'ahie')"	nan		W1b; W1b
+428	to choose	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpili	nan	nan	"('to choose', 'abui1241-fuime', 'ahie')"	nan		W1b; W1b
+429	to grow	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnubu	nan	nan	"('to grow', 'abui1241-fuime', 'tape')"	nan		W1b
+430	to squeeze	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpiuk	nan	nan	"('to squeeze', 'abui1241-fuime', 'kamele')"	nan		W1b
+431	to buy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈopi	nan	nan	"('to buy', 'abui1241-fuime', 'bele')"	nan		W1b
+432	to sell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	duˈrum	nan	nan	"('to sell', 'abui1241-fuime', 'balik')"	nan		W1b
 433	to steal	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈvit	e and ɛ are allophones; o and ɔ ar allophones (free variation?)	nan	"('to steal', 'abui1241-fuime', 'takau')"	nan		W1b; W1b
 433	to steal	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	taˈkav	e and ɛ are allophones; o and ɔ ar allophones (free variation?)	nan	"('to steal', 'abui1241-fuime', 'takau')"	nan		W1b; W1b
-434	to open	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	biˈtɔl	nan	nan	"('to open', 'sout2896-kalik', 'biˈtɔl')"	nan		W1b
-435	to close	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtuŋən	nan	nan	"('to close', 'pmpacd', '*ta(ŋ)kub')"	nan		W1b
-436	to climb	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈkar	nan	nan	"('to climb', 'kola1287', 'wakar')"	nan		W1b
-437	to hide	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	soˈrɔ	nan	nan	"('to hide', 'adon1237', 'ˈhorõ')"	nan		W1b
-438	to wait	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kide	nan	nan	"('to wait', 'sout2896-kalik', 'kide')"	nan		W1b; W1b
-438	to wait	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kliˈde	nan	nan	"('to wait', 'sout2896-kalik', 'kide')"	nan		W1b; W1b
-439	to fold	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈpət	nan	nan	"('to fold', 'adon1237', 'ˈlɜpɜt')"	nan		W1b
-440	to help	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɛrˈvi	nan	nan	"('to help', 'sout2896-kalik', 'sɛrˈvi')"	nan		W1b; W1b; W1b
-440	to help	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡələˈkat	nan	nan	"('to help', 'sout2896-kalik', 'ɡələˈkat')"	nan		W1b; W1b; W1b
-440	to help	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpɔi	nan	nan	"('to help', 'keda1252', ""po'hiŋ"")"	nan		W1b; W1b; W1b
-441	to bark	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	boˈvo	nan	nan	"('to bark', 'sout2896-kalik', 'boˈvo')"	nan		W1b
-442	to shoot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈsak	nan	nan	"('to shoot', 'adon1237', 'ˈpasak')"	nan		W1b
-443	to shoot with slingshot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈsik	nan	nan	"('to shoot with slingshot', 'adon1237', 'ˈpɜsi')"	nan		W1b
-444	to pound; to beat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbad͡ʒu	nan	nan	"('to pound; to beat', 'amar1273-kotos', 'na-pau')"	nan		W1b
-445	to hit (drum)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdani	nan	nan	"('to hit (drum)', 'adon1237', 'ˈdane')"	nan		W1b
+434	to open	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	biˈtɔl	nan	nan	"('to open', 'abui1241-fuime', 'haliel')"	nan		W1b
+435	to close	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtuŋən	nan	nan	"('to close', 'abui1241-fuime', 'we-sok')"	nan		W1b
+436	to climb	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈkar	nan	nan	"('to climb', 'abui1241-fuime', 'hong mira')"	nan		W1b
+437	to hide	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	soˈrɔ	nan	nan	"('to hide', 'abui1241-fuime', 'tabung')"	nan		W1b
+438	to wait	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kide	nan	nan	"('to wait', 'abui1241-fuime', 'ne-re')"	nan		W1b; W1b
+438	to wait	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kliˈde	nan	nan	"('to wait', 'abui1241-fuime', 'ne-re')"	nan		W1b; W1b
+439	to fold	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ləˈpət	nan	nan	"('to fold', 'abui1241-fuime', 'haluk')"	nan		W1b
+440	to help	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɛrˈvi	nan	nan	"('to help', 'abui1241-fuime', 'teitau')"	nan		W1b; W1b; W1b
+440	to help	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡələˈkat	nan	nan	"('to help', 'abui1241-fuime', 'teitau')"	nan		W1b; W1b; W1b
+440	to help	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpɔi	nan	nan	"('to help', 'abui1241-fuime', 'teitau')"	nan		W1b; W1b; W1b
+441	to bark	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	boˈvo	nan	nan	"('to bark', 'abui1241-fuime', 'noulou')"	nan		W1b
+442	to shoot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	paˈsak	nan	nan	"('to shoot', 'abui1241-fuime', 'hateike')"	nan		W1b
+443	to shoot with slingshot	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pəˈsik	nan	nan	"('to shoot with slingshot', 'sout2896-kalik', 'pəˈsik')"	nan		W1b
+444	to pound; to beat	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbad͡ʒu	nan	nan	"('to pound; to beat', 'abui1241-fuime', 'tape')"	nan		W1b
+445	to hit (drum)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdani	nan	nan	"('to hit (drum)', 'sout2896-kalik', 'ˈdani')"	nan		W1b
 446	to call out	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	iˈrak	nan	nan	"('to call out', 'abui1241-fuime', 'ir')"	nan		W1b
-447	to lie (tell untruth)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkvait	nan	nan	"('to lie (tell untruth)', 'sout2896-kalik', 'ˈkvait')"	nan		W1b
-448	to ask (question)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈləv	nan	nan	"('to ask (question)', 'sout2896-kalik', 'ɡaˈləv')"	nan		W1b
-449	to count	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈsip	nan	nan	"('to count', 'abui1241-takal', ""hä.läq.'dä"")"	nan		W1b
-450	one	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tu	nan	nan	"('one', 'adon1237', 'ˈtoʔu')"	nan		W1b
-450	one	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tune	nan	nan	"('one', 'adon1237', 'ˈtoʔu')"	nan		W1b
+447	to lie (tell untruth)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkvait	nan	nan	"('to lie (tell untruth)', 'abui1241-fuime', 'okoli')"	nan		W1b
+448	to ask (question)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈləv	nan	nan	"('to ask (question)', 'abui1241-fuime', 'naatahang')"	nan		W1b
+449	to count	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡaˈsip	nan	nan	"('to count', 'abui1241-fuime', 'nalakda')"	nan		W1b
+450	one	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tu	nan	nan	"('one', 'abui1241-fuime', 'nuku')"	nan		W1b
+450	one	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tune	nan	nan	"('one', 'abui1241-fuime', 'nuku')"	nan		W1b
 451	two	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈd͡ʒua	nan	nan	"('two', 'abui1241-fuime', 'ajoku')"	nan		W1b
-452	three	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈlu	nan	nan	"('three', 'adan1251-otvai', 'tɔu')"	nan		W1b
-453	four	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pat	nan	nan	"('four', 'adon1237', 'ˈpaːt')"	nan		W1b
-454	five	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lɛm	nan	nan	"('five', 'adon1237', 'ˈlema')"	nan		W1b
-455	six	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈnəm	nan	nan	"('six', 'adon1237', 'ˈnamu')"	nan		W1b
-456	seven	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpito	nan	nan	"('seven', 'adan1251-lawah', 'wuitoʔ')"	nan		W1b
-457	eight	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbuto	nan	nan	"('eight', 'adon1237', 'butoː')"	nan		W1b
-458	nine	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsiva	nan	nan	"('nine', 'adon1237', 'hiwa')"	nan		W1b
-459	ten	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo	nan	nan	"('ten', 'adon1237', 'puloː')"	nan		W1b
-460	eleven	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no tu	nan	nan	"('eleven', 'abui1241-fuime', 'wal_nuku')"	nan		W1b
-461	twelve	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈd͡ʒua	nan	nan	"('twelve', 'adon1237', 'pulok_rua')"	nan		W1b
-462	thirteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no təˈlu	nan	nan	"('thirteen', 'adon1237', 'pulok_tɜlo')"	nan		W1b
-463	fourteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no pat	nan	nan	"('fourteen', 'keda1252', ""pulaʔ_'apaʔ"")"	nan		W1b
-464	fifteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no lɛm	nan	nan	"('fifteen', 'keda1252', ""pulaʔ_'lɛmɛ"")"	nan		W1b
-465	sixteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no əˈnəm	nan	nan	"('sixteen', 'keda1252', ""pulaʔ_'ɛnɛŋ"")"	nan		W1b
-466	seventeen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈpito	nan	nan	"('seventeen', 'keda1252', ""pulaʔ_'pitu"")"	nan		W1b
-467	eighteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈbuto	nan	nan	"('eighteen', 'keda1252', ""pulaʔ_butu_'rai"")"	nan		W1b
-468	nineteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈsiva	nan	nan	"('nineteen', 'keda1252', ""pulaʔ_leme_'apaʔ"")"	nan		W1b
-469	twenty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpuluˈd͡ʒua	nan	nan	"('twenty', 'adon1237', 'pulu_rua')"	nan		W1b
-470	twenty one	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no tu	nan	nan	"('twenty one', 'adon1237', 'pulu_rua_nɔ_ˈtoʔu')"	nan		W1b
-471	twenty two	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no ˈd͡ʒua	nan	nan	"('twenty two', 'keda1252', 'purun_suwe_ilaʔ_suwe')"	nan		W1b
-472	twenty three	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no təˈlu	nan	nan	"('twenty three', 'keda1252', 'purun_suwe_ilaʔ_tɛlu')"	nan		W1b
-473	twenty four	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no pat	nan	nan	"('twenty four', 'keda1252', 'purun_suwe_ilaʔ_apaʔ')"	nan		W1b
-474	twenty five	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no lɛm	nan	nan	"('twenty five', 'keda1252', 'purun_suwe_ilaʔ_lɛmɛ')"	nan		W1b
-475	thirty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul təˈlu	nan	nan	"('thirty', 'adon1237', 'pulu_ˈtɜlo')"	nan		W1b
-476	forty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul pat	nan	nan	"('forty', 'keda1252', 'purun_apaʔ')"	nan		W1b
-477	fifty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul lɛm	nan	nan	"('fifty', 'keda1252', 'purun_lemɛ')"	nan		W1b
-478	sixty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈənəm	nan	nan	"('sixty', 'keda1252', 'purun_ɛnɛŋ')"	nan		W1b
-479	seventy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈpito	nan	nan	"('seventy', 'keda1252', 'purun_pitu')"	nan		W1b
-480	eighty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈbuto	nan	nan	"('eighty', 'keda1252', ""purun_butu_'rai"")"	nan		W1b
-481	ninety	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈsiva	nan	nan	"('ninety', 'keda1252', ""purun_leme_'apaʔ"")"	nan		W1b
-482	one hundred	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈratu tu	nan	nan	"('one hundred', 'adon1237', 'tɜˈratu')"	nan		W1b
-483	one hundred and twenty three	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈratu tu no pul ˈd͡ʒua no təˈlu	nan	nan	"('one hundred and twenty three', 'abui1241-fuime', 'aisaha_nuku_kar_aijoku_wal_sua')"	nan		W1b
-484	two hundred	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈratu ˈd͡ʒua	nan	nan	"('two hundred', 'adan1251-lawah', 'ratalu')"	nan		W1b
-485	thousand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈribu tu	nan	nan	"('thousand', 'adon1237', 'riːbu')"	nan		W1b
-486	one hundred thousand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈribu ˈratu  tu	nan	nan	"('one hundred thousand', 'adan1251-otvai', 'lib_rat_nu')"	nan		W1b
-502	ridge(pole); peak; tip	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈvʊŋ	nan	nan	"('ridge(pole); peak; tip', 'amar1273-kotos', 'ʔpupu-n')"	nan		W1b
-503	rack(above hearth/for storing food)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈgar	nan	nan	"('rack(above hearth/for storing food)', 'sout2896-kalik', 'maˈgar')"	nan		W1b
-504	broom; sweep	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knoˈrɔt	nan	nan	"('broom; sweep', 'sout2896-kalik', 'knoˈrɔt')"	nan		W1b
+452	three	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	təˈlu	nan	nan	"('three', 'abui1241-fuime', 'sua')"	nan		W1b
+453	four	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pat	nan	nan	"('four', 'abui1241-fuime', 'buti')"	nan		W1b
+454	five	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	lɛm	nan	nan	"('five', 'abui1241-fuime', 'jeting')"	nan		W1b
+455	six	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈnəm	nan	nan	"('six', 'abui1241-fuime', 'talaama')"	nan		W1b
+456	seven	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpito	nan	nan	"('seven', 'abui1241-fuime', 'jeting ajoku')"	nan		W1b
+457	eight	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbuto	nan	nan	"('eight', 'abui1241-fuime', 'jeti sua')"	nan		W1b
+458	nine	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈsiva	nan	nan	"('nine', 'abui1241-fuime', 'jeting buti')"	nan		W1b
+459	ten	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo	nan	nan	"('ten', 'abui1241-fuime', 'kar nuku')"	nan		W1b
+460	eleven	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no tu	nan	nan	"('eleven', 'abui1241-fuime', 'wal nuku')"	nan		W1b
+461	twelve	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈd͡ʒua	nan	nan	"('twelve', 'abui1241-fuime', 'wal ajoku')"	nan		W1b
+462	thirteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no təˈlu	nan	nan	"('thirteen', 'abui1241-fuime', 'wal sua')"	nan		W1b
+463	fourteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no pat	nan	nan	"('fourteen', 'adan1251', 'ernu faliŋ ut')"	nan		W1b
+464	fifteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no lɛm	nan	nan	"('fifteen', 'adan1251', 'ernu faliŋ ifihiŋ')"	nan		W1b
+465	sixteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no əˈnəm	nan	nan	"('sixteen', 'adan1251', 'ernu faliŋ tala:ŋ')"	nan		W1b
+466	seventeen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈpito	nan	nan	"('seventeen', 'adan1251', 'ernu faliŋ itito')"	nan		W1b
+467	eighteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈbuto	nan	nan	"('eighteen', 'adan1251', 'ernu faliŋ turlɔ')"	nan		W1b
+468	nineteen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈspulo no ˈsiva	nan	nan	"('nineteen', 'adan1251', 'ernu faliŋ tieinu')"	nan		W1b
+469	twenty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpuluˈd͡ʒua	nan	nan	"('twenty', 'abui1241-fuime', 'kar ajoku')"	nan		W1b
+470	twenty one	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no tu	nan	nan	"('twenty one', 'abui1241-fuime', 'kar ajoku wal nuku')"	nan		W1b
+471	twenty two	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no ˈd͡ʒua	nan	nan	"('twenty two', 'adan1251', 'eralɔ faliŋ alɔ')"	nan		W1b
+472	twenty three	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no təˈlu	nan	nan	"('twenty three', 'adan1251', 'eralɔ faliŋ tɔu')"	nan		W1b
+473	twenty four	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no pat	nan	nan	"('twenty four', 'adan1251', 'eralɔ faliŋ ut')"	nan		W1b
+474	twenty five	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpulu ˈd͡ʒua no lɛm	nan	nan	"('twenty five', 'adan1251', 'eralɔ faliŋ ifihiŋ')"	nan		W1b
+475	thirty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul təˈlu	nan	nan	"('thirty', 'abui1241-fuime', 'kar sua')"	nan		W1b
+476	forty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul pat	nan	nan	"('forty', 'adan1251', 'er ut')"	nan		W1b
+477	fifty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul lɛm	nan	nan	"('fifty', 'adan1251', 'er ifihiŋ')"	nan		W1b
+478	sixty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈənəm	nan	nan	"('sixty', 'adan1251', 'er talaaŋ')"	nan		W1b
+479	seventy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈpito	nan	nan	"('seventy', 'adan1251', 'er itito')"	nan		W1b
+480	eighty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈbuto	nan	nan	"('eighty', 'keda1252', ""purun butu 'rai"")"	nan		W1b
+481	ninety	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	pul ˈsiva	nan	nan	"('ninety', 'keda1252', ""purun leme 'apaʔ"")"	nan		W1b
+482	one hundred	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈratu tu	nan	nan	"('one hundred', 'abui1241-fuime', 'aisaa nuku')"	nan		W1b
+483	one hundred and twenty three	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈratu tu no pul ˈd͡ʒua no təˈlu	nan	nan	"('one hundred and twenty three', 'abui1241-fuime', 'aisaha nuku kar aijoku wal sua')"	nan		W1b
+484	two hundred	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈratu ˈd͡ʒua	nan	nan	"('two hundred', 'abui1241-fuime', 'aisaha aijoku')"	nan		W1b
+485	thousand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈribu tu	nan	nan	"('thousand', 'abui1241-fuime', 'rifi nuku')"	nan		W1b
+486	one hundred thousand	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈribu ˈratu  tu	nan	nan	nan	nan		W1b
+502	ridge(pole); peak; tip	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈvʊŋ	nan	nan	"('ridge(pole); peak; tip', 'adan1251', 'ape')"	nan		W1b
+503	rack(above hearth/for storing food)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	maˈgar	nan	nan	"('rack(above hearth/for storing food)', 'adan1251', 'huruŋ')"	nan		W1b
+504	broom; sweep	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knoˈrɔt	nan	nan	"('broom; sweep', 'adan1251', 'parin;')"	nan		W1b
 505	ground for ritual activities and public meetings	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnuba	nan	nan	"('ground for ritual activities and public meetings', 'sout2896-kalik', 'ˈnuba')"	nan		W1b; W1b
 505	ground for ritual activities and public meetings	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈnɔbɛŋ	nan	nan	"('ground for ritual activities and public meetings', 'sout2896-kalik', 'ˈnuba')"	nan		W1b; W1b
-507	meeting house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuna keˈdak	means 'big house'	nan	"('meeting house', 'sout2896-kalik', 'ˈuna_keˈdak')"	nan		W1b
-508	floor	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlante	nan	nan	"('floor', 'sout2896-kalik', 'ˈlante')"	nan		W1b
-509	wall	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənəˈbin	"1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)"	nan	"('wall', 'sout2896-kalik', 'kənəˈbin')"	nan		W1b; W1b
-509	wall	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənəˈbɛr	"1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)"	nan	"('wall', 'sout2896-kalik', 'kənəˈbin')"	nan		W1b; W1b
-511	cookhouse; kitchen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luran	nan	nan	"('cookhouse; kitchen', 'keda1252', ""lian_'matan"")"	nan		W1C1
-512	bed	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈlik	nan	nan	"('bed', 'keda1252', ""'lipu"")"	nan		W1b
-516	to weave	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtani	nan	nan	"('to weave', 'keda1252', ""nekeʔ_'tan"")"	nan		W1b
-517	shirt	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈbur	nan	nan	"('shirt', 'keda1252', ""'labor"")"	nan		W1b
-518	necklace	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈləŋ	nan	nan	"('necklace', 'keda1252', 'baŋ')"	nan		W1b
-519	earring	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡiˈvaŋ	nan	nan	"('earring', 'adon1237', 'ˈʔatĩ')"	nan		W1b
-520	trousers	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	dekor	doak means 'long'	nan	"('trousers', 'keda1252', ""deko_'lawan"")"	nan		W1b; ?
-520	trousers	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdeko (doˈak)	doak means 'long'	nan	"('trousers', 'keda1252', ""deko_'lawan"")"	nan		W1b; ?
-521	sarong (women)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kreˈmɔt	nan	nan	"('sarong (women)', 'keda1252', ""'wela"")"	nan		W1b; W1b
-521	sarong (women)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kreˈɔt	nan	nan	"('sarong (women)', 'keda1252', ""'wela"")"	nan		W1b; W1b
-522	loom	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knəˈkum	??	nan	"('loom', 'sout2896-kalik', 'knəˈkum')"	nan		W1b
-523	thread	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈpək	nan	nan	"('thread', 'keda1252', ""bə'naŋ"")"	nan		W1b
-524	to worship	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈŋad͡ʒi	Loan from Malay	nan	"('to worship', 'keda1252', ""sɑm'beʔaŋ"")"	nan		W1b
+507	meeting house	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈuna keˈdak	means 'big house'	nan	"('meeting house', 'adan1251', 'hada baŋ')"	nan		W1b
+508	floor	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈlante	nan	nan	"('floor', 'adan1251', 'lantai')"	nan		W1b
+509	wall	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənəˈbin	"1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)"	nan	"('wall', 'adan1251', 'kabe')"	nan		W1b; W1b
+509	wall	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kənəˈbɛr	"1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)"	nan	"('wall', 'adan1251', 'kabe')"	nan		W1b; W1b
+511	cookhouse; kitchen	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	luran	nan	nan	"('cookhouse; kitchen', 'adan1251', 'dapur')"	nan		W1C1
+512	bed	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	uˈlik	nan	nan	"('bed', 'adan1251', 'de’')"	nan		W1b
+516	to weave	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtani	nan	nan	"('to weave', 'adan1251', 'deu;')"	nan		W1b
+517	shirt	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	laˈbur	nan	nan	"('shirt', 'adan1251', 'kod')"	nan		W1b
+518	necklace	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	niˈləŋ	nan	nan	"('necklace', 'adan1251', 'ba')"	nan		W1b
+519	earring	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ɡiˈvaŋ	nan	nan	"('earring', 'adan1251', 'falofaŋ')"	nan		W1b
+520	trousers	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	dekor	doak means 'long'	nan	"('trousers', 'adan1251', 'dekolai')"	nan		W1b; ?
+520	trousers	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈdeko (doˈak)	doak means 'long'	nan	"('trousers', 'adan1251', 'dekolai')"	nan		W1b; ?
+521	sarong (women)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kreˈmɔt	nan	nan	"('sarong (women)', 'adan1251', 'salim eŋ')"	nan		W1b; W1b
+521	sarong (women)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kreˈɔt	nan	nan	"('sarong (women)', 'adan1251', 'salim eŋ')"	nan		W1b; W1b
+522	loom	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	knəˈkum	??	nan	"('loom', 'keda1252', 'x')"	nan		W1b
+523	thread	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈpək	nan	nan	"('thread', 'adan1251', 'ab')"	nan		W1b
+524	to worship	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈŋad͡ʒi	Loan from Malay	nan	"('to worship', 'adan1251', 'aʔome')"	nan		W1b
 526	to bless	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	bekurˈnia	nan	nan	"('to bless', 'keda1252', ""'bərkat"")"	nan		W1b; W1b
-526	to bless	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbəri  ˈbensa	nan	nan	"('to bless', 'buna1278-bobon', 'bensaun')"	nan		W1b; W1b
+526	to bless	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbəri  ˈbensa	nan	nan	nan	nan		W1b; W1b
+527	God	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	aˈlapsa	literally means: 'our owner'	nan	"('God', 'keda1252', ""tuaŋ'ala"")"	nan		W1b
 528	to pray	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈŋad͡ʒi	nan	nan	"('to pray', 'keda1252', ""ber'doa"")"	nan		W1b
 531	to curse	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpsata	-a is probably a suffix	nan	"('to curse', 'keda1252', ""ʔɔ'laʔ"")"	nan		W1b
 532	priest (modern)	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	tuˈan	nan	nan	"('priest (modern)', 'keda1252', ""'ʔimaŋ"")"	nan		W1b
-533	sorcerer; witch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmakap  ˈtaŋən	nan	nan	"('sorcerer; witch', 'sout2896-kalik', 'ˈmakap__ˈtaŋən')"	nan		W1b
+533	sorcerer; witch	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmakap  ˈtaŋən	nan	nan	nan	nan		W1b
 536	sacrifice	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	umlaˈmak	nan	nan	"('sacrifice', 'sout2896-kalik', 'umlaˈmak')"	nan		W1b
 539	to rule or govern	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	preˈta	nan	nan	"('to rule or govern', 'sout2896-kalik', 'preˈta')"	nan		W1b
 541	marriage	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kaˈvɛn	nan	nan	"('marriage', 'sout2896-kalik', 'kaˈvɛn')"	nan		W1b
 542	friend	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈneu	nan	nan	"('friend', 'sout2896-kalik', 'kəˈneu')"	nan		W1b
 543	enemy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈoŋe	Lewaji	nan	"('enemy', 'sout2896-kalik', 'ˈoŋe')"	nan		L2
-545	stranger	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈata  ɡeˈsak	means 'other person'	nan	"('stranger', 'lama1278', 'ˈata_bəʔaˈhɑŋ')"	nan		W1b
-546	to invite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɔˈd͡ʒan	nan	nan	"('to invite', 'sout2896-kalik', 'sɔˈd͡ʒan')"	nan		W1b; W1b
-546	to invite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmali	nan	nan	"('to invite', 'adon1237', 'ˈmarĩ')"	nan		W1b; W1b
+545	stranger	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈata  ɡeˈsak	means 'other person'	nan	nan	nan		W1b
+546	to invite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	sɔˈd͡ʒan	nan	nan	"('to invite', 'keda1252', ""'ʔundaŋ"")"	nan		W1b; W1b
+546	to invite	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈmali	nan	nan	"('to invite', 'keda1252', ""'ʔundaŋ"")"	nan		W1b; W1b
 547	to command or order	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpreta	"means to force, to order"	nan	"('to command or order', 'sout2896-kalik', 'ˈpreta')"	nan		W1b
-548	dowry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɔi  vəˈrat	??	nan	"('dowry', 'sout2896-kalik', 'ˈɔi__vəˈrat')"	nan		W1b
+548	dowry	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈɔi  vəˈrat	??	nan	nan	nan		W1b
 550	accuse	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈvan	nan	nan	"('accuse', 'keda1252', ""'ɔrɔʔ"")"	nan		W1b
 551	guilty	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snaˈlak	nan	nan	"('guilty', 'sout2896-kalik', 'snaˈlak')"	nan		W1b
-552	innocent	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	muˈd͡ʒək	nan	nan	"('innocent', 'keda1252', ""ɔhaʔ_'kehe"")"	nan		W1b
-553	the murder	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbelu baˈkat	"means ""cut, cut down"""	nan	"('the murder', 'adon1237', 'belo_ˈwɜkika')"	nan		W1b
+552	innocent	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	muˈd͡ʒək	nan	nan	"('innocent', 'keda1252', ""ɔhaʔ 'kehe"")"	nan		W1b
+553	the murder	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈbelu baˈkat	"means ""cut, cut down"""	nan	"('the murder', 'keda1252', ""bɛ'lɔʔ"")"	nan		W1b
 556	fishnet	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈpukət	nan	nan	"('fishnet', 'keda1252', 'pueʔ')"	nan		W1b
 558	to defend	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈtiŋa liˈti	nan	nan	"('to defend', 'keda1252', ""li'kɔʔ"")"	nan		W1b
 560	poor	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snuˈsan	nan	nan	"('poor', 'keda1252', ""'tɔkɔŋ"")"	nan		W1b
-561	rich	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kovaˈsan	nan	nan	"('rich', 'adon1237', 'kəˈwasa')"	nan		W1b
+561	rich	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kovaˈsan	nan	nan	"('rich', 'keda1252', ""'kaja"")"	nan		W1b
 562	money	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	doi	nan	nan	"('money', 'keda1252', ""'duiʔ"")"	nan		W1b
 563	market	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vul	nan	nan	"('market', 'keda1252', 'ul')"	nan		W1b
 564	price	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	veˈli	nan	nan	"('price', 'keda1252', ""'welin"")"	nan		W1b
@@ -564,18 +598,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 576	to whisper	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	krəˈŋav	nan	nan	"('to whisper', 'keda1252', ""'tihir"")"	nan		W1b
 577	to be silent	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kəˈpae	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		W1b; W1b
 577	to be silent	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	məˈli	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		W1b; W1b
-578	to tell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtutu	nan	nan	"('to tell', 'keda1252', ""tutuʔ_'nanaŋ"")"	nan		W1b
+578	to tell	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtutu	nan	nan	"('to tell', 'keda1252', ""tutuʔ 'nanaŋ"")"	nan		W1b
 580	to teach	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ŋaˈd͡ʒar	nan	nan	"('to teach', 'keda1252', ""'ʔadʒar"")"	nan		W1b
 581	easy	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	klɔˈsʊm	nan	nan	"('easy', 'keda1252', ""'ɡampaŋ"")"	nan		W1b
 582	difficult	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snuˈkar	nan	nan	"('difficult', 'keda1252', ""'sulit"")"	nan		W1b
 583	finished	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vak	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		W1b; W1b
 583	finished	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	vaka	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		W1b; W1b
-584	now	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ve	nan	nan	"('now', 'keda1252', ""dɛʔ'nɔʔɔ"")"	nan		W1b
+584	now	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ve	nan	nan	"('now', 'keda1252', ""dɛʔ'nɔʔ, dɛʔ'nɔʔɔ"")"	nan		W1b
 586	same	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	snaˈmaŋ	nan	nan	"('same', 'keda1252', ""'hama"")"	nan		W1b
 587	oven/cooking place	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	liˈkat	nan	nan	"('oven/cooking place', 'sout2896-kalik', 'liˈkat')"	nan		W1a
-594	inhabited land	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈna keˈdak	"means 'continent', literally 'big land'"	nan	"('inhabited land', 'sout2896-kalik', 'əˈna_keˈdak')"	nan		W1b
+594	inhabited land	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	əˈna keˈdak	"means 'continent', literally 'big land'"	nan	"('inhabited land', 'sout2896-kalik', 'əˈna keˈdak')"	nan		W1b
 595	roof rafter	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	slaˈɡad͡ʒa	d͡ʒa is a plural suffix	nan	"('roof rafter', 'sout2896-kalik', 'slaˈɡad͡ʒa')"	nan		W1b
-598	to chase away; to expel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	siˈka	nan	nan	"('to chase away; to expel', 'adon1237', 'ˈsika')"	nan		W1b
-1207	1pl.exc	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	kam	proclitic	nan	"('1pl.exc', 'sout2896-kalik', 'kam')"	nan		W1a
-1207	1pl.exc	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈkame	nan	nan	"('1pl.exc', 'sout2896-kalik', 'kam')"	nan		W1a
-1208	1pl.inc	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	ˈtite	nan	nan	"('1pl.inc', 'sout2896-kalik', 'ˈtite')"	nan		W1a
+598	to chase away; to expel	sout2896-kalik	Lembata-Kalikasa	Austronesian	8Lembata	siˈka	nan	nan	"('to chase away; to expel', 'abui1241-fuime', 'he-tiei')"	nan		W1b
