@@ -167,7 +167,7 @@ if __name__ == "__main__":
 
         data["COGNATE_SET"] = [
             "" if (i=='nan' or pandas.isnull(i) or not i) else
-            list(set(data["COGNATE_SET"])).index(i)
+            list(set(data["COGNATE_SET"])).index(i) + 1
             for i in data["COGNATE_SET"]]
 
         data["COMMENT"] = [
@@ -225,7 +225,7 @@ if __name__ == "__main__":
             reset = cognateset == "nan" or not cognateset or pandas.isnull(
                     cognateset)
             reset |= str(row["COGNATE_SET"]) in args.reset
-            reset |= row["DOCULECT"] in args.reset
+            reset |= row["DOCULECT_ID"] in args.reset
             reset |= row["CONCEPT"] in args.reset
             if reset:
                 autocognates_rows = autocognates[
@@ -233,13 +233,18 @@ if __name__ == "__main__":
                         (autocognates["IPA"] == row["IPA"]) &
                         (autocognates["CONCEPT"] == row["CONCEPT"])]["AUTO_COGID"]
                 try:
-                    cogid = autocognates_rows.iloc[0]["AUTO_COGID"]
+                    cogid = autocognates_rows.iloc[0]
                     representatives = autocognates[
                         autocognates["AUTO_COGID"] == cogid]
                 except IndexError:
                     cogid = row["COGNATE_SET"]
                     representatives = cognates[
                         cognates["COGNATE_SET"] == cogid]
+                print("Grouping {:} automatically with\n{:}".format(
+                    (row["DOCULECT_ID"],
+                     row["CONCEPT"],
+                     row["IPA"]),
+                    representatives[["DOCULECT_ID", "CONCEPT", "IPA", "COGNATE_SET"]]))
             else:
                 cogid = row["COGNATE_SET"]
                 representatives = cognates[cognates["COGNATE_SET"] == cogid]
@@ -286,15 +291,14 @@ if __name__ == "__main__":
                 if i not in COG_IDs:
                     COG_IDs.append(i)
             cognates["COGID"] = [
-                COG_IDs.index(tuple(x))
+                COG_IDs.index(tuple(x)) + 1
                 for _, x in cognates[["LONG_COGID", "CONCEPT_ID"]].iterrows()]
         else:
             for i in cognates["LONG_COGID"]:
                 if i not in COG_IDs:
                     COG_IDs.append(i)
-            print(COG_IDs)
             cognates["COGID"] = [
-                COG_IDs.index(x)
+                COG_IDs.index(x) + 1
                 for x in cognates["LONG_COGID"]]
         cognates.to_csv("tap-cognates-merged.tsv",
                         index=False,
