@@ -133,6 +133,12 @@ if __name__ == "__main__":
                         help="Start running before step START")
     parser.add_argument("--end", type=int, default=3,
                         help="Finish running after step END")
+    parser.add_argument("--coding", type=argparse.FileType("r"),
+                        help="""Read cognate classes from this file instead of from
+                        tap-cognates.tsv – This is useful when you
+                        want to re-use an existing automatic cognate
+                        coding file: --start 2 --coding unaligned.tsv
+                        """)
     parser.add_argument("--reset", action="append", default=[],
                         help="Cognate IDs, meanings and language IDs to reset to automatic coding")
     args = parser.parse_args()
@@ -161,7 +167,7 @@ if __name__ == "__main__":
 
         data["COGNATE_SET"] = [
             "" if (i=='nan' or pandas.isnull(i) or not i) else
-            list(set(data["COGNATE_SET"])).index(i)
+            list(set(data["COGNATE_SET"])).index(i) + 1
             for i in data["COGNATE_SET"]]
 
         data["COMMENT"] = [
@@ -188,15 +194,29 @@ if __name__ == "__main__":
         scorer = lex.bscorer
 
     if args.start <= 2 <= args.end:
-        cognates = pandas.read_csv(
+        autocognates = pandas.read_csv(
             'tap-cognates.tsv', sep='\t', keep_default_na=False,
             na_values=[""])
 
-        cognates = cognates[~(
-            pandas.isnull(cognates["DOCULECT"])
-            | pandas.isnull(cognates["CONCEPT_ID"]))]
+        autocognates = autocognates[~(
+            pandas.isnull(autocognates["DOCULECT"])
+            | pandas.isnull(autocognates["CONCEPT_ID"]))]
 
-        cognates.sort_values(by="DOCULECT", inplace=True)
+        autocognates.sort_values(by="DOCULECT_ID", inplace=True)
+
+        if args.coding is None:
+            cognates = autocognates
+        else:
+            cognates = pandas.read_csv(
+                args.coding, sep='\t', keep_default_na=False,
+                na_values=[""])
+
+            cognates = cognates[~(
+                pandas.isnull(cognates["DOCULECT"])
+                | pandas.isnull(cognates["CONCEPT_ID"]))]
+
+            cognates.sort_values(by="DOCULECT_ID", inplace=True)
+
 
         cognates["LONG_COGID"] = None
         pairs = set()
@@ -205,20 +225,43 @@ if __name__ == "__main__":
             reset = cognateset == "nan" or not cognateset or pandas.isnull(
                     cognateset)
             reset |= str(row["COGNATE_SET"]) in args.reset
-            reset |= row["DOCULECT"] in args.reset
+            reset |= row["DOCULECT_ID"] in args.reset
             reset |= row["CONCEPT"] in args.reset
             if reset:
-                cogid = row["AUTO_COGID"]
-                representatives = cognates[cognates["AUTO_COGID"] == cogid]
+                autocognates_rows = autocognates[
+                        (autocognates["DOCULECT"] == row["DOCULECT"]) &
+                        (autocognates["IPA"] == row["IPA"]) &
+                        (autocognates["CONCEPT"] == row["CONCEPT"])]["AUTO_COGID"]
+                try:
+                    cogid = autocognates_rows.iloc[0]
+                    representatives = autocognates[
+                        autocognates["AUTO_COGID"] == cogid]
+                except IndexError:
+                    cogid = row["COGNATE_SET"]
+                    representatives = cognates[
+                        cognates["COGNATE_SET"] == cogid]
+                print("Grouping {:} automatically with\n{:}".format(
+                    (row["DOCULECT_ID"],
+                     row["CONCEPT"],
+                     row["IPA"]),
+                    representatives[["DOCULECT_ID", "CONCEPT", "IPA", "COGNATE_SET"]]))
             else:
                 cogid = row["COGNATE_SET"]
                 representatives = cognates[cognates["COGNATE_SET"] == cogid]
-            representative = representatives.iloc[0]
+            try:
+                representative = representatives.iloc[0]
+            except IndexError:
+                representative = row
+                print("Cogid NaN and no automatic coding found for {:}".format(
+                    (row["DOCULECT_ID"],
+                     row["CONCEPT"],
+                     row["IPA"])))
+
             if row["CONCEPT"] != representative["CONCEPT"]:
                 pairs.add((row["CONCEPT"], representative["CONCEPT"]))
             cognates.set_value(i, "LONG_COGID",
                                (representative["DOCULECT_ID"],
-                                representative["CONCEPT_ID"],
+                                representative["CONCEPT"],
                                 representative["IPA"]))
 
         print(pairs)
@@ -248,15 +291,14 @@ if __name__ == "__main__":
                 if i not in COG_IDs:
                     COG_IDs.append(i)
             cognates["COGID"] = [
-                COG_IDs.index(tuple(x))
+                COG_IDs.index(tuple(x)) + 1
                 for _, x in cognates[["LONG_COGID", "CONCEPT_ID"]].iterrows()]
         else:
             for i in cognates["LONG_COGID"]:
                 if i not in COG_IDs:
                     COG_IDs.append(i)
-            print(COG_IDs)
             cognates["COGID"] = [
-                COG_IDs.index(x)
+                COG_IDs.index(x) + 1
                 for x in cognates["LONG_COGID"]]
         cognates.to_csv("tap-cognates-merged.tsv",
                         index=False,

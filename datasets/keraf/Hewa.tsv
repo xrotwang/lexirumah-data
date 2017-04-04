@@ -6,13 +6,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 5	day	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ləron	nan	nan	nan	nan	173. Hari 
 6	year	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	liwan	nan	nan	('year', 'cent2245-hewa', 'liwan')	nan	172. Tahun 
 13	cloud	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kowa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
-14	wind	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	a̤nin	nan	nan	('wind', 'adon1237', 'ˈʔaŋĩ')	nan	140. Angin 
+14	wind	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	a̤nin	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan	140. Angin 
 15	rain	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	uran	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan	138. Hujan 
 22	river; stream	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wair ba	nan	nan	('river; stream', 'cent2245-hewa', 'wair_ba')	nan	130. Sungai 
 25	lake	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pərigi	nan	nan	('lake', 'cent2245-hewa', 'pərigi')	nan	129. Danau 
 26	mountain	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	i̤lin	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan	131. Gunung 
 30	Earth	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tana	nan	nan	('Earth', 'cent2245-hewa', 'tana')	nan	119. Tanah 
-32	stone	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	watu	nan	nan	"('stone', 'adon1237', ""'watɔ"")"	nan	120. Batu 
+32	stone	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	watu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	120. Batu 
 35	water (fresh)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wair	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan	122. Air 
 36	sea; sea water	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tahiʔ	nan	nan	('sea; sea water', 'cent2245-hewa', 'tahiʔ')	nan	127. Laut 
 39	forest	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tuan bəleŋ	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan	132. Hutan
@@ -28,22 +28,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 84	tree	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ai	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan	110. Pohon 
 87	leaf	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	roun	nan	nan	('leaf', 'cent2245-hewa', 'roun')	nan	112. Daun 
 91	root	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ramut	nan	nan	('root', 'cent2245-hewa', 'ramut')	nan	114. Akar 
-92	fruit	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wuan	nan	nan	('fruit', 'adon1237', 'kajo_ˈwuã')	nan	117. Buah 
+92	fruit	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wuan	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan	117. Buah 
 93	seed	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ihin	nan	nan	('seed', 'amar1273-kotos', 'fini')	nan	115. Biji 
 95	flower	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	puhun	nan	nan	('flower', 'cent2245-hewa', 'puhun')	nan	116. Bunga 
 129	salt	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	hini	nan	nan	nan	nan	128. Garam 
-130	fat	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wura	nan	nan	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	nan	104. Lemak 
+130	fat	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wura	nan	nan	('fat', 'cent2245-hewa', 'wura')	nan	104. Lemak 
 131	flesh; meat	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ətan	nan	nan	('meat', 'cent2245-hewa', 'ətan')	nan	103. Daging 
 132	bone	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	lurin	nan	nan	('bone', 'adon1237', 'ˈriʔũː')	nan	19. Tulang
 136	blood	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	mei	nan	nan	('blood', 'adon1237', 'mei')	nan	26. Darah
 138	heart	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wuan	nan	nan	('heart', 'adon1237', 'ˈpuho')	nan	22. Jantung
-139	liver	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	waten	nan	nan	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan	21. Hati
+139	liver	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	waten	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	21. Hati
 144	stomach; belly	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dula	nan	nan	('stomach; belly', 'cent2245-hewa', 'dula')	nan	18. Perut
-145	head	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	loʔe	nan	nan	('head', 'adan1251-lawah', 'loŋ')	nan	27. Kepala
+145	head	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	loʔe	nan	nan	('head', 'cent2245-hewa', 'loʔe')	nan	27. Kepala
 146	hair	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	loʔe	nan	nan	nan	nan	29. Rambut
 148	eye	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	mata	nan	nan	nan	nan	47. Mata
 149	ear	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tilu	nan	nan	nan	nan	45. Telinga
-150	nose	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	i̤ru	nan	nan	('nose', 'adon1237', 'ˈiruˈn3t')	nan	30. Hidung
+150	nose	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	i̤ru	nan	nan	('nose', 'cent2245-hewa', 'i̤ru')	nan	30. Hidung
 151	mouth	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wa	nan	nan	('mouth', 'adon1237', 'ˈw3waˈk3t')	nan	33. Mulut
 155	tongue	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ma	nan	nan	('tongue', 'amar1273-kotos', 'maa-f')	nan	35. Lidah
 156	neck	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	eru	nan	nan	('neck', 'cent2245-hewa', 'eru')	nan	28. Leher
@@ -51,9 +51,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 175	foot	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	waʔi	nan	nan	('foot', 'cent2245-hewa', 'waʔi')	nan	4. Kaki
 179	back	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	tuʔe	nan	nan	('back', 'cent2245-hewa', 'toʔe')	nan	17. Punggung
 182	skin	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan	16. Kulit
-190	person	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	atabia	nan	nan	('person', 'adon1237', 'ˈʔata')	nan	53. Orang
-191	name	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	naraŋ	nan	nan	('name', 'adon1237', 'ˈnarã')	nan	63. Nama
-192	child	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dedi anak	nan	nan	('child', 'cent2245-hewa', 'dedi_anak')	nan	56. Anak
+190	person	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	atabia	nan	nan	('person', 'cent2245-hewa', 'atabia')	nan	53. Orang
+191	name	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	naraŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	63. Nama
+192	child	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dedi anak	nan	nan	('child', 'adon1237', 'ˈʔanaʔ')	nan	56. Anak
 193	man	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	lai	nan	nan	('man', 'adon1237', 'ˈʔama_lake')	nan	54. Laki-laki
 194	woman	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	duʔat	nan	nan	('woman', 'cent2245-hewa', 'duʔa')	nan	55. Wanita
 195	husband	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	lait	nan	nan	('husband', 'adon1237', 'ˈlakhẽ')	nan	57. Suami
@@ -72,25 +72,25 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 212	and	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	nora	nan	nan	nan	nan	197. Dan 
 213	because	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	əle	nan	nan	('because', 'cent2245-hewa', 'əle')	nan	199. Sebab 
 214	if	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ganupa	nan	nan	('if', 'cent2245-hewa', 'ganupa')	nan	200. Jikalau 
-215	with	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	nora	nan	nan	('with', 'adon1237', 'ˈtaliʔ')	nan	198. Dengan
+215	with	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	nora	nan	nan	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan	198. Dengan
 216	what?	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	apar	nan	nan	('what?', 'alor1247-baran', 'pei')	nan	190. Apa 
 217	who?	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	hainimu	nan	nan	('who?', 'cent2245-hewa', 'hainimu')	nan	191. Siapa 
 218	where?	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	upa	nan	nan	('where', 'cent2245-hewa', 'upa')	nan	183. Di mana 
 219	when?	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	rəmapira	nan	nan	('when?', 'cent2245-hewa', 'rəmapira')	nan	174. Bilamana 
-223	this	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ete	nan	nan	"('this', 'abui1241-petle', ""i.'ti"")"	nan	179. Ini 
+223	this	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ete	nan	nan	('this', 'cent2245-hewa', 'ete')	nan	179. Ini 
 224	that	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ia	nan	nan	('that', 'amar1273-kotos', 'ee')	nan	180. Itu 
-227	here	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ete	nan	nan	('here', 'adon1237', 'dɜˈhirɜ')	nan	177. Di sini 
-228	there	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ia	nan	nan	('there', 'cent2245-hewa', 'ia')	nan	178. Di situ 
+227	here	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ete	nan	nan	('here', 'cent2245-hewa', 'ete')	nan	177. Di sini 
+228	there	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ia	nan	nan	('there', 'amar1273-kotos', 'naan')	nan	178. Di situ 
 231	left (side)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wirin	nan	nan	('left (side)', 'cent2245-hewa', 'wirin')	nan	2. Kiri
 232	right (side)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wanan	nan	nan	('right (side)', 'adan1251-otvai', 'taniŋ')	nan	3. Kanan
 233	a few	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	anakha	nan	nan	('a few', 'cent2245-hewa', 'anakha')	nan	195. Sedikit 
 234	all	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	leuwaiha	nan	nan	('all', 'cent2245-hewa', 'leuwaiha')	nan	196. Semua 
 235	many	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	o̤her	nan	nan	('many', 'cent2245-hewa', 'oher')	nan	194. Banyak 
-236	animal	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	binataŋ	nan	nan	"('animal', 'alor1247-besar', ""bi'nataŋ"")"	nan	102. Binatang 
+236	animal	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	binataŋ	nan	nan	('animal', 'adan1251-otvai', 'binanta')	nan	102. Binatang 
 238	dog	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	a̤hu	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan	96. Anjing 
 249	tail	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	i̤ʔur	nan	nan	('tail', 'cent2245-hewa', 'i̤ʔur')	nan	105. Ekor 
 250	fish	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	i̤ʔan	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan	109. Ikan 
-259	bird	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kənahoron	nan	nan	('bird', 'cent2245-hewa', 'kəna_horon')	nan	97. Burung 
+259	bird	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kənahoron	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	97. Burung 
 260	wing	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kapik	nan	nan	('wing', 'abui1241-fuime', 'ha-bakai')	nan	100. Sayap 
 262	feather	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wulu	nan	nan	('feather', 'adan1251-lawah', 'hiu_wolo_(folo)')	nan	99. Bulu 
 264	snake	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	ular	nan	nan	nan	nan	106. Ular 
@@ -126,12 +126,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 332	green	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	miaŋ	nan	nan	('green', 'cent2245-hewa', 'miaŋ')	nan	156. Hijau 
 334	yellow	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	heret	nan	nan	('yellow', 'cent2245-hewa', 'heret')	nan	155. Kuning 
 341	scared	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	bərau	nan	nan	('scared', 'cent2245-hewa', 'blauʔ')	nan	25. Takut
-343	to see	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	təŋer	nan	nan	('to see', 'cent2245-hewa', 'teŋer')	nan	48. Melihat
+343	to see	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	təŋer	nan	nan	('to see', 'cent2245-hewa', 'tenger')	nan	48. Melihat
 344	to hear	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	diʔin	nan	nan	('to hear', 'cent2245-hewa', 'diʔin')	nan	46. Dengar
 345	to smell	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	mowo	nan	nan	('to smell', 'cent2245-hewa', 'mowo')	nan	32. Membaui
 346	to think	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	sugo	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan	24. Pikir
 347	to know	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	raitan	nan	nan	('to know', 'cent2245-hewa', 'raitan')	nan	23. Tahu
-348	to say	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	marĩ	nan	nan	"('to say', 'alor1247-baran', ""ma'rĩ:"")"	nan	64. Bilang
+348	to say	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	marĩ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	64. Bilang
 352	to lie down	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	duʔe ləbe	nan	nan	('to lie down', 'cent2245-hewa', 'duʔe_ləbe')	nan	50. Rebah
 353	to sleep	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	duʔe	nan	nan	('to sleep', 'adon1237', 'ˈturu')	nan	49. Tidur
 358	to sit	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dəri	nan	nan	('to sit', 'cent2245-hewa', 'dəri')	nan	51. Duduk
@@ -150,15 +150,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 375	to work	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kərian	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan	83. Bekerja 
 376	to die	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	mate	nan	nan	('to die', 'cent2245-hewa', 'mate')	nan	75. Mati 
 377	to give	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	bəli	nan	nan	nan	nan	91. Memberi 
-378	to wipe	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	hapus	nan	nan	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	nan	12. Hapus
+378	to wipe	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	hapus	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan	12. Hapus
 379	to come	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	səga	nan	nan	('to come', 'cent2245-hewa', 'səga')	nan	8. Datang
 380	to laugh	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	gəreŋa	nan	nan	('to laugh', 'adon1237', 'ˈɡeka')	nan	36. Tertawa
 381	to cry	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	dani	nan	nan	('to cry', 'adon1237', 'ˈtani')	nan	37. Menangis
 382	to dance	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	soka	nan	nan	('to dance', 'abui1241-fuime', 'tohaijok')	nan	86. Menari 
-383	to sing	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kantar	nan	nan	('to sing', 'buna1278-bobon', 'gio_logo')	nan	85. Menyanyi
+383	to sing	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	kantar	nan	nan	('to sing', 'buna1278-bobon', 'kantar,_gio_logo')	nan	85. Menyanyi
 384	to burn (clear land)	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	holo	nan	nan	('to burn (clear land)', 'cent2245-hewa', 'holo')	nan	149. Membakar 
 389	to suck	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	wuhu	nan	nan	('to suck', 'cent2245-hewa', 'wuhu')	nan	44. Menetek
-390	to blow	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pərupi	nan	nan	('to blow', 'abui1241-fuime', 'furuŋra')	nan	141. Bertiup 
+390	to blow	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	pərupi	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan	141. Bertiup 
 391	to spit	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	niru	nan	nan	nan	nan	39. Meludah
 392	to vomit	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	mutaʔ	nan	nan	('to vomit', 'adan1251-lawah', 'wudi')	nan	38. Muntah
 393	to rub	cent2245-hewa	Hewa	Austronesian	5Flores, 2Central	beroso	nan	nan	('to rub', 'adon1237', 'doˈruʔ')	nan	13. Gosok

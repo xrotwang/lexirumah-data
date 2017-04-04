@@ -33,7 +33,7 @@ parser.add_argument(
     help="Inspect and deal with alignments",
     action="store_true", default=False)
 parser.add_argument(
-    "--bad-cogids", nargs="*", default=[],
+    "--bad-cogid", action="append", default=[],
     help="Untrusted cogids in COGNATE_FILE, which should be ignored")
 args = parser.parse_args()
 file = args.cognate_file
@@ -92,7 +92,10 @@ cognates.sort_index(inplace=True)
 word_lists = {}
 # Cache opened word list data frames
 
+changes = {}
+
 for i, line in cognates.iterrows():
+    i = i[0], i[1], i[2].replace("_", " ")
     original_file = line["SOURCE"]
     word_list = word_lists.get(original_file)
 
@@ -172,13 +175,13 @@ for i, line in cognates.iterrows():
     except AttributeError:
         pass
 
-    if cogid_postcoding in args.bad_cogids:
+    if cogid_postcoding in args.bad_cogid:
         cogid_postcoding = None
-    
-    if (cogid_postcoding != cogid_old):
+    elif (cogid_postcoding != cogid_old):
+        changes.setdefault(
+            (cogid_old, cogid_postcoding),
+            []).append(i)
         word_list.set_value(i, "Cognate Set", cogid_postcoding)
-        if args.print and not pandas.isnull(cogid_old):
-            print(i, cogid_old, type(cogid_old), "→ ", cogid_postcoding, type(cogid_postcoding))
 
     if args.alignments:
         # Compare alignments
@@ -198,6 +201,13 @@ for i, line in cognates.iterrows():
                     type(alignment_old),
                     alignment_coding,
                     type(alignment_coding)))
+
+if args.print:
+    for (cogid_old, cogid_postcoding), forms in changes.items():
+        print("The following items were moved from class {:40} to {:40}:".format(
+            cogid_old, cogid_postcoding))
+        for form in forms:
+            print("   ", form)
 
 if args.save:
     for file, data in word_lists.items():

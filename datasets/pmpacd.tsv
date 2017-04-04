@@ -1,687 +1,699 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0.0	sky	pmpacd	proto-MP-ACD 2	Austronesian		*laŋit	nan	nan	"('sky', 'alor1247-munas', ""'laŋi"")"	nan		
-1.0	sun	pmpacd	proto-MP-ACD 2	Austronesian		*mata nu qalejaw	*mata nu qalejaw 'sun ('eye of the day')'	nan	('sun', 'p-mala1545-acd', '*mata_nu_qalejaw')	nan		
-2.0	moon	pmpacd	proto-MP-ACD 2	Austronesian		*bulan	nan	nan	('moon', 'adon1237', 'ˈwulɑ̃')	nan		
-3.0	star	pmpacd	proto-MP-ACD 2	Austronesian		*bituqen	*talaq, *mantalaq 'the morning (evening) star: Venus'	nan	('star', 'lama1277-imulo', 'tonar')	nan		
-3.0	star	pmpacd	proto-MP-ACD 2	Austronesian		*mantalaq	*talaq, *mantalaq 'the morning (evening) star: Venus'	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
-3.0	star	pmpacd	proto-MP-ACD 2	Austronesian		*talaq	*talaq, *mantalaq 'the morning (evening) star: Venus'	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
-4.0	night	pmpacd	proto-MP-ACD 2	Austronesian		*beRŋi	*halem 'night, dark'	nan	('night', 'adan1251-otvai', 'panaʔ')	nan		
-4.0	night	pmpacd	proto-MP-ACD 2	Austronesian		*halem	*halem 'night, dark'	nan	('night', 'p-mala1545-acd', '*halem')	nan		
-5.0	day	pmpacd	proto-MP-ACD 2	Austronesian		*daqaNi	*waRi 'day; sun; dry in the sun'; also *qajaw	nan	('day', 'p-aust1307-acd', '*daqaNi')	nan		
-5.0	day	pmpacd	proto-MP-ACD 2	Austronesian		*qalejaw	*waRi 'day; sun; dry in the sun'; also *qajaw	nan	('day', 'p-aust1307-abvd', '*qalejaw')	nan		
-5.0	day	pmpacd	proto-MP-ACD 2	Austronesian		*waRi	*waRi 'day; sun; dry in the sun'; also *qajaw	nan	('day', 'p-aust1307-acd', '*daqaNi')	nan		
-6.0	year	pmpacd	proto-MP-ACD 2	Austronesian		*taqun	*taqun 'year, season'	nan	('year', 'abui1241-petle', 'tuŋ')	nan		
-8.0	yesterday	pmpacd	proto-MP-ACD 2	Austronesian		*neRab	nan	nan	('yesterday', 'p-mala1545-acd', '*neRab')	nan		
-8.0	yesterday	pmpacd	proto-MP-ACD 2	Austronesian		*ñeRab	nan	nan	('yesterday', 'p-mala1545-acd', '*neRab')	nan		
-12.0	twilight; dawn	pmpacd	proto-MP-ACD 2	Austronesian		*hulem	*hulem 'dimness, twilight'	nan	('twilight; dawn', 'adan1251-lawah', 'lalami')	nan		
-12.0	twilight; dawn	pmpacd	proto-MP-ACD 2	Austronesian		*zawa	*hulem 'dimness, twilight'	nan	('twilight; dawn', 'p-mala1545-acd', '*zawa')	nan		
-14.0	wind	pmpacd	proto-MP-ACD 2	Austronesian		*haŋin	nan	nan	('wind', 'adon1237', 'ˈʔaŋĩ')	nan		
-15.0	rain	pmpacd	proto-MP-ACD 2	Austronesian		*quzan	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
-18.0	thunder	pmpacd	proto-MP-ACD 2	Austronesian		*deRdeR	bunyinya	nan	('thunder', 'blag1240-warsa', 'ildumu')	nan		
-19.0	lightning	pmpacd	proto-MP-ACD 2	Austronesian		*kilat	kilatan, cahaya	nan	('lightning', 'pmpacd', '*kilat')	nan		
-20.0	earthquake	pmpacd	proto-MP-ACD 2	Austronesian		*linduR	nan	nan	('earthquake', 'pmpacd', '*linduR')	nan		
-20.0	earthquake	pmpacd	proto-MP-ACD 2	Austronesian		*linuR	nan	nan	('earthquake', 'pmpacd', '*linduR')	nan		
-21.0	fog	pmpacd	proto-MP-ACD 2	Austronesian		*kabut	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	nan	"('fog', 'alor1247-munas', ""sə'pu"")"	nan		
-22.0	river; stream	pmpacd	proto-MP-ACD 2	Austronesian		*sapaq	*wahiR ‘fresh water; stream, river’	nan	('river; stream', 'keda1252-leuwa', 'u̘bεʔ')	nan		
-22.0	river; stream	pmpacd	proto-MP-ACD 2	Austronesian		*wahiR	*wahiR ‘fresh water; stream, river’	nan	('river; stream', 'lama1277-botun', 'wai_maʔã')	nan		
-25.0	lake	pmpacd	proto-MP-ACD 2	Austronesian		*banaw	nan	nan	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
-25.0	lake	pmpacd	proto-MP-ACD 2	Austronesian		*danaw	nan	nan	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
-26.0	mountain	pmpacd	proto-MP-ACD 2	Austronesian		*qilih	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan		
-27.0	hill; ridge	pmpacd	proto-MP-ACD 2	Austronesian		*buntu	small hill, knoll	nan	('hill; ridge', 'abui1241-fuime', 'buku')	nan		
-27.0	hill; ridge	pmpacd	proto-MP-ACD 2	Austronesian		*buntud	small hill, knoll	nan	('hill; ridge', 'abui1241-fuime', 'buku')	nan		
-27.0	hill; ridge	pmpacd	proto-MP-ACD 2	Austronesian		*buntul	small hill, knoll	nan	('hill; ridge', 'abui1241-fuime', 'buku')	nan		
-29.0	land; soil	pmpacd	proto-MP-ACD 2	Austronesian		*taneq	*taneq 'earth, soil, land'	nan	('land; soil', 'abui1241-fuime', 'anei')	nan		
-30.0	Earth	pmpacd	proto-MP-ACD 2	Austronesian		*buRtaq	nan	nan	('Earth', 'kula1280-lanto', 'atəkw')	nan		
-31.0	hole	pmpacd	proto-MP-ACD 2	Austronesian		*buhaŋ	nan	nan	"('hole', 'alor1247-besar', ""'faŋɡɔ"")"	nan		
-31.0	hole	pmpacd	proto-MP-ACD 2	Austronesian		*lubaŋ	nan	nan	"('hole', 'alor1247-besar', ""'faŋɡɔ"")"	nan		
-32.0	stone	pmpacd	proto-MP-ACD 2	Austronesian		*batu	nan	nan	"('stone', 'adon1237', ""'watɔ"")"	nan		
-33.0	coral (rock)	pmpacd	proto-MP-ACD 2	Austronesian		*karaŋ	*karaŋ ‘coral, limestone’ ; batu (rock) di pantai	nan	"('coral (rock)', 'alor1247-pandai', ""'aŋgɛ"")"	nan		
-34.0	(coral) reef	pmpacd	proto-MP-ACD 2	Austronesian			karang (reef) di dasar laut	nan	nan	nan		
-35.0	water (fresh)	pmpacd	proto-MP-ACD 2	Austronesian		*wahiR	*wahiR 'fresh water; stream, river'	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
-36.0	sea; sea water	pmpacd	proto-MP-ACD 2	Austronesian		*tasik	*tasik 'sea, saltwater'	nan	('sea; sea water', 'abui1241-fuime', 'tama')	nan		
-37.0	wave	pmpacd	proto-MP-ACD 2	Austronesian		*qalun	*qalun 'long rolling wave, swell, billow'	nan	('wave', 'blag1240-warsa', 'kalaxal')	nan		
-38.0	foam	pmpacd	proto-MP-ACD 2	Austronesian		*budaq	*buseq 'foam, bubbles'; *busa 'foam, suds'	nan	('foam', 'buna1278-bobon', 'pɔ:')	nan		
-38.0	foam	pmpacd	proto-MP-ACD 2	Austronesian		*busa	*buseq 'foam, bubbles'; *busa 'foam, suds'	nan	('foam', 'buna1278-bobon', 'pɔ:')	nan		
-38.0	foam	pmpacd	proto-MP-ACD 2	Austronesian		*buseq	*buseq 'foam, bubbles'; *busa 'foam, suds'	nan	('foam', 'buna1278-bobon', 'pɔ:')	nan		
-39.0	forest	pmpacd	proto-MP-ACD 2	Austronesian		*halas	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	nan	('forest', 'pmpacd', '*halas')	nan		
-39.0	forest	pmpacd	proto-MP-ACD 2	Austronesian		*talun	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	nan	('forest', 'atim1239', 'atiŋ')	nan		
-39.0	forest	pmpacd	proto-MP-ACD 2	Austronesian		*tuqan	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	nan	('forest', 'atim1239', 'atiŋ')	nan		
-41.0	island	pmpacd	proto-MP-ACD 2	Austronesian		*nusa	*nusa 'island'	nan	"('island', 'alor1247-besar', ""nu'ha"")"	nan		
-43.0	garden	pmpacd	proto-MP-ACD 2	Austronesian		*q<in>uma	*q<in>uma 'cultivated field, garden'	nan	"('garden', 'keda1252', ""'lumɑr"")"	nan		
-44.0	fence	pmpacd	proto-MP-ACD 2	Austronesian		*pager	*pager 'enclosure; palisade around a village; fence around a planted tree or cultivated field'	nan	('fence', 'p-mala1545-acd', '*pager')	nan		
-45.0	road; path; way	pmpacd	proto-MP-ACD 2	Austronesian		*zalan	nan	nan	"('road; path; way', 'adon1237', ""'rarã"")"	nan		
-46.0	canoe	pmpacd	proto-MP-ACD 2	Austronesian		*qabaŋ	nan	nan	('canoe', 'amar1273-kotos', 'kofaʔ')	nan		
-47.0	sail (n.)	pmpacd	proto-MP-ACD 2	Austronesian		*layaR	nan	nan	('sail (n.)', 'abui1241-petle', 'lol')	nan		
-50.0	fish trap	pmpacd	proto-MP-ACD 2	Austronesian			dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	nan	nan		
-51.0	rope	pmpacd	proto-MP-ACD 2	Austronesian		*talih	nan	nan	('rope', 'abui1241-fuime', 'tila')	nan		
-53.0	axe	pmpacd	proto-MP-ACD 2	Austronesian		*kiRam	nan	nan	('axe', 'pmpacd', '*kiRam')	nan		
-54.0	spear	pmpacd	proto-MP-ACD 2	Austronesian		*gayaŋ	*saet ‘spear, to spear’ *gayaŋ ’hunting spear‘	nan	('spear', 'amar1273-kotos', 'aunu')	nan		
-54.0	spear	pmpacd	proto-MP-ACD 2	Austronesian		*saet	*saet ‘spear, to spear’ *gayaŋ ’hunting spear‘	nan	('spear', 'pmpacd', '*saet')	nan		
-56.0	stick; pole	pmpacd	proto-MP-ACD 2	Austronesian		*sukud	*sukud 'walking stick, cane, staff' 	nan	('stick; pole', 'kira1248', 'skera')	nan		
-57.0	digging stick	pmpacd	proto-MP-ACD 2	Austronesian		*suqan	nan	nan	('digging stick', 'pmpacd', '*suqan')	nan		
-59.0	bow	pmpacd	proto-MP-ACD 2	Austronesian		*busuR	nan	nan	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		
-60.0	arrow	pmpacd	proto-MP-ACD 2	Austronesian		*anak i panaq	nan	nan	('arrow', 'pmpacd', '*anak_i_panaq')	nan		
-62.0	comb	pmpacd	proto-MP-ACD 2	Austronesian		*saRu	nan	nan	('comb', 'amar1273-kotos', 'soʔit')	nan		
-62.0	comb	pmpacd	proto-MP-ACD 2	Austronesian		*saut	nan	nan	('comb', 'amar1273-kotos', 'soʔit')	nan		
-63.0	mat	pmpacd	proto-MP-ACD 2	Austronesian		*depen	also *tepiR	nan	"('mat', 'alor1247-baran', ""sa'fae"")"	nan		
-63.0	mat	pmpacd	proto-MP-ACD 2	Austronesian		*hikam	also *tepiR	nan	('mat', 'adon1237', 'ˈʔɔhãː')	nan		
-63.0	mat	pmpacd	proto-MP-ACD 2	Austronesian		*lamak	also *tepiR	nan	('mat', 'kabo1247', 'bloni')	nan		
-64.0	needle	pmpacd	proto-MP-ACD 2	Austronesian		*zaRum	nan	nan	('needle', 'pmpacd', '*zaRum')	nan		
-65.0	clothing	pmpacd	proto-MP-ACD 2	Austronesian		*kabal	nan	nan	"('clothing', 'alor1247-besar', ""pa'kiãŋ"")"	nan		
-67.0	fire	pmpacd	proto-MP-ACD 2	Austronesian		*hapuy	nan	nan	('fire', 'adon1237', 'ˈʔape')	nan		
-68.0	smoke	pmpacd	proto-MP-ACD 2	Austronesian		*qaseb	nan	nan	('smoke', 'adon1237', 'ˈnuhũ')	nan		
-68.0	smoke	pmpacd	proto-MP-ACD 2	Austronesian		*qasu	nan	nan	('smoke', 'adon1237', 'ˈnuhũ')	nan		
-68.0	smoke	pmpacd	proto-MP-ACD 2	Austronesian		*qebel	nan	nan	"('smoke', 'keda1252', ""'rubu"")"	nan		
-70.0	dust; fine earth	pmpacd	proto-MP-ACD 2	Austronesian		*bulbul	also *bulbul. *ebuk 'dust, powder'; *habuk 'powdery substance, dust'; *bulbul 'dust, pulverized stone'; *qabuk 'dust, sawdust '	nan	('dust; fine earth', 'keda1252', 'ewol')	nan		
-70.0	dust; fine earth	pmpacd	proto-MP-ACD 2	Austronesian		*ebuk	also *bulbul. *ebuk 'dust, powder'; *habuk 'powdery substance, dust'; *bulbul 'dust, pulverized stone'; *qabuk 'dust, sawdust '	nan	"('dust; fine earth', 'alor1247-baran', ""a'fo:"")"	nan		
-70.0	dust; fine earth	pmpacd	proto-MP-ACD 2	Austronesian		*habuk	also *bulbul. *ebuk 'dust, powder'; *habuk 'powdery substance, dust'; *bulbul 'dust, pulverized stone'; *qabuk 'dust, sawdust '	nan	"('dust; fine earth', 'alor1247-baran', ""a'fo:"")"	nan		
-71.0	fireplace ash	pmpacd	proto-MP-ACD 2	Austronesian		*abus	NOT 'debu' (dust, after you have been sweeping)	nan	('fireplace ash', 'adon1237', 'kɜˈʔawuk')	nan		
-71.0	fireplace ash	pmpacd	proto-MP-ACD 2	Austronesian		*qabu	NOT 'debu' (dust, after you have been sweeping)	nan	('fireplace ash', 'adon1237', 'kɜˈʔawuk')	nan		
-72.0	mud	pmpacd	proto-MP-ACD 2	Austronesian		*pitak	nan	nan	"('mud', 'abui1241-takal', ""pä.'däq"")"	nan		
-72.0	mud	pmpacd	proto-MP-ACD 2	Austronesian		*pitek	nan	nan	"('mud', 'abui1241-takal', ""pä.'däq"")"	nan		
-73.0	clay	pmpacd	proto-MP-ACD 2	Austronesian		*daReq	*daReq ‘soil, probably clay’	nan	('clay', 'pmpacd', '*daReq')	nan		
-73.0	clay	pmpacd	proto-MP-ACD 2	Austronesian		*taneq pulut	*daReq ‘soil, probably clay’	nan	('clay', 'pmpacd', '*daReq')	nan		
-74.0	gravel	pmpacd	proto-MP-ACD 2	Austronesian		*anak i batu	*badas 'grit, coarse sand, gravel'; *anak i batu 'small stones, gravel'	nan	('gravel', 'pmpacd', '*anak_i_batu')	nan		
-74.0	gravel	pmpacd	proto-MP-ACD 2	Austronesian		*badas	*badas 'grit, coarse sand, gravel'; *anak i batu 'small stones, gravel'	nan	('gravel', 'pmpacd', '*badas')	nan		
-75.0	sand	pmpacd	proto-MP-ACD 2	Austronesian		*qenay	nan	nan	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	nan		
-76.0	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*dukut	nan	nan	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	nan		
-76.0	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*udu	nan	nan	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	nan		
-76.0	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*zukut	nan	nan	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	nan		
-77.0	house	pmpacd	proto-MP-ACD 2	Austronesian		*Rumaq	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		
-81.0	door	pmpacd	proto-MP-ACD 2	Austronesian		*kataman	nan	nan	('door', 'kira1248', 'damat')	nan		
-81.0	door	pmpacd	proto-MP-ACD 2	Austronesian		*qiNeb	nan	nan	('door', 'pmpacd', '*qiNeb')	nan		
-82.0	(thatch) roof	pmpacd	proto-MP-ACD 2	Austronesian		*qatep	nan	nan	('(thatch) roof', 'pmpacd', '*qatep')	nan		
-84.0	tree	pmpacd	proto-MP-ACD 2	Austronesian		*kahiw	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan		
-85.0	wood	pmpacd	proto-MP-ACD 2	Austronesian		*kahiw	nan	nan	"('wood', 'alor1247-besar', ""'kaʤɔ"")"	nan		
-88.0	branch	pmpacd	proto-MP-ACD 2	Austronesian		*daqan	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
-88.0	branch	pmpacd	proto-MP-ACD 2	Austronesian		*daŋkaq	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
-88.0	branch	pmpacd	proto-MP-ACD 2	Austronesian		*daŋkeq	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
-89.0	firewood	pmpacd	proto-MP-ACD 2	Austronesian		*luten	nan	nan	('firewood', 'pmpacd', '*luten')	nan		
-90.0	rattan	pmpacd	proto-MP-ACD 2	Austronesian		*quay	*quay 'rattan, Calamus sp.'	nan	('rattan', 'pmpacd', '*quay')	nan		
-91.0	root	pmpacd	proto-MP-ACD 2	Austronesian		*akaR	nan	nan	"('root', 'kaer1234', ""a'ki"")"	nan		
-91.0	root	pmpacd	proto-MP-ACD 2	Austronesian		*wakaR	nan	nan	"('root', 'kaer1234', ""a'ki"")"	nan		
-92.0	fruit	pmpacd	proto-MP-ACD 2	Austronesian		*buaq	nan	nan	('fruit', 'pmpacd', '*buaq')	nan		
-96.0	husked rice; uncooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*beRas	nan	nan	('husked rice; uncooked rice', 'adon1237', 'ˈwahaʔ')	nan		
-97.0	rice grains (unhusked) (raw from field)	pmpacd	proto-MP-ACD 2	Austronesian		*binehiq	*binehiq 'seed rice, rice set aside for the next planting'	nan	('rice grains (unhusked) (raw from field)', 'pmpacd', '*binehiq')	nan		
-98.0	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*hemay	*kaen-en 'be eaten by someone; cooked rice'	nan	('cooked rice', 'kelo1247-bring', 'ərɑkmɑi')	nan		
-98.0	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*kaen-en	*kaen-en 'be eaten by someone; cooked rice'	nan	('cooked rice', 'pmpacd', '*kaen-en')	nan		
-99.0	rice plant	pmpacd	proto-MP-ACD 2	Austronesian		*pajay	nan	nan	"('rice plant', 'alor1247-besar', ""'pari"")"	nan		
-100.0	to plant (yam)	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>anem	nan	nan	('to plant (yam)', 'p-cent2245-abvd', '*tanəm')	nan		
-100.0	to plant (yam)	pmpacd	proto-MP-ACD 2	Austronesian		*tanem	nan	nan	('to plant (yam)', 'p-cent2245-abvd', '*tanəm')	nan		
-101.0	to plant (rice)	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>anem	*tanem 'grave; to bury; to plant' 	nan	('to plant (rice)', 'pmpacd', '*t<um>anem')	nan		
-101.0	to plant (rice)	pmpacd	proto-MP-ACD 2	Austronesian		*tanem	*tanem 'grave; to bury; to plant' 	nan	('to plant (rice)', 'pmpacd', '*t<um>anem')	nan		
-104.0	lime	pmpacd	proto-MP-ACD 2	Austronesian		*kapuR	nan	nan	('lime', 'adon1237', 'ˈʔapuʔ')	nan		
-104.0	lime	pmpacd	proto-MP-ACD 2	Austronesian		*qapuR	nan	nan	('lime', 'adon1237', 'ˈʔapuʔ')	nan		
-105.0	chew betel	pmpacd	proto-MP-ACD 2	Austronesian		*apuR	*apuR 'betel chew'	nan	('chew betel', 'pmpacd', '*apuR')	nan		
-108.0	taro	pmpacd	proto-MP-ACD 2	Austronesian		*tales	nan	nan	('taro', 'buna1278-bobon', 'balɔ')	nan		
-110.0	millet	pmpacd	proto-MP-ACD 2	Austronesian		*batad	*batad 'millet or sorghum sp. (unident.)'; *zawa  millet sp.: Setaria italica (?)	nan	"('millet', 'keda1252', ""wɛ'rɛʔ"")"	nan		
-110.0	millet	pmpacd	proto-MP-ACD 2	Austronesian		*zawa	*batad 'millet or sorghum sp. (unident.)'; *zawa  millet sp.: Setaria italica (?)	nan	('millet', 'pmpacd', '*zawa')	nan		
-111.0	sugarcane	pmpacd	proto-MP-ACD 2	Austronesian		*tebuh	nan	nan	('sugarcane', 'adon1237', 'ˈtɜwɔ')	nan		
-114.0	coconut	pmpacd	proto-MP-ACD 2	Austronesian		*niuR	nan	nan	('coconut', 'amar1273-kotos', 'noah')	nan		
-121.0	banana	pmpacd	proto-MP-ACD 2	Austronesian		*punti	nan	nan	('banana', 'pmpacd', '*punti')	nan		
-122.0	mango	pmpacd	proto-MP-ACD 2	Austronesian		*wai	nan	nan	('mango', 'alor1249-sar-a', 'wow_‘domestic_mango’,_biyat_‘wild_mango’')	nan		
-125.0	breadfruit	pmpacd	proto-MP-ACD 2	Austronesian		*kuluR	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		
-125.0	breadfruit	pmpacd	proto-MP-ACD 2	Austronesian		*sukun	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		
-126.0	bean	pmpacd	proto-MP-ACD 2	Austronesian		*buay	nan	nan	('bean', 'pmpacd', '*buay')	nan		
-128.0	milk	pmpacd	proto-MP-ACD 2	Austronesian		*Rataq	not 'breast'	nan	('milk', 'abui1241-fuime', 'tike')	nan		
-129.0	salt	pmpacd	proto-MP-ACD 2	Austronesian		*qasiRa	nan	nan	('salt', 'adan1251-otvai', 'hahei')	nan		
-129.0	salt	pmpacd	proto-MP-ACD 2	Austronesian		*timus	nan	nan	('salt', 'adon1237', 'ˈsiʔa')	nan		
-130.0	fat	pmpacd	proto-MP-ACD 2	Austronesian		*himaR	nan	nan	('fat', 'abui1241-fuime', 'hetamada')	nan		
-130.0	fat	pmpacd	proto-MP-ACD 2	Austronesian		*meñak	nan	nan	('fat', 'kema1243', 'mina')	nan		
-130.0	fat	pmpacd	proto-MP-ACD 2	Austronesian		*miñak	nan	nan	('fat', 'kema1243', 'mina')	nan		
-131.0	flesh; meat	pmpacd	proto-MP-ACD 2	Austronesian		*hesi	nan	nan	('flesh; meat', 'pmpacd', '*hesi')	nan		
-133.0	rib	pmpacd	proto-MP-ACD 2	Austronesian		*Rusuk	nan	nan	('rib', 'cent2245-hewa', 'korok')	nan		
-134.0	sweat	pmpacd	proto-MP-ACD 2	Austronesian		*atiŋ	nan	nan	('sweat', 'abui1241-fuime', 'tamuriŋ')	nan		
-134.0	sweat	pmpacd	proto-MP-ACD 2	Austronesian		*qatiŋ	nan	nan	('sweat', 'abui1241-fuime', 'tamuriŋ')	nan		
-135.0	tear	pmpacd	proto-MP-ACD 2	Austronesian		*luheq	nan	nan	('tear', 'adon1237', 'ˈlõː')	nan		
-136.0	blood	pmpacd	proto-MP-ACD 2	Austronesian		*daRaq	nan	nan	"('blood', 'alor1247-baran', ""'ra:"")"	nan		
-138.0	heart	pmpacd	proto-MP-ACD 2	Austronesian		*pusuŋ	nan	nan	('heart', 'adon1237', 'ˈpuho')	nan		
-139.0	liver	pmpacd	proto-MP-ACD 2	Austronesian		*qatay	nan	nan	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
-140.0	kidney	pmpacd	proto-MP-ACD 2	Austronesian		*batu	nan	nan	('kidney', 'pmpacd', '*batu')	nan		
-142.0	excrement	pmpacd	proto-MP-ACD 2	Austronesian		*taqay	nan	nan	('excrement', 'adon1237', 'tae')	nan		
-142.0	excrement	pmpacd	proto-MP-ACD 2	Austronesian		*taqi	nan	nan	('excrement', 'adon1237', 'tae')	nan		
-143.0	lungs	pmpacd	proto-MP-ACD 2	Austronesian		*baRaq	nan	nan	('lungs', 'kama1365', 'fusaː')	nan		
-144.0	stomach; belly	pmpacd	proto-MP-ACD 2	Austronesian		*bituka	nan	nan	('stomach; belly', 'abui1241-fuime', 'tatok_foko')	nan		
-145.0	head	pmpacd	proto-MP-ACD 2	Austronesian		*qulu	nan	nan	('head', 'adan1251-lawah', 'loŋ')	nan		
-146.0	hair	pmpacd	proto-MP-ACD 2	Austronesian		*buhek	nan	nan	('hair', 'pmpacd', '*buhek')	nan		
-147.0	body hair	pmpacd	proto-MP-ACD 2	Austronesian		*bulu	nan	nan	"('body hair', 'alor1247-besar', ""fu'lukuŋ"")"	nan		
-148.0	eye	pmpacd	proto-MP-ACD 2	Austronesian		*mata	nan	nan	('eye', 'adon1237', 'matak3t')	nan		
-149.0	ear	pmpacd	proto-MP-ACD 2	Austronesian		*taliŋa	nan	nan	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
-149.0	ear	pmpacd	proto-MP-ACD 2	Austronesian		*taŋila	nan	nan	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
-150.0	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ijuŋ	nan	nan	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
-150.0	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ujuŋ	nan	nan	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
-150.0	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ŋijuŋ	nan	nan	('nose', 'adon1237', 'ˈiruˈn3t')	nan		
-151.0	mouth	pmpacd	proto-MP-ACD 2	Austronesian		*bahaq	nan	nan	('mouth', 'p-cent2245-abvd', '*babaq')	nan		
-151.0	mouth	pmpacd	proto-MP-ACD 2	Austronesian		*beqbeq	nan	nan	('mouth', 'p-cent2245-abvd', '*babaq')	nan		
-152.0	chin	pmpacd	proto-MP-ACD 2	Austronesian		*qazay	nan	nan	('chin', 'maka1316', 'zelau')	nan		
-152.0	chin	pmpacd	proto-MP-ACD 2	Austronesian		*timid	nan	nan	"('chin', 'alor1247-besar', ""'bamɛŋ"")"	nan		
-153.0	lips	pmpacd	proto-MP-ACD 2	Austronesian		*bibiR	*bibiR 'lower lip'	nan	('lips', 'adan1251-otvai', 'amiŋtapo')	nan		
-155.0	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*dilaq	nan	nan	('tongue', 'pmpacd', '*dilaq')	nan		
-155.0	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*hema	nan	nan	('tongue', 'amar1273-kotos', 'maa-f')	nan		
-155.0	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*zelaq	nan	nan	('tongue', 'pmpacd', '*dilaq')	nan		
-156.0	neck	pmpacd	proto-MP-ACD 2	Austronesian		*liqeR	nan	nan	('neck', 'adan1251-otvai', 'dɔrɔ')	nan		
-157.0	shoulder	pmpacd	proto-MP-ACD 2	Austronesian		*qabaRa	nan	nan	('shoulder', 'abui1241-fuime', 'tabaŋ')	nan		
-159.0	forehead	pmpacd	proto-MP-ACD 2	Austronesian		*daqih	nan	nan	('forehead', 'adon1237', 'kɜˈniːtoˈkɜt')	nan		
-161.0	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*idus	also *ŋuhuR	nan	('mucus', 'pmpacd', '*idus')	nan		
-161.0	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*piŋ(e)qut	also *ŋuhuR	nan	('mucus', 'amar1273-kotos', 'pinu')	nan		
-161.0	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*piŋus	also *ŋuhuR	nan	('mucus', 'amar1273-kotos', 'pinu')	nan		
-162.0	cheek	pmpacd	proto-MP-ACD 2	Austronesian		*pipi	nan	nan	('cheek', 'adon1237', 'ˈpipiˈkɜt')	nan		
-162.0	cheek	pmpacd	proto-MP-ACD 2	Austronesian		*piŋi	nan	nan	('cheek', 'adon1237', 'ˈpipiˈkɜt')	nan		
-163.0	arm	pmpacd	proto-MP-ACD 2	Austronesian		*baRa	*baRa 'hand, arm' 	nan	('arm', 'pmpacd', '*baRa')	nan		
-164.0	hand	pmpacd	proto-MP-ACD 2	Austronesian		*baRa	nan	nan	('hand', 'pmpacd', '*baRa')	nan		
-164.0	hand	pmpacd	proto-MP-ACD 2	Austronesian		*kamay	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
-164.0	hand	pmpacd	proto-MP-ACD 2	Austronesian		*qalima	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
-165.0	palm of hand	pmpacd	proto-MP-ACD 2	Austronesian		*palaj	nan	nan	('palm of hand', 'pmpacd', '*palaj')	nan		
-166.0	finger	pmpacd	proto-MP-ACD 2	Austronesian		*taŋan	nan	nan	('finger', 'pmpacd', '*taŋan')	nan		
-167.0	fingernail	pmpacd	proto-MP-ACD 2	Austronesian		*k<an>uhkuh	nan	nan	('fingernail', 'adon1237', 'kɜˈmukurɜt')	nan		
-167.0	fingernail	pmpacd	proto-MP-ACD 2	Austronesian		*kuhkuh	nan	nan	('fingernail', 'adon1237', 'kɜˈmukurɜt')	nan		
-168.0	breast	pmpacd	proto-MP-ACD 2	Austronesian		*nunuh	nan	nan	('breast', 'pmpacd', '*nunuh')	nan		
-168.0	breast	pmpacd	proto-MP-ACD 2	Austronesian		*susu	nan	nan	('breast', 'pmpacd', '*susu')	nan		
-169.0	chest	pmpacd	proto-MP-ACD 2	Austronesian		*daSdaS	nan	nan	('chest', 'adan1251-otvai', 'adel')	nan		
-169.0	chest	pmpacd	proto-MP-ACD 2	Austronesian		*debdeb	nan	nan	('chest', 'pmpacd', '*debdeb')	nan		
-170.0	navel	pmpacd	proto-MP-ACD 2	Austronesian		*pusej	nan	nan	('navel', 'abui1241-fuime', 'tabike')	nan		
-171.0	penis	pmpacd	proto-MP-ACD 2	Austronesian		*qutin	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	nan	"('penis', 'abui1241-takal', ""tä.'tɔ"")"	nan		
-172.0	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*betiq	Kemaluan perempuan, same as above.	nan	"('vagina', 'alor1247-munas', ""'utiʔ"")"	nan		
-172.0	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*puki	Kemaluan perempuan, same as above.	nan	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	nan		
-172.0	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*tila	Kemaluan perempuan, same as above.	nan	"('vagina', 'alor1247-munas', ""'utiʔ"")"	nan		
-173.0	testicles	pmpacd	proto-MP-ACD 2	Austronesian		*laseR	*laseR 'scrotum and testicles'	nan	('testicles', 'adon1237', 'ˈlahak')	nan		
-174.0	leg	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	nan	('leg', 'buna1278-bobon', 'giri')	nan		
-174.0	leg	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	nan	('leg', 'buna1278-bobon', 'giri')	nan		
-175.0	foot	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	nan	('foot', 'p-mala1545-abvd', '*qaqay')	nan		
-175.0	foot	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	nan	('foot', 'p-mala1545-abvd', '*qaqay')	nan		
-176.0	heel of foot	pmpacd	proto-MP-ACD 2	Austronesian		*tiked	nan	nan	('heel of foot', 'amar1273-kotos', 'tika-f')	nan		
-177.0	sole of foot	pmpacd	proto-MP-ACD 2	Austronesian		*dapan	nan	nan	('sole of foot', 'pmpacd', '*dapan')	nan		
-177.0	sole of foot	pmpacd	proto-MP-ACD 2	Austronesian		*palaj	nan	nan	('sole of foot', 'kula1280-lanto', 'ŋeləta')	nan		
-178.0	knee	pmpacd	proto-MP-ACD 2	Austronesian		*qaleb	nan	nan	('knee', 'pmpacd', '*qaleb')	nan		
-178.0	knee	pmpacd	proto-MP-ACD 2	Austronesian		*qulu tuhud	nan	nan	('knee', 'pmpacd', '*qulu_tuhud')	nan		
-178.0	knee	pmpacd	proto-MP-ACD 2	Austronesian		*tuhud	nan	nan	('knee', 'pmpacd', '*qulu_tuhud')	nan		
-179.0	back	pmpacd	proto-MP-ACD 2	Austronesian		*buRit	nan	nan	('back', 'lama1277-baipi', 'hurut')	nan		
-179.0	back	pmpacd	proto-MP-ACD 2	Austronesian		*burit	nan	nan	('back', 'lama1277-baipi', 'hurut')	nan		
-179.0	back	pmpacd	proto-MP-ACD 2	Austronesian		*likud	nan	nan	"('back', 'alor1247-baran', ""'ʔalɛŋ"")"	nan		
-181.0	waist	pmpacd	proto-MP-ACD 2	Austronesian		*hawak	nan	nan	('waist', 'lamm1241-westp', '-sakkang')	nan		
-182.0	skin	pmpacd	proto-MP-ACD 2	Austronesian		*kulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
-183.0	sore; wound	pmpacd	proto-MP-ACD 2	Austronesian		*nuka	nan	nan	"('sore; wound', 'alor1247-besar', ""'uka"")"	nan		
-184.0	ringworm	pmpacd	proto-MP-ACD 2	Austronesian		*buqeni	*buqeni 'ringworm: Tinea imbricata' 	nan	('ringworm', 'pmpacd', '*buqeni')	nan		
-184.0	ringworm	pmpacd	proto-MP-ACD 2	Austronesian		*kurap	*buqeni 'ringworm: Tinea imbricata' 	nan	('ringworm', 'pmpacd', '*kurap')	nan		
-185.0	scabies	pmpacd	proto-MP-ACD 2	Austronesian		*kudis	nan	nan	('scabies', 'abui1241-fuime', 'kafisiŋ')	nan		
-185.0	scabies	pmpacd	proto-MP-ACD 2	Austronesian		*kuris	nan	nan	('scabies', 'abui1241-fuime', 'kafisiŋ')	nan		
-186.0	tinea	pmpacd	proto-MP-ACD 2	Austronesian		*panaw	nan	nan	('tinea', 'adon1237', 'mɜˈnaɔ')	nan		
-188.0	conjunctivitis	pmpacd	proto-MP-ACD 2	Austronesian			Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	nan	nan	nan		
-190.0	person	pmpacd	proto-MP-ACD 2	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	nan	('person', 'adon1237', 'ˈʔata')	nan		
-190.0	person	pmpacd	proto-MP-ACD 2	Austronesian		*tau-mata	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	nan	('person', 'adon1237', 'ˈʔata')	nan		
-191.0	name	pmpacd	proto-MP-ACD 2	Austronesian		*ajan	nan	nan	('name', 'adon1237', 'ˈnarã')	nan		
-192.0	child	pmpacd	proto-MP-ACD 2	Austronesian		*anak	nan	nan	"('child', 'alor1247-besar', ""'anaŋ"")"	nan		
-193.0	man	pmpacd	proto-MP-ACD 2	Austronesian		*laki	nan	nan	('man', 'adon1237', 'ˈʔama_lake')	nan		
-194.0	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-b<in>ahi	nan	nan	"('woman', 'alor1247-baran', ""ka'fae"")"	nan		
-194.0	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-bahi	nan	nan	"('woman', 'alor1247-baran', ""ka'fae"")"	nan		
-194.0	woman	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	nan	nan	"('woman', 'alor1247-baran', ""ka'fae"")"	nan		
-195.0	husband	pmpacd	proto-MP-ACD 2	Austronesian		*banah	nan	nan	('husband', 'abui1241-takal', 'te̞̞.ne̞äŋ')	nan		
-196.0	wife	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	*bahi 'female, woman, wife; female of animals'; Not 'married woman'.	nan	"('wife', 'alor1247-baran', ""ka'fae"")"	nan		
-197.0	mother	pmpacd	proto-MP-ACD 2	Austronesian		*ina	also *iná-I, *iná-ŋ, *iná-q, *ra-ina	nan	('mother', 'abui1241-fuime', 'nija')	nan		
-198.0	father	pmpacd	proto-MP-ACD 2	Austronesian		*aba	also *da-ama, *t-ama 	nan	('father', 'lama1277-baipi', 'bapaʔ')	nan		
-198.0	father	pmpacd	proto-MP-ACD 2	Austronesian		*ama	also *da-ama, *t-ama 	nan	('father', 'abui1241-fuime', 'mama')	nan		
-198.0	father	pmpacd	proto-MP-ACD 2	Austronesian		*baba	also *da-ama, *t-ama 	nan	('father', 'lama1277-baipi', 'bapaʔ')	nan		
-199.0	older sibling	pmpacd	proto-MP-ACD 2	Austronesian		*kaka	*kaka, *teka 'elder sibling of the same sex'	nan	('older sibling', 'adon1237', 'kaka')	nan		
-199.0	older sibling	pmpacd	proto-MP-ACD 2	Austronesian		*teka	*kaka, *teka 'elder sibling of the same sex'	nan	('older sibling', 'adon1237', 'kaka')	nan		
-200.0	younger sibling	pmpacd	proto-MP-ACD 2	Austronesian		*huaji	*huaji 'younger sibling of the same sex; younger parallel cousin of the same sex'	nan	('younger sibling', 'adon1237', 'ˈʔarim')	nan		
-201.0	bride price	pmpacd	proto-MP-ACD 2	Austronesian		*beli	nan	nan	('bride price', 'abui1241-fuime', 'he-bel')	nan		
-202.0	slave	pmpacd	proto-MP-ACD 2	Austronesian		*anak i qaRta	nan	nan	"('slave', 'nede1245', ""wa'an_gititi"")"	nan		
-203.0	1sg	pmpacd	proto-MP-ACD 2	Austronesian		*aku	*aku '1sg nominative; I'	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan		
-204.0	2sg (informal)	pmpacd	proto-MP-ACD 2	Austronesian		*huʔu	also *i-kahu, *iu	nan	('2sg (informal)', 'cent2245-hewa', 'ʔau')	nan		
-204.0	2sg (informal)	pmpacd	proto-MP-ACD 2	Austronesian		*ka	also *i-kahu, *iu	nan	('2sg (informal)', 'cent2245-hewa', 'ʔau')	nan		
-204.0	2sg (informal)	pmpacd	proto-MP-ACD 2	Austronesian		*kahu	also *i-kahu, *iu	nan	('2sg (informal)', 'cent2245-hewa', 'ʔau')	nan		
-206.0	3sg	pmpacd	proto-MP-ACD 2	Austronesian		*ia	nan	nan	('3sg', 'p-aust1307-abvd', '*si-ia')	nan		
-206.0	3sg	pmpacd	proto-MP-ACD 2	Austronesian		*si ia	nan	nan	('3sg', 'p-aust1307-abvd', '*si-ia')	nan		
-207.0	1pl excl	pmpacd	proto-MP-ACD 2	Austronesian		*i-ami	nan	nan	"('1pl excl', 'alor1247-besar', ""'kame"")"	nan		
-207.0	1pl excl	pmpacd	proto-MP-ACD 2	Austronesian		*k-ami	nan	nan	"('1pl excl', 'alor1247-besar', ""'kame"")"	nan		
-207.0	1pl excl	pmpacd	proto-MP-ACD 2	Austronesian		*kam-ami	nan	nan	"('1pl excl', 'alor1247-besar', ""'kame"")"	nan		
-208.0	1pl incl	pmpacd	proto-MP-ACD 2	Austronesian		*kita	nan	nan	"('1pl incl', 'alor1247-besar', ""'ite"")"	nan		
-209.0	2pl	pmpacd	proto-MP-ACD 2	Austronesian		*amu	nan	nan	('2pl', 'adon1237', 'ˈmio')	nan		
-209.0	2pl	pmpacd	proto-MP-ACD 2	Austronesian		*kamu	nan	nan	('2pl', 'adon1237', 'ˈmio')	nan		
-210.0	3pl	pmpacd	proto-MP-ACD 2	Austronesian		*ida	nan	nan	('3pl', 'adan1251-otvai', 'supi')	nan		
-210.0	3pl	pmpacd	proto-MP-ACD 2	Austronesian		*si ida	nan	nan	('3pl', 'adan1251-otvai', 'supi')	nan		
-211.0	no; not	pmpacd	proto-MP-ACD 2	Austronesian		*adi	*adi 'no, not'; *dian 'no, not'; *ta₁ 'negative marker: no, not'; Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'keda1252', 'tɔn')	nan		
-211.0	no; not	pmpacd	proto-MP-ACD 2	Austronesian		*dian	*adi 'no, not'; *dian 'no, not'; *ta₁ 'negative marker: no, not'; Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'keda1252', 'tɔn')	nan		
-211.0	no; not	pmpacd	proto-MP-ACD 2	Austronesian		*ta	*adi 'no, not'; *dian 'no, not'; *ta₁ 'negative marker: no, not'; Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'keda1252', 'tɔn')	nan		
-212.0	and	pmpacd	proto-MP-ACD 2	Austronesian		*a	also *maS, *na	nan	('and', 'lama1277-kalik', 'ko')	nan		
-212.0	and	pmpacd	proto-MP-ACD 2	Austronesian		*ka	also *maS, *na	nan	('and', 'lama1277-kalik', 'ko')	nan		
-212.0	and	pmpacd	proto-MP-ACD 2	Austronesian		*mai	also *maS, *na	nan	('and', 'amar1273-kotos', 'ma')	nan		
-213.0	because	pmpacd	proto-MP-ACD 2	Austronesian		*ba	*ba 'conjunction: or, if; perhaps; because'	nan	('because', 'adon1237', 'ˈpukɜ')	nan		
-214.0	if	pmpacd	proto-MP-ACD 2	Austronesian		*ka	nan	nan	"('if', 'alor1247-baran', ""'kalau"")"	nan		
-214.0	if	pmpacd	proto-MP-ACD 2	Austronesian		*nu	nan	nan	('if', 'cent2245-hewa', 'ganupa')	nan		
-215.0	with	pmpacd	proto-MP-ACD 2	Austronesian		*deŋan	nan	nan	('with', 'adon1237', 'ˈtaliʔ')	nan		
-216.0	what?	pmpacd	proto-MP-ACD 2	Austronesian		*apa	nan	nan	('what?', 'alor1247-baran', 'pei')	nan		
-217.0	who?	pmpacd	proto-MP-ACD 2	Austronesian		*sai	also *i-sai, *i-sei	nan	"('who?', 'alor1247-besar', ""'fiaru"")"	nan		
-217.0	who?	pmpacd	proto-MP-ACD 2	Austronesian		*sei	also *i-sai, *i-sei	nan	"('who?', 'alor1247-besar', ""'fiaru"")"	nan		
-217.0	who?	pmpacd	proto-MP-ACD 2	Austronesian		*si-ima	also *i-sai, *i-sei	nan	"('who?', 'alor1247-besar', ""'fiaru"")"	nan		
-218.0	where?	pmpacd	proto-MP-ACD 2	Austronesian		*inu	nan	nan	('where?', 'pmpacd', '*inu')	nan		
-218.0	where?	pmpacd	proto-MP-ACD 2	Austronesian		*pai	nan	nan	('where?', 'cent2245-hewa', 'upa')	nan		
-219.0	when?	pmpacd	proto-MP-ACD 2	Austronesian		*ijan	also *ŋa-ijan, *p-ijan	nan	"('when?', 'alor1247-baran', ""ɛrpɛ'hɛlɛ"")"	nan		
-219.0	when?	pmpacd	proto-MP-ACD 2	Austronesian		*ka-nu	also *ŋa-ijan, *p-ijan	nan	('when?', 'pmpacd', '*ka-nu')	nan		
-221.0	how much; how many?	pmpacd	proto-MP-ACD 2	Austronesian		*pija	nan	nan	('how much; how many?', 'adon1237', 'ˈpira')	nan		
-222.0	how?	pmpacd	proto-MP-ACD 2	Austronesian		*kua	nan	nan	('how?', 'p-aust1307-abvd', '*kuja')	nan		
-222.0	how?	pmpacd	proto-MP-ACD 2	Austronesian		*kuja	nan	nan	('how?', 'p-aust1307-abvd', '*kuja')	nan		
-222.0	how?	pmpacd	proto-MP-ACD 2	Austronesian		*lauŋ	nan	nan	('how?', 'pmpacd', '*lauŋ')	nan		
-223.0	this	pmpacd	proto-MP-ACD 2	Austronesian		*i-ni	also *ia-ni, *qani, *si ia	nan	('this', 'adon1237', 'ˈnhiː')	nan		
-223.0	this	pmpacd	proto-MP-ACD 2	Austronesian		*ia	also *ia-ni, *qani, *si ia	nan	('this', 'amar1273-kotos', '=i')	nan		
-223.0	this	pmpacd	proto-MP-ACD 2	Austronesian		*ieq	also *ia-ni, *qani, *si ia	nan	('this', 'amar1273-kotos', '=i')	nan		
-224.0	that	pmpacd	proto-MP-ACD 2	Austronesian		*i-di	*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di	nan	"('that', 'alor1247-baran', "",ka'te"")"	nan		
-224.0	that	pmpacd	proto-MP-ACD 2	Austronesian		*i-na	*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di	nan	('that', 'amar1273-kotos', '=an')	nan		
-224.0	that	pmpacd	proto-MP-ACD 2	Austronesian		*ia	*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di	nan	('that', 'amar1273-kotos', 'ee')	nan		
-225.0	at	pmpacd	proto-MP-ACD 2	Austronesian		*ba	*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'amar1273-kotos', 'n-bi')	nan		
-225.0	at	pmpacd	proto-MP-ACD 2	Austronesian		*di	*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'kaer1234', 'ta')	nan		
-226.0	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	nan	('in; inside', 'keda1252', 'bɛʔ')	nan		
-226.0	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*lem	nan	nan	('in; inside', 'lamm1241-westp', 'kulla')	nan		
-227.0	here	pmpacd	proto-MP-ACD 2	Austronesian		*i-ni	also *qani, *si ia, *di-ni	nan	('here', 'amar1273-kotos', 'ia')	nan		
-227.0	here	pmpacd	proto-MP-ACD 2	Austronesian		*ia	also *qani, *si ia, *di-ni	nan	('here', 'amar1273-kotos', 'ia')	nan		
-227.0	here	pmpacd	proto-MP-ACD 2	Austronesian		*ia-ni	also *qani, *si ia, *di-ni	nan	('here', 'amar1273-kotos', 'ia')	nan		
-228.0	there	pmpacd	proto-MP-ACD 2	Austronesian		*i-di	also *a-di, *si ia	nan	('there', 'cent2245-hewa', 'ia')	nan		
-228.0	there	pmpacd	proto-MP-ACD 2	Austronesian		*i-na	also *a-di, *si ia	nan	('there', 'cent2245-hewa', 'ia')	nan		
-228.0	there	pmpacd	proto-MP-ACD 2	Austronesian		*ia	also *a-di, *si ia	nan	('there', 'cent2245-hewa', 'ia')	nan		
-229.0	above	pmpacd	proto-MP-ACD 2	Austronesian		*babaw	also *bawbaw, *I babaw	nan	('above', 'amar1273-kotos', 'fafo-n')	nan		
-229.0	above	pmpacd	proto-MP-ACD 2	Austronesian		*i-atas	also *bawbaw, *I babaw	nan	('above', 'amar1273-kotos', 'ata')	nan		
-230.0	below	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	nan	('below', 'amar1273-kotos', 'pina-n')	nan		
-230.0	below	pmpacd	proto-MP-ACD 2	Austronesian		*dalem	nan	nan	('below', 'pmpacd', '*dalem')	nan		
-230.0	below	pmpacd	proto-MP-ACD 2	Austronesian		*i dalem	nan	nan	('below', 'pmpacd', '*dalem')	nan		
-231.0	left (side)	pmpacd	proto-MP-ACD 2	Austronesian		*ka-wiRi	nan	nan	('left (side)', 'adan1251-otvai', 'fiʔiŋ')	nan		
-231.0	left (side)	pmpacd	proto-MP-ACD 2	Austronesian		*wiRi	nan	nan	('left (side)', 'adan1251-otvai', 'fiʔiŋ')	nan		
-232.0	right (side)	pmpacd	proto-MP-ACD 2	Austronesian		*ka-taqu	nan	nan	('right (side)', 'abui1241-fuime', 'teikaŋ')	nan		
-232.0	right (side)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-taqu	nan	nan	('right (side)', 'abui1241-fuime', 'teikaŋ')	nan		
-232.0	right (side)	pmpacd	proto-MP-ACD 2	Austronesian		*taqu	nan	nan	('right (side)', 'abui1241-fuime', 'teikaŋ')	nan		
-233.0	a few	pmpacd	proto-MP-ACD 2	Austronesian		*dikit	also *qitik	nan	('a few', 'kelo1247-hopte', 'kənit_a:k')	nan		
-233.0	a few	pmpacd	proto-MP-ACD 2	Austronesian		*emit	also *qitik	nan	('a few', 'kelo1247-hopte', 'kənit_a:k')	nan		
-233.0	a few	pmpacd	proto-MP-ACD 2	Austronesian		*pija	also *qitik	nan	('a few', 'pmpacd', '*pija')	nan		
-234.0	all	pmpacd	proto-MP-ACD 2	Austronesian		*qemin	nan	nan	"('all', 'alor1247-besar', ""pu'namuŋ"")"	nan		
-235.0	many	pmpacd	proto-MP-ACD 2	Austronesian		*hadu	nan	nan	('many', 'pmpacd', '*hadu')	nan		
-236.0	animal	pmpacd	proto-MP-ACD 2	Austronesian			If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.)	nan	nan	nan		
-238.0	dog	pmpacd	proto-MP-ACD 2	Austronesian		*asu	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan		
-239.0	pig	pmpacd	proto-MP-ACD 2	Austronesian		*babuy	nan	nan	('pig', 'pmpacd', '*babuy')	nan		
-240.0	chicken	pmpacd	proto-MP-ACD 2	Austronesian		*manuk	nan	nan	"('chicken', 'alor1247-besar', ""'manu"")"	nan		
-241.0	rat	pmpacd	proto-MP-ACD 2	Austronesian		*balabaw	nan	nan	('rat', 'amar1273-kotos', 'knafo')	nan		
-241.0	rat	pmpacd	proto-MP-ACD 2	Austronesian		*labaw	nan	nan	('rat', 'amar1273-kotos', 'knafo')	nan		
-242.0	lizard	pmpacd	proto-MP-ACD 2	Austronesian		*bulilik	*tektek 'gecko, house lizard (onom.)'; *bulilik 'lizard sp.' 	nan	('lizard', 'pmpacd', '*bulilik')	nan		
-242.0	lizard	pmpacd	proto-MP-ACD 2	Austronesian		*tektek	*tektek 'gecko, house lizard (onom.)'; *bulilik 'lizard sp.' 	nan	('lizard', 'abui1241-fuime', 'tekok')	nan		
-244.0	deer	pmpacd	proto-MP-ACD 2	Austronesian			*saladeŋ 'male deer, buck (?)'	nan	nan	nan		
-247.0	flying fox; fruit bat	pmpacd	proto-MP-ACD 2	Austronesian		*paniki	nan	nan	('flying fox; fruit bat', 'cent2245-hewa', 'niʔi')	nan		
-249.0	tail	pmpacd	proto-MP-ACD 2	Austronesian		*ikuR	nan	nan	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
-249.0	tail	pmpacd	proto-MP-ACD 2	Austronesian		*ikuŋ	nan	nan	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
-249.0	tail	pmpacd	proto-MP-ACD 2	Austronesian		*kikuR	nan	nan	('tail', 'adon1237', 'ˈʔikʔũ')	nan		
-250.0	fish	pmpacd	proto-MP-ACD 2	Austronesian		*hikan	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan		
-251.0	shark	pmpacd	proto-MP-ACD 2	Austronesian		*qiSu	nan	nan	('shark', 'adon1237', 'ˈhio')	nan		
-254.0	crocodile	pmpacd	proto-MP-ACD 2	Austronesian		*buqaya	nan	nan	('crocodile', 'abui1241-fuime', 'fahai')	nan		
-256.0	starfish	pmpacd	proto-MP-ACD 2	Austronesian		*saŋa-saŋa	nan	nan	('starfish', 'pmpacd', '*saŋa-saŋa')	nan		
-257.0	turtle	pmpacd	proto-MP-ACD 2	Austronesian		*peñu	*peñu 'the green turtle'; *qaCipa 'turtle sp.'	nan	('turtle', 'pmpacd', '*peñu')	nan		
-259.0	bird	pmpacd	proto-MP-ACD 2	Austronesian		*manu(k)-manuk	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan		
-259.0	bird	pmpacd	proto-MP-ACD 2	Austronesian		*qayam	nan	nan	"('bird', 'abui1241-takal', ""'ku.jä"")"	nan		
-260.0	wing	pmpacd	proto-MP-ACD 2	Austronesian		*panid	nan	nan	('wing', 'kama1365', '-paʔta')	nan		
-260.0	wing	pmpacd	proto-MP-ACD 2	Austronesian		*panij	nan	nan	('wing', 'kama1365', '-paʔta')	nan		
-260.0	wing	pmpacd	proto-MP-ACD 2	Austronesian		*qelad	nan	nan	('wing', 'alor1249-sar-a', 'gataʔar')	nan		
-261.0	claw	pmpacd	proto-MP-ACD 2	Austronesian		*kuhkuh	nan	nan	"('claw', 'fata1247', ""ia'kɛlɛs"")"	nan		
-262.0	feather	pmpacd	proto-MP-ACD 2	Austronesian		*bulu	nan	nan	('feather', 'pmpacd', '*bulu')	nan		
-264.0	snake	pmpacd	proto-MP-ACD 2	Austronesian		*hulaR	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan		
-264.0	snake	pmpacd	proto-MP-ACD 2	Austronesian		*nipay	nan	nan	('snake', 'pmpacd', '*nipay')	nan		
-266.0	egg	pmpacd	proto-MP-ACD 2	Austronesian		*qateluR	nan	nan	('egg', 'adan1251-otvai', 'dɔ')	nan		
-266.0	egg	pmpacd	proto-MP-ACD 2	Austronesian		*qiteluR	nan	nan	('egg', 'adan1251-otvai', 'dɔ')	nan		
-267.0	earthworm	pmpacd	proto-MP-ACD 2	Austronesian		*bulati	*bulati 'roundworm, ascaris, intestinal worm; also earthworm?'	nan	('earthworm', 'adan1251-otvai', 'kadile')	nan		
-267.0	earthworm	pmpacd	proto-MP-ACD 2	Austronesian		*wati	*bulati 'roundworm, ascaris, intestinal worm; also earthworm?'	nan	('earthworm', 'adan1251-otvai', 'kadile')	nan		
-268.0	butterfly	pmpacd	proto-MP-ACD 2	Austronesian		*baŋbaŋ	nan	nan	('butterfly', 'adan1251-lawah', 'popou')	nan		
-268.0	butterfly	pmpacd	proto-MP-ACD 2	Austronesian		*beŋbeŋ	nan	nan	('butterfly', 'adan1251-lawah', 'popou')	nan		
-269.0	fly (n.)	pmpacd	proto-MP-ACD 2	Austronesian			*beRŋaw 'bluebottle, large fly'	nan	nan	nan		
-270.0	mosquito	pmpacd	proto-MP-ACD 2	Austronesian		*lamuk	nan	nan	"('mosquito', 'keda1252', ""mɛ'miʔ"")"	nan		
-270.0	mosquito	pmpacd	proto-MP-ACD 2	Austronesian		*ñamuk	nan	nan	"('mosquito', 'keda1252', ""mɛ'miʔ"")"	nan		
-271.0	ant	pmpacd	proto-MP-ACD 2	Austronesian			*me(n)tik 'ant sp. with venomous bite'	nan	nan	nan		
-272.0	grasshopper	pmpacd	proto-MP-ACD 2	Austronesian		*batik	nan	nan	('grasshopper', 'kama1365', 'be')	nan		
-274.0	spider	pmpacd	proto-MP-ACD 2	Austronesian		*ka-lawaq	nan	nan	('spider', 'kelo1247-hopte', 'nəwak')	nan		
-274.0	spider	pmpacd	proto-MP-ACD 2	Austronesian		*lawaq	nan	nan	('spider', 'kelo1247-hopte', 'nəwak')	nan		
-275.0	headlice	pmpacd	proto-MP-ACD 2	Austronesian		*kutu	nan	nan	('headlice', 'adon1237', 'ˈkutɔ')	nan		
-276.0	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*leseq	nan	nan	('louse eggs', 'adon1237', 'kɜˈlɛhɛ̃')	nan		
-276.0	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*lisehaq	nan	nan	('louse eggs', 'adon1237', 'kɜˈlɛhɛ̃')	nan		
-276.0	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*liseqah	nan	nan	('louse eggs', 'adon1237', 'kɜˈlɛhɛ̃')	nan		
-278.0	flea	pmpacd	proto-MP-ACD 2	Austronesian		*qatimela	nan	nan	"('flea', 'alor1247-munas', ""mə'rːɛ"")"	nan		
-279.0	louse (clothing)	pmpacd	proto-MP-ACD 2	Austronesian		*tumah	nan	nan	('louse (clothing)', 'adan1251-otvai', 'tameʔ')	nan		
-281.0	big	pmpacd	proto-MP-ACD 2	Austronesian		*Raya	nan	nan	('big', 'lamm1241-westp', 'ara')	nan		
-282.0	small	pmpacd	proto-MP-ACD 2	Austronesian		*bitiq	*kedi 'small in size or amount'; also *qitik 'small, little; few'	nan	('small', 'abui1241-fuime', 'kdiŋ')	nan		
-282.0	small	pmpacd	proto-MP-ACD 2	Austronesian		*kedi	*kedi 'small in size or amount'; also *qitik 'small, little; few'	nan	('small', 'abui1241-fuime', 'kdiŋ')	nan		
-282.0	small	pmpacd	proto-MP-ACD 2	Austronesian		*kikit	*kedi 'small in size or amount'; also *qitik 'small, little; few'	nan	('small', 'abui1241-fuime', 'kdiŋ')	nan		
-283.0	old; worn (house)	pmpacd	proto-MP-ACD 2	Austronesian		*dadan	nan	nan	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	nan		
-283.0	old; worn (house)	pmpacd	proto-MP-ACD 2	Austronesian		*daqaN	nan	nan	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	nan		
-283.0	old; worn (house)	pmpacd	proto-MP-ACD 2	Austronesian		*lama	nan	nan	('old; worn (house)', 'pmpacd', '*lama')	nan		
-284.0	new (house)	pmpacd	proto-MP-ACD 2	Austronesian		*baqeRu	nan	nan	('new (house)', 'p-aust1307-abvd', '*ma-baqeʀu')	nan		
-285.0	old (people)	pmpacd	proto-MP-ACD 2	Austronesian		*Rudaŋ	nan	nan	('old (people)', 'abui1241-fuime', 'kalejeita')	nan		
-285.0	old (people)	pmpacd	proto-MP-ACD 2	Austronesian		*tuqah	nan	nan	('old (people)', 'adon1237', 'tɜˈnuʔe')	nan		
-286.0	young (people)	pmpacd	proto-MP-ACD 2	Austronesian		*muda	*muda 'young (of fruits); immature; light (of colors)'	nan	('young (people)', 'amar1273-kotos', 'munif')	nan		
-288.0	hot	pmpacd	proto-MP-ACD 2	Austronesian		*panas	nan	nan	('hot', 'adan1251-lawah', 'buniʔ')	nan		
-289.0	cold	pmpacd	proto-MP-ACD 2	Austronesian		*giŋgiŋ	*giŋgiŋ 'cold, shivering'; *ramig 'cold (of weather)'	nan	('cold', 'amar1273-kotos', 'mainikin')	nan		
-289.0	cold	pmpacd	proto-MP-ACD 2	Austronesian		*ramig	*giŋgiŋ 'cold, shivering'; *ramig 'cold (of weather)'	nan	('cold', 'buna1278-bobon', 'huruk')	nan		
-290.0	good	pmpacd	proto-MP-ACD 2	Austronesian		*diqaq	nan	nan	"('good', 'alor1247-baran', ""'dik:ɛ"")"	nan		
-291.0	bad	pmpacd	proto-MP-ACD 2	Austronesian		*buRuk	*buRuk 'rotten meat; addled eggs; bad character'	nan	('bad', 'abui1241-fuime', 'beaka')	nan		
-291.0	bad	pmpacd	proto-MP-ACD 2	Austronesian		*zaqat	*buRuk 'rotten meat; addled eggs; bad character'	nan	('bad', 'pmpacd', '*zaqat')	nan		
-292.0	full	pmpacd	proto-MP-ACD 2	Austronesian		*penuq	nan	nan	('full', 'adon1237', 'ˈpɜnɔ')	nan		
-293.0	empty	pmpacd	proto-MP-ACD 2	Austronesian		*quaŋ	nan	nan	('empty', 'amar1273-kotos', 'ruman')	nan		
-294.0	near	pmpacd	proto-MP-ACD 2	Austronesian		*ipit	nan	nan	('near', 'buna1278-bobon', 'goɛt')	nan		
-295.0	far	pmpacd	proto-MP-ACD 2	Austronesian		*zauq	nan	nan	"('far', 'kema1243', ""sɔ'gɔ:(n)"")"	nan		
-296.0	wet	pmpacd	proto-MP-ACD 2	Austronesian		*baseq	nan	nan	"('wet', 'idat1237', ""po'ʔɔn"")"	nan		
-296.0	wet	pmpacd	proto-MP-ACD 2	Austronesian		*besaq	nan	nan	"('wet', 'idat1237', ""po'ʔɔn"")"	nan		
-297.0	dry	pmpacd	proto-MP-ACD 2	Austronesian		*Raŋuʔ	nan	nan	('dry', 'pmpacd', '*Raŋuʔ')	nan		
-297.0	dry	pmpacd	proto-MP-ACD 2	Austronesian		*keRaŋ	nan	nan	"('dry', 'laka1255', ""ki'ʔɑs"")"	nan		
-297.0	dry	pmpacd	proto-MP-ACD 2	Austronesian		*tegaŋ	nan	nan	"('dry', 'laka1255', ""ki'ʔɑs"")"	nan		
-298.0	dry in sun	pmpacd	proto-MP-ACD 2	Austronesian		*bilaj	*waRi 'day; sun; dry in the sun'; *bilaj 'spread out in the sun to dry'; *maja 'dry up, evaporate'	nan	('dry in sun', 'pmpacd', '*bilaj')	nan		
-298.0	dry in sun	pmpacd	proto-MP-ACD 2	Austronesian		*maja	*waRi 'day; sun; dry in the sun'; *bilaj 'spread out in the sun to dry'; *maja 'dry up, evaporate'	nan	('dry in sun', 'pmpacd', '*maja')	nan		
-298.0	dry in sun	pmpacd	proto-MP-ACD 2	Austronesian		*waRi	*waRi 'day; sun; dry in the sun'; *bilaj 'spread out in the sun to dry'; *maja 'dry up, evaporate'	nan	('dry in sun', 'pmpacd', '*waRi')	nan		
-302.0	short (people)	pmpacd	proto-MP-ACD 2	Austronesian		*pandak	*pandak 'short in height, squat and compact in build, of a person'	nan	('short (people)', 'buna1278-bobon', 'barak')	nan		
-303.0	thin (non-human)	pmpacd	proto-MP-ACD 2	Austronesian		*mepis	also *iŋepis	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		
-303.0	thin (non-human)	pmpacd	proto-MP-ACD 2	Austronesian		*mipis	also *iŋepis	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		
-303.0	thin (non-human)	pmpacd	proto-MP-ACD 2	Austronesian		*tipis	also *iŋepis	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		
-304.0	skinny (human)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-niwaŋ	*ma-niwaŋ 'thin, of people and animals'; *niwaŋ 'thinness, of people and animals'	nan	('skinny (human)', 'amar1273-kotos', 'maknau')	nan		
-305.0	thick	pmpacd	proto-MP-ACD 2	Austronesian		*kaS(e)pal	nan	nan	('thick', 'abui1241-fuime', 'taapati')	nan		
-305.0	thick	pmpacd	proto-MP-ACD 2	Austronesian		*tebel	nan	nan	('thick', 'abui1241-fuime', 'taapati')	nan		
-306.0	round	pmpacd	proto-MP-ACD 2	Austronesian		*bunteR	nan	nan	"('round', 'alor1247-munas', ""'pɔlik"")"	nan		
-307.0	dark	pmpacd	proto-MP-ACD 2	Austronesian		*kalem	also *qudem, *tidem, *demdem, *halem	nan	"('dark', 'alor1247-besar', ""'kui"")"	nan		
-307.0	dark	pmpacd	proto-MP-ACD 2	Austronesian		*kelem	also *qudem, *tidem, *demdem, *halem	nan	"('dark', 'alor1247-besar', ""'kui"")"	nan		
-307.0	dark	pmpacd	proto-MP-ACD 2	Austronesian		*qilem	also *qudem, *tidem, *demdem, *halem	nan	"('dark', 'alor1247-besar', ""'kui"")"	nan		
-308.0	light	pmpacd	proto-MP-ACD 2	Austronesian		*sindar	nan	nan	('light', 'kama1365', 'soːŋ')	nan		
-311.0	sharp	pmpacd	proto-MP-ACD 2	Austronesian		*tasim	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan	('sharp', 'p-aust1307-abvd', '*Cazem')	nan		
-312.0	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*dumpul	also *pudul, *tultul, *de(m)pul, *belbel	nan	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	nan		
-312.0	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpel	also *pudul, *tultul, *de(m)pul, *belbel	nan	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	nan		
-312.0	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpul	also *pudul, *tultul, *de(m)pul, *belbel	nan	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	nan		
-313.0	heavy	pmpacd	proto-MP-ACD 2	Austronesian		*ma-beReqat	*beReqat 'weight, heaviness, weightiness; difficult; pregnant'	nan	('heavy', 'amar1273-kotos', 'maʔfenaʔ')	nan		
-314.0	light (weight)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-Raqan	*Raqan 'lightness (weight)'	nan	('light (weight)', 'amar1273-kotos', 'maʔkafaʔ')	nan		
-315.0	straight	pmpacd	proto-MP-ACD 2	Austronesian		*lurus	nan	nan	('straight', 'adon1237', 'kɜˈlɔhɔ')	nan		
-316.0	wide	pmpacd	proto-MP-ACD 2	Austronesian		*labeR	nan	nan	('wide', 'amar1273-kotos', 'mainuan')	nan		
-316.0	wide	pmpacd	proto-MP-ACD 2	Austronesian		*lawa	nan	nan	('wide', 'pmpacd', '*lawa')	nan		
-316.0	wide	pmpacd	proto-MP-ACD 2	Austronesian		*lawas	nan	nan	('wide', 'pmpacd', '*lawa')	nan		
-318.0	correct	pmpacd	proto-MP-ACD 2	Austronesian		*bener	nan	nan	('correct', 'p-mala1545-abvd', '*ma-bener')	nan		
-318.0	correct	pmpacd	proto-MP-ACD 2	Austronesian		*kena	nan	nan	('correct', 'lamm1241-westp', 'gaing')	nan		
-319.0	wrong	pmpacd	proto-MP-ACD 2	Austronesian		*salaq	nan	nan	('wrong', 'abui1241-fuime', 'hasala')	nan		
-320.0	ripe	pmpacd	proto-MP-ACD 2	Austronesian		*esak	also *qesak, *tasak	nan	('ripe', 'adan1251-otvai', 'ten')	nan		
-320.0	ripe	pmpacd	proto-MP-ACD 2	Austronesian		*hasak	also *qesak, *tasak	nan	('ripe', 'adan1251-otvai', 'ten')	nan		
-320.0	ripe	pmpacd	proto-MP-ACD 2	Austronesian		*lum	also *qesak, *tasak	nan	('ripe', 'pmpacd', '*lum')	nan		
-321.0	rotten	pmpacd	proto-MP-ACD 2	Austronesian		*buRuk	nan	nan	('rotten', 'buna1278-bobon', 'busuɁ')	nan		
-321.0	rotten	pmpacd	proto-MP-ACD 2	Austronesian		*busuk	nan	nan	('rotten', 'buna1278-bobon', 'busuɁ')	nan		
-322.0	bitter	pmpacd	proto-MP-ACD 2	Austronesian		*paqit	nan	nan	"('bitter', 'alor1247-besar', ""'pei"")"	nan		
-323.0	sweet	pmpacd	proto-MP-ACD 2	Austronesian		*emis	also *ma-hemis	nan	('sweet', 'adan1251-lawah', 'manɛmɛʔ')	nan		
-323.0	sweet	pmpacd	proto-MP-ACD 2	Austronesian		*hemis	also *ma-hemis	nan	('sweet', 'adan1251-lawah', 'manɛmɛʔ')	nan		
-323.0	sweet	pmpacd	proto-MP-ACD 2	Austronesian		*taq(e)mis	also *ma-hemis	nan	('sweet', 'adan1251-lawah', 'manɛmɛʔ')	nan		
-324.0	sour	pmpacd	proto-MP-ACD 2	Austronesian		*ma-qe(n)sem	*qaRsem 'sourness, acidity'	nan	('sour', 'pmpacd', '*ma-qe(n)sem')	nan		
-324.0	sour	pmpacd	proto-MP-ACD 2	Austronesian		*qaRsem	*qaRsem 'sourness, acidity'	nan	('sour', 'pmpacd', '*ma-qe(n)sem')	nan		
-325.0	salty	pmpacd	proto-MP-ACD 2	Austronesian		*ma-qasin	*qasiN 'saltiness, salty taste'	nan	('salty', 'atim1239', 'alesiŋ')	nan		
-326.0	flat	pmpacd	proto-MP-ACD 2	Austronesian		*da(m)paD	also *pa(n)tar	nan	"('flat', 'alor1247-baran', ""'hama"")"	nan		
-326.0	flat	pmpacd	proto-MP-ACD 2	Austronesian		*dapaR	also *pa(n)tar	nan	"('flat', 'alor1247-baran', ""'hama"")"	nan		
-326.0	flat	pmpacd	proto-MP-ACD 2	Austronesian		*dataR	also *pa(n)tar	nan	"('flat', 'alor1247-munas', ""'nadak"")"	nan		
-327.0	smooth	pmpacd	proto-MP-ACD 2	Austronesian		*dalit	nan	nan	('smooth', 'abui1241-fuime', 'rula')	nan		
-328.0	rough	pmpacd	proto-MP-ACD 2	Austronesian		*garaŋ	nan	nan	"('rough', 'alor1247-besar', ""'karɔ"")"	nan		
-329.0	black	pmpacd	proto-MP-ACD 2	Austronesian		*qitem	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
-329.0	black	pmpacd	proto-MP-ACD 2	Austronesian		*tidem	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan		
-330.0	white	pmpacd	proto-MP-ACD 2	Austronesian		*putiq	nan	nan	('white', 'pmpacd', '*putiq')	nan		
-331.0	red	pmpacd	proto-MP-ACD 2	Austronesian		*pula	also *siRa	nan	('red', 'baka1276', 'bibi')	nan		
-331.0	red	pmpacd	proto-MP-ACD 2	Austronesian		*pulaq	also *siRa	nan	('red', 'baka1276', 'bibi')	nan		
-331.0	red	pmpacd	proto-MP-ACD 2	Austronesian		*rara	also *siRa	nan	('red', 'pmpacd', '*rara')	nan		
-335.0	sick; painful	pmpacd	proto-MP-ACD 2	Austronesian		*sakit	There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	nan	"('sick; painful', 'fata1247', ""pa'nakɛ"")"	nan		
-336.0	shy; ashamed	pmpacd	proto-MP-ACD 2	Austronesian		*ilah	*Seyaq 'shyness, embarrassment; shame'	nan	"('shy; ashamed', 'abui1241-takal', ""tä.mje̞.'lɐi"")"	nan		
-336.0	shy; ashamed	pmpacd	proto-MP-ACD 2	Austronesian		*ma-heyaq	*Seyaq 'shyness, embarrassment; shame'	nan	"('shy; ashamed', 'alor1247-besar', ""'maniaŋ"")"	nan		
-337.0	thirsty	pmpacd	proto-MP-ACD 2	Austronesian		*ma-quSaw	*quSaw 'thirst' 	nan	('thirsty', 'pmpacd', '*ma-quSaw')	nan		
-337.0	thirsty	pmpacd	proto-MP-ACD 2	Austronesian		*quSaw-an	*quSaw 'thirst' 	nan	('thirsty', 'pmpacd', '*ma-quSaw')	nan		
-338.0	hungry	pmpacd	proto-MP-ACD 2	Austronesian		*bitil	nan	nan	('hungry', 'blag1240-bama', 'toboŋal')	nan		
-338.0	hungry	pmpacd	proto-MP-ACD 2	Austronesian		*lapaR	nan	nan	('hungry', 'baka1276', 'manápal')	nan		
-339.0	blind	pmpacd	proto-MP-ACD 2	Austronesian		*buta	nan	nan	('blind', 'abui1241-fuime', 'akuta')	nan		
-340.0	deaf	pmpacd	proto-MP-ACD 2	Austronesian		*beŋel	nan	nan	('deaf', 'adan1251-lawah', 'palaʔa')	nan		
-340.0	deaf	pmpacd	proto-MP-ACD 2	Austronesian		*tuli	nan	nan	('deaf', 'pmpacd', '*tuli')	nan		
-341.0	scared	pmpacd	proto-MP-ACD 2	Austronesian		*takut	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan		
-342.0	angry	pmpacd	proto-MP-ACD 2	Austronesian		*beŋis	also *quSeŋeC, *reŋeC 	nan	('angry', 'lama1278', 'məˈŋɛʔ')	nan		
-342.0	angry	pmpacd	proto-MP-ACD 2	Austronesian		*biraŋ	also *quSeŋeC, *reŋeC 	nan	('angry', 'adan1251-lawah', 'ariʔiŋ')	nan		
-342.0	angry	pmpacd	proto-MP-ACD 2	Austronesian		*qiŋet	also *quSeŋeC, *reŋeC 	nan	('angry', 'pmpacd', '*qiŋet')	nan		
-343.0	to see	pmpacd	proto-MP-ACD 2	Austronesian		*kita	nan	nan	('to see', 'adan1251-lawah', 'dunuʔ')	nan		
-344.0	to hear	pmpacd	proto-MP-ACD 2	Austronesian		*deŋeR	also *kiŋeR	nan	('to hear', 'adon1237', 'ˈdɜŋɜʔ')	nan		
-344.0	to hear	pmpacd	proto-MP-ACD 2	Austronesian		*diŋa	also *kiŋeR	nan	('to hear', 'adon1237', 'ˈdɜŋɜʔ')	nan		
-344.0	to hear	pmpacd	proto-MP-ACD 2	Austronesian		*diŋeR	also *kiŋeR	nan	('to hear', 'adon1237', 'ˈdɜŋɜʔ')	nan		
-345.0	to smell	pmpacd	proto-MP-ACD 2	Austronesian		*Sajek-en	nan	nan	"('to smell', 'alor1247-besar', ""'mare"")"	nan		
-345.0	to smell	pmpacd	proto-MP-ACD 2	Austronesian		*hajek	nan	nan	"('to smell', 'alor1247-besar', ""'mare"")"	nan		
-346.0	to think	pmpacd	proto-MP-ACD 2	Austronesian		*handem	nan	nan	"('to think', 'abui1241-takal', ""tɔm.'pã"")"	nan		
-346.0	to think	pmpacd	proto-MP-ACD 2	Austronesian		*nemnem	nan	nan	"('to think', 'abui1241-takal', ""tɔm.'pã"")"	nan		
-347.0	to know	pmpacd	proto-MP-ACD 2	Austronesian		*kilala	also *taqu-an	nan	('to know', 'alor1249-sar-a', 'kalál')	nan		
-347.0	to know	pmpacd	proto-MP-ACD 2	Austronesian		*taqu	also *taqu-an	nan	('to know', 'adon1237', 'ˈkoi')	nan		
-348.0	to say	pmpacd	proto-MP-ACD 2	Austronesian		*baqbaq	nan	nan	('to say', 'pmpacd', '*baqbaq')	nan		
-349.0	to speak	pmpacd	proto-MP-ACD 2	Austronesian		*baqbaq	nan	nan	('to speak', 'dein1238', 'tra_birang')	nan		
-351.0	language	pmpacd	proto-MP-ACD 2	Austronesian		*kaRi	*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'	nan	('language', 'buna1278-bobon', 'giɔl')	nan		
-351.0	language	pmpacd	proto-MP-ACD 2	Austronesian		*sau	*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'	nan	('language', 'amar1273-kotos', 'uabaʔ')	nan		
-352.0	to lie down	pmpacd	proto-MP-ACD 2	Austronesian			*qinep 'lie down to sleep'	nan	nan	nan		
-353.0	to sleep	pmpacd	proto-MP-ACD 2	Austronesian		*tiduR	nan	nan	('to sleep', 'abui1241-fuime', 'ta')	nan		
-353.0	to sleep	pmpacd	proto-MP-ACD 2	Austronesian		*tuduR	nan	nan	('to sleep', 'abui1241-fuime', 'ta')	nan		
-355.0	to wake someone up	pmpacd	proto-MP-ACD 2	Austronesian		*baŋun	*baŋun 'wake someone, rouse someone from sleep; erect something, put something in an upright position'	nan	('to wake someone up', 'amar1273-kotos', 'na-fena-ʔ')	nan		
-356.0	to bathe	pmpacd	proto-MP-ACD 2	Austronesian		*diRus	nan	nan	"('to bathe', 'idat1237', ""'arius"")"	nan		
-356.0	to bathe	pmpacd	proto-MP-ACD 2	Austronesian		*ziuq	nan	nan	('to bathe', 'pmpacd', '*ziuq')	nan		
-358.0	to sit	pmpacd	proto-MP-ACD 2	Austronesian		*iŋkud	nan	nan	('to sit', 'pmpacd', '*iŋkud')	nan		
-358.0	to sit	pmpacd	proto-MP-ACD 2	Austronesian		*tu(n)daŋ	nan	nan	('to sit', 'p-cent2245-abvd', '*todan')	nan		
-359.0	to stand	pmpacd	proto-MP-ACD 2	Austronesian		*diRi	also *kezeŋ	nan	('to stand', 'adan1251-otvai', 'toh')	nan		
-359.0	to stand	pmpacd	proto-MP-ACD 2	Austronesian		*kedeŋ	also *kezeŋ	nan	('to stand', 'abui1241-fuime', 'nate')	nan		
-359.0	to stand	pmpacd	proto-MP-ACD 2	Austronesian		*tuquD	also *kezeŋ	nan	('to stand', 'adan1251-otvai', 'toh')	nan		
-360.0	to walk	pmpacd	proto-MP-ACD 2	Austronesian		*lakaw	nan	nan	('to walk', 'abui1241-fuime', 'lak')	nan		
-360.0	to walk	pmpacd	proto-MP-ACD 2	Austronesian		*lampaq	nan	nan	('to walk', 'abui1241-fuime', 'lak')	nan		
-360.0	to walk	pmpacd	proto-MP-ACD 2	Austronesian		*rakat	nan	nan	('to walk', 'abui1241-fuime', 'lak')	nan		
-361.0	to run	pmpacd	proto-MP-ACD 2	Austronesian		*laRiw	nan	nan	('to run', 'adon1237', 'pɑˈlaʔe')	nan		
-362.0	to go	pmpacd	proto-MP-ACD 2	Austronesian		*lakaw	also *l<um>akaw, *panaw	nan	('to go', 'abui1241-petle', 'la:k')	nan		
-362.0	to go	pmpacd	proto-MP-ACD 2	Austronesian		*lampaŋ	also *l<um>akaw, *panaw	nan	('to go', 'cent2245-hewa', 'pano')	nan		
-362.0	to go	pmpacd	proto-MP-ACD 2	Austronesian		*lampaŋ	also *l<um>akaw, *panaw	nan	('to go', 'cent2245-hewa', 'pano')	nan		
-363.0	to swim	pmpacd	proto-MP-ACD 2	Austronesian		*naŋuy	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan		
-364.0	to fly	pmpacd	proto-MP-ACD 2	Austronesian		*Rebek	nan	nan	('to fly', 'adon1237', 'ˈbɜka')	nan		
-364.0	to fly	pmpacd	proto-MP-ACD 2	Austronesian		*layap	nan	nan	('to fly', 'abui1241-fuime', 'li')	nan		
-365.0	to fall (from above)	pmpacd	proto-MP-ACD 2	Austronesian		*nabuq	nan	nan	('to fall (from above)', 'amar1273-kotos', 'n-mofu')	nan		
-366.0	to fall over	pmpacd	proto-MP-ACD 2	Austronesian			e.g. pohon yang dipotong.	nan	nan	nan		
-368.0	to drink	pmpacd	proto-MP-ACD 2	Austronesian		*maŋ-inum	*maŋ-inum 'to drink (trans.)'; *um-inum 'to drink'; *inum 'act of drinking'; *ñepñep 'drink, slurp, suck'	nan	('to drink', 'adan1251-lawah', 'naʔ')	nan		
-368.0	to drink	pmpacd	proto-MP-ACD 2	Austronesian		*um-inum	*maŋ-inum 'to drink (trans.)'; *um-inum 'to drink'; *inum 'act of drinking'; *ñepñep 'drink, slurp, suck'	nan	('to drink', 'adan1251-lawah', 'naʔ')	nan		
-368.0	to drink	pmpacd	proto-MP-ACD 2	Austronesian		*ñepñep	*maŋ-inum 'to drink (trans.)'; *um-inum 'to drink'; *inum 'act of drinking'; *ñepñep 'drink, slurp, suck'	nan	('to drink', 'pmpacd', '*ñepñep')	nan		
-369.0	to eat	pmpacd	proto-MP-ACD 2	Austronesian		*kaen	also *k<um>aen 'to eat'; *ma-kaen 'will eat (?)'	nan	"('to eat', 'alor1247-besar', ""'kaŋ_'apa"")"	nan		
-369.0	to eat	pmpacd	proto-MP-ACD 2	Austronesian		*maŋan	also *k<um>aen 'to eat'; *ma-kaen 'will eat (?)'	nan	('to eat', 'fata1247', 'macɛ')	nan		
-370.0	to cook	pmpacd	proto-MP-ACD 2	Austronesian		*tanek	nan	nan	('to cook', 'abui1241-petle', 'sen')	nan		
-371.0	to wash	pmpacd	proto-MP-ACD 2	Austronesian		*Siñaw	also *hawhaw 'wash, rinse'; *ñawñaw 'rinse, wash '	nan	('to wash', 'pmpacd', '*Siñaw')	nan		
-371.0	to wash	pmpacd	proto-MP-ACD 2	Austronesian		*basuq	also *hawhaw 'wash, rinse'; *ñawñaw 'rinse, wash '	nan	('to wash', 'alor1247-baran', 'bɛmɛ')	nan		
-371.0	to wash	pmpacd	proto-MP-ACD 2	Austronesian		*heñaw	also *hawhaw 'wash, rinse'; *ñawñaw 'rinse, wash '	nan	('to wash', 'pmpacd', '*Siñaw')	nan		
-372.0	to sew	pmpacd	proto-MP-ACD 2	Austronesian		*tahiq	nan	nan	('to sew', 'alor1249-sar-n', 'tap')	nan		
-372.0	to sew	pmpacd	proto-MP-ACD 2	Austronesian		*zaqit	nan	nan	('to sew', 'adan1251-lawah', 'narotoʔ')	nan		
-373.0	to live; be alive; living	pmpacd	proto-MP-ACD 2	Austronesian		*qudip	nan	nan	('to live; be alive; living', 'pmpacd', '*qudip')	nan		
-374.0	to breathe	pmpacd	proto-MP-ACD 2	Austronesian		*ma-ñawa	nan	nan	('to breathe', 'pmpacd', '*ma-ñawa')	nan		
-374.0	to breathe	pmpacd	proto-MP-ACD 2	Austronesian		*nihawa	nan	nan	('to breathe', 'pmpacd', '*ma-ñawa')	nan		
-375.0	to work	pmpacd	proto-MP-ACD 2	Austronesian		*buhat	nan	nan	('to work', 'pmpacd', '*buhat')	nan		
-376.0	to die	pmpacd	proto-MP-ACD 2	Austronesian		*m-atay	nan	nan	('to die', 'adon1237', 'ˈmataː')	nan		
-377.0	to give	pmpacd	proto-MP-ACD 2	Austronesian		*beRay	nan	nan	('to give', 'cent2245-hewa', 'bəli')	nan		
-377.0	to give	pmpacd	proto-MP-ACD 2	Austronesian		*pa-beRay	nan	nan	('to give', 'cent2245-hewa', 'bəli')	nan		
-378.0	to wipe	pmpacd	proto-MP-ACD 2	Austronesian		*punas	*usuq 'rub, wipe'; *sapu 'to wipe off or brush on; broom'; *punas 'wipe off, wipe out'	nan	('to wipe', 'lama1277-belan', 'bəjak')	nan		
-378.0	to wipe	pmpacd	proto-MP-ACD 2	Austronesian		*sapu	*usuq 'rub, wipe'; *sapu 'to wipe off or brush on; broom'; *punas 'wipe off, wipe out'	nan	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	nan		
-378.0	to wipe	pmpacd	proto-MP-ACD 2	Austronesian		*usuq	*usuq 'rub, wipe'; *sapu 'to wipe off or brush on; broom'; *punas 'wipe off, wipe out'	nan	"('to wipe', 'alor1247-pandai', ""'dɔhɔ"")"	nan		
-379.0	to come	pmpacd	proto-MP-ACD 2	Austronesian		*aRi	also *um-ai, um-aRi	nan	('to come', 'abui1241-fuime', 'me')	nan		
-379.0	to come	pmpacd	proto-MP-ACD 2	Austronesian		*ai	also *um-ai, um-aRi	nan	('to come', 'abui1241-fuime', 'me')	nan		
-379.0	to come	pmpacd	proto-MP-ACD 2	Austronesian		*teka	also *um-ai, um-aRi	nan	('to come', 'cent2245-hewa', 'səga')	nan		
-380.0	to laugh	pmpacd	proto-MP-ACD 2	Austronesian		*tawa	also *ta-tawa, *ma-tawa	nan	('to laugh', 'cent2245-hewa', 'to')	nan		
-381.0	to cry	pmpacd	proto-MP-ACD 2	Austronesian		*taŋis	also *C<um>aŋis, *ma-naŋis, 	nan	('to cry', 'adon1237', 'ˈtani')	nan		
-384.0	to burn (clear land)	pmpacd	proto-MP-ACD 2	Austronesian		*zeket	*zeket 'to burn (fields, etc.)'	nan	('to burn (clear land)', 'pmpacd', '*zeket')	nan		
-385.0	to burn; to shine	pmpacd	proto-MP-ACD 2	Austronesian		*bilak	*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'	nan	('to burn; to shine', 'kula1280-lanto', 'wakka')	nan		
-385.0	to burn; to shine	pmpacd	proto-MP-ACD 2	Austronesian		*dilap	*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'	nan	('to burn; to shine', 'pmpacd', '*dilap')	nan		
-386.0	to shine	pmpacd	proto-MP-ACD 2	Austronesian		*bilak	*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'	nan	('to shine', 'adan1251-otvai', 'fail')	nan		
-386.0	to shine	pmpacd	proto-MP-ACD 2	Austronesian		*dilap	*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'	nan	('to shine', 'atim1239', 'tuluŋ')	nan		
-387.0	to chew	pmpacd	proto-MP-ACD 2	Austronesian		*paqpaq	nan	nan	('to chew', 'pmpacd', '*paqpaq')	nan		
-387.0	to chew	pmpacd	proto-MP-ACD 2	Austronesian		*ŋalŋal	nan	nan	('to chew', 'pmpacd', '*ŋalŋal')	nan		
-388.0	to yawn	pmpacd	proto-MP-ACD 2	Austronesian		*huab	also *ma-huab	nan	('to yawn', 'pmpacd', '*huab')	nan		
-388.0	to yawn	pmpacd	proto-MP-ACD 2	Austronesian		*huyeʔab	also *ma-huab	nan	('to yawn', 'pmpacd', '*huab')	nan		
-389.0	to suck	pmpacd	proto-MP-ACD 2	Austronesian		*hisep	also *q<um>esep, *sipsip, *supsup, *sepsep-i, *s<um>epsep, *cupcup	nan	('to suck', 'pmpacd', '*hisep')	nan		
-389.0	to suck	pmpacd	proto-MP-ACD 2	Austronesian		*qisep	also *q<um>esep, *sipsip, *supsup, *sepsep-i, *s<um>epsep, *cupcup	nan	('to suck', 'pmpacd', '*hisep')	nan		
-389.0	to suck	pmpacd	proto-MP-ACD 2	Austronesian		*sepsep	also *q<um>esep, *sipsip, *supsup, *sepsep-i, *s<um>epsep, *cupcup	nan	('to suck', 'pmpacd', '*hisep')	nan		
-390.0	to blow	pmpacd	proto-MP-ACD 2	Austronesian		*h<um>eyup	nan	nan	('to blow', 'pmpacd', '*h<um>eyup')	nan		
-391.0	to spit	pmpacd	proto-MP-ACD 2	Austronesian		*ludaq	also *dulaq	nan	('to spit', 'p-cent2245-abvd', '*zulaq')	nan		
-391.0	to spit	pmpacd	proto-MP-ACD 2	Austronesian		*lupaS	also *dulaq	nan	('to spit', 'p-cent2245-abvd', '*zulaq')	nan		
-391.0	to spit	pmpacd	proto-MP-ACD 2	Austronesian		*supaq	also *dulaq	nan	('to spit', 'p-cent2245-abvd', '*zulaq')	nan		
-392.0	to vomit	pmpacd	proto-MP-ACD 2	Austronesian		*utaq	also *um-utaq	nan	('to vomit', 'adan1251-lawah', 'wudi')	nan		
-393.0	to rub	pmpacd	proto-MP-ACD 2	Austronesian		*usuq	*usuq 'rub, wipe'	nan	('to rub', 'pmpacd', '*usuq')	nan		
-394.0	to scratch	pmpacd	proto-MP-ACD 2	Austronesian		*garus	*garut 'rub against, scrape, scratch' , also *g<um>arut	nan	('to scratch', 'abui1241-fuime', 'kafie')	nan		
-394.0	to scratch	pmpacd	proto-MP-ACD 2	Austronesian		*garut	*garut 'rub against, scrape, scratch' , also *g<um>arut	nan	('to scratch', 'abui1241-fuime', 'kafie')	nan		
-395.0	itchy	pmpacd	proto-MP-ACD 2	Austronesian		*atel	also *ma-gatel	nan	('itchy', 'adan1251-lawah', 'kakaʔ')	nan		
-395.0	itchy	pmpacd	proto-MP-ACD 2	Austronesian		*gatel	also *ma-gatel	nan	('itchy', 'adan1251-lawah', 'kakaʔ')	nan		
-396.0	to swell	pmpacd	proto-MP-ACD 2	Austronesian		*beŋkak	nan	nan	('to swell', 'adon1237', 'ˈbaʔa')	nan		
-397.0	to hit	pmpacd	proto-MP-ACD 2	Austronesian		*basbas	nan	nan	('to hit', 'abui1241-fuime', 'tebol')	nan		
-397.0	to hit	pmpacd	proto-MP-ACD 2	Austronesian		*bukbuk	nan	nan	('to hit', 'abui1241-fuime', 'tebol')	nan		
-397.0	to hit	pmpacd	proto-MP-ACD 2	Austronesian		*pekpek	nan	nan	('to hit', 'abui1241-fuime', 'tebol')	nan		
-398.0	to slap	pmpacd	proto-MP-ACD 2	Austronesian		*bebak	E.g. to slap someone on the cheek; NOT to clap hands.	nan	('to slap', 'adan1251-otvai', 'baʔ')	nan		
-398.0	to slap	pmpacd	proto-MP-ACD 2	Austronesian		*tampek	E.g. to slap someone on the cheek; NOT to clap hands.	nan	"('to slap', 'abui1241-takal', ""to:.'bɔl"")"	nan		
-398.0	to slap	pmpacd	proto-MP-ACD 2	Austronesian		*tepak	E.g. to slap someone on the cheek; NOT to clap hands.	nan	"('to slap', 'abui1241-takal', ""to:.'bɔl"")"	nan		
-399.0	to bite	pmpacd	proto-MP-ACD 2	Austronesian		*a(ŋ)kit	also *ketep, *k<um>aRat, *um-a(ŋ)kit	nan	('to bite', 'pmpacd', '*a(ŋ)kit')	nan		
-399.0	to bite	pmpacd	proto-MP-ACD 2	Austronesian		*kaRat	also *ketep, *k<um>aRat, *um-a(ŋ)kit	nan	('to bite', 'pmpacd', '*a(ŋ)kit')	nan		
-399.0	to bite	pmpacd	proto-MP-ACD 2	Austronesian		*keteb	also *ketep, *k<um>aRat, *um-a(ŋ)kit	nan	('to bite', 'blag1240-bama', 'qadaŋ')	nan		
-400.0	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*Risi	*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'	nan	('to cut', 'fata1247', 'rɛkisɛ')	nan		
-400.0	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*hetek	*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	nan		
-400.0	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*qiris	*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'	nan	('to cut', 'buna1278-bobon', 'gɔrɔk')	nan		
-402.0	to split	pmpacd	proto-MP-ACD 2	Austronesian		*bakaq	*bakaq 'spread apart, split';  *beka(q) 'split, crack open'; *beriq 'split, tear open'; (n.b. many words have similar meanings; e.g. *betaq/*betak, *besiq, *biqak/bikaq, *biseqak, *bitak, *kakaq, *kelaq, *tebiq; PMP forms related to belah in Indonesian are *belaq 'part of something split'; *ma-belaq 'be split, in two'	nan	('to split', 'lamm1241-westp', 'bakkang')	nan		
-402.0	to split	pmpacd	proto-MP-ACD 2	Austronesian		*beka	*bakaq 'spread apart, split';  *beka(q) 'split, crack open'; *beriq 'split, tear open'; (n.b. many words have similar meanings; e.g. *betaq/*betak, *besiq, *biqak/bikaq, *biseqak, *bitak, *kakaq, *kelaq, *tebiq; PMP forms related to belah in Indonesian are *belaq 'part of something split'; *ma-belaq 'be split, in two'	nan	('to split', 'lamm1241-westp', 'bakkang')	nan		
-402.0	to split	pmpacd	proto-MP-ACD 2	Austronesian		*beriq	*bakaq 'spread apart, split';  *beka(q) 'split, crack open'; *beriq 'split, tear open'; (n.b. many words have similar meanings; e.g. *betaq/*betak, *besiq, *biqak/bikaq, *biseqak, *bitak, *kakaq, *kelaq, *tebiq; PMP forms related to belah in Indonesian are *belaq 'part of something split'; *ma-belaq 'be split, in two'	nan	('to split', 'pmpacd', '*beriq')	nan		
-403.0	to divide	pmpacd	proto-MP-ACD 2	Austronesian		*baqagi	*baqagi 'share, portion, inheritance; to allot, divide property'	nan	('to divide', 'adan1251-lawah', 'ʔabaʔaŋ')	nan		
-404.0	to stab	pmpacd	proto-MP-ACD 2	Austronesian		*rusuk	*tebek 'pierce, stab'; also *t<um>ebek 	nan	"('to stab', 'abui1241-takal', ""tu.'lo:q"")"	nan		
-404.0	to stab	pmpacd	proto-MP-ACD 2	Austronesian		*tebek	*tebek 'pierce, stab'; also *t<um>ebek 	nan	"('to stab', 'abui1241-takal', ""tu.'lo:q"")"	nan		
-405.0	to skewer	pmpacd	proto-MP-ACD 2	Austronesian		*tuduk	*tusuk 'pierce, skewer or string together'; *tuduk 'skewer, spit for roasting'	nan	('to skewer', 'adan1251-lawah', 'tɛʔɛ')	nan		
-405.0	to skewer	pmpacd	proto-MP-ACD 2	Austronesian		*tusuk	*tusuk 'pierce, skewer or string together'; *tuduk 'skewer, spit for roasting'	nan	('to skewer', 'adan1251-lawah', 'tɛʔɛ')	nan		
-408.0	to throw	pmpacd	proto-MP-ACD 2	Austronesian		*batu	nan	nan	('to throw', 'pmpacd', '*batu')	nan		
-408.0	to throw	pmpacd	proto-MP-ACD 2	Austronesian		*lambeg	nan	nan	('to throw', 'pmpacd', '*lambeg')	nan		
-408.0	to throw	pmpacd	proto-MP-ACD 2	Austronesian		*tudaq	nan	nan	('to throw', 'adan1251-lawah', 'ød')	nan		
-409.0	to hunt	pmpacd	proto-MP-ACD 2	Austronesian		*q<um>aNup	*qanup 'to hunt wild game'	nan	"('to hunt', 'alor1247-besar', ""'kɔri"")"	nan		
-410.0	to kill	pmpacd	proto-MP-ACD 2	Austronesian		*bunuq	nan	nan	"('to kill', 'alor1247-baran', ""'bun:ɔ"")"	nan		
-410.0	to kill	pmpacd	proto-MP-ACD 2	Austronesian		*p-atay	nan	nan	('to kill', 'lama1277-belan', 'təbajak')	nan		
-411.0	to chase away	pmpacd	proto-MP-ACD 2	Austronesian		*buRaw	*buRaw 'drive off, chase away, expel'; *sika 'to chase away or shoo off small animals'	nan	('to chase away', 'cent2245-hewa', 'bəʋe')	nan		
-411.0	to chase away	pmpacd	proto-MP-ACD 2	Austronesian		*sika	*buRaw 'drive off, chase away, expel'; *sika 'to chase away or shoo off small animals'	nan	"('to chase away', 'alor1247-besar', ""'sɛ"")"	nan		
-414.0	to dig	pmpacd	proto-MP-ACD 2	Austronesian		*k<um>ali	nan	nan	"('to dig', 'alor1247-baran', ""'gali"")"	nan		
-414.0	to dig	pmpacd	proto-MP-ACD 2	Austronesian		*kali	nan	nan	"('to dig', 'alor1247-baran', ""'gali"")"	nan		
-415.0	to bury	pmpacd	proto-MP-ACD 2	Austronesian		*lebeŋ	nan	nan	('to bury', 'abui1241-fuime', 'uli')	nan		
-415.0	to bury	pmpacd	proto-MP-ACD 2	Austronesian		*tanem	nan	nan	('to bury', 'pmpacd', '*tanem')	nan		
-416.0	to flow	pmpacd	proto-MP-ACD 2	Austronesian		*qaliR	nan	nan	"('to flow', 'kema1243', ""'dɔrɔ"")"	nan		
-416.0	to flow	pmpacd	proto-MP-ACD 2	Austronesian		*saliR	nan	nan	('to flow', 'amar1273-kotos', 'na-sai')	nan		
-417.0	to float	pmpacd	proto-MP-ACD 2	Austronesian		*apuŋ	nan	nan	"('to float', 'alor1247-baran', ""'nɛpi"")"	nan		
-419.0	to hold	pmpacd	proto-MP-ACD 2	Austronesian		*gem	*gem 'hold in the fist'	nan	('to hold', 'p-aust1307-abvd', '*gemgem')	nan		
-420.0	to tie	pmpacd	proto-MP-ACD 2	Austronesian		*hiket	*hiket 'tie, bind, attach to by tying'; *kaput 'tie or clasp together; to button'; *kebet 'tie by binding around'	nan	('to tie', 'abui1241-fuime', 'ha-kode')	nan		
-420.0	to tie	pmpacd	proto-MP-ACD 2	Austronesian		*kaput	*hiket 'tie, bind, attach to by tying'; *kaput 'tie or clasp together; to button'; *kebet 'tie by binding around'	nan	('to tie', 'adan1251-lawah', 'ʔapeceʔ')	nan		
-420.0	to tie	pmpacd	proto-MP-ACD 2	Austronesian		*kebet	*hiket 'tie, bind, attach to by tying'; *kaput 'tie or clasp together; to button'; *kebet 'tie by binding around'	nan	('to tie', 'adan1251-lawah', 'ʔapeceʔ')	nan		
-422.0	to pull	pmpacd	proto-MP-ACD 2	Austronesian		*SuRut	nan	nan	('to pull', 'pmpacd', '*SuRut')	nan		
-423.0	to push	pmpacd	proto-MP-ACD 2	Austronesian		*sulud	also *s<um>ulud 'to push'	nan	('to push', 'pmpacd', '*sulud')	nan		
-423.0	to push	pmpacd	proto-MP-ACD 2	Austronesian		*tulak	also *s<um>ulud 'to push'	nan	('to push', 'adan1251-lawah', 'adoʔo')	nan		
-424.0	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*bali	also *balik; *ileŋ	nan	('to turn', 'blag1240-tuntu', 'gogóleŋ')	nan		
-424.0	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*biliŋ	also *balik; *ileŋ	nan	('to turn', 'blag1240-tuntu', 'gogóleŋ')	nan		
-424.0	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*puliŋ	also *balik; *ileŋ	nan	('to turn', 'blag1240-tuntu', 'gogóleŋ')	nan		
-425.0	to dream	pmpacd	proto-MP-ACD 2	Austronesian		*h<um>ipi	*hepi 'dream'	nan	('to dream', 'lamm1241-westp', 'hippe')	nan		
-426.0	to crouch; to bend over	pmpacd	proto-MP-ACD 2	Austronesian		*duku	To crouch as on an Indonesian toilet, NOT: to kneel	nan	"('to crouch; to bend over', 'alor1247-besar', ""'tɔbɔ"")"	nan		
-426.0	to crouch; to bend over	pmpacd	proto-MP-ACD 2	Austronesian		*zuŋkuk	To crouch as on an Indonesian toilet, NOT: to kneel	nan	('to crouch; to bend over', 'alor1249-sar-a', 'sáʔ')	nan		
-428.0	to choose	pmpacd	proto-MP-ACD 2	Austronesian		*piliq	also *p<um>iliq	nan	('to choose', 'amar1273-kotos', 'n-beti')	nan		
-429.0	to grow	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>ubuq	nan	nan	"('to grow', 'abui1241-takal', ""he̞.buq.'dä"")"	nan		
-429.0	to grow	pmpacd	proto-MP-ACD 2	Austronesian		*tukul	nan	nan	('to grow', 'pmpacd', '*tukul')	nan		
-430.0	to squeeze	pmpacd	proto-MP-ACD 2	Austronesian		*Rames	nan	nan	('to squeeze', 'blag1240-bama', 'pemex')	nan		
-430.0	to squeeze	pmpacd	proto-MP-ACD 2	Austronesian		*kemes	nan	nan	('to squeeze', 'blag1240-bama', 'pemex')	nan		
-430.0	to squeeze	pmpacd	proto-MP-ACD 2	Austronesian		*mesmes	nan	nan	('to squeeze', 'blag1240-bama', 'pemex')	nan		
-431.0	to buy	pmpacd	proto-MP-ACD 2	Austronesian		*beli	*beli₂ 'value, price; marriage prestations, brideprice; purchase'; *saliw 'buy, sell' 	nan	('to buy', 'abui1241-fuime', 'bele')	nan		
-431.0	to buy	pmpacd	proto-MP-ACD 2	Austronesian		*saliw	*beli₂ 'value, price; marriage prestations, brideprice; purchase'; *saliw 'buy, sell' 	nan	('to buy', 'abui1241-fuime', 'bele')	nan		
-432.0	to sell	pmpacd	proto-MP-ACD 2	Austronesian		*baluk	nan	nan	('to sell', 'abui1241-fuime', 'balik')	nan		
-433.0	to steal	pmpacd	proto-MP-ACD 2	Austronesian		*nakaw	also *paŋ-takaw	nan	('to steal', 'abui1241-fuime', 'takau')	nan		
-433.0	to steal	pmpacd	proto-MP-ACD 2	Austronesian		*takaw	also *paŋ-takaw	nan	('to steal', 'abui1241-fuime', 'takau')	nan		
-434.0	to open	pmpacd	proto-MP-ACD 2	Austronesian		*bu(ŋ)kas	nan	nan	('to open', 'adon1237', 'ˈbuka')	nan		
-434.0	to open	pmpacd	proto-MP-ACD 2	Austronesian		*buka	nan	nan	('to open', 'adon1237', 'ˈbuka')	nan		
-434.0	to open	pmpacd	proto-MP-ACD 2	Austronesian		*su(ŋ)kab	nan	nan	('to open', 'pmpacd', '*su(ŋ)kab')	nan		
-435.0	to close	pmpacd	proto-MP-ACD 2	Austronesian		*qeneb	nan	nan	('to close', 'kama1365', 'kuh')	nan		
-435.0	to close	pmpacd	proto-MP-ACD 2	Austronesian		*ta(ŋ)kub	nan	nan	('to close', 'pmpacd', '*ta(ŋ)kub')	nan		
-436.0	to climb	pmpacd	proto-MP-ACD 2	Austronesian		*dakiS	nan	nan	"('to climb', 'alor1247-besar', ""'dafu"")"	nan		
-436.0	to climb	pmpacd	proto-MP-ACD 2	Austronesian		*panahik	nan	nan	('to climb', 'baka1276', 'pa')	nan		
-436.0	to climb	pmpacd	proto-MP-ACD 2	Austronesian		*sakay	nan	nan	('to climb', 'blag1240-bama', 'gua')	nan		
-437.0	to hide	pmpacd	proto-MP-ACD 2	Austronesian		*buni	nan	nan	('to hide', 'adan1251-otvai', 'tafuniŋ')	nan		
-438.0	to wait	pmpacd	proto-MP-ACD 2	Austronesian		*ma-naRah	nan	nan	('to wait', 'pmpacd', '*ma-naRah')	nan		
-439.0	to fold	pmpacd	proto-MP-ACD 2	Austronesian		*lipet	NOT: lipat tikar	nan	('to fold', 'adon1237', 'ˈlɜpɜt')	nan		
-439.0	to fold	pmpacd	proto-MP-ACD 2	Austronesian		*piluq	NOT: lipat tikar	nan	('to fold', 'abui1241-fuime', 'haluk')	nan		
-440.0	to help	pmpacd	proto-MP-ACD 2	Austronesian		*tabaŋ	nan	nan	"('to help', 'alor1247-besar', ""'kabɔŋ"")"	nan		
-440.0	to help	pmpacd	proto-MP-ACD 2	Austronesian		*tuluŋ	nan	nan	('to help', 'atim1239', 'netuluŋ')	nan		
-441.0	to bark	pmpacd	proto-MP-ACD 2	Austronesian		*q<um>aŋqaŋ	nan	nan	('to bark', 'pmpacd', '*q<um>aŋqaŋ')	nan		
-441.0	to bark	pmpacd	proto-MP-ACD 2	Austronesian		*qawqaw	nan	nan	('to bark', 'alor1249-sar-a', 'tógis')	nan		
-442.0	to shoot	pmpacd	proto-MP-ACD 2	Austronesian		*paleCuk	nan	nan	('to shoot', 'alor1249-sar-a', 'blap')	nan		
-444.0	to pound; to beat	pmpacd	proto-MP-ACD 2	Austronesian		*bayu	*bayu 'to pound rice'; *tumbuk 'punch, hit, pound'; *bukbuk 'hit, pound, beat'; also *butuk, *lambuk, *ra(m)buk, *tegteg, *tuktuk, 'knock, pound, beat'; *dabuk 'pound, beat', *pukpuk 'to hammer, pound, beat'	nan	('to pound; to beat', 'pmpacd', '*bayu')	nan		
-444.0	to pound; to beat	pmpacd	proto-MP-ACD 2	Austronesian		*bukbuk	*bayu 'to pound rice'; *tumbuk 'punch, hit, pound'; *bukbuk 'hit, pound, beat'; also *butuk, *lambuk, *ra(m)buk, *tegteg, *tuktuk, 'knock, pound, beat'; *dabuk 'pound, beat', *pukpuk 'to hammer, pound, beat'	nan	('to pound; to beat', 'baka1276', 'tunumuk')	nan		
-444.0	to pound; to beat	pmpacd	proto-MP-ACD 2	Austronesian		*tumbuk	*bayu 'to pound rice'; *tumbuk 'punch, hit, pound'; *bukbuk 'hit, pound, beat'; also *butuk, *lambuk, *ra(m)buk, *tegteg, *tuktuk, 'knock, pound, beat'; *dabuk 'pound, beat', *pukpuk 'to hammer, pound, beat'	nan	('to pound; to beat', 'baka1276', 'tunumuk')	nan		
-445.0	to hit (drum)	pmpacd	proto-MP-ACD 2	Austronesian		*pekpek	*pekpek 'beat, hit'	nan	('to hit (drum)', 'alor1249-sar-a', 'bah')	nan		
-446.0	to call out	pmpacd	proto-MP-ACD 2	Austronesian		*beŋit	nan	nan	('to call out', 'adan1251-otvai', 'beat')	nan		
-446.0	to call out	pmpacd	proto-MP-ACD 2	Austronesian		*iag	nan	nan	('to call out', 'pmpacd', '*iag')	nan		
-446.0	to call out	pmpacd	proto-MP-ACD 2	Austronesian		*iak	nan	nan	('to call out', 'pmpacd', '*iag')	nan		
-447.0	to lie (tell untruth)	pmpacd	proto-MP-ACD 2	Austronesian		*beliq	nan	nan	('to lie (tell untruth)', 'buna1278-suai', 'lohi')	nan		
-448.0	to ask (question)	pmpacd	proto-MP-ACD 2	Austronesian		*bajaq	also *utaña	nan	('to ask (question)', 'pmpacd', '*bajaq')	nan		
-448.0	to ask (question)	pmpacd	proto-MP-ACD 2	Austronesian		*kutaña	also *utaña	nan	('to ask (question)', 'abui1241-fuime', 'naatahaŋ')	nan		
-449.0	to count	pmpacd	proto-MP-ACD 2	Austronesian		*bilaŋ	nan	nan	('to count', 'pmpacd', '*bilaŋ')	nan		
-449.0	to count	pmpacd	proto-MP-ACD 2	Austronesian		*ihap	nan	nan	"('to count', 'idat1237', ""'wisa"")"	nan		
-450.0	one	pmpacd	proto-MP-ACD 2	Austronesian		*asa	nan	nan	('one', 'amar1273-kotos', 'meseʔ')	nan		
-450.0	one	pmpacd	proto-MP-ACD 2	Austronesian		*esa	nan	nan	('one', 'amar1273-kotos', 'meseʔ')	nan		
-450.0	one	pmpacd	proto-MP-ACD 2	Austronesian		*isa	nan	nan	('one', 'amar1273-kotos', 'meseʔ')	nan		
-451.0	two	pmpacd	proto-MP-ACD 2	Austronesian		*duha	nan	nan	"('two', 'alor1247-baran', ""'rua"")"	nan		
-452.0	three	pmpacd	proto-MP-ACD 2	Austronesian		*telu	nan	nan	('three', 'adan1251-otvai', 'tɔu')	nan		
-453.0	four	pmpacd	proto-MP-ACD 2	Austronesian		*epat	nan	nan	('four', 'abui1241-fuime', 'buti')	nan		
-454.0	five	pmpacd	proto-MP-ACD 2	Austronesian		*ima	nan	nan	('five', 'adon1237', 'ˈlema')	nan		
-454.0	five	pmpacd	proto-MP-ACD 2	Austronesian		*lima	nan	nan	('five', 'adon1237', 'ˈlema')	nan		
-455.0	six	pmpacd	proto-MP-ACD 2	Austronesian		*enem	nan	nan	('six', 'adon1237', 'ˈnamu')	nan		
-456.0	seven	pmpacd	proto-MP-ACD 2	Austronesian		*pitu	nan	nan	('seven', 'adan1251-lawah', 'wuitoʔ')	nan		
-457.0	eight	pmpacd	proto-MP-ACD 2	Austronesian		*walu	nan	nan	('eight', 'amar1273-kotos', 'fanu')	nan		
-458.0	nine	pmpacd	proto-MP-ACD 2	Austronesian		*siwa	nan	nan	('nine', 'adon1237', 'hiwa')	nan		
-459.0	ten	pmpacd	proto-MP-ACD 2	Austronesian		*sa-ŋa-puluq	*puluq 'group of ten'	nan	('ten', 'adon1237', 'puloː')	nan		
-475.0	thirty	pmpacd	proto-MP-ACD 2	Austronesian		*telu-ŋa-puluq	nan	nan	('thirty', 'pmpacd', '*telu-ŋa-puluq')	nan		
-477.0	fifty	pmpacd	proto-MP-ACD 2	Austronesian		*lima ŋa puluq	nan	nan	('fifty', 'pmpacd', '*lima_ŋa_puluq')	nan		
-478.0	sixty	pmpacd	proto-MP-ACD 2	Austronesian		*enem ŋa puluq	nan	nan	('sixty', 'pmpacd', '*enem_ŋa_puluq')	nan		
-479.0	seventy	pmpacd	proto-MP-ACD 2	Austronesian		*pitu ŋa puluq	nan	nan	('seventy', 'pmpacd', '*pitu_ŋa_puluq')	nan		
-480.0	eighty	pmpacd	proto-MP-ACD 2	Austronesian		*walu ŋa puluq	nan	nan	('eighty', 'adan1251-lawah', 'air_turloʔ')	nan		
-482.0	one hundred	pmpacd	proto-MP-ACD 2	Austronesian		*sa-ŋa-Ratus	nan	nan	('one hundred', 'amar1273-kotos', 'nautn=es')	nan		
-487.0	grandmother	pmpacd	proto-MP-ACD 2	Austronesian		*baqi	The kinship task also asks for this term	nan	('grandmother', 'pmpacd', '*baqi')	nan		
-488.0	grandfather	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-489.0	grandchild	pmpacd	proto-MP-ACD 2	Austronesian		*kempu	The kinship task also asks for this term	nan	('grandchild', 'amar1273-kotos', 'upu-f')	nan		
-489.0	grandchild	pmpacd	proto-MP-ACD 2	Austronesian		*maki-empu	The kinship task also asks for this term	nan	('grandchild', 'amar1273-kotos', 'upu-f')	nan		
-490.0	mother's brother	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-491.0	nephew; niece	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-492.0	older brother	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-493.0	older sister	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-494.0	sister	pmpacd	proto-MP-ACD 2	Austronesian			*betaw 'sister (man speaking)'; The kinship task also asks for this term	nan	nan	nan		
-495.0	woman's cross-cousin	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-496.0	woman's younger sister	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-497.0	younger brother	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-498.0	brother	pmpacd	proto-MP-ACD 2	Austronesian			*ñaRa 'brother (woman speaking)' ; The kinship task also asks for this term	nan	nan	nan		
-499.0	brother-in-law	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-500.0	cross-cousin	pmpacd	proto-MP-ACD 2	Austronesian			The kinship task also asks for this term	nan	nan	nan		
-501.0	father's sister	pmpacd	proto-MP-ACD 2	Austronesian		*aya	*aya 'father’s sister, father’s sister’s husband'; *ema(-ʔ) 'father's sister, possibly address term'; The kinship task also asks for this term	nan	"(""father's sister"", 'pmpacd', '*aya')"	nan		
-501.0	father's sister	pmpacd	proto-MP-ACD 2	Austronesian		*ema(-ʔ)	*aya 'father’s sister, father’s sister’s husband'; *ema(-ʔ) 'father's sister, possibly address term'; The kinship task also asks for this term	nan	"(""father's sister"", 'maka1316', 'baimatu')"	nan		
-502.0	ridge(pole); peak; tip	pmpacd	proto-MP-ACD 2	Austronesian			also *bubuŋ-an, *bubuŋ-en	nan	nan	nan		
-503.0	rack(above hearth/for storing food)	pmpacd	proto-MP-ACD 2	Austronesian			There may be two types, a high one (for e.g. storage) and a lower one; if so, elicit both.	nan	nan	nan		
-504.0	broom; sweep	pmpacd	proto-MP-ACD 2	Austronesian		*sapu	nan	nan	('broom; sweep', 'adan1251-otvai', 'parin')	nan		
-505.0	ground for ritual activities and public meetings	pmpacd	proto-MP-ACD 2	Austronesian			The cultural features questionnaire also asks for this term.	nan	nan	nan		
-506.0	mound of stones for ritual activities	pmpacd	proto-MP-ACD 2	Austronesian			The cultural features questionnaire also asks for this term.	nan	nan	nan		
-508.0	floor	pmpacd	proto-MP-ACD 2	Austronesian		*saleR	nan	nan	('floor', 'adan1251-otvai', 'lantai')	nan		
-509.0	wall	pmpacd	proto-MP-ACD 2	Austronesian		*diŋdiŋ	nan	nan	('wall', 'pmpacd', '*diŋdiŋ')	nan		
-516.0	to weave	pmpacd	proto-MP-ACD 2	Austronesian		*tenun	also *t<um>enun	nan	"('to weave', 'abui1241-takal', ""ti.'ne̞i"")"	nan		
-516.0	to weave	pmpacd	proto-MP-ACD 2	Austronesian		*tinun	also *t<um>enun	nan	"('to weave', 'abui1241-takal', ""ti.'ne̞i"")"	nan		
-518.0	necklace	pmpacd	proto-MP-ACD 2	Austronesian			*quNuq 'beads, necklace of beads'	nan	nan	nan		
-522.0	loom	pmpacd	proto-MP-ACD 2	Austronesian		*tenun-an	Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)	nan	('loom', 'lama1278', 'təˈnaneʔ')	nan		
-532.0	priest (modern)	pmpacd	proto-MP-ACD 2	Austronesian			*datu 'lineage priest (?)'	nan	nan	nan		
-540.0	treaty	pmpacd	proto-MP-ACD 2	Austronesian			E.g. perjanjian antara dua suku untuk tidak berperang	nan	nan	nan		
-543.0	enemy	pmpacd	proto-MP-ACD 2	Austronesian		*busuR	nan	nan	('enemy', 'amar1273-kotos', 'musu')	nan		
-545.0	stranger	pmpacd	proto-MP-ACD 2	Austronesian		*puqun nu laŋit	*puqun nu laŋit 'horizon (lit. ‘foundation/beginning of the sky’); stranger, foreigner'	nan	('stranger', 'pmpacd', '*puqun_nu_laŋit')	nan		
-550.0	accuse	pmpacd	proto-MP-ACD 2	Austronesian		*pa(ka)-salaq	nan	nan	"('accuse', 'alor1247-besar', ""'hala"")"	nan		
-554.0	the adultery	pmpacd	proto-MP-ACD 2	Austronesian			Jika seseorang yg sudah menikah atau belum menikah berhubungan badan dengan orang yg bukan isteri/suaminya.	nan	nan	nan		
-556.0	fishnet	pmpacd	proto-MP-ACD 2	Austronesian		*lawan	*lawan 'kind of long fishnet'	nan	('fishnet', 'abui1241-takal', 'dälã')	nan		
-564.0	price	pmpacd	proto-MP-ACD 2	Austronesian		*beli	*beli 'value, price; marriage prestations, brideprice; purchase'; *bili 'value, price'	nan	"('price', 'abui1241-takal', ""he̞.'be̞l"")"	nan		
-564.0	price	pmpacd	proto-MP-ACD 2	Austronesian		*bili	*beli 'value, price; marriage prestations, brideprice; purchase'; *bili 'value, price'	nan	"('price', 'abui1241-takal', ""he̞.'be̞l"")"	nan		
-566.0	to borrow	pmpacd	proto-MP-ACD 2	Austronesian		*hezam	*hezam 'borrow, lend'	nan	"('to borrow', 'maka1316', ""isi'dane"")"	nan		
-570.0	to grasp	pmpacd	proto-MP-ACD 2	Austronesian		*cekep	nan	nan	('to grasp', 'pmpacd', '*cekep')	nan		
-570.0	to grasp	pmpacd	proto-MP-ACD 2	Austronesian		*gemel	nan	nan	('to grasp', 'pmpacd', '*gemel')	nan		
-570.0	to grasp	pmpacd	proto-MP-ACD 2	Austronesian		*mesmes	nan	nan	('to grasp', 'pmpacd', '*mesmes')	nan		
-573.0	word	pmpacd	proto-MP-ACD 2	Austronesian		*kaRi	*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'; *liŋ 'word, speech' 	nan	('word', 'pmpacd', '*kaRi')	nan		
-573.0	word	pmpacd	proto-MP-ACD 2	Austronesian		*liŋ	*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'; *liŋ 'word, speech' 	nan	('word', 'adan1251-otvai', 'mateiŋ')	nan		
-573.0	word	pmpacd	proto-MP-ACD 2	Austronesian		*sau	*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'; *liŋ 'word, speech' 	nan	('word', 'pmpacd', '*sau')	nan		
-574.0	to answer	pmpacd	proto-MP-ACD 2	Austronesian		*saRut	nan	nan	('to answer', 'pmpacd', '*saRut')	nan		
-577.0	to be silent	pmpacd	proto-MP-ACD 2	Austronesian		*sendem	*sendem 'brood, think, be silent'	nan	('to be silent', 'kula1280-lanto', 'lakda')	nan		
-578.0	to tell	pmpacd	proto-MP-ACD 2	Austronesian		*bajaq	*bajaq 'tell, inform; ask, inquire'	nan	('to tell', 'pmpacd', '*bajaq')	nan		
-580.0	to teach	pmpacd	proto-MP-ACD 2	Austronesian		*tuzuq-i	*tuzuq-i 'to point, indicate; teach, instruct'	nan	('to teach', 'adan1251-otvai', 'sakolapuin')	nan		
-582.0	difficult	pmpacd	proto-MP-ACD 2	Austronesian		*beReqat	*beReqat 'weight, heaviness, weightiness; difficult; pregnant'	nan	"('difficult', 'abui1241-takal', ""'be̞ä.qä"")"	nan		
-583.0	finished	pmpacd	proto-MP-ACD 2	Austronesian		*qeti	nan	nan	('finished', 'kama1365', 'sika')	nan		
-583.0	finished	pmpacd	proto-MP-ACD 2	Austronesian		*qubus	nan	nan	('finished', 'amar1273-kotos', 'na-sopu')	nan		
-583.0	finished	pmpacd	proto-MP-ACD 2	Austronesian		*upus	nan	nan	('finished', 'amar1273-kotos', 'na-sopu')	nan		
-588.0	flower (in e.g. mangga tree)	pmpacd	proto-MP-ACD 2	Austronesian		*buŋaŋ	nan	nan	('flower (in e.g. mangga tree)', 'adon1237', 'ˈpuhũ')	nan		
-589.0	vein	pmpacd	proto-MP-ACD 2	Austronesian		*uRat	nan	nan	('vein', 'pmpacd', '*uRat')	nan		
-590.0	long (stick)	pmpacd	proto-MP-ACD 2	Austronesian		*anaduq	nan	nan	('long (stick)', 'amar1273-kotos', 'mnanuʔ')	nan		
-591.0	tall (person)	pmpacd	proto-MP-ACD 2	Austronesian		*atas	nan	nan	('tall (person)', 'pmpacd', '*atas')	nan		
-591.0	tall (person)	pmpacd	proto-MP-ACD 2	Austronesian		*laŋkaw	nan	nan	('tall (person)', 'adan1251-lawah', 'lawen')	nan		
-592.0	short (stick)	pmpacd	proto-MP-ACD 2	Austronesian		*babaq	*babaq 'lower surface, bottom; short, low; below, beneath, under'	nan	('short (stick)', 'amar1273-kotos', 'paraʔ')	nan		
-593.0	narrow (road)	pmpacd	proto-MP-ACD 2	Austronesian		*gipit	also *kipit; Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	nan	('narrow (road)', 'adan1251-otvai', 'kapuh')	nan		
-593.0	narrow (road)	pmpacd	proto-MP-ACD 2	Austronesian		*iput	also *kipit; Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	nan	('narrow (road)', 'adan1251-otvai', 'kapuh')	nan		
-593.0	narrow (road)	pmpacd	proto-MP-ACD 2	Austronesian		*kiput	also *kipit; Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	nan	('narrow (road)', 'adan1251-otvai', 'kapuh')	nan		
-598.0	to chase away; to expel	pmpacd	proto-MP-ACD 2	Austronesian		*buRaw	nan	nan	('to chase away; to expel', 'alor1249-sar-a', 'buráh')	nan		
+0	sky	pmpacd	proto-MP-ACD 2	Austronesian		*laŋit	nan	nan	"('sky', 'alor1247-munas', ""'laŋi"")"	nan		
+1	sun	pmpacd	proto-MP-ACD 2	Austronesian		*mata nu qalejaw	*mata nu qalejaw 'sun ('eye of the day')'	nan	"('sun', 'p-mala1545-acd', '*mata_nu_qalejaw')"	nan		
+2	moon	pmpacd	proto-MP-ACD 2	Austronesian		*bulan	nan	nan	"('moon', 'adon1237', 'ˈwulɑ̃')"	nan		
+3	star	pmpacd	proto-MP-ACD 2	Austronesian		*bituqen	"*talaq, *mantalaq 'the morning (evening) star: Venus'"	nan	"('star', 'lama1277-imulo', 'tonar')"	nan		
+3	star	pmpacd	proto-MP-ACD 2	Austronesian		*mantalaq	"*talaq, *mantalaq 'the morning (evening) star: Venus'"	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
+3	star	pmpacd	proto-MP-ACD 2	Austronesian		*talaq	"*talaq, *mantalaq 'the morning (evening) star: Venus'"	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
+4	night	pmpacd	proto-MP-ACD 2	Austronesian		*beRŋi	"*halem 'night, dark'"	nan	"('night', 'adan1251-otvai', 'panaʔ')"	nan		
+4	night	pmpacd	proto-MP-ACD 2	Austronesian		*halem	"*halem 'night, dark'"	nan	"('night', 'p-mala1545-acd', '*halem')"	nan		
+5	day	pmpacd	proto-MP-ACD 2	Austronesian		*daqaNi	*waRi 'day; sun; dry in the sun'; also *qajaw	nan	"('day', 'p-aust1307-acd', '*daqaNi')"	nan		
+5	day	pmpacd	proto-MP-ACD 2	Austronesian		*qalejaw	*waRi 'day; sun; dry in the sun'; also *qajaw	nan	"('day', 'p-aust1307-abvd', '*qalejaw')"	nan		
+5	day	pmpacd	proto-MP-ACD 2	Austronesian		*waRi	*waRi 'day; sun; dry in the sun'; also *qajaw	nan	"('day', 'p-aust1307-acd', '*daqaNi')"	nan		
+6	year	pmpacd	proto-MP-ACD 2	Austronesian		*taqun	"*taqun 'year, season'"	nan	"('year', 'abui1241-petle', 'tuŋ')"	nan		
+8	yesterday	pmpacd	proto-MP-ACD 2	Austronesian		*neRab	nan	nan	"('yesterday', 'p-mala1545-acd', '*neRab')"	nan		
+8	yesterday	pmpacd	proto-MP-ACD 2	Austronesian		*ñeRab	nan	nan	"('yesterday', 'p-mala1545-acd', '*neRab')"	nan		
+12	twilight; dawn	pmpacd	proto-MP-ACD 2	Austronesian		*hulem	"*hulem 'dimness, twilight'"	nan	"('twilight; dawn', 'adan1251-lawah', 'lalami')"	nan		
+12	twilight; dawn	pmpacd	proto-MP-ACD 2	Austronesian		*zawa	"*hulem 'dimness, twilight'"	nan	"('twilight; dawn', 'p-mala1545-acd', '*zawa')"	nan		
+14	wind	pmpacd	proto-MP-ACD 2	Austronesian		*haŋin	nan	nan	"('wind', 'adon1237', 'ˈʔaŋĩ')"	nan		
+15	rain	pmpacd	proto-MP-ACD 2	Austronesian		*quzan	nan	nan	"('rain', 'adon1237', 'ˈʔurɑŋ')"	nan		
+18	thunder	pmpacd	proto-MP-ACD 2	Austronesian		*deRdeR	bunyinya	nan	"('thunder', 'blag1240-warsa', 'ildumu')"	nan		
+19	lightning	pmpacd	proto-MP-ACD 2	Austronesian		*kilat	"kilatan, cahaya"	nan	"('lightning', 'pmpacd', '*kilat')"	nan		
+20	earthquake	pmpacd	proto-MP-ACD 2	Austronesian		*linduR	nan	nan	"('earthquake', 'pmpacd', '*linduR')"	nan		
+20	earthquake	pmpacd	proto-MP-ACD 2	Austronesian		*linuR	nan	nan	"('earthquake', 'pmpacd', '*linduR')"	nan		
+21	fog	pmpacd	proto-MP-ACD 2	Austronesian		*kabut	"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari"	nan	"('fog', 'alor1247-munas', ""sə'pu"")"	nan		
+22	river; stream	pmpacd	proto-MP-ACD 2	Austronesian		*sapaq	"*wahiR ‘fresh water; stream, river’"	nan	"('river; stream', 'keda1252-leuwa', 'u̘bεʔ')"	nan		
+22	river; stream	pmpacd	proto-MP-ACD 2	Austronesian		*wahiR	"*wahiR ‘fresh water; stream, river’"	nan	"('river; stream', 'lama1277-botun', 'wai_maʔã')"	nan		
+25	lake	pmpacd	proto-MP-ACD 2	Austronesian		*banaw	nan	nan	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
+25	lake	pmpacd	proto-MP-ACD 2	Austronesian		*danaw	nan	nan	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
+26	mountain	pmpacd	proto-MP-ACD 2	Austronesian		*qilih	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan		
+27	hill; ridge	pmpacd	proto-MP-ACD 2	Austronesian		*buntu	"small hill, knoll"	nan	"('hill; ridge', 'abui1241-fuime', 'buku')"	nan		
+27	hill; ridge	pmpacd	proto-MP-ACD 2	Austronesian		*buntud	"small hill, knoll"	nan	"('hill; ridge', 'abui1241-fuime', 'buku')"	nan		
+27	hill; ridge	pmpacd	proto-MP-ACD 2	Austronesian		*buntul	"small hill, knoll"	nan	"('hill; ridge', 'abui1241-fuime', 'buku')"	nan		
+29	land; soil	pmpacd	proto-MP-ACD 2	Austronesian		*taneq	"*taneq 'earth, soil, land'"	nan	"('land; soil', 'abui1241-fuime', 'anei')"	nan		
+30	Earth	pmpacd	proto-MP-ACD 2	Austronesian		*buRtaq	nan	nan	"('Earth', 'kula1280-lanto', 'atəkw')"	nan		
+31	hole	pmpacd	proto-MP-ACD 2	Austronesian		*buhaŋ	nan	nan	"('hole', 'alor1247-besar', ""'faŋɡɔ"")"	nan		
+31	hole	pmpacd	proto-MP-ACD 2	Austronesian		*lubaŋ	nan	nan	"('hole', 'alor1247-besar', ""'faŋɡɔ"")"	nan		
+32	stone	pmpacd	proto-MP-ACD 2	Austronesian		*batu	nan	nan	"('stone', 'adon1237', ""'watɔ"")"	nan		
+33	coral (rock)	pmpacd	proto-MP-ACD 2	Austronesian		*karaŋ	"*karaŋ ‘coral, limestone’ ; batu (rock) di pantai"	nan	"('coral (rock)', 'alor1247-pandai', ""'aŋgɛ"")"	nan		
+35	water (fresh)	pmpacd	proto-MP-ACD 2	Austronesian		*wahiR	"*wahiR 'fresh water; stream, river'"	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
+36	sea; sea water	pmpacd	proto-MP-ACD 2	Austronesian		*tasik	"*tasik 'sea, saltwater'"	nan	"('sea; sea water', 'abui1241-fuime', 'tama')"	nan		
+37	wave	pmpacd	proto-MP-ACD 2	Austronesian		*qalun	"*qalun 'long rolling wave, swell, billow'"	nan	"('wave', 'blag1240-warsa', 'kalaxal')"	nan		
+38	foam	pmpacd	proto-MP-ACD 2	Austronesian		*budaq	"*buseq 'foam, bubbles'; *busa 'foam, suds'"	nan	"('foam', 'buna1278-bobon', 'pɔ:')"	nan		
+38	foam	pmpacd	proto-MP-ACD 2	Austronesian		*busa	"*buseq 'foam, bubbles'; *busa 'foam, suds'"	nan	"('foam', 'buna1278-bobon', 'pɔ:')"	nan		
+38	foam	pmpacd	proto-MP-ACD 2	Austronesian		*buseq	"*buseq 'foam, bubbles'; *busa 'foam, suds'"	nan	"('foam', 'buna1278-bobon', 'pɔ:')"	nan		
+39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*halas	"*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'"	nan	"('forest', 'pmpacd', '*halas')"	nan		
+39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*talun	"*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'"	nan	"('forest', 'atim1239', 'atiŋ')"	nan		
+39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*tuqan	"*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'"	nan	"('forest', 'atim1239', 'atiŋ')"	nan		
+41	island	pmpacd	proto-MP-ACD 2	Austronesian		*nusa	*nusa 'island'	nan	"('island', 'alor1247-besar', ""nu'ha"")"	nan		
+43	garden	pmpacd	proto-MP-ACD 2	Austronesian		*q<in>uma	"*q<in>uma 'cultivated field, garden'"	nan	"('garden', 'keda1252', ""'lumɑr"")"	nan		
+44	fence	pmpacd	proto-MP-ACD 2	Austronesian		*pager	*pager 'enclosure; palisade around a village; fence around a planted tree or cultivated field'	nan	"('fence', 'p-mala1545-acd', '*pager')"	nan		
+45	road; path; way	pmpacd	proto-MP-ACD 2	Austronesian		*zalan	nan	nan	"('road; path; way', 'adon1237', ""'rarã"")"	nan		
+46	canoe	pmpacd	proto-MP-ACD 2	Austronesian		*qabaŋ	nan	nan	"('canoe', 'amar1273-kotos', 'kofaʔ')"	nan		
+47	sail (n.)	pmpacd	proto-MP-ACD 2	Austronesian		*layaR	nan	nan	"('sail (n.)', 'abui1241-petle', 'lol')"	nan		
+51	rope	pmpacd	proto-MP-ACD 2	Austronesian		*talih	nan	nan	"('rope', 'abui1241-fuime', 'tila')"	nan		
+53	axe	pmpacd	proto-MP-ACD 2	Austronesian		*kiRam	nan	nan	"('axe', 'pmpacd', '*kiRam')"	nan		
+54	spear	pmpacd	proto-MP-ACD 2	Austronesian		*gayaŋ	"*saet ‘spear, to spear’ *gayaŋ ’hunting spear‘"	nan	"('spear', 'amar1273-kotos', 'aunu')"	nan		
+54	spear	pmpacd	proto-MP-ACD 2	Austronesian		*saet	"*saet ‘spear, to spear’ *gayaŋ ’hunting spear‘"	nan	"('spear', 'pmpacd', '*saet')"	nan		
+56	stick; pole	pmpacd	proto-MP-ACD 2	Austronesian		*sukud	"*sukud 'walking stick, cane, staff' "	nan	"('stick; pole', 'kira1248', 'skera')"	nan		
+57	digging stick	pmpacd	proto-MP-ACD 2	Austronesian		*suqan	nan	nan	"('digging stick', 'pmpacd', '*suqan')"	nan		
+59	bow	pmpacd	proto-MP-ACD 2	Austronesian		*busuR	nan	nan	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		
+60	arrow	pmpacd	proto-MP-ACD 2	Austronesian		*anak i panaq	nan	nan	"('arrow', 'pmpacd', '*anak_i_panaq')"	nan		
+62	comb	pmpacd	proto-MP-ACD 2	Austronesian		*saRu	nan	nan	"('comb', 'amar1273-kotos', 'soʔit')"	nan		
+62	comb	pmpacd	proto-MP-ACD 2	Austronesian		*saut	nan	nan	"('comb', 'amar1273-kotos', 'soʔit')"	nan		
+63	mat	pmpacd	proto-MP-ACD 2	Austronesian		*depen	nan	nan	"('mat', 'alor1247-baran', ""sa'fae"")"	nan		
+63	mat	pmpacd	proto-MP-ACD 2	Austronesian		*hikam	nan	nan	"('mat', 'adon1237', 'ˈʔɔhãː')"	nan		
+63	mat	pmpacd	proto-MP-ACD 2	Austronesian		*lamak	nan	nan	"('mat', 'kabo1247', 'bloni')"	nan		
+63	mat	pmpacd	proto-MP-ACD 2	Austronesian		*tepiR	nan	nan	"('mat', 'kabo1247', 'bloni')"	nan		
+64	needle	pmpacd	proto-MP-ACD 2	Austronesian		*zaRum	nan	nan	"('needle', 'pmpacd', '*zaRum')"	nan		
+65	clothing	pmpacd	proto-MP-ACD 2	Austronesian		*kabal	nan	nan	"('clothing', 'alor1247-besar', ""pa'kiãŋ"")"	nan		
+67	fire	pmpacd	proto-MP-ACD 2	Austronesian		*hapuy	nan	nan	"('fire', 'adon1237', 'ˈʔape')"	nan		
+68	smoke	pmpacd	proto-MP-ACD 2	Austronesian		*qaseb	nan	nan	"('smoke', 'adon1237', 'ˈnuhũ')"	nan		
+68	smoke	pmpacd	proto-MP-ACD 2	Austronesian		*qasu	nan	nan	"('smoke', 'adon1237', 'ˈnuhũ')"	nan		
+68	smoke	pmpacd	proto-MP-ACD 2	Austronesian		*qebel	nan	nan	"('smoke', 'keda1252', ""'rubu"")"	nan		
+70	dust; fine earth	pmpacd	proto-MP-ACD 2	Austronesian		*bulbul	"*bulbul. *ebuk 'dust, powder'; *habuk 'powdery substance, dust'; *bulbul 'dust, pulverized stone'; *qabuk 'dust, sawdust '"	nan	"('dust; fine earth', 'keda1252', 'ewol')"	nan		
+70	dust; fine earth	pmpacd	proto-MP-ACD 2	Austronesian		*ebuk	"*bulbul. *ebuk 'dust, powder'; *habuk 'powdery substance, dust'; *bulbul 'dust, pulverized stone'; *qabuk 'dust, sawdust '"	nan	"('dust; fine earth', 'alor1247-baran', ""a'fo:"")"	nan		
+70	dust; fine earth	pmpacd	proto-MP-ACD 2	Austronesian		*habuk	"*bulbul. *ebuk 'dust, powder'; *habuk 'powdery substance, dust'; *bulbul 'dust, pulverized stone'; *qabuk 'dust, sawdust '"	nan	"('dust; fine earth', 'alor1247-baran', ""a'fo:"")"	nan		
+70	dust; fine earth	pmpacd	proto-MP-ACD 2	Austronesian		*qabuk	"*bulbul. *ebuk 'dust, powder'; *habuk 'powdery substance, dust'; *bulbul 'dust, pulverized stone'; *qabuk 'dust, sawdust '"	nan	"('dust; fine earth', 'alor1247-baran', ""a'fo:"")"	nan		
+71	fireplace ash	pmpacd	proto-MP-ACD 2	Austronesian		*abus	"NOT 'debu' (dust, after you have been sweeping)"	nan	"('fireplace ash', 'adon1237', 'kɜˈʔawuk')"	nan		
+71	fireplace ash	pmpacd	proto-MP-ACD 2	Austronesian		*qabu	"NOT 'debu' (dust, after you have been sweeping)"	nan	"('fireplace ash', 'adon1237', 'kɜˈʔawuk')"	nan		
+72	mud	pmpacd	proto-MP-ACD 2	Austronesian		*pitak	nan	nan	"('mud', 'abui1241-takal', ""pä.'däq"")"	nan		
+72	mud	pmpacd	proto-MP-ACD 2	Austronesian		*pitek	nan	nan	"('mud', 'abui1241-takal', ""pä.'däq"")"	nan		
+73	clay	pmpacd	proto-MP-ACD 2	Austronesian		*daReq	"*daReq ‘soil, probably clay’"	nan	"('clay', 'pmpacd', '*daReq')"	nan		
+73	clay	pmpacd	proto-MP-ACD 2	Austronesian		*taneq pulut	"*daReq ‘soil, probably clay’"	nan	"('clay', 'pmpacd', '*daReq')"	nan		
+74	gravel	pmpacd	proto-MP-ACD 2	Austronesian		*anak i batu	"*badas 'grit, coarse sand, gravel'; *anak i batu 'small stones, gravel'"	nan	"('gravel', 'pmpacd', '*anak_i_batu')"	nan		
+74	gravel	pmpacd	proto-MP-ACD 2	Austronesian		*badas	"*badas 'grit, coarse sand, gravel'; *anak i batu 'small stones, gravel'"	nan	"('gravel', 'pmpacd', '*badas')"	nan		
+75	sand	pmpacd	proto-MP-ACD 2	Austronesian		*qenay	nan	nan	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	nan		
+76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*dukut	nan	nan	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	nan		
+76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*udu	nan	nan	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	nan		
+76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*zukut	nan	nan	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	nan		
+77	house	pmpacd	proto-MP-ACD 2	Austronesian		*Rumaq	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		
+81	door	pmpacd	proto-MP-ACD 2	Austronesian		*kataman	nan	nan	"('door', 'kira1248', 'damat')"	nan		
+81	door	pmpacd	proto-MP-ACD 2	Austronesian		*qiNeb	nan	nan	"('door', 'pmpacd', '*qiNeb')"	nan		
+82	(thatch) roof	pmpacd	proto-MP-ACD 2	Austronesian		*qatep	nan	nan	"('(thatch) roof', 'pmpacd', '*qatep')"	nan		
+84	tree	pmpacd	proto-MP-ACD 2	Austronesian		*kahiw	nan	nan	"('tree', 'adon1237', 'ˈkajo')"	nan		
+85	wood	pmpacd	proto-MP-ACD 2	Austronesian		*kahiw	nan	nan	"('wood', 'alor1247-besar', ""'kaʤɔ"")"	nan		
+88	branch	pmpacd	proto-MP-ACD 2	Austronesian		*daqan	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
+88	branch	pmpacd	proto-MP-ACD 2	Austronesian		*daŋkaq	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
+88	branch	pmpacd	proto-MP-ACD 2	Austronesian		*daŋkeq	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	nan		
+89	firewood	pmpacd	proto-MP-ACD 2	Austronesian		*luten	nan	nan	"('firewood', 'pmpacd', '*luten')"	nan		
+90	rattan	pmpacd	proto-MP-ACD 2	Austronesian		*quay	"*quay 'rattan, Calamus sp.'"	nan	"('rattan', 'pmpacd', '*quay')"	nan		
+91	root	pmpacd	proto-MP-ACD 2	Austronesian		*akaR	nan	nan	"('root', 'kaer1234', ""a'ki"")"	nan		
+91	root	pmpacd	proto-MP-ACD 2	Austronesian		*wakaR	nan	nan	"('root', 'kaer1234', ""a'ki"")"	nan		
+92	fruit	pmpacd	proto-MP-ACD 2	Austronesian		*buaq	nan	nan	"('fruit', 'pmpacd', '*buaq')"	nan		
+96	husked rice; uncooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*beRas	nan	nan	"('husked rice; uncooked rice', 'adon1237', 'ˈwahaʔ')"	nan		
+97	rice grains (unhusked) (raw from field)	pmpacd	proto-MP-ACD 2	Austronesian		*binehiq	"*binehiq 'seed rice, rice set aside for the next planting'"	nan	"('rice grains (unhusked) (raw from field)', 'pmpacd', '*binehiq')"	nan		
+98	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*hemay	*kaen-en 'be eaten by someone; cooked rice'	nan	"('cooked rice', 'kelo1247-bring', 'ərɑkmɑi')"	nan		
+98	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*kaen-en	*kaen-en 'be eaten by someone; cooked rice'	nan	"('cooked rice', 'pmpacd', '*kaen-en')"	nan		
+99	rice plant	pmpacd	proto-MP-ACD 2	Austronesian		*pajay	nan	nan	"('rice plant', 'alor1247-besar', ""'pari"")"	nan		
+100	to plant (yam)	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>anem	nan	nan	"('to plant (yam)', 'p-cent2245-abvd', '*tanəm')"	nan		
+100	to plant (yam)	pmpacd	proto-MP-ACD 2	Austronesian		*tanem	nan	nan	"('to plant (yam)', 'p-cent2245-abvd', '*tanəm')"	nan		
+101	to plant (rice)	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>anem	*tanem 'grave; to bury; to plant' 	nan	"('to plant (rice)', 'pmpacd', '*t<um>anem')"	nan		
+101	to plant (rice)	pmpacd	proto-MP-ACD 2	Austronesian		*tanem	*tanem 'grave; to bury; to plant' 	nan	"('to plant (rice)', 'pmpacd', '*t<um>anem')"	nan		
+104	lime	pmpacd	proto-MP-ACD 2	Austronesian		*kapuR	nan	nan	"('lime', 'adon1237', 'ˈʔapuʔ')"	nan		
+104	lime	pmpacd	proto-MP-ACD 2	Austronesian		*qapuR	nan	nan	"('lime', 'adon1237', 'ˈʔapuʔ')"	nan		
+105	chew betel	pmpacd	proto-MP-ACD 2	Austronesian		*apuR	*apuR 'betel chew'	nan	"('chew betel', 'pmpacd', '*apuR')"	nan		
+108	taro	pmpacd	proto-MP-ACD 2	Austronesian		*tales	nan	nan	"('taro', 'buna1278-bobon', 'balɔ')"	nan		
+110	millet	pmpacd	proto-MP-ACD 2	Austronesian		*batad	*batad 'millet or sorghum sp. (unident.)'; *zawa  millet sp.: Setaria italica (?)	nan	"('millet', 'keda1252', ""wɛ'rɛʔ"")"	nan		
+110	millet	pmpacd	proto-MP-ACD 2	Austronesian		*zawa	*batad 'millet or sorghum sp. (unident.)'; *zawa  millet sp.: Setaria italica (?)	nan	"('millet', 'pmpacd', '*zawa')"	nan		
+111	sugarcane	pmpacd	proto-MP-ACD 2	Austronesian		*tebuh	nan	nan	"('sugarcane', 'adon1237', 'ˈtɜwɔ')"	nan		
+114	coconut	pmpacd	proto-MP-ACD 2	Austronesian		*niuR	nan	nan	"('coconut', 'amar1273-kotos', 'noah')"	nan		
+121	banana	pmpacd	proto-MP-ACD 2	Austronesian		*punti	nan	nan	"('banana', 'pmpacd', '*punti')"	nan		
+122	mango	pmpacd	proto-MP-ACD 2	Austronesian		*wai	nan	nan	"('mango', 'alor1249-sar-a', 'wow_‘domestic_mango’,_biyat_‘wild_mango’')"	nan		
+125	breadfruit	pmpacd	proto-MP-ACD 2	Austronesian		*kuluR	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		
+125	breadfruit	pmpacd	proto-MP-ACD 2	Austronesian		*sukun	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		
+126	bean	pmpacd	proto-MP-ACD 2	Austronesian		*buay	nan	nan	"('bean', 'pmpacd', '*buay')"	nan		
+128	milk	pmpacd	proto-MP-ACD 2	Austronesian		*Rataq	not 'breast'	nan	"('milk', 'abui1241-fuime', 'tike')"	nan		
+129	salt	pmpacd	proto-MP-ACD 2	Austronesian		*qasiRa	nan	nan	"('salt', 'adan1251-otvai', 'hahei')"	nan		
+129	salt	pmpacd	proto-MP-ACD 2	Austronesian		*timus	nan	nan	"('salt', 'adon1237', 'ˈsiʔa')"	nan		
+130	fat	pmpacd	proto-MP-ACD 2	Austronesian		*himaR	nan	nan	"('fat', 'abui1241-fuime', 'hetamada')"	nan		
+130	fat	pmpacd	proto-MP-ACD 2	Austronesian		*meñak	nan	nan	"('fat', 'kema1243', 'mina')"	nan		
+130	fat	pmpacd	proto-MP-ACD 2	Austronesian		*miñak	nan	nan	"('fat', 'kema1243', 'mina')"	nan		
+131	flesh; meat	pmpacd	proto-MP-ACD 2	Austronesian		*hesi	nan	nan	"('flesh; meat', 'pmpacd', '*hesi')"	nan		
+133	rib	pmpacd	proto-MP-ACD 2	Austronesian		*Rusuk	nan	nan	"('rib', 'cent2245-hewa', 'korok')"	nan		
+134	sweat	pmpacd	proto-MP-ACD 2	Austronesian		*atiŋ	nan	nan	"('sweat', 'abui1241-fuime', 'tamuriŋ')"	nan		
+134	sweat	pmpacd	proto-MP-ACD 2	Austronesian		*qatiŋ	nan	nan	"('sweat', 'abui1241-fuime', 'tamuriŋ')"	nan		
+135	tear	pmpacd	proto-MP-ACD 2	Austronesian		*luheq	nan	nan	"('tear', 'adon1237', 'ˈlõː')"	nan		
+136	blood	pmpacd	proto-MP-ACD 2	Austronesian		*daRaq	nan	nan	"('blood', 'alor1247-baran', ""'ra:"")"	nan		
+138	heart	pmpacd	proto-MP-ACD 2	Austronesian		*pusuŋ	nan	nan	"('heart', 'adon1237', 'ˈpuho')"	nan		
+139	liver	pmpacd	proto-MP-ACD 2	Austronesian		*qatay	nan	nan	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	nan		
+140	kidney	pmpacd	proto-MP-ACD 2	Austronesian		*batu	nan	nan	"('kidney', 'pmpacd', '*batu')"	nan		
+142	excrement	pmpacd	proto-MP-ACD 2	Austronesian		*taqay	nan	nan	"('excrement', 'adon1237', 'tae')"	nan		
+142	excrement	pmpacd	proto-MP-ACD 2	Austronesian		*taqi	nan	nan	"('excrement', 'adon1237', 'tae')"	nan		
+143	lungs	pmpacd	proto-MP-ACD 2	Austronesian		*baRaq	nan	nan	"('lungs', 'kama1365', 'fusaː')"	nan		
+144	stomach; belly	pmpacd	proto-MP-ACD 2	Austronesian		*bituka	nan	nan	"('stomach; belly', 'abui1241-fuime', 'tatok_foko')"	nan		
+145	head	pmpacd	proto-MP-ACD 2	Austronesian		*qulu	nan	nan	"('head', 'adan1251-lawah', 'loŋ')"	nan		
+146	hair	pmpacd	proto-MP-ACD 2	Austronesian		*buhek	nan	nan	"('hair', 'pmpacd', '*buhek')"	nan		
+147	body hair	pmpacd	proto-MP-ACD 2	Austronesian		*bulu	nan	nan	"('body hair', 'alor1247-besar', ""fu'lukuŋ"")"	nan		
+148	eye	pmpacd	proto-MP-ACD 2	Austronesian		*mata	nan	nan	"('eye', 'adon1237', 'matak3t')"	nan		
+149	ear	pmpacd	proto-MP-ACD 2	Austronesian		*taliŋa	nan	nan	"('ear', 'adon1237', 'ˈtiluˈk3t')"	nan		
+149	ear	pmpacd	proto-MP-ACD 2	Austronesian		*taŋila	nan	nan	"('ear', 'adon1237', 'ˈtiluˈk3t')"	nan		
+150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ijuŋ	nan	nan	"('nose', 'adon1237', 'ˈiruˈn3t')"	nan		
+150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ujuŋ	nan	nan	"('nose', 'adon1237', 'ˈiruˈn3t')"	nan		
+150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ŋijuŋ	nan	nan	"('nose', 'adon1237', 'ˈiruˈn3t')"	nan		
+151	mouth	pmpacd	proto-MP-ACD 2	Austronesian		*bahaq	nan	nan	"('mouth', 'p-cent2245-abvd', '*babaq')"	nan		
+151	mouth	pmpacd	proto-MP-ACD 2	Austronesian		*beqbeq	nan	nan	"('mouth', 'p-cent2245-abvd', '*babaq')"	nan		
+152	chin	pmpacd	proto-MP-ACD 2	Austronesian		*qazay	nan	nan	"('chin', 'maka1316', 'zelau')"	nan		
+152	chin	pmpacd	proto-MP-ACD 2	Austronesian		*timid	nan	nan	"('chin', 'alor1247-besar', ""'bamɛŋ"")"	nan		
+153	lips	pmpacd	proto-MP-ACD 2	Austronesian		*bibiR	*bibiR 'lower lip'	nan	"('lips', 'adan1251-otvai', 'amiŋtapo')"	nan		
+155	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*dilaq	nan	nan	"('tongue', 'pmpacd', '*dilaq')"	nan		
+155	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*hema	nan	nan	"('tongue', 'amar1273-kotos', 'maa-f')"	nan		
+155	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*zelaq	nan	nan	"('tongue', 'pmpacd', '*dilaq')"	nan		
+156	neck	pmpacd	proto-MP-ACD 2	Austronesian		*liqeR	nan	nan	"('neck', 'adan1251-otvai', 'dɔrɔ')"	nan		
+157	shoulder	pmpacd	proto-MP-ACD 2	Austronesian		*qabaRa	nan	nan	"('shoulder', 'abui1241-fuime', 'tabaŋ')"	nan		
+159	forehead	pmpacd	proto-MP-ACD 2	Austronesian		*daqih	nan	nan	"('forehead', 'adon1237', 'kɜˈniːtoˈkɜt')"	nan		
+161	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*idus	nan	nan	"('mucus', 'pmpacd', '*idus')"	nan		
+161	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*piŋ(e)qut	nan	nan	"('mucus', 'amar1273-kotos', 'pinu')"	nan		
+161	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*piŋus	nan	nan	"('mucus', 'amar1273-kotos', 'pinu')"	nan		
+161	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*ŋuhuR	nan	nan	"('mucus', 'amar1273-kotos', 'pinu')"	nan		
+162	cheek	pmpacd	proto-MP-ACD 2	Austronesian		*pipi	nan	nan	"('cheek', 'adon1237', 'ˈpipiˈkɜt')"	nan		
+162	cheek	pmpacd	proto-MP-ACD 2	Austronesian		*piŋi	nan	nan	"('cheek', 'adon1237', 'ˈpipiˈkɜt')"	nan		
+163	arm	pmpacd	proto-MP-ACD 2	Austronesian		*baRa	"*baRa 'hand, arm' "	nan	"('arm', 'pmpacd', '*baRa')"	nan		
+164	hand	pmpacd	proto-MP-ACD 2	Austronesian		*baRa	nan	nan	"('hand', 'pmpacd', '*baRa')"	nan		
+164	hand	pmpacd	proto-MP-ACD 2	Austronesian		*kamay	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
+164	hand	pmpacd	proto-MP-ACD 2	Austronesian		*qalima	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
+165	palm of hand	pmpacd	proto-MP-ACD 2	Austronesian		*palaj	nan	nan	"('palm of hand', 'pmpacd', '*palaj')"	nan		
+166	finger	pmpacd	proto-MP-ACD 2	Austronesian		*taŋan	nan	nan	"('finger', 'pmpacd', '*taŋan')"	nan		
+167	fingernail	pmpacd	proto-MP-ACD 2	Austronesian		*k<an>uhkuh	nan	nan	"('fingernail', 'adon1237', 'kɜˈmukurɜt')"	nan		
+167	fingernail	pmpacd	proto-MP-ACD 2	Austronesian		*kuhkuh	nan	nan	"('fingernail', 'adon1237', 'kɜˈmukurɜt')"	nan		
+168	breast	pmpacd	proto-MP-ACD 2	Austronesian		*nunuh	nan	nan	"('breast', 'pmpacd', '*nunuh')"	nan		
+168	breast	pmpacd	proto-MP-ACD 2	Austronesian		*susu	nan	nan	"('breast', 'pmpacd', '*susu')"	nan		
+169	chest	pmpacd	proto-MP-ACD 2	Austronesian		*daSdaS	nan	nan	"('chest', 'adan1251-otvai', 'adel')"	nan		
+169	chest	pmpacd	proto-MP-ACD 2	Austronesian		*debdeb	nan	nan	"('chest', 'pmpacd', '*debdeb')"	nan		
+170	navel	pmpacd	proto-MP-ACD 2	Austronesian		*pusej	nan	nan	"('navel', 'abui1241-fuime', 'tabike')"	nan		
+171	penis	pmpacd	proto-MP-ACD 2	Austronesian		*qutin	"Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip."	nan	"('penis', 'abui1241-takal', ""tä.'tɔ"")"	nan		
+172	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*betiq	"Kemaluan perempuan, same as above."	nan	"('vagina', 'alor1247-munas', ""'utiʔ"")"	nan		
+172	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*puki	"Kemaluan perempuan, same as above."	nan	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	nan		
+172	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*tila	"Kemaluan perempuan, same as above."	nan	"('vagina', 'alor1247-munas', ""'utiʔ"")"	nan		
+173	testicles	pmpacd	proto-MP-ACD 2	Austronesian		*laseR	*laseR 'scrotum and testicles'	nan	"('testicles', 'adon1237', 'ˈlahak')"	nan		
+174	leg	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	nan	"('leg', 'buna1278-bobon', 'giri')"	nan		
+174	leg	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	nan	"('leg', 'buna1278-bobon', 'giri')"	nan		
+175	foot	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	nan	"('foot', 'p-mala1545-abvd', '*qaqay')"	nan		
+175	foot	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	nan	"('foot', 'p-mala1545-abvd', '*qaqay')"	nan		
+176	heel of foot	pmpacd	proto-MP-ACD 2	Austronesian		*tiked	nan	nan	"('heel of foot', 'amar1273-kotos', 'tika-f')"	nan		
+177	sole of foot	pmpacd	proto-MP-ACD 2	Austronesian		*dapan	nan	nan	"('sole of foot', 'pmpacd', '*dapan')"	nan		
+177	sole of foot	pmpacd	proto-MP-ACD 2	Austronesian		*palaj	nan	nan	"('sole of foot', 'kula1280-lanto', 'ŋeləta')"	nan		
+178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*qaleb	nan	nan	"('knee', 'pmpacd', '*qaleb')"	nan		
+178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*qulu tuhud	nan	nan	"('knee', 'pmpacd', '*qulu_tuhud')"	nan		
+178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*tuhud	nan	nan	"('knee', 'pmpacd', '*qulu_tuhud')"	nan		
+179	back	pmpacd	proto-MP-ACD 2	Austronesian		*buRit	nan	nan	"('back', 'lama1277-baipi', 'hurut')"	nan		
+179	back	pmpacd	proto-MP-ACD 2	Austronesian		*burit	nan	nan	"('back', 'lama1277-baipi', 'hurut')"	nan		
+179	back	pmpacd	proto-MP-ACD 2	Austronesian		*likud	nan	nan	"('back', 'alor1247-baran', ""'ʔalɛŋ"")"	nan		
+181	waist	pmpacd	proto-MP-ACD 2	Austronesian		*hawak	nan	nan	"('waist', 'lamm1241-westp', '-sakkang')"	nan		
+182	skin	pmpacd	proto-MP-ACD 2	Austronesian		*kulit	nan	nan	"('skin', 'abui1241-takal', 'te̞̞:.qul')"	nan		
+183	sore; wound	pmpacd	proto-MP-ACD 2	Austronesian		*nuka	nan	nan	"('sore; wound', 'alor1247-besar', ""'uka"")"	nan		
+184	ringworm	pmpacd	proto-MP-ACD 2	Austronesian		*buqeni	*buqeni 'ringworm: Tinea imbricata' 	nan	"('ringworm', 'pmpacd', '*buqeni')"	nan		
+184	ringworm	pmpacd	proto-MP-ACD 2	Austronesian		*kurap	*buqeni 'ringworm: Tinea imbricata' 	nan	"('ringworm', 'pmpacd', '*kurap')"	nan		
+185	scabies	pmpacd	proto-MP-ACD 2	Austronesian		*kudis	nan	nan	"('scabies', 'abui1241-fuime', 'kafisiŋ')"	nan		
+185	scabies	pmpacd	proto-MP-ACD 2	Austronesian		*kuris	nan	nan	"('scabies', 'abui1241-fuime', 'kafisiŋ')"	nan		
+186	tinea	pmpacd	proto-MP-ACD 2	Austronesian		*panaw	nan	nan	"('tinea', 'adon1237', 'mɜˈnaɔ')"	nan		
+190	person	pmpacd	proto-MP-ACD 2	Austronesian		*tau	"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'"	nan	"('person', 'adon1237', 'ˈʔata')"	nan		
+190	person	pmpacd	proto-MP-ACD 2	Austronesian		*tau-mata	"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'"	nan	"('person', 'adon1237', 'ˈʔata')"	nan		
+191	name	pmpacd	proto-MP-ACD 2	Austronesian		*ajan	nan	nan	"('name', 'adon1237', 'ˈnarã')"	nan		
+192	child	pmpacd	proto-MP-ACD 2	Austronesian		*anak	nan	nan	"('child', 'alor1247-besar', ""'anaŋ"")"	nan		
+193	man	pmpacd	proto-MP-ACD 2	Austronesian		*laki	nan	nan	"('man', 'adon1237', 'ˈʔama_lake')"	nan		
+194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-b<in>ahi	nan	nan	"('woman', 'alor1247-baran', ""ka'fae"")"	nan		
+194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-bahi	nan	nan	"('woman', 'alor1247-baran', ""ka'fae"")"	nan		
+194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	nan	nan	"('woman', 'alor1247-baran', ""ka'fae"")"	nan		
+195	husband	pmpacd	proto-MP-ACD 2	Austronesian		*banah	nan	nan	"('husband', 'abui1241-takal', 'te̞̞.ne̞äŋ')"	nan		
+196	wife	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	"*bahi 'female, woman, wife; female of animals'; Not 'married woman'."	nan	"('wife', 'alor1247-baran', ""ka'fae"")"	nan		
+197	mother	pmpacd	proto-MP-ACD 2	Austronesian		*ina	"also *iná-I, *iná-ŋ, *iná-q, *ra-ina"	nan	"('mother', 'abui1241-fuime', 'nija')"	nan		
+198	father	pmpacd	proto-MP-ACD 2	Austronesian		*aba	"also *da-ama, *t-ama "	nan	"('father', 'lama1277-baipi', 'bapaʔ')"	nan		
+198	father	pmpacd	proto-MP-ACD 2	Austronesian		*ama	"also *da-ama, *t-ama "	nan	"('father', 'abui1241-fuime', 'mama')"	nan		
+198	father	pmpacd	proto-MP-ACD 2	Austronesian		*baba	"also *da-ama, *t-ama "	nan	"('father', 'lama1277-baipi', 'bapaʔ')"	nan		
+199	older sibling	pmpacd	proto-MP-ACD 2	Austronesian		*kaka	"*kaka, *teka 'elder sibling of the same sex'"	nan	"('older sibling', 'adon1237', 'kaka')"	nan		
+199	older sibling	pmpacd	proto-MP-ACD 2	Austronesian		*teka	"*kaka, *teka 'elder sibling of the same sex'"	nan	"('older sibling', 'adon1237', 'kaka')"	nan		
+200	younger sibling	pmpacd	proto-MP-ACD 2	Austronesian		*huaji	*huaji 'younger sibling of the same sex; younger parallel cousin of the same sex'	nan	"('younger sibling', 'adon1237', 'ˈʔarim')"	nan		
+201	bride price	pmpacd	proto-MP-ACD 2	Austronesian		*beli	nan	nan	"('bride price', 'abui1241-fuime', 'he-bel')"	nan		
+202	slave	pmpacd	proto-MP-ACD 2	Austronesian		*anak i qaRta	nan	nan	"('slave', 'nede1245', ""wa'an_gititi"")"	nan		
+203	1sg	pmpacd	proto-MP-ACD 2	Austronesian		*aku	*aku '1sg nominative; I'	nan	"('1sg', 'adon1237', 'ˈɡoʔɛ')"	nan		
+204	2sg (informal)	pmpacd	proto-MP-ACD 2	Austronesian		*huʔu	"also *i-kahu, *iu"	nan	"('2sg (informal)', 'cent2245-hewa', 'ʔau')"	nan		
+204	2sg (informal)	pmpacd	proto-MP-ACD 2	Austronesian		*ka	"also *i-kahu, *iu"	nan	"('2sg (informal)', 'cent2245-hewa', 'ʔau')"	nan		
+204	2sg (informal)	pmpacd	proto-MP-ACD 2	Austronesian		*kahu	"also *i-kahu, *iu"	nan	"('2sg (informal)', 'cent2245-hewa', 'ʔau')"	nan		
+206	3sg	pmpacd	proto-MP-ACD 2	Austronesian		*ia	nan	nan	"('3sg', 'p-aust1307-abvd', '*si-ia')"	nan		
+206	3sg	pmpacd	proto-MP-ACD 2	Austronesian		*si ia	nan	nan	"('3sg', 'p-aust1307-abvd', '*si-ia')"	nan		
+207	1pl excl	pmpacd	proto-MP-ACD 2	Austronesian		*i-ami	nan	nan	"('1pl excl', 'alor1247-besar', ""'kame"")"	nan		
+207	1pl excl	pmpacd	proto-MP-ACD 2	Austronesian		*k-ami	nan	nan	"('1pl excl', 'alor1247-besar', ""'kame"")"	nan		
+207	1pl excl	pmpacd	proto-MP-ACD 2	Austronesian		*kam-ami	nan	nan	"('1pl excl', 'alor1247-besar', ""'kame"")"	nan		
+208	1pl incl	pmpacd	proto-MP-ACD 2	Austronesian		*kita	nan	nan	"('1pl incl', 'alor1247-besar', ""'ite"")"	nan		
+209	2pl	pmpacd	proto-MP-ACD 2	Austronesian		*amu	nan	nan	"('2pl', 'adon1237', 'ˈmio')"	nan		
+209	2pl	pmpacd	proto-MP-ACD 2	Austronesian		*kamu	nan	nan	"('2pl', 'adon1237', 'ˈmio')"	nan		
+210	3pl	pmpacd	proto-MP-ACD 2	Austronesian		*ida	nan	nan	"('3pl', 'adan1251-otvai', 'supi')"	nan		
+210	3pl	pmpacd	proto-MP-ACD 2	Austronesian		*si ida	nan	nan	"('3pl', 'adan1251-otvai', 'supi')"	nan		
+211	no; not	pmpacd	proto-MP-ACD 2	Austronesian		*adi	"*adi 'no, not'; *dian 'no, not'; *ta₁ 'negative marker: no, not'; Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan')."	nan	"('no; not', 'keda1252', 'tɔn')"	nan		
+211	no; not	pmpacd	proto-MP-ACD 2	Austronesian		*dian	"*adi 'no, not'; *dian 'no, not'; *ta₁ 'negative marker: no, not'; Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan')."	nan	"('no; not', 'keda1252', 'tɔn')"	nan		
+211	no; not	pmpacd	proto-MP-ACD 2	Austronesian		*ta	"*adi 'no, not'; *dian 'no, not'; *ta₁ 'negative marker: no, not'; Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan')."	nan	"('no; not', 'keda1252', 'tɔn')"	nan		
+212	and	pmpacd	proto-MP-ACD 2	Austronesian		*a	"also *maS, *na"	nan	"('and', 'lama1277-kalik', 'ko')"	nan		
+212	and	pmpacd	proto-MP-ACD 2	Austronesian		*ka	"also *maS, *na"	nan	"('and', 'lama1277-kalik', 'ko')"	nan		
+212	and	pmpacd	proto-MP-ACD 2	Austronesian		*mai	"also *maS, *na"	nan	"('and', 'amar1273-kotos', 'ma')"	nan		
+213	because	pmpacd	proto-MP-ACD 2	Austronesian		*ba	"*ba 'conjunction: or, if; perhaps; because'"	nan	"('because', 'adon1237', 'ˈpukɜ')"	nan		
+214	if	pmpacd	proto-MP-ACD 2	Austronesian		*ka	nan	nan	"('if', 'alor1247-baran', ""'kalau"")"	nan		
+214	if	pmpacd	proto-MP-ACD 2	Austronesian		*nu	nan	nan	"('if', 'cent2245-hewa', 'ganupa')"	nan		
+215	with	pmpacd	proto-MP-ACD 2	Austronesian		*deŋan	nan	nan	"('with', 'adon1237', 'ˈtaliʔ')"	nan		
+216	what?	pmpacd	proto-MP-ACD 2	Austronesian		*apa	nan	nan	"('what?', 'alor1247-baran', 'pei')"	nan		
+217	who?	pmpacd	proto-MP-ACD 2	Austronesian		*sai	"also *i-sai, *i-sei"	nan	"('who?', 'alor1247-besar', ""'fiaru"")"	nan		
+217	who?	pmpacd	proto-MP-ACD 2	Austronesian		*sei	"also *i-sai, *i-sei"	nan	"('who?', 'alor1247-besar', ""'fiaru"")"	nan		
+217	who?	pmpacd	proto-MP-ACD 2	Austronesian		*si-ima	"also *i-sai, *i-sei"	nan	"('who?', 'alor1247-besar', ""'fiaru"")"	nan		
+218	where?	pmpacd	proto-MP-ACD 2	Austronesian		*inu	nan	nan	"('where?', 'pmpacd', '*inu')"	nan		
+218	where?	pmpacd	proto-MP-ACD 2	Austronesian		*pai	nan	nan	"('where?', 'cent2245-hewa', 'upa')"	nan		
+219	when?	pmpacd	proto-MP-ACD 2	Austronesian		*ijan	"also *ŋa-ijan, *p-ijan"	nan	"('when?', 'alor1247-baran', ""ɛrpɛ'hɛlɛ"")"	nan		
+219	when?	pmpacd	proto-MP-ACD 2	Austronesian		*ka-nu	"also *ŋa-ijan, *p-ijan"	nan	"('when?', 'pmpacd', '*ka-nu')"	nan		
+221	how much; how many?	pmpacd	proto-MP-ACD 2	Austronesian		*pija	nan	nan	"('how much; how many?', 'adon1237', 'ˈpira')"	nan		
+222	how?	pmpacd	proto-MP-ACD 2	Austronesian		*kua	nan	nan	"('how?', 'p-aust1307-abvd', '*kuja')"	nan		
+222	how?	pmpacd	proto-MP-ACD 2	Austronesian		*kuja	nan	nan	"('how?', 'p-aust1307-abvd', '*kuja')"	nan		
+222	how?	pmpacd	proto-MP-ACD 2	Austronesian		*lauŋ	nan	nan	"('how?', 'pmpacd', '*lauŋ')"	nan		
+223	this	pmpacd	proto-MP-ACD 2	Austronesian		*i-ni	"also *ia-ni, *qani, *si ia"	nan	"('this', 'adon1237', 'ˈnhiː')"	nan		
+223	this	pmpacd	proto-MP-ACD 2	Austronesian		*ia	"also *ia-ni, *qani, *si ia"	nan	"('this', 'amar1273-kotos', '=i')"	nan		
+223	this	pmpacd	proto-MP-ACD 2	Austronesian		*ieq	"also *ia-ni, *qani, *si ia"	nan	"('this', 'amar1273-kotos', '=i')"	nan		
+224	that	pmpacd	proto-MP-ACD 2	Austronesian		*i-di	"*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di"	nan	"('that', 'alor1247-baran', "",ka'te"")"	nan		
+224	that	pmpacd	proto-MP-ACD 2	Austronesian		*i-na	"*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di"	nan	"('that', 'amar1273-kotos', '=an')"	nan		
+224	that	pmpacd	proto-MP-ACD 2	Austronesian		*ia	"*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di"	nan	"('that', 'amar1273-kotos', 'ee')"	nan		
+225	at	pmpacd	proto-MP-ACD 2	Austronesian		*ba	"*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan."	nan	"('at', 'amar1273-kotos', 'n-bi')"	nan		
+225	at	pmpacd	proto-MP-ACD 2	Austronesian		*di	"*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan."	nan	"('at', 'kaer1234', 'ta')"	nan		
+226	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	nan	"('in; inside', 'keda1252', 'bɛʔ')"	nan		
+226	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*lem	nan	nan	"('in; inside', 'lamm1241-westp', 'kulla')"	nan		
+227	here	pmpacd	proto-MP-ACD 2	Austronesian		*i-ni	"also *qani, *si ia, *di-ni"	nan	"('here', 'amar1273-kotos', 'ia')"	nan		
+227	here	pmpacd	proto-MP-ACD 2	Austronesian		*ia	"also *qani, *si ia, *di-ni"	nan	"('here', 'amar1273-kotos', 'ia')"	nan		
+227	here	pmpacd	proto-MP-ACD 2	Austronesian		*ia-ni	"also *qani, *si ia, *di-ni"	nan	"('here', 'amar1273-kotos', 'ia')"	nan		
+228	there	pmpacd	proto-MP-ACD 2	Austronesian		*i-di	"also *a-di, *si ia"	nan	"('there', 'cent2245-hewa', 'ia')"	nan		
+228	there	pmpacd	proto-MP-ACD 2	Austronesian		*i-na	"also *a-di, *si ia"	nan	"('there', 'cent2245-hewa', 'ia')"	nan		
+228	there	pmpacd	proto-MP-ACD 2	Austronesian		*ia	"also *a-di, *si ia"	nan	"('there', 'cent2245-hewa', 'ia')"	nan		
+229	above	pmpacd	proto-MP-ACD 2	Austronesian		*babaw	"also *bawbaw, *I babaw"	nan	"('above', 'amar1273-kotos', 'fafo-n')"	nan		
+229	above	pmpacd	proto-MP-ACD 2	Austronesian		*i-atas	"also *bawbaw, *I babaw"	nan	"('above', 'amar1273-kotos', 'ata')"	nan		
+230	below	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	nan	"('below', 'amar1273-kotos', 'pina-n')"	nan		
+230	below	pmpacd	proto-MP-ACD 2	Austronesian		*dalem	nan	nan	"('below', 'pmpacd', '*dalem')"	nan		
+230	below	pmpacd	proto-MP-ACD 2	Austronesian		*i dalem	nan	nan	"('below', 'pmpacd', '*dalem')"	nan		
+231	left (side)	pmpacd	proto-MP-ACD 2	Austronesian		*ka-wiRi	nan	nan	"('left (side)', 'adan1251-otvai', 'fiʔiŋ')"	nan		
+231	left (side)	pmpacd	proto-MP-ACD 2	Austronesian		*wiRi	nan	nan	"('left (side)', 'adan1251-otvai', 'fiʔiŋ')"	nan		
+232	right (side)	pmpacd	proto-MP-ACD 2	Austronesian		*ka-taqu	nan	nan	"('right (side)', 'abui1241-fuime', 'teikaŋ')"	nan		
+232	right (side)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-taqu	nan	nan	"('right (side)', 'abui1241-fuime', 'teikaŋ')"	nan		
+232	right (side)	pmpacd	proto-MP-ACD 2	Austronesian		*taqu	nan	nan	"('right (side)', 'abui1241-fuime', 'teikaŋ')"	nan		
+233	a few	pmpacd	proto-MP-ACD 2	Austronesian		*dikit	nan	nan	"('a few', 'kelo1247-hopte', 'kənit_a:k')"	nan		
+233	a few	pmpacd	proto-MP-ACD 2	Austronesian		*emit	nan	nan	"('a few', 'kelo1247-hopte', 'kənit_a:k')"	nan		
+233	a few	pmpacd	proto-MP-ACD 2	Austronesian		*pija	nan	nan	"('a few', 'pmpacd', '*pija')"	nan		
+233	a few	pmpacd	proto-MP-ACD 2	Austronesian		*qitik	nan	nan	"('a few', 'pmpacd', '*pija')"	nan		
+234	all	pmpacd	proto-MP-ACD 2	Austronesian		*qemin	nan	nan	"('all', 'alor1247-besar', ""pu'namuŋ"")"	nan		
+235	many	pmpacd	proto-MP-ACD 2	Austronesian		*hadu	nan	nan	"('many', 'pmpacd', '*hadu')"	nan		
+238	dog	pmpacd	proto-MP-ACD 2	Austronesian		*asu	nan	nan	"('dog', 'adon1237', 'ˈʔaho')"	nan		
+239	pig	pmpacd	proto-MP-ACD 2	Austronesian		*babuy	nan	nan	"('pig', 'pmpacd', '*babuy')"	nan		
+240	chicken	pmpacd	proto-MP-ACD 2	Austronesian		*manuk	nan	nan	"('chicken', 'alor1247-besar', ""'manu"")"	nan		
+241	rat	pmpacd	proto-MP-ACD 2	Austronesian		*balabaw	nan	nan	"('rat', 'amar1273-kotos', 'knafo')"	nan		
+241	rat	pmpacd	proto-MP-ACD 2	Austronesian		*labaw	nan	nan	"('rat', 'amar1273-kotos', 'knafo')"	nan		
+242	lizard	pmpacd	proto-MP-ACD 2	Austronesian		*bulilik	"*tektek 'gecko, house lizard (onom.)'; *bulilik 'lizard sp.' "	nan	"('lizard', 'pmpacd', '*bulilik')"	nan		
+242	lizard	pmpacd	proto-MP-ACD 2	Austronesian		*tektek	"*tektek 'gecko, house lizard (onom.)'; *bulilik 'lizard sp.' "	nan	"('lizard', 'abui1241-fuime', 'tekok')"	nan		
+244	deer	pmpacd	proto-MP-ACD 2	Austronesian			"*saladeŋ 'male deer, buck (?)'"	nan	nan	nan		
+247	flying fox; fruit bat	pmpacd	proto-MP-ACD 2	Austronesian		*paniki	nan	nan	"('flying fox; fruit bat', 'cent2245-hewa', 'niʔi')"	nan		
+249	tail	pmpacd	proto-MP-ACD 2	Austronesian		*ikuR	nan	nan	"('tail', 'adon1237', 'ˈʔikʔũ')"	nan		
+249	tail	pmpacd	proto-MP-ACD 2	Austronesian		*ikuŋ	nan	nan	"('tail', 'adon1237', 'ˈʔikʔũ')"	nan		
+249	tail	pmpacd	proto-MP-ACD 2	Austronesian		*kikuR	nan	nan	"('tail', 'adon1237', 'ˈʔikʔũ')"	nan		
+250	fish	pmpacd	proto-MP-ACD 2	Austronesian		*hikan	nan	nan	"('fish', 'adon1237', 'ˈʔikã')"	nan		
+251	shark	pmpacd	proto-MP-ACD 2	Austronesian		*qiSu	nan	nan	"('shark', 'adon1237', 'ˈhio')"	nan		
+254	crocodile	pmpacd	proto-MP-ACD 2	Austronesian		*buqaya	nan	nan	"('crocodile', 'abui1241-fuime', 'fahai')"	nan		
+256	starfish	pmpacd	proto-MP-ACD 2	Austronesian		*saŋa-saŋa	nan	nan	"('starfish', 'pmpacd', '*saŋa-saŋa')"	nan		
+257	turtle	pmpacd	proto-MP-ACD 2	Austronesian		*peñu	'the green turtle'	nan	"('turtle', 'pmpacd', '*peñu')"	nan		
+257	turtle	pmpacd	proto-MP-ACD 2	Austronesian		*qaCipa 	'turtle sp.'	nan	"('turtle', 'pmpacd', '*peñu')"	nan		
+259	bird	pmpacd	proto-MP-ACD 2	Austronesian		*manu(k)-manuk	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	nan		
+259	bird	pmpacd	proto-MP-ACD 2	Austronesian		*qayam	nan	nan	"('bird', 'abui1241-takal', ""'ku.jä"")"	nan		
+260	wing	pmpacd	proto-MP-ACD 2	Austronesian		*panid	nan	nan	"('wing', 'kama1365', '-paʔta')"	nan		
+260	wing	pmpacd	proto-MP-ACD 2	Austronesian		*panij	nan	nan	"('wing', 'kama1365', '-paʔta')"	nan		
+260	wing	pmpacd	proto-MP-ACD 2	Austronesian		*qelad	nan	nan	"('wing', 'alor1249-sar-a', 'gataʔar')"	nan		
+261	claw	pmpacd	proto-MP-ACD 2	Austronesian		*kuhkuh	nan	nan	"('claw', 'fata1247', ""ia'kɛlɛs"")"	nan		
+262	feather	pmpacd	proto-MP-ACD 2	Austronesian		*bulu	nan	nan	"('feather', 'pmpacd', '*bulu')"	nan		
+264	snake	pmpacd	proto-MP-ACD 2	Austronesian		*hulaR	nan	nan	"('snake', 'adon1237', 'ˈʔulaʔ')"	nan		
+264	snake	pmpacd	proto-MP-ACD 2	Austronesian		*nipay	nan	nan	"('snake', 'pmpacd', '*nipay')"	nan		
+266	egg	pmpacd	proto-MP-ACD 2	Austronesian		*qateluR	nan	nan	"('egg', 'adan1251-otvai', 'dɔ')"	nan		
+266	egg	pmpacd	proto-MP-ACD 2	Austronesian		*qiteluR	nan	nan	"('egg', 'adan1251-otvai', 'dɔ')"	nan		
+267	earthworm	pmpacd	proto-MP-ACD 2	Austronesian		*bulati	"*bulati 'roundworm, ascaris, intestinal worm; also earthworm?'"	nan	"('earthworm', 'adan1251-otvai', 'kadile')"	nan		
+267	earthworm	pmpacd	proto-MP-ACD 2	Austronesian		*wati	"*bulati 'roundworm, ascaris, intestinal worm; also earthworm?'"	nan	"('earthworm', 'adan1251-otvai', 'kadile')"	nan		
+268	butterfly	pmpacd	proto-MP-ACD 2	Austronesian		*baŋbaŋ	nan	nan	"('butterfly', 'adan1251-lawah', 'popou')"	nan		
+268	butterfly	pmpacd	proto-MP-ACD 2	Austronesian		*beŋbeŋ	nan	nan	"('butterfly', 'adan1251-lawah', 'popou')"	nan		
+269	fly (n.)	pmpacd	proto-MP-ACD 2	Austronesian			"*beRŋaw 'bluebottle, large fly'"	nan	nan	nan		
+270	mosquito	pmpacd	proto-MP-ACD 2	Austronesian		*lamuk	nan	nan	"('mosquito', 'keda1252', ""mɛ'miʔ"")"	nan		
+270	mosquito	pmpacd	proto-MP-ACD 2	Austronesian		*ñamuk	nan	nan	"('mosquito', 'keda1252', ""mɛ'miʔ"")"	nan		
+271	ant	pmpacd	proto-MP-ACD 2	Austronesian			*me(n)tik 'ant sp. with venomous bite'	nan	nan	nan		
+272	grasshopper	pmpacd	proto-MP-ACD 2	Austronesian		*batik	nan	nan	"('grasshopper', 'kama1365', 'be')"	nan		
+274	spider	pmpacd	proto-MP-ACD 2	Austronesian		*ka-lawaq	nan	nan	"('spider', 'kelo1247-hopte', 'nəwak')"	nan		
+274	spider	pmpacd	proto-MP-ACD 2	Austronesian		*lawaq	nan	nan	"('spider', 'kelo1247-hopte', 'nəwak')"	nan		
+275	headlice	pmpacd	proto-MP-ACD 2	Austronesian		*kutu	nan	nan	"('headlice', 'adon1237', 'ˈkutɔ')"	nan		
+276	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*leseq	nan	nan	"('louse eggs', 'adon1237', 'kɜˈlɛhɛ̃')"	nan		
+276	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*lisehaq	nan	nan	"('louse eggs', 'adon1237', 'kɜˈlɛhɛ̃')"	nan		
+276	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*liseqah	nan	nan	"('louse eggs', 'adon1237', 'kɜˈlɛhɛ̃')"	nan		
+278	flea	pmpacd	proto-MP-ACD 2	Austronesian		*qatimela	nan	nan	"('flea', 'alor1247-munas', ""mə'rːɛ"")"	nan		
+279	louse (clothing)	pmpacd	proto-MP-ACD 2	Austronesian		*tumah	nan	nan	"('louse (clothing)', 'adan1251-otvai', 'tameʔ')"	nan		
+281	big	pmpacd	proto-MP-ACD 2	Austronesian		*Raya	nan	nan	"('big', 'lamm1241-westp', 'ara')"	nan		
+282	small	pmpacd	proto-MP-ACD 2	Austronesian		*bitiq	nan	nan	"('small', 'abui1241-fuime', 'kdiŋ')"	nan		
+282	small	pmpacd	proto-MP-ACD 2	Austronesian		*kedi	*kedi 'small in size or amount'	nan	"('small', 'abui1241-fuime', 'kdiŋ')"	nan		
+282	small	pmpacd	proto-MP-ACD 2	Austronesian		*kikit	nan	nan	"('small', 'abui1241-fuime', 'kdiŋ')"	nan		
+282	small	pmpacd	proto-MP-ACD 2	Austronesian		*qitik 	"*qitik 'small, little; few'"	nan	"('small', 'abui1241-fuime', 'kdiŋ')"	nan		
+283	old; worn (house)	pmpacd	proto-MP-ACD 2	Austronesian		*dadan	nan	nan	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	nan		
+283	old; worn (house)	pmpacd	proto-MP-ACD 2	Austronesian		*daqaN	nan	nan	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	nan		
+283	old; worn (house)	pmpacd	proto-MP-ACD 2	Austronesian		*lama	nan	nan	"('old; worn (house)', 'pmpacd', '*lama')"	nan		
+284	new (house)	pmpacd	proto-MP-ACD 2	Austronesian		*baqeRu	nan	nan	"('new (house)', 'p-aust1307-abvd', '*ma-baqeʀu')"	nan		
+285	old (people)	pmpacd	proto-MP-ACD 2	Austronesian		*Rudaŋ	nan	nan	"('old (people)', 'abui1241-fuime', 'kalejeita')"	nan		
+285	old (people)	pmpacd	proto-MP-ACD 2	Austronesian		*tuqah	nan	nan	"('old (people)', 'adon1237', 'tɜˈnuʔe')"	nan		
+286	young (people)	pmpacd	proto-MP-ACD 2	Austronesian		*muda	*muda 'young (of fruits); immature; light (of colors)'	nan	"('young (people)', 'amar1273-kotos', 'munif')"	nan		
+288	hot	pmpacd	proto-MP-ACD 2	Austronesian		*panas	nan	nan	"('hot', 'adan1251-lawah', 'buniʔ')"	nan		
+289	cold	pmpacd	proto-MP-ACD 2	Austronesian		*giŋgiŋ	"*giŋgiŋ 'cold, shivering'; *ramig 'cold (of weather)'"	nan	"('cold', 'amar1273-kotos', 'mainikin')"	nan		
+289	cold	pmpacd	proto-MP-ACD 2	Austronesian		*ramig	"*giŋgiŋ 'cold, shivering'; *ramig 'cold (of weather)'"	nan	"('cold', 'buna1278-bobon', 'huruk')"	nan		
+290	good	pmpacd	proto-MP-ACD 2	Austronesian		*diqaq	nan	nan	"('good', 'alor1247-baran', ""'dik:ɛ"")"	nan		
+291	bad	pmpacd	proto-MP-ACD 2	Austronesian		*buRuk	*buRuk 'rotten meat; addled eggs; bad character'	nan	"('bad', 'abui1241-fuime', 'beaka')"	nan		
+291	bad	pmpacd	proto-MP-ACD 2	Austronesian		*zaqat	*buRuk 'rotten meat; addled eggs; bad character'	nan	"('bad', 'pmpacd', '*zaqat')"	nan		
+292	full	pmpacd	proto-MP-ACD 2	Austronesian		*penuq	nan	nan	"('full', 'adon1237', 'ˈpɜnɔ')"	nan		
+293	empty	pmpacd	proto-MP-ACD 2	Austronesian		*quaŋ	nan	nan	"('empty', 'amar1273-kotos', 'ruman')"	nan		
+294	near	pmpacd	proto-MP-ACD 2	Austronesian		*ipit	nan	nan	"('near', 'buna1278-bobon', 'goɛt')"	nan		
+295	far	pmpacd	proto-MP-ACD 2	Austronesian		*zauq	nan	nan	"('far', 'kema1243', ""sɔ'gɔ:(n)"")"	nan		
+296	wet	pmpacd	proto-MP-ACD 2	Austronesian		*baseq	nan	nan	"('wet', 'idat1237', ""po'ʔɔn"")"	nan		
+296	wet	pmpacd	proto-MP-ACD 2	Austronesian		*besaq	nan	nan	"('wet', 'idat1237', ""po'ʔɔn"")"	nan		
+297	dry	pmpacd	proto-MP-ACD 2	Austronesian		*Raŋuʔ	nan	nan	"('dry', 'pmpacd', '*Raŋuʔ')"	nan		
+297	dry	pmpacd	proto-MP-ACD 2	Austronesian		*keRaŋ	nan	nan	"('dry', 'laka1255', ""ki'ʔɑs"")"	nan		
+297	dry	pmpacd	proto-MP-ACD 2	Austronesian		*tegaŋ	nan	nan	"('dry', 'laka1255', ""ki'ʔɑs"")"	nan		
+298	dry in sun	pmpacd	proto-MP-ACD 2	Austronesian		*bilaj	"*waRi 'day; sun; dry in the sun'; *bilaj 'spread out in the sun to dry'; *maja 'dry up, evaporate'"	nan	"('dry in sun', 'pmpacd', '*bilaj')"	nan		
+298	dry in sun	pmpacd	proto-MP-ACD 2	Austronesian		*maja	"*waRi 'day; sun; dry in the sun'; *bilaj 'spread out in the sun to dry'; *maja 'dry up, evaporate'"	nan	"('dry in sun', 'pmpacd', '*maja')"	nan		
+298	dry in sun	pmpacd	proto-MP-ACD 2	Austronesian		*waRi	"*waRi 'day; sun; dry in the sun'; *bilaj 'spread out in the sun to dry'; *maja 'dry up, evaporate'"	nan	"('dry in sun', 'pmpacd', '*waRi')"	nan		
+302	short (people)	pmpacd	proto-MP-ACD 2	Austronesian		*pandak	"*pandak 'short in height, squat and compact in build, of a person'"	nan	"('short (people)', 'buna1278-bobon', 'barak')"	nan		
+303	thin (non-human)	pmpacd	proto-MP-ACD 2	Austronesian		*mepis	also *iŋepis	nan	"('thin (non-human)', 'adon1237', 'mɜˈnipi')"	nan		
+303	thin (non-human)	pmpacd	proto-MP-ACD 2	Austronesian		*mipis	also *iŋepis	nan	"('thin (non-human)', 'adon1237', 'mɜˈnipi')"	nan		
+303	thin (non-human)	pmpacd	proto-MP-ACD 2	Austronesian		*tipis	also *iŋepis	nan	"('thin (non-human)', 'adon1237', 'mɜˈnipi')"	nan		
+304	skinny (human)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-niwaŋ	"*ma-niwaŋ 'thin, of people and animals'; *niwaŋ 'thinness, of people and animals'"	nan	"('skinny (human)', 'amar1273-kotos', 'maknau')"	nan		
+305	thick	pmpacd	proto-MP-ACD 2	Austronesian		*kaS(e)pal	nan	nan	"('thick', 'abui1241-fuime', 'taapati')"	nan		
+305	thick	pmpacd	proto-MP-ACD 2	Austronesian		*tebel	nan	nan	"('thick', 'abui1241-fuime', 'taapati')"	nan		
+306	round	pmpacd	proto-MP-ACD 2	Austronesian		*bunteR	nan	nan	"('round', 'alor1247-munas', ""'pɔlik"")"	nan		
+307	dark	pmpacd	proto-MP-ACD 2	Austronesian		*kalem	"also *qudem, *tidem, *demdem, *halem"	nan	"('dark', 'alor1247-besar', ""'kui"")"	nan		
+307	dark	pmpacd	proto-MP-ACD 2	Austronesian		*kelem	"also *qudem, *tidem, *demdem, *halem"	nan	"('dark', 'alor1247-besar', ""'kui"")"	nan		
+307	dark	pmpacd	proto-MP-ACD 2	Austronesian		*qilem	"also *qudem, *tidem, *demdem, *halem"	nan	"('dark', 'alor1247-besar', ""'kui"")"	nan		
+308	light	pmpacd	proto-MP-ACD 2	Austronesian		*sindar	nan	nan	"('light', 'kama1365', 'soːŋ')"	nan		
+311	sharp	pmpacd	proto-MP-ACD 2	Austronesian		*tasim	"Of spear (tombak) or machete (parang); if there are two different words, elicit both."	nan	"('sharp', 'p-aust1307-abvd', '*Cazem')"	nan		
+312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*dumpul	"also *pudul, *tultul, *de(m)pul, *belbel"	nan	"('blunt; dull', 'adan1251-lawah', 'kumuŋ')"	nan		
+312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpel	"also *pudul, *tultul, *de(m)pul, *belbel"	nan	"('blunt; dull', 'adan1251-lawah', 'kumuŋ')"	nan		
+312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpul	"also *pudul, *tultul, *de(m)pul, *belbel"	nan	"('blunt; dull', 'adan1251-lawah', 'kumuŋ')"	nan		
+313	heavy	pmpacd	proto-MP-ACD 2	Austronesian		*ma-beReqat	"*beReqat 'weight, heaviness, weightiness; difficult; pregnant'"	nan	"('heavy', 'amar1273-kotos', 'maʔfenaʔ')"	nan		
+314	light (weight)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-Raqan	*Raqan 'lightness (weight)'	nan	"('light (weight)', 'amar1273-kotos', 'maʔkafaʔ')"	nan		
+315	straight	pmpacd	proto-MP-ACD 2	Austronesian		*lurus	nan	nan	"('straight', 'adon1237', 'kɜˈlɔhɔ')"	nan		
+316	wide	pmpacd	proto-MP-ACD 2	Austronesian		*labeR	nan	nan	"('wide', 'amar1273-kotos', 'mainuan')"	nan		
+316	wide	pmpacd	proto-MP-ACD 2	Austronesian		*lawa	nan	nan	"('wide', 'pmpacd', '*lawa')"	nan		
+316	wide	pmpacd	proto-MP-ACD 2	Austronesian		*lawas	nan	nan	"('wide', 'pmpacd', '*lawa')"	nan		
+318	correct	pmpacd	proto-MP-ACD 2	Austronesian		*bener	nan	nan	"('correct', 'p-mala1545-abvd', '*ma-bener')"	nan		
+318	correct	pmpacd	proto-MP-ACD 2	Austronesian		*kena	nan	nan	"('correct', 'lamm1241-westp', 'gaing')"	nan		
+319	wrong	pmpacd	proto-MP-ACD 2	Austronesian		*salaq	nan	nan	"('wrong', 'abui1241-fuime', 'hasala')"	nan		
+320	ripe	pmpacd	proto-MP-ACD 2	Austronesian		*esak	"also *qesak, *tasak"	nan	"('ripe', 'adan1251-otvai', 'ten')"	nan		
+320	ripe	pmpacd	proto-MP-ACD 2	Austronesian		*hasak	"also *qesak, *tasak"	nan	"('ripe', 'adan1251-otvai', 'ten')"	nan		
+320	ripe	pmpacd	proto-MP-ACD 2	Austronesian		*lum	"also *qesak, *tasak"	nan	"('ripe', 'pmpacd', '*lum')"	nan		
+321	rotten	pmpacd	proto-MP-ACD 2	Austronesian		*buRuk	nan	nan	"('rotten', 'buna1278-bobon', 'busuɁ')"	nan		
+321	rotten	pmpacd	proto-MP-ACD 2	Austronesian		*busuk	nan	nan	"('rotten', 'buna1278-bobon', 'busuɁ')"	nan		
+322	bitter	pmpacd	proto-MP-ACD 2	Austronesian		*paqit	nan	nan	"('bitter', 'alor1247-besar', ""'pei"")"	nan		
+323	sweet	pmpacd	proto-MP-ACD 2	Austronesian		*emis	also *ma-hemis	nan	"('sweet', 'adan1251-lawah', 'manɛmɛʔ')"	nan		
+323	sweet	pmpacd	proto-MP-ACD 2	Austronesian		*hemis	also *ma-hemis	nan	"('sweet', 'adan1251-lawah', 'manɛmɛʔ')"	nan		
+323	sweet	pmpacd	proto-MP-ACD 2	Austronesian		*taq(e)mis	also *ma-hemis	nan	"('sweet', 'adan1251-lawah', 'manɛmɛʔ')"	nan		
+324	sour	pmpacd	proto-MP-ACD 2	Austronesian		*ma-qe(n)sem	"*qaRsem 'sourness, acidity'"	nan	"('sour', 'pmpacd', '*ma-qe(n)sem')"	nan		
+324	sour	pmpacd	proto-MP-ACD 2	Austronesian		*qaRsem	"*qaRsem 'sourness, acidity'"	nan	"('sour', 'pmpacd', '*ma-qe(n)sem')"	nan		
+325	salty	pmpacd	proto-MP-ACD 2	Austronesian		*ma-qasin	"*qasiN 'saltiness, salty taste'"	nan	"('salty', 'atim1239', 'alesiŋ')"	nan		
+326	flat	pmpacd	proto-MP-ACD 2	Austronesian		*da(m)paD	nan	nan	"('flat', 'alor1247-baran', ""'hama"")"	nan		
+326	flat	pmpacd	proto-MP-ACD 2	Austronesian		*dapaR	nan	nan	"('flat', 'alor1247-baran', ""'hama"")"	nan		
+326	flat	pmpacd	proto-MP-ACD 2	Austronesian		*dataR	nan	nan	"('flat', 'alor1247-munas', ""'nadak"")"	nan		
+326	flat	pmpacd	proto-MP-ACD 2	Austronesian		*pa(n)tar	also 	nan	"('flat', 'alor1247-munas', ""'nadak"")"	nan		
+327	smooth	pmpacd	proto-MP-ACD 2	Austronesian		*dalit	nan	nan	"('smooth', 'abui1241-fuime', 'rula')"	nan		
+328	rough	pmpacd	proto-MP-ACD 2	Austronesian		*garaŋ	nan	nan	"('rough', 'alor1247-besar', ""'karɔ"")"	nan		
+329	black	pmpacd	proto-MP-ACD 2	Austronesian		*qitem	nan	nan	"('black', 'adon1237', 'ˈmitɜ')"	nan		
+329	black	pmpacd	proto-MP-ACD 2	Austronesian		*tidem	nan	nan	"('black', 'adon1237', 'ˈmitɜ')"	nan		
+330	white	pmpacd	proto-MP-ACD 2	Austronesian		*putiq	nan	nan	"('white', 'pmpacd', '*putiq')"	nan		
+331	red	pmpacd	proto-MP-ACD 2	Austronesian		*pula	nan	nan	"('red', 'baka1276', 'bibi')"	nan		
+331	red	pmpacd	proto-MP-ACD 2	Austronesian		*pulaq	nan	nan	"('red', 'baka1276', 'bibi')"	nan		
+331	red	pmpacd	proto-MP-ACD 2	Austronesian		*rara	nan	nan	"('red', 'pmpacd', '*rara')"	nan		
+331	red	pmpacd	proto-MP-ACD 2	Austronesian		*siRa	nan	nan	"('red', 'pmpacd', '*rara')"	nan		
+335	sick; painful	pmpacd	proto-MP-ACD 2	Austronesian		*sakit	"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam."	nan	"('sick; painful', 'fata1247', ""pa'nakɛ"")"	nan		
+336	shy; ashamed	pmpacd	proto-MP-ACD 2	Austronesian		*ilah	"*Seyaq 'shyness, embarrassment; shame'"	nan	"('shy; ashamed', 'abui1241-takal', ""tä.mje̞.'lɐi"")"	nan		
+336	shy; ashamed	pmpacd	proto-MP-ACD 2	Austronesian		*ma-heyaq	"*Seyaq 'shyness, embarrassment; shame'"	nan	"('shy; ashamed', 'alor1247-besar', ""'maniaŋ"")"	nan		
+337	thirsty	pmpacd	proto-MP-ACD 2	Austronesian		*ma-quSaw	*quSaw 'thirst' 	nan	"('thirsty', 'pmpacd', '*ma-quSaw')"	nan		
+337	thirsty	pmpacd	proto-MP-ACD 2	Austronesian		*quSaw-an	*quSaw 'thirst' 	nan	"('thirsty', 'pmpacd', '*ma-quSaw')"	nan		
+338	hungry	pmpacd	proto-MP-ACD 2	Austronesian		*bitil	nan	nan	"('hungry', 'blag1240-bama', 'toboŋal')"	nan		
+338	hungry	pmpacd	proto-MP-ACD 2	Austronesian		*lapaR	nan	nan	"('hungry', 'baka1276', 'manápal')"	nan		
+339	blind	pmpacd	proto-MP-ACD 2	Austronesian		*buta	nan	nan	"('blind', 'abui1241-fuime', 'akuta')"	nan		
+340	deaf	pmpacd	proto-MP-ACD 2	Austronesian		*beŋel	nan	nan	"('deaf', 'adan1251-lawah', 'palaʔa')"	nan		
+340	deaf	pmpacd	proto-MP-ACD 2	Austronesian		*tuli	nan	nan	"('deaf', 'pmpacd', '*tuli')"	nan		
+341	scared	pmpacd	proto-MP-ACD 2	Austronesian		*takut	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan		
+342	angry	pmpacd	proto-MP-ACD 2	Austronesian		*beŋis	"also *quSeŋeC, *reŋeC "	nan	"('angry', 'lama1278', 'məˈŋɛʔ')"	nan		
+342	angry	pmpacd	proto-MP-ACD 2	Austronesian		*biraŋ	"also *quSeŋeC, *reŋeC "	nan	"('angry', 'adan1251-lawah', 'ariʔiŋ')"	nan		
+342	angry	pmpacd	proto-MP-ACD 2	Austronesian		*qiŋet	"also *quSeŋeC, *reŋeC "	nan	"('angry', 'pmpacd', '*qiŋet')"	nan		
+343	to see	pmpacd	proto-MP-ACD 2	Austronesian		*kita	nan	nan	"('to see', 'adan1251-lawah', 'dunuʔ')"	nan		
+344	to hear	pmpacd	proto-MP-ACD 2	Austronesian		*deŋeR	nan	nan	"('to hear', 'adon1237', 'ˈdɜŋɜʔ')"	nan		
+344	to hear	pmpacd	proto-MP-ACD 2	Austronesian		*diŋa	nan	nan	"('to hear', 'adon1237', 'ˈdɜŋɜʔ')"	nan		
+344	to hear	pmpacd	proto-MP-ACD 2	Austronesian		*diŋeR	nan	nan	"('to hear', 'adon1237', 'ˈdɜŋɜʔ')"	nan		
+344	to hear	pmpacd	proto-MP-ACD 2	Austronesian		*kiŋeR	nan	nan	"('to hear', 'adon1237', 'ˈdɜŋɜʔ')"	nan		
+345	to smell	pmpacd	proto-MP-ACD 2	Austronesian		*Sajek-en	nan	nan	"('to smell', 'alor1247-besar', ""'mare"")"	nan		
+345	to smell	pmpacd	proto-MP-ACD 2	Austronesian		*hajek	nan	nan	"('to smell', 'alor1247-besar', ""'mare"")"	nan		
+346	to think	pmpacd	proto-MP-ACD 2	Austronesian		*handem	nan	nan	"('to think', 'abui1241-takal', ""tɔm.'pã"")"	nan		
+346	to think	pmpacd	proto-MP-ACD 2	Austronesian		*nemnem	nan	nan	"('to think', 'abui1241-takal', ""tɔm.'pã"")"	nan		
+347	to know	pmpacd	proto-MP-ACD 2	Austronesian		*kilala	also *taqu-an	nan	"('to know', 'alor1249-sar-a', 'kalál')"	nan		
+347	to know	pmpacd	proto-MP-ACD 2	Austronesian		*taqu	also *taqu-an	nan	"('to know', 'adon1237', 'ˈkoi')"	nan		
+348	to say	pmpacd	proto-MP-ACD 2	Austronesian		*baqbaq	nan	nan	"('to say', 'pmpacd', '*baqbaq')"	nan		
+349	to speak	pmpacd	proto-MP-ACD 2	Austronesian		*baqbaq	nan	nan	"('to speak', 'dein1238', 'tra_birang')"	nan		
+351	language	pmpacd	proto-MP-ACD 2	Austronesian		*kaRi	"*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'"	nan	"('language', 'buna1278-bobon', 'giɔl')"	nan		
+351	language	pmpacd	proto-MP-ACD 2	Austronesian		*sau	"*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'"	nan	"('language', 'amar1273-kotos', 'uabaʔ')"	nan		
+352	to lie down	pmpacd	proto-MP-ACD 2	Austronesian			*qinep 'lie down to sleep'	nan	nan	nan		
+353	to sleep	pmpacd	proto-MP-ACD 2	Austronesian		*tiduR	nan	nan	"('to sleep', 'abui1241-fuime', 'ta')"	nan		
+353	to sleep	pmpacd	proto-MP-ACD 2	Austronesian		*tuduR	nan	nan	"('to sleep', 'abui1241-fuime', 'ta')"	nan		
+355	to wake someone up	pmpacd	proto-MP-ACD 2	Austronesian		*baŋun	"*baŋun 'wake someone, rouse someone from sleep; erect something, put something in an upright position'"	nan	"('to wake someone up', 'amar1273-kotos', 'na-fena-ʔ')"	nan		
+356	to bathe	pmpacd	proto-MP-ACD 2	Austronesian		*diRus	nan	nan	"('to bathe', 'idat1237', ""'arius"")"	nan		
+356	to bathe	pmpacd	proto-MP-ACD 2	Austronesian		*ziuq	nan	nan	"('to bathe', 'pmpacd', '*ziuq')"	nan		
+358	to sit	pmpacd	proto-MP-ACD 2	Austronesian		*iŋkud	nan	nan	"('to sit', 'pmpacd', '*iŋkud')"	nan		
+358	to sit	pmpacd	proto-MP-ACD 2	Austronesian		*tu(n)daŋ	nan	nan	"('to sit', 'p-cent2245-abvd', '*todan')"	nan		
+359	to stand	pmpacd	proto-MP-ACD 2	Austronesian		*diRi	nan	nan	"('to stand', 'adan1251-otvai', 'toh')"	nan		
+359	to stand	pmpacd	proto-MP-ACD 2	Austronesian		*kedeŋ	nan	nan	"('to stand', 'abui1241-fuime', 'nate')"	nan		
+359	to stand	pmpacd	proto-MP-ACD 2	Austronesian		*tuquD	nan	nan	"('to stand', 'adan1251-otvai', 'toh')"	nan		
+359	to stand	pmpacd	proto-MP-ACD 2	Austronesian		*kezeŋ	nan	nan	"('to stand', 'adan1251-otvai', 'toh')"	nan		
+360	to walk	pmpacd	proto-MP-ACD 2	Austronesian		*lakaw	nan	nan	"('to walk', 'abui1241-fuime', 'lak')"	nan		
+360	to walk	pmpacd	proto-MP-ACD 2	Austronesian		*lampaq	nan	nan	"('to walk', 'abui1241-fuime', 'lak')"	nan		
+360	to walk	pmpacd	proto-MP-ACD 2	Austronesian		*rakat	nan	nan	"('to walk', 'abui1241-fuime', 'lak')"	nan		
+361	to run	pmpacd	proto-MP-ACD 2	Austronesian		*laRiw	nan	nan	"('to run', 'adon1237', 'pɑˈlaʔe')"	nan		
+362	to go	pmpacd	proto-MP-ACD 2	Austronesian		*lakaw	"also *l<um>akaw, *panaw"	nan	"('to go', 'abui1241-petle', 'la:k')"	nan		
+362	to go	pmpacd	proto-MP-ACD 2	Austronesian		*lampaŋ	"also *l<um>akaw, *panaw"	nan	"('to go', 'cent2245-hewa', 'pano')"	nan		
+362	to go	pmpacd	proto-MP-ACD 2	Austronesian		*lampaŋ	"also *l<um>akaw, *panaw"	nan	"('to go', 'cent2245-hewa', 'pano')"	nan		
+363	to swim	pmpacd	proto-MP-ACD 2	Austronesian		*naŋuy	nan	nan	"('to swim', 'adon1237', 'ˈnaŋe')"	nan		
+364	to fly	pmpacd	proto-MP-ACD 2	Austronesian		*Rebek	nan	nan	"('to fly', 'adon1237', 'ˈbɜka')"	nan		
+364	to fly	pmpacd	proto-MP-ACD 2	Austronesian		*layap	nan	nan	"('to fly', 'abui1241-fuime', 'li')"	nan		
+365	to fall (from above)	pmpacd	proto-MP-ACD 2	Austronesian		*nabuq	nan	nan	"('to fall (from above)', 'amar1273-kotos', 'n-mofu')"	nan		
+368	to drink	pmpacd	proto-MP-ACD 2	Austronesian		*maŋ-inum	"*maŋ-inum 'to drink (trans.)'; *um-inum 'to drink'; *inum 'act of drinking'; *ñepñep 'drink, slurp, suck'"	nan	"('to drink', 'adan1251-lawah', 'naʔ')"	nan		
+368	to drink	pmpacd	proto-MP-ACD 2	Austronesian		*um-inum	"*maŋ-inum 'to drink (trans.)'; *um-inum 'to drink'; *inum 'act of drinking'; *ñepñep 'drink, slurp, suck'"	nan	"('to drink', 'adan1251-lawah', 'naʔ')"	nan		
+368	to drink	pmpacd	proto-MP-ACD 2	Austronesian		*ñepñep	"*maŋ-inum 'to drink (trans.)'; *um-inum 'to drink'; *inum 'act of drinking'; *ñepñep 'drink, slurp, suck'"	nan	"('to drink', 'pmpacd', '*ñepñep')"	nan		
+369	to eat	pmpacd	proto-MP-ACD 2	Austronesian		*kaen	also *ma-kaen 'will eat (?)'	nan	"('to eat', 'alor1247-besar', ""'kaŋ_'apa"")"	nan		
+369	to eat	pmpacd	proto-MP-ACD 2	Austronesian		*k<um>aen 	also *ma-kaen 'will eat (?)'	nan	"('to eat', 'fata1247', 'macɛ')"	nan		
+369	to eat	pmpacd	proto-MP-ACD 2	Austronesian		*maŋan	also *ma-kaen 'will eat (?)'	nan	"('to eat', 'fata1247', 'macɛ')"	nan		
+370	to cook	pmpacd	proto-MP-ACD 2	Austronesian		*tanek	nan	nan	"('to cook', 'abui1241-petle', 'sen')"	nan		
+371	to wash	pmpacd	proto-MP-ACD 2	Austronesian		*Siñaw	"also *hawhaw 'wash, rinse'; *ñawñaw 'rinse, wash '"	nan	"('to wash', 'pmpacd', '*Siñaw')"	nan		
+371	to wash	pmpacd	proto-MP-ACD 2	Austronesian		*basuq	"also *hawhaw 'wash, rinse'; *ñawñaw 'rinse, wash '"	nan	"('to wash', 'alor1247-baran', 'bɛmɛ')"	nan		
+371	to wash	pmpacd	proto-MP-ACD 2	Austronesian		*heñaw	"also *hawhaw 'wash, rinse'; *ñawñaw 'rinse, wash '"	nan	"('to wash', 'pmpacd', '*Siñaw')"	nan		
+372	to sew	pmpacd	proto-MP-ACD 2	Austronesian		*tahiq	nan	nan	"('to sew', 'alor1249-sar-n', 'tap')"	nan		
+372	to sew	pmpacd	proto-MP-ACD 2	Austronesian		*zaqit	nan	nan	"('to sew', 'adan1251-lawah', 'narotoʔ')"	nan		
+373	to live; be alive; living	pmpacd	proto-MP-ACD 2	Austronesian		*qudip	nan	nan	"('to live; be alive; living', 'pmpacd', '*qudip')"	nan		
+374	to breathe	pmpacd	proto-MP-ACD 2	Austronesian		*ma-ñawa	nan	nan	"('to breathe', 'pmpacd', '*ma-ñawa')"	nan		
+374	to breathe	pmpacd	proto-MP-ACD 2	Austronesian		*nihawa	nan	nan	"('to breathe', 'pmpacd', '*ma-ñawa')"	nan		
+375	to work	pmpacd	proto-MP-ACD 2	Austronesian		*buhat	nan	nan	"('to work', 'pmpacd', '*buhat')"	nan		
+376	to die	pmpacd	proto-MP-ACD 2	Austronesian		*m-atay	nan	nan	"('to die', 'adon1237', 'ˈmataː')"	nan		
+377	to give	pmpacd	proto-MP-ACD 2	Austronesian		*beRay	nan	nan	"('to give', 'cent2245-hewa', 'bəli')"	nan		
+377	to give	pmpacd	proto-MP-ACD 2	Austronesian		*pa-beRay	nan	nan	"('to give', 'cent2245-hewa', 'bəli')"	nan		
+378	to wipe	pmpacd	proto-MP-ACD 2	Austronesian		*punas	"*usuq 'rub, wipe'; *sapu 'to wipe off or brush on; broom'; *punas 'wipe off, wipe out'"	nan	"('to wipe', 'lama1277-belan', 'bəjak')"	nan		
+378	to wipe	pmpacd	proto-MP-ACD 2	Austronesian		*sapu	"*usuq 'rub, wipe'; *sapu 'to wipe off or brush on; broom'; *punas 'wipe off, wipe out'"	nan	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	nan		
+378	to wipe	pmpacd	proto-MP-ACD 2	Austronesian		*usuq	"*usuq 'rub, wipe'; *sapu 'to wipe off or brush on; broom'; *punas 'wipe off, wipe out'"	nan	"('to wipe', 'alor1247-pandai', ""'dɔhɔ"")"	nan		
+379	to come	pmpacd	proto-MP-ACD 2	Austronesian		*aRi	"also *um-ai, um-aRi"	nan	"('to come', 'abui1241-fuime', 'me')"	nan		
+379	to come	pmpacd	proto-MP-ACD 2	Austronesian		*ai	"also *um-ai, um-aRi"	nan	"('to come', 'abui1241-fuime', 'me')"	nan		
+379	to come	pmpacd	proto-MP-ACD 2	Austronesian		*teka	"also *um-ai, um-aRi"	nan	"('to come', 'cent2245-hewa', 'səga')"	nan		
+380	to laugh	pmpacd	proto-MP-ACD 2	Austronesian		*tawa	nan	nan	"('to laugh', 'cent2245-hewa', 'to')"	nan		
+380	to laugh	pmpacd	proto-MP-ACD 2	Austronesian		*ta-tawa	nan	nan	"('to laugh', 'cent2245-hewa', 'to')"	nan		
+380	to laugh	pmpacd	proto-MP-ACD 2	Austronesian		*ma-tawa	nan	nan	"('to laugh', 'cent2245-hewa', 'to')"	nan		
+381	to cry	pmpacd	proto-MP-ACD 2	Austronesian		*taŋis	nan	nan	"('to cry', 'adon1237', 'ˈtani')"	nan		
+381	to cry	pmpacd	proto-MP-ACD 2	Austronesian		*C<um>aŋis	nan	nan	"('to cry', 'adon1237', 'ˈtani')"	nan		
+381	to cry	pmpacd	proto-MP-ACD 2	Austronesian		*ma-naŋis	nan	nan	"('to cry', 'adon1237', 'ˈtani')"	nan		
+384	to burn (clear land)	pmpacd	proto-MP-ACD 2	Austronesian		*zeket	"*zeket 'to burn (fields, etc.)'"	nan	"('to burn (clear land)', 'pmpacd', '*zeket')"	nan		
+385	to burn; to shine	pmpacd	proto-MP-ACD 2	Austronesian		*bilak	"*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'"	nan	"('to burn; to shine', 'kula1280-lanto', 'wakka')"	nan		
+385	to burn; to shine	pmpacd	proto-MP-ACD 2	Austronesian		*dilap	"*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'"	nan	"('to burn; to shine', 'pmpacd', '*dilap')"	nan		
+386	to shine	pmpacd	proto-MP-ACD 2	Austronesian		*bilak	"*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'"	nan	"('to shine', 'adan1251-otvai', 'fail')"	nan		
+386	to shine	pmpacd	proto-MP-ACD 2	Austronesian		*dilap	"*bilak, *gilak 'shine, glitter'; *dilap, *dilep 'sparkle, shine'; also *kelap, *kerap, *keR(lap) 'shine, sparkle, twinkle'"	nan	"('to shine', 'atim1239', 'tuluŋ')"	nan		
+387	to chew	pmpacd	proto-MP-ACD 2	Austronesian		*paqpaq	nan	nan	"('to chew', 'pmpacd', '*paqpaq')"	nan		
+387	to chew	pmpacd	proto-MP-ACD 2	Austronesian		*ŋalŋal	nan	nan	"('to chew', 'pmpacd', '*ŋalŋal')"	nan		
+388	to yawn	pmpacd	proto-MP-ACD 2	Austronesian		*huab	nan	nan	"('to yawn', 'pmpacd', '*huab')"	nan		
+388	to yawn	pmpacd	proto-MP-ACD 2	Austronesian		*huyeʔab	nan	nan	"('to yawn', 'pmpacd', '*huab')"	nan		
+388	to yawn	pmpacd	proto-MP-ACD 2	Austronesian		*ma-huab	nan	nan	"('to yawn', 'pmpacd', '*huab')"	nan		
+389	to suck	pmpacd	proto-MP-ACD 2	Austronesian		*hisep	"also *q<um>esep, *sipsip, *supsup, *sepsep-i, *s<um>epsep, *cupcup"	nan	"('to suck', 'pmpacd', '*hisep')"	nan		
+389	to suck	pmpacd	proto-MP-ACD 2	Austronesian		*qisep	"also *q<um>esep, *sipsip, *supsup, *sepsep-i, *s<um>epsep, *cupcup"	nan	"('to suck', 'pmpacd', '*hisep')"	nan		
+389	to suck	pmpacd	proto-MP-ACD 2	Austronesian		*sepsep	"also *q<um>esep, *sipsip, *supsup, *sepsep-i, *s<um>epsep, *cupcup"	nan	"('to suck', 'pmpacd', '*hisep')"	nan		
+390	to blow	pmpacd	proto-MP-ACD 2	Austronesian		*h<um>eyup	nan	nan	"('to blow', 'pmpacd', '*h<um>eyup')"	nan		
+391	to spit	pmpacd	proto-MP-ACD 2	Austronesian		*ludaq	nan	nan	"('to spit', 'p-cent2245-abvd', '*zulaq')"	nan		
+391	to spit	pmpacd	proto-MP-ACD 2	Austronesian		*lupaS	nan	nan	"('to spit', 'p-cent2245-abvd', '*zulaq')"	nan		
+391	to spit	pmpacd	proto-MP-ACD 2	Austronesian		*supaq	nan	nan	"('to spit', 'p-cent2245-abvd', '*zulaq')"	nan		
+391	to spit	pmpacd	proto-MP-ACD 2	Austronesian		*dulaq	nan	nan	"('to spit', 'p-cent2245-abvd', '*zulaq')"	nan		
+392	to vomit	pmpacd	proto-MP-ACD 2	Austronesian		*utaq	nan	nan	"('to vomit', 'adan1251-lawah', 'wudi')"	nan		
+392	to vomit	pmpacd	proto-MP-ACD 2	Austronesian		*um-utaq	nan	nan	"('to vomit', 'adan1251-lawah', 'wudi')"	nan		
+393	to rub	pmpacd	proto-MP-ACD 2	Austronesian		*usuq	"*usuq 'rub, wipe'"	nan	"('to rub', 'pmpacd', '*usuq')"	nan		
+394	to scratch	pmpacd	proto-MP-ACD 2	Austronesian		*garus	"*garut 'rub against, scrape, scratch'"	nan	"('to scratch', 'abui1241-fuime', 'kafie')"	nan		
+394	to scratch	pmpacd	proto-MP-ACD 2	Austronesian		*garut	"*garut 'rub against, scrape, scratch' "	nan	"('to scratch', 'abui1241-fuime', 'kafie')"	nan		
+394	to scratch	pmpacd	proto-MP-ACD 2	Austronesian		*g<um>arut	"*garut 'rub against, scrape, scratch' "	nan	"('to scratch', 'abui1241-fuime', 'kafie')"	nan		
+395	itchy	pmpacd	proto-MP-ACD 2	Austronesian		*atel	nan	nan	"('itchy', 'adan1251-lawah', 'kakaʔ')"	nan		
+395	itchy	pmpacd	proto-MP-ACD 2	Austronesian		*gatel	nan	nan	"('itchy', 'adan1251-lawah', 'kakaʔ')"	nan		
+395	itchy	pmpacd	proto-MP-ACD 2	Austronesian		*ma-gatel	nan	nan	"('itchy', 'adan1251-lawah', 'kakaʔ')"	nan		
+396	to swell	pmpacd	proto-MP-ACD 2	Austronesian		*beŋkak	nan	nan	"('to swell', 'adon1237', 'ˈbaʔa')"	nan		
+397	to hit	pmpacd	proto-MP-ACD 2	Austronesian		*basbas	nan	nan	"('to hit', 'abui1241-fuime', 'tebol')"	nan		
+397	to hit	pmpacd	proto-MP-ACD 2	Austronesian		*bukbuk	nan	nan	"('to hit', 'abui1241-fuime', 'tebol')"	nan		
+397	to hit	pmpacd	proto-MP-ACD 2	Austronesian		*pekpek	nan	nan	"('to hit', 'abui1241-fuime', 'tebol')"	nan		
+398	to slap	pmpacd	proto-MP-ACD 2	Austronesian		*bebak	E.g. to slap someone on the cheek; NOT to clap hands.	nan	"('to slap', 'adan1251-otvai', 'baʔ')"	nan		
+398	to slap	pmpacd	proto-MP-ACD 2	Austronesian		*tampek	E.g. to slap someone on the cheek; NOT to clap hands.	nan	"('to slap', 'abui1241-takal', ""to:.'bɔl"")"	nan		
+398	to slap	pmpacd	proto-MP-ACD 2	Austronesian		*tepak	E.g. to slap someone on the cheek; NOT to clap hands.	nan	"('to slap', 'abui1241-takal', ""to:.'bɔl"")"	nan		
+399	to bite	pmpacd	proto-MP-ACD 2	Austronesian		*a(ŋ)kit	"also *ketep, *k<um>aRat, *um-a(ŋ)kit"	nan	"('to bite', 'pmpacd', '*a(ŋ)kit')"	nan		
+399	to bite	pmpacd	proto-MP-ACD 2	Austronesian		*kaRat	"also *ketep, *k<um>aRat, *um-a(ŋ)kit"	nan	"('to bite', 'pmpacd', '*a(ŋ)kit')"	nan		
+399	to bite	pmpacd	proto-MP-ACD 2	Austronesian		*keteb	"also *ketep, *k<um>aRat, *um-a(ŋ)kit"	nan	"('to bite', 'blag1240-bama', 'qadaŋ')"	nan		
+400	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*Risi	"*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'"	nan	"('to cut', 'fata1247', 'rɛkisɛ')"	nan		
+400	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*hetek	"*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'"	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	nan		
+400	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*qiris	"*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'"	nan	"('to cut', 'buna1278-bobon', 'gɔrɔk')"	nan		
+400	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*Risiq	"*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'"	nan	"('to cut', 'buna1278-bobon', 'gɔrɔk')"	nan		
+400	to cut	pmpacd	proto-MP-ACD 2	Austronesian		*disdis	"*hetek 'cut, sever, chop'; *qiris 'cut, slice'; also *Risiq 'tear, split, cut'; *disdis 'cut, slice'"	nan	"('to cut', 'buna1278-bobon', 'gɔrɔk')"	nan		
+402	to split	pmpacd	proto-MP-ACD 2	Austronesian		*bakaq	"*bakaq 'spread apart, split';  *beka(q) 'split, crack open'; *beriq 'split, tear open'; (n.b. many words have similar meanings; e.g. *betaq/*betak, *besiq, *biqak/bikaq, *biseqak, *bitak, *kakaq, *kelaq, *tebiq; PMP forms related to belah in Indonesian are *belaq 'part of something split'; *ma-belaq 'be split, in two'"	nan	"('to split', 'lamm1241-westp', 'bakkang')"	nan		
+402	to split	pmpacd	proto-MP-ACD 2	Austronesian		*beka	"*bakaq 'spread apart, split';  *beka(q) 'split, crack open'; *beriq 'split, tear open'; (n.b. many words have similar meanings; e.g. *betaq/*betak, *besiq, *biqak/bikaq, *biseqak, *bitak, *kakaq, *kelaq, *tebiq; PMP forms related to belah in Indonesian are *belaq 'part of something split'; *ma-belaq 'be split, in two'"	nan	"('to split', 'lamm1241-westp', 'bakkang')"	nan		
+402	to split	pmpacd	proto-MP-ACD 2	Austronesian		*beriq	"*bakaq 'spread apart, split';  *beka(q) 'split, crack open'; *beriq 'split, tear open'; (n.b. many words have similar meanings; e.g. *betaq/*betak, *besiq, *biqak/bikaq, *biseqak, *bitak, *kakaq, *kelaq, *tebiq; PMP forms related to belah in Indonesian are *belaq 'part of something split'; *ma-belaq 'be split, in two'"	nan	"('to split', 'pmpacd', '*beriq')"	nan		
+403	to divide	pmpacd	proto-MP-ACD 2	Austronesian		*baqagi	"*baqagi 'share, portion, inheritance; to allot, divide property'"	nan	"('to divide', 'adan1251-lawah', 'ʔabaʔaŋ')"	nan		
+404	to stab	pmpacd	proto-MP-ACD 2	Austronesian		*rusuk	"*tebek 'pierce, stab'"	nan	"('to stab', 'abui1241-takal', ""tu.'lo:q"")"	nan		
+404	to stab	pmpacd	proto-MP-ACD 2	Austronesian		*tebek	"*tebek 'pierce, stab'"	nan	"('to stab', 'abui1241-takal', ""tu.'lo:q"")"	nan		
+404	to stab	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>ebek	nan	nan	"('to stab', 'abui1241-takal', ""tu.'lo:q"")"	nan		
+405	to skewer	pmpacd	proto-MP-ACD 2	Austronesian		*tuduk	"*tusuk 'pierce, skewer or string together'; *tuduk 'skewer, spit for roasting'"	nan	"('to skewer', 'adan1251-lawah', 'tɛʔɛ')"	nan		
+405	to skewer	pmpacd	proto-MP-ACD 2	Austronesian		*tusuk	"*tusuk 'pierce, skewer or string together'; *tuduk 'skewer, spit for roasting'"	nan	"('to skewer', 'adan1251-lawah', 'tɛʔɛ')"	nan		
+408	to throw	pmpacd	proto-MP-ACD 2	Austronesian		*batu	nan	nan	"('to throw', 'pmpacd', '*batu')"	nan		
+408	to throw	pmpacd	proto-MP-ACD 2	Austronesian		*lambeg	nan	nan	"('to throw', 'pmpacd', '*lambeg')"	nan		
+408	to throw	pmpacd	proto-MP-ACD 2	Austronesian		*tudaq	nan	nan	"('to throw', 'adan1251-lawah', 'ød')"	nan		
+409	to hunt	pmpacd	proto-MP-ACD 2	Austronesian		*q<um>aNup	*qanup 'to hunt wild game'	nan	"('to hunt', 'alor1247-besar', ""'kɔri"")"	nan		
+410	to kill	pmpacd	proto-MP-ACD 2	Austronesian		*bunuq	nan	nan	"('to kill', 'alor1247-baran', ""'bun:ɔ"")"	nan		
+410	to kill	pmpacd	proto-MP-ACD 2	Austronesian		*p-atay	nan	nan	"('to kill', 'lama1277-belan', 'təbajak')"	nan		
+411	to chase away	pmpacd	proto-MP-ACD 2	Austronesian		*buRaw	"*buRaw 'drive off, chase away, expel'; *sika 'to chase away or shoo off small animals'"	nan	"('to chase away', 'cent2245-hewa', 'bəʋe')"	nan		
+411	to chase away	pmpacd	proto-MP-ACD 2	Austronesian		*sika	"*buRaw 'drive off, chase away, expel'; *sika 'to chase away or shoo off small animals'"	nan	"('to chase away', 'alor1247-besar', ""'sɛ"")"	nan		
+414	to dig	pmpacd	proto-MP-ACD 2	Austronesian		*k<um>ali	nan	nan	"('to dig', 'alor1247-baran', ""'gali"")"	nan		
+414	to dig	pmpacd	proto-MP-ACD 2	Austronesian		*kali	nan	nan	"('to dig', 'alor1247-baran', ""'gali"")"	nan		
+415	to bury	pmpacd	proto-MP-ACD 2	Austronesian		*lebeŋ	nan	nan	"('to bury', 'abui1241-fuime', 'uli')"	nan		
+415	to bury	pmpacd	proto-MP-ACD 2	Austronesian		*tanem	nan	nan	"('to bury', 'pmpacd', '*tanem')"	nan		
+416	to flow	pmpacd	proto-MP-ACD 2	Austronesian		*qaliR	nan	nan	"('to flow', 'kema1243', ""'dɔrɔ"")"	nan		
+416	to flow	pmpacd	proto-MP-ACD 2	Austronesian		*saliR	nan	nan	"('to flow', 'amar1273-kotos', 'na-sai')"	nan		
+417	to float	pmpacd	proto-MP-ACD 2	Austronesian		*apuŋ	nan	nan	"('to float', 'alor1247-baran', ""'nɛpi"")"	nan		
+419	to hold	pmpacd	proto-MP-ACD 2	Austronesian		*gem	*gem 'hold in the fist'	nan	"('to hold', 'p-aust1307-abvd', '*gemgem')"	nan		
+420	to tie	pmpacd	proto-MP-ACD 2	Austronesian		*hiket	"*hiket 'tie, bind, attach to by tying'; *kaput 'tie or clasp together; to button'; *kebet 'tie by binding around'"	nan	"('to tie', 'abui1241-fuime', 'ha-kode')"	nan		
+420	to tie	pmpacd	proto-MP-ACD 2	Austronesian		*kaput	"*hiket 'tie, bind, attach to by tying'; *kaput 'tie or clasp together; to button'; *kebet 'tie by binding around'"	nan	"('to tie', 'adan1251-lawah', 'ʔapeceʔ')"	nan		
+420	to tie	pmpacd	proto-MP-ACD 2	Austronesian		*kebet	"*hiket 'tie, bind, attach to by tying'; *kaput 'tie or clasp together; to button'; *kebet 'tie by binding around'"	nan	"('to tie', 'adan1251-lawah', 'ʔapeceʔ')"	nan		
+422	to pull	pmpacd	proto-MP-ACD 2	Austronesian		*SuRut	nan	nan	"('to pull', 'pmpacd', '*SuRut')"	nan		
+423	to push	pmpacd	proto-MP-ACD 2	Austronesian		*sulud	nan	nan	"('to push', 'pmpacd', '*sulud')"	nan		
+423	to push	pmpacd	proto-MP-ACD 2	Austronesian		*s<um>ulud	'to push'	nan	"('to push', 'adan1251-lawah', 'adoʔo')"	nan		
+423	to push	pmpacd	proto-MP-ACD 2	Austronesian		*tulak	nan	nan	"('to push', 'adan1251-lawah', 'adoʔo')"	nan		
+424	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*bali	nan	nan	"('to turn', 'blag1240-tuntu', 'gogóleŋ')"	nan		
+424	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*biliŋ	nan	nan	"('to turn', 'blag1240-tuntu', 'gogóleŋ')"	nan		
+424	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*puliŋ	nan	nan	"('to turn', 'blag1240-tuntu', 'gogóleŋ')"	nan		
+424	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*balik	nan	nan	"('to turn', 'blag1240-tuntu', 'gogóleŋ')"	nan		
+424	to turn	pmpacd	proto-MP-ACD 2	Austronesian		*ileŋ	nan	nan	"('to turn', 'blag1240-tuntu', 'gogóleŋ')"	nan		
+425	to dream	pmpacd	proto-MP-ACD 2	Austronesian		*h<um>ipi	*hepi 'dream'	nan	"('to dream', 'lamm1241-westp', 'hippe')"	nan		
+426	to crouch; to bend over	pmpacd	proto-MP-ACD 2	Austronesian		*duku	"To crouch as on an Indonesian toilet, NOT: to kneel"	nan	"('to crouch; to bend over', 'alor1247-besar', ""'tɔbɔ"")"	nan		
+426	to crouch; to bend over	pmpacd	proto-MP-ACD 2	Austronesian		*zuŋkuk	"To crouch as on an Indonesian toilet, NOT: to kneel"	nan	"('to crouch; to bend over', 'alor1249-sar-a', 'sáʔ')"	nan		
+428	to choose	pmpacd	proto-MP-ACD 2	Austronesian		*piliq	nan	nan	"('to choose', 'amar1273-kotos', 'n-beti')"	nan		
+428	to choose	pmpacd	proto-MP-ACD 2	Austronesian		*p<um>iliq	nan	nan	"('to choose', 'amar1273-kotos', 'n-beti')"	nan		
+429	to grow	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>ubuq	nan	nan	"('to grow', 'abui1241-takal', ""he̞.buq.'dä"")"	nan		
+429	to grow	pmpacd	proto-MP-ACD 2	Austronesian		*tukul	nan	nan	"('to grow', 'pmpacd', '*tukul')"	nan		
+430	to squeeze	pmpacd	proto-MP-ACD 2	Austronesian		*Rames	nan	nan	"('to squeeze', 'blag1240-bama', 'pemex')"	nan		
+430	to squeeze	pmpacd	proto-MP-ACD 2	Austronesian		*kemes	nan	nan	"('to squeeze', 'blag1240-bama', 'pemex')"	nan		
+430	to squeeze	pmpacd	proto-MP-ACD 2	Austronesian		*mesmes	nan	nan	"('to squeeze', 'blag1240-bama', 'pemex')"	nan		
+431	to buy	pmpacd	proto-MP-ACD 2	Austronesian		*beli	"*beli₂ 'value, price; marriage prestations, brideprice; purchase'; *saliw 'buy, sell' "	nan	"('to buy', 'abui1241-fuime', 'bele')"	nan		
+431	to buy	pmpacd	proto-MP-ACD 2	Austronesian		*saliw	"*beli₂ 'value, price; marriage prestations, brideprice; purchase'; *saliw 'buy, sell' "	nan	"('to buy', 'abui1241-fuime', 'bele')"	nan		
+432	to sell	pmpacd	proto-MP-ACD 2	Austronesian		*baluk	nan	nan	"('to sell', 'abui1241-fuime', 'balik')"	nan		
+433	to steal	pmpacd	proto-MP-ACD 2	Austronesian		*nakaw	also *paŋ-takaw	nan	"('to steal', 'abui1241-fuime', 'takau')"	nan		
+433	to steal	pmpacd	proto-MP-ACD 2	Austronesian		*takaw	also *paŋ-takaw	nan	"('to steal', 'abui1241-fuime', 'takau')"	nan		
+434	to open	pmpacd	proto-MP-ACD 2	Austronesian		*bu(ŋ)kas	nan	nan	"('to open', 'adon1237', 'ˈbuka')"	nan		
+434	to open	pmpacd	proto-MP-ACD 2	Austronesian		*buka	nan	nan	"('to open', 'adon1237', 'ˈbuka')"	nan		
+434	to open	pmpacd	proto-MP-ACD 2	Austronesian		*su(ŋ)kab	nan	nan	"('to open', 'pmpacd', '*su(ŋ)kab')"	nan		
+435	to close	pmpacd	proto-MP-ACD 2	Austronesian		*qeneb	nan	nan	"('to close', 'kama1365', 'kuh')"	nan		
+435	to close	pmpacd	proto-MP-ACD 2	Austronesian		*ta(ŋ)kub	nan	nan	"('to close', 'pmpacd', '*ta(ŋ)kub')"	nan		
+436	to climb	pmpacd	proto-MP-ACD 2	Austronesian		*dakiS	nan	nan	"('to climb', 'alor1247-besar', ""'dafu"")"	nan		
+436	to climb	pmpacd	proto-MP-ACD 2	Austronesian		*panahik	nan	nan	"('to climb', 'baka1276', 'pa')"	nan		
+436	to climb	pmpacd	proto-MP-ACD 2	Austronesian		*sakay	nan	nan	"('to climb', 'blag1240-bama', 'gua')"	nan		
+437	to hide	pmpacd	proto-MP-ACD 2	Austronesian		*buni	nan	nan	"('to hide', 'adan1251-otvai', 'tafuniŋ')"	nan		
+438	to wait	pmpacd	proto-MP-ACD 2	Austronesian		*ma-naRah	nan	nan	"('to wait', 'pmpacd', '*ma-naRah')"	nan		
+439	to fold	pmpacd	proto-MP-ACD 2	Austronesian		*lipet	NOT: lipat tikar	nan	"('to fold', 'adon1237', 'ˈlɜpɜt')"	nan		
+439	to fold	pmpacd	proto-MP-ACD 2	Austronesian		*piluq	NOT: lipat tikar	nan	"('to fold', 'abui1241-fuime', 'haluk')"	nan		
+440	to help	pmpacd	proto-MP-ACD 2	Austronesian		*tabaŋ	nan	nan	"('to help', 'alor1247-besar', ""'kabɔŋ"")"	nan		
+440	to help	pmpacd	proto-MP-ACD 2	Austronesian		*tuluŋ	nan	nan	"('to help', 'atim1239', 'netuluŋ')"	nan		
+441	to bark	pmpacd	proto-MP-ACD 2	Austronesian		*q<um>aŋqaŋ	nan	nan	"('to bark', 'pmpacd', '*q<um>aŋqaŋ')"	nan		
+441	to bark	pmpacd	proto-MP-ACD 2	Austronesian		*qawqaw	nan	nan	"('to bark', 'alor1249-sar-a', 'tógis')"	nan		
+442	to shoot	pmpacd	proto-MP-ACD 2	Austronesian		*paleCuk	nan	nan	"('to shoot', 'alor1249-sar-a', 'blap')"	nan		
+444	to pound; to beat	pmpacd	proto-MP-ACD 2	Austronesian		*bayu	"*bayu 'to pound rice'; *tumbuk 'punch, hit, pound'; *bukbuk 'hit, pound, beat'; also *butuk, *lambuk, *ra(m)buk, *tegteg, *tuktuk, 'knock, pound, beat'; *dabuk 'pound, beat', *pukpuk 'to hammer, pound, beat'"	nan	"('to pound; to beat', 'pmpacd', '*bayu')"	nan		
+444	to pound; to beat	pmpacd	proto-MP-ACD 2	Austronesian		*bukbuk	"*bayu 'to pound rice'; *tumbuk 'punch, hit, pound'; *bukbuk 'hit, pound, beat'; also *butuk, *lambuk, *ra(m)buk, *tegteg, *tuktuk, 'knock, pound, beat'; *dabuk 'pound, beat', *pukpuk 'to hammer, pound, beat'"	nan	"('to pound; to beat', 'baka1276', 'tunumuk')"	nan		
+444	to pound; to beat	pmpacd	proto-MP-ACD 2	Austronesian		*tumbuk	"*bayu 'to pound rice'; *tumbuk 'punch, hit, pound'; *bukbuk 'hit, pound, beat'; also *butuk, *lambuk, *ra(m)buk, *tegteg, *tuktuk, 'knock, pound, beat'; *dabuk 'pound, beat', *pukpuk 'to hammer, pound, beat'"	nan	"('to pound; to beat', 'baka1276', 'tunumuk')"	nan		
+445	to hit (drum)	pmpacd	proto-MP-ACD 2	Austronesian		*pekpek	"*pekpek 'beat, hit'"	nan	"('to hit (drum)', 'alor1249-sar-a', 'bah')"	nan		
+446	to call out	pmpacd	proto-MP-ACD 2	Austronesian		*beŋit	nan	nan	"('to call out', 'adan1251-otvai', 'beat')"	nan		
+446	to call out	pmpacd	proto-MP-ACD 2	Austronesian		*iag	nan	nan	"('to call out', 'pmpacd', '*iag')"	nan		
+446	to call out	pmpacd	proto-MP-ACD 2	Austronesian		*iak	nan	nan	"('to call out', 'pmpacd', '*iag')"	nan		
+447	to lie (tell untruth)	pmpacd	proto-MP-ACD 2	Austronesian		*beliq	nan	nan	"('to lie (tell untruth)', 'buna1278-suai', 'lohi')"	nan		
+448	to ask (question)	pmpacd	proto-MP-ACD 2	Austronesian		*bajaq	nan	nan	"('to ask (question)', 'pmpacd', '*bajaq')"	nan		
+448	to ask (question)	pmpacd	proto-MP-ACD 2	Austronesian		*kutaña	nan	nan	"('to ask (question)', 'abui1241-fuime', 'naatahaŋ')"	nan		
+448	to ask (question)	pmpacd	proto-MP-ACD 2	Austronesian		*utaña	nan	nan	"('to ask (question)', 'abui1241-fuime', 'naatahaŋ')"	nan		
+449	to count	pmpacd	proto-MP-ACD 2	Austronesian		*bilaŋ	nan	nan	"('to count', 'pmpacd', '*bilaŋ')"	nan		
+449	to count	pmpacd	proto-MP-ACD 2	Austronesian		*ihap	nan	nan	"('to count', 'idat1237', ""'wisa"")"	nan		
+450	one	pmpacd	proto-MP-ACD 2	Austronesian		*asa	nan	nan	"('one', 'amar1273-kotos', 'meseʔ')"	nan		
+450	one	pmpacd	proto-MP-ACD 2	Austronesian		*esa	nan	nan	"('one', 'amar1273-kotos', 'meseʔ')"	nan		
+450	one	pmpacd	proto-MP-ACD 2	Austronesian		*isa	nan	nan	"('one', 'amar1273-kotos', 'meseʔ')"	nan		
+451	two	pmpacd	proto-MP-ACD 2	Austronesian		*duha	nan	nan	"('two', 'alor1247-baran', ""'rua"")"	nan		
+452	three	pmpacd	proto-MP-ACD 2	Austronesian		*telu	nan	nan	"('three', 'adan1251-otvai', 'tɔu')"	nan		
+453	four	pmpacd	proto-MP-ACD 2	Austronesian		*epat	nan	nan	"('four', 'abui1241-fuime', 'buti')"	nan		
+454	five	pmpacd	proto-MP-ACD 2	Austronesian		*ima	nan	nan	"('five', 'adon1237', 'ˈlema')"	nan		
+454	five	pmpacd	proto-MP-ACD 2	Austronesian		*lima	nan	nan	"('five', 'adon1237', 'ˈlema')"	nan		
+455	six	pmpacd	proto-MP-ACD 2	Austronesian		*enem	nan	nan	"('six', 'adon1237', 'ˈnamu')"	nan		
+456	seven	pmpacd	proto-MP-ACD 2	Austronesian		*pitu	nan	nan	"('seven', 'adan1251-lawah', 'wuitoʔ')"	nan		
+457	eight	pmpacd	proto-MP-ACD 2	Austronesian		*walu	nan	nan	"('eight', 'amar1273-kotos', 'fanu')"	nan		
+458	nine	pmpacd	proto-MP-ACD 2	Austronesian		*siwa	nan	nan	"('nine', 'adon1237', 'hiwa')"	nan		
+459	ten	pmpacd	proto-MP-ACD 2	Austronesian		*sa-ŋa-puluq	*puluq 'group of ten'	nan	"('ten', 'adon1237', 'puloː')"	nan		
+475	thirty	pmpacd	proto-MP-ACD 2	Austronesian		*telu-ŋa-puluq	nan	nan	"('thirty', 'pmpacd', '*telu-ŋa-puluq')"	nan		
+477	fifty	pmpacd	proto-MP-ACD 2	Austronesian		*lima ŋa puluq	nan	nan	"('fifty', 'pmpacd', '*lima_ŋa_puluq')"	nan		
+478	sixty	pmpacd	proto-MP-ACD 2	Austronesian		*enem ŋa puluq	nan	nan	"('sixty', 'pmpacd', '*enem_ŋa_puluq')"	nan		
+479	seventy	pmpacd	proto-MP-ACD 2	Austronesian		*pitu ŋa puluq	nan	nan	"('seventy', 'pmpacd', '*pitu_ŋa_puluq')"	nan		
+480	eighty	pmpacd	proto-MP-ACD 2	Austronesian		*walu ŋa puluq	nan	nan	"('eighty', 'adan1251-lawah', 'air_turloʔ')"	nan		
+482	one hundred	pmpacd	proto-MP-ACD 2	Austronesian		*sa-ŋa-Ratus	nan	nan	"('one hundred', 'amar1273-kotos', 'nautn=es')"	nan		
+487	grandmother	pmpacd	proto-MP-ACD 2	Austronesian		*baqi	The kinship task also asks for this term	nan	"('grandmother', 'pmpacd', '*baqi')"	nan		
+489	grandchild	pmpacd	proto-MP-ACD 2	Austronesian		*kempu	The kinship task also asks for this term	nan	"('grandchild', 'amar1273-kotos', 'upu-f')"	nan		
+489	grandchild	pmpacd	proto-MP-ACD 2	Austronesian		*maki-empu	The kinship task also asks for this term	nan	"('grandchild', 'amar1273-kotos', 'upu-f')"	nan		
+494	sister	pmpacd	proto-MP-ACD 2	Austronesian			*betaw 'sister (man speaking)'; The kinship task also asks for this term	nan	nan	nan		
+498	brother	pmpacd	proto-MP-ACD 2	Austronesian			*ñaRa 'brother (woman speaking)' ; The kinship task also asks for this term	nan	nan	nan		
+501	father's sister	pmpacd	proto-MP-ACD 2	Austronesian		*aya	"*aya 'father’s sister, father’s sister’s husband'; *ema(-ʔ) 'father's sister, possibly address term'; The kinship task also asks for this term"	nan	"(""father's sister"", 'pmpacd', '*aya')"	nan		
+501	father's sister	pmpacd	proto-MP-ACD 2	Austronesian		*ema(-ʔ)	"*aya 'father’s sister, father’s sister’s husband'; *ema(-ʔ) 'father's sister, possibly address term'; The kinship task also asks for this term"	nan	"(""father's sister"", 'maka1316', 'baimatu')"	nan		
+502	ridge(pole); peak; tip	pmpacd	proto-MP-ACD 2	Austronesian		*bubuŋ	nan	nan	nan	nan		
+502	ridge(pole); peak; tip	pmpacd	proto-MP-ACD 2	Austronesian		*bubuŋ-an	nan	nan	nan	nan		
+502	ridge(pole); peak; tip	pmpacd	proto-MP-ACD 2	Austronesian		*bubuŋ-en	nan	nan	nan	nan		
+504	broom; sweep	pmpacd	proto-MP-ACD 2	Austronesian		*sapu	nan	nan	"('broom; sweep', 'adan1251-otvai', 'parin')"	nan		
+508	floor	pmpacd	proto-MP-ACD 2	Austronesian		*saleR	nan	nan	"('floor', 'adan1251-otvai', 'lantai')"	nan		
+509	wall	pmpacd	proto-MP-ACD 2	Austronesian		*diŋdiŋ	nan	nan	"('wall', 'pmpacd', '*diŋdiŋ')"	nan		
+516	to weave	pmpacd	proto-MP-ACD 2	Austronesian		*tenun	nan	nan	"('to weave', 'abui1241-takal', ""ti.'ne̞i"")"	nan		
+516	to weave	pmpacd	proto-MP-ACD 2	Austronesian		*tinun	nan	nan	"('to weave', 'abui1241-takal', ""ti.'ne̞i"")"	nan		
+516	to weave	pmpacd	proto-MP-ACD 2	Austronesian		*t<um>enun	nan	nan	"('to weave', 'abui1241-takal', ""ti.'ne̞i"")"	nan		
+518	necklace	pmpacd	proto-MP-ACD 2	Austronesian			"*quNuq 'beads, necklace of beads'"	nan	nan	nan		
+522	loom	pmpacd	proto-MP-ACD 2	Austronesian		*tenun-an	"Kata untuk seluru alat menenun. Tetapi di sini alat tenun tidak ada nama umum, dan masing-masing bagian ada namanya. (It is likely that there is no word referring to a loom as such,  only words referring to parts of it. If you can make a picture of a loom, you could try to elicit the words for the various parts. If this is not possible, just skip this.)"	nan	"('loom', 'lama1278', 'təˈnaneʔ')"	nan		
+532	priest (modern)	pmpacd	proto-MP-ACD 2	Austronesian			*datu 'lineage priest (?)'	nan	nan	nan		
+543	enemy	pmpacd	proto-MP-ACD 2	Austronesian		*busuR	nan	nan	"('enemy', 'amar1273-kotos', 'musu')"	nan		
+545	stranger	pmpacd	proto-MP-ACD 2	Austronesian		*puqun nu laŋit	"*puqun nu laŋit 'horizon (lit. ‘foundation/beginning of the sky’); stranger, foreigner'"	nan	"('stranger', 'pmpacd', '*puqun_nu_laŋit')"	nan		
+550	accuse	pmpacd	proto-MP-ACD 2	Austronesian		*pa(ka)-salaq	nan	nan	"('accuse', 'alor1247-besar', ""'hala"")"	nan		
+556	fishnet	pmpacd	proto-MP-ACD 2	Austronesian		*lawan	*lawan 'kind of long fishnet'	nan	"('fishnet', 'abui1241-takal', 'dälã')"	nan		
+564	price	pmpacd	proto-MP-ACD 2	Austronesian		*beli	"*beli 'value, price; marriage prestations, brideprice; purchase'; *bili 'value, price'"	nan	"('price', 'abui1241-takal', ""he̞.'be̞l"")"	nan		
+564	price	pmpacd	proto-MP-ACD 2	Austronesian		*bili	"*beli 'value, price; marriage prestations, brideprice; purchase'; *bili 'value, price'"	nan	"('price', 'abui1241-takal', ""he̞.'be̞l"")"	nan		
+566	to borrow	pmpacd	proto-MP-ACD 2	Austronesian		*hezam	"*hezam 'borrow, lend'"	nan	"('to borrow', 'maka1316', ""isi'dane"")"	nan		
+570	to grasp	pmpacd	proto-MP-ACD 2	Austronesian		*cekep	nan	nan	"('to grasp', 'pmpacd', '*cekep')"	nan		
+570	to grasp	pmpacd	proto-MP-ACD 2	Austronesian		*gemel	nan	nan	"('to grasp', 'pmpacd', '*gemel')"	nan		
+570	to grasp	pmpacd	proto-MP-ACD 2	Austronesian		*mesmes	nan	nan	"('to grasp', 'pmpacd', '*mesmes')"	nan		
+573	word	pmpacd	proto-MP-ACD 2	Austronesian		*kaRi	"*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'; *liŋ 'word, speech' "	nan	"('word', 'pmpacd', '*kaRi')"	nan		
+573	word	pmpacd	proto-MP-ACD 2	Austronesian		*liŋ	"*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'; *liŋ 'word, speech' "	nan	"('word', 'adan1251-otvai', 'mateiŋ')"	nan		
+573	word	pmpacd	proto-MP-ACD 2	Austronesian		*sau	"*kaRi 'word, speech, language'; *sau 'word; talk; conversation; language'; *liŋ 'word, speech' "	nan	"('word', 'pmpacd', '*sau')"	nan		
+574	to answer	pmpacd	proto-MP-ACD 2	Austronesian		*saRut	nan	nan	"('to answer', 'pmpacd', '*saRut')"	nan		
+577	to be silent	pmpacd	proto-MP-ACD 2	Austronesian		*sendem	"*sendem 'brood, think, be silent'"	nan	"('to be silent', 'kula1280-lanto', 'lakda')"	nan		
+578	to tell	pmpacd	proto-MP-ACD 2	Austronesian		*bajaq	"*bajaq 'tell, inform; ask, inquire'"	nan	"('to tell', 'pmpacd', '*bajaq')"	nan		
+580	to teach	pmpacd	proto-MP-ACD 2	Austronesian		*tuzuq-i	"*tuzuq-i 'to point, indicate; teach, instruct'"	nan	"('to teach', 'adan1251-otvai', 'sakolapuin')"	nan		
+582	difficult	pmpacd	proto-MP-ACD 2	Austronesian		*beReqat	"*beReqat 'weight, heaviness, weightiness; difficult; pregnant'"	nan	"('difficult', 'abui1241-takal', ""'be̞ä.qä"")"	nan		
+583	finished	pmpacd	proto-MP-ACD 2	Austronesian		*qeti	nan	nan	"('finished', 'kama1365', 'sika')"	nan		
+583	finished	pmpacd	proto-MP-ACD 2	Austronesian		*qubus	nan	nan	"('finished', 'amar1273-kotos', 'na-sopu')"	nan		
+583	finished	pmpacd	proto-MP-ACD 2	Austronesian		*upus	nan	nan	"('finished', 'amar1273-kotos', 'na-sopu')"	nan		
+588	flower (in e.g. mangga tree)	pmpacd	proto-MP-ACD 2	Austronesian		*buŋaŋ	nan	nan	"('flower (in e.g. mangga tree)', 'adon1237', 'ˈpuhũ')"	nan		
+589	vein	pmpacd	proto-MP-ACD 2	Austronesian		*uRat	nan	nan	"('vein', 'pmpacd', '*uRat')"	nan		
+590	long (stick)	pmpacd	proto-MP-ACD 2	Austronesian		*anaduq	nan	nan	"('long (stick)', 'amar1273-kotos', 'mnanuʔ')"	nan		
+591	tall (person)	pmpacd	proto-MP-ACD 2	Austronesian		*atas	nan	nan	"('tall (person)', 'pmpacd', '*atas')"	nan		
+591	tall (person)	pmpacd	proto-MP-ACD 2	Austronesian		*laŋkaw	nan	nan	"('tall (person)', 'adan1251-lawah', 'lawen')"	nan		
+592	short (stick)	pmpacd	proto-MP-ACD 2	Austronesian		*babaq	"*babaq 'lower surface, bottom; short, low; below, beneath, under'"	nan	"('short (stick)', 'amar1273-kotos', 'paraʔ')"	nan		
+593	narrow (road)	pmpacd	proto-MP-ACD 2	Austronesian		*gipit	"Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight)."	nan	"('narrow (road)', 'adan1251-otvai', 'kapuh')"	nan		
+593	narrow (road)	pmpacd	proto-MP-ACD 2	Austronesian		*iput	"Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight)."	nan	"('narrow (road)', 'adan1251-otvai', 'kapuh')"	nan		
+593	narrow (road)	pmpacd	proto-MP-ACD 2	Austronesian		*kiput	"Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight)."	nan	"('narrow (road)', 'adan1251-otvai', 'kapuh')"	nan		
+593	narrow (road)	pmpacd	proto-MP-ACD 2	Austronesian		*kipit	"Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight)."	nan	"('narrow (road)', 'adan1251-otvai', 'kapuh')"	nan		
+598	to chase away; to expel	pmpacd	proto-MP-ACD 2	Austronesian		*buRaw	nan	nan	"('to chase away; to expel', 'alor1249-sar-a', 'buráh')"	nan		
