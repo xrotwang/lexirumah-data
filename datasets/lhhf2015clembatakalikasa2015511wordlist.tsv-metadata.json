@@ -1,16 +1,22 @@
 {
-	"language": "sout2896-kalik",
-	"sources": [{
-		"recorders": ["Hanna Fricke"],
-		"date": "2015-05-11, 2015-05-15",
-		"location": "Kalikasa, Kecamatan Atadei, Lembata, NTT, Indonesia",
-		"speakers": [{
-			"name": "Wilhelmus Weka",
-			"speaker code": "WW"
-		}]
-	}],
-	"abstract": "[No description]",
-	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lhhf2015clembatakalikasawordlist.tsv",
-	"id": "lhhf2015clembatakalikasawordlist",
-	"name": "LH_HF_2015_C Lembata_Kalikasa_word list"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lhhf2015clembatakalikasawordlist.tsv",
+  "id": "lhhf2015clembatakalikasawordlist",
+  "language": "sout2896-kalik",
+  "name": "LH_HF_2015_C Lembata_Kalikasa_word list",
+  "sources": [
+    {
+      "date": "2015-05-11, 2015-05-15",
+      "location": "Kalikasa, Kecamatan Atadei, Lembata, NTT, Indonesia",
+      "recorders": [
+        "Hanna Fricke"
+      ],
+      "speakers": [
+        {
+          "name": "Wilhelmus Weka",
+          "speaker code": "WW"
+        }
+      ]
+    }
+  ]
 }

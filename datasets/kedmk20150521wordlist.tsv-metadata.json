@@ -1,16 +1,23 @@
 {
-  	"language": "keda1252",
-	"sources": [{
-		"recorders": ["Marian Klamer", "Yunus Sulistyono"],
-		"date": "2015-05-21",
-		"location": "Leubatang, Kedang, Lembata",
-		"speakers": [{
-			"name": "Manan Yusuf",
-			"speaker code": "MY"
-		}]
-	}],
   "abstract": "[No description]",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/kedmk20150521wordlist.tsv",
   "id": "kedmk20150521wordlist",
-  "name": "KED_MK_2015_05_21_word list"
+  "language": "keda1252",
+  "name": "KED_MK_2015_05_21_word list",
+  "sources": [
+    {
+      "date": "2015-05-21",
+      "location": "Leubatang, Kedang, Lembata",
+      "recorders": [
+        "Marian Klamer",
+        "Yunus Sulistyono"
+      ],
+      "speakers": [
+        {
+          "name": "Manan Yusuf",
+          "speaker code": "MY"
+        }
+      ]
+    }
+  ]
 }
