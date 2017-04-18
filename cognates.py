@@ -11,9 +11,25 @@ alignment.
 import sys
 
 import pandas
+import collections
+
 import argparse
 import pyclpa.util
 from lingpy import LexStat, Alignments
+import lingpy.align.multiple
+
+from infomapcog.ipa2asjp import ipa2asjp, tokenize_word_reversibly
+
+
+class KeyAwareDefaultDict(collections.defaultdict):
+    """A defaultdict that creates based on key."""
+
+    def __missing__(self, key):
+        """What to do for a missing key."""
+        if self.default_factory is None:
+            raise KeyError((key,))
+        self[key] = value = self.default_factory(key)
+        return value
 
 
 def cognate_detect(segments):
@@ -139,6 +155,8 @@ if __name__ == "__main__":
                         want to re-use an existing automatic cognate
                         coding file: --start 2 --coding unaligned.tsv
                         """)
+    parser.add_argument("--align", action='store_true', default=False,
+                        help="Re-align all classes")
     parser.add_argument("--reset", action="append", default=[],
                         help="Cognate IDs, meanings and language IDs to reset to automatic coding")
     args = parser.parse_args()
@@ -160,10 +178,17 @@ if __name__ == "__main__":
 
         data = data[~pandas.isnull(data["IPA"])]
 
-        data["IPA"] = [x.replace(" ", "_") for x in data["IPA"]]
-        data["TOKENS"] = [" ".join(tokenize(x)) for x in data["IPA"]]
+        data["IPA"] = [x.replace(" ", "_").replace("[", "(").replace("]", ")")
+                       for x in data["IPA"]]
 
-        data["ALIGNMENT"] = list(alignment(data))
+        data["TOKENS"] = [" ".join(tokenize_word_reversibly(x))
+                          for x in data["IPA"]]
+
+        if args.align or "ALIGNMENT" not in data.columns:
+            data["ALIGNMENT"] = data["TOKENS"]
+
+        data["ASJP"] = [" ".join(ipa2asjp(x))
+                        for x in data["IPA"]]
 
         data["COGNATE_SET"] = [
             "" if (i=='nan' or pandas.isnull(i) or not i) else
@@ -306,33 +331,35 @@ if __name__ == "__main__":
                         sep="\t")
 
     if args.start <= 4 <= args.end:
-        # align data
-        alm = Alignments('tap-cognates-merged.tsv', ref='COGID',
-                         segments='ALIGNMENT', transcription='IPA',
-                         alignment='ALIGNMENT')
-        alm.align(override=True, alignment='AUTO_ALIGNMENT', iteration=True,
-                  mode="dialign", method="progressive", model="sca")
-        alm.output('tsv', filename='tap-aligned', ignore='all', prettify=False)
+        cognates = pandas.read_csv('tap-cognates-merged.tsv', sep='\t',
+                                   keep_default_na=False, na_values=[""])
+        for c, cognateclass in cognates.groupby("COGID"):
+            if args.align or len(
+                    {len(x.split()) for x in cognateclass["ALIGNMENT"]}) > 1:
+                forms = list(cognateclass["IPA"])
 
-    if args.start <= 5 <= args.end:
-        alignments = pandas.read_csv(
-            'tap-aligned.tsv',
-            sep="\t",
-            na_values=[""],
-            keep_default_na=False,
-            encoding='utf-8')
-        for cogid, cognate_class in alignments.groupby("COGID"):
-            is_aligned = {None
-                        if pandas.isnull(x)
-                        else len(x.split())
-                        for x in cognate_class['ALIGNMENT']}
-            if len(is_aligned) != 1:
-                # Alignment lengths don't match, don't trust the alignment
-                for i in cognate_class.index:
-                    alignments.set_value(i, 'ALIGNMENT',
-                                        alignments.loc[i].get('AUTO_ALIGNMENT', '-'))
+                m = lingpy.align.multiple.Multiple(forms)
+                m.prog_align(
+                    classes='asjp',
+                    sonar=False,
+                    gop=-0.9,
+                    tree_calc='upgma',
+                    scale=0.9,
+                    scoredict=KeyAwareDefaultDict(
+                        lambda x: 1 if x[0] == x[1] else (
+                            -2 if '0' in x else -1)))
 
-        alignments.to_csv("tap-alignments-merged.tsv",
+                for (i, row), al in zip(cognateclass.iterrows(), m.alm_matrix):
+                    ipa = cognates["IPA"][i]
+                    for c in range(len(al)):
+                        if al[c] != "-":
+                            al[c] = ipa[:len(al[c])]
+                            ipa = ipa[len(al[c]):]
+                    print(al)
+                    cognates.set_value(
+                        i, "ALIGNMENT", " ".join(al))
+
+        cognates.to_csv("tap-aligned.tsv",
                         index=False,
                         na_rep="",
                         sep="\t")
