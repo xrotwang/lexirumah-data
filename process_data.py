@@ -202,8 +202,8 @@ def import_contribution_metadata(
         # The idea is the filename without extension
         name=md.get("name", default_name),
         # The name is the filename with extension
-        references_text=str(md.get("source", []) +
-                            md.get("references", [])),
+        # references_text=str(md.get("source", []) +
+        #                     md.get("references", [])),
         # We expect "source" to stand for primary linguistic data
         # (audio files etc.), and "references" to point to
         # bibliographic data. TODO: But that's a thing we will sort
