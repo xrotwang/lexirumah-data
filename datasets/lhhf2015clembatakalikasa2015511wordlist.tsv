@@ -3,6 +3,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 1	sun	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	luˈvak	nan	nan	('sun', 'adon1237', 'ˈrɜra')	nan		W1a
 2	moon	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vuˈlan	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 3	star	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	toˈnar	nan	nan	('star', 'lama1277-imulo', 'tonar')	nan		W1a
+3	star	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	toˈna	nan	nan	('star', 'lama1277-imulo', 'tonar')	nan		NB
 4	night	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	buk	nan	nan	"('night', 'keda1252', ""u'bɛn"")"	nan		W1a
 5	day	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	leˈd͡ʒo	nan	nan	('day', 'abui1241-fuime', 'tadeng')	nan		W1a
 6	year	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tun	nan	nan	('year', 'abui1241-petle', 'tuŋ')	nan		W1a
@@ -11,9 +12,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 9	day before yesterday	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈd͡ʒəma ˈd͡ʒua be	nan	nan	('day before yesterday', 'cent2245-hewa', 'rəma_rua_ete')	nan		W1a
 10	tomorrow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bamˈbe	nan	nan	('tomorrow', 'sout2896-kalik', 'bamˈbe')	nan		W1a
 11	day after tomorrow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈd͡ʒəma ˈd͡ʒua	nan	nan	('day after tomorrow', 'cent2245-hewa', 'rema_rua')	nan		W1a
-12	twilight; dawn	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈeka buˈd͡ʒak	nan	nan	"('twilight; dawn', 'adon1237', ""ʔekã_'dahe"")"	nan		W1aC1
+12	"twilight; dawn"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈeka buˈd͡ʒak	nan	nan	"('twilight; dawn', 'adon1237', ""ʔekã_'dahe"")"	nan		W1aC1
 13	cloud	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	koˈvar	in the recording this word has the suffix -u	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan		W1a
+13	cloud	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	koˈva	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan		NB
 14	wind	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈŋin	in the recording this word has the suffix -u	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		W1a
+14	wind	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈŋi	nan	nan	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		NB
 15	rain	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈd͡ʒan	nan	nan	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		W1a
 16	drizzle	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈd͡ʒan ɡrəˈtik	nan	nan	"('drizzle', 'alor1247-besar', ""'uraŋ_fa'rɛha-fa'rɛha"")"	nan		W1a
 17	rainbow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tokˈbad͡ʒu	nan	nan	('rainbow', 'sout2896-kalik', 'tokˈbad͡ʒu')	nan		W1a
@@ -21,32 +24,35 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 19	lightning	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ksiˈlap	nan	nan	"('lightning', 'adon1237', ""kɜ'hilat"")"	nan		W1a
 20	earthquake	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈblero ɛˈkok	nan	nan	"('earthquake', 'adon1237', ""'brero"")"	nan		W1a
 21	fog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	koˈvaru bənəˈbət	#NAME?	nan	('fog', 'sout2896-kalik', 'koˈvaru_bənəˈbət')	nan		W1a
-22	river; stream	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈbak	nan	nan	('river; stream', 'abui1241-fuime', 'lu')	nan		W1a
+22	"river; stream"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈbak	nan	nan	"('river; stream', 'abui1241-fuime', 'lu')"	nan		W1a
 25	lake	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvai liˈvuŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 26	mountain	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈler	in the recording this word has the suffix -u	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan		W1a
-26	mountain	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈli	in the recording this word has the suffix -u	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan		NB
-27	hill; ridge	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvoloŋ	nan	nan	('hill; ridge', 'cent2245-hewa', 'ʋolon')	nan		W1a
-28	village	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈvu	in the recording this word has the suffix -u	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		W1a; NB
-28	village	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈvɔr	in the recording this word has the suffix -u	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		W1a; NB
-29	land; soil	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈna	in the recording this word has the suffix -u	nan	('land; soil', 'abui1241-fuime', 'anei')	nan		W1a; W1a
-29	land; soil	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈnan	in the recording this word has the suffix -u	nan	('land; soil', 'abui1241-fuime', 'anei')	nan		W1a; W1a
+26	mountain	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈli	nan	nan	"('mountain', 'adon1237', ""'ʔile"")"	nan		NB
+27	"hill; ridge"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvoloŋ	nan	nan	"('hill; ridge', 'cent2245-hewa', 'ʋolon')"	nan		W1a
+27	"hill; ridge"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvolo	nan	nan	"('hill; ridge', 'cent2245-hewa', 'ʋolon')"	nan		NB
+28	village	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈvu	nan	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		"W1a; NB"
+28	village	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈvɔr	in the recording this word has the suffix -u	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		"W1a; NB"
+29	"land; soil"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈna	nan	nan	"('land; soil', 'abui1241-fuime', 'anei')"	nan		"W1a; W1a"
+29	"land; soil"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈnan	in the recording this word has the suffix -u	nan	"('land; soil', 'abui1241-fuime', 'anei')"	nan		"W1a; W1a"
 30	Earth	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtana ˈɛkan	nan	nan	('Earth', 'abui1241-fuime', 'buku')	nan		W1a
 31	hole	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈmaŋ	nan	nan	('hole', 'lama1278', 'ˈumaŋ')	nan		W1a
-32	stone	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈtɔr	in the recording this word has the suffix -u	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a; W1a
-32	stone	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvatu	in the recording this word has the suffix -u	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a; W1a
+31	hole	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈma	nan	nan	('hole', 'lama1278', 'ˈumaŋ')	nan		NB
+32	stone	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈtɔr	in the recording this word has the suffix -u	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		"W1a; W1a"
+32	stone	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvatu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		NB
 33	coral (rock)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvatu kaˈraŋ	nan	nan	('coral (rock)', 'kira1248', 'wor_katan')	nan		W1a
-35	water (fresh)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈɛr	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		W1a; W1a
-35	water (fresh)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvai	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		W1a; W1a
-36	sea; sea water	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	loˈd͡ʒɔr	nan	nan	('sea; sea water', 'sout2896-kalik', 'loˈd͡ʒɔr')	nan		W1a
+35	water (fresh)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈɛr	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		"W1a; W1a"
+35	water (fresh)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvai	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		"W1a; W1a"
+36	"sea; sea water"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	loˈd͡ʒɔr	nan	nan	"('sea; sea water', 'sout2896-kalik', 'loˈd͡ʒɔr')"	nan		W1a
 37	wave	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɔˈd͡ʒɔk	nan	nan	"('wave', 'alor1247-munas', ""'ɔdʒɔʔ"")"	nan		W1a
 38	foam	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈvud͡ʒa	nan	nan	('foam', 'sout2896-kalik', 'pəˈvud͡ʒa')	nan		W1a
-39	forest	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈŋak	nan	nan	('forest', 'sout2896-kalik', 'maˈŋak')	nan		W1a; F1
-39	forest	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈduan	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan		W1a; F1
+39	forest	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈŋak	nan	nan	('forest', 'sout2896-kalik', 'maˈŋak')	nan		"W1a; F1"
+39	forest	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈduan	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan		"W1a; F1"
 40	field	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nəˈpan	nan	nan	('field', 'sout2896-kalik', 'nəˈpan')	nan		
-43	garden	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	eka	in the recording the word has the suffix -u	nan	('garden', 'sout2896-kalik', 'eka')	nan		W1a
+43	garden	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	eka	nan	nan	('garden', 'sout2896-kalik', 'eka')	nan		W1a
 43	garden	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ekan	in the recording the word has the suffix -u	nan	('garden', 'sout2896-kalik', 'eka')	nan		W1a
 44	fence	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈdal	nan	nan	('fence', 'adan1251-otvai', 'fɔ')	nan		W1a
-45	road; path; way	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈlan	nan	nan	('road; path; way', 'abui1241-fuime', 'sefoko')	nan		W1a
+45	"road; path; way"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈlan	nan	nan	"('road; path; way', 'abui1241-fuime', 'sefoko')"	nan		W1a
+45	"road; path; way"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈla	nan	nan	"('road; path; way', 'abui1241-fuime', 'sefoko')"	nan		NB
 46	canoe	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tena	nan	nan	('canoe', 'sout2896-kalik', 'tena')	nan		W1a
 46	canoe	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	teˈnar	nan	nan	('canoe', 'sout2896-kalik', 'tena')	nan		W1a
 47	sail (n.)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	lad͡ʒar	it is a clan name	nan	('sail (n.)', 'adan1251-otvai', 'lai')	nan		?
@@ -56,88 +62,106 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 51	rope	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈli	nan	nan	('rope', 'abui1241-fuime', 'tila')	nan		NB
 51	rope	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈlɛr	nan	nan	('rope', 'abui1241-fuime', 'tila')	nan		W1a
 52	machete	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	peˈdar	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
-53	axe	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkapa	nan	nan	"('axe', 'adon1237', ""soru_'kɑpa"")"	nan		W1a
+52	machete	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	peˈda	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		NB
+53	axe	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkapak	nan	nan	"('axe', 'adon1237', ""soru_'kɑpa"")"	nan		W1a
+53	axe	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkapa	nan	nan	"('axe', 'adon1237', ""soru_'kɑpa"")"	nan		NB
 54	spear	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡaˈlar	nan	nan	"('spear', 'adon1237', ""'ɡalaʔ"")"	nan		W1a
+54	spear	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡaˈla	nan	nan	"('spear', 'adon1237', ""'ɡalaʔ"")"	nan		NB
 55	burden stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bəleˈbar	in the recording the word has the suffix -u	nan	"('burden stick', 'adon1237', ""bə'lebaʔ"")"	nan		W1a
-56	stick; pole	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nɔˈdɔk	in the recording the word has the suffix -u	nan	('stick; pole', 'blag1240-kulij', 'hudok')	nan		W1a
+55	burden stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bəleˈba	nan	nan	"('burden stick', 'adon1237', ""bə'lebaʔ"")"	nan		NB
+56	"stick; pole"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nɔˈdɔk	in the recording the word has the suffix -u	nan	"('stick; pole', 'blag1240-kulij', 'hudok')"	nan		W1a
 57	digging stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	snɔˈkar	nan	nan	('digging stick', 'sout2896-kalik', 'snɔˈkar')	nan		W1a
-58	dibble stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈaŋ	in the recording uang has the suffix -u	nan	('dibble stick', 'sout2896-kalik', 'uˈaŋ')	nan		W1a; W1a
-58	dibble stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈsnipat	in the recording uang has the suffix -u	nan	('dibble stick', 'sout2896-kalik', 'uˈaŋ')	nan		W1a; W1a
+58	dibble stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈa	nan	nan	('dibble stick', 'sout2896-kalik', 'uˈaŋ')	nan		NB
+58	dibble stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈaŋ	in the recording uang has the suffix -u	nan	('dibble stick', 'sout2896-kalik', 'uˈaŋ')	nan		"W1a; W1a"
+58	dibble stick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈsnipat	in the recording uang has the suffix -u	nan	('dibble stick', 'sout2896-kalik', 'uˈaŋ')	nan		"W1a; W1a"
 59	bow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vuˈvu	nan	nan	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		NB
 59	bow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vuˈvɔr	nan	nan	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		W1a
 60	arrow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈsupəl	in the recording the word has the suffix -u	nan	('arrow', 'lamm1241', 'upal')	nan		W1a
 61	knife	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈrit	nan	nan	('knife', 'sout2896-kalik', 'məˈrit')	nan		W1a
 62	comb	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kiˈrer	in the recording kirer has the suffix -u	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
+62	comb	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kiˈri	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		NB
 63	mat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	oˈsan	in the recording osan has the suffix -u	nan	('mat', 'adon1237', 'ˈʔɔhãː')	nan		W1a
+63	mat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	oˈsa	nan	nan	('mat', 'adon1237', 'ˈʔɔhãː')	nan		NB
 64	needle	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlusir	nan	nan	('needle', 'sout2896-kalik', 'ˈlusir')	nan		W1a
-65	clothing	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈka-ŋa	1) ŋa is a plural suffix, 2) literally 'on the waist' (see also no. 66)	nan	('clothing', 'sout2896-kalik', 'məˈka-ŋa')	nan		W1b; W1b
+65	clothing	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈkaŋ-a	a is a plural suffix, singular is məka / məkaŋ	nan	('clothing', 'sout2896-kalik', 'məˈka-ŋa')	nan		"W1b; W1b"
 65	clothing	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈale ˈlolo	see also no. 118. ale lolo menas litarally 'on the waist'	nan	('clothing', 'adon1237', 'aleˈlolo')	nan		W1a
-65	clothing	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈale ˈlɔlɔ	1) ŋa is a plural suffix, 2) literally 'on the waist' (see also no. 66)	nan	('clothing', 'adon1237', 'aleˈlolo')	nan		W1b; W1b
+65	clothing	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈale ˈlɔlɔ	literally 'on the waist'	nan	('clothing', 'adon1237', 'aleˈlolo')	nan		"W1b; W1b"
 67	fire	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈpi	nan	nan	('fire', 'adon1237', 'ˈʔape')	nan		NB
 67	fire	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈper	in the recording the word has the suffix -u	nan	('fire', 'adon1237', 'ˈʔape')	nan		W1a
 68	smoke	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	snəˈɡur	nan	nan	('smoke', 'lama1277-lamal', 'sənəgur')	nan		W1a
 69	ash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈvɔk	nan	nan	('ash', 'sout2896-kalik', 'kaˈvɔk')	nan		W1a
-70	dust; fine earth	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈmʊt	in the recording the word has the suffix -u	nan	('dust; fine earth', 'adon1237', 'ʔɜˈmut')	nan		W1a
+70	"dust; fine earth"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈmʊt	in the recording the word has the suffix -u	nan	"('dust; fine earth', 'adon1237', 'ʔɜˈmut')"	nan		W1a
 71	fireplace ash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈvɔk	nan	nan	('fireplace ash', 'adon1237', 'kɜˈʔawuk')	nan		W1a
 72	mud	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	keˈmat	nan	nan	('mud', 'sout2896-kalik', 'keˈmat')	nan		W1a
 73	clay	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈna vaˈkɔt	nan	nan	('clay', 'sout2896-kalik', 'əˈna_vaˈkɔt')	nan		W1a
-74	gravel	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vuˈrɛs-a	wuresa is plural of wurek	nan	('gravel', 'sout2896-kalik', 'vuˈrɛsa')	nan		W1a; W1a
-74	gravel	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvatu vuˈrɛk	wuresa is plural of wurek	nan	('gravel', 'sout2896-kalik', 'vuˈrɛsa')	nan		W1a; W1a
+74	gravel	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vuˈrɛs-a	wuresa is plural of wurek	nan	('gravel', 'sout2896-kalik', 'vuˈrɛsa')	nan		"W1a; W1a"
+74	gravel	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈvatu vuˈrɛk	wuresa is plural of wurek	nan	('gravel', 'sout2896-kalik', 'vuˈrɛsa')	nan		"W1a; W1a"
 75	sand	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbotan	nan	nan	('sand', 'keda1252-leuwa', 'buta')	nan		W1a
-76	grass; brush	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	krəˈkak	nan	nan	('grass; brush', 'sout2896-kalik', 'krəˈkak')	nan		W1a
-77	house	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈnan	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		W1a; W1a
-77	house	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈuna	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		W1a; W1a
+75	sand	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbota	nan	nan	('sand', 'keda1252-leuwa', 'buta')	nan		NB
+76	"grass; brush"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	krəˈkak	nan	nan	"('grass; brush', 'sout2896-kalik', 'krəˈkak')"	nan		W1a
+77	house	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈnan	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		"W1a; W1a"
+77	house	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈuna	nan	nan	"('house', 'alor1247-baran', ""'ʔuma"")"	nan		"W1a; W1a"
 78	traditional house	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈuna keˈdak	nan	nan	('traditional house', 'abui1241-fuime', 'kadang')	nan		W1a
-79	barn; storage house	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	veˈtak	nan	nan	('barn; storage house', 'sout2896-kalik', 'veˈtak')	nan		W1a
+79	"barn; storage house"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	veˈtak	nan	nan	"('barn; storage house', 'sout2896-kalik', 'veˈtak')"	nan		W1a
 80	raised platform	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈlik	nan	nan	('raised platform', 'abui1241-fuime', 'lik')	nan		W1a
-81	door	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	knaˈvɛr	nan	nan	('door', 'lama1278', 'kəˈnawe')	nan		W1b; W1b
+81	door	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	knaˈvɛr	nan	nan	('door', 'lama1278', 'kəˈnawe')	nan		"W1b; W1b"
 81	door	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈknaver	nan	nan	('door', 'lama1278', 'kəˈnawe')	nan		W1a
 81	door	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈknavi	nan	nan	('door', 'lama1278', 'kəˈnawe')	nan		W1a
-82	(thatch) roof	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	naˈkər	nan	nan	('(thatch) roof', 'adon1237', 'ˈnakɜ')	nan		W1a; W1a
-82	(thatch) roof	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈvuŋ	uwung actually means ridge of a roof …	nan	('(thatch) roof', 'sout2896-kalik', 'uˈvuŋ')	nan		W1a; W1a
+82	(thatch) roof	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	naˈkər	nan	nan	('(thatch) roof', 'adon1237', 'ˈnakɜ')	nan		"W1a; W1a"
+82	(thatch) roof	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈvuŋ	uwung actually means ridge of a roof …	nan	('(thatch) roof', 'sout2896-kalik', 'uˈvuŋ')	nan		"W1a; W1a"
+82	(thatch) roof	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈvu	uwung actually means ridge of a roof …	nan	('(thatch) roof', 'sout2896-kalik', 'uˈvuŋ')	nan		NB
 83	roof thatch	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	luˈɔr	in the recording the word has the suffix -u	nan	('roof thatch', 'adon1237', 'ˈluʔo')	nan		W1a
-84	tree	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒu	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan		W1a; W1a
-84	tree	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒɔr	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan		W1a; W1a
-85	wood	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒu	nan	nan	('wood', 'maka1316', 'ata')	nan		W1a; W1a
-85	wood	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒɔr	nan	nan	('wood', 'maka1316', 'ata')	nan		W1a; W1a
+83	roof thatch	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	luˈɔ	nan	nan	('roof thatch', 'adon1237', 'ˈluʔo')	nan		NB
+84	tree	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒu	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan		"W1a; W1a"
+84	tree	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒɔr	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan		"W1a; W1a"
+85	wood	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒu	nan	nan	('wood', 'maka1316', 'ata')	nan		"W1a; W1a"
+85	wood	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒɔr	nan	nan	('wood', 'maka1316', 'ata')	nan		"W1a; W1a"
 86	bark (of tree)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒu kaˈmak	nan	nan	('bark (of tree)', 'adon1237', 'kajo_ˈkaʔmã')	nan		W1a
 87	leaf	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	lɔˈlon	nan	nan	('leaf', 'adon1237', 'ˈlolõ')	nan		W1a
 88	branch	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	viˈkil	nan	nan	('branch', 'adon1237', 'ˈwikʔĩ')	nan		W1a
 89	firewood	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒɔr ta doˈsɔm	literally 'the wood that we burn'	nan	('firewood', 'sout2896-kalik', 'ˈkad͡ʒɔr_ta_doˈsɔm')	nan		W1a
 90	rattan	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈad͡ʒ	in the recording the word hat the suffix -u	nan	('rattan', 'sout2896-kalik', 'uˈad͡ʒ')	nan		W1a
+90	rattan	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈa	nan	nan	('rattan', 'sout2896-kalik', 'uˈad͡ʒ')	nan		NB
 91	root	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	raˈmut	nan	nan	('root', 'abui1241-fuime', 'bata_ai')	nan		W1a
 92	fruit	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vuˈak	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		W1a
 93	seed	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	riˈuk	nan	nan	('seed', 'lama1277-lewot', 'riuk')	nan		W1a
-94	grain; cereal	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	liˈsɔ-d͡ʒa	d͡ʒa is a plural suffix, lisu means rice	nan	('grain; cereal', 'adan1251-otvai', 'naʔfail')	nan		W1a
+94	"grain; cereal"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	liˈsɔ-d͡ʒa	d͡ʒa is a plural suffix, lisu means rice	nan	"('grain; cereal', 'adan1251-otvai', 'naʔfail')"	nan		W1a
 95	flower	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbuŋa	nan	nan	('flower', 'abui1241-fuime', 'kiki')	nan		W1a
-96	husked rice; uncooked rice	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlisɔ daˈnen	nan	nan	"('husked rice; uncooked rice', 'keda1252', ""ʔa'nɛn"")"	nan		W1a
+96	"husked rice; uncooked rice"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlisɔ daˈnen	nan	nan	"('husked rice; uncooked rice', 'keda1252', ""ʔa'nɛn"")"	nan		W1a
 97	rice grains (unhusked) (raw from field)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlisɔ kaˈrad͡ʒ	nan	nan	('rice grains (unhusked) (raw from field)', 'sout2896-kalik', 'ˈlisɔ_kaˈrad͡ʒ')	nan		W1a
 98	cooked rice	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəluˈɔk	nan	nan	('cooked rice', 'maka1316', 'koi')	nan		W1a
 99	rice plant	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	liˈsɔ	nan	nan	('rice plant', 'sout2896-kalik', 'liˈsɔr')	nan		NB
 99	rice plant	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	liˈsɔr	in the recordinɡ the word has the suffix -u	nan	('rice plant', 'sout2896-kalik', 'liˈsɔr')	nan		W1a
 100	to plant (yam)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	mul	nan	nan	('to plant (yam)', 'abui1241-fuime', 'murua')	nan		W1a
 101	to plant (rice)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	mul (ˈlisɔ)	nan	nan	('to plant (rice)', 'adon1237', 'ˈtubak,_ˈmula')	nan		W1a
-102	betel nut; areca	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kleˈruk	nan	nan	('betel nut; areca', 'sout2896-kalik', 'kleˈruk')	nan		W1a
+102	"betel nut; areca"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kleˈruk	nan	nan	"('betel nut; areca', 'sout2896-kalik', 'kleˈruk')"	nan		W1a
 103	betel vine	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈlɔr	nan	nan	('betel vine', 'adon1237', 'ˈmaluʔ')	nan		W1a
+103	betel vine	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈlu	nan	nan	('betel vine', 'adon1237', 'ˈmaluʔ')	nan		NB
 104	lime	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈpʊr	nan	nan	('lime', 'adon1237', 'ˈʔapuʔ')	nan		W1a
 105	chew betel	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡa malɔˈlɔ	nan	nan	('chew betel', 'adon1237', 'ɡãːˈwuaʔ')	nan		W1a
 106	sweet potato	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	saˈvan	nan	nan	('sweet potato', 'sout2896-kalik', 'saˈvan')	nan		W1a
+106	sweet potato	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	saˈva	nan	nan	('sweet potato', 'sout2896-kalik', 'saˈvan')	nan		NB
 107	cassava	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	skaˈd͡ʒo uˈsər	nan	nan	('cassava', 'sout2896-kalik', 'skaˈd͡ʒo_uˈsər')	nan		W1a
 110	millet	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vəˈtəm	nan	nan	"('millet', 'keda1252', ""wɛ'rɛʔ"")"	nan		W1a
 111	sugarcane	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈvɔr	nan	nan	('sugarcane', 'adon1237', 'ˈtɜwɔ')	nan		W1a
-112	corn; maize	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kvaˈrɔr	nan	nan	('corn; maize', 'sout2896-kalik', 'kvaˈrɔr')	nan		W1a
-112	corn; maize	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkvaru	nan	nan	('corn; maize', 'sout2896-kalik', 'kvaˈrɔr')	nan		W1a
+111	sugarcane	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈvu	nan	nan	('sugarcane', 'adon1237', 'ˈtɜwɔ')	nan		NB
+112	"corn; maize"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kvaˈrɔr	nan	nan	"('corn; maize', 'sout2896-kalik', 'kvaˈrɔr')"	nan		W1a
+112	"corn; maize"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkvaru	nan	nan	"('corn; maize', 'sout2896-kalik', 'kvaˈrɔr')"	nan		W1a
 113	cooked corn	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəbaˈŋa-d͡ʒa	d͡ʒa is a plural suffix	nan	('cooked corn', 'sout2896-kalik', 'kəbaˈŋa-d͡ʒa')	nan		W1a
 114	coconut	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tapu	nan	nan	('coconut', 'adon1237', 'ˈtapo')	nan		NB
 114	coconut	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tapɔr	nan	nan	('coconut', 'adon1237', 'ˈtapo')	nan		W1a
 116	lontar palm	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkolɛr	nan	nan	"('lontar palm', 'abui1241-takal', ""äj.'qɔl"")"	nan		W1a
-117	sugar palm	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkebɔl	nan	nan	('sugar palm', 'lama1278', 'ˈkɛbɔ')	nan		
-118	marungga	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	moˈtɔŋ	nan	nan	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		
-119	gum tree; eucalyptus	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒu buˈd͡ʒak	could be a literal translation from ɪndonesian	nan	"('gum tree; eucalyptus', 'alor1247-besar', ""'kaʤɔ_bu'rakaŋ"")"	nan		
+116	lontar palm	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkoli	nan	nan	"('lontar palm', 'abui1241-takal', ""äj.'qɔl"")"	nan		NB
+117	sugar palm	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkebɔl	nan	nan	('sugar palm', 'lama1278', 'ˈkɛbɔ')	nan		NB
+118	marungga	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	moˈtɔŋ	nan	nan	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		NB
+118	marungga	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	moˈtɔ	nan	nan	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		NB
+119	"gum tree; eucalyptus"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkad͡ʒu buˈd͡ʒak	could be a literal translation from Indonesian	nan	"('gum tree; eucalyptus', 'alor1247-besar', ""'kaʤɔ_bu'rakaŋ"")"	nan		
 120	bamboo	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈru	no ɡeneral word for bamboo	nan	('bamboo', 'abui1241-fuime', 'mai')	nan		NB
 120	bamboo	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈrɔr	no ɡeneral word for bamboo	nan	('bamboo', 'abui1241-fuime', 'mai')	nan		W1a
 120	bamboo	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈtuŋ	no ɡeneral word for bamboo	nan	('bamboo', 'abui1241-fuime', 'mai')	nan		W1a
+120	bamboo	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈtu	no ɡeneral word for bamboo	nan	('bamboo', 'abui1241-fuime', 'mai')	nan		NB
 120	bamboo	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈrim	no ɡeneral word for bamboo	nan	('bamboo', 'abui1241-fuime', 'mai')	nan		W1a
+120	bamboo	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈri	no ɡeneral word for bamboo	nan	('bamboo', 'abui1241-fuime', 'mai')	nan		NB
 120	bamboo	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bəˈlaŋ	no ɡeneral word for bamboo	nan	('bamboo', 'abui1241-fuime', 'mai')	nan		W1a
 121	banana	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmuku	nan	nan	('banana', 'abui1241-fuime', 'musa')	nan		W1a
 121	banana	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmukɔr	nan	nan	('banana', 'abui1241-fuime', 'musa')	nan		W1a
@@ -147,13 +171,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 124	jackfruit	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kveˈrak	nan	nan	('jackfruit', 'adon1237', 'ˈkwɛrak')	nan		W1a
 125	breadfruit	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kuˈnʊr	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	nan		W1a
 126	bean	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈtan	nan	nan	('bean', 'adan1251-lawah', 'ʔutuŋ')	nan		W1a
+126	bean	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈta	nan	nan	('bean', 'adan1251-lawah', 'ʔutuŋ')	nan		NB
 127	honey	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈrua ˈvaen	nan	nan	('honey', 'abui1241-fuime', 'nawaang')	nan		W1a
 128	milk	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈsu	nan	nan	('milk', 'adan1251-lawah', 'toʔ')	nan		NB
 128	milk	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈsɔr	nan	nan	('milk', 'adan1251-lawah', 'toʔ')	nan		W1a
 129	salt	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈra	nan	nan	('salt', 'abui1241-fuime', 'ati')	nan		NB
 129	salt	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈrar	nan	nan	('salt', 'abui1241-fuime', 'ati')	nan		W1a
 130	fat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	voˈd͡ʒak	nan	nan	('fat', 'abui1241-fuime', 'hetamada')	nan		W1a
-131	flesh; meat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	eˈlam	nan	nan	('flesh; meat', 'sout2896-kalik', 'eˈlam')	nan		W1a
+131	"flesh; meat"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	eˈlam	nan	nan	"('flesh; meat', 'sout2896-kalik', 'eˈlam')"	nan		W1a
 132	bone	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	riˈuk	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 133	rib	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kənaˈvan	nan	nan	('rib', 'adon1237', 'kɜˈnawaˈne')	nan		W1a
 134	sweat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	krəˈvun	nan	nan	('sweat', 'adon1237', 'ˈʔɜwũ')	nan		W1a
@@ -163,11 +188,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 138	heart	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	puˈo	nan	nan	('heart', 'adon1237', 'ˈpuho')	nan		W1a
 139	liver	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɔr	nan	nan	('liver', 'lama1277-imulo', 'orasa')	nan		W1a
 140	kidney	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kɛk	nan	nan	('kidney', 'sout2896-kalik', 'kɛk')	nan		W1a
-141	guts	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəbɔˈti	kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts	nan	('guts', 'adon1237', 'kɜˈbotĩ')	nan		W1a; W1a
-141	guts	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tai kaˈluŋ	kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts	nan	('guts', 'abui1241-fuime', 'tatok_falala')	nan		W1a; W1a
+141	guts	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəbɔˈti	"kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts"	nan	('guts', 'adon1237', 'kɜˈbotĩ')	nan		"W1a; W1a"
+141	guts	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tai kaˈluŋ	"kəbɔˈtiː ɡut; tai ˈkaluŋː ɡuts"	nan	('guts', 'abui1241-fuime', 'tatok_falala')	nan		"W1a; W1a"
 142	excrement	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈɛr	nan	nan	('excrement', 'abui1241-fuime', 'asi')	nan		W1a
+142	excrement	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈi	nan	nan	('excrement', 'abui1241-fuime', 'asi')	nan		NB
 143	lungs	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vuˈd͡ʒa	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		W1a
-144	stomach; belly	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tai	nan	nan	('stomach; belly', 'adon1237', 'taĩ,_taim')	nan		W1a
+144	"stomach; belly"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tai	nan	nan	"('stomach; belly', 'adon1237', 'taĩ,_taim')"	nan		W1a
 145	head	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈlu	nan	nan	('head', 'abui1241-fuime', 'kai')	nan		W1a
 146	hair	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈtar	nan	nan	('hair', 'adon1237', 'ˈrataʔ')	nan		W1a
 147	body hair	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	raˈvʊk	nan	nan	('body hair', 'adon1237', 'ˈrawuˈkɜt')	nan		W1a
@@ -193,10 +219,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 168	breast	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈsu	tusor? see also no. 129	nan	('breast', 'adan1251-lawah', 'toʔ')	nan		W1a
 169	chest	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kɔˈrɔk	nan	nan	('chest', 'adan1251-otvai', 'adel')	nan		W1a
 170	navel	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəpuˈsər	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
-171	penis	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kɔˈlɔŋ	ˈuti (vulɡar)	nan	('penis', 'sout2896-kalik', 'kɔˈlɔŋ')	nan		W1a; W1a
-171	penis	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈuti	ˈuti (vulɡar)	nan	('penis', 'adon1237', 'ˈute')	nan		W1a; W1a
-172	vagina	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈna	məˈna (vulɡar)	nan	('vagina', 'adon1237', 'ˈmɜna')	nan		W1a; W1a
-172	vagina	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈvi	məˈna (vulɡar)	nan	('vagina', 'sout2896-kalik', 'vaˈvi')	nan		W1a; W1a
+171	penis	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kɔˈlɔŋ	ˈuti (vulɡar)	nan	('penis', 'sout2896-kalik', 'kɔˈlɔŋ')	nan		"W1a; W1a"
+171	penis	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈuti	ˈuti (vulɡar)	nan	('penis', 'adon1237', 'ˈute')	nan		"W1a; W1a"
+172	vagina	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈna	məˈna (vulɡar)	nan	('vagina', 'adon1237', 'ˈmɜna')	nan		"W1a; W1a"
+172	vagina	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈvi	məˈna (vulɡar)	nan	('vagina', 'sout2896-kalik', 'vaˈvi')	nan		"W1a; W1a"
 173	testicles	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	lɛk	nan	nan	('testicles', 'sout2896-kalik', 'lɛk')	nan		W1a
 174	leg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	li	nan	nan	('leg', 'adon1237', 'ˈleikɜt')	nan		W1a
 175	foot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	li	nan	nan	('foot', 'adon1237', 'ˈleikɜt_tɜˈnɑpʔã')	nan		W1a
@@ -204,20 +230,21 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 177	sole of foot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	li əˈpak	nan	nan	('sole of foot', 'cent2245-hewa', 'ʋaʔi_əpak')	nan		W1a
 178	knee	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	loˈtɔr	nan	nan	('knee', 'sout2896-kalik', 'loˈtɔr')	nan		W1a
 179	back	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kənaˈru	is the final -u a suffix?	nan	('back', 'lewo1244', 'keko')	nan		W1a
-180	spine; lower back	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈnaru riˈuk	nan	nan	('spine; lower back', 'sout2896-kalik', 'kəˈnaru_riˈuk')	nan		W1a
+180	"spine; lower back"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈnaru riˈuk	nan	nan	"('spine; lower back', 'sout2896-kalik', 'kəˈnaru_riˈuk')"	nan		W1a
 181	waist	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈle	nan	nan	('waist', 'sout2896-kalik', 'aˈle')	nan		W1a
 182	skin	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kuˈda	nan	nan	('skin', 'lama1277-kalik', 'kudan')	nan		W1a
-183	sore; wound	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡaˈd͡ʒak	nan	nan	('sore; wound', 'sout2896-kalik', 'ɡaˈd͡ʒak')	nan		W1a
+183	"sore; wound"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡaˈd͡ʒak	nan	nan	"('sore; wound', 'sout2896-kalik', 'ɡaˈd͡ʒak')"	nan		W1a
 184	ringworm	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kənəˈtək	nan	nan	('ringworm', 'sout2896-kalik', 'kənəˈtək')	nan		W1a
 185	scabies	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈbura	nan	nan	('scabies', 'adon1237', 'kəˈbuʔu')	nan		W1a
 186	tinea	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kraˈposa	nan	nan	('tinea', 'sout2896-kalik', 'kraˈposa')	nan		W1a
 187	feverish	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈti ɡeˈɡet	nan	nan	('feverish', 'sout2896-kalik', 'kaˈti_ɡeˈɡet')	nan		W1a
 188	conjunctivitis	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈta ˈklara	nan	nan	('conjunctivitis', 'sout2896-kalik', 'maˈta_ˈklara')	nan		W1a
-189	cold; influenza	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nur	nan	nan	"('cold; influenza', 'alor1247-besar', ""'niruŋ_'matɛ"")"	nan		W1a; W1a
-189	cold; influenza	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nurən	nan	nan	"('cold; influenza', 'alor1247-besar', ""'niruŋ_'matɛ"")"	nan		W1a; W1a
+189	"cold; influenza"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nur	nan	nan	"('cold; influenza', 'alor1247-besar', ""'niruŋ_'matɛ"")"	nan		"W1a; W1a"
+189	"cold; influenza"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nurən	nan	nan	"('cold; influenza', 'alor1247-besar', ""'niruŋ_'matɛ"")"	nan		"W1a; W1a"
 190	person	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈata diˈkən	nan	nan	('person', 'abui1241-fuime', 'ama')	nan		W1a
 191	name	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnad͡ʒan	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 192	child	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kɔˈpɔŋ	nan	nan	('child', 'lama1277-kalik', 'kopoŋ')	nan		W1a
+192	child	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kɔˈpɔ	nan	nan	('child', 'lama1277-kalik', 'kopoŋ')	nan		NB
 193	man	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈmɛn	nan	nan	('man', 'fata1247', 'nami')	nan		W1a
 194	woman	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	biˈnɛn	nan	nan	"('woman', 'idat1237', ""mahi'nak"")"	nan		W1a
 195	husband	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈvan laˈme	nan	nan	('husband', 'lama1277-belan', 'ha')	nan		W1a
@@ -228,10 +255,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 200	younger sibling	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈd͡ʒin	nan	nan	('younger sibling', 'sout2896-kalik', 'vaˈd͡ʒin')	nan		W1a
 201	bride price	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	veˈli əˈlan	nan	nan	('bride price', 'abui1241-fuime', 'he-bel')	nan		W1a
 202	slave	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	sənuˈdaŋ	nan	nan	('slave', 'sout2896-kalik', 'sənuˈdaŋ')	nan		W1a
-203	1sg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡo	short form	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan		W1a; W1a; ?
-203	1sg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡone	nan	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan		W1a; W1a; ?
-204	2sg (informal)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	mo	short form	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		W1a; W1a
-204	2sg (informal)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	mone	nan	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		W1a; W1a
+203	1sg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡo	short form	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan		"W1a; W1a; ?"
+203	1sg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡone	nan	nan	('1sg', 'adon1237', 'ˈɡoʔɛ')	nan		"W1a; W1a; ?"
+204	2sg (informal)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	mo	short form	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		"W1a; W1a"
+204	2sg (informal)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	mone	nan	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		"W1a; W1a"
 206	3sg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	na	proclitic	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 206	3sg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nane	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 207	1pl excl	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kam	proclitic	nan	('1pl excl', 'adon1237', 'ˈkame')	nan		W1a
@@ -240,32 +267,39 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 209	2pl	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmio	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 210	3pl	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	da	proclitic	nan	"('3pl', 'alor1247-baran', ""'fe: sa'kali"")"	nan		W1a
 210	3pl	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	dane	nan	nan	"('3pl', 'alor1247-baran', ""'fe: sa'kali"")"	nan		W1a
-211	no; not	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtake	nan	nan	('no; not', 'adan1251-otvai', 'haʔai')	nan		W1a
-212	and	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	no	also means 'with'	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		W1a; W1a
-212	and	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pa	also means 'then'	nan	('and', 'lama1277-lewot', 'fe')	nan		W1a; W1a
+211	"no; not"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtake	nan	nan	"('no; not', 'adan1251-otvai', 'haʔai')"	nan		W1a
+211	"no; not"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtak	nan	nan	"('no; not', 'adan1251-otvai', 'haʔai')"	nan		NB
+211	"no; not"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈta	nan	nan	"('no; not', 'adan1251-otvai', 'haʔai')"	nan		NB
+212	and	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	no	also means 'with'	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		"W1a; W1a"
+212	and	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pa	also means 'then'	nan	('and', 'lama1277-lewot', 'fe')	nan		"W1a; W1a"
 213	because	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpukən	nan	nan	"('because', 'alor1247-baran', ""'karɛna,_sɛ'bab"")"	nan		W1a
 214	if	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ma	nan	nan	"('if', 'alor1247-baran', ""'kalau"")"	nan		N1
 215	with	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	no	nan	nan	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		W1a
 216	what?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	an	nan	nan	('what?', 'alor1247-baran', 'pei')	nan		W1a
 217	who?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	eˈnak	nan	nan	('who?', 'adan1251-otvai', 'a:no')	nan		W1a
-218	where?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡa	short form	nan	"('where?', 'alor1247-baran', ""na'ŋga_'ɔrɔ"")"	nan		
-218	where?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡane	nan	nan	"('where?', 'alor1247-baran', ""na'ŋga_'ɔrɔ"")"	nan		
+218	where?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡa	short form	nan	"('where?', 'alor1247-baran', ""na'ŋga_'ɔrɔ"")"	nan		NB
+218	where?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡane	nan	nan	"('where?', 'alor1247-baran', ""na'ŋga_'ɔrɔ"")"	nan		NB
 219	when?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈd͡ʒəm(a) ˈpira	nan	nan	"('when?', 'alor1247-baran', ""ɛrpɛ'hɛlɛ"")"	nan		W1a
 220	why?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bo an	nan	nan	"('why?', 'alor1247-baran', ""'peinã:"")"	nan		W1a
 220	why?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	puˈkən an	nan	nan	"('why?', 'alor1247-baran', ""'peinã:"")"	nan		W1a
-221	how much; how many?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpira	nan	nan	('how much; how many?', 'adon1237', 'ˈpira')	nan		W1a
+221	"how much; how many?"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpira	nan	nan	"('how much; how many?', 'adon1237', 'ˈpira')"	nan		W1a
 222	how?	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nao ɡa	word by word: 'kind where'	nan	('how?', 'sout2896-kalik', 'nao_ɡa')	nan		W1a
-223	this	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ve	nan	nan	('this', 'keda1252', 'noʔo')	nan		W1a
-224	that	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vo	nan	nan	('that', 'sout2896-kalik', 'vo')	nan		W1a
-225	at	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	la	?	nan	('at', 'sout2896-kalik', 'la')	nan		
-226	in; inside	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	d͡ʒe ... or	nan	nan	('in; inside', 'adan1251-otvai', 'ʔɔm')	nan		W1a
-227	here	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	re	nan	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan		W1a
-228	there	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vəˈli	depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side.	nan	('there', 'abui1241-petle', 'we')	nan		W1a; W1a; W1a
-228	there	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈd͡ʒae	depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side.	nan	('there', 'sout2896-kalik', 'ˈd͡ʒae')	nan		W1a; W1a; W1a
-228	there	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlau	depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side.	nan	('there', 'sout2896-kalik', 'ˈlau')	nan		W1a; W1a; W1a
-229	above	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	d͡ʒe	words have different functions; je is a preposition, the others are postnominal, difference?	nan	('above', 'sout2896-kalik', 'd͡ʒe')	nan		W1a; W1a; W1a
-229	above	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlolo	words have different functions; je is a preposition, the others are postnominal, difference?	nan	('above', 'adon1237', 'ˈbloʔlõ,_lolõ')	nan		W1a; W1a; W1a
-229	above	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡolo	words have different functions; je is a preposition, the others are postnominal, difference?	nan	('above', 'adon1237', 'ˈbloʔlõ,_lolõ')	nan		W1a; W1a; W1a
+223	this	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ve	short form	nan	('this', 'keda1252', 'noʔo')	nan		W1a
+223	this	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vene	long form	nan	('this', 'keda1252', 'noʔo')	nan		NB
+224	that	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vo	short form	nan	('that', 'sout2896-kalik', 'vo')	nan		W1a
+224	that	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vone	long form	nan	('that', 'sout2896-kalik', 'vo')	nan		NB
+225	at	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	la	short form	nan	('at', 'sout2896-kalik', 'la')	nan		NB
+225	at	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	lane	long form	nan	('at', 'sout2896-kalik', 'la')	nan		NB
+226	"in; inside"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	d͡ʒe ... or	nan	nan	"('in; inside', 'adan1251-otvai', 'ʔɔm')"	nan		W1a
+227	here	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	re	short form	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan		W1a
+227	here	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	rene	long form	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan		W1a
+228	there	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vəˈli	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	('there', 'abui1241-petle', 'we')	nan		"W1a; W1a; W1a"
+228	there	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈd͡ʒae	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	('there', 'sout2896-kalik', 'ˈd͡ʒae')	nan		"W1a; W1a; W1a"
+228	there	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlau	"depending on absolute directions in space; jae to the mountains, lau, to the sea and wêli to the side."	nan	('there', 'sout2896-kalik', 'ˈlau')	nan		"W1a; W1a; W1a"
+229	above	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	d͡ʒe	"words have different functions; je(ne) is a preposition, the others are postnominal, difference?"	nan	('above', 'sout2896-kalik', 'd͡ʒe')	nan		"W1a; W1a; W1a"
+229	above	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	d͡ʒene	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	('above', 'sout2896-kalik', 'd͡ʒe')	nan		NB
+229	above	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlolo	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	('above', 'adon1237', 'ˈbloʔlõ,_lolõ')	nan		"W1a; W1a; W1a"
+229	above	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡolo	"words have different functions; je is a preposition, the others are postnominal, difference?"	nan	('above', 'adon1237', 'ˈbloʔlõ,_lolõ')	nan		"W1a; W1a; W1a"
 230	below	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlere	nan	nan	('below', 'sout2896-kalik', 'ˈlere')	nan		W1a
 231	left (side)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	seˈke	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		W1a
 232	right (side)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈna	nan	nan	('right (side)', 'sout2896-kalik', 'vaˈna')	nan		W1a
@@ -273,63 +307,81 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 234	all	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	svaˈɔl	nan	nan	('all', 'lama1277-lamah', 'waol')	nan		W1a
 235	many	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈraik	nan	nan	"('many', 'keda1252', ""'rai"")"	nan		W1a
 236	animal	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈvaŋ	in the recording the word appears in tis plural form	nan	('animal', 'adon1237', 'ˈʔɜˈwã')	nan		W1a
+236	animal	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈva	nan	nan	('animal', 'adon1237', 'ˈʔɜˈwã')	nan		NB
 238	dog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	au	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan		W1a
 238	dog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈɔr	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan		W1a
 239	pig	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vavi	nan	nan	('pig', 'abui1241-fuime', 'fe')	nan		W1a
 239	pig	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈvɛr	nan	nan	('pig', 'abui1241-fuime', 'fe')	nan		W1a
 240	chicken	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈnʊk	nan	nan	"('chicken', 'alor1247-besar', ""'manu"")"	nan		W1a
 241	rat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kroˈmɛr	nan	nan	('rat', 'sout2896-kalik', 'kroˈmɛr')	nan		W1a
+241	rat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kroˈmi	nan	nan	('rat', 'sout2896-kalik', 'kroˈmɛr')	nan		NB
 242	lizard	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈkɛk	nan	nan	('lizard', 'abui1241-fuime', 'tekok')	nan		W1a
 243	civet cat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈkɔr	nan	nan	('civet cat', 'adon1237', 'ˈlako')	nan		W1a
+243	civet cat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈkɔ	nan	nan	('civet cat', 'adon1237', 'ˈlako')	nan		NB
 244	deer	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ruˈsar	nan	nan	('deer', 'abui1241-takal', 'ä.jut')	nan		W1a
-245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəməˈtɔr	kəməˈtɔr can be eaten, the others not	nan	('frog', 'adon1237', 'ˈmɜto')	nan		W1a; W1a
-245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈtəŋ	kəməˈtɔr can be eaten, the others not	nan	('frog', 'sout2896-kalik', 'tuˈtəŋ')	nan		W1a; W1a
-245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtulɔr	kəməˈtɔr can be eaten, the others not	nan	('frog', 'nan', 'tulu')	nan		W1a; W1a
-245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tulu	kəməˈtɔr can be eaten, the others not	nan	('frog', 'nan', 'tulu')	nan		
+244	deer	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ruˈsa	nan	nan	('deer', 'abui1241-takal', 'ä.jut')	nan		NB
+245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəməˈtɔr	kəməˈtɔr can be eaten, the others not	nan	('frog', 'adon1237', 'ˈmɜto')	nan		"W1a; W1a"
+245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈtəŋ	kəməˈtɔr can be eaten, the others not	nan	('frog', 'sout2896-kalik', 'tuˈtəŋ')	nan		"W1a; W1a"
+245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtulɔr	kəməˈtɔr can be eaten, the others not	nan	('frog', 'nan', 'tulu')	nan		"W1a; W1a"
+245	frog	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tulu	kəməˈtɔr can be eaten, the others not	nan	('frog', 'nan', 'tulu')	nan		NB
 246	bat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	krɛˈbɛŋ	nan	nan	('bat', 'sout2896-kalik', 'krɛˈbɛŋ')	nan		W1a
-247	flying fox; fruit bat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmiˈkɛr	nan	nan	('flying fox; fruit bat', 'adan1251-otvai', 'madiruŋ')	nan		W1a
+246	bat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	krɛˈbɛ	nan	nan	('bat', 'sout2896-kalik', 'krɛˈbɛŋ')	nan		NB
+247	"flying fox; fruit bat"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmiˈkɛr	nan	nan	"('flying fox; fruit bat', 'adan1251-otvai', 'madiruŋ')"	nan		W1a
+247	"flying fox; fruit bat"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmiˈki	nan	nan	"('flying fox; fruit bat', 'adan1251-otvai', 'madiruŋ')"	nan		NB
 249	tail	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈkur	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 250	fish	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈkan	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan		W1a
+250	fish	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈka	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan		NB
 251	shark	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈɔr	nan	nan	('shark', 'adon1237', 'ˈhio')	nan		W1a
+251	shark	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈu	nan	nan	('shark', 'adon1237', 'ˈhio')	nan		NB
 252	whale	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈmus	nan	nan	('whale', 'sout2896-kalik', 'təˈmus')	nan		W1a
 254	crocodile	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkobu	nan	nan	('crocodile', 'adon1237', 'ˈkobu')	nan		W1a
 255	monitor lizard	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bəˈpap	nan	nan	('monitor lizard', 'sout2896-kalik', 'bəˈpap')	nan		W1a
+257	turtle	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkear	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		NB
 257	turtle	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkea	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		W1a
+258	turtle (saltwater)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkear	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		NB
 258	turtle (saltwater)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkea	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		W1a
-259	bird	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kliˈɛŋ	nan	nan	('bird', 'sout2896-kalik', 'kliˈɛŋ')	nan		W1a; W1a
-259	bird	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈklie	nan	nan	('bird', 'sout2896-kalik', 'kliˈɛŋ')	nan		W1a; W1a
+259	bird	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kliˈɛŋ	nan	nan	('bird', 'sout2896-kalik', 'kliˈɛŋ')	nan		"W1a; W1a"
+259	bird	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈklie	nan	nan	('bird', 'sout2896-kalik', 'kliˈɛŋ')	nan		"W1a; W1a"
 260	wing	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈpik	nan	nan	('wing', 'abui1241-fuime', 'ha-bakai')	nan		W1a
 262	feather	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈklie raˈvʊk	nan	nan	('feather', 'adon1237', 'ˈrawuke')	nan		W1a
 263	horn	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈra	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1a
 264	snake	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈlar	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan		W1a
+264	snake	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈla	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan		NB
 265	scorpion	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈlɔt	nan	nan	"('scorpion', 'alor1247-besar', ""'ala"")"	nan		W1a
 266	egg	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tɛˈlʊk	nan	nan	('egg', 'adon1237', 'ˈtɛluk')	nan		W1a
 267	earthworm	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	səlvaˈlak	nan	nan	('earthworm', 'adon1237', 'kalaˈwala')	nan		W1a
 268	butterfly	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəbuˈkal	nan	nan	('butterfly', 'abui1241-fuime', 'kupak')	nan		W1a
 269	fly (n.)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmaˈmʊk	nan	nan	('blind', 'adon1237', 'kɜˈnisũ,_kɜˈbuʔlɔ̃')	nan		W1a
 270	mosquito	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəməˈŋɛŋ	nan	nan	('mosquito', 'abui1241-fuime', 'kuima')	nan		W1a
+270	mosquito	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəməˈŋɛ	nan	nan	('mosquito', 'abui1241-fuime', 'kuima')	nan		NB
 271	ant	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təmiˈsɛr	nan	nan	('ant', 'cent2245-hewa', 'mihe')	nan		W1a
+271	ant	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təmiˈsi	nan	nan	('ant', 'cent2245-hewa', 'mihe')	nan		NB
 272	grasshopper	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈd͡ʒɔr	nan	nan	('grasshopper', 'sout2896-kalik', 'maˈd͡ʒɔr')	nan		W1a
+272	grasshopper	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈd͡ʒu	nan	nan	('grasshopper', 'sout2896-kalik', 'maˈd͡ʒɔr')	nan		NB
 273	locust	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmɔˈrɔŋ	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		W1a
+273	locust	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmɔˈrɔ	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		NB
 274	spider	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	lakboˈrit	nan	nan	('spider', 'sout2896-kalik', 'lakboˈrit')	nan		W1a
-275	headlice	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kuˈtɔr	nan	nan	('headlice', 'adon1237', 'ˈkutɔ')	nan		W1a; W1a
-275	headlice	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkutu	nan	nan	('headlice', 'adon1237', 'ˈkutɔ')	nan		W1a; W1a
+275	headlice	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kuˈtɔr	nan	nan	('headlice', 'adon1237', 'ˈkutɔ')	nan		"W1a; W1a"
+275	headlice	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkutu	nan	nan	('headlice', 'adon1237', 'ˈkutɔ')	nan		"W1a; W1a"
 276	louse eggs	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkutu kiˈan	nan	nan	"('louse eggs', 'alor1247-besar', ""'kuto_ka'lehã"")"	nan		W1a
 277	mother louse	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkutu iˈnan	nan	nan	('mother louse', 'adon1237', 'kutɔ_ˈʔinã')	nan		W1a
 278	flea	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təməˈlar	nan	nan	"('flea', 'alor1247-besar', ""'aho_ta'mela"")"	nan		W1a
-279	louse (clothing)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kətuˈmau	nan	nan	('louse (clothing)', 'adon1237', 'keˈtumã')	nan		W1a
+278	flea	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təməˈla	nan	nan	"('flea', 'alor1247-besar', ""'aho_ta'mela"")"	nan		NB
+279	louse (clothing)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kətuˈmaw	nan	nan	('louse (clothing)', 'adon1237', 'keˈtumã')	nan		W1a
+279	louse (clothing)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kətuˈma	nan	nan	('louse (clothing)', 'adon1237', 'keˈtumã')	nan		NB
 280	bedbug	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təmaˈd͡ʒuŋ	nan	nan	('bedbug', 'abui1241-fuime', 'taamek')	nan		W1a
+280	bedbug	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təmaˈd͡ʒu	nan	nan	('bedbug', 'abui1241-fuime', 'taamek')	nan		NB
 281	big	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	keˈdak	nan	nan	('big', 'cent2245-hewa', 'gəte')	nan		W1a
 282	small	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈnak	nan	nan	"('small', 'alor1247-baran', ""'an:aŋ"")"	nan		W1a
-283	old; worn (house)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	noˈlʊŋ	nan	nan	('old; worn (house)', 'abui1241-fuime', 'makila')	nan		W1a
+283	"old; worn (house)"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	noˈlʊŋ	nan	nan	"('old; worn (house)', 'abui1241-fuime', 'makila')"	nan		W1a
 284	new (house)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vəˈrʊn	nan	nan	('new (house)', 'alor1247-baran', 'funɔ')	nan		W1a
-285	old (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈɡuna	maˈɡunaː for men; tuˈanaː for women. These are plural forms.	nan	('old (people)', 'abui1241-fuime', 'kalejeita')	nan		W1a; W1a
-285	old (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈana	maˈɡunaː for men; tuˈanaː for women. These are plural forms.	nan	('old (people)', 'abui1241-fuime', 'kalejeita')	nan		W1a; W1a
-286	young (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡraˈnak	ɡraˈnakː for men; ɡəˈrəpː for women	nan	('young (people)', 'abui1241-fuime', 'abeti')	nan		W1a; W1a
-286	young (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡəˈrəp	ɡraˈnakː for men; ɡəˈrəpː for women	nan	('young (people)', 'abui1241-fuime', 'abeti')	nan		W1a; W1a
+285	old (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈɡuna	"maˈɡunaː for men; tuˈanaː for women. These are plural forms."	nan	('old (people)', 'abui1241-fuime', 'kalejeita')	nan		"W1a; W1a"
+285	old (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈana	"maˈɡunaː for men; tuˈanaː for women. These are plural forms."	nan	('old (people)', 'abui1241-fuime', 'kalejeita')	nan		"W1a; W1a"
+286	young (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡraˈnak	"ɡraˈnakː for men; ɡəˈrəpː for women"	nan	('young (people)', 'abui1241-fuime', 'abeti')	nan		"W1a; W1a"
+286	young (people)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡəˈrəp	"ɡraˈnakː for men; ɡəˈrəpː for women"	nan	('young (people)', 'abui1241-fuime', 'abeti')	nan		"W1a; W1a"
 287	lazy	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bəˈnɔɡəl	nan	nan	('lazy', 'sout2896-kalik', 'bəˈnɔɡəl')	nan		W1a
-288	hot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈti	nan	nan	('hot', 'lama1277-imulo', 'kat')	nan		W1a; W1a
-288	hot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	knaˈtiŋ	nan	nan	('hot', 'lama1277-imulo', 'kat')	nan		W1a; W1a
+288	hot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈti	nan	nan	('hot', 'lama1277-imulo', 'kat')	nan		"W1a; W1a"
+288	hot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	knaˈtiŋ	nan	nan	('hot', 'lama1277-imulo', 'kat')	nan		"W1a; W1a"
 289	cold	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈtəs	nan	nan	('cold', 'abui1241-fuime', 'palata')	nan		W1a
 290	good	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈlus	nan	nan	('good', 'lama1277-kalik', 'alus')	nan		W1a
 291	bad	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈdatək	nan	nan	"('bad', 'alor1247-baran', ""'datɛ"")"	nan		W1a
@@ -347,15 +399,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 303	thin (non-human)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	mipˈiv	nan	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		W1b
 304	skinny (human)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	krɔˈɡɔŋ	nan	nan	('skinny (human)', 'adon1237', 'pɜˈriɡo')	nan		W1b
 305	thick	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	prəˈvak	nan	nan	('thick', 'adon1237', 'pɜˈwɜrã')	nan		W1b
-306	round	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	klɔˈpɔr	nan	nan	('round', 'sout2896-kalik', 'klɔˈpɔr')	nan		W1b; W1b
-306	round	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kˈpɔlɔt	nan	nan	('round', 'sout2896-kalik', 'klɔˈpɔr')	nan		W1b; W1b
-307	dark	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	rəˈmak	ˈmitəm also means black	nan	('dark', 'abui1241-fuime', 'akuni')	nan		W1b; W1b
-307	dark	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmitəm	ˈmitəm also means black	nan	('dark', 'abui1241-fuime', 'akuni')	nan		W1b; W1b
+306	round	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	klɔˈpɔr	nan	nan	('round', 'sout2896-kalik', 'klɔˈpɔr')	nan		"W1b; W1b"
+306	round	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kˈpɔlɔt	nan	nan	('round', 'sout2896-kalik', 'klɔˈpɔr')	nan		"W1b; W1b"
+307	dark	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	rəˈmak	ˈmitəm also means black	nan	('dark', 'abui1241-fuime', 'akuni')	nan		"W1b; W1b"
+307	dark	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmitəm	ˈmitəm also means black	nan	('dark', 'abui1241-fuime', 'akuni')	nan		"W1b; W1b"
 308	light	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bəneˈkən	nan	nan	('light', 'abui1241-fuime', 'falaka')	nan		W1b
 309	dirty	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	miˈlan	nan	nan	('dirty', 'amar1273-kotos', 'oe-metan')	nan		W1b
 310	clean	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	slaˈɛk	nan	nan	('clean', 'sout2896-kalik', 'slaˈɛk')	nan		W1b
 311	sharp	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	rəˈkət	nan	nan	('sharp', 'abui1241-fuime', 'bula')	nan		W1b
-312	blunt; dull	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmɔˈsɔn	nan	nan	('blunt; dull', 'sout2896-kalik', 'kəmɔˈsɔn')	nan		W1b
+312	"blunt; dull"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmɔˈsɔn	nan	nan	"('blunt; dull', 'sout2896-kalik', 'kəmɔˈsɔn')"	nan		W1b
 313	heavy	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bənəˈrat	nan	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan		W1b
 314	light (weight)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kleˈak	nan	nan	('light (weight)', 'adon1237', 'kɜˈliɛʔ')	nan		W1b
 315	straight	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	moˈlur	nan	nan	('straight', 'abui1241-fuime', 'mulang')	nan		W1b
@@ -378,8 +430,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 332	green	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈd͡ʒoni	nan	nan	"('green', 'alor1247-besar', ""'idʒɔŋ"")"	nan		W1b
 333	blue	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəbəˈris	nan	nan	('blue', 'sout2896-kalik', 'kəbəˈris')	nan		W1b
 334	yellow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kuˈmas	nan	nan	('yellow', 'abui1241-fuime', 'adesan')	nan		W1b
-335	sick; painful	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡai	nan	nan	('sick; painful', 'sout2896-kalik', 'ˈɡai')	nan		W1b
-336	shy; ashamed	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kruˈit	nan	nan	('shy; ashamed', 'sout2896-kalik', 'kruˈit')	nan		W1b
+335	"sick; painful"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡai	nan	nan	"('sick; painful', 'sout2896-kalik', 'ˈɡai')"	nan		W1b
+336	"shy; ashamed"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kruˈit	nan	nan	"('shy; ashamed', 'sout2896-kalik', 'kruˈit')"	nan		W1b
 337	thirsty	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmai	nan	nan	('thirsty', 'sout2896-kalik', 'ˈmai')	nan		W1b
 338	hungry	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈluv	nan	nan	('hungry', 'adon1237', 'ˈmalu')	nan		W1b
 339	blind	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kniˈpɛk	nan	nan	('blind', 'sout2896-kalik', 'kniˈpɛk')	nan		W1b
@@ -406,38 +458,38 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 360	to walk	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpana məˈra lim	means literally 'going using your food'	nan	('to walk', 'adon1237', 'ˈpana')	nan		W1b
 361	to run	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkari	nan	nan	('to run', 'sout2896-kalik', 'ˈkari')	nan		W1b
 362	to go	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpana	nan	nan	('to go', 'sout2896-kalik', 'ˈpana')	nan		W1b
-363	to swim	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈdulɔ	nan	nan	('to swim', 'lama1277-lewuk', 'dulo')	nan		W1b; W1b
-363	to swim	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnaŋe	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan		W1b; W1b
+363	to swim	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈdulɔ	nan	nan	('to swim', 'lama1277-lewuk', 'dulo')	nan		"W1b; W1b"
+363	to swim	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnaŋe	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan		"W1b; W1b"
 364	to fly	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bəˈka	nan	nan	('to fly', 'adon1237', 'ˈbɜka')	nan		W1b
-365	to fall (from above)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈŋat	peal is for humans, lêngat for things	nan	('to fall (from above)', 'sout2896-kalik', 'ləˈŋat')	nan		W1b; W1b
-365	to fall (from above)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	peˈal	peal is for humans, lêngat for things	nan	('to fall (from above)', 'sout2896-kalik', 'peˈal')	nan		W1b; W1b
-366	to fall over	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈbal	nan	nan	('to fall over', 'lama1278', 'ˈtɔbɑŋ')	nan		W1b; W1b
-366	to fall over	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡoˈkal	nan	nan	('to fall over', 'sout2896-kalik', 'ɡoˈkal')	nan		W1b; W1b
-367	to drop	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈra ləˈŋata	1) lit. you make sth. Fall	nan	"('to drop', 'keda1252', ""mɔ'ruʔ"")"	nan		W1b; W1b
-367	to drop	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈsola	1) lit. you make sth. Fall	nan	('to drop', 'sout2896-kalik', 'pəˈsola')	nan		W1b; W1b
+365	to fall (from above)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈŋat	peal is for humans, lêngat for things	nan	('to fall (from above)', 'sout2896-kalik', 'ləˈŋat')	nan		"W1b; W1b"
+365	to fall (from above)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	peˈal	peal is for humans, lêngat for things	nan	('to fall (from above)', 'sout2896-kalik', 'peˈal')	nan		"W1b; W1b"
+366	to fall over	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈbal	nan	nan	('to fall over', 'lama1278', 'ˈtɔbɑŋ')	nan		"W1b; W1b"
+366	to fall over	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡoˈkal	nan	nan	('to fall over', 'sout2896-kalik', 'ɡoˈkal')	nan		"W1b; W1b"
+367	to drop	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈra ləˈŋata	1) lit. you make sth. Fall	nan	"('to drop', 'keda1252', ""mɔ'ruʔ"")"	nan		"W1b; W1b"
+367	to drop	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈsola	1) lit. you make sth. Fall	nan	('to drop', 'sout2896-kalik', 'pəˈsola')	nan		"W1b; W1b"
 368	to drink	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	#NAME?	nan	nan	('to drink', 'adan1251-lawah', 'naʔ')	nan		W1b
-369	to eat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ga	1SG,1IN,3PL: ka; the others ga. But this distinctions seems to be vanishing.	nan	('to eat', 'abui1241-fuime', 'ne')	nan		W1b
-369	to eat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ka	1SG,1IN,3PL: ka; the others ga. But this distinctions seems to be vanishing.	nan	('to eat', 'abui1241-fuime', 'ne')	nan		W1b
+369	to eat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ga	"1SG,1IN,3PL: ka; the others ga. But this distinctions seems to be vanishing."	nan	('to eat', 'abui1241-fuime', 'ne')	nan		W1b
+369	to eat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ka	"1SG,1IN,3PL: ka; the others ga. But this distinctions seems to be vanishing."	nan	('to eat', 'abui1241-fuime', 'ne')	nan		W1b
 370	to cook	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	loˈlu	nan	nan	('to cook', 'lama1277-kalik', 'loluŋ')	nan		W1b
-371	to wash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	baˈsa	1) face, 2) clothes, 3) dishes	nan	('to wash', 'adon1237', 'ˈbaha')	nan		W1b; W1b; W1b
-371	to wash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pus	1) face, 2) clothes, 3) dishes	nan	('to wash', 'adon1237', 'ˈbaha')	nan		W1b; W1b; W1b
-371	to wash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈreup	1) face, 2) clothes, 3) dishes	nan	('to wash', 'sout2896-kalik', 'ˈreup')	nan		W1b; W1b; W1b
+371	to wash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	baˈsa	1) face, 2) clothes, 3) dishes	nan	('to wash', 'adon1237', 'ˈbaha')	nan		"W1b; W1b; W1b"
+371	to wash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pus	1) face, 2) clothes, 3) dishes	nan	('to wash', 'adon1237', 'ˈbaha')	nan		"W1b; W1b; W1b"
+371	to wash	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈreup	1) face, 2) clothes, 3) dishes	nan	('to wash', 'sout2896-kalik', 'ˈreup')	nan		"W1b; W1b; W1b"
 372	to sew	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	saur	nan	nan	('to sew', 'adon1237', 'ˈhɑu')	nan		W1b
-373	to live; be alive; living	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	moˈd͡ʒip	nan	nan	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		W1b
+373	"to live; be alive; living"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	moˈd͡ʒip	nan	nan	"('to live; be alive; living', 'adon1237', 'ˈmorit')"	nan		W1b
 374	to breathe	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	nai	nan	nan	"('to breathe', 'alor1247-baran', ""'tar:ɛ_'nah:ĩ:"")"	nan		W1b
 375	to work	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kərˈd͡ʒan	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan		W1b
 376	to die	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	matek	nan	nan	('to die', 'adon1237', 'ˈmataː')	nan		W1b
-377	to give	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	be	nan	nan	('to give', 'amar1273-kotos', 'n-fee')	nan		W1b; W1b
-377	to give	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	noto	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan		W1b; W1b
+377	to give	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	be	nan	nan	('to give', 'amar1273-kotos', 'n-fee')	nan		"W1b; W1b"
+377	to give	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	noto	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan		"W1b; W1b"
 378	to wipe	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	sɔk	nan	nan	('to wipe', 'lama1277-kalik', 'soka')	nan		W1b
 379	to come	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɔˈli	nan	nan	('to come', 'lama1277-kalik', 'oli')	nan		W1b
 380	to laugh	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡeˈka	nan	nan	('to laugh', 'adon1237', 'ˈɡeka')	nan		W1b
 381	to cry	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈra	nan	nan	"('to cry', 'fata1247', ""a'rurɛ"")"	nan		W1b
 382	to dance	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈsoka	nan	nan	('child', 'kama1365', 'dum')	nan		W1b
 383	to sing	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kanˈtar	nan	nan	('to sing', 'buna1278-bobon', 'kantar,_gio_logo')	nan		W1b
-384	to burn (clear land)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	paˈpi	papi 'clear land', tuno 'grill'	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1b; W1b
-384	to burn (clear land)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtunɔ	papi 'clear land', tuno 'grill'	nan	"('to burn (clear land)', 'alor1247-baran', ""'tun:ɔ"")"	nan		W1b; W1b
-385	to burn; to shine	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈra	nan	nan	('to burn; to shine', 'cent2245-hewa', 'baraʔ')	nan		W1b
+384	to burn (clear land)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	paˈpi	papi 'clear land', tuno 'grill'	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		"W1b; W1b"
+384	to burn (clear land)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtunɔ	papi 'clear land', tuno 'grill'	nan	"('to burn (clear land)', 'alor1247-baran', ""'tun:ɔ"")"	nan		"W1b; W1b"
+385	"to burn; to shine"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈra	nan	nan	"('to burn; to shine', 'cent2245-hewa', 'baraʔ')"	nan		W1b
 386	to shine	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaˈləka	nan	nan	('to shine', 'sout2896-kalik', 'vaˈləka')	nan		W1b
 387	to chew	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈmɔt	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		W1b
 388	to yawn	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəmuˈav	nan	nan	('to yawn', 'sout2896-kalik', 'kəmuˈav')	nan		W1b
@@ -451,22 +503,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 396	to swell	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	snoˈbad͡ʒ	nan	nan	('to swell', 'sout2896-kalik', 'snoˈbad͡ʒ')	nan		W1b
 397	to hit	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	paˈluk	nan	nan	"('to hit', 'keda1252', ""pa'luʔ"")"	nan		W1b
 398	to slap	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈpa	nan	nan	('to slap', 'adon1237', 'ˈtɜpɔ̃,_ˈtɜpɑk')	nan		W1b
-399	to bite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡike	nan	nan	('to bite', 'adon1237', 'ˈɡike')	nan		W1b; ?
-399	to bite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡiki	nan	nan	('to bite', 'adon1237', 'ˈɡike')	nan		W1b; ?
+399	to bite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡike	nan	nan	('to bite', 'adon1237', 'ˈɡike')	nan		"W1b; ?"
+399	to bite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɡiki	nan	nan	('to bite', 'adon1237', 'ˈɡike')	nan		"W1b; ?"
 400	to cut	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbelu	nan	nan	('to cut', 'keda1252', 'bel')	nan		W1b
-401	to cut down	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	baˈkat	1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself	nan	('to cut down', 'sout2896-kalik', 'baˈkat')	nan		W1b; W1b
-401	to cut down	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtoba	1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself	nan	('to cut down', 'adon1237', 'ˈhobat')	nan		W1b; W1b
+401	to cut down	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	baˈkat	1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself	nan	('to cut down', 'sout2896-kalik', 'baˈkat')	nan		"W1b; W1b"
+401	to cut down	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtoba	1) bakat means to make something (like a tree) fall because cut with something, 2) this means falling down (a tree) by itself	nan	('to cut down', 'adon1237', 'ˈhobat')	nan		"W1b; W1b"
 402	to split	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈɡa	nan	nan	('to split', 'adon1237', 'ˈlɜkɑʔ')	nan		W1b
 403	to divide	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vɛˈka	nan	nan	('to divide', 'adon1237', 'ˈweka')	nan		W1b
 404	to stab	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈbak	nan	nan	('to stab', 'alor1249-sar-a', 'tatap')	nan		W1b
-405	to skewer	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	roˈbak	nan	nan	('to skewer', 'sout2896-kalik', 'roˈbak')	nan		W1b; W1b
-405	to skewer	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈɡu	nan	nan	('to skewer', 'sout2896-kalik', 'təˈɡu')	nan		W1b; W1b
+405	to skewer	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	roˈbak	nan	nan	('to skewer', 'sout2896-kalik', 'roˈbak')	nan		"W1b; W1b"
+405	to skewer	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈɡu	nan	nan	('to skewer', 'sout2896-kalik', 'təˈɡu')	nan		"W1b; W1b"
 406	to fight	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpunu	nan	nan	('to fight', 'adon1237', 'pɜˈwuno')	nan		W1b
 408	to throw	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbatu	nan	nan	('to throw', 'abui1241-fuime', 'huore')	nan		W1b
 409	to hunt	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	baˈti	nan	nan	('to hunt', 'adon1237', 'ˈbatĩ')	nan		W1b
 410	to kill	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	#NAME?	literally means: 'making (someone) die'. The word for 'cut' is also used to express the meaning 'kill'.	nan	('to kill', 'amar1273-kotos', 'na-ʔmate')	nan		W1b
-411	to chase away; to run after	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	oˈkap	nan	nan	('to chase away', 'sout2896-kalik', 'oˈkap')	nan		W1b
-413	to search for; to hunt for	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡəˈsak	nan	nan	('to search for; to hunt for', 'sout2896-kalik', 'ɡəˈsak')	nan		W1b
+411	"to chase away; to run after"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	oˈkap	nan	nan	('to chase away', 'sout2896-kalik', 'oˈkap')	nan		W1b
+413	"to search for; to hunt for"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡəˈsak	nan	nan	"('to search for; to hunt for', 'sout2896-kalik', 'ɡəˈsak')"	nan		W1b
 414	to dig	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡaˈli	nan	nan	"('to dig', 'alor1247-baran', ""'gali"")"	nan		W1b
 415	to bury	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	təˈni	nan	nan	"('to bury', 'keda1252', ""'tanɛŋ"")"	nan		W1b
 416	to flow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	baˈŋak	nan	nan	('to flow', 'adon1237', 'baʔ')	nan		W1b
@@ -479,30 +531,30 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 423	to push	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈdʊk	nan	nan	('to push', 'adan1251-lawah', 'adoʔo')	nan		W1b
 424	to turn	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɛˈɡɔl	nan	nan	('to turn', 'sout2896-kalik', 'ɛˈɡɔl')	nan		W1b
 425	to dream	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈrən	nan	nan	('to dream', 'adon1237', 'tɜˈʔuru')	nan		W1b
-426	to crouch; to bend over	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	svaˈkat	nan	nan	('to crouch; to bend over', 'sout2896-kalik', 'svaˈkat')	nan		W1b
-427	to live; to stay	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	-'ia	nan	nan	"('to live; to stay', 'keda1252', ""'puaʔ"")"	nan		W1b
-428	to choose	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpile	nan	nan	('to choose', 'adon1237', 'ˈpilɛ')	nan		W1b; W1b
-428	to choose	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpili	nan	nan	('to choose', 'adon1237', 'ˈpilɛ')	nan		W1b; W1b
+426	"to crouch; to bend over"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	svaˈkat	nan	nan	"('to crouch; to bend over', 'sout2896-kalik', 'svaˈkat')"	nan		W1b
+427	"to live; to stay"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	-'ia	nan	nan	"('to live; to stay', 'keda1252', ""'puaʔ"")"	nan		W1b
+428	to choose	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpile	nan	nan	('to choose', 'adon1237', 'ˈpilɛ')	nan		"W1b; W1b"
+428	to choose	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpili	nan	nan	('to choose', 'adon1237', 'ˈpilɛ')	nan		"W1b; W1b"
 429	to grow	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnubu	nan	nan	('to grow', 'sout2896-kalik', 'ˈnubu')	nan		W1b
 430	to squeeze	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpiuk	nan	nan	('to squeeze', 'adon1237', 'ˈpiʔuk')	nan		W1b
 431	to buy	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈopi	nan	nan	('to buy', 'adon1237', 'ˈhope')	nan		W1b
 432	to sell	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	duˈrum	nan	nan	('to sell', 'adon1237', 'ˈduʔũ')	nan		W1b
-433	to steal	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈvit	e and ɛ are allophones; o and ɔ ar allophones (free variation?)	nan	('to steal', 'abui1241-fuime', 'takau')	nan		W1b; W1b
-433	to steal	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈkav	e and ɛ are allophones; o and ɔ ar allophones (free variation?)	nan	('to steal', 'abui1241-fuime', 'takau')	nan		W1b; W1b
+433	to steal	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈvit	"e and ɛ are allophones; o and ɔ ar allophones (free variation?)"	nan	('to steal', 'abui1241-fuime', 'takau')	nan		"W1b; W1b"
+433	to steal	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈkav	"e and ɛ are allophones; o and ɔ ar allophones (free variation?)"	nan	('to steal', 'abui1241-fuime', 'takau')	nan		"W1b; W1b"
 434	to open	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	biˈtɔl	nan	nan	('to open', 'sout2896-kalik', 'biˈtɔl')	nan		W1b
 435	to close	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtuŋən	nan	nan	('to close', 'sout2896-kalik', 'ˈtuŋən')	nan		W1b
 436	to climb	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈkar	nan	nan	('to climb', 'kola1287', 'wakar')	nan		W1b
 437	to hide	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	soˈrɔ	nan	nan	('to hide', 'adon1237', 'ˈhorõ')	nan		W1b
-438	to wait	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kide	nan	nan	('to wait', 'sout2896-kalik', 'kide')	nan		W1b; W1b
-438	to wait	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kliˈde	nan	nan	('to wait', 'sout2896-kalik', 'kide')	nan		W1b; W1b
+438	to wait	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kide	nan	nan	('to wait', 'sout2896-kalik', 'kide')	nan		"W1b; W1b"
+438	to wait	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kliˈde	nan	nan	('to wait', 'sout2896-kalik', 'kide')	nan		"W1b; W1b"
 439	to fold	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ləˈpət	nan	nan	('to fold', 'adon1237', 'ˈlɜpɜt')	nan		W1b
-440	to help	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	sɛrˈvi	nan	nan	('to help', 'sout2896-kalik', 'sɛrˈvi')	nan		W1b; W1b; W1b
-440	to help	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡələˈkat	nan	nan	('to help', 'sout2896-kalik', 'ɡələˈkat')	nan		W1b; W1b; W1b
-440	to help	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpɔi	nan	nan	"('to help', 'keda1252', ""po'hiŋ"")"	nan		W1b; W1b; W1b
+440	to help	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	sɛrˈvi	nan	nan	('to help', 'sout2896-kalik', 'sɛrˈvi')	nan		"W1b; W1b; W1b"
+440	to help	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡələˈkat	nan	nan	('to help', 'sout2896-kalik', 'ɡələˈkat')	nan		"W1b; W1b; W1b"
+440	to help	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpɔi	nan	nan	"('to help', 'keda1252', ""po'hiŋ"")"	nan		"W1b; W1b; W1b"
 441	to bark	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	boˈvo	nan	nan	('to bark', 'sout2896-kalik', 'boˈvo')	nan		W1b
 442	to shoot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	paˈsak	nan	nan	('to shoot', 'adon1237', 'ˈpasak')	nan		W1b
 443	to shoot with slingshot	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	pəˈsik	nan	nan	('to shoot with slingshot', 'adon1237', 'ˈpɜsi')	nan		W1b
-444	to pound; to beat	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbad͡ʒu	nan	nan	('to pound; to beat', 'amar1273-kotos', 'na-pau')	nan		W1b
+444	"to pound; to beat"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbad͡ʒu	nan	nan	"('to pound; to beat', 'amar1273-kotos', 'na-pau')"	nan		W1b
 445	to hit (drum)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈdani	nan	nan	('to hit (drum)', 'adon1237', 'ˈdane')	nan		W1b
 446	to call out	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	iˈrak	nan	nan	('to call out', 'abui1241-fuime', 'ir')	nan		W1b
 447	to lie (tell untruth)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈkvait	nan	nan	('to lie (tell untruth)', 'sout2896-kalik', 'ˈkvait')	nan		W1b
@@ -546,43 +598,45 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 484	two hundred	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈratu ˈd͡ʒua	nan	nan	('angry', 'lamm1241', 'arugga')	nan		W1b
 485	thousand	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈribu tu	nan	nan	('thousand', 'adon1237', 'riːbu')	nan		W1b
 486	one hundred thousand	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈribu ˈratu  tu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1b
-502	ridge(pole); peak; tip	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈvʊŋ	nan	nan	('ridge(pole); peak; tip', 'amar1273-kotos', 'ʔpupu-n')	nan		W1b
+502	"ridge(pole); peak; tip"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈvʊŋ	nan	nan	"('ridge(pole); peak; tip', 'amar1273-kotos', 'ʔpupu-n')"	nan		W1b
 503	rack(above hearth/for storing food)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈgar	nan	nan	('rack(above hearth/for storing food)', 'adan1251-otvai', 'huruŋ')	nan		W1b
-504	broom; sweep	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	knoˈrɔt	nan	nan	('broom; sweep', 'lama1278', 'kəˈnuru')	nan		W1b
-505	ground for ritual activities and public meetings	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnuba	nan	nan	('ground for ritual activities and public meetings', 'sout2896-kalik', 'ˈnuba')	nan		W1b; W1b
-505	ground for ritual activities and public meetings	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnɔbɛŋ	nan	nan	('ground for ritual activities and public meetings', 'sout2896-kalik', 'ˈnuba')	nan		W1b; W1b
+504	"broom; sweep"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	knoˈrɔt	nan	nan	"('broom; sweep', 'lama1278', 'kəˈnuru')"	nan		W1b
+505	ground for ritual activities and public meetings	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnuba	nan	nan	('ground for ritual activities and public meetings', 'sout2896-kalik', 'ˈnuba')	nan		"W1b; W1b"
+505	ground for ritual activities and public meetings	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈnɔbɛŋ	nan	nan	('ground for ritual activities and public meetings', 'sout2896-kalik', 'ˈnuba')	nan		"W1b; W1b"
 507	meeting house	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈuna keˈdak	means 'big house'	nan	('meeting house', 'adan1251-otvai', 'hada_baŋ')	nan		W1b
 508	floor	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlante	nan	nan	('floor', 'adan1251-otvai', 'lantai')	nan		W1b
-509	wall	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kənəˈbin	1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)	nan	('wall', 'adan1251-otvai', 'kabe')	nan		W1b; W1b
-509	wall	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kənəˈbɛr	1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)	nan	('wall', 'adan1251-otvai', 'kabe')	nan		W1b; W1b
-511	cookhouse; kitchen	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	luran	nan	nan	('cookhouse; kitchen', 'adan1251-otvai', 'dapur')	nan		W1C1
+509	wall	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kənəˈbin	1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)	nan	('wall', 'adan1251-otvai', 'kabe')	nan		"W1b; W1b"
+509	wall	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kənəˈbɛr	1) wall made form bamboo, 2) wall made from stone (Probably the second one is a derivation from the first)	nan	('wall', 'adan1251-otvai', 'kabe')	nan		"W1b; W1b"
+511	"cookhouse; kitchen"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	luran	nan	nan	"('cookhouse; kitchen', 'adan1251-otvai', 'dapur')"	nan		W1C1
+511	"cookhouse; kitchen"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	lura	nan	nan	"('cookhouse; kitchen', 'adan1251-otvai', 'dapur')"	nan		NB
 512	bed	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	uˈlik	nan	nan	('bed', 'adan1251-otvai', 'de’')	nan		W1b
-516	to weave	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtani	nan	nan	('to weave', 'adan1251-otvai', 'deu;')	nan		W1b
+516	to weave	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtani	nan	nan	"('to weave', 'adan1251-otvai', 'deu;')"	nan		W1b
 517	shirt	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	laˈbur	nan	nan	('shirt', 'adan1251-otvai', 'kod')	nan		W1b
 518	necklace	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	niˈləŋ	nan	nan	('necklace', 'adan1251-otvai', 'ba')	nan		W1b
 519	earring	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡiˈvaŋ	nan	nan	('earring', 'adan1251-otvai', 'falofaŋ')	nan		W1b
-520	trousers	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	dekor	doak means 'long'	nan	('trousers', 'adan1251-otvai', 'dekolai')	nan		W1b; ?
-520	trousers	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈdeko (doˈak)	doak means 'long'	nan	('trousers', 'adan1251-otvai', 'dekolai')	nan		W1b; ?
-521	sarong (women)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kreˈmɔt	nan	nan	('sarong (women)', 'adan1251-otvai', 'salim_eŋ')	nan		W1b; W1b
-521	sarong (women)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kreˈɔt	nan	nan	('sarong (women)', 'adan1251-otvai', 'salim_eŋ')	nan		W1b; W1b
+520	trousers	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	dekor	doak means 'long'	nan	('trousers', 'adan1251-otvai', 'dekolai')	nan		"W1b; ?"
+520	trousers	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	deko	doak means 'long'	nan	('trousers', 'adan1251-otvai', 'dekolai')	nan		NB
+520	trousers	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈdeko (doˈak)	doak means 'long'	nan	('trousers', 'adan1251-otvai', 'dekolai')	nan		"W1b; ?"
+521	sarong (women)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kreˈmɔt	nan	nan	('sarong (women)', 'adan1251-otvai', 'salim_eŋ')	nan		"W1b; W1b"
+521	sarong (women)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kreˈɔt	nan	nan	('sarong (women)', 'adan1251-otvai', 'salim_eŋ')	nan		"W1b; W1b"
 522	loom	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	knəˈkum	??	nan	('loom', 'sout2896-kalik', 'knəˈkum')	nan		W1b
 523	thread	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈpək	nan	nan	('thread', 'adan1251-otvai', 'ab')	nan		W1b
 524	to worship	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈŋad͡ʒi	Loan from Malay	nan	('to worship', 'adan1251-otvai', 'aʔome')	nan		W1b
-526	to bless	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bekurˈnia	nan	nan	"('to bless', 'keda1252', ""'bərkat"")"	nan		W1b; W1b
-526	to bless	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbəri  ˈbensa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1b; W1b
-527	God	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈlapsa	literally means: 'our owner'	nan	"('God', 'keda1252', ""tuaŋ'ala"")"	nan		W1b
+526	to bless	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	bekurˈnia	nan	nan	"('to bless', 'keda1252', ""'bərkat"")"	nan		"W1b; W1b"
+526	to bless	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈbəri  ˈbensa	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		"W1b; W1b"
+527	God	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	aˈlap-sa	literally means: 'our owner'	nan	"('God', 'keda1252', ""tuaŋ'ala"")"	nan		W1b
 528	to pray	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈŋad͡ʒi	nan	nan	"('to pray', 'keda1252', ""ber'doa"")"	nan		W1b
 531	to curse	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpsata	#NAME?	nan	"('to curse', 'keda1252', ""ʔɔ'laʔ"")"	nan		W1b
 532	priest (modern)	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	tuˈan	nan	nan	"('priest (modern)', 'keda1252', ""'ʔimaŋ"")"	nan		W1b
-533	sorcerer; witch	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmakap  ˈtaŋən	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1b
+533	"sorcerer; witch"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmakap  ˈtaŋən	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1b
 536	sacrifice	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	umlaˈmak	nan	nan	('sacrifice', 'sout2896-kalik', 'umlaˈmak')	nan		W1b
 539	to rule or govern	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	preˈta	nan	nan	('to rule or govern', 'sout2896-kalik', 'preˈta')	nan		W1b
 541	marriage	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kaˈvɛn	nan	nan	('marriage', 'sout2896-kalik', 'kaˈvɛn')	nan		W1b
 542	friend	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈneu	nan	nan	('friend', 'sout2896-kalik', 'kəˈneu')	nan		W1b
 543	enemy	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈoŋe	Lewaji	nan	('enemy', 'sout2896-kalik', 'ˈoŋe')	nan		L2
 545	stranger	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈata  ɡeˈsak	means 'other person'	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1b
-546	to invite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	sɔˈd͡ʒan	nan	nan	('to invite', 'sout2896-kalik', 'sɔˈd͡ʒan')	nan		W1b; W1b
-546	to invite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmali	nan	nan	('to invite', 'adan1251-otvai', 'mariŋ')	nan		W1b; W1b
+546	to invite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	sɔˈd͡ʒan	nan	nan	('to invite', 'sout2896-kalik', 'sɔˈd͡ʒan')	nan		"W1b; W1b"
+546	to invite	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈmali	nan	nan	('to invite', 'adan1251-otvai', 'mariŋ')	nan		"W1b; W1b"
 547	to command or order	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈpreta	means to force, to order	nan	('to command or order', 'sout2896-kalik', 'ˈpreta')	nan		W1b
 548	dowry	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈɔi  vəˈrat	??	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		W1b
 550	accuse	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈvan	nan	nan	"('accuse', 'keda1252', ""'ɔrɔʔ"")"	nan		W1b
@@ -594,6 +648,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 560	poor	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	snuˈsan	nan	nan	"('poor', 'keda1252', ""'tɔkɔŋ"")"	nan		W1b
 561	rich	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kovaˈsan	nan	nan	('rich', 'adon1237', 'kəˈwasa')	nan		W1b
 562	money	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	doi	nan	nan	"('money', 'keda1252', ""'duiʔ"")"	nan		W1b
+562	money	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	doer	nan	nan	"('money', 'keda1252', ""'duiʔ"")"	nan		NB
 563	market	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vul	nan	nan	('market', 'keda1252', 'ul')	nan		W1b
 564	price	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	veˈli	nan	nan	"('price', 'keda1252', ""'welin"")"	nan		W1b
 565	to own	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ɡoˈen	nan	nan	"('to own', 'keda1252', ""'neʔe"")"	nan		W1b
@@ -601,23 +656,23 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 565	to own	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	daˈen	nan	nan	"('to own', 'keda1252', ""'neʔe"")"	nan		W1b
 568	expensive	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	veˈlin	nan	nan	"('expensive', 'keda1252', ""'welin"")"	nan		W1b
 570	to grasp	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	soˈɡa	nan	nan	"('to grasp', 'keda1252', ""tɔ'bɔl"")"	nan		W1b
-571	to let go	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlɔit	2) loit = to open something which was tied	nan	"('to let go', 'keda1252', ""'bele"")"	nan		W1b; W1b
-571	to let go	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlɔka	2) loit = to open something which was tied	nan	"('to let go', 'keda1252', ""'bele"")"	nan		W1b; W1b
+571	to let go	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlɔit	2) loit = to open something which was tied	nan	"('to let go', 'keda1252', ""'bele"")"	nan		"W1b; W1b"
+571	to let go	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈlɔka	2) loit = to open something which was tied	nan	"('to let go', 'keda1252', ""'bele"")"	nan		"W1b; W1b"
 573	word	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	maˈkət	nan	nan	"('word', 'keda1252', ""tɛ'hɛʔ"")"	nan		W1b
 574	to answer	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	taˈpan	nan	nan	"('to answer', 'keda1252', ""'hɔlɔ"")"	nan		W1b
 575	to refuse	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	oˈdʊk	nan	nan	"('to refuse', 'keda1252', ""'daɛʔ"")"	nan		W1b
 576	to whisper	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	krəˈŋav	nan	nan	"('to whisper', 'keda1252', ""'tihir"")"	nan		W1b
-577	to be silent	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈpae	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		W1b; W1b
-577	to be silent	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈli	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		W1b; W1b
+577	to be silent	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	kəˈpae	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		"W1b; W1b"
+577	to be silent	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	məˈli	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		"W1b; W1b"
 578	to tell	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ˈtutu	nan	nan	"('to tell', 'keda1252', ""tutuʔ_'nanaŋ"")"	nan		W1b
 580	to teach	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ŋaˈd͡ʒar	nan	nan	"('to teach', 'keda1252', ""'ʔadʒar"")"	nan		W1b
 581	easy	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	klɔˈsʊm	nan	nan	"('easy', 'keda1252', ""'ɡampaŋ"")"	nan		W1b
 582	difficult	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	snuˈkar	nan	nan	"('difficult', 'keda1252', ""'sulit"")"	nan		W1b
-583	finished	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vak	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		W1b; W1b
-583	finished	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaka	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		W1b; W1b
+583	finished	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vak	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		"W1b; W1b"
+583	finished	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	vaka	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		"W1b; W1b"
 584	now	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	ve	nan	nan	"('now', 'keda1252', ""dɛʔ'nɔʔ,_dɛʔ'nɔʔɔ"")"	nan		W1b
 586	same	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	snaˈmaŋ	nan	nan	"('same', 'keda1252', ""'hama"")"	nan		W1b
 587	oven/cooking place	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	liˈkat	nan	nan	('oven/cooking place', 'sout2896-kalik', 'liˈkat')	nan		W1a
 594	inhabited land	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	əˈna keˈdak	means 'continent', literally 'big land'	nan	('inhabited land', 'sout2896-kalik', 'əˈna_keˈdak')	nan		W1b
 595	roof rafter	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	slaˈɡad͡ʒa	d͡ʒa is a plural suffix	nan	('roof rafter', 'sout2896-kalik', 'slaˈɡad͡ʒa')	nan		W1b
-598	to chase away; to expel	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	siˈka	nan	nan	('to chase away; to expel', 'adon1237', 'ˈsika')	nan		W1b
+598	"to chase away; to expel"	lama1277-kalik	Lamaholot-Kalikasa	Austronesian	8Lembata, 5Central	siˈka	nan	nan	"('to chase away; to expel', 'adon1237', 'ˈsika')"	nan		W1b
