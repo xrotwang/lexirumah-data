@@ -69,7 +69,7 @@ while cognates.index.duplicated().any():
 for file in args.derived_cognate_file:
     df = pandas.read_csv(
         file,
-        index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
+        index_col=["CONCEPT", "DOCULECT_ID", "IPA"],
         na_values="",
         keep_default_na=False,
         sep="\t")
