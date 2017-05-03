@@ -1,9 +1,9 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Indonesian
-0	sky	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kəlã	nan	nan	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	nan	133. Langit 
+0	sky	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kəlã	nan	nan	('sky', 'kama1365', 'deliŋ')	nan	133. Langit 
 1	sun	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	ləra	nan	nan	"('sun', 'alor1247-baran', ""la'ra"")"	nan	134. Matahari 
 3	star	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pətala	nan	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan	135. Bintang 
 4	night	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	rəma	nan	nan	('night', 'lama1277-adona', 'ˈrɜmaʔ')	nan	171. Malam 
-5	day	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	lərõ	nan	nan	"('day', 'alor1247-baran', ""la'ra:"")"	nan	173. Hari 
+5	day	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	lərõ	nan	nan	"('day', 'alor1247-besar', ""la'ra"")"	nan	173. Hari 
 6	year	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	sũ	nan	nan	('year', 'abui1241-petle', 'tuŋ')	nan	172. Tahun 
 13	cloud	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kowa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
 14	wind	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	aŋi	nan	nan	"('wind', 'alor1247-baran', ""'aŋi"")"	nan	140. Angin 
@@ -12,7 +12,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 25	lake	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	liwo	nan	nan	"('lake', 'lama1277-adona', ""'liwo"")"	nan	129. Danau 
 26	mountain	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	ile	nan	nan	('mountain', 'alor1249-sar-n', 'yihil')	nan	131. Gunung 
 30	Earth	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tanʔa	nan	nan	('Earth', 'lama1277-baipi', 'tana')	nan	119. Tanah 
-32	stone	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wato	nan	nan	('stone', 'abui1241-fuime', 'vi')	nan	120. Batu 
+32	stone	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wato	nan	nan	"('stone', 'alor1247-baran', ""'fato"")"	nan	120. Batu 
 35	water (fresh)	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wai	nan	nan	"('water (fresh)', 'alor1247-besar', ""'fei"")"	nan	122. Air 
 36	sea; sea water	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tahik	nan	nan	('sea; sea water', 'lama1277-baipi', 'tahik')	nan	127. Laut 
 39	forest	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	woʔonã	nan	nan	('forest', 'lama1277-baipi', 'newa_onã')	nan	132. Hutan
@@ -25,28 +25,28 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kʔawuk	nan	nan	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	nan	151. Abu 
 75	sand	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wəra	nan	nan	"('sand', 'keda1252', ""'ʔerah"")"	nan	121. Pasir 
 76	grass; brush	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	luʔo	nan	nan	('grass; brush', 'lama1277-baipi', 'kərəmət')	nan	118. Rumput 
-84	tree	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kayo	nan	nan	"('tree', 'alor1247-baran', ""'kaʤu_'lɔlɔŋ"")"	nan	110. Pohon 
+84	tree	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kayo	nan	nan	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	nan	110. Pohon 
 87	leaf	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	lolõ	nan	nan	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	nan	112. Daun 
 91	root	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	ramut	nan	nan	('root', 'lama1277-baipi', 'amut')	nan	114. Akar 
 92	fruit	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wuã	nan	nan	"('fruit', 'alor1247-pandai', ""'punak"")"	nan	117. Buah 
 93	seed	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kuluʔ	nan	nan	"('seed', 'alor1247-baran', ""'kuluŋ"")"	nan	115. Biji 
 95	flower	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	puhũ	nan	nan	"('flower', 'alor1247-besar', ""'puhuŋ"")"	nan	116. Bunga 
-129	salt	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	siʔa	nan	nan	('salt', 'lama1277-baipi', 'siʔa')	nan	128. Garam 
+129	salt	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	siʔa	nan	nan	"('salt', 'alor1247-baran', ""'siʔa"")"	nan	128. Garam 
 130	fat	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wora	nan	nan	('fat', 'lama1277-baipi', 'wora')	nan	104. Lemak 
 131	flesh; meat	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	ihik	nan	nan	('flesh; meat', 'lama1277-bama', 'ihik')	nan	103. Daging 
-132	bone	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	riʔu	nan	nan	('bone', 'abui1241-takal', 'te̞̞i.pä')	nan	19. Tulang
+132	bone	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	riʔu	nan	nan	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	nan	19. Tulang
 136	blood	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	mei	nan	nan	('blood', 'lama1277-adona', 'mei')	nan	26. Darah
 138	heart	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	puhũ	nan	nan	('heart', 'amar1273-kotos', 'bua-f')	nan	22. Jantung
 139	liver	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	atẽ	nan	nan	"('liver', 'alor1247-baran', ""'hati"")"	nan	21. Hati
 144	stomach; belly	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	dulak	nan	nan	('stomach; belly', 'lama1277-baipi', 'ale')	nan	18. Perut
-145	head	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kote	nan	nan	('head', 'lama1277-baipi', 'kotət')	nan	27. Kepala
+145	head	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kote	nan	nan	"('head', 'alor1247-baran', ""'kɔtɔŋ"")"	nan	27. Kepala
 146	hair	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	rata	nan	nan	"('hair', 'alor1247-baran', ""'rata"")"	nan	29. Rambut
 148	eye	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	mata	nan	nan	"('eye', 'alor1247-baran', ""'mataŋ"")"	nan	47. Mata
 149	ear	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tilu	nan	nan	"('ear', 'alor1247-baran', ""'til:uŋ"")"	nan	45. Telinga
-150	nose	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	irũ	nan	nan	"('nose', 'alor1247-besar', ""'niruŋ"")"	nan	30. Hidung
-151	mouth	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wəwa	nan	nan	"('mouth', 'alor1247-pandai', ""wə'waŋ"")"	nan	33. Mulut
+150	nose	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	irũ	nan	nan	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	nan	30. Hidung
+151	mouth	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wəwa	nan	nan	('mouth', 'atim1239', 'tawa')	nan	33. Mulut
 155	tongue	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wewel	nan	nan	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	nan	35. Lidah
-156	neck	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wuli	nan	nan	"('neck', 'alor1247-baran', ""'fuliŋ"")"	nan	28. Leher
+156	neck	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	wuli	nan	nan	"('neck', 'alor1247-besar', ""'fuliŋ"")"	nan	28. Leher
 164	hand	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	lima	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan	1. Tangan
 175	foot	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	lei	nan	nan	"('foot', 'alor1247-baran', ""'leiŋ_ka'lumak"")"	nan	4. Kaki
 179	back	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	uhuk	nan	nan	('back', 'keda1252-leuwa', 'u̘hur')	nan	17. Punggung
@@ -77,7 +77,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 217	who?	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	hege	nan	nan	('who?', 'lama1277-baipi', 'hege')	nan	191. Siapa 
 218	where?	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	gaʔe	nan	nan	('where?', 'lama1277-baipi', 'təga')	nan	183. Di mana 
 219	when?	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	arəmpira	nan	nan	('when?', 'lama1277-baipi', 'arəmpira')	nan	174. Bilamana 
-223	this	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	piʔĩ	nan	nan	"('this', 'alor1247-baran', "",ha'ʔã"")"	nan	179. Ini 
+223	this	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	piʔĩ	nan	nan	"('this', 'alor1247-besar', ""'hã"")"	nan	179. Ini 
 224	that	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	peʔẽ	nan	nan	"('that', 'keda1252', ""no'beʔ"")"	nan	180. Itu 
 227	here	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pia	nan	nan	('here', 'lama1277-baipi', 'tiwi')	nan	177. Di sini 
 228	there	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pewəli	nan	nan	('there', 'abui1241-petle', 'we')	nan	178. Di situ 
@@ -134,9 +134,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 347	to know	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	moi	koi, moiː different inflections	nan	"('to know', 'alor1247-besar', ""'koiŋ"")"	nan	23. Tahu
 348	to say	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	marĩ	nan	nan	"('to say', 'alor1247-besar', ""'tutu"")"	nan	64. Bilang
 352	to lie down	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pola	nan	nan	('to lie down', 'lama1277-bama', 'pola')	nan	50. Rebah
-353	to sleep	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	turu	nan	nan	"('to sleep', 'alor1247-baran', ""'tur:u"")"	nan	49. Tidur
+353	to sleep	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	turu	nan	nan	"('to sleep', 'alor1247-besar', ""'turu"")"	nan	49. Tidur
 358	to sit	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tobo	nan	nan	('to sit', 'lama1277-baipi', 'tobo')	nan	51. Duduk
-359	to stand	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	deʔĩ	nan	nan	"('to stand', 'keda1252', ""'madɛr"")"	nan	52. Berdiri
+359	to stand	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	deʔĩ	nan	nan	"('to stand', 'alor1247-baran', ""'tid:ɛ"")"	nan	52. Berdiri
 360	to walk	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pana	nan	nan	"('to walk', 'alor1247-baran', ""'pana"")"	nan	6. Berjalan
 363	to swim	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	naŋe	nan	nan	"('to swim', 'alor1247-baran', ""'naŋgɛ"")"	nan	10. Berenang
 364	to fly	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	bəka	nan	nan	"('to fly', 'alor1247-baran', ""'bak:aŋ"")"	nan	101. Terbang 
@@ -158,13 +158,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382	to dance	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	soka	nan	nan	('to dance', 'abui1241-fuime', 'tohaijok')	nan	86. Menari 
 383	to sing	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	ɲaɲi	nan	nan	"('to sing', 'kema1243', ""mə'nanit"")"	nan	85. Menyanyi
 384	to burn (clear land)	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	səru	nan	nan	('to burn (clear land)', 'lama1277-baipi', 'səru')	nan	149. Membakar 
-389	to suck	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tuho	nan	nan	"('to suck', 'kaer1234-obsol', ""'tu:bo"")"	nan	44. Menetek
+389	to suck	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tuho	nan	nan	('to suck', 'keda1252', 'tu')	nan	44. Menetek
 390	to blow	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	bu	nan	nan	('to blow', 'abui1241-fuime', 'furuŋra')	nan	141. Bertiup 
 391	to spit	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pərino	nan	nan	('to spit', 'lama1277-baipi', 'pərino')	nan	39. Meludah
 392	to vomit	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tani	nan	nan	('to vomit', 'lama1277-bama', 'tani')	nan	38. Muntah
 393	to rub	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	doru	nan	nan	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	nan	13. Gosok
 394	to scratch	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	ragu	nan	nan	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	nan	77. Menggaruk 
-399	to bite	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	gike	nan	nan	"('to bite', 'alor1247-baran', ""'gaki"")"	nan	43. Gigit
+399	to bite	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	gike	nan	nan	"('to bite', 'alor1247-besar', ""'gaki"")"	nan	43. Gigit
 400	to cut	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	belo	nan	nan	('to cut', 'keda1252-leuwa', 'bεl_baʔ')	nan	78. Memotong
 402	to split	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tika	nan	nan	"('to split', 'alor1247-baran', ""'bat:a"")"	nan	80. Membelah 
 404	to stab	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	tubak	nan	nan	('to stab', 'alor1249-sar-a', 'tatap')	nan	71. Menikam 
@@ -182,10 +182,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 423	to push	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	odo	nan	nan	('to push', 'adan1251-lawah', 'adoʔo')	nan	93. Mendorong 
 430	to squeeze	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	piʔuk	nan	nan	('to squeeze', 'lama1277-adona', 'ˈpiʔuk')	nan	88. Memeras 
 441	to bark	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kayokulit	nan	nan	('to bark', 'lama1277-baipi', 'kajo_kulit')	nan	113. Kulit kayu
-442	to shoot	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pasak	nan	nan	"('to shoot', 'alor1247-baran', ""'pasa"")"	nan	70. Menembak 
+442	to shoot	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pasak	nan	nan	('to shoot', 'keda1252', 'pasaʔ')	nan	70. Menembak 
 601	footprint	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	makat	nan	nan	('footprint', 'lama1277-bama', 'makat')	nan	5. Kaki
 603	return	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	peʔũ	nan	nan	('return', 'lama1277-bama', 'peʔũ')	nan	9. Balik
-606	stomach	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kəboti	nan	nan	('stomach', 'lama1277-bama', 'kəboti')	nan	20. Isi perut
+606	stomach	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	kəboti	nan	nan	('stomach', 'lama1277-baipi', 'tãikəboti')	nan	20. Isi perut
 607	tooth	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	ipə	nan	nan	('tooth', 'lama1277-baipi', 'ipət')	nan	34. Gigi
 609	fist	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	sadok	nan	nan	('fist', 'lama1277-baipi', 'dəgo')	nan	72. Bertinju 
 612	stem	lama1277-bama	Lamaholot-Bama	Austronesian	8Lembata	pukã	nan	nan	('stem', 'lama1277-bama', 'pukã')	nan	79. Batang 

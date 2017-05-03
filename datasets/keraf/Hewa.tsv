@@ -7,12 +7,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 6	year	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	liwan	nan	nan	('year', 'sika1262-hewa', 'liwan')	nan	172. Tahun 
 13	cloud	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kowa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
 14	wind	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	a̤nin	nan	nan	"('wind', 'alor1247-baran', ""'aŋi"")"	nan	140. Angin 
-15	rain	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uran	nan	nan	"('rain', 'alor1247-besar', ""'uraŋ"")"	nan	138. Hujan 
+15	rain	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uran	nan	nan	('rain', 'sika1262-hewa', 'uran')	nan	138. Hujan 
 22	river; stream	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wair ba	nan	nan	('river; stream', 'lama1277-baipi', 'wai_ba')	nan	130. Sungai 
 25	lake	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pərigi	nan	nan	('lake', 'lama1277-ileap', 'bərebot')	nan	129. Danau 
 26	mountain	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	i̤lin	nan	nan	('mountain', 'alor1249-sar-n', 'yihil')	nan	131. Gunung 
 30	Earth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tana	nan	nan	('Earth', 'lama1277-baipi', 'tana')	nan	119. Tanah 
-32	stone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	watu	nan	nan	('stone', 'abui1241-fuime', 'vi')	nan	120. Batu 
+32	stone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	watu	nan	nan	"('stone', 'alor1247-baran', ""'fato"")"	nan	120. Batu 
 35	water (fresh)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wair	nan	nan	"('water (fresh)', 'alor1247-besar', ""'fei"")"	nan	122. Air 
 36	sea; sea water	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tahiʔ	nan	nan	('sea; sea water', 'lama1277-baipi', 'tahik')	nan	127. Laut 
 39	forest	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tuan bəleŋ	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan	132. Hutan
@@ -25,32 +25,32 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	awu	nan	nan	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	nan	151. Abu 
 75	sand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əda	nan	nan	"('sand', 'keda1252', ""'ʔerah"")"	nan	121. Pasir 
 76	grass; brush	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	riʔi	nan	nan	('grass; brush', 'lama1277-baipi', 'kərəmət')	nan	118. Rumput 
-84	tree	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ai	nan	nan	"('tree', 'alor1247-baran', ""'kaʤu_'lɔlɔŋ"")"	nan	110. Pohon 
+84	tree	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ai	nan	nan	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	nan	110. Pohon 
 87	leaf	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	roun	nan	nan	('leaf', 'cent2245-hewa', 'roun')	nan	112. Daun 
-91	root	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ramut	nan	nan	('root', 'lama1277-baipi', 'amut')	nan	114. Akar 
+91	root	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ramut	nan	nan	('root', 'sika1262-hewa', 'ramut')	nan	114. Akar 
 92	fruit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wuan	nan	nan	"('fruit', 'alor1247-pandai', ""'punak"")"	nan	117. Buah 
 93	seed	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ihin	nan	nan	('seed', 'amar1273-kotos', 'fini')	nan	115. Biji 
 95	flower	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	puhun	nan	nan	('flower', 'cent2245-hewa', 'puhun')	nan	116. Bunga 
 129	salt	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hini	nan	nan	nan	nan	128. Garam 
 130	fat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wura	nan	nan	('fat', 'lama1277-baipi', 'wora')	nan	104. Lemak 
 131	flesh; meat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ətan	nan	nan	('meat', 'cent2245-hewa', 'ətan')	nan	103. Daging 
-132	bone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lurin	nan	nan	('bone', 'sika1262-hewa', 'lurin')	nan	19. Tulang
+132	bone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lurin	nan	nan	"('bone', 'idat1237', ""lu:'rik"")"	nan	19. Tulang
 136	blood	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mei	nan	nan	('blood', 'lama1277-adona', 'mei')	nan	26. Darah
 138	heart	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wuan	nan	nan	('heart', 'amar1273-kotos', 'bua-f')	nan	22. Jantung
 139	liver	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	waten	nan	nan	"('liver', 'alor1247-baran', ""'hati"")"	nan	21. Hati
 144	stomach; belly	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dula	nan	nan	('stomach; belly', 'lama1277-kalik', 'tai')	nan	18. Perut
-145	head	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	nan	nan	('head', 'lama1277-baipi', 'kotət')	nan	27. Kepala
-146	hair	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	nan	nan	('hair', 'alor1249-sar-a', 'puʔuŋ')	nan	29. Rambut
-148	eye	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mata	nan	nan	"('eye', 'alor1247-baran', ""'mataŋ"")"	nan	47. Mata
+145	head	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	nan	nan	('head', 'adan1251-lawah', 'loŋ')	nan	27. Kepala
+146	hair	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	nan	nan	('hair', 'sika1262-hewa', 'loʔe')	nan	29. Rambut
+148	eye	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mata	nan	nan	('eye', 'sika1262-hewa', 'mata')	nan	47. Mata
 149	ear	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tilu	nan	nan	nan	nan	45. Telinga
-150	nose	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	i̤ru	nan	nan	('nose', 'lama1277-baipi', 'iru')	nan	30. Hidung
-151	mouth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wa	nan	nan	"('mouth', 'alor1247-pandai', ""wə'waŋ"")"	nan	33. Mulut
+150	nose	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	i̤ru	nan	nan	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	nan	30. Hidung
+151	mouth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wa	nan	nan	('mouth', 'atim1239', 'tawa')	nan	33. Mulut
 155	tongue	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ma	nan	nan	('tongue', 'amar1273-kotos', 'maa-f')	nan	35. Lidah
 156	neck	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	eru	nan	nan	('neck', 'sika1262-hewa', 'eru')	nan	28. Leher
 164	hand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan	1. Tangan
 175	foot	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	waʔi	nan	nan	('foot', 'fata1247', 'ɟia')	nan	4. Kaki
 179	back	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tuʔe	nan	nan	('back', 'sika1262-hewa', 'toʔe')	nan	17. Punggung
-182	skin	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan	16. Kulit
+182	skin	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ulit	nan	nan	('skin', 'abui1241-fuime', 'tekul')	nan	16. Kulit
 190	person	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	atabia	nan	nan	('person', 'lama1277-baipi', 'atadikə')	nan	53. Orang
 191	name	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	naraŋ	nan	nan	"('name', 'alor1247-baran', ""'naraŋ"")"	nan	63. Nama
 192	child	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dedi anak	nan	nan	('child', 'alor1247-baran', 'ʔanaŋ')	nan	56. Anak
@@ -68,7 +68,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 206	3sg	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	nimu	nan	nan	nan	nan	186. Dia 
 207	1pl excl	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ami	nan	nan	('1pl excl', 'lama1277-baipi', 'kame')	nan	188. Kami 
 208	1pl incl	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ita	nan	nan	('1pl incl', 'lama1277-baipi', 'tite')	nan	187. Kita 
-210	3pl	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rimu	nan	nan	"('3pl', 'kema1243', ""'rɔmɔ"")"	nan	189. Mereka 
+210	3pl	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rimu	nan	nan	('3pl', 'sika1262-hewa', 'rimu')	nan	189. Mereka 
 212	and	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	nora	nan	nan	('and', 'alor1247-baran', 'nɔ̃:')	nan	197. Dan 
 213	because	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əle	nan	nan	('because', 'lama1277-belan', 'puk')	nan	199. Sebab 
 214	if	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ganupa	nan	nan	('if', 'lama1277-baipi', 'kalu')	nan	200. Jikalau 
@@ -114,7 +114,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 309	dirty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	milan	nan	nan	('dirty', 'lama1277-adona', 'miˈlã')	nan	14. Kotor
 311	sharp	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bain	nan	nan	('sharp', 'lama1277-baipi', 'dəkət')	nan	81. Tajam 
 312	blunt; dull	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bohu	nan	nan	('blunt; dull', 'lama1277-bama', 'dat')	nan	82. Tumpul 
-313	heavy	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bərat	nan	nan	('heavy', 'alor1247-baran', 'ba:')	nan	147. Berat 
+313	heavy	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bərat	nan	nan	('heavy', 'sika1262-hewa', 'bərat')	nan	147. Berat 
 315	straight	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mudeŋ	nan	nan	('straight', 'abui1241-fuime', 'mulaŋ')	nan	165. Lurus 
 316	wide	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pəloeŋ	nan	nan	('wide', 'adan1251-lawah', 'bɛrɛŋ')	nan	164. Luas 
 317	narrow	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təker	nan	nan	nan	nan	163. Sempit 
@@ -122,21 +122,21 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 326	flat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rata	nan	nan	('flat', 'lama1277-belan', 'lere')	nan	146. Rata 
 329	black	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mitan	nan	nan	('black', 'adon1237', 'ˈmitɜ')	nan	152. Hitam 
 330	white	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	buraʔ	nan	nan	nan	nan	153. Putih 
-331	red	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	meran	nan	nan	('red', 'lama1277-baipi', 'meʔa')	nan	154. Merah 
+331	red	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	meran	nan	nan	('red', 'sika1262-hewa', 'meran')	nan	154. Merah 
 332	green	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	miaŋ	nan	nan	('green', 'sika1262-hewa', 'miaŋ')	nan	156. Hijau 
 334	yellow	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	heret	nan	nan	('yellow', 'cent2245-hewa', 'heret')	nan	155. Kuning 
 341	scared	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bərau	nan	nan	('scared', 'sika1262-hewa', 'blauʔ')	nan	25. Takut
-343	to see	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təŋer	nan	nan	('to see', 'lama1277-lewoi', 'ˈtəŋə')	nan	48. Melihat
+343	to see	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təŋer	nan	nan	('to see', 'lama1277-baipi', 'tədə')	nan	48. Melihat
 344	to hear	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	diʔin	nan	nan	('to hear', 'lama1277-bama', 'weŋe')	nan	46. Dengar
 345	to smell	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mowo	nan	nan	('to smell', 'lama1277-belan', 'hodam')	nan	32. Membaui
 346	to think	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	sugo	nan	nan	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	nan	24. Pikir
 347	to know	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	raitan	nan	nan	('to know', 'sika1262-hewa', 'raitan')	nan	23. Tahu
 348	to say	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	marĩ	nan	nan	"('to say', 'alor1247-besar', ""'tutu"")"	nan	64. Bilang
 352	to lie down	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	duʔe ləbe	nan	nan	('to lie down', 'sika1262-hewa', 'duʔe_ləbe')	nan	50. Rebah
-353	to sleep	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	duʔe	nan	nan	"('to sleep', 'alor1247-baran', ""'tur:u"")"	nan	49. Tidur
+353	to sleep	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	duʔe	nan	nan	"('to sleep', 'alor1247-besar', ""'turu"")"	nan	49. Tidur
 358	to sit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dəri	nan	nan	('to sit', 'lama1277-baipi', 'tobo')	nan	51. Duduk
-359	to stand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	gəra	nan	nan	"('to stand', 'keda1252', ""'madɛr"")"	nan	52. Berdiri
-360	to walk	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pano	nan	nan	"('to walk', 'alor1247-baran', ""'pana"")"	nan	6. Berjalan
+359	to stand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	gəra	nan	nan	"('to stand', 'alor1247-baran', ""'tid:ɛ"")"	nan	52. Berdiri
+360	to walk	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pano	nan	nan	('to walk', 'sika1262-hewa', 'pano')	nan	6. Berjalan
 363	to swim	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	nani	nan	nan	nan	nan	10. Berenang
 364	to fly	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	horo	nan	nan	('to fly', 'sika1262-hewa', 'horo')	nan	101. Terbang 
 365	to fall (from above)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lodoŋ	nan	nan	('to fall (from above)', 'lama1277-baipi', 'loʔu')	nan	95. Jatuh 
@@ -145,7 +145,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 370	to cook	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	huna	nan	nan	('to cook', 'amar1273-kotos', 'na-hana')	nan	41. Masak
 371	to wash	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bopo	nan	nan	('to wash', 'amar1273-kotos', 'n-safe')	nan	11. Mencuci
 372	to sew	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	raʔit	nan	nan	('to sew', 'adan1251-lawah', 'narotoʔ')	nan	67. Menjahit 
-373	to live; be alive; living	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	moret	nan	nan	('to live; be alive; living', 'lama1277-baipi', 'mori')	nan	76. Hidup 
+373	to live; be alive; living	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	moret	nan	nan	('to live; be alive; living', 'sika1262-hewa', 'moret')	nan	76. Hidup 
 374	to breathe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	boʔ	nan	nan	('to breathe', 'lama1277-pukau', 'boʔ')	nan	31. Bernapas
 375	to work	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kərian	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan	83. Bekerja 
 376	to die	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mate	nan	nan	('to die', 'cent2245-hewa', 'mate')	nan	75. Mati 
@@ -156,11 +156,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381	to cry	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dani	nan	nan	"('to cry', 'alor1247-baran', ""'tanĩ"")"	nan	37. Menangis
 382	to dance	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	soka	nan	nan	('to dance', 'abui1241-fuime', 'tohaijok')	nan	86. Menari 
 383	to sing	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kantar	nan	nan	('to sing', 'buna1278-bobon', 'gio_logo')	nan	85. Menyanyi
-384	to burn (clear land)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	holo	nan	nan	('to burn (clear land)', 'lama1277-baipi', 'səru')	nan	149. Membakar 
-389	to suck	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wuhu	nan	nan	"('to suck', 'kaer1234-obsol', ""'tu:bo"")"	nan	44. Menetek
+384	to burn (clear land)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	holo	nan	nan	('to burn (clear land)', 'sika1262-hewa', 'holo')	nan	149. Membakar 
+389	to suck	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wuhu	nan	nan	('to suck', 'keda1252', 'tu')	nan	44. Menetek
 390	to blow	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pərupi	nan	nan	('to blow', 'abui1241-fuime', 'furuŋra')	nan	141. Bertiup 
 391	to spit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niru	nan	nan	nan	nan	39. Meludah
-392	to vomit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mutaʔ	nan	nan	"('to vomit', 'alor1247-baran', ""'mut:a"")"	nan	38. Muntah
+392	to vomit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mutaʔ	nan	nan	"('to vomit', 'alor1247-besar', ""'muta"")"	nan	38. Muntah
 393	to rub	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	beroso	nan	nan	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	nan	13. Gosok
 394	to scratch	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	garu	nan	nan	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	nan	77. Menggaruk 
 399	to bite	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	waka	nan	nan	('to bite', 'sika1262-hewa', 'waka')	nan	43. Gigit
@@ -181,10 +181,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 423	to push	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	sogor	nan	nan	('to push', 'kama1365', '-soːran')	nan	93. Mendorong 
 430	to squeeze	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pəra	nan	nan	nan	nan	88. Memeras 
 441	to bark	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ulit ai	nan	nan	('to bark', 'lama1277-baipi', 'kajo_kulit')	nan	113. Kulit kayu
-442	to shoot	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pasak	nan	nan	"('to shoot', 'alor1247-baran', ""'pasa"")"	nan	70. Menembak 
+442	to shoot	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pasak	nan	nan	('to shoot', 'keda1252', 'pasaʔ')	nan	70. Menembak 
 601	footprint	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əpak	nan	nan	('footprint', 'lama1277-bama', 'makat')	nan	5. Kaki
 603	return	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	gəwali	nan	nan	('return', 'lama1277-baipi', 'gəwali')	nan	9. Balik
-606	stomach	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tai dula	nan	nan	('stomach', 'lama1277-bama', 'kəboti')	nan	20. Isi perut
+606	stomach	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tai dula	nan	nan	('stomach', 'lama1277-baipi', 'tãikəboti')	nan	20. Isi perut
 607	tooth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niʔu	nan	nan	('tooth', 'lama1277-baipi', 'ipət')	nan	34. Gigi
 609	fist	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	sadok	nan	nan	('fist', 'lama1277-baipi', 'dəgo')	nan	72. Bertinju 
 612	stem	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	a̤i	nan	nan	('stem', 'lama1277-baipi', 'pukən')	nan	79. Batang 

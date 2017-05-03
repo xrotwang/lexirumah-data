@@ -1,10 +1,10 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Indonesian
-0	sky	keda1252	Kedang	Austronesian	8Lembata	eleŋ	nan	nan	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	nan	133. Langit 
+0	sky	keda1252	Kedang	Austronesian	8Lembata	eleŋ	nan	nan	('sky', 'kama1365', 'deliŋ')	nan	133. Langit 
 1	sun	keda1252	Kedang	Austronesian	8Lembata	loyo	nan	nan	"('sun', 'alor1247-baran', ""la'ra"")"	nan	134. Matahari 
 3	star	keda1252	Kedang	Austronesian	8Lembata	male	nan	nan	"('star', 'alor1247-baran', ""ta'mala"")"	nan	135. Bintang 
 4	night	keda1252	Kedang	Austronesian	8Lembata	uben	nan	nan	"('night', 'keda1252', ""u'bɛn"")"	nan	171. Malam 
-5	day	keda1252	Kedang	Austronesian	8Lembata	loyo	nan	nan	"('day', 'alor1247-baran', ""la'ra:"")"	nan	173. Hari 
-6	year	keda1252	Kedang	Austronesian	8Lembata	tun	nan	nan	('year', 'keda1252', 'tun')	nan	172. Tahun 
+5	day	keda1252	Kedang	Austronesian	8Lembata	loyo	nan	nan	"('day', 'alor1247-besar', ""la'ra"")"	nan	173. Hari 
+6	year	keda1252	Kedang	Austronesian	8Lembata	tun	nan	nan	('year', 'abui1241-petle', 'tuŋ')	nan	172. Tahun 
 13	cloud	keda1252	Kedang	Austronesian	8Lembata	owa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan	136. Awan 
 14	wind	keda1252	Kedang	Austronesian	8Lembata	aŋin	nan	nan	"('wind', 'alor1247-baran', ""'aŋi"")"	nan	140. Angin 
 15	rain	keda1252	Kedang	Austronesian	8Lembata	uya	nan	nan	"('rain', 'alor1247-besar', ""'uraŋ"")"	nan	138. Hujan 
@@ -12,7 +12,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 25	lake	keda1252	Kedang	Austronesian	8Lembata	o̤pa	nan	nan	('lake', 'keda1252', 'o̤pa')	nan	129. Danau 
 26	mountain	keda1252	Kedang	Austronesian	8Lembata	ili	nan	nan	('mountain', 'alor1249-sar-n', 'yihil')	nan	131. Gunung 
 30	Earth	keda1252	Kedang	Austronesian	8Lembata	auʔ	nan	nan	('Earth', 'keda1252', 'auʔ')	nan	119. Tanah 
-32	stone	keda1252	Kedang	Austronesian	8Lembata	waʔ	nan	nan	('stone', 'keda1252', 'waʔ')	nan	120. Batu 
+32	stone	keda1252	Kedang	Austronesian	8Lembata	waʔ	nan	nan	"('stone', 'alor1247-baran', ""'fato"")"	nan	120. Batu 
 35	water (fresh)	keda1252	Kedang	Austronesian	8Lembata	wei	nan	nan	('water (fresh)', 'keda1252', 'wei')	nan	122. Air 
 36	sea; sea water	keda1252	Kedang	Austronesian	8Lembata	tahi	nan	nan	('sea; sea water', 'keda1252', 'tahi')	nan	127. Laut 
 39	forest	keda1252	Kedang	Austronesian	8Lembata	tuen	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	nan	132. Hutan
@@ -31,19 +31,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 92	fruit	keda1252	Kedang	Austronesian	8Lembata	wuan	nan	nan	"('fruit', 'alor1247-pandai', ""'punak"")"	nan	117. Buah 
 93	seed	keda1252	Kedang	Austronesian	8Lembata	ulu?	nan	nan	"('seed', 'alor1247-baran', ""'kuluŋ"")"	nan	115. Biji 
 95	flower	keda1252	Kedang	Austronesian	8Lembata	puhun	nan	nan	('flower', 'abui1241-fuime', 'kiki')	nan	116. Bunga 
-129	salt	keda1252	Kedang	Austronesian	8Lembata	teʔu	nan	nan	('salt', 'abui1241-fuime', 'ati')	nan	128. Garam 
+129	salt	keda1252	Kedang	Austronesian	8Lembata	teʔu	nan	nan	"('salt', 'keda1252', ""te'ʔu"")"	nan	128. Garam 
 130	fat	keda1252	Kedang	Austronesian	8Lembata	woyaʔ	nan	nan	('fat', 'abui1241-fuime', 'hetamada')	nan	104. Lemak 
 131	flesh; meat	keda1252	Kedang	Austronesian	8Lembata	ihin	nan	nan	('flesh; meat', 'keda1252', 'ihin')	nan	103. Daging 
-132	bone	keda1252	Kedang	Austronesian	8Lembata	lurin	nan	nan	('bone', 'abui1241-takal', 'te̞̞i.pä')	nan	19. Tulang
+132	bone	keda1252	Kedang	Austronesian	8Lembata	lurin	nan	nan	"('bone', 'idat1237', ""lu:'rik"")"	nan	19. Tulang
 136	blood	keda1252	Kedang	Austronesian	8Lembata	wei	nan	nan	('blood', 'abui1241-fuime', 'we')	nan	26. Darah
 138	heart	keda1252	Kedang	Austronesian	8Lembata	taeŋ	nan	nan	('heart', 'keda1252', 'taeŋ')	nan	22. Jantung
 139	liver	keda1252	Kedang	Austronesian	8Lembata	taʔmuti	nan	nan	('liver', 'keda1252', 'taʔmuti')	nan	21. Hati
-144	stomach; belly	keda1252	Kedang	Austronesian	8Lembata	botin	nan	nan	('stomach; belly', 'keda1252', 'botin')	nan	18. Perut
-145	head	keda1252	Kedang	Austronesian	8Lembata	tubar	nan	nan	('head', 'abui1241-fuime', 'kai')	nan	27. Kepala
+144	stomach; belly	keda1252	Kedang	Austronesian	8Lembata	botin	nan	nan	('stomach', 'lama1277-lamal', 'kəboti')	nan	18. Perut
+145	head	keda1252	Kedang	Austronesian	8Lembata	tubar	nan	nan	"('head', 'keda1252', ""tu'bar"")"	nan	27. Kepala
 146	hair	keda1252	Kedang	Austronesian	8Lembata	uha	nan	nan	('hair', 'keda1252', 'uha')	nan	29. Rambut
 148	eye	keda1252	Kedang	Austronesian	8Lembata	mato	nan	nan	"('eye', 'alor1247-baran', ""'mataŋ"")"	nan	47. Mata
 149	ear	keda1252	Kedang	Austronesian	8Lembata	til	nan	nan	('ear', 'keda1252', 'til')	nan	45. Telinga
-150	nose	keda1252	Kedang	Austronesian	8Lembata	niŋ	nan	nan	('nose', 'keda1252', 'niŋ')	nan	30. Hidung
+150	nose	keda1252	Kedang	Austronesian	8Lembata	niŋ	nan	nan	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	nan	30. Hidung
 151	mouth	keda1252	Kedang	Austronesian	8Lembata	nunu	nan	nan	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan	33. Mulut
 155	tongue	keda1252	Kedang	Austronesian	8Lembata	ebel	nan	nan	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	nan	35. Lidah
 156	neck	keda1252	Kedang	Austronesian	8Lembata	aduŋ	nan	nan	('neck', 'keda1252', 'aduŋ')	nan	28. Leher
@@ -58,8 +58,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 194	woman	keda1252	Kedang	Austronesian	8Lembata	are rian	nan	nan	('woman', 'kama1365', 'mare')	nan	55. Wanita
 195	husband	keda1252	Kedang	Austronesian	8Lembata	ate rian	nan	nan	"('husband', 'keda1252', ""ate_'rian"")"	nan	57. Suami
 196	wife	keda1252	Kedang	Austronesian	8Lembata	weʔ rian	nan	nan	"('wife', 'alor1247-baran', ""ka'fae"")"	nan	58. Isteri
-197	mother	keda1252	Kedang	Austronesian	8Lembata	ine	nan	nan	('mother', 'alor1247-baran', 'ʔina')	nan	59. Ibu
-198	father	keda1252	Kedang	Austronesian	8Lembata	ame	nan	nan	"('father', 'alor1247-baran', ""'ʔama"")"	nan	60. Bapak
+197	mother	keda1252	Kedang	Austronesian	8Lembata	ine	nan	nan	"('mother', 'alor1247-besar', ""'inaŋ"")"	nan	59. Ibu
+198	father	keda1252	Kedang	Austronesian	8Lembata	ame	nan	nan	"('father', 'alor1247-besar', ""'amã"")"	nan	60. Bapak
 199	older sibling	keda1252	Kedang	Austronesian	8Lembata	ʔaʔe	nan	nan	('older sibling', 'keda1252', 'ʔaʔe')	nan	61. Kakak
 200	younger sibling	keda1252	Kedang	Austronesian	8Lembata	ariʔ	nan	nan	('younger sibling', 'adan1251-otvai', 'di')	nan	62. Adik
 203	1sg	keda1252	Kedang	Austronesian	8Lembata	eʔi	nan	nan	('1sg', 'alor1247-baran', 'go:')	nan	184. Saya 
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	keda1252	Kedang	Austronesian	8Lembata	weaŋ piye	nan	nan	('when?', 'keda1252', 'weaŋ_piye')	nan	174. Bilamana 
 223	this	keda1252	Kedang	Austronesian	8Lembata	noʔo	nan	nan	('this', 'keda1252', 'noʔo')	nan	179. Ini 
 224	that	keda1252	Kedang	Austronesian	8Lembata	nobeʔ	nan	nan	"('that', 'keda1252', ""no'beʔ"")"	nan	180. Itu 
-227	here	keda1252	Kedang	Austronesian	8Lembata	dinoʔo	nan	nan	"('here', 'alor1247-baran', ""'hanʤa'fa"")"	nan	177. Di sini 
+227	here	keda1252	Kedang	Austronesian	8Lembata	dinoʔo	nan	nan	('here', 'keda1252', 'dinoʔo')	nan	177. Di sini 
 228	there	keda1252	Kedang	Austronesian	8Lembata	dinobeʔ	nan	nan	('there', 'keda1252', 'dinobeʔ')	nan	178. Di situ 
 231	left (side)	keda1252	Kedang	Austronesian	8Lembata	weri	nan	nan	('left (side)', 'keda1252', 'weri')	nan	2. Kiri
 232	right (side)	keda1252	Kedang	Austronesian	8Lembata	wana	nan	nan	('right (side)', 'adan1251-otvai', 'taniŋ')	nan	3. Kanan
@@ -135,7 +135,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 352	to lie down	keda1252	Kedang	Austronesian	8Lembata	retiŋ	nan	nan	('to lie down', 'keda1252', 'retiŋ')	nan	50. Rebah
 353	to sleep	keda1252	Kedang	Austronesian	8Lembata	teʔel	nan	nan	"('to sleep', 'keda1252', ""'tɛʔɛl"")"	nan	49. Tidur
 358	to sit	keda1252	Kedang	Austronesian	8Lembata	tebe	nan	nan	('to sit', 'abui1241-fuime', 'miti')	nan	51. Duduk
-359	to stand	keda1252	Kedang	Austronesian	8Lembata	mader	nan	nan	"('to stand', 'keda1252', ""'madɛr"")"	nan	52. Berdiri
+359	to stand	keda1252	Kedang	Austronesian	8Lembata	mader	nan	nan	"('to stand', 'alor1247-baran', ""'tid:ɛ"")"	nan	52. Berdiri
 360	to walk	keda1252	Kedang	Austronesian	8Lembata	pan	nan	nan	"('to walk', 'alor1247-baran', ""'pana"")"	nan	6. Berjalan
 363	to swim	keda1252	Kedang	Austronesian	8Lembata	naŋe	nan	nan	"('to swim', 'alor1247-baran', ""'naŋgɛ"")"	nan	10. Berenang
 364	to fly	keda1252	Kedang	Austronesian	8Lembata	baʔa	nan	nan	"('to fly', 'alor1247-baran', ""'bak:aŋ"")"	nan	101. Terbang 
@@ -158,13 +158,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382	to dance	keda1252	Kedang	Austronesian	8Lembata	soka	nan	nan	('to dance', 'abui1241-fuime', 'tohaijok')	nan	86. Menari 
 383	to sing	keda1252	Kedang	Austronesian	8Lembata	lali	nan	nan	"('to sing', 'alor1247-baran', ""'bɔtɛ_'liaŋ"")"	nan	85. Menyanyi
 384	to burn (clear land)	keda1252	Kedang	Austronesian	8Lembata	tun	nan	nan	('to burn (clear land)', 'keda1252', 'tun')	nan	149. Membakar 
-389	to suck	keda1252	Kedang	Austronesian	8Lembata	tu	nan	nan	"('to suck', 'kaer1234-obsol', ""'tu:bo"")"	nan	44. Menetek
+389	to suck	keda1252	Kedang	Austronesian	8Lembata	tu	nan	nan	('to suck', 'keda1252', 'tu')	nan	44. Menetek
 390	to blow	keda1252	Kedang	Austronesian	8Lembata	puiʔ	nan	nan	('to blow', 'abui1241-fuime', 'furuŋra')	nan	141. Bertiup 
 391	to spit	keda1252	Kedang	Austronesian	8Lembata	potaʔ	nan	nan	('to spit', 'keda1252', 'potaʔ')	nan	39. Meludah
-392	to vomit	keda1252	Kedang	Austronesian	8Lembata	mute	nan	nan	"('to vomit', 'alor1247-baran', ""'mut:a"")"	nan	38. Muntah
+392	to vomit	keda1252	Kedang	Austronesian	8Lembata	mute	nan	nan	"('to vomit', 'alor1247-besar', ""'muta"")"	nan	38. Muntah
 393	to rub	keda1252	Kedang	Austronesian	8Lembata	poho	nan	nan	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	nan	13. Gosok
 394	to scratch	keda1252	Kedang	Austronesian	8Lembata	karo	nan	nan	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	nan	77. Menggaruk 
-399	to bite	keda1252	Kedang	Austronesian	8Lembata	kiʔi	nan	nan	"('to bite', 'alor1247-baran', ""'gaki"")"	nan	43. Gigit
+399	to bite	keda1252	Kedang	Austronesian	8Lembata	kiʔi	nan	nan	"('to bite', 'alor1247-besar', ""'gaki"")"	nan	43. Gigit
 400	to cut	keda1252	Kedang	Austronesian	8Lembata	bel	nan	nan	('to cut', 'keda1252', 'bel')	nan	78. Memotong
 402	to split	keda1252	Kedang	Austronesian	8Lembata	bete	nan	nan	"('to split', 'alor1247-baran', ""'bat:a"")"	nan	80. Membelah 
 404	to stab	keda1252	Kedang	Austronesian	8Lembata	tubaʔ	nan	nan	('to stab', 'alor1249-sar-a', 'tatap')	nan	71. Menikam 
@@ -182,7 +182,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 423	to push	keda1252	Kedang	Austronesian	8Lembata	obaŋ	nan	nan	"('to push', 'keda1252', ""'obaŋ"")"	nan	93. Mendorong 
 430	to squeeze	keda1252	Kedang	Austronesian	8Lembata	buleŋ	nan	nan	('to squeeze', 'keda1252', 'buleŋ')	nan	88. Memeras 
 441	to bark	keda1252	Kedang	Austronesian	8Lembata	ayi amaʔ	nan	nan	('to bark', 'keda1252', 'ayi_amaʔ')	nan	113. Kulit kayu
-442	to shoot	keda1252	Kedang	Austronesian	8Lembata	pasaʔ	nan	nan	"('to shoot', 'alor1247-baran', ""'pasa"")"	nan	70. Menembak 
+442	to shoot	keda1252	Kedang	Austronesian	8Lembata	pasaʔ	nan	nan	('to shoot', 'keda1252', 'pasaʔ')	nan	70. Menembak 
 601	footprint	keda1252	Kedang	Austronesian	8Lembata	lei laleŋ	nan	nan	('footprint', 'keda1252', 'lei_laleŋ')	nan	5. Kaki
 603	return	keda1252	Kedang	Austronesian	8Lembata	puer	nan	nan	('return', 'keda1252', 'puer')	nan	9. Balik
 606	stomach	keda1252	Kedang	Austronesian	8Lembata	tein	nan	nan	('stomach', 'keda1252', 'tein')	nan	20. Isi perut

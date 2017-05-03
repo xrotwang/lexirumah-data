@@ -1,6 +1,6 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kəleŋ	Hewa has a labiodental fricative /ʋ/ and no bilabial fricative /w/	k ə l e ŋ - - - - -	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	nan		
-1	sun	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ləro	nan	nan	"('sun', 'alor1247-baran', ""la'ra"")"	nan		
+0	sky	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kəleŋ	Hewa has a labiodental fricative /ʋ/ and no bilabial fricative /w/	k ə l e ŋ - - - - -	('sky', 'sika1262-hewa', 'kəleŋ')	nan		
+1	sun	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ləro	nan	nan	('sun', 'sika1262-hewa', 'ləro')	nan		
 2	moon	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋulan	nan	ʋ u l a n - ( - - - - - - - - )	('moon', 'adan1251-lawah', 'hu:l')	nan		
 3	star	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dala	nan	d a - - l a	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
 4	night	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	guman	nan	nan	('night', 'cent2245-hewa', 'guman')	nan		
@@ -31,7 +31,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 30	Earth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	nian tana	earth/soil	n i a n _ t a n a	"('Earth', 'alor1247-baran', ""'tana"")"	nan		
 31	hole	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	boaŋ	nan	b o a n ɡ	('hole', 'adan1251-lawah', 'boe')	nan		
 31	hole	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lian	nan	l i a n	('hole', 'sika1262-hewa', 'lian')	nan		
-32	stone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋatu	nan	ʋ a t u -	('stone', 'abui1241-fuime', 'vi')	nan		
+32	stone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋatu	nan	ʋ a t u -	"('stone', 'alor1247-baran', ""'fato"")"	nan		
 33	coral (rock)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋatu ruhɔ	nan	ʋ a t u _ r u h ɔ -	('coral (rock)', 'lama1277-lerek', 'wat_uˈhor')	nan		
 34	(coral) reef	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ruhɔ	nan	r u h ɔ -	('(coral) reef', 'lama1277-lerek', 'ˈuhor')	nan		
 35	water (fresh)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋair	nan	ʋ a i r	"('water (fresh)', 'alor1247-besar', ""'fei"")"	nan		
@@ -90,7 +90,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 81	door	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uhe	nan	- u h e -	('door', 'adan1251-lawah', 'saʔar')	nan		
 82	(thatch) roof	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ataʔ	thatch/roof	a t a ʔ -	"('(thatch) roof', 'alor1247-besar', ""'luo_'taka"")"	nan		
 83	roof thatch	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	riʔi	nan	r i ʔ i	('roof thatch', 'sika1262-hewa', 'riʔi')	nan		
-84	tree	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔai	nan	ʔ a - i -	"('tree', 'alor1247-baran', ""'kaʤu_'lɔlɔŋ"")"	nan		
+84	tree	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔai	nan	ʔ a - i -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	nan		
 85	wood	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔai	nan	ʔ a i	('wood', 'sika1262-hewa', 'ʔai')	nan		
 86	bark (of tree)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔai klokok	nan	nan	('bark (of tree)', 'adan1251-lawah', 'ti_ʔui')	nan		
 87	leaf	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	roun	nan	r o u n	('leaf', 'sika1262-hewa', 'roun')	nan		
@@ -118,7 +118,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 107	cassava	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔohu bolaʔ	nan	ʔ o h u _ b o l a ʔ	('cassava', 'sika1262-hewa', 'ʔohu_bolaʔ')	nan		
 108	taro	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔohu mutiʔ	nan	ʔ o h u _ m u t i ʔ	('taro', 'sika1262-hewa', 'ʔohu_mutiʔ')	nan		
 111	sugarcane	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təʋu	nan	t ə ʋ u -	"('sugarcane', 'alor1247-besar', ""ta'fɔ"")"	nan		
-112	corn; maize	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋatar	nan	ʋ a t a r	('corn; maize', 'abui1241-fuime', 'fa:ti')	nan		
+112	corn; maize	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋatar	nan	ʋ a t a r	"('corn; maize', 'alor1247-besar', ""'fata"")"	nan		
 113	cooked corn	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋatɑr bəŋɛŋ	nan	ʋ a t ɑ r _ b ə - ŋ ɛ - ŋ	"('cooked corn', 'alor1247-besar', ""'fata_pu'nakaŋ"")"	nan		
 114	coconut	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niur	nan	n i u r	('coconut', 'sika1262-hewa', 'niur')	nan		
 116	lontar palm	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	koli	nan	- - - k - o l i -	"('lontar palm', 'abui1241-takal', ""äj.'qɔl"")"	nan		
@@ -139,7 +139,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 126	bean	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋeʋe	nan	ʋ e ʋ e	('bean', 'sika1262-hewa', 'ʋeʋe')	nan		
 127	honey	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋani ʋair	nan	ʋ a n i _ ʋ a i r	('honey', 'abui1241-fuime', 'nawa:ŋ')	nan		
 128	milk	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	susu	uhu 'breast'	s u s - - u -	"('milk', 'alor1247-baran', ""'susu"")"	nan		
-129	salt	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hini	nan	h i n i	"('salt', 'buna1278-malia', ""'ʔi:"")"	nan		
+129	salt	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hini	nan	h i n i	('salt', 'sika1262-hewa', 'hini')	nan		
 130	fat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋura	fat/grease	ʋ u r a	('fat', 'sika1262-hewa', 'ʋura')	nan		
 131	flesh; meat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ətan	nan	- - - ə t a n -	('flesh; meat', 'sika1262-hewa', 'ətan')	nan		
 132	bone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lurin	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
@@ -154,7 +154,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 141	guts	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tain ʋaten	intestines; tain = intestine / vaten = liver	t a i n _ ʋ a t e n	"('guts', 'alor1247-baran', ""'teiŋ_'ɔnɔŋ"")"	nan		
 142	excrement	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	taʔi	nan	t a ʔ i	('excrement', 'abui1241-takal', 'täɁi')	nan		
 144	stomach; belly	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dula	(belly)	d u l a -	('stomach; belly', 'cent2245-hewa', 'dula')	nan		
-145	head	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔen	nan	l o ʔ e n	('head', 'sika1262-hewa', 'loʔen')	nan		
+145	head	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔen	nan	l o ʔ e n	('head', 'adan1251-lawah', 'loŋ')	nan		
 146	hair	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	/vulu/: feather, animal hair, body hair	l o ʔ e -	('hair', 'cent2245-hewa', 'loʔe')	nan		
 146	hair	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe roun	/vulu/: feather, animal hair, body hair	l o ʔ e _ r o u n	"('hair', 'idat1237', ""'huhu_'rɔ:n"")"	nan		
 146	hair	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋulu	/vulu/: feather, animal hair, body hair	ʋ u l u	('hair', 'amar1273-kotos', 'ʔna:k_funu-f')	nan		
@@ -162,11 +162,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 148	eye	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mata	nan	- - - m a t a -	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
 149	ear	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tilu	nan	t i l u - -	"('ear', 'alor1247-baran', ""'til:uŋ"")"	nan		
 150	nose	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	iru	nan	i r u -	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	nan		
-151	mouth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋa	nan	ʋ a	"('mouth', 'alor1247-pandai', ""wə'waŋ"")"	nan		
+151	mouth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋa	nan	ʋ a	('mouth', 'atim1239', 'tawa')	nan		
 152	chin	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	a:ruʔ	nan	aː r - - u ʔ -	('chin', 'adan1251-lawah', 'arowaha')	nan		
 153	lips	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋiʋir	nan	ʋ i ʋ i r	"('lips', 'alor1247-baran', ""'fifiŋ"")"	nan		
 154	teeth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niu	tooth (singular)	n i - u -	"('teeth', 'kema1243', ""'nipɑr"")"	nan		
-155	tongue	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ma	nan	m a	('tongue', 'amar1273-kotos', 'ma:-f')	nan		
+155	tongue	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ma	nan	m a	('tongue', 'sika1262-hewa', 'ma')	nan		
 156	neck	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əru	nan	- ə - - r u	('neck', 'adan1251-lawah', 'dolo')	nan		
 157	shoulder	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	palik	nan	#NAME?	"('shoulder', 'keda1252', ""'wali"")"	nan		
 158	body	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təbo	nan	t ə b - o	('body', 'sika1262-hewa', 'təbo')	nan		
@@ -183,7 +183,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 168	breast	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uhu	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	nan		
 169	chest	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rahaʔ	nan	r a h a ʔ	('chest', 'maka1316', 'rɔsɔ')	nan		
 170	navel	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	puhɛr	nan	- - p u h ɛ - r - - - - -	('navel', 'abui1241-fuime', 'tabike')	nan		
-171	penis	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uti	nan	nan	"('penis', 'alor1247-munas', ""'utiŋ"")"	nan		
+171	penis	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uti	nan	nan	('penis', 'amar1273-kotos', 'uti-f')	nan		
 172	vagina	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	era	nan	nan	('vagina', 'adan1251-otvai', 'a:l')	nan		
 173	testicles	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tɛlɔ	nan	t ɛ l ɔ -	('testicles', 'sika1262-hewa', 'tɛlɔ')	nan		
 173	testicles	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uti	nan	u t i	('testicles', 'sika1262-hewa', 'uti')	nan		
@@ -195,7 +195,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 179	back	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	toʔe	nan	nan	('back', 'sika1262-hewa', 'toʔe')	nan		
 180	spine; lower back	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hətulɛr	nan	h ə t u l ɛ r - -	('spine; lower back', 'lama1277-adona', 'ˈhɜlɜrɜt')	nan		
 181	waist	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	həlɛr	nan	h ə l ɛ r	('waist', 'buna1278-suai', 'gɔlɛp')	nan		
-182	skin	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	nan		
+182	skin	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔulit	nan	nan	('skin', 'abui1241-fuime', 'tekul')	nan		
 183	sore; wound	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lahin	nan	#NAME?	('sore; wound', 'buna1278-bobon', 'hinɑl')	nan		
 184	ringworm	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋəne	nan	ʋ ə n e - -	('ringworm', 'lama1277-lerek', 'wəˈner')	nan		
 185	scabies	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	klutuk	nan	k l u t u k	('scabies', 'sika1262-hewa', 'klutuk')	nan		
@@ -212,7 +212,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 194	woman	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	duʔa	woman/female	d u ʔ a	('woman', 'sika1262-hewa', 'duʔa')	nan		
 195	husband	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	laʔi	nan	- - - - l a ʔ i -	"('husband', 'alor1247-baran', ""ka'lake"")"	nan		
 196	wife	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	duʔa	nan	- - - - d u ʔ a - - - -	('wife', 'sika1262-hewa', 'duʔa')	nan		
-197	mother	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ina	nan	nan	('mother', 'alor1247-baran', 'ʔina')	nan		
+197	mother	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ina	nan	nan	"('mother', 'alor1247-besar', ""'inaŋ"")"	nan		
 198	father	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ama	nan	nan	('father', 'abui1241-fuime', 'mama')	nan		
 199	older sibling	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tata	nan	nan	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	nan		
 199	older sibling	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ueʔ	nan	u e ʔ	('older sibling', 'keda1252', 'ʔaʔe')	nan		
@@ -220,7 +220,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 201	bride price	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	baha	baha = belis consisting of elephant ivory	b a h a	"('bride price', 'keda1252', ""'pae"")"	nan		
 201	bride price	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	belis	nan	nan	('bride price', 'abui1241-fuime', 'he-bel')	nan		
 203	1sg	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	aʔu	nan	nan	('1sg', 'amar1273-kotos', 'au')	nan		
-204	2sg (informal)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔau	nan	- ʔ a - - u - - - - -	('2sg (informal)', 'p-aust1307-abvd', '*i-kaSu')	nan		
+204	2sg (informal)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔau	nan	- ʔ a - - u - - - - -	('2sg (informal)', 'sika1262-hewa', 'ʔau')	nan		
 206	3sg	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	nimu	nan	n i m u - - - - -	('3sg', 'sika1262-hewa', 'nimu')	nan		
 207	1pl excl	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔami	nan	ʔ a m i	"('1pl excl', 'alor1247-baran', ""'kame"")"	nan		
 208	1pl incl	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔita	nan	- ʔ i t a - - - - - -	"('1pl incl', 'alor1247-baran', "",ʔi'tɛ"")"	nan		
@@ -238,7 +238,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rəma pira	nan	( r ə m a - ) _ p i - - r a	('when?', 'lama1277-adona', 'ˈʔɜrɜˈpira')	nan		
 220	why?	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	puʔan apa?	nan	nan	('why?', 'lama1277-adona', 'pukɜ_ˈʔaku')	nan		
 221	how much; how many?	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pira	nan	p i r a	('how much; how many?', 'alor1247-baran', 'pir:a')	nan		
-222	how?	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ɡanu upan	nan	nan	('how?', 'kula1280-lanto', 'nun_ŋape_da')	nan		
+222	how?	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ɡanu upan	nan	nan	('how?', 'sika1262-hewa', 'ɡanu_upan')	nan		
 223	this	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔete	nan	ʔ e t e	"('this', 'abui1241-petle', ""i.'ti"")"	nan		
 224	that	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔia	nan	ʔ i - a	('that', 'amar1273-kotos', '=e')	nan		
 225	at	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔia	"A?u noran ?ia ləpo, I be at home, ""I am at home"" "	nan	('at', 'idat1237', 'he:')	nan		
@@ -260,14 +260,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 236	animal	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	binataŋ	nan	nan	('animal', 'adan1251-otvai', 'binanta')	nan		
 237	fowl	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kəna horon	nan	k ə n a _ h o r o n	('fowl', 'sika1262-hewa', 'kəna_horon')	nan		
 238	dog	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ahu	nan	- a h u - - - - - - -	"('dog', 'alor1247-baran', ""a'ho"")"	nan		
-239	pig	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʋi	nan	ʋ a ʋ i -	('pig', 'abui1241-fuime', 'fe')	nan		
+239	pig	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʋi	nan	ʋ a ʋ i -	"('pig', 'alor1247-besar', ""'fafe"")"	nan		
 240	chicken	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	manuʔ	nan	nan	"('chicken', 'keda1252', ""ma'nuʔ"")"	nan		
 241	rat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	teʔu	nan	t e - ʔ u	('rat', 'adan1251-lawah', 'du:l')	nan		
 242	lizard	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təke:	nan	t ə k eː - - -	('lizard', 'abui1241-fuime', 'tekok')	nan		
 243	civet cat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	laʔu	nan	#NAME?	"('civet cat', 'alor1247-besar', ""'lako"")"	nan		
-244	deer	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ruha	nan	- - r u - h a - - - - -	('deer', 'abui1241-takal', 'ä.jut')	nan		
+244	deer	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ruha	nan	- - r u - h a - - - - -	('deer', 'abui1241-fuime', 'aijuti')	nan		
 245	frog	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	blaʔur	nan	b l a ʔ u r	('frog', 'sika1262-hewa', 'blaʔur')	nan		
-246	bat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niʔi	nan	#NAME?	"('bat', 'alor1247-pandai', ""pə'nike"")"	nan		
+246	bat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niʔi	nan	#NAME?	('bat', 'lama1277-adona', 'pɜˈnike')	nan		
 247	flying fox; fruit bat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niʔi	nan	n i ʔ i	('flying fox; fruit bat', 'pmpacd', '*paniki')	nan		
 248	cuscus	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	behar	nan	- - b e h a r	('cuscus', 'lama1277-lewoi', 'kəbeˈheʔ')	nan		
 249	tail	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	iʔur	/iʔur/: tail of four legged animals; /kekor/: tail of two leɡɡed animals	- i ʔ u r	('tail', 'adan1251-lawah', 'oloʔ')	nan		
@@ -303,7 +303,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 276	louse eggs	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔutu telon	nan	ʔ u t u _ t e l o n	"('louse eggs', 'alor1247-besar', ""'kuto_ka'lehã"")"	nan		
 277	mother louse	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔutu inan	nan	ʔ u t u _ - i n a n -	"('mother louse', 'alor1247-besar', ""'kuto_'inã"")"	nan		
 278	flea	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	məla	nan	m ə - - l a -	('flea', 'blag1240-bama', 'tepela')	nan		
-279	louse (clothing)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔutu	nan	ʔ u t u	"('louse (clothing)', 'alor1247-baran', ""ku't:ɔ"")"	nan		
+279	louse (clothing)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔutu	nan	ʔ u t u	('louse (clothing)', 'buna1278-bobon', 'katuma')	nan		
 280	bedbug	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ma:in	nan	nan	('bedbug', 'alor1249-sar-a', 'may')	nan		
 281	big	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	gəteʔ	nan	nan	('big', 'keda1252-leuwa', 'kεdεŋ_kεnaʔ')	nan		
 282	small	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	anak	nan	nan	"('small', 'alor1247-baran', ""'an:aŋ"")"	nan		
@@ -351,8 +351,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 317	narrow	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təker	nan	t ə k e r	('narrow', 'sika1262-hewa', 'təker')	nan		
 318	correct	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dəmen	correct, true	d ə m e n	('correct', 'sika1262-hewa', 'dəmen')	nan		
 319	wrong	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hala	nan	h a - - l a -	('wrong', 'abui1241-fuime', 'hasala')	nan		
-320	ripe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dahaʔ	nan	d a h a ʔ - -	"('ripe', 'alor1247-baran', ""'tah:a"")"	nan		
-320	ripe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	duʔan	nan	d u ʔ a - - n	"('ripe', 'alor1247-baran', ""'tah:a"")"	nan		
+320	ripe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dahaʔ	nan	d a h a ʔ - -	"('ripe', 'laka1255', ""'dɑsɑn"")"	nan		
+320	ripe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	duʔan	nan	d u ʔ a - - n	"('ripe', 'laka1255', ""'dɑsɑn"")"	nan		
 321	rotten	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋauk	rotten (of food, corpse)	ʋ a u k	('rotten', 'sika1262-hewa', 'ʋauk')	nan		
 322	bitter	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	baʔit	nan	nan	('bitter', 'lama1277-adona', 'ˈpait')	nan		
 323	sweet	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hureʔ	nan	h u r e ʔ	"('sweet', 'keda1252', ""ɛ'ru"")"	nan		
@@ -361,7 +361,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 326	flat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dətu	nan	d ə t u - -	('flat', 'kama1365', 'tatok')	nan		
 327	smooth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mɛlur	nan	- - m ɛ l u r - -	"('smooth', 'alor1247-besar', ""ha'melu"")"	nan		
 328	rough	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mogɔr	nan	m o g ɔ r	('rough', 'sika1262-hewa', 'mogɔr')	nan		
-329	black	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mitan	nan	nan	('black', 'pmpacd', '*qitem')	nan		
+329	black	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mitan	nan	nan	('black', 'sika1262-hewa', 'mitan')	nan		
 330	white	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	buraʔ	nan	- b u r a ʔ	"('white', 'alor1247-baran', ""'bur:a"")"	nan		
 331	red	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	meran	nan	nan	('red', 'cent2245-hewa', 'meran')	nan		
 332	green	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	daʔan	nan	nan	"('green', 'alor1247-munas', ""'taŋaŋ"")"	nan		
@@ -376,7 +376,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 341	scared	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	blauʔ	to fear	b l a u ʔ	('scared', 'sika1262-hewa', 'blauʔ')	nan		
 342	angry	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	həpuk	nan	h ə p u k -	('angry', 'sika1262-hewa', 'həpuk')	nan		
 343	to see	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	papaŋ	/ʔitaʔ/ 1SG, 1PL.IN, 3PL: ʔitaʔ; all others: /ɡitaʔ/ 	p a p a ŋ	('to see', 'sika1262-hewa', 'papaŋ')	nan		
-343	to see	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	teŋer	/ʔitaʔ/ 1SG, 1PL.IN, 3PL: ʔitaʔ; all others: /ɡitaʔ/ 	t e n g e r	('to see', 'lama1277-lewoi', 'ˈtəŋə')	nan		
+343	to see	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	teŋer	/ʔitaʔ/ 1SG, 1PL.IN, 3PL: ʔitaʔ; all others: /ɡitaʔ/ 	t e n g e r	('to see', 'lama1277-baipi', 'tədə')	nan		
 343	to see	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔitaʔ	/ʔitaʔ/ 1SG, 1PL.IN, 3PL: ʔitaʔ; all others: /ɡitaʔ/ 	ʔ i t a ʔ	('to see', 'amar1273-kotos', 'n-kisu')	nan		
 344	to hear	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	diʔiŋ	/rəna/, 1SG: ʔəna; 2PL: bəna; all others: /rəna/	d i ʔ i ŋ	"('to hear', 'alor1247-baran', ""'daŋ:a"")"	nan		
 344	to hear	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rəna	/rəna/, 1SG: ʔəna; 2PL: bəna; all others: /rəna/	r ə n a	"('to hear', 'alor1247-baran', ""'daŋ:a"")"	nan		
@@ -396,7 +396,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 356	to bathe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	huʔi	nan	h u - ʔ i	('to bathe', 'sika1262-hewa', 'huʔi')	nan		
 357	to bathe (a child)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bəli huʔiʔ	nan	b ə l i _ h u ʔ i ʔ	('to bathe (a child)', 'sika1262-hewa', 'bəli_huʔiʔ')	nan		
 358	to sit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təri	1SG, 1PL.IN, 3PL: təri; all others: dəri	- - t ə r i	('to sit', 'idat1237', 'katura')	nan		
-359	to stand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əra	nan	nan	('to stand', 'sika1262-hewa', 'əra')	nan		
+359	to stand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əra	nan	nan	"('to stand', 'alor1247-baran', ""'tid:ɛ"")"	nan		
 360	to walk	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pano	1SG,1PL.IN,3PL: pano; all others: bano	nan	('to walk', 'adon1237', 'ˈpana')	nan		
 361	to run	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	plari	nan	p - l a r i	"('to run', 'alor1247-baran', ""pa'laɛ"")"	nan		
 362	to go	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pano	1SG,1PL.IN,3PL: pano; all others: bano In fixed expressions (non productively), there is also the motion verb nan which means 'go'	p a n o -	('to go', 'lama1277-lerek', 'paˈnav')	nan		
@@ -412,11 +412,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 370	to cook	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pura	/hunaʔ/ general term; if no general term then /pura/ boil food.	p u r a	('to cook', 'sika1262-hewa', 'pura')	nan		
 371	to wash	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	popo	1SG,1PL.IN,3PL: popo; all others: bopo /popo/: washing cloths or face /puʔu/: washing hands or dishes	p o p o	('to wash', 'sika1262-hewa', 'popo')	nan		
 371	to wash	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	puʔu	1SG,1PL.IN,3PL: popo; all others: bopo /popo/: washing cloths or face /puʔu/: washing hands or dishes	p - u ʔ u - -	('to wash', 'amar1273-kotos', 'n-safe')	nan		
-372	to sew	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	raʔit	to sew (clothing)	nan	('to sew', 'adan1251-lawah', 'narotoʔ')	nan		
+372	to sew	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	raʔit	to sew (clothing)	nan	('to sew', 'sika1262-hewa', 'raʔit')	nan		
 373	to live; be alive; living	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	moret	nan	m o - r e t	('to live; be alive; living', 'adon1237', 'ˈmorit')	nan		
 374	to breathe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	boʔ	nan	b o ʔ	('to breathe', 'cent2245-hewa', 'boʔ')	nan		
 375	to work	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	krian	to work (in garden, field)	k - r - i - a n -	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan		
-376	to die	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mate	to die, be dead	m a - t e - -	('to die', 'lama1277-baipi', 'mata')	nan		
+376	to die	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mate	to die, be dead	m a - t e - -	('to die', 'sika1262-hewa', 'mate')	nan		
 377	to give	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bəli	nan	b ə l i	('to give', 'lama1277-kalik', 'be')	nan		
 378	to wipe	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pəri	nan	- p ə r i -	"('to wipe', 'dein1238', ""bri'"")"	nan		
 379	to come	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mai	nan	- - - m a i - -	('to come', 'abui1241-fuime', 'me')	nan		
@@ -443,7 +443,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 398	to slap	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pahɑk	to clap = təpete	p a h ɑ k	('to slap', 'amar1273-kotos', 'n-pasa')	nan		
 399	to bite	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	baka	nan	b a k - - a	('to bite', 'kula1280-lanto', 'akuna')	nan		
 400	to cut	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bati	to cut, hack (wood); 1SG, 1PL.IN, 3PL: /pati/; all others: /bati/	nan	('to cut', 'keda1252-leuwa', 'patε_i̘hu')	nan		
-400	to cut	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pati	to cut, hack (wood); 1SG, 1PL.IN, 3PL: /pati/; all others: /bati/	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	nan		
+400	to cut	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pati	to cut, hack (wood); 1SG, 1PL.IN, 3PL: /pati/; all others: /bati/	nan	('to cut', 'keda1252-leuwa', 'patε_i̘hu')	nan		
 401	to cut down	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	roʔa	nan	r o ʔ a	('to cut down', 'sika1262-hewa', 'roʔa')	nan		
 402	to split	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pleka	transitive; 	p l e k a -	"('to split', 'alor1247-baran', ""'bat:a"")"	nan		
 402	to split	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	plika	transitive; 	p l i k a -	"('to split', 'alor1247-baran', ""'bat:a"")"	nan		
@@ -451,9 +451,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 404	to stab	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pləgaʔ	to stab, pierce	p l ə g a ʔ	('to stab', 'sika1262-hewa', 'pləgaʔ')	nan		
 405	to skewer	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tuhuk	nan	t u h u k	"('to skewer', 'alor1247-besar', ""'tuhu"")"	nan		
 406	to fight	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	punu ʋiʔin	nan	p u n u _ ʋ i - ʔ i n	('to fight', 'lama1277-adona', 'pɜˈwuno')	nan		
-407	to guard	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʤaga	nan	ʤ a g a	"('to guard', 'alor1247-pandai', ""'dʒaga"")"	nan		
+407	to guard	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʤaga	nan	ʤ a g a	('to guard', 'kira1248', 'ujaga')	nan		
 408	to throw	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dəgu	to throw (as a stone)	d ə g u -	('to throw', 'lama1277-lerek', 'dəkaŋ')	nan		
-409	to hunt	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rakan	to hunt for animals	r a k a n	('to hunt', 'kula1280-lanto', 'pegaŋ')	nan		
+409	to hunt	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rakan	to hunt for animals	r a k a n	('to hunt', 'sika1262-hewa', 'rakan')	nan		
 410	to kill	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pati	nan	p a t i	('to kill', 'amar1273-kotos', 'na-ʔmate')	nan		
 411	to chase away; to run after	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bəʋe	nan	b ə ʋ e	('to chase away; to run after', 'pmpacd', '*buRaw')	nan		
 413	to search for; to hunt for	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔəle	1SG, 1PL.IN, 3PL: /ʔəle/; all others: /ɡəle/	ʔ ə l e - -	('to search for; to hunt for', 'kelo1247-bring', 'əlɛl')	nan		
@@ -499,7 +499,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 449	to count	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ɡasik	nan	#NAME?	('to count', 'lama1277-lerek', 'ˈɡahip')	nan		
 450	one	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ha	nan	h a - -	('one', 'amar1273-kotos', 'meseʔ')	nan		
 451	two	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rua	nan	- - r u a	"('two', 'alor1247-baran', ""'rua"")"	nan		
-452	three	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təlu	nan	t ə l - u	"('three', 'alor1247-baran', ""'tal:au"")"	nan		
+452	three	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təlu	nan	t ə l - u	"('three', 'alor1247-besar', ""'talːɔ"")"	nan		
 453	four	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hutu	nan	h u t u -	('four', 'abui1241-fuime', 'buti')	nan		
 454	five	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	#NAME?	"('five', 'alor1247-baran', ""'lɛm:a"")"	nan		
 455	six	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əna	nan	- ə n a - -	"('six', 'alor1247-baran', ""'nam:u"")"	nan		
@@ -592,7 +592,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 541	marriage	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bɛrkɑt	nan	b ɛ r k ɑ t	('marriage', 'lama1277-adona', 'bɜrˈkaːt')	nan		
 542	friend	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	deuŋ	nan	d e u ŋ	"('friend', 'buna1278-malia', ""'mɔɛn"")"	nan		
 543	enemy	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	musuh	nan	m u s u h	"('enemy', 'keda1252', ""'musuh"")"	nan		
-544	king; ruler	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	raʤa	nan	r a ʤ a	"('king; ruler', 'keda1252', ""'radʒa"")"	nan		
+544	king; ruler	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	raʤa	nan	r a ʤ a	"('king; ruler', 'kaer1234-abang', ""'rai"")"	nan		
 545	stranger	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bian məŋɑn	nan	b i a n _ m ə ŋ ɑ n	('stranger', 'sika1262-hewa', 'bian_məŋɑn')	nan		
 546	to invite	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hərɔn	nan	h ə - r ɔ n	('to invite', 'sika1262-hewa', 'hərɔn')	nan		
 547	to command or order	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	plɛta	nan	p - l ɛ - t a	('to command or order', 'lama1277-lerek', 'koˈmando')	nan		
