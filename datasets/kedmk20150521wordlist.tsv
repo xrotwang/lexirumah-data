@@ -1,591 +1,591 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɛ'leŋ	There is a phonemic distinction between initial syllables that have an onsetless vowel, and initial syllables that have a glottal stop onset. There is no phonemic distinction between e'ɛ and o'ɔ and i'ɪ.	ʔ ɛ ˈl e ŋ - - -	('sky', 'adon1237', 'ˈkɜlɜ')	nan		
-1	sun	keda1252	Kedang	Austronesian	8Lembata, 2East	lɔ'jɔ	nan	l ɔ ˈj ɔ - - - - - -	('sun', 'adon1237', 'ˈrɜra')	nan		
-2	moon	keda1252	Kedang	Austronesian	8Lembata, 2East	wu'la	nan	w u ˈl a - - ( - - - - - - - - )	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-3	star	keda1252	Kedang	Austronesian	8Lembata, 2East	ma'le	nan	- - m a ˈl e	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
-4	night	keda1252	Kedang	Austronesian	8Lembata, 2East	u'bɛn	nan	u ˈb ɛ n	"('night', 'keda1252', ""u'bɛn"")"	nan		
-5	day	keda1252	Kedang	Austronesian	8Lembata, 2East	lɔ'jɔ	nan	l ɔ ˈj ɔ - - - -	"('day', 'adon1237', ""rɜ'_rɔ̃"")"	nan		
-6	year	keda1252	Kedang	Austronesian	8Lembata, 2East	tun	nan	t u n	('year', 'abui1241-petle', 'tuŋ')	nan		
-7	morning	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɛ'jəŋ	nan	ʔ ɛ ˈj ə ŋ	"('morning', 'keda1252', ""ʔɛ'jəŋ"")"	nan		
-8	yesterday	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɛ'wɪn	nan	ʔ ɛ ˈw ɪ - n	('yesterday', 'adon1237', 'ˈwia')	nan		
-9	day before yesterday	keda1252	Kedang	Austronesian	8Lembata, 2East	numɛn 'ɛwin	nan	n u m ɛ n _ ˈɛ w i n	"('day before yesterday', 'keda1252', ""numɛn_'ɛwin"")"	nan		
-10	tomorrow	keda1252	Kedang	Austronesian	8Lembata, 2East	lu'ʔa	nan	l u ˈʔ a	"('tomorrow', 'keda1252', ""lu'ʔa"")"	nan		
-11	day after tomorrow	keda1252	Kedang	Austronesian	8Lembata, 2East	'wɛŋ'suwe	nan	( ˈw ) ɛ ŋ - - ˈs u w e	"('day after tomorrow', 'keda1252', ""'wɛŋ'suwe"")"	nan		
-12	twilight; dawn	keda1252	Kedang	Austronesian	8Lembata, 2East	heʔa'naun	nan	h e ʔ a ˈn a u n	"('twilight; dawn', 'adon1237', ""ʔekã_'dahe"")"	nan		
-13	cloud	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɔ'wa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan		
-14	wind	keda1252	Kedang	Austronesian	8Lembata, 2East	aː'ŋin	nan	- aː ˈŋ i n - - - - - -	('all', 'adon1237', 'ˈwahã_ˈkaeʔ')	nan		
-15	rain	keda1252	Kedang	Austronesian	8Lembata, 2East	u'ja	nan	- u ˈj a -	('rain', 'adon1237', 'ˈʔurɑŋ')	nan		
-16	drizzle	keda1252	Kedang	Austronesian	8Lembata, 2East	rɪtɪʔ	nan	- - - - r ɪ t ɪ ʔ -	"('drizzle', 'adon1237', ""ɡri'ʔɛna"")"	nan		
-17	rainbow	keda1252	Kedang	Austronesian	8Lembata, 2East	nado	nan	n a d o	('rainbow', 'keda1252', 'nado')	nan		
-17	rainbow	keda1252	Kedang	Austronesian	8Lembata, 2East	tado	nan	n a d o	('rainbow', 'keda1252', 'nado,_tado')	nan		
-18	thunder	keda1252	Kedang	Austronesian	8Lembata, 2East	nɛ'duŋ	bunyinya	n ɛ ˈd u ŋ	"('thunder', 'keda1252', ""nɛ'duŋ"")"	nan		
-19	lightning	keda1252	Kedang	Austronesian	8Lembata, 2East	'nilaʔ	kilatan, cahaya	- - - - - - - - - ˈn i l a ʔ	"('lightning', 'keda1252', ""'nilaʔ"")"	nan		
-19	lightning	keda1252	Kedang	Austronesian	8Lembata, 2East	'kilaʔ	kilatan, cahaya	- - - - - - - - - ˈn i l a ʔ	"('lightning', 'adon1237', ""kɜ'hilat"")"	nan		
-20	earthquake	keda1252	Kedang	Austronesian	8Lembata, 2East	nɛju	nan	n ɛ j u	('earthquake', 'keda1252', 'nɛju')	nan		
-21	fog	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɔwa	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	ʔ ɔ w a - - - - - -	"('fog', 'adon1237', ""'kowa_koː(k)"")"	nan		
-22	river; stream	keda1252	Kedang	Austronesian	8Lembata, 2East	wɛi	nan	w ɛ - i	('river; stream', 'keda1252', 'wɛi')	nan		
-25	lake	keda1252	Kedang	Austronesian	8Lembata, 2East	da'nɑu	nan	d a ˈn ɑ u	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
-26	mountain	keda1252	Kedang	Austronesian	8Lembata, 2East	(j)ili	nan	#NAME?	"('mountain', 'adon1237', ""'ʔile"")"	nan		
-27	hill; ridge	keda1252	Kedang	Austronesian	8Lembata, 2East	bɔ'tiʔ	nan	nan	"('hill; ridge', 'keda1252', ""bɔ'tiʔ"")"	nan		
-28	village	keda1252	Kedang	Austronesian	8Lembata, 2East	'lewu	nan	nan	"('village', 'adon1237', ""lɜ'wɔː"")"	nan		
-29	land; soil	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔauʔ	nan	nan	('land; soil', 'adan1251-lawah', 'faʔai')	nan		
-30	Earth	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔauʔ	nan	nan	('Earth', 'keda1252', 'ʔauʔ')	nan		
-31	hole	keda1252	Kedang	Austronesian	8Lembata, 2East	uɔʔ	nan	nan	('hole', 'keda1252', 'uɔʔ')	nan		
-32	stone	keda1252	Kedang	Austronesian	8Lembata, 2East	waʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-33	coral (rock)	keda1252	Kedang	Austronesian	8Lembata, 2East	waʔ 'mitəŋ	batu (rock) di pantai	nan	"('coral (rock)', 'keda1252', ""waʔ_'mitəŋ"")"	nan		
-34	(coral) reef	keda1252	Kedang	Austronesian	8Lembata, 2East	'ruhu	karang (reef) di dasar laut	nan	('(coral) reef', 'atim1239', 'karafi')	nan		
-35	water (fresh)	keda1252	Kedang	Austronesian	8Lembata, 2East	wei	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
-36	sea; sea water	keda1252	Kedang	Austronesian	8Lembata, 2East	ta'hiʔ	nan	nan	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	nan		
-37	wave	keda1252	Kedang	Austronesian	8Lembata, 2East	ɔ'jɔʔ	nan	nan	"('wave', 'alor1247-besar', ""'ɔʤɔ"")"	nan		
-38	foam	keda1252	Kedang	Austronesian	8Lembata, 2East	wuran	nan	nan	('foam', 'adan1251-lawah', 'wara-wara')	nan		
-39	forest	keda1252	Kedang	Austronesian	8Lembata, 2East	tu'wɛn	nan	nan	"('forest', 'keda1252', ""tu'wɛn"")"	nan		
-40	field	keda1252	Kedang	Austronesian	8Lembata, 2East	'wuru	nan	nan	"('field', 'keda1252', ""'wuru"")"	nan		
-41	island	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔauʔ	nan	nan	('island', 'keda1252', 'ʔauʔ')	nan		
-42	rice field	keda1252	Kedang	Austronesian	8Lembata, 2East	'lumɑr	nan	nan	"('rice field', 'abui1241-takal', ""'sä.wä"")"	nan		
-42	rice field	keda1252	Kedang	Austronesian	8Lembata, 2East	sawa	nan	nan	('rice field', 'keda1252', 'sawa')	nan		
-43	garden	keda1252	Kedang	Austronesian	8Lembata, 2East	'lumɑr	nan	nan	"('garden', 'keda1252', ""'lumɑr"")"	nan		
-44	fence	keda1252	Kedang	Austronesian	8Lembata, 2East	ni'hɛ	nan	nan	"('fence', 'keda1252', ""ni'hɛ"")"	nan		
-45	road; path; way	keda1252	Kedang	Austronesian	8Lembata, 2East	'lala	nan	nan	('road; path; way', 'abui1241-fuime', 'sefoko')	nan		
-46	canoe	keda1252	Kedang	Austronesian	8Lembata, 2East	'tɛnɛ	nan	nan	"('canoe', 'keda1252', ""'tɛnɛ"")"	nan		
-47	sail (n.)	keda1252	Kedang	Austronesian	8Lembata, 2East	'lajɑr	nan	nan	"('sail (n.)', 'keda1252', ""'lajɑr"")"	nan		
-48	to sail	keda1252	Kedang	Austronesian	8Lembata, 2East	keu tɛnɛ	keu=on top of, tɛnɛ=boat	nan	('to sail', 'keda1252', 'keu_tɛnɛ')	nan		
-49	fishing hook	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔawil	nan	nan	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	nan		
-50	fish trap	keda1252	Kedang	Austronesian	8Lembata, 2East	'ɛrɛ	nima = fish container; dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	('fish trap', 'cent2245-hewa', 'hɛrɛ_iʔɑn')	nan		
-51	rope	keda1252	Kedang	Austronesian	8Lembata, 2East	wa'dɛʔ	nan	nan	"('rope', 'keda1252', ""wa'dɛʔ"")"	nan		
-52	machete	keda1252	Kedang	Austronesian	8Lembata, 2East	pɛ'daʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-53	axe	keda1252	Kedang	Austronesian	8Lembata, 2East	ba'liʔ	nan	nan	('axe', 'abui1241-fuime', 'faling')	nan		
-54	spear	keda1252	Kedang	Austronesian	8Lembata, 2East	'kala	nan	nan	"('spear', 'adon1237', ""'ɡalaʔ"")"	nan		
-55	burden stick	keda1252	Kedang	Austronesian	8Lembata, 2East	no'ɛl	nan	nan	"('burden stick', 'keda1252', ""no'ɛl"")"	nan		
-56	stick; pole	keda1252	Kedang	Austronesian	8Lembata, 2East	du'ʔa	nan	nan	('stick; pole', 'abui1241-fuime', 'tukarang')	nan		
-57	digging stick	keda1252	Kedang	Austronesian	8Lembata, 2East	dɔ'kaʔ	nan	nan	"('digging stick', 'keda1252', ""dɔ'kaʔ"")"	nan		
-59	bow	keda1252	Kedang	Austronesian	8Lembata, 2East	'wur	nan	nan	"('bow', 'adon1237', ""'wuhuʔ"")"	nan		
-60	arrow	keda1252	Kedang	Austronesian	8Lembata, 2East	na'mɛʔ	nan	nan	"('arrow', 'keda1252', ""na'mɛʔ"")"	nan		
-61	knife	keda1252	Kedang	Austronesian	8Lembata, 2East	'mɛiʔ	nan	nan	"('knife', 'keda1252', ""'mɛiʔ"")"	nan		
-62	comb	keda1252	Kedang	Austronesian	8Lembata, 2East	'pilir	nan	nan	"('comb', 'keda1252', ""'pilir"")"	nan		
-63	mat	keda1252	Kedang	Austronesian	8Lembata, 2East	napa	nan	nan	('mat', 'keda1252', 'napa')	nan		
-64	needle	keda1252	Kedang	Austronesian	8Lembata, 2East	ba'tur	nan	nan	('needle', 'adan1251-lawah', 'bátuŋ')	nan		
-65	clothing	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'kejan	nan	nan	"('clothing', 'alor1247-besar', ""pa'kiãŋ"")"	nan		
-67	fire	keda1252	Kedang	Austronesian	8Lembata, 2East	a'pi	nan	nan	('fire', 'adon1237', 'ˈʔape')	nan		
-68	smoke	keda1252	Kedang	Austronesian	8Lembata, 2East	'rubu	nan	nan	"('smoke', 'keda1252', ""'rubu"")"	nan		
-70	dust; fine earth	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔauʔ 'bɔŋ	nan	nan	('dust; fine earth', 'blag1240-nule', 'butuŋ_boni')	nan		
-71	fireplace ash	keda1252	Kedang	Austronesian	8Lembata, 2East	'ɛwɔl	NOT 'debu' (dust, after you have been sweeping)	nan	('fireplace ash', 'adon1237', 'kɜˈʔawuk')	nan		
-72	mud	keda1252	Kedang	Austronesian	8Lembata, 2East	ɔ'paʔ	nan	nan	"('mud', 'keda1252', ""ɔ'paʔ"")"	nan		
-73	clay	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔauʔ 'kiuʔ	nan	nan	"('clay', 'keda1252', ""ʔauʔ_'kiuʔ"")"	nan		
-74	gravel	keda1252	Kedang	Austronesian	8Lembata, 2East	waʔ 'weriʔ	waʔ=stone, weriʔ=small	nan	"('gravel', 'keda1252', ""waʔ_'weriʔ"")"	nan		
-75	sand	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔerah	nan	nan	('sand', 'adon1237', 'ˈwɜra')	nan		
-76	grass; brush	keda1252	Kedang	Austronesian	8Lembata, 2East	'wuru	nan	nan	('grass; brush', 'blag1240-bama', 'ut')	nan		
-77	house	keda1252	Kedang	Austronesian	8Lembata, 2East	we'taʔ	nan	nan	"('house', 'keda1252', ""we'taʔ"")"	nan		
-78	traditional house	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔebaŋ	nan	nan	"('traditional house', 'keda1252', ""'ʔebaŋ"")"	nan		
-79	barn; storage house	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔebaŋ	nan	nan	('barn; storage house', 'dein1238', 'qebang')	nan		
-80	raised platform	keda1252	Kedang	Austronesian	8Lembata, 2East	li'pu	nan	nan	('raised platform', 'abui1241-fuime', 'lik')	nan		
-81	door	keda1252	Kedang	Austronesian	8Lembata, 2East	welɔʔ	nan	nan	('door', 'keda1252', 'welɔʔ')	nan		
-82	(thatch) roof	keda1252	Kedang	Austronesian	8Lembata, 2East	nɛ'hiŋ	nan	nan	"('(thatch) roof', 'keda1252', ""nɛ'hiŋ"")"	nan		
-83	roof thatch	keda1252	Kedang	Austronesian	8Lembata, 2East	nɛ'hiŋ 'wuru	nɛhiŋ̩=root, uru=grass	nan	"('roof thatch', 'keda1252', ""nɛ'hiŋ_'wuru"")"	nan		
-84	tree	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔai	nan	nan	('tree', 'adon1237', 'ˈkajo')	nan		
-85	wood	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔai	nan	nan	"('wood', 'keda1252', ""'ʔai"")"	nan		
-86	bark (of tree)	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔai 'ʔamaʔ	nan	nan	('bark (of tree)', 'adon1237', 'kajo_ˈkaʔmã')	nan		
-87	leaf	keda1252	Kedang	Austronesian	8Lembata, 2East	'lɔlɔn	nan	nan	('leaf', 'adon1237', 'ˈlolõ')	nan		
-88	branch	keda1252	Kedang	Austronesian	8Lembata, 2East	li'maʔ	cabang pohon	nan	"('branch', 'keda1252', ""li'maʔ"")"	nan		
-89	firewood	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔai 'japi	nan	nan	('firewood', 'adon1237', 'kajo_ˈʔape')	nan		
-90	rattan	keda1252	Kedang	Austronesian	8Lembata, 2East	wua'wɛi	nan	nan	"('rattan', 'keda1252', ""wua'wɛi,_'wɛi"")"	nan		
-90	rattan	keda1252	Kedang	Austronesian	8Lembata, 2East	'wɛi	nan	nan	"('rattan', 'keda1252', ""'wɛi"")"	nan		
-91	root	keda1252	Kedang	Austronesian	8Lembata, 2East	ramuʔ	nan	nan	('root', 'keda1252', 'ramuʔ')	nan		
-92	fruit	keda1252	Kedang	Austronesian	8Lembata, 2East	uan	nan	nan	('below', 'adon1237', 'leˈrerˈʔẽ,_lali_laŋũ')	nan		
-93	seed	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔu'luʔ	nan	nan	('seed', 'adon1237', 'ˈkulʔũ')	nan		
-94	grain; cereal	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'nɛn	nan	nan	('grain; cereal', 'adan1251-otvai', 'naʔfail')	nan		
-96	husked rice; uncooked rice	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'nɛn	nan	nan	"('husked rice; uncooked rice', 'keda1252', ""ʔa'nɛn"")"	nan		
-97	rice grains (unhusked) (raw from field)	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'nɛn	nan	nan	"('rice grains (unhusked) (raw from field)', 'keda1252', ""ʔa'nɛn"")"	nan		
-98	cooked rice	keda1252	Kedang	Austronesian	8Lembata, 2East	la'laʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-99	rice plant	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'nɛn	nan	nan	"('rice plant', 'keda1252', ""ʔa'nɛn"")"	nan		
-100	to plant (yam)	keda1252	Kedang	Austronesian	8Lembata, 2East	mi'waʔ ʔa'lɛuʔ	nan	nan	"('to plant (yam)', 'keda1252', ""mi'waʔ_ʔa'lɛuʔ"")"	nan		
-101	to plant (rice)	keda1252	Kedang	Austronesian	8Lembata, 2East	mi'waʔ ʔa'nɛn	nan	nan	"('to plant (rice)', 'keda1252', ""mi'waʔ_ʔa'nɛn"")"	nan		
-102	betel nut; areca	keda1252	Kedang	Austronesian	8Lembata, 2East	'uwe	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-103	betel vine	keda1252	Kedang	Austronesian	8Lembata, 2East	'mal	nan	nan	('betel vine', 'adon1237', 'ˈmaluʔ')	nan		
-104	lime	keda1252	Kedang	Austronesian	8Lembata, 2East	'apur	nan	- ˈa p u r	('lime', 'adon1237', 'ˈʔapuʔ')	nan		
-105	chew betel	keda1252	Kedang	Austronesian	8Lembata, 2East	ka uwe 'mal	nan	k a _ u w e _ ˈm a l	('chew betel', 'adon1237', 'ɡãːˈwuaʔ')	nan		
-106	sweet potato	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'lɛuʔ sawa	nan	ʔ a ˈl ɛ u ʔ _ s a w a	"('sweet potato', 'keda1252', ""ʔa'lɛuʔ_sawa"")"	nan		
-107	cassava	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'lɛuʔ uwaʔ	nan	nan	('cassava', 'adon1237', 'uwe_ˈkaju')	nan		
-108	taro	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔodɛl	nan	ˈʔ o d ɛ l	"('taro', 'keda1252', ""'ʔodɛl"")"	nan		
-109	sago	keda1252	Kedang	Austronesian	8Lembata, 2East	'saɡu	nan	nan	"('sago', 'abui1241-takal', ""'sä.gu"")"	nan		
-110	millet	keda1252	Kedang	Austronesian	8Lembata, 2East	wɛ'rɛʔ	nan	nan	"('millet', 'keda1252', ""wɛ'rɛʔ"")"	nan		
-111	sugarcane	keda1252	Kedang	Austronesian	8Lembata, 2East	tɛ'hu	nan	nan	('sugarcane', 'adon1237', 'ˈtɜwɔ')	nan		
-112	corn; maize	keda1252	Kedang	Austronesian	8Lembata, 2East	'wɑtɑr	nan	ˈw ɑ t ɑ r	('corn; maize', 'abui1241-fuime', 'faati')	nan		
-113	cooked corn	keda1252	Kedang	Austronesian	8Lembata, 2East	lalaʔ 'wɑtɑr	lalaʔ=rice, tun=prepared	l a l a ʔ _ ˈw ɑ t ɑ r	('cooked corn', 'adon1237', 'wataʔ_ˈmalune')	nan		
-113	cooked corn	keda1252	Kedang	Austronesian	8Lembata, 2East	wɑtɑr tun	lalaʔ=rice, tun=prepared	l a l a ʔ _ ˈw ɑ t ɑ r	('cooked corn', 'keda1252', 'wɑtɑr_tun')	nan		
-114	coconut	keda1252	Kedang	Austronesian	8Lembata, 2East	taʔ	nan	t a ʔ -	('coconut', 'adon1237', 'ˈtapo')	nan		
-116	lontar palm	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɔ'rɔ	nan	nan	"('lontar palm', 'keda1252', ""ʔɔ'rɔ"")"	nan		
-117	sugar palm	keda1252	Kedang	Austronesian	8Lembata, 2East	pɔ'le	nan	p ɔ ˈl e -	('sugar palm', 'adon1237', 'ˈpolaʔ')	nan		
-118	marungga	keda1252	Kedang	Austronesian	8Lembata, 2East	'mɔtɔŋ	nan	nan	('bamboo', 'adon1237', 'pɜˈrĩ')	nan		
-119	gum tree; eucalyptus	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔaju 'bujaʔ	nan	nan	"('gum tree; eucalyptus', 'alor1247-besar', ""'kaʤɔ_bu'rakaŋ"")"	nan		
-120	bamboo	keda1252	Kedang	Austronesian	8Lembata, 2East	pe'ruŋ	larɡe, medium, small bamboo	nan	('bamboo', 'adan1251-otvai', 'pituŋ')	nan		
-120	bamboo	keda1252	Kedang	Austronesian	8Lembata, 2East	be'riŋ	larɡe, medium, small bamboo	nan	"('bamboo', 'keda1252', ""pe'ruŋ,_be'riŋ,_aur"")"	nan		
-120	bamboo	keda1252	Kedang	Austronesian	8Lembata, 2East	aur	larɡe, medium, small bamboo	nan	"('bamboo', 'alor1247-pandai', ""'au"")"	nan		
-121	banana	keda1252	Kedang	Austronesian	8Lembata, 2East	mu'ʔ̚ũ	nan	nan	('banana', 'abui1241-fuime', 'musa')	nan		
-122	mango	keda1252	Kedang	Austronesian	8Lembata, 2East	'peu	nan	nan	('mango', 'adon1237', 'ˈpau')	nan		
-123	papaya	keda1252	Kedang	Austronesian	8Lembata, 2East	wa'ja	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-124	jackfruit	keda1252	Kedang	Austronesian	8Lembata, 2East	wɛ'raʔ	nan	nan	('jackfruit', 'adon1237', 'ˈkwɛrak')	nan		
-125	breadfruit	keda1252	Kedang	Austronesian	8Lembata, 2East	bɔ'rɔʔ	nan	nan	"('breadfruit', 'keda1252', ""bɔ'rɔʔ"")"	nan		
-126	bean	keda1252	Kedang	Austronesian	8Lembata, 2East	u'tan	nan	nan	('bean', 'adan1251-lawah', 'ʔutuŋ')	nan		
-127	honey	keda1252	Kedang	Austronesian	8Lembata, 2East	lani 'wɛrɛŋ	wɛrɛŋ= water	l a n i _ ˈw ɛ r ɛ ŋ	('honey', 'abui1241-fuime', 'nawaang')	nan		
-128	milk	keda1252	Kedang	Austronesian	8Lembata, 2East	tuʔu 'wɛrɛŋ	not 'breast'	t u ʔ u _ ˈw ɛ r ɛ ŋ	('milk', 'adan1251-lawah', 'toʔ')	nan		
-129	salt	keda1252	Kedang	Austronesian	8Lembata, 2East	te'ʔu	nan	t e ˈʔ u	"('salt', 'keda1252', ""te'ʔu"")"	nan		
-130	fat	keda1252	Kedang	Austronesian	8Lembata, 2East	wɔ'jaʔ	nan	nan	"('fat', 'keda1252', ""wɔ'jaʔ"")"	nan		
-131	flesh; meat	keda1252	Kedang	Austronesian	8Lembata, 2East	na'ʔɛn	nan	nan	"('flesh; meat', 'keda1252', ""na'ʔɛn"")"	nan		
-132	bone	keda1252	Kedang	Austronesian	8Lembata, 2East	lu'rin	nan	l u ˈr i n	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-133	rib	keda1252	Kedang	Austronesian	8Lembata, 2East	haraʔ lu'rin	nan	nan	"('rib', 'keda1252', ""haraʔ_lu'rin"")"	nan		
-134	sweat	keda1252	Kedang	Austronesian	8Lembata, 2East	re'wun	nan	nan	('sweat', 'adon1237', 'ˈʔɜwũ')	nan		
-135	tear	keda1252	Kedang	Austronesian	8Lembata, 2East	lun	nan	nan	('tear', 'adon1237', 'ˈlõː')	nan		
-136	blood	keda1252	Kedang	Austronesian	8Lembata, 2East	wɛiʔ	nan	nan	('blood', 'abui1241-fuime', 'we')	nan		
-138	heart	keda1252	Kedang	Austronesian	8Lembata, 2East	taʔ'mutiʔ	nan	nan	"('heart', 'keda1252', ""taʔ'mutiʔ"")"	nan		
-139	liver	keda1252	Kedang	Austronesian	8Lembata, 2East	ha'tɛn	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-140	kidney	keda1252	Kedang	Austronesian	8Lembata, 2East	taʔ'kubaŋ	nan	nan	"('kidney', 'keda1252', ""taʔ'kubaŋ"")"	nan		
-141	guts	keda1252	Kedang	Austronesian	8Lembata, 2East	'tein	nan	nan	('guts', 'adon1237', 'kɜˈbotĩ')	nan		
-142	excrement	keda1252	Kedang	Austronesian	8Lembata, 2East	dɛ'ruʔ	nan	nan	"('excrement', 'keda1252', ""dɛ'ruʔ"")"	nan		
-143	lungs	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'ko	nan	nan	"('lungs', 'keda1252', ""pa'ko"")"	nan		
-144	stomach; belly	keda1252	Kedang	Austronesian	8Lembata, 2East	bɔ'tin	nan	nan	"('stomach; belly', 'keda1252', ""bɔ'tin"")"	nan		
-145	head	keda1252	Kedang	Austronesian	8Lembata, 2East	tu'bar	nan	nan	"('head', 'keda1252', ""tu'bar"")"	nan		
-146	hair	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔu'ha	nan	nan	('hair', 'keda1252', 'uha')	nan		
-147	body hair	keda1252	Kedang	Austronesian	8Lembata, 2East	'wurun	nan	nan	('body hair', 'cent2245-hewa', 'ʋuluʔ')	nan		
-148	eye	keda1252	Kedang	Austronesian	8Lembata, 2East	'mato	nan	nan	('eye', 'adon1237', 'ˈmatak,_matak3t')	nan		
-149	ear	keda1252	Kedang	Austronesian	8Lembata, 2East	til	nan	nan	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
-150	nose	keda1252	Kedang	Austronesian	8Lembata, 2East	niŋ	nan	nan	('nose', 'keda1252', 'niŋ')	nan		
-151	mouth	keda1252	Kedang	Austronesian	8Lembata, 2East	'nunu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-152	chin	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔimɛn	nan	nan	"('chin', 'keda1252', ""'ʔimɛn"")"	nan		
-153	lips	keda1252	Kedang	Austronesian	8Lembata, 2East	'wiwir	nan	nan	"('lips', 'alor1247-baran', ""'fifiŋ"")"	nan		
-154	teeth	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔawar	nan	nan	"('teeth', 'keda1252', ""'ʔawar"")"	nan		
-155	tongue	keda1252	Kedang	Austronesian	8Lembata, 2East	'ebel	nan	nan	('tongue', 'adon1237', 'ˈɜwɜˈrɜt')	nan		
-156	neck	keda1252	Kedang	Austronesian	8Lembata, 2East	'bɔŋan	nan	nan	"('neck', 'keda1252', ""'bɔŋan"")"	nan		
-157	shoulder	keda1252	Kedang	Austronesian	8Lembata, 2East	'wali	nan	nan	('shoulder', 'cent2245-hewa', 'palik')	nan		
-158	body	keda1252	Kedang	Austronesian	8Lembata, 2East	'wɛʔ	nan	nan	"('body', 'keda1252', ""'wɛʔ"")"	nan		
-159	forehead	keda1252	Kedang	Austronesian	8Lembata, 2East	'wau	nan	nan	"('forehead', 'keda1252', ""'wau"")"	nan		
-160	nostril	keda1252	Kedang	Austronesian	8Lembata, 2East	niŋ 'bakur	nan	nan	"('nostril', 'keda1252', ""niŋ_'bakur"")"	nan		
-161	mucus	keda1252	Kedang	Austronesian	8Lembata, 2East	niŋ 'tein	nan	nan	"('mucus', 'keda1252', ""niŋ_'tein"")"	nan		
-162	cheek	keda1252	Kedang	Austronesian	8Lembata, 2East	'pipin	nan	nan	"('cheek', 'keda1252', ""'pipin"")"	nan		
-163	arm	keda1252	Kedang	Austronesian	8Lembata, 2East	liŋ	nan	nan	('arm', 'adon1237', 'ˈlimaˈkɜt')	nan		
-164	hand	keda1252	Kedang	Austronesian	8Lembata, 2East	liŋ	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
-165	palm of hand	keda1252	Kedang	Austronesian	8Lembata, 2East	liŋ 'lɑlɛŋ	lɑlɛŋ=inside	nan	"('palm of hand', 'keda1252', ""liŋ_'lɑlɛŋ"")"	nan		
-166	finger	keda1252	Kedang	Austronesian	8Lembata, 2East	liŋ 'utun	utun=small	nan	"('finger', 'keda1252', ""liŋ_'utun"")"	nan		
-167	fingernail	keda1252	Kedang	Austronesian	8Lembata, 2East	'uruŋ	nan	nan	('fingernail', 'adon1237', 'kɜˈmukurɜt')	nan		
-168	breast	keda1252	Kedang	Austronesian	8Lembata, 2East	'tuʔu	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	nan		
-169	chest	keda1252	Kedang	Austronesian	8Lembata, 2East	ɔ'rɔʔ	nan	nan	"('chest', 'keda1252', ""ɔ'rɔʔ"")"	nan		
-170	navel	keda1252	Kedang	Austronesian	8Lembata, 2East	pu'hɛː	nan	- - p u ˈh ɛː - - - - - - -	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-171	penis	keda1252	Kedang	Austronesian	8Lembata, 2East	wu'ti	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	nan	('penis', 'adon1237', 'ˈute')	nan		
-172	vagina	keda1252	Kedang	Austronesian	8Lembata, 2East	te'reʔ	Kemaluan perempuan, same as above.	t e ˈr e ʔ	"('vagina', 'alor1247-munas', ""'utiʔ"")"	nan		
-173	testicles	keda1252	Kedang	Austronesian	8Lembata, 2East	la'hɛʔ	nan	l a ˈh ɛ ʔ	('testicles', 'adon1237', 'ˈlahak')	nan		
-174	leg	keda1252	Kedang	Austronesian	8Lembata, 2East	lei	nan	l e i - - -	('leg', 'adon1237', 'ˈleikɜt')	nan		
-175	foot	keda1252	Kedang	Austronesian	8Lembata, 2East	lei	nan	nan	('foot', 'adon1237', 'ˈleikɜt_tɜˈnɑpʔã')	nan		
-176	heel of foot	keda1252	Kedang	Austronesian	8Lembata, 2East	lei 'ʔapan	nan	l e i _ ˈʔ a p a n	"('heel of foot', 'keda1252', ""lei_'ʔapan"")"	nan		
-177	sole of foot	keda1252	Kedang	Austronesian	8Lembata, 2East	lei 'lalɛŋ	nan	l e i _ ˈl a l ɛ ŋ	"('sole of foot', 'keda1252', ""lei_'lalɛŋ"")"	nan		
-178	knee	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔudul	nan	ˈʔ u d u l	('knee', 'adon1237', 'ˈlotorɜt')	nan		
-179	back	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔobi	nan	ˈʔ o b i	"('back', 'keda1252', ""'ʔobi"")"	nan		
-180	spine; lower back	keda1252	Kedang	Austronesian	8Lembata, 2East	ha'mɛn	nan	h a ˈm ɛ n	"('spine; lower back', 'keda1252', ""ha'mɛn"")"	nan		
-181	waist	keda1252	Kedang	Austronesian	8Lembata, 2East	a'lɛn	nan	- a ˈl - - - - ɛ n	('waist', 'adon1237', 'kɜˈlɜɡɜrɜt')	nan		
-182	skin	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'maʔ	nan	ʔ a ˈm a ʔ - -	('skin', 'adon1237', 'ˈkamaˈkɜt')	nan		
-183	sore; wound	keda1252	Kedang	Austronesian	8Lembata, 2East	'taha	nan	ˈt a - - h a	('sore; wound', 'adan1251-otvai', 'bah')	nan		
-184	ringworm	keda1252	Kedang	Austronesian	8Lembata, 2East	'nawɑr	nan	ˈn a w ɑ r	"('ringworm', 'keda1252', ""'nawɑr"")"	nan		
-185	scabies	keda1252	Kedang	Austronesian	8Lembata, 2East	pu'rɔʔ	nan	p u ˈr ɔ ʔ	('scabies', 'adon1237', 'kəˈbuʔu')	nan		
-186	tinea	keda1252	Kedang	Austronesian	8Lembata, 2East	muʔu ta'ʔɛn	nan	nan	"('tinea', 'keda1252', ""muʔu_ta'ʔɛn"")"	nan		
-187	feverish	keda1252	Kedang	Austronesian	8Lembata, 2East	weʔ 'pana	nan	nan	"('feverish', 'keda1252', ""weʔ_'pana"")"	nan		
-188	conjunctivitis	keda1252	Kedang	Austronesian	8Lembata, 2East	mato 'putuʔ	putuʔ=red; Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	nan	"('conjunctivitis', 'keda1252', ""mato_'putuʔ"")"	nan		
-189	cold; influenza	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔihɔ 'ban	nan	nan	"('cold; influenza', 'keda1252', ""ʔihɔ_'ban"")"	nan		
-190	person	keda1252	Kedang	Austronesian	8Lembata, 2East	ate 'diʔen	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	nan	"('person', 'keda1252', ""ate_'diʔen"")"	nan		
-191	name	keda1252	Kedang	Austronesian	8Lembata, 2East	'naja	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-192	child	keda1252	Kedang	Austronesian	8Lembata, 2East	anaʔ	nan	nan	('child', 'adon1237', 'ˈʔanaʔ')	nan		
-193	man	keda1252	Kedang	Austronesian	8Lembata, 2East	anaʔ 'abɛ	nan	nan	"('man', 'keda1252', ""anaʔ_'abɛ"")"	nan		
-194	woman	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔarɛʔ 'rian	nan	nan	('woman', 'kama1365', 'mare')	nan		
-195	husband	keda1252	Kedang	Austronesian	8Lembata, 2East	ate 'rian	nan	nan	"('husband', 'keda1252', ""ate_'rian"")"	nan		
-196	wife	keda1252	Kedang	Austronesian	8Lembata, 2East	weʔ 'rian	Not 'married woman'.	nan	"('wife', 'alor1247-baran', ""ka'fae"")"	nan		
-197	mother	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔine	nan	nan	('mother', 'adon1237', 'ˈʔina')	nan		
-198	father	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔame	nan	nan	('father', 'adon1237', 'ˈʔama')	nan		
-199	older sibling	keda1252	Kedang	Austronesian	8Lembata, 2East	'tata	nan	nan	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	nan		
-200	younger sibling	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'riʔ	nan	nan	('younger sibling', 'adan1251-otvai', 'di')	nan		
-201	bride price	keda1252	Kedang	Austronesian	8Lembata, 2East	'pae	nan	nan	('bride price', 'cent2245-hewa', 'baha')	nan		
-202	slave	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔu'nan	nan	nan	"('slave', 'keda1252', ""ʔu'nan"")"	nan		
-203	1sg	keda1252	Kedang	Austronesian	8Lembata, 2East	ɛʔi	nan	nan	('1sg', 'amar1273-kotos', 'au')	nan		
-204	2sg (informal)	keda1252	Kedang	Austronesian	8Lembata, 2East	ɔː	nan	nan	('2sg (informal)', 'adon1237', 'ˈmoʔɛ')	nan		
-206	3sg	keda1252	Kedang	Austronesian	8Lembata, 2East	nuɔ	nan	nan	('3sg', 'amar1273-kotos', 'in')	nan		
-207	1pl excl	keda1252	Kedang	Austronesian	8Lembata, 2East	keː	nan	nan	('1pl excl', 'adon1237', 'ˈkame')	nan		
-208	1pl incl	keda1252	Kedang	Austronesian	8Lembata, 2East	teː	nan	nan	('1pl incl', 'adon1237', 'ˈtite')	nan		
-209	2pl	keda1252	Kedang	Austronesian	8Lembata, 2East	meː	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-210	3pl	keda1252	Kedang	Austronesian	8Lembata, 2East	meː	nan	nan	('3pl', 'keda1252', 'meː')	nan		
-211	no; not	keda1252	Kedang	Austronesian	8Lembata, 2East	tɔn	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'adan1251-otvai', 'haʔai')	nan		
-212	and	keda1252	Kedang	Austronesian	8Lembata, 2East	no're	nan	nan	('and', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
-213	because	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔele	nan	nan	"('because', 'keda1252', ""'ʔele"")"	nan		
-214	if	keda1252	Kedang	Austronesian	8Lembata, 2East	ka'lau	nan	nan	"('if', 'keda1252', ""ka'lau"")"	nan		
-215	with	keda1252	Kedang	Austronesian	8Lembata, 2East	no're	nan	nan	('with', 'adon1237', 'nɔʔ,_ˈtaliʔ')	nan		
-216	what?	keda1252	Kedang	Austronesian	8Lembata, 2East	a'pe	nan	nan	"('what?', 'keda1252', ""a'pe"")"	nan		
-217	who?	keda1252	Kedang	Austronesian	8Lembata, 2East	'sio	nan	nan	('who?', 'amar1273-kotos', 'sekau')	nan		
-218	where?	keda1252	Kedang	Austronesian	8Lembata, 2East	diʔ 'dita	nan	nan	"('where?', 'keda1252', ""diʔ_'dita"")"	nan		
-219	when?	keda1252	Kedang	Austronesian	8Lembata, 2East	wɛŋ 'pie	nan	nan	"('when?', 'keda1252', ""wɛŋ_'pie"")"	nan		
-220	why?	keda1252	Kedang	Austronesian	8Lembata, 2East	kua	nan	nan	('why?', 'keda1252', 'kua')	nan		
-221	how much; how many?	keda1252	Kedang	Austronesian	8Lembata, 2East	pie	nan	nan	('how much; how many?', 'adon1237', 'ˈpira')	nan		
-222	how?	keda1252	Kedang	Austronesian	8Lembata, 2East	nara 'bɔnɛ	nan	nan	"('how?', 'keda1252', ""nara_'bɔnɛ"")"	nan		
-223	this	keda1252	Kedang	Austronesian	8Lembata, 2East	'nɔʔɔ	nan	nan	"('this', 'keda1252', ""'nɔʔɔ"")"	nan		
-224	that	keda1252	Kedang	Austronesian	8Lembata, 2East	no'beʔ	nan	nan	"('that', 'keda1252', ""no'beʔ"")"	nan		
-225	at	keda1252	Kedang	Austronesian	8Lembata, 2East	diʔ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	('at', 'amar1273-kotos', 'n-bi')	nan		
-225	at	keda1252	Kedang	Austronesian	8Lembata, 2East	bɛʔ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	('at', 'amar1273-kotos', 'n-bi')	nan		
-226	in; inside	keda1252	Kedang	Austronesian	8Lembata, 2East	bɛʔ	bɛʔ wetaʔ lalɛŋ= LOC house inside	nan	('in; inside', 'keda1252', 'bɛʔ')	nan		
-226	in; inside	keda1252	Kedang	Austronesian	8Lembata, 2East	bɛʔ 'lalɛŋ	bɛʔ wetaʔ lalɛŋ= LOC house inside	nan	('in; inside', 'adan1251-otvai', 'ʔɔm')	nan		
-227	here	keda1252	Kedang	Austronesian	8Lembata, 2East	diʔ 'nɔʔɔ	nan	nan	"('here', 'keda1252', ""diʔ_'nɔʔɔ"")"	nan		
-228	there	keda1252	Kedang	Austronesian	8Lembata, 2East	diʔ 'ʔɔjɔ	nan	nan	"('there', 'keda1252', ""diʔ_'ʔɔjɔ"")"	nan		
-229	above	keda1252	Kedang	Austronesian	8Lembata, 2East	diʔ 'ʔɔte	nan	nan	"('above', 'idat1237', ""hɛ_'houk"")"	nan		
-230	below	keda1252	Kedang	Austronesian	8Lembata, 2East	diʔ 'ʔɔle	nan	d i ʔ _ ˈʔ ɔ l e	"('below', 'keda1252', ""diʔ_'ʔɔle"")"	nan		
-231	left (side)	keda1252	Kedang	Austronesian	8Lembata, 2East	'weri	nan	ˈw e r i -	('left (side)', 'amar1273-kotos', 'ʔrii')	nan		
-232	right (side)	keda1252	Kedang	Austronesian	8Lembata, 2East	'wana	nan	ˈw a n a -	('right (side)', 'adon1237', 'ˈwana')	nan		
-233	a few	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔite	nan	ʔ i t e - -	('a few', 'adan1251-otvai', 'piteʔ')	nan		
-234	all	keda1252	Kedang	Austronesian	8Lembata, 2East	'rɛiʔ	nan	ˈr ɛ i ʔ	"('all', 'keda1252', ""'rɛiʔ"")"	nan		
-235	many	keda1252	Kedang	Austronesian	8Lembata, 2East	'rai	nan	ˈr a i	"('many', 'keda1252', ""'rai"")"	nan		
-236	animal	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔewaŋ	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	('animal', 'adon1237', 'ˈʔɜˈwã')	nan		
-238	dog	keda1252	Kedang	Austronesian	8Lembata, 2East	au	nan	nan	('dog', 'adon1237', 'ˈʔaho')	nan		
-239	pig	keda1252	Kedang	Austronesian	8Lembata, 2East	'wawi	nan	nan	('pig', 'abui1241-fuime', 'fe')	nan		
-240	chicken	keda1252	Kedang	Austronesian	8Lembata, 2East	ma'nuʔ	nan	nan	('chicken', 'adon1237', 'ˈmanuk')	nan		
-241	rat	keda1252	Kedang	Austronesian	8Lembata, 2East	'tiu	nan	nan	"('rat', 'keda1252', ""'tiu"")"	nan		
-242	lizard	keda1252	Kedang	Austronesian	8Lembata, 2East	tɛ'kɛʔ	nan	nan	('lizard', 'abui1241-fuime', 'tekok')	nan		
-243	civet cat	keda1252	Kedang	Austronesian	8Lembata, 2East	la'ʔu	nan	nan	('civet cat', 'adon1237', 'ˈlako')	nan		
-244	deer	keda1252	Kedang	Austronesian	8Lembata, 2East	ru'ha	nan	nan	('deer', 'abui1241-takal', 'ä.jut')	nan		
-245	frog	keda1252	Kedang	Austronesian	8Lembata, 2East	tepatu'le	nan	nan	"('frog', 'keda1252', ""tepatu'le"")"	nan		
-246	bat	keda1252	Kedang	Austronesian	8Lembata, 2East	mi'ʔi	nan	nan	"('bat', 'alor1247-munas', ""'mikɛ"")"	nan		
-249	tail	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔebɔ	nan	nan	('tail', 'keda1252', 'ʔebɔ')	nan		
-250	fish	keda1252	Kedang	Austronesian	8Lembata, 2East	iʔa	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan		
-251	shark	keda1252	Kedang	Austronesian	8Lembata, 2East	iʔa hiu	nan	nan	('shark', 'adon1237', 'ˈhio')	nan		
-252	whale	keda1252	Kedang	Austronesian	8Lembata, 2East	iʔa paus	nan	nan	('whale', 'cent2245-hewa', 'iʔan_paus')	nan		
-253	dolphin	keda1252	Kedang	Austronesian	8Lembata, 2East	iʔa lumba lumba	nan	nan	('dolphin', 'cent2245-hewa', 'iʔan_lumba-lumba')	nan		
-254	crocodile	keda1252	Kedang	Austronesian	8Lembata, 2East	bapa'juː	nan	nan	"('crocodile', 'alor1247-baran', ""'bapa"")"	nan		
-255	monitor lizard	keda1252	Kedang	Austronesian	8Lembata, 2East	rɛ'ti:	nan	nan	"('monitor lizard', 'keda1252', ""rɛ'ti:"")"	nan		
-257	turtle	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔe're	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		
-258	turtle (saltwater)	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔe're	nan	nan	('turtle', 'adon1237', 'ˈkeʔa')	nan		
-259	bird	keda1252	Kedang	Austronesian	8Lembata, 2East	bu'ruŋ	nan	nan	"('bird', 'keda1252', ""bu'ruŋ"")"	nan		
-260	wing	keda1252	Kedang	Austronesian	8Lembata, 2East	a'piʔ	nan	nan	"('wing', 'keda1252', ""a'piʔ"")"	nan		
-261	claw	keda1252	Kedang	Austronesian	8Lembata, 2East	ka'ruŋ	nan	nan	('claw', 'adon1237', 'kɜˈmukure')	nan		
-262	feather	keda1252	Kedang	Austronesian	8Lembata, 2East	u'run	nan	nan	"('feather', 'keda1252', ""u'run"")"	nan		
-263	horn	keda1252	Kedang	Austronesian	8Lembata, 2East	'woiʔ	nan	nan	"('horn', 'keda1252', ""'woiʔ"")"	nan		
-264	snake	keda1252	Kedang	Austronesian	8Lembata, 2East	u'lar	nan	nan	('snake', 'adon1237', 'ˈʔulaʔ')	nan		
-265	scorpion	keda1252	Kedang	Austronesian	8Lembata, 2East	'ela	nan	nan	"('scorpion', 'alor1247-besar', ""'ala"")"	nan		
-266	egg	keda1252	Kedang	Austronesian	8Lembata, 2East	tɔ'lɔr	nan	nan	('egg', 'adon1237', 'ˈtɛluk')	nan		
-267	earthworm	keda1252	Kedang	Austronesian	8Lembata, 2East	'todaŋ	nan	nan	"('earthworm', 'keda1252', ""'todaŋ"")"	nan		
-268	butterfly	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔebal	nan	nan	('butterfly', 'adon1237', 'kɜˈbukare')	nan		
-269	fly (n.)	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔubur	nan	nan	"('fly (n.)', 'fata1247', ""u'pur"")"	nan		
-270	mosquito	keda1252	Kedang	Austronesian	8Lembata, 2East	mɛ'miʔ	nan	nan	"('mosquito', 'keda1252', ""mɛ'miʔ"")"	nan		
-271	ant	keda1252	Kedang	Austronesian	8Lembata, 2East	mɛhi 'wilɛŋ	red ant, semut daun hijau, biɡ yellow ant 	nan	('ant', 'keda1252', 'lɛr')	nan		
-271	ant	keda1252	Kedang	Austronesian	8Lembata, 2East	ɛjɛʔ 'murun	red ant, semut daun hijau, biɡ yellow ant 	nan	('ant', 'cent2245-hewa', 'mihe')	nan		
-271	ant	keda1252	Kedang	Austronesian	8Lembata, 2East	lɛr	red ant, semut daun hijau, biɡ yellow ant 	nan	('ant', 'keda1252', 'lɛr')	nan		
-272	grasshopper	keda1252	Kedang	Austronesian	8Lembata, 2East	waiʔ	nan	nan	('grasshopper', 'keda1252', 'waiʔ')	nan		
-274	spider	keda1252	Kedang	Austronesian	8Lembata, 2East	ɔwɛʔ ʔaɛʔ	nan	ɔ w ɛ ʔ _ ʔ a ɛ ʔ	('spider', 'keda1252', 'ɔwɛʔ_ʔaɛʔ')	nan		
-275	headlice	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔutu	nan	ʔ u t u	('headlice', 'adon1237', 'ˈkutɔ')	nan		
-276	louse eggs	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔutu 'ʔihɛn	nan	ʔ u t u _ ˈʔ i h ɛ n	"('louse eggs', 'alor1247-besar', ""'kuto_ka'lehã"")"	nan		
-277	mother louse	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔutu 'inan	nan	ʔ u t u _ - ˈi n a n -	('mother louse', 'adon1237', 'kutɔ_ˈʔinã')	nan		
-278	flea	keda1252	Kedang	Austronesian	8Lembata, 2East	'mɛlɛ	nan	- - ˈm ɛ l ɛ	('flea', 'adon1237', 'tɜˈmɜla')	nan		
-279	louse (clothing)	keda1252	Kedang	Austronesian	8Lembata, 2East	'mɛlɛ	nan	ˈm ɛ l ɛ	('louse (clothing)', 'adan1251-lawah', 'nɛlɛ')	nan		
-280	bedbug	keda1252	Kedang	Austronesian	8Lembata, 2East	'maɛŋ	nan	nan	('bedbug', 'alor1249-sar-a', 'may')	nan		
-281	big	keda1252	Kedang	Austronesian	8Lembata, 2East	ri'aː	nan	nan	"('big', 'keda1252', ""ri'aː"")"	nan		
-282	small	keda1252	Kedang	Austronesian	8Lembata, 2East	u'tuː	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-283	old; worn (house)	keda1252	Kedang	Austronesian	8Lembata, 2East	tu'an	nan	nan	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	nan		
-284	new (house)	keda1252	Kedang	Austronesian	8Lembata, 2East	wɛ'run	nan	nan	('new (house)', 'alor1247-baran', 'funɔ')	nan		
-285	old (people)	keda1252	Kedang	Austronesian	8Lembata, 2East	tua 'lahar	nan	nan	('old (people)', 'adon1237', 'tɜˈnuʔe')	nan		
-286	young (people)	keda1252	Kedang	Austronesian	8Lembata, 2East	anaʔ ʔabe 'rian	younɡ man, younɡ woman	nan	"('young (people)', 'keda1252', ""anaʔ_ʔabe_'rian,_arɛʔ_wɛriʔ"")"	nan		
-286	young (people)	keda1252	Kedang	Austronesian	8Lembata, 2East	arɛʔ wɛriʔ	younɡ man, younɡ woman	nan	('young (people)', 'keda1252', 'arɛʔ_wɛriʔ')	nan		
-287	lazy	keda1252	Kedang	Austronesian	8Lembata, 2East	pou	nan	nan	('lazy', 'keda1252', 'pou')	nan		
-288	hot	keda1252	Kedang	Austronesian	8Lembata, 2East	'pana	nan	nan	"('hot', 'idat1237', ""'panɑs"")"	nan		
-289	cold	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔɛmi	nan	nan	"('cold', 'keda1252', ""'ʔɛmi"")"	nan		
-290	good	keda1252	Kedang	Austronesian	8Lembata, 2East	diʔən	nan	nan	"('good', 'alor1247-baran', ""'dik:ɛ"")"	nan		
-291	bad	keda1252	Kedang	Austronesian	8Lembata, 2East	da'tɛn	nan	nan	"('bad', 'alor1247-baran', ""'datɛ"")"	nan		
-292	full	keda1252	Kedang	Austronesian	8Lembata, 2East	'pɛnu	nan	nan	('full', 'adon1237', 'ˈpɜnɔ')	nan		
-293	empty	keda1252	Kedang	Austronesian	8Lembata, 2East	'mɛtuŋ	nan	nan	"('empty', 'keda1252', ""'mɛtuŋ"")"	nan		
-294	near	keda1252	Kedang	Austronesian	8Lembata, 2East	de'hiʔ	nan	nan	('near', 'adon1237', 'ˈdahe')	nan		
-295	far	keda1252	Kedang	Austronesian	8Lembata, 2East	'doa	nan	nan	('far', 'adon1237', 'ˈdɔɑ̃')	nan		
-296	wet	keda1252	Kedang	Austronesian	8Lembata, 2East	ri'taʔ	nan	nan	"('wet', 'keda1252', ""ri'taʔ"")"	nan		
-297	dry	keda1252	Kedang	Austronesian	8Lembata, 2East	ma'jaʔ	nan	nan	('dry', 'adon1237', 'ˈmaʔrã')	nan		
-298	dry in sun	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'riː	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-302	short (people)	keda1252	Kedang	Austronesian	8Lembata, 2East	wɛ'hɛʔ	nan	nan	"('short (people)', 'keda1252', ""wɛ'hɛʔ"")"	nan		
-303	thin (non-human)	keda1252	Kedang	Austronesian	8Lembata, 2East	'mipi	nan	nan	('thin (non-human)', 'adon1237', 'mɜˈnipi')	nan		
-304	skinny (human)	keda1252	Kedang	Austronesian	8Lembata, 2East	'piki	nan	nan	"('skinny (human)', 'keda1252', ""'piki"")"	nan		
-305	thick	keda1252	Kedang	Austronesian	8Lembata, 2East	'kapal	nan	nan	"('thick', 'alor1247-baran', ""'gapa"")"	nan		
-306	round	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔɔpaŋ	nan	nan	"('round', 'keda1252', ""'ʔɔpaŋ"")"	nan		
-307	dark	keda1252	Kedang	Austronesian	8Lembata, 2East	'mitɛŋ	nan	nan	"('dark', 'keda1252', ""'mitɛŋ"")"	nan		
-308	light	keda1252	Kedang	Austronesian	8Lembata, 2East	'nihɔ	nan	nan	('light', 'adon1237', 'ˈnɛʔɛk')	nan		
-309	dirty	keda1252	Kedang	Austronesian	8Lembata, 2East	'mitɛŋ	nan	nan	('dirty', 'amar1273-kotos', 'oe-metan')	nan		
-310	clean	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɛ'ŋar	nan	nan	"('clean', 'keda1252', ""ʔɛ'ŋar"")"	nan		
-311	sharp	keda1252	Kedang	Austronesian	8Lembata, 2East	dɛ'jɛʔ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan	"('sharp', 'keda1252', ""dɛ'jɛʔ"")"	nan		
-312	blunt; dull	keda1252	Kedang	Austronesian	8Lembata, 2East	lɛ'boʔ	nan	nan	('blunt; dull', 'amar1273-kotos', 'n-bufu')	nan		
-313	heavy	keda1252	Kedang	Austronesian	8Lembata, 2East	ba'raʔ	nan	nan	('heavy', 'adon1237', 'ˈbaʔat')	nan		
-314	light (weight)	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔa'haʔ	nan	nan	('light (weight)', 'cent2245-hewa', 'heak')	nan		
-315	straight	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔɔlɔr	nan	nan	('straight', 'kama1365', 'sol')	nan		
-316	wide	keda1252	Kedang	Austronesian	8Lembata, 2East	mɛ'kuʔ	nan	nan	"('wide', 'keda1252', ""mɛ'kuʔ"")"	nan		
-318	correct	keda1252	Kedang	Austronesian	8Lembata, 2East	'muar	nan	nan	('correct', 'adon1237', 'muʔˈrɜ̃')	nan		
-319	wrong	keda1252	Kedang	Austronesian	8Lembata, 2East	'kehe	nan	nan	"('wrong', 'keda1252', ""'kehe"")"	nan		
-320	ripe	keda1252	Kedang	Austronesian	8Lembata, 2East	ta'ʔɛn	nan	nan	('ripe', 'adan1251-otvai', 'ten')	nan		
-321	rotten	keda1252	Kedang	Austronesian	8Lembata, 2East	bu'ruʔ	nan	nan	"('rotten', 'keda1252', ""bu'ruʔ"")"	nan		
-322	bitter	keda1252	Kedang	Austronesian	8Lembata, 2East	pɛiʔ	nan	nan	('bitter', 'keda1252', 'pɛiʔ')	nan		
-323	sweet	keda1252	Kedang	Austronesian	8Lembata, 2East	ɛ'ru	nan	nan	('sweet', 'cent2245-hewa', 'hureʔ')	nan		
-324	sour	keda1252	Kedang	Austronesian	8Lembata, 2East	ki'ru	nan	nan	"('sour', 'keda1252', ""ki'ru"")"	nan		
-325	salty	keda1252	Kedang	Austronesian	8Lembata, 2East	pɛ'ju	nan	nan	('salty', 'adon1237', 'ˈpɜro')	nan		
-326	flat	keda1252	Kedang	Austronesian	8Lembata, 2East	na'poʔ	nan	n a ˈp o ʔ	('flat', 'adon1237', 'ˈmepe')	nan		
-327	smooth	keda1252	Kedang	Austronesian	8Lembata, 2East	mɛ'luʔ	nan	- - m ɛ ˈl u ʔ	('smooth', 'adon1237', 'kɜˈmelut')	nan		
-328	rough	keda1252	Kedang	Austronesian	8Lembata, 2East	ka'raŋ	nan	k a ˈr a ŋ	('rough', 'blag1240-tuntu', 'karátaŋ')	nan		
-329	black	keda1252	Kedang	Austronesian	8Lembata, 2East	'mitɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-330	white	keda1252	Kedang	Austronesian	8Lembata, 2East	bu'jaʔ	nan	b u ˈj a ʔ	('white', 'adon1237', 'ˈburaʔ')	nan		
-331	red	keda1252	Kedang	Austronesian	8Lembata, 2East	pu'tuʔ	nan	nan	"('red', 'keda1252', ""pu'tuʔ"")"	nan		
-332	green	keda1252	Kedang	Austronesian	8Lembata, 2East	ta'ŋɛn	nan	nan	"('green', 'alor1247-munas', ""'taŋaŋ"")"	nan		
-333	blue	keda1252	Kedang	Austronesian	8Lembata, 2East	'biru	nan	ˈb i r u	('blue', 'amar1273-kotos', 'biru')	nan		
-334	yellow	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔu'man	nan	nan	"('yellow', 'keda1252', ""ʔu'man"")"	nan		
-335	sick; painful	keda1252	Kedang	Austronesian	8Lembata, 2East	'lae	There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	nan	"('sick; painful', 'keda1252', ""'lae"")"	nan		
-336	shy; ashamed	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔi'wiʔ	nan	nan	"('shy; ashamed', 'keda1252', ""ʔi'wiʔ"")"	nan		
-337	thirsty	keda1252	Kedang	Austronesian	8Lembata, 2East	ma'jaʔ	nan	nan	('thirsty', 'adon1237', 'ɑnɜk_ˈmara')	nan		
-338	hungry	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɔ'wan	nan	nan	"('hungry', 'keda1252', ""ʔɔ'wan"")"	nan		
-339	blind	keda1252	Kedang	Austronesian	8Lembata, 2East	ki'tiʔ	nan	nan	"('blind', 'keda1252', ""ki'tiʔ"")"	nan		
-340	deaf	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔɛbuʔ	nan	nan	('deaf', 'buna1278-bobon', 'buɁ')	nan		
-341	scared	keda1252	Kedang	Austronesian	8Lembata, 2East	'tauʔ	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan		
-342	angry	keda1252	Kedang	Austronesian	8Lembata, 2East	bu'rɛn	nan	nan	"('angry', 'keda1252', ""bu'rɛn"")"	nan		
-343	to see	keda1252	Kedang	Austronesian	8Lembata, 2East	'nui	nan	nan	('to see', 'alor1247-baran', 'hik:i')	nan		
-344	to hear	keda1252	Kedang	Austronesian	8Lembata, 2East	'dɛŋər	nan	nan	('to hear', 'adon1237', 'ˈdɜŋɜʔ')	nan		
-345	to smell	keda1252	Kedang	Austronesian	8Lembata, 2East	'naɛʔ	nan	nan	"('to smell', 'keda1252', ""'naɛʔ"")"	nan		
-346	to think	keda1252	Kedang	Austronesian	8Lembata, 2East	'pikir	nan	nan	"('to think', 'alor1247-baran', ""'pikir"")"	nan		
-347	to know	keda1252	Kedang	Austronesian	8Lembata, 2East	'nuan	nan	nan	('to know', 'adon1237', 'ˈnoi,_ˈkoi')	nan		
-348	to say	keda1252	Kedang	Austronesian	8Lembata, 2East	tutuʔ 'nanaŋ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	"('to say', 'kaer1234', ""wan_'tutuk"")"	nan		
-348	to say	keda1252	Kedang	Austronesian	8Lembata, 2East	tutuʔ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	('to say', 'keda1252', 'tutuʔ')	nan		
-349	to speak	keda1252	Kedang	Austronesian	8Lembata, 2East	tutuʔ 'nanaŋ	nan	- - - - - t u t u ʔ _ ˈn a n a ŋ	"('to speak', 'alor1247-baran', ""'tut:u"")"	nan		
-349	to speak	keda1252	Kedang	Austronesian	8Lembata, 2East	tutuʔ	nan	- - - - - t u t u ʔ _ ˈn a n a ŋ	"('to speak', 'alor1247-baran', ""'tut:u"")"	nan		
-350	voice	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɛuʔ	nan	nan	('voice', 'keda1252', 'ʔɛuʔ')	nan		
-351	language	keda1252	Kedang	Austronesian	8Lembata, 2East	bahasa	nan	nan	('language', 'keda1252', 'bahasa')	nan		
-352	to lie down	keda1252	Kedang	Austronesian	8Lembata, 2East	'hɛdaŋ	nan	nan	"('to lie down', 'keda1252', ""'hɛdaŋ"")"	nan		
-353	to sleep	keda1252	Kedang	Austronesian	8Lembata, 2East	'tɛʔɛl	nan	nan	"('to sleep', 'keda1252', ""'tɛʔɛl"")"	nan		
-354	to wake up	keda1252	Kedang	Austronesian	8Lembata, 2East	'hɔkɔ	nan	nan	('to wake up', 'adon1237', 'ˈhoɡo')	nan		
-355	to wake someone up	keda1252	Kedang	Austronesian	8Lembata, 2East	'diju	nan	ˈd i j u	('to wake someone up', 'adon1237', 'ˈʔio')	nan		
-356	to bathe	keda1252	Kedang	Austronesian	8Lembata, 2East	'hɛbu	nan	ˈh ɛ b u	('to bathe', 'adon1237', 'ˈhabo')	nan		
-357	to bathe (a child)	keda1252	Kedang	Austronesian	8Lembata, 2East	'sɔrɔŋ 'hɛbu	nan	ˈs ɔ r ɔ ŋ _ ˈh ɛ b - - u	('to bathe (a child)', 'adon1237', 'ˈhabo')	nan		
-358	to sit	keda1252	Kedang	Austronesian	8Lembata, 2East	te'beʔ	nan	t e ˈb e ʔ	('to sit', 'adon1237', 'ˈtobo')	nan		
-359	to stand	keda1252	Kedang	Austronesian	8Lembata, 2East	'madɛr	nan	nan	('to stand', 'adon1237', 'ˈdeʔi')	nan		
-360	to walk	keda1252	Kedang	Austronesian	8Lembata, 2East	pɑn (lala)	nan	p ɑ n -	('to walk', 'adon1237', 'ˈpana')	nan		
-361	to run	keda1252	Kedang	Austronesian	8Lembata, 2East	'bɛjəŋ	nan	ˈb ɛ j ə ŋ	"('to run', 'keda1252', ""'bɛjəŋ"")"	nan		
-362	to go	keda1252	Kedang	Austronesian	8Lembata, 2East	pan	nan	p a n	('to go', 'keda1252', 'pan')	nan		
-363	to swim	keda1252	Kedang	Austronesian	8Lembata, 2East	'naŋi	nan	nan	('to swim', 'adon1237', 'ˈnaŋe')	nan		
-364	to fly	keda1252	Kedang	Austronesian	8Lembata, 2East	'baʔa	nan	nan	('to fly', 'adon1237', 'ˈbɜka')	nan		
-365	to fall (from above)	keda1252	Kedang	Austronesian	8Lembata, 2East	mo'ruʔ	nan	nan	"('to fall (from above)', 'keda1252', ""mo'ruʔ"")"	nan		
-366	to fall over	keda1252	Kedang	Austronesian	8Lembata, 2East	'hubaʔ	e.g. pohon yang dipotong.	nan	('to fall over', 'adon1237', 'ˈhobat,_ˈtobaŋ')	nan		
-367	to drop	keda1252	Kedang	Austronesian	8Lembata, 2East	mɔ'ruʔ	nan	nan	"('to drop', 'keda1252', ""mɔ'ruʔ"")"	nan		
-368	to drink	keda1252	Kedang	Austronesian	8Lembata, 2East	min	nan	nan	('to drink', 'adan1251-lawah', 'naʔ')	nan		
-369	to eat	keda1252	Kedang	Austronesian	8Lembata, 2East	kaː	nan	nan	('to eat', 'keda1252', 'kaː')	nan		
-370	to cook	keda1252	Kedang	Austronesian	8Lembata, 2East	iu 'daʔa	nan	nan	('to cook', 'keda1252', 'iu')	nan		
-370	to cook	keda1252	Kedang	Austronesian	8Lembata, 2East	iu	nan	nan	('to cook', 'keda1252', 'iu')	nan		
-371	to wash	keda1252	Kedang	Austronesian	8Lembata, 2East	ba'hiŋ	nan	nan	('to wash', 'alor1249-sar-a', '(uwam)_belí')	nan		
-372	to sew	keda1252	Kedang	Austronesian	8Lembata, 2East	hɛ'woŋ	nan	nan	"('to sew', 'keda1252', ""hɛ'woŋ"")"	nan		
-373	to live; be alive; living	keda1252	Kedang	Austronesian	8Lembata, 2East	'bita	nan	nan	('to live; be alive; living', 'adan1251-lawah', 'wɛcɛŋ')	nan		
-374	to breathe	keda1252	Kedang	Austronesian	8Lembata, 2East	'pɔhɔʔ	nan	nan	"('to breathe', 'keda1252', ""'pɔhɔʔ"")"	nan		
-375	to work	keda1252	Kedang	Austronesian	8Lembata, 2East	ka'rejaŋ	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan		
-376	to die	keda1252	Kedang	Austronesian	8Lembata, 2East	'mate	nan	nan	('to die', 'adon1237', 'ˈmataː')	nan		
-377	to give	keda1252	Kedang	Austronesian	8Lembata, 2East	'sɔrɔŋ	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan		
-378	to wipe	keda1252	Kedang	Austronesian	8Lembata, 2East	pɔ'hɔʔ	nan	nan	('to wipe', 'adon1237', 'ˈbɔhɔʔ')	nan		
-379	to come	keda1252	Kedang	Austronesian	8Lembata, 2East	'adan	nan	nan	"('to come', 'keda1252', ""'adan"")"	nan		
-380	to laugh	keda1252	Kedang	Austronesian	8Lembata, 2East	'tawe	nan	nan	('to laugh', 'cent2245-hewa', 'to')	nan		
-381	to cry	keda1252	Kedang	Austronesian	8Lembata, 2East	ku'weʔ	nan	nan	('to cry', 'kabo1247', 'kəwéye')	nan		
-382	to dance	keda1252	Kedang	Austronesian	8Lembata, 2East	he'duŋ	nan	nan	"('to dance', 'keda1252', ""he'duŋ"")"	nan		
-383	to sing	keda1252	Kedang	Austronesian	8Lembata, 2East	la'liː	nan	nan	"('to sing', 'alor1247-baran', ""'bɔtɛ_'liaŋ"")"	nan		
-384	to burn (clear land)	keda1252	Kedang	Austronesian	8Lembata, 2East	paʔ (lumar)	lumar=ɡarden	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-385	to burn; to shine	keda1252	Kedang	Austronesian	8Lembata, 2East	duʔ 'ɔlɔr	duʔ=burn wood in kitchen	nan	"('to burn; to shine', 'keda1252', ""duʔ_'ɔlɔr"")"	nan		
-386	to shine	keda1252	Kedang	Austronesian	8Lembata, 2East	'ɔlɔr	nan	nan	"('to shine', 'alor1247-besar', ""'bɔlo"")"	nan		
-387	to chew	keda1252	Kedang	Austronesian	8Lembata, 2East	ma'mɛʔ	nan	nan	('back', 'lamm1241', 'naing_wiri')	nan		
-388	to yawn	keda1252	Kedang	Austronesian	8Lembata, 2East	'moa	nan	nan	('to yawn', 'adon1237', 'pɜˈmoaː')	nan		
-389	to suck	keda1252	Kedang	Austronesian	8Lembata, 2East	du'mɛʔ	nan	nan	"('to suck', 'alor1247-baran', ""'dum:ɔ"")"	nan		
-390	to blow	keda1252	Kedang	Austronesian	8Lembata, 2East	'puiʔ	nan	nan	('to blow', 'abui1241-fuime', 'furungra')	nan		
-391	to spit	keda1252	Kedang	Austronesian	8Lembata, 2East	pɔ'taʔ	ijuʔ=spit (n)	nan	"('to spit', 'keda1252', ""pɔ'taʔ"")"	nan		
-392	to vomit	keda1252	Kedang	Austronesian	8Lembata, 2East	ɔ'kaʔ	nan	nan	"('to vomit', 'keda1252', ""ɔ'kaʔ"")"	nan		
-393	to rub	keda1252	Kedang	Austronesian	8Lembata, 2East	pɔ'hɔʔ	nan	nan	('to rub', 'adon1237', 'doˈruʔ')	nan		
-394	to scratch	keda1252	Kedang	Austronesian	8Lembata, 2East	'karɔ	nan	nan	('to scratch', 'alor1249-sar-a', 'kəraab')	nan		
-395	itchy	keda1252	Kedang	Austronesian	8Lembata, 2East	ka'waʔ	nan	nan	"('itchy', 'keda1252', ""ka'waʔ"")"	nan		
-396	to swell	keda1252	Kedang	Austronesian	8Lembata, 2East	'babaŋ	nan	nan	('to swell', 'adon1237', 'ˈbaʔa')	nan		
-397	to hit	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'luʔ	nan	nan	"('to hit', 'keda1252', ""pa'luʔ"")"	nan		
-398	to slap	keda1252	Kedang	Austronesian	8Lembata, 2East	le'paʔ	E.g. to slap someone on the cheek; NOT to clap hands. 	nan	('to slap', 'adon1237', 'ˈtɜpɔ̃,_ˈtɜpɑk')	nan		
-399	to bite	keda1252	Kedang	Austronesian	8Lembata, 2East	ki'ʔi	nan	nan	('to bite', 'adon1237', 'ˈɡike')	nan		
-400	to cut	keda1252	Kedang	Austronesian	8Lembata, 2East	pɛ'riʔ	nan	nan	('to cut', 'keda1252', 'bel')	nan		
-401	to cut down	keda1252	Kedang	Austronesian	8Lembata, 2East	ta'diʔ	nan	nan	"('to cut down', 'keda1252', ""ta'diʔ"")"	nan		
-402	to split	keda1252	Kedang	Austronesian	8Lembata, 2East	bɛ'tɛ	nan	nan	('to split', 'adon1237', 'ˈlɜkɑʔ')	nan		
-403	to divide	keda1252	Kedang	Austronesian	8Lembata, 2East	bɔʔ	nan	nan	('to divide', 'keda1252', 'bɔʔ')	nan		
-404	to stab	keda1252	Kedang	Austronesian	8Lembata, 2East	'tuhuʔ	nan	nan	('to stab', 'adan1251-lawah', 'tɛʔɛ')	nan		
-405	to skewer	keda1252	Kedang	Austronesian	8Lembata, 2East	'tuhuʔ	nan	nan	('to skewer', 'adon1237', 'ˈtuhuk,_ˈtɜɡuʔ')	nan		
-406	to fight	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔawe 'wɛʔ	nan	nan	"('to fight', 'alor1247-baran', ""ka'laĩ_'fak:ĩ"")"	nan		
-407	to guard	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔewa	nan	nan	"('to guard', 'keda1252', ""'ʔewa"")"	nan		
-408	to throw	keda1252	Kedang	Austronesian	8Lembata, 2East	ka'kaʔ	nan	nan	"('to throw', 'keda1252', ""ka'kaʔ"")"	nan		
-409	to hunt	keda1252	Kedang	Austronesian	8Lembata, 2East	de'ruŋ	nan	nan	"('to hunt', 'keda1252', ""de'ruŋ"")"	nan		
-410	to kill	keda1252	Kedang	Austronesian	8Lembata, 2East	bel	nan	nan	('to kill', 'adon1237', 'ˈbelo')	nan		
-411	to chase away; to run after	keda1252	Kedang	Austronesian	8Lembata, 2East	de'huʔ	nan	nan	"('to chase away', 'keda1252', ""de'huʔ"")"	nan		
-413	to search for; to hunt for	keda1252	Kedang	Austronesian	8Lembata, 2East	ha'ba	nan	nan	('to search for; to hunt for', 'adon1237', 'ˈsɜbɑʔ')	nan		
-414	to dig	keda1252	Kedang	Austronesian	8Lembata, 2East	'kaɛl	nan	nan	"('to dig', 'keda1252', ""'kaɛl"")"	nan		
-415	to bury	keda1252	Kedang	Austronesian	8Lembata, 2East	'tanɛŋ	nan	nan	"('to bury', 'keda1252', ""'tanɛŋ"")"	nan		
-416	to flow	keda1252	Kedang	Austronesian	8Lembata, 2East	'kawaŋ	nan	nan	"('to flow', 'keda1252', ""'kawaŋ"")"	nan		
-417	to float	keda1252	Kedang	Austronesian	8Lembata, 2East	'baɔ	nan	nan	('to float', 'adon1237', 'ˈbaɔʔ')	nan		
-418	to freeze	keda1252	Kedang	Austronesian	8Lembata, 2East	waʔ	waʔ=water freezes; bute=coconut oil hardens	nan	"('to freeze', 'alor1247-baran', ""'fatɔ"")"	nan		
-419	to hold	keda1252	Kedang	Austronesian	8Lembata, 2East	mɛ'rɛʔ	nan	nan	('to hold', 'keda1252', 'mereʔ')	nan		
-420	to tie	keda1252	Kedang	Austronesian	8Lembata, 2East	'ujuŋ	nan	nan	"('to tie', 'keda1252', ""'ujuŋ"")"	nan		
-420	to tie	keda1252	Kedang	Austronesian	8Lembata, 2East	ho'ŋɛn	nan	nan	"('to tie', 'keda1252', ""'ujuŋ,_ho'ŋɛn"")"	nan		
-421	to play	keda1252	Kedang	Austronesian	8Lembata, 2East	'huaŋ	nan	nan	('to play', 'amar1273-kotos', 'na-ʔbaʔe')	nan		
-422	to pull	keda1252	Kedang	Austronesian	8Lembata, 2East	'beʔ	nan	nan	('to pull', 'cent2245-hewa', 'ide')	nan		
-423	to push	keda1252	Kedang	Austronesian	8Lembata, 2East	'obaŋ	nan	nan	"('to push', 'keda1252', ""'obaŋ"")"	nan		
-424	to turn	keda1252	Kedang	Austronesian	8Lembata, 2East	'heaʔ	nan	nan	"('to turn', 'keda1252', ""'heaʔ"")"	nan		
-425	to dream	keda1252	Kedang	Austronesian	8Lembata, 2East	'nulur	nan	nan	"('to dream', 'keda1252', ""'nulur"")"	nan		
-426	to crouch; to bend over	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔɔmɔʔ	To crouch as on an Indonesian toilet, NOT: to kneel	nan	"('to crouch; to bend over', 'keda1252', ""'ʔɔmɔʔ"")"	nan		
-427	to live; to stay	keda1252	Kedang	Austronesian	8Lembata, 2East	'puaʔ	nan	nan	"('to live; to stay', 'keda1252', ""'puaʔ"")"	nan		
-428	to choose	keda1252	Kedang	Austronesian	8Lembata, 2East	pil	nan	nan	('to choose', 'adon1237', 'ˈpilɛ')	nan		
-429	to grow	keda1252	Kedang	Austronesian	8Lembata, 2East	'tawe	nan	nan	('hand', 'adon1237', 'ˈnaiʔjũ')	nan		
-430	to squeeze	keda1252	Kedang	Austronesian	8Lembata, 2East	'ikuʔ	nan	nan	"('to squeeze', 'keda1252', ""'ikuʔ"")"	nan		
-431	to buy	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔi'ʔer	nan	nan	"('to buy', 'keda1252', ""ʔi'ʔer"")"	nan		
-432	to sell	keda1252	Kedang	Austronesian	8Lembata, 2East	du'ruŋ	nan	nan	('to sell', 'adon1237', 'ˈduʔũ')	nan		
-433	to steal	keda1252	Kedang	Austronesian	8Lembata, 2East	ma'ʔɔ	nan	nan	"('to steal', 'keda1252', ""ma'ʔɔ"")"	nan		
-434	to open	keda1252	Kedang	Austronesian	8Lembata, 2East	bu'kaʔ	nan	nan	('to open', 'adon1237', 'ˈbuka')	nan		
-435	to close	keda1252	Kedang	Austronesian	8Lembata, 2East	lɛ'tuʔ	nan	nan	"('to close', 'keda1252', ""lɛ'tuʔ"")"	nan		
-436	to climb	keda1252	Kedang	Austronesian	8Lembata, 2East	kɛu	nan	nan	('to climb', 'keda1252', 'kɛu')	nan		
-437	to hide	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔoni	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-438	to wait	keda1252	Kedang	Austronesian	8Lembata, 2East	tɔ'waŋ	nan	nan	"('to wait', 'keda1252', ""tɔ'waŋ"")"	nan		
-439	to fold	keda1252	Kedang	Austronesian	8Lembata, 2East	lɛ'piʔ	NOT: lipat tikar	nan	('to fold', 'adan1251-lawah', 'paliʔi')	nan		
-440	to help	keda1252	Kedang	Austronesian	8Lembata, 2East	po'hiŋ	nan	nan	"('to help', 'keda1252', ""po'hiŋ"")"	nan		
-441	to bark	keda1252	Kedang	Austronesian	8Lembata, 2East	bɔ'wɔŋ	nan	nan	"('to bark', 'keda1252', ""bɔ'wɔŋ"")"	nan		
-442	to shoot	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'nɛ	nan	nan	('to shoot', 'cent2245-hewa', 'bana')	nan		
-443	to shoot with slingshot	keda1252	Kedang	Austronesian	8Lembata, 2East	pe'tiʔ	nan	nan	"('to shoot with slingshot', 'keda1252', ""pe'tiʔ"")"	nan		
-444	to pound; to beat	keda1252	Kedang	Austronesian	8Lembata, 2East	'bae	nan	nan	('to pound; to beat', 'amar1273-kotos', 'na-pau')	nan		
-445	to hit (drum)	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'luʔ	nan	nan	"('to hit (drum)', 'keda1252', ""pa'luʔ"")"	nan		
-446	to call out	keda1252	Kedang	Austronesian	8Lembata, 2East	hi'ɔʔ	nan	nan	"('to call out', 'keda1252', ""hi'ɔʔ"")"	nan		
-447	to lie (tell untruth)	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'dɛ	nan	nan	"('to lie (tell untruth)', 'keda1252', ""pa'dɛ"")"	nan		
-448	to ask (question)	keda1252	Kedang	Austronesian	8Lembata, 2East	da'haŋ	nan	nan	('blind', 'adon1237', 'kɜˈnisũ,_kɜˈbuʔlɔ̃')	nan		
-449	to count	keda1252	Kedang	Austronesian	8Lembata, 2East	ka'rɛʔ	nan	nan	"('to count', 'keda1252', ""ka'rɛʔ"")"	nan		
-450	one	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔu'deʔ	nan	nan	('one', 'amar1273-kotos', 'meseʔ')	nan		
-451	two	keda1252	Kedang	Austronesian	8Lembata, 2East	su'we	nan	nan	"('two', 'keda1252', ""su'we"")"	nan		
-452	three	keda1252	Kedang	Austronesian	8Lembata, 2East	telu	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-453	four	keda1252	Kedang	Austronesian	8Lembata, 2East	a'paʔ	nan	nan	('four', 'adon1237', 'ˈpaːt')	nan		
-454	five	keda1252	Kedang	Austronesian	8Lembata, 2East	'lɛmɛ	nan	nan	('five', 'adon1237', 'ˈlema')	nan		
-455	six	keda1252	Kedang	Austronesian	8Lembata, 2East	'ɛnɛŋ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
-456	seven	keda1252	Kedang	Austronesian	8Lembata, 2East	'pitu	nan	nan	('seven', 'adan1251-lawah', 'wuitoʔ')	nan		
-457	eight	keda1252	Kedang	Austronesian	8Lembata, 2East	butu 'rai	nan	nan	('eight', 'adon1237', 'butoː')	nan		
-458	nine	keda1252	Kedang	Austronesian	8Lembata, 2East	leme 'apaʔ	nan	nan	"('nine', 'keda1252', ""leme_'apaʔ"")"	nan		
-459	ten	keda1252	Kedang	Austronesian	8Lembata, 2East	'pulu	nan	nan	('ten', 'adon1237', 'puloː')	nan		
-460	eleven	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ u'deʔ	nan	nan	('eleven', 'abui1241-fuime', 'wal_nuku')	nan		
-461	twelve	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ su'we	nan	nan	('twelve', 'adon1237', 'pulok_rua')	nan		
-462	thirteen	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ 'tɛlu	nan	nan	('thirteen', 'adon1237', 'pulok_tɜlo')	nan		
-463	fourteen	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ 'apaʔ	nan	nan	('fourteen', 'adan1251-otvai', 'ernu_faliŋ_ut')	nan		
-464	fifteen	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ 'lɛmɛ	nan	nan	('fifteen', 'adan1251-otvai', 'ernu_faliŋ_ifihiŋ')	nan		
-465	sixteen	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ 'ɛnɛŋ	nan	nan	('sixteen', 'adan1251-otvai', 'ernu_faliŋ_tala:ŋ')	nan		
-466	seventeen	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ 'pitu	nan	nan	('seventeen', 'adan1251-otvai', 'ernu_faliŋ_itito')	nan		
-467	eighteen	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ butu 'rai	nan	nan	('eighteen', 'adan1251-otvai', 'ernu_faliŋ_turlɔ')	nan		
-468	nineteen	keda1252	Kedang	Austronesian	8Lembata, 2East	pulaʔ leme 'apaʔ	nan	nan	('nineteen', 'adan1251-otvai', 'ernu_faliŋ_tieinu')	nan		
-469	twenty	keda1252	Kedang	Austronesian	8Lembata, 2East	purun 'suwe	nan	nan	('twenty', 'adon1237', 'pulu_rua')	nan		
-470	twenty one	keda1252	Kedang	Austronesian	8Lembata, 2East	purun suwe ilaʔ wudeʔ	nan	nan	('twenty one', 'adon1237', 'pulu_rua_nɔ_ˈtoʔu')	nan		
-471	twenty two	keda1252	Kedang	Austronesian	8Lembata, 2East	purun suwe ilaʔ suwe	nan	nan	('twenty two', 'adan1251-otvai', 'eralɔ_faliŋ_alɔ')	nan		
-472	twenty three	keda1252	Kedang	Austronesian	8Lembata, 2East	purun suwe ilaʔ tɛlu	nan	nan	('twenty three', 'adan1251-otvai', 'eralɔ_faliŋ_tɔu')	nan		
-473	twenty four	keda1252	Kedang	Austronesian	8Lembata, 2East	purun suwe ilaʔ apaʔ	nan	nan	('twenty four', 'adan1251-otvai', 'eralɔ_faliŋ_ut')	nan		
-474	twenty five	keda1252	Kedang	Austronesian	8Lembata, 2East	purun suwe ilaʔ lɛmɛ	nan	nan	('twenty five', 'adan1251-otvai', 'eralɔ_faliŋ_ifihiŋ')	nan		
-475	thirty	keda1252	Kedang	Austronesian	8Lembata, 2East	purun tɛlu	nan	nan	('thirty', 'adon1237', 'pulu_ˈtɜlo')	nan		
-476	forty	keda1252	Kedang	Austronesian	8Lembata, 2East	purun apaʔ	nan	nan	('forty', 'adan1251-otvai', 'er_ut')	nan		
-477	fifty	keda1252	Kedang	Austronesian	8Lembata, 2East	purun lemɛ	nan	nan	('fifty', 'adan1251-otvai', 'er_ifihiŋ')	nan		
-478	sixty	keda1252	Kedang	Austronesian	8Lembata, 2East	purun ɛnɛŋ	nan	nan	('sixty', 'adan1251-otvai', 'er_talaaŋ')	nan		
-479	seventy	keda1252	Kedang	Austronesian	8Lembata, 2East	purun pitu	nan	nan	('seventy', 'adan1251-otvai', 'er_itito')	nan		
-480	eighty	keda1252	Kedang	Austronesian	8Lembata, 2East	purun butu 'rai	nan	nan	"('eighty', 'keda1252', ""purun_butu_'rai"")"	nan		
-481	ninety	keda1252	Kedang	Austronesian	8Lembata, 2East	purun leme 'apaʔ	nan	nan	"('ninety', 'keda1252', ""purun_leme_'apaʔ"")"	nan		
-482	one hundred	keda1252	Kedang	Austronesian	8Lembata, 2East	ratuʔ ʔudeʔ	nan	nan	('one hundred', 'keda1252', 'ratuʔ_ʔudeʔ')	nan		
-483	one hundred and twenty three	keda1252	Kedang	Austronesian	8Lembata, 2East	ratuʔ ʔudeʔ purun suwe ilaʔ tɛlu	nan	nan	('one hundred and twenty three', 'abui1241-fuime', 'aisaha_nuku_kar_aijoku_wal_sua')	nan		
-484	two hundred	keda1252	Kedang	Austronesian	8Lembata, 2East	ratuʔ suwe	nan	nan	('angry', 'lamm1241', 'arugga')	nan		
-485	thousand	keda1252	Kedang	Austronesian	8Lembata, 2East	ribu	nan	nan	('thousand', 'adon1237', 'riːbu')	nan		
-486	one hundred thousand	keda1252	Kedang	Austronesian	8Lembata, 2East	seratus ribu	nan	nan	('one hundred thousand', 'keda1252', 'seratus_ribu')	nan		
-487	grandmother	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔepu ʔarian	The kinship task also asks for this term	nan	('grandmother', 'keda1252', 'ʔepu_ʔarian')	nan		
-488	grandfather	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔepu anaʔ abe	The kinship task also asks for this term	nan	('grandfather', 'adon1237', 'opu')	nan		
-489	grandchild	keda1252	Kedang	Austronesian	8Lembata, 2East	anaʔ	The kinship task also asks for this term	nan	('grandchild', 'keda1252', 'anaʔ')	nan		
-490	mother's brother	keda1252	Kedang	Austronesian	8Lembata, 2East	epu	The kinship task also asks for this term	nan	"(""mother's brother"", 'adan1251-otvai', 'omaŋsel')"	nan		
-491	nephew; niece	keda1252	Kedang	Austronesian	8Lembata, 2East	anaʔ	The kinship task also asks for this term	nan	('nephew; niece', 'keda1252', 'anaʔ')	nan		
-492	older brother	keda1252	Kedang	Austronesian	8Lembata, 2East	aʔe	The kinship task also asks for this term	nan	('older brother', 'adon1237', 'ʔariʔ,_kaka')	nan		
-493	older sister	keda1252	Kedang	Austronesian	8Lembata, 2East	aʔe	The kinship task also asks for this term	nan	('older sister', 'keda1252', 'aʔe')	nan		
-494	sister	keda1252	Kedang	Austronesian	8Lembata, 2East	aʔe	aʔe kakak, ariʔ adik; The kinship task also asks for this term	a ʔ e	('sister', 'keda1252', 'aʔe')	nan		
-494	sister	keda1252	Kedang	Austronesian	8Lembata, 2East	ariʔ	aʔe kakak, ariʔ adik; The kinship task also asks for this term	a ʔ e	('sister', 'keda1252', 'aʔe,_ariʔ')	nan		
-496	woman's younger sister	keda1252	Kedang	Austronesian	8Lembata, 2East	ariʔ	The kinship task also asks for this term	- a r i ʔ	"(""woman's younger sister"", 'adon1237', 'ʔariʔ')"	nan		
-497	younger brother	keda1252	Kedang	Austronesian	8Lembata, 2East	ariʔ	The kinship task also asks for this term	- a r i ʔ	('younger brother', 'adon1237', 'ʔariʔ')	nan		
-498	brother	keda1252	Kedang	Austronesian	8Lembata, 2East	aʔe	The kinship task also asks for this term	a ʔ e	('brother', 'keda1252', 'aʔe')	nan		
-498	brother	keda1252	Kedang	Austronesian	8Lembata, 2East	ariʔ	The kinship task also asks for this term	a ʔ e	('brother', 'adon1237', 'ʔariʔ,_kaka')	nan		
-499	brother-in-law	keda1252	Kedang	Austronesian	8Lembata, 2East	aʔe	The kinship task also asks for this term	#NAME?	('brother-in-law', 'keda1252', 'aʔe')	nan		
-499	brother-in-law	keda1252	Kedang	Austronesian	8Lembata, 2East	ariʔ	The kinship task also asks for this term	#NAME?	('brother-in-law', 'cent2245-hewa', 'ʋari,_ueʔ')	nan		
-500	cross-cousin	keda1252	Kedang	Austronesian	8Lembata, 2East	ine ame	ine ame (m)	i n e _ a m e	('cross-cousin', 'keda1252', 'ine_ame_(m),_mahan_(f)')	nan		
-500	cross-cousin	keda1252	Kedang	Austronesian	8Lembata, 2East	mahan	mahan (f)	i n e _ a m e	('cross-cousin', 'keda1252', 'mahan')	nan		
-501	father's sister	keda1252	Kedang	Austronesian	8Lembata, 2East	binen	The kinship task also asks for this term	b i n e n	"(""father's sister"", 'keda1252', 'binen')"	nan		
-502	ridge(pole); peak; tip	keda1252	Kedang	Austronesian	8Lembata, 2East	'wɔlar	nan	ˈw ɔ l a r	('ridge(pole); peak; tip', 'adon1237', 'ˈwolaʔ')	nan		
-503	rack(above hearth/for storing food)	keda1252	Kedang	Austronesian	8Lembata, 2East	rak	There may be two types, a high one (for e.g. storage) and a lower one; if so, elicit both.	r a k - - -	"('rack(above hearth/for storing food)', 'fata1247', ""ra'kani"")"	nan		
-504	broom; sweep	keda1252	Kedang	Austronesian	8Lembata, 2East	naɛŋ	nan	n a ɛ ŋ	('broom; sweep', 'adon1237', 'ˈnamu')	nan		
-507	meeting house	keda1252	Kedang	Austronesian	8Lembata, 2East	weta riaŋ	cultural features answer to question 3.2	w e t a _ r i - a ŋ	('meeting house', 'keda1252', 'weta_riaŋ')	nan		
-508	floor	keda1252	Kedang	Austronesian	8Lembata, 2East	'lante	nan	- - ˈl a n t - e	('floor', 'adon1237', 'ˈlante')	nan		
-509	wall	keda1252	Kedang	Austronesian	8Lembata, 2East	nɛ'biʔ	nan	n ɛ - - ˈb i ʔ	('wall', 'adon1237', 'ˈkɜnɜˈbiʔ')	nan		
-510	window	keda1252	Kedang	Austronesian	8Lembata, 2East	dʒən'dela	nan	nan	('window', 'adan1251-otvai', 'sanele')	nan		
-511	cookhouse; kitchen	keda1252	Kedang	Austronesian	8Lembata, 2East	lian 'matan	nan	nan	('cookhouse; kitchen', 'adan1251-otvai', 'dapur')	nan		
-512	bed	keda1252	Kedang	Austronesian	8Lembata, 2East	'lipu	nan	nan	('bed', 'adan1251-otvai', 'de’')	nan		
-513	chair	keda1252	Kedang	Austronesian	8Lembata, 2East	'kursi	nan	nan	('chair', 'adan1251-otvai', 'kadere')	nan		
-514	lamp	keda1252	Kedang	Austronesian	8Lembata, 2East	pə'lita	nan	nan	('lamp', 'adan1251-otvai', 'lampu')	nan		
-515	candle	keda1252	Kedang	Austronesian	8Lembata, 2East	'lilin	nan	nan	"('candle', 'abui1241-takal', ""'li.lin"")"	nan		
-516	to weave	keda1252	Kedang	Austronesian	8Lembata, 2East	nekeʔ 'tan	nan	nan	('to weave', 'adan1251-otvai', 'deu;')	nan		
-517	shirt	keda1252	Kedang	Austronesian	8Lembata, 2East	'labor	nan	nan	('shirt', 'adan1251-otvai', 'kod')	nan		
-518	necklace	keda1252	Kedang	Austronesian	8Lembata, 2East	baŋ	nan	nan	('necklace', 'adan1251-otvai', 'ba')	nan		
-519	earring	keda1252	Kedang	Austronesian	8Lembata, 2East	anti	nan	nan	('earring', 'adan1251-otvai', 'falofaŋ')	nan		
-520	trousers	keda1252	Kedang	Austronesian	8Lembata, 2East	deko 'lawan	nan	nan	('trousers', 'adan1251-otvai', 'dekolai')	nan		
-521	sarong (women)	keda1252	Kedang	Austronesian	8Lembata, 2East	'wela	nan	nan	('sarong (women)', 'adan1251-otvai', 'salim_eŋ')	nan		
-523	thread	keda1252	Kedang	Austronesian	8Lembata, 2East	bə'naŋ	nan	nan	('thread', 'adan1251-otvai', 'ab')	nan		
-524	to worship	keda1252	Kedang	Austronesian	8Lembata, 2East	sɑm'beʔaŋ	nan	nan	('to worship', 'adan1251-otvai', 'aʔome')	nan		
-525	holy	keda1252	Kedang	Austronesian	8Lembata, 2East	'sutʃi	nan	nan	('holy', 'adan1251-otvai', 'bolaŋ')	nan		
-526	to bless	keda1252	Kedang	Austronesian	8Lembata, 2East	'bərkat	nan	nan	"('to bless', 'keda1252', ""'bərkat"")"	nan		
-527	God	keda1252	Kedang	Austronesian	8Lembata, 2East	tuaŋ'ala	nan	nan	"('God', 'keda1252', ""tuaŋ'ala"")"	nan		
-528	to pray	keda1252	Kedang	Austronesian	8Lembata, 2East	ber'doa	nan	nan	"('to pray', 'keda1252', ""ber'doa"")"	nan		
-529	church	keda1252	Kedang	Austronesian	8Lembata, 2East	ɡə'rɛdʒa	nan	nan	"('church', 'keda1252', ""ɡə'rɛdʒa"")"	nan		
-530	mosque	keda1252	Kedang	Austronesian	8Lembata, 2East	ma'siŋki	nan	nan	"('mosque', 'keda1252', ""ma'siŋki"")"	nan		
-531	to curse	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔɔ'laʔ	nan	nan	"('to curse', 'keda1252', ""ʔɔ'laʔ"")"	nan		
-532	priest (modern)	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔimaŋ	nan	nan	"('priest (modern)', 'keda1252', ""'ʔimaŋ"")"	nan		
-533	sorcerer; witch	keda1252	Kedang	Austronesian	8Lembata, 2East	'mɔlan	nan	nan	"('sorcerer; witch', 'keda1252', ""'mɔlan"")"	nan		
-535	sermon	keda1252	Kedang	Austronesian	8Lembata, 2East	'xɔtbɑh	nan	ˈx ɔ t b ɑ h	('sermon', 'cent2245-hewa', 'kotba')	nan		
-536	sacrifice	keda1252	Kedang	Austronesian	8Lembata, 2East	'kɔrbɑn	nan	ˈk ɔ r - b ɑ n	"('sacrifice', 'fata1247', ""ku'lupa"")"	nan		
-537	clan	keda1252	Kedang	Austronesian	8Lembata, 2East	'suku	nan	ˈs u k u	('clan', 'adon1237', 'ˈsuku')	nan		
-538	chieftain	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔaʔe 'ame	nan	ˈʔ a ʔ e _ ˈa m e	"('chieftain', 'keda1252', ""'ʔaʔe_'ame"")"	nan		
-539	to rule or govern	keda1252	Kedang	Austronesian	8Lembata, 2East	pa'rɛnta	nan	p a ˈr ɛ n t a - - - -	('to rule or govern', 'adan1251-otvai', 'parentapuin')	nan		
-540	treaty	keda1252	Kedang	Austronesian	8Lembata, 2East	bɛlɑn bajɑn	Alliance between Kedang-Marica: Uwa raya=Marica + Alor; Pitang raya= Kedang. It is a brotherhood (kakak/adik) relation.; E.g. perjanjian antara dua suku untuk tidak berperang	b ɛ l ɑ n _ b a j ɑ n	('treaty', 'keda1252', 'bɛlɑn_bajɑn')	nan		
-541	marriage	keda1252	Kedang	Austronesian	8Lembata, 2East	kuʔ'wɛʔ	nan	k u ʔ ˈw ɛ ʔ	"('marriage', 'keda1252', ""kuʔ'wɛʔ"")"	nan		
-542	friend	keda1252	Kedang	Austronesian	8Lembata, 2East	'niruŋ	nan	ˈn i - - r u ŋ -	"('friend', 'keda1252', ""'niruŋ"")"	nan		
-543	enemy	keda1252	Kedang	Austronesian	8Lembata, 2East	'musuh	nan	ˈm u s u h	('enemy', 'adon1237', 'ˈmusu')	nan		
-544	king; ruler	keda1252	Kedang	Austronesian	8Lembata, 2East	'radʒa	nan	ˈr a dʒ a	('king; ruler', 'adon1237', 'ˈraja')	nan		
-545	stranger	keda1252	Kedang	Austronesian	8Lembata, 2East	'tamu	nan	ˈt a m u	"('stranger', 'keda1252', ""'tamu"")"	nan		
-546	to invite	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔundaŋ	nan	nan	"('to invite', 'keda1252', ""'ʔundaŋ"")"	nan		
-547	to command or order	keda1252	Kedang	Austronesian	8Lembata, 2East	'hɔiŋ	nan	( - - ) - - ˈh ɔ i ŋ	('to command or order', 'adan1251-otvai', 'ahou')	nan		
-548	dowry	keda1252	Kedang	Austronesian	8Lembata, 2East	tɔdaʔ 'bare	nan	nan	"('dowry', 'keda1252', ""tɔdaʔ_'bare"")"	nan		
-549	the judge	keda1252	Kedang	Austronesian	8Lembata, 2East	ha'kim	nan	nan	"('the judge', 'keda1252', ""ha'kim"")"	nan		
-550	accuse	keda1252	Kedang	Austronesian	8Lembata, 2East	'ɔrɔʔ	nan	nan	"('accuse', 'keda1252', ""'ɔrɔʔ"")"	nan		
-551	guilty	keda1252	Kedang	Austronesian	8Lembata, 2East	'kehe	nan	ˈk e h e - -	"('guilty', 'keda1252', ""'kehe"")"	nan		
-552	innocent	keda1252	Kedang	Austronesian	8Lembata, 2East	ɔhaʔ 'kehe	nan	nan	"('innocent', 'keda1252', ""ɔhaʔ_'kehe"")"	nan		
-553	the murder	keda1252	Kedang	Austronesian	8Lembata, 2East	bɛ'lɔʔ	nan	nan	('the murder', 'adon1237', 'belo_ˈwɜkika')	nan		
-555	penalty	keda1252	Kedang	Austronesian	8Lembata, 2East	ale	nan	nan	('penalty', 'keda1252', 'ale')	nan		
-556	fishnet	keda1252	Kedang	Austronesian	8Lembata, 2East	pueʔ	nan	nan	('fishnet', 'keda1252', 'pueʔ')	nan		
-558	to defend	keda1252	Kedang	Austronesian	8Lembata, 2East	li'kɔʔ	nan	nan	"('to defend', 'keda1252', ""li'kɔʔ"")"	nan		
-559	the war or battle	keda1252	Kedang	Austronesian	8Lembata, 2East	ʔawe'wɛʔ	nan	nan	"('the war or battle', 'keda1252', ""ʔawe'wɛʔ"")"	nan		
-560	poor	keda1252	Kedang	Austronesian	8Lembata, 2East	'tɔkɔŋ	nan	nan	"('poor', 'keda1252', ""'tɔkɔŋ"")"	nan		
-561	rich	keda1252	Kedang	Austronesian	8Lembata, 2East	'kaja	nan	nan	"('rich', 'keda1252', ""'kaja"")"	nan		
-562	money	keda1252	Kedang	Austronesian	8Lembata, 2East	'duiʔ	nan	nan	"('money', 'keda1252', ""'duiʔ"")"	nan		
-563	market	keda1252	Kedang	Austronesian	8Lembata, 2East	ul	nan	nan	('market', 'keda1252', 'ul')	nan		
-564	price	keda1252	Kedang	Austronesian	8Lembata, 2East	'welin	nan	nan	"('price', 'keda1252', ""'welin"")"	nan		
-565	to own	keda1252	Kedang	Austronesian	8Lembata, 2East	'neʔe	nan	nan	"('to own', 'keda1252', ""'neʔe"")"	nan		
-566	to borrow	keda1252	Kedang	Austronesian	8Lembata, 2East	bi'heʔ	nan	nan	"('to borrow', 'keda1252', ""bi'heʔ"")"	nan		
-567	to trade or barter	keda1252	Kedang	Austronesian	8Lembata, 2East	'duruŋ	nan	nan	"('to trade or barter', 'keda1252', ""'duruŋ"")"	nan		
-568	expensive	keda1252	Kedang	Austronesian	8Lembata, 2East	'welin	nan	nan	"('expensive', 'keda1252', ""'welin"")"	nan		
-569	cheap	keda1252	Kedang	Austronesian	8Lembata, 2East	'mura	nan	nan	"('cheap', 'keda1252', ""'mura"")"	nan		
-570	to grasp	keda1252	Kedang	Austronesian	8Lembata, 2East	tɔ'bɔl	nan	nan	"('to grasp', 'keda1252', ""tɔ'bɔl"")"	nan		
-571	to let go	keda1252	Kedang	Austronesian	8Lembata, 2East	'bele	nan	nan	"('to let go', 'keda1252', ""'bele"")"	nan		
-572	to promise	keda1252	Kedang	Austronesian	8Lembata, 2East	'dʒɑndʒi	nan	nan	"('to promise', 'keda1252', ""'dʒɑndʒi"")"	nan		
-573	word	keda1252	Kedang	Austronesian	8Lembata, 2East	tɛ'hɛʔ	nan	nan	"('word', 'keda1252', ""tɛ'hɛʔ"")"	nan		
-574	to answer	keda1252	Kedang	Austronesian	8Lembata, 2East	'hɔlɔ	nan	nan	"('to answer', 'keda1252', ""'hɔlɔ"")"	nan		
-575	to refuse	keda1252	Kedang	Austronesian	8Lembata, 2East	'daɛʔ	nan	nan	"('to refuse', 'keda1252', ""'daɛʔ"")"	nan		
-576	to whisper	keda1252	Kedang	Austronesian	8Lembata, 2East	'tihir	nan	nan	"('to whisper', 'keda1252', ""'tihir"")"	nan		
-577	to be silent	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔere	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		
-578	to tell	keda1252	Kedang	Austronesian	8Lembata, 2East	tutuʔ 'nanaŋ	nan	nan	"('to tell', 'keda1252', ""tutuʔ_'nanaŋ"")"	nan		
-579	to learn	keda1252	Kedang	Austronesian	8Lembata, 2East	'basa	nan	nan	"('to learn', 'keda1252', ""'basa"")"	nan		
-580	to teach	keda1252	Kedang	Austronesian	8Lembata, 2East	'ʔadʒar	nan	nan	"('to teach', 'keda1252', ""'ʔadʒar"")"	nan		
-581	easy	keda1252	Kedang	Austronesian	8Lembata, 2East	'ɡampaŋ	nan	nan	"('easy', 'keda1252', ""'ɡampaŋ"")"	nan		
-582	difficult	keda1252	Kedang	Austronesian	8Lembata, 2East	'sulit	nan	nan	"('difficult', 'keda1252', ""'sulit"")"	nan		
-583	finished	keda1252	Kedang	Austronesian	8Lembata, 2East	'bahe	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		
-584	now	keda1252	Kedang	Austronesian	8Lembata, 2East	dɛʔ'nɔʔ	nan	nan	"('now', 'keda1252', ""dɛʔ'nɔʔ"")"	nan		
-584	now	keda1252	Kedang	Austronesian	8Lembata, 2East	dɛʔ'nɔʔɔ	nan	nan	"('now', 'keda1252', ""dɛʔ'nɔʔ,_dɛʔ'nɔʔɔ"")"	nan		
-585	hour	keda1252	Kedang	Austronesian	8Lembata, 2East	dʒam	nan	nan	('hour', 'keda1252', 'dʒam')	nan		
-586	same	keda1252	Kedang	Austronesian	8Lembata, 2East	'hama	nan	nan	"('same', 'keda1252', ""'hama"")"	nan		
-587	oven/cooking place	keda1252	Kedang	Austronesian	8Lembata, 2East	ni'maʔ	nan	nan	"('oven/cooking place', 'keda1252', ""ni'maʔ"")"	nan		
-588	flower (in e.g. mangga tree)	keda1252	Kedang	Austronesian	8Lembata, 2East	pu'hun	nan	nan	('flower (in e.g. mangga tree)', 'adan1251-otvai', 'ti_buŋ')	nan		
-589	vein	keda1252	Kedang	Austronesian	8Lembata, 2East	a'li	nan	a ˈl - - i -	('vein', 'adan1251-otvai', 'taru')	nan		
-590	long (stick)	keda1252	Kedang	Austronesian	8Lembata, 2East	la'waː	nan	- - l a ˈw aː	('long (stick)', 'adan1251-lawah', 'low')	nan		
-591	tall (person)	keda1252	Kedang	Austronesian	8Lembata, 2East	la'ʔiː	nan	l a ˈʔ iː	"('tall (person)', 'keda1252', ""la'ʔiː"")"	nan		
-592	short (stick)	keda1252	Kedang	Austronesian	8Lembata, 2East	mɛ'kuʔ	nan	nan	"('short (stick)', 'alor1247-baran', ""'mak:u"")"	nan		
-593	narrow (road)	keda1252	Kedang	Austronesian	8Lembata, 2East	i'peʔ	Not: rumah sempit (crowded'small house), or pakaian sempit (clothes that are too tight).	nan	('narrow (road)', 'adon1237', 'ˈkɛniʔ')	nan		
-598	to chase away; to expel	keda1252	Kedang	Austronesian	8Lembata, 2East	ho'riʔ	nan	nan	"('to chase away; to expel', 'keda1252', ""ho'riʔ"")"	nan		
+0	sky	keda1252	Kedang	Austronesian	8Lembata	ʔɛ'leŋ	There is a phonemic distinction between initial syllables that have an onsetless vowel, and initial syllables that have a glottal stop onset. There is no phonemic distinction between e'ɛ and o'ɔ and i'ɪ.	ʔ ɛ ˈl e ŋ - - -	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	nan		
+1	sun	keda1252	Kedang	Austronesian	8Lembata	lɔ'jɔ	nan	l ɔ ˈj ɔ - - - - - -	"('sun', 'alor1247-baran', ""la'ra"")"	nan		
+2	moon	keda1252	Kedang	Austronesian	8Lembata	wu'la	nan	w u ˈl a - - ( - - - - - - - - )	('moon', 'adan1251-lawah', 'hu:l')	nan		
+3	star	keda1252	Kedang	Austronesian	8Lembata	ma'le	nan	- - m a ˈl e	"('star', 'alor1247-baran', ""ta'mala"")"	nan		
+4	night	keda1252	Kedang	Austronesian	8Lembata	u'bɛn	nan	u ˈb ɛ n	"('night', 'keda1252', ""u'bɛn"")"	nan		
+5	day	keda1252	Kedang	Austronesian	8Lembata	lɔ'jɔ	nan	l ɔ ˈj ɔ - - - -	"('day', 'alor1247-baran', ""la'ra:"")"	nan		
+6	year	keda1252	Kedang	Austronesian	8Lembata	tun	nan	t u n	('year', 'abui1241-petle', 'tuŋ')	nan		
+7	morning	keda1252	Kedang	Austronesian	8Lembata	ʔɛ'jəŋ	nan	ʔ ɛ ˈj ə ŋ	"('morning', 'keda1252', ""ʔɛ'jəŋ"")"	nan		
+8	yesterday	keda1252	Kedang	Austronesian	8Lembata	ʔɛ'wɪn	nan	ʔ ɛ ˈw ɪ - n	"('yesterday', 'alor1247-besar', ""'fiaŋ"")"	nan		
+9	day before yesterday	keda1252	Kedang	Austronesian	8Lembata	numɛn 'ɛwin	nan	n u m ɛ n _ ˈɛ w i n	"('day before yesterday', 'keda1252', ""numɛn_'ɛwin"")"	nan		
+10	tomorrow	keda1252	Kedang	Austronesian	8Lembata	lu'ʔa	nan	l u ˈʔ a	"('tomorrow', 'keda1252', ""lu'ʔa"")"	nan		
+11	day after tomorrow	keda1252	Kedang	Austronesian	8Lembata	'wɛŋ'suwe	nan	( ˈw ) ɛ ŋ - - ˈs u w e	"('day after tomorrow', 'keda1252', ""'wɛŋ'suwe"")"	nan		
+12	twilight; dawn	keda1252	Kedang	Austronesian	8Lembata	heʔa'naun	nan	h e ʔ a ˈn a u n	"('twilight; dawn', 'alor1247-besar', ""'ɛkaŋ_'dahɛ_ta'ranaŋ"")"	nan		
+13	cloud	keda1252	Kedang	Austronesian	8Lembata	ʔɔ'wa	nan	nan	('cloud', 'abui1241-fuime', 'kabuti')	nan		
+14	wind	keda1252	Kedang	Austronesian	8Lembata	aː'ŋin	nan	- aː ˈŋ i n - - - - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	nan		
+15	rain	keda1252	Kedang	Austronesian	8Lembata	u'ja	nan	- u ˈj a -	"('rain', 'alor1247-besar', ""'uraŋ"")"	nan		
+16	drizzle	keda1252	Kedang	Austronesian	8Lembata	rɪtɪʔ	nan	- - - - r ɪ t ɪ ʔ -	('drizzle', 'keda1252', 'rɪtɪʔ')	nan		
+17	rainbow	keda1252	Kedang	Austronesian	8Lembata	nado	nan	n a d o	('rainbow', 'keda1252', 'nado')	nan		
+17	rainbow	keda1252	Kedang	Austronesian	8Lembata	tado	nan	n a d o	('rainbow', 'keda1252', 'tado')	nan		
+18	thunder	keda1252	Kedang	Austronesian	8Lembata	nɛ'duŋ	bunyinya	n ɛ ˈd u ŋ	"('thunder', 'keda1252', ""nɛ'duŋ"")"	nan		
+19	lightning	keda1252	Kedang	Austronesian	8Lembata	'nilaʔ	kilatan, cahaya	- - - - - - - - - ˈn i l a ʔ	"('lightning', 'keda1252', ""'nilaʔ"")"	nan		
+19	lightning	keda1252	Kedang	Austronesian	8Lembata	'kilaʔ	kilatan, cahaya	- - - - - - - - - ˈn i l a ʔ	"('lightning', 'alor1247-besar', ""'hila_bi'ba"")"	nan		
+20	earthquake	keda1252	Kedang	Austronesian	8Lembata	nɛju	nan	n ɛ j u	('earthquake', 'keda1252', 'nɛju')	nan		
+21	fog	keda1252	Kedang	Austronesian	8Lembata	ʔɔwa	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	ʔ ɔ w a - - - - - -	('fog', 'keda1252', 'ʔɔwa')	nan		
+22	river; stream	keda1252	Kedang	Austronesian	8Lembata	wɛi	nan	w ɛ - i	('river; stream', 'keda1252', 'wɛi')	nan		
+25	lake	keda1252	Kedang	Austronesian	8Lembata	da'nɑu	nan	d a ˈn ɑ u	"('lake', 'alor1247-baran', ""'danɑu"")"	nan		
+26	mountain	keda1252	Kedang	Austronesian	8Lembata	(j)ili	nan	#NAME?	('mountain', 'alor1249-sar-n', 'yihil')	nan		
+27	hill; ridge	keda1252	Kedang	Austronesian	8Lembata	bɔ'tiʔ	nan	nan	"('hill; ridge', 'keda1252', ""bɔ'tiʔ"")"	nan		
+28	village	keda1252	Kedang	Austronesian	8Lembata	'lewu	nan	nan	"('village', 'alor1247-besar', ""'lafɔ"")"	nan		
+29	land; soil	keda1252	Kedang	Austronesian	8Lembata	ʔauʔ	nan	nan	('land; soil', 'adan1251-lawah', 'faʔai')	nan		
+30	Earth	keda1252	Kedang	Austronesian	8Lembata	ʔauʔ	nan	nan	('Earth', 'keda1252', 'ʔauʔ')	nan		
+31	hole	keda1252	Kedang	Austronesian	8Lembata	uɔʔ	nan	nan	('hole', 'keda1252', 'uɔʔ')	nan		
+32	stone	keda1252	Kedang	Austronesian	8Lembata	waʔ	nan	nan	"('(coral) reef', 'alor1247-munas', ""'aŋgu"")"	nan		
+33	coral (rock)	keda1252	Kedang	Austronesian	8Lembata	waʔ 'mitəŋ	batu (rock) di pantai	nan	"('coral (rock)', 'keda1252', ""waʔ_'mitəŋ"")"	nan		
+34	(coral) reef	keda1252	Kedang	Austronesian	8Lembata	'ruhu	karang (reef) di dasar laut	nan	('(coral) reef', 'atim1239', 'karafi')	nan		
+35	water (fresh)	keda1252	Kedang	Austronesian	8Lembata	wei	nan	nan	"('water (fresh)', 'adon1237', ""'wɑi"")"	nan		
+36	sea; sea water	keda1252	Kedang	Austronesian	8Lembata	ta'hiʔ	nan	nan	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	nan		
+37	wave	keda1252	Kedang	Austronesian	8Lembata	ɔ'jɔʔ	nan	nan	"('wave', 'alor1247-besar', ""'ɔʤɔ"")"	nan		
+38	foam	keda1252	Kedang	Austronesian	8Lembata	wuran	nan	nan	('foam', 'adan1251-lawah', 'wara-wara')	nan		
+39	forest	keda1252	Kedang	Austronesian	8Lembata	tu'wɛn	nan	nan	"('forest', 'keda1252', ""tu'wɛn"")"	nan		
+40	field	keda1252	Kedang	Austronesian	8Lembata	'wuru	nan	nan	"('field', 'keda1252', ""'wuru"")"	nan		
+41	island	keda1252	Kedang	Austronesian	8Lembata	ʔauʔ	nan	nan	('island', 'keda1252', 'ʔauʔ')	nan		
+42	rice field	keda1252	Kedang	Austronesian	8Lembata	'lumɑr	nan	nan	"('rice field', 'abui1241-takal', ""'sä.wä"")"	nan		
+42	rice field	keda1252	Kedang	Austronesian	8Lembata	sawa	nan	nan	('rice field', 'keda1252', 'sawa')	nan		
+43	garden	keda1252	Kedang	Austronesian	8Lembata	'lumɑr	nan	nan	"('garden', 'keda1252', ""'lumɑr"")"	nan		
+44	fence	keda1252	Kedang	Austronesian	8Lembata	ni'hɛ	nan	nan	"('fence', 'keda1252', ""ni'hɛ"")"	nan		
+45	road; path; way	keda1252	Kedang	Austronesian	8Lembata	'lala	nan	nan	('road; path; way', 'abui1241-fuime', 'sefoko')	nan		
+46	canoe	keda1252	Kedang	Austronesian	8Lembata	'tɛnɛ	nan	nan	"('canoe', 'keda1252', ""'tɛnɛ"")"	nan		
+47	sail (n.)	keda1252	Kedang	Austronesian	8Lembata	'lajɑr	nan	nan	"('sail (n.)', 'keda1252', ""'lajɑr"")"	nan		
+48	to sail	keda1252	Kedang	Austronesian	8Lembata	keu tɛnɛ	keu=on top of, tɛnɛ=boat	nan	('to sail', 'keda1252', 'keu_tɛnɛ')	nan		
+49	fishing hook	keda1252	Kedang	Austronesian	8Lembata	'ʔawil	nan	nan	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	nan		
+50	fish trap	keda1252	Kedang	Austronesian	8Lembata	'ɛrɛ	nima = fish container; dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	"('fish trap', 'keda1252', ""'ɛrɛ"")"	nan		
+51	rope	keda1252	Kedang	Austronesian	8Lembata	wa'dɛʔ	nan	nan	"('rope', 'keda1252', ""wa'dɛʔ"")"	nan		
+52	machete	keda1252	Kedang	Austronesian	8Lembata	pɛ'daʔ	nan	nan	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	nan		
+53	axe	keda1252	Kedang	Austronesian	8Lembata	ba'liʔ	nan	nan	('axe', 'abui1241-fuime', 'faliŋ')	nan		
+54	spear	keda1252	Kedang	Austronesian	8Lembata	'kala	nan	nan	"('spear', 'alor1247-munas', ""kɛ'laleiŋ"")"	nan		
+55	burden stick	keda1252	Kedang	Austronesian	8Lembata	no'ɛl	nan	nan	"('burden stick', 'keda1252', ""no'ɛl"")"	nan		
+56	stick; pole	keda1252	Kedang	Austronesian	8Lembata	du'ʔa	nan	nan	('stick; pole', 'abui1241-fuime', 'tukaraŋ')	nan		
+57	digging stick	keda1252	Kedang	Austronesian	8Lembata	dɔ'kaʔ	nan	nan	"('digging stick', 'keda1252', ""dɔ'kaʔ"")"	nan		
+59	bow	keda1252	Kedang	Austronesian	8Lembata	'wur	nan	nan	"('bow', 'alor1247-besar', ""'fuhu"")"	nan		
+60	arrow	keda1252	Kedang	Austronesian	8Lembata	na'mɛʔ	nan	nan	"('arrow', 'keda1252', ""na'mɛʔ"")"	nan		
+61	knife	keda1252	Kedang	Austronesian	8Lembata	'mɛiʔ	nan	nan	"('knife', 'keda1252', ""'mɛiʔ"")"	nan		
+62	comb	keda1252	Kedang	Austronesian	8Lembata	'pilir	nan	nan	"('comb', 'keda1252', ""'pilir"")"	nan		
+63	mat	keda1252	Kedang	Austronesian	8Lembata	napa	nan	nan	('mat', 'keda1252', 'napa')	nan		
+64	needle	keda1252	Kedang	Austronesian	8Lembata	ba'tur	nan	nan	('needle', 'adan1251-lawah', 'bátuŋ')	nan		
+65	clothing	keda1252	Kedang	Austronesian	8Lembata	pa'kejan	nan	nan	"('clothing', 'alor1247-besar', ""pa'kiãŋ"")"	nan		
+67	fire	keda1252	Kedang	Austronesian	8Lembata	a'pi	nan	nan	"('fire', 'alor1247-baran', ""a'pe:"")"	nan		
+68	smoke	keda1252	Kedang	Austronesian	8Lembata	'rubu	nan	nan	"('smoke', 'keda1252', ""'rubu"")"	nan		
+70	dust; fine earth	keda1252	Kedang	Austronesian	8Lembata	ʔauʔ 'bɔŋ	nan	nan	('dust; fine earth', 'blag1240-nule', 'butuŋ_boni')	nan		
+71	fireplace ash	keda1252	Kedang	Austronesian	8Lembata	'ɛwɔl	NOT 'debu' (dust, after you have been sweeping)	nan	"('fireplace ash', 'alor1247-besar', ""'afɔ"")"	nan		
+72	mud	keda1252	Kedang	Austronesian	8Lembata	ɔ'paʔ	nan	nan	"('mud', 'keda1252', ""ɔ'paʔ"")"	nan		
+73	clay	keda1252	Kedang	Austronesian	8Lembata	ʔauʔ 'kiuʔ	nan	nan	"('clay', 'keda1252', ""ʔauʔ_'kiuʔ"")"	nan		
+74	gravel	keda1252	Kedang	Austronesian	8Lembata	waʔ 'weriʔ	waʔ=stone, weriʔ=small	nan	"('gravel', 'keda1252', ""waʔ_'weriʔ"")"	nan		
+75	sand	keda1252	Kedang	Austronesian	8Lembata	'ʔerah	nan	nan	"('sand', 'keda1252', ""'ʔerah"")"	nan		
+76	grass; brush	keda1252	Kedang	Austronesian	8Lembata	'wuru	nan	nan	('grass; brush', 'blag1240-bama', 'ut')	nan		
+77	house	keda1252	Kedang	Austronesian	8Lembata	we'taʔ	nan	nan	"('house', 'keda1252', ""we'taʔ"")"	nan		
+78	traditional house	keda1252	Kedang	Austronesian	8Lembata	'ʔebaŋ	nan	nan	"('traditional house', 'keda1252', ""'ʔebaŋ"")"	nan		
+79	barn; storage house	keda1252	Kedang	Austronesian	8Lembata	'ʔebaŋ	nan	nan	('barn; storage house', 'dein1238', 'qebaŋ')	nan		
+80	raised platform	keda1252	Kedang	Austronesian	8Lembata	li'pu	nan	nan	('raised platform', 'abui1241-fuime', 'lik')	nan		
+81	door	keda1252	Kedang	Austronesian	8Lembata	welɔʔ	nan	nan	('door', 'keda1252', 'welɔʔ')	nan		
+82	(thatch) roof	keda1252	Kedang	Austronesian	8Lembata	nɛ'hiŋ	nan	nan	"('(thatch) roof', 'keda1252', ""nɛ'hiŋ"")"	nan		
+83	roof thatch	keda1252	Kedang	Austronesian	8Lembata	nɛ'hiŋ 'wuru	nɛhiŋ̩=root, uru=grass	nan	"('roof thatch', 'keda1252', ""nɛ'hiŋ_'wuru"")"	nan		
+84	tree	keda1252	Kedang	Austronesian	8Lembata	'ʔai	nan	nan	"('tree', 'alor1247-baran', ""'kaʤu_'lɔlɔŋ"")"	nan		
+85	wood	keda1252	Kedang	Austronesian	8Lembata	'ʔai	nan	nan	"('wood', 'keda1252', ""'ʔai"")"	nan		
+86	bark (of tree)	keda1252	Kedang	Austronesian	8Lembata	ʔai 'ʔamaʔ	nan	nan	"('bark (of tree)', 'alor1247-baran', ""'kaʤu_'kamaŋ"")"	nan		
+87	leaf	keda1252	Kedang	Austronesian	8Lembata	'lɔlɔn	nan	nan	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	nan		
+88	branch	keda1252	Kedang	Austronesian	8Lembata	li'maʔ	cabang pohon	nan	"('branch', 'keda1252', ""li'maʔ"")"	nan		
+89	firewood	keda1252	Kedang	Austronesian	8Lembata	'ʔai 'japi	nan	nan	"('firewood', 'alor1247-besar', ""'kaʤɔ_'ape"")"	nan		
+90	rattan	keda1252	Kedang	Austronesian	8Lembata	wua'wɛi	nan	nan	"('rattan', 'keda1252', ""wua'wɛi"")"	nan		
+90	rattan	keda1252	Kedang	Austronesian	8Lembata	'wɛi	nan	nan	"('rattan', 'keda1252', ""'wɛi"")"	nan		
+91	root	keda1252	Kedang	Austronesian	8Lembata	ramuʔ	nan	nan	('root', 'keda1252', 'ramuʔ')	nan		
+92	fruit	keda1252	Kedang	Austronesian	8Lembata	uan	nan	nan	"('fruit', 'alor1247-pandai', ""'punak"")"	nan		
+93	seed	keda1252	Kedang	Austronesian	8Lembata	ʔu'luʔ	nan	nan	"('seed', 'alor1247-baran', ""'kuluŋ"")"	nan		
+94	grain; cereal	keda1252	Kedang	Austronesian	8Lembata	ʔa'nɛn	nan	nan	('grain; cereal', 'adan1251-otvai', 'naʔfail')	nan		
+96	husked rice; uncooked rice	keda1252	Kedang	Austronesian	8Lembata	ʔa'nɛn	nan	nan	"('husked rice; uncooked rice', 'keda1252', ""ʔa'nɛn"")"	nan		
+97	rice grains (unhusked) (raw from field)	keda1252	Kedang	Austronesian	8Lembata	ʔa'nɛn	nan	nan	"('rice grains (unhusked) (raw from field)', 'keda1252', ""ʔa'nɛn"")"	nan		
+98	cooked rice	keda1252	Kedang	Austronesian	8Lembata	la'laʔ	nan	nan	('cooked rice', 'abui1241-fuime', 'ajak_ma')	nan		
+99	rice plant	keda1252	Kedang	Austronesian	8Lembata	ʔa'nɛn	nan	nan	"('rice plant', 'keda1252', ""ʔa'nɛn"")"	nan		
+100	to plant (yam)	keda1252	Kedang	Austronesian	8Lembata	mi'waʔ ʔa'lɛuʔ	nan	nan	"('to plant (yam)', 'keda1252', ""mi'waʔ_ʔa'lɛuʔ"")"	nan		
+101	to plant (rice)	keda1252	Kedang	Austronesian	8Lembata	mi'waʔ ʔa'nɛn	nan	nan	"('to plant (rice)', 'keda1252', ""mi'waʔ_ʔa'nɛn"")"	nan		
+102	betel nut; areca	keda1252	Kedang	Austronesian	8Lembata	'uwe	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	nan		
+103	betel vine	keda1252	Kedang	Austronesian	8Lembata	'mal	nan	nan	"('betel vine', 'alor1247-baran', ""'malu"")"	nan		
+104	lime	keda1252	Kedang	Austronesian	8Lembata	'apur	nan	- ˈa p u r	"('lime', 'alor1247-baran', ""'ʔapu"")"	nan		
+105	chew betel	keda1252	Kedang	Austronesian	8Lembata	ka uwe 'mal	nan	k a _ u w e _ ˈm a l	"('chew betel', 'alor1247-besar', ""ta'kːa_'ua_'malu"")"	nan		
+106	sweet potato	keda1252	Kedang	Austronesian	8Lembata	ʔa'lɛuʔ sawa	nan	ʔ a ˈl ɛ u ʔ _ s a w a	"('sweet potato', 'keda1252', ""ʔa'lɛuʔ_sawa"")"	nan		
+107	cassava	keda1252	Kedang	Austronesian	8Lembata	ʔa'lɛuʔ uwaʔ	nan	nan	"('cassava', 'keda1252', ""ʔa'lɛuʔ_uwaʔ"")"	nan		
+108	taro	keda1252	Kedang	Austronesian	8Lembata	'ʔodɛl	nan	ˈʔ o d ɛ l	"('taro', 'keda1252', ""'ʔodɛl"")"	nan		
+109	sago	keda1252	Kedang	Austronesian	8Lembata	'saɡu	nan	nan	"('sago', 'abui1241-takal', ""'sä.gu"")"	nan		
+110	millet	keda1252	Kedang	Austronesian	8Lembata	wɛ'rɛʔ	nan	nan	"('millet', 'keda1252', ""wɛ'rɛʔ"")"	nan		
+111	sugarcane	keda1252	Kedang	Austronesian	8Lembata	tɛ'hu	nan	nan	"('sugarcane', 'alor1247-besar', ""ta'fɔ"")"	nan		
+112	corn; maize	keda1252	Kedang	Austronesian	8Lembata	'wɑtɑr	nan	ˈw ɑ t ɑ r	('corn; maize', 'abui1241-fuime', 'fa:ti')	nan		
+113	cooked corn	keda1252	Kedang	Austronesian	8Lembata	lalaʔ 'wɑtɑr	lalaʔ=rice, tun=prepared	l a l a ʔ _ ˈw ɑ t ɑ r	"('cooked corn', 'alor1247-besar', ""'fata_pu'nakaŋ"")"	nan		
+113	cooked corn	keda1252	Kedang	Austronesian	8Lembata	wɑtɑr tun	lalaʔ=rice, tun=prepared	l a l a ʔ _ ˈw ɑ t ɑ r	('cooked corn', 'keda1252', 'wɑtɑr_tun')	nan		
+114	coconut	keda1252	Kedang	Austronesian	8Lembata	taʔ	nan	t a ʔ -	"('coconut', 'alor1247-besar', ""'tapo"")"	nan		
+116	lontar palm	keda1252	Kedang	Austronesian	8Lembata	ʔɔ'rɔ	nan	nan	"('lontar palm', 'keda1252', ""ʔɔ'rɔ"")"	nan		
+117	sugar palm	keda1252	Kedang	Austronesian	8Lembata	pɔ'le	nan	p ɔ ˈl e -	"('sugar palm', 'alor1247-munas', ""'pɔla_'pukɔŋ"")"	nan		
+118	marungga	keda1252	Kedang	Austronesian	8Lembata	'mɔtɔŋ	nan	nan	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	nan		
+119	gum tree; eucalyptus	keda1252	Kedang	Austronesian	8Lembata	ʔaju 'bujaʔ	nan	nan	"('gum tree; eucalyptus', 'alor1247-besar', ""'kaʤɔ_bu'rakaŋ"")"	nan		
+120	bamboo	keda1252	Kedang	Austronesian	8Lembata	pe'ruŋ	larɡe, medium, small bamboo	nan	('bamboo', 'adan1251-otvai', 'pituŋ')	nan		
+120	bamboo	keda1252	Kedang	Austronesian	8Lembata	be'riŋ	larɡe, medium, small bamboo	nan	"('bamboo', 'keda1252', ""be'riŋ"")"	nan		
+120	bamboo	keda1252	Kedang	Austronesian	8Lembata	aur	larɡe, medium, small bamboo	nan	('bamboo', 'keda1252', 'aur')	nan		
+121	banana	keda1252	Kedang	Austronesian	8Lembata	mu'ʔ̚ũ	nan	nan	('banana', 'abui1241-fuime', 'musa')	nan		
+122	mango	keda1252	Kedang	Austronesian	8Lembata	'peu	nan	nan	"('mango', 'alor1247-besar', ""'pao"")"	nan		
+123	papaya	keda1252	Kedang	Austronesian	8Lembata	wa'ja	nan	nan	('papaya', 'adan1251-lawah', 'kahatɛlɛ')	nan		
+124	jackfruit	keda1252	Kedang	Austronesian	8Lembata	wɛ'raʔ	nan	nan	"('jackfruit', 'keda1252', ""wɛ'raʔ"")"	nan		
+125	breadfruit	keda1252	Kedang	Austronesian	8Lembata	bɔ'rɔʔ	nan	nan	"('breadfruit', 'keda1252', ""bɔ'rɔʔ"")"	nan		
+126	bean	keda1252	Kedang	Austronesian	8Lembata	u'tan	nan	nan	('bean', 'adan1251-lawah', 'ʔutuŋ')	nan		
+127	honey	keda1252	Kedang	Austronesian	8Lembata	lani 'wɛrɛŋ	wɛrɛŋ= water	l a n i _ ˈw ɛ r ɛ ŋ	('honey', 'abui1241-fuime', 'nawa:ŋ')	nan		
+128	milk	keda1252	Kedang	Austronesian	8Lembata	tuʔu 'wɛrɛŋ	not 'breast'	t u ʔ u _ ˈw ɛ r ɛ ŋ	('milk', 'adan1251-lawah', 'toʔ')	nan		
+129	salt	keda1252	Kedang	Austronesian	8Lembata	te'ʔu	nan	t e ˈʔ u	"('salt', 'keda1252', ""te'ʔu"")"	nan		
+130	fat	keda1252	Kedang	Austronesian	8Lembata	wɔ'jaʔ	nan	nan	"('fat', 'keda1252', ""wɔ'jaʔ"")"	nan		
+131	flesh; meat	keda1252	Kedang	Austronesian	8Lembata	na'ʔɛn	nan	nan	"('flesh; meat', 'keda1252', ""na'ʔɛn"")"	nan		
+132	bone	keda1252	Kedang	Austronesian	8Lembata	lu'rin	nan	l u ˈr i n	('bone', 'abui1241-takal', 'te̞̞i.pä')	nan		
+133	rib	keda1252	Kedang	Austronesian	8Lembata	haraʔ lu'rin	nan	nan	"('rib', 'keda1252', ""haraʔ_lu'rin"")"	nan		
+134	sweat	keda1252	Kedang	Austronesian	8Lembata	re'wun	nan	nan	"('sweat', 'keda1252', ""re'wun"")"	nan		
+135	tear	keda1252	Kedang	Austronesian	8Lembata	lun	nan	nan	"('tear', 'alor1247-besar', ""'lou"")"	nan		
+136	blood	keda1252	Kedang	Austronesian	8Lembata	wɛiʔ	nan	nan	('blood', 'abui1241-fuime', 'we')	nan		
+138	heart	keda1252	Kedang	Austronesian	8Lembata	taʔ'mutiʔ	nan	nan	"('heart', 'keda1252', ""taʔ'mutiʔ"")"	nan		
+139	liver	keda1252	Kedang	Austronesian	8Lembata	ha'tɛn	nan	nan	"('liver', 'alor1247-baran', ""'hati"")"	nan		
+140	kidney	keda1252	Kedang	Austronesian	8Lembata	taʔ'kubaŋ	nan	nan	"('kidney', 'keda1252', ""taʔ'kubaŋ"")"	nan		
+141	guts	keda1252	Kedang	Austronesian	8Lembata	'tein	nan	nan	"('guts', 'alor1247-baran', ""'teiŋ_'ɔnɔŋ"")"	nan		
+142	excrement	keda1252	Kedang	Austronesian	8Lembata	dɛ'ruʔ	nan	nan	"('excrement', 'keda1252', ""dɛ'ruʔ"")"	nan		
+143	lungs	keda1252	Kedang	Austronesian	8Lembata	pa'ko	nan	nan	"('lungs', 'keda1252', ""pa'ko"")"	nan		
+144	stomach; belly	keda1252	Kedang	Austronesian	8Lembata	bɔ'tin	nan	nan	"('stomach; belly', 'keda1252', ""bɔ'tin"")"	nan		
+145	head	keda1252	Kedang	Austronesian	8Lembata	tu'bar	nan	nan	"('head', 'keda1252', ""tu'bar"")"	nan		
+146	hair	keda1252	Kedang	Austronesian	8Lembata	ʔu'ha	nan	nan	('hair', 'keda1252', 'uha')	nan		
+147	body hair	keda1252	Kedang	Austronesian	8Lembata	'wurun	nan	nan	"('body hair', 'keda1252', ""'wurun"")"	nan		
+148	eye	keda1252	Kedang	Austronesian	8Lembata	'mato	nan	nan	"('eye', 'alor1247-baran', ""'mataŋ"")"	nan		
+149	ear	keda1252	Kedang	Austronesian	8Lembata	til	nan	nan	('ear', 'adon1237', 'ˈtiluˈk3t')	nan		
+150	nose	keda1252	Kedang	Austronesian	8Lembata	niŋ	nan	nan	('nose', 'keda1252', 'niŋ')	nan		
+151	mouth	keda1252	Kedang	Austronesian	8Lembata	'nunu	nan	nan	"('mouth', 'alor1247-munas', ""'nuhuŋ_"")"	nan		
+152	chin	keda1252	Kedang	Austronesian	8Lembata	'ʔimɛn	nan	nan	"('chin', 'keda1252', ""'ʔimɛn"")"	nan		
+153	lips	keda1252	Kedang	Austronesian	8Lembata	'wiwir	nan	nan	"('lips', 'alor1247-baran', ""'fifiŋ"")"	nan		
+154	teeth	keda1252	Kedang	Austronesian	8Lembata	'ʔawar	nan	nan	"('teeth', 'keda1252', ""'ʔawar"")"	nan		
+155	tongue	keda1252	Kedang	Austronesian	8Lembata	'ebel	nan	nan	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	nan		
+156	neck	keda1252	Kedang	Austronesian	8Lembata	'bɔŋan	nan	nan	"('neck', 'keda1252', ""'bɔŋan"")"	nan		
+157	shoulder	keda1252	Kedang	Austronesian	8Lembata	'wali	nan	nan	"('shoulder', 'keda1252', ""'wali"")"	nan		
+158	body	keda1252	Kedang	Austronesian	8Lembata	'wɛʔ	nan	nan	"('body', 'keda1252', ""'wɛʔ"")"	nan		
+159	forehead	keda1252	Kedang	Austronesian	8Lembata	'wau	nan	nan	"('forehead', 'keda1252', ""'wau"")"	nan		
+160	nostril	keda1252	Kedang	Austronesian	8Lembata	niŋ 'bakur	nan	nan	"('nostril', 'keda1252', ""niŋ_'bakur"")"	nan		
+161	mucus	keda1252	Kedang	Austronesian	8Lembata	niŋ 'tein	nan	nan	"('mucus', 'keda1252', ""niŋ_'tein"")"	nan		
+162	cheek	keda1252	Kedang	Austronesian	8Lembata	'pipin	nan	nan	"('cheek', 'keda1252', ""'pipin"")"	nan		
+163	arm	keda1252	Kedang	Austronesian	8Lembata	liŋ	nan	nan	"('arm', 'alor1247-baran', ""'limaŋ"")"	nan		
+164	hand	keda1252	Kedang	Austronesian	8Lembata	liŋ	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ_ka'lumak"")"	nan		
+165	palm of hand	keda1252	Kedang	Austronesian	8Lembata	liŋ 'lɑlɛŋ	lɑlɛŋ=inside	nan	"('palm of hand', 'keda1252', ""liŋ_'lɑlɛŋ"")"	nan		
+166	finger	keda1252	Kedang	Austronesian	8Lembata	liŋ 'utun	utun=small	nan	"('finger', 'keda1252', ""liŋ_'utun"")"	nan		
+167	fingernail	keda1252	Kedang	Austronesian	8Lembata	'uruŋ	nan	nan	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	nan		
+168	breast	keda1252	Kedang	Austronesian	8Lembata	'tuʔu	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	nan		
+169	chest	keda1252	Kedang	Austronesian	8Lembata	ɔ'rɔʔ	nan	nan	"('chest', 'keda1252', ""ɔ'rɔʔ"")"	nan		
+170	navel	keda1252	Kedang	Austronesian	8Lembata	pu'hɛː	nan	- - p u ˈh ɛː - - - - - - -	('navel', 'abui1241-fuime', 'tabike')	nan		
+171	penis	keda1252	Kedang	Austronesian	8Lembata	wu'ti	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	nan	"('penis', 'alor1247-munas', ""'utiŋ"")"	nan		
+172	vagina	keda1252	Kedang	Austronesian	8Lembata	te'reʔ	Kemaluan perempuan, same as above.	t e ˈr e ʔ	"('vagina', 'alor1247-munas', ""'utiʔ"")"	nan		
+173	testicles	keda1252	Kedang	Austronesian	8Lembata	la'hɛʔ	nan	l a ˈh ɛ ʔ	"('testicles', 'alor1247-besar', ""la'hakaŋ_ku'lukuŋ"")"	nan		
+174	leg	keda1252	Kedang	Austronesian	8Lembata	lei	nan	l e i - - -	"('leg', 'alor1247-baran', ""'leiŋ"")"	nan		
+175	foot	keda1252	Kedang	Austronesian	8Lembata	lei	nan	nan	('foot', 'keda1252', 'lei')	nan		
+176	heel of foot	keda1252	Kedang	Austronesian	8Lembata	lei 'ʔapan	nan	l e i _ ˈʔ a p a n	"('heel of foot', 'keda1252', ""lei_'ʔapan"")"	nan		
+177	sole of foot	keda1252	Kedang	Austronesian	8Lembata	lei 'lalɛŋ	nan	l e i _ ˈl a l ɛ ŋ	"('sole of foot', 'keda1252', ""lei_'lalɛŋ"")"	nan		
+178	knee	keda1252	Kedang	Austronesian	8Lembata	'ʔudul	nan	ˈʔ u d u l	"('knee', 'alor1247-baran', "",leiŋ_'kudul"")"	nan		
+179	back	keda1252	Kedang	Austronesian	8Lembata	'ʔobi	nan	ˈʔ o b i	"('back', 'keda1252', ""'ʔobi"")"	nan		
+180	spine; lower back	keda1252	Kedang	Austronesian	8Lembata	ha'mɛn	nan	h a ˈm ɛ n	"('spine; lower back', 'keda1252', ""ha'mɛn"")"	nan		
+181	waist	keda1252	Kedang	Austronesian	8Lembata	a'lɛn	nan	- a ˈl - - - - ɛ n	"('waist', 'keda1252', ""a'lɛn"")"	nan		
+182	skin	keda1252	Kedang	Austronesian	8Lembata	ʔa'maʔ	nan	ʔ a ˈm a ʔ - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	nan		
+183	sore; wound	keda1252	Kedang	Austronesian	8Lembata	'taha	nan	ˈt a - - h a	('sore; wound', 'adan1251-otvai', 'bah')	nan		
+184	ringworm	keda1252	Kedang	Austronesian	8Lembata	'nawɑr	nan	ˈn a w ɑ r	"('ringworm', 'keda1252', ""'nawɑr"")"	nan		
+185	scabies	keda1252	Kedang	Austronesian	8Lembata	pu'rɔʔ	nan	p u ˈr ɔ ʔ	"('scabies', 'keda1252', ""pu'rɔʔ"")"	nan		
+186	tinea	keda1252	Kedang	Austronesian	8Lembata	muʔu ta'ʔɛn	nan	nan	"('tinea', 'keda1252', ""muʔu_ta'ʔɛn"")"	nan		
+187	feverish	keda1252	Kedang	Austronesian	8Lembata	weʔ 'pana	nan	nan	"('feverish', 'keda1252', ""weʔ_'pana"")"	nan		
+188	conjunctivitis	keda1252	Kedang	Austronesian	8Lembata	mato 'putuʔ	putuʔ=red; Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	nan	"('conjunctivitis', 'keda1252', ""mato_'putuʔ"")"	nan		
+189	cold; influenza	keda1252	Kedang	Austronesian	8Lembata	ʔihɔ 'ban	nan	nan	"('cold; influenza', 'keda1252', ""ʔihɔ_'ban"")"	nan		
+190	person	keda1252	Kedang	Austronesian	8Lembata	ate 'diʔen	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	nan	"('person', 'keda1252', ""ate_'diʔen"")"	nan		
+191	name	keda1252	Kedang	Austronesian	8Lembata	'naja	nan	nan	"('name', 'alor1247-baran', ""'naraŋ"")"	nan		
+192	child	keda1252	Kedang	Austronesian	8Lembata	anaʔ	nan	nan	('child', 'keda1252', 'anaʔ')	nan		
+193	man	keda1252	Kedang	Austronesian	8Lembata	anaʔ 'abɛ	nan	nan	"('man', 'keda1252', ""anaʔ_'abɛ"")"	nan		
+194	woman	keda1252	Kedang	Austronesian	8Lembata	ʔarɛʔ 'rian	nan	nan	('woman', 'kama1365', 'mare')	nan		
+195	husband	keda1252	Kedang	Austronesian	8Lembata	ate 'rian	nan	nan	"('husband', 'keda1252', ""ate_'rian"")"	nan		
+196	wife	keda1252	Kedang	Austronesian	8Lembata	weʔ 'rian	Not 'married woman'.	nan	"('wife', 'alor1247-baran', ""ka'fae"")"	nan		
+197	mother	keda1252	Kedang	Austronesian	8Lembata	'ʔine	nan	nan	('mother', 'alor1247-baran', 'ʔina')	nan		
+198	father	keda1252	Kedang	Austronesian	8Lembata	'ʔame	nan	nan	"('father', 'alor1247-baran', ""'ʔama"")"	nan		
+199	older sibling	keda1252	Kedang	Austronesian	8Lembata	'tata	nan	nan	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	nan		
+200	younger sibling	keda1252	Kedang	Austronesian	8Lembata	ʔa'riʔ	nan	nan	('younger sibling', 'adan1251-otvai', 'di')	nan		
+201	bride price	keda1252	Kedang	Austronesian	8Lembata	'pae	nan	nan	"('bride price', 'keda1252', ""'pae"")"	nan		
+202	slave	keda1252	Kedang	Austronesian	8Lembata	ʔu'nan	nan	nan	"('slave', 'keda1252', ""ʔu'nan"")"	nan		
+203	1sg	keda1252	Kedang	Austronesian	8Lembata	ɛʔi	nan	nan	('1sg', 'amar1273-kotos', 'au')	nan		
+204	2sg (informal)	keda1252	Kedang	Austronesian	8Lembata	ɔː	nan	nan	"('2sg (informal)', 'alor1247-baran', ""'mɔ:"")"	nan		
+206	3sg	keda1252	Kedang	Austronesian	8Lembata	nuɔ	nan	nan	('3sg', 'amar1273-kotos', 'in')	nan		
+207	1pl excl	keda1252	Kedang	Austronesian	8Lembata	keː	nan	nan	"('1pl excl', 'alor1247-baran', ""'kame"")"	nan		
+208	1pl incl	keda1252	Kedang	Austronesian	8Lembata	teː	nan	nan	"('1pl incl', 'alor1247-baran', "",ʔi'tɛ"")"	nan		
+209	2pl	keda1252	Kedang	Austronesian	8Lembata	meː	nan	nan	"('2pl', 'alor1247-baran', "",mi_sa'kali"")"	nan		
+210	3pl	keda1252	Kedang	Austronesian	8Lembata	meː	nan	nan	('3pl', 'keda1252', 'meː')	nan		
+211	no; not	keda1252	Kedang	Austronesian	8Lembata	tɔn	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	('no; not', 'adan1251-otvai', 'haʔai')	nan		
+212	and	keda1252	Kedang	Austronesian	8Lembata	no're	nan	nan	('and', 'alor1247-baran', 'nɔ̃:')	nan		
+213	because	keda1252	Kedang	Austronesian	8Lembata	'ʔele	nan	nan	"('because', 'keda1252', ""'ʔele"")"	nan		
+214	if	keda1252	Kedang	Austronesian	8Lembata	ka'lau	nan	nan	"('if', 'keda1252', ""ka'lau"")"	nan		
+215	with	keda1252	Kedang	Austronesian	8Lembata	no're	nan	nan	('with', 'alor1247-baran', 'nɔ̃:')	nan		
+216	what?	keda1252	Kedang	Austronesian	8Lembata	a'pe	nan	nan	"('what?', 'keda1252', ""a'pe"")"	nan		
+217	who?	keda1252	Kedang	Austronesian	8Lembata	'sio	nan	nan	('who?', 'amar1273-kotos', 'sekau')	nan		
+218	where?	keda1252	Kedang	Austronesian	8Lembata	diʔ 'dita	nan	nan	"('where?', 'keda1252', ""diʔ_'dita"")"	nan		
+219	when?	keda1252	Kedang	Austronesian	8Lembata	wɛŋ 'pie	nan	nan	"('when?', 'keda1252', ""wɛŋ_'pie"")"	nan		
+220	why?	keda1252	Kedang	Austronesian	8Lembata	kua	nan	nan	('why?', 'keda1252', 'kua')	nan		
+221	how much; how many?	keda1252	Kedang	Austronesian	8Lembata	pie	nan	nan	('how much; how many?', 'alor1247-baran', 'pir:a')	nan		
+222	how?	keda1252	Kedang	Austronesian	8Lembata	nara 'bɔnɛ	nan	nan	"('how?', 'keda1252', ""nara_'bɔnɛ"")"	nan		
+223	this	keda1252	Kedang	Austronesian	8Lembata	'nɔʔɔ	nan	nan	"('this', 'keda1252', ""'nɔʔɔ"")"	nan		
+224	that	keda1252	Kedang	Austronesian	8Lembata	no'beʔ	nan	nan	"('that', 'keda1252', ""no'beʔ"")"	nan		
+225	at	keda1252	Kedang	Austronesian	8Lembata	diʔ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	('at', 'amar1273-kotos', 'n-bi')	nan		
+225	at	keda1252	Kedang	Austronesian	8Lembata	bɛʔ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	nan	('at', 'amar1273-kotos', 'n-bi')	nan		
+226	in; inside	keda1252	Kedang	Austronesian	8Lembata	bɛʔ	bɛʔ wetaʔ lalɛŋ= LOC house inside	nan	('in; inside', 'keda1252', 'bɛʔ')	nan		
+226	in; inside	keda1252	Kedang	Austronesian	8Lembata	bɛʔ 'lalɛŋ	bɛʔ wetaʔ lalɛŋ= LOC house inside	nan	('in; inside', 'adan1251-otvai', 'ʔɔm')	nan		
+227	here	keda1252	Kedang	Austronesian	8Lembata	diʔ 'nɔʔɔ	nan	nan	"('here', 'keda1252', ""diʔ_'nɔʔɔ"")"	nan		
+228	there	keda1252	Kedang	Austronesian	8Lembata	diʔ 'ʔɔjɔ	nan	nan	"('there', 'keda1252', ""diʔ_'ʔɔjɔ"")"	nan		
+229	above	keda1252	Kedang	Austronesian	8Lembata	diʔ 'ʔɔte	nan	nan	"('above', 'idat1237', ""hɛ_'houk"")"	nan		
+230	below	keda1252	Kedang	Austronesian	8Lembata	diʔ 'ʔɔle	nan	d i ʔ _ ˈʔ ɔ l e	"('below', 'keda1252', ""diʔ_'ʔɔle"")"	nan		
+231	left (side)	keda1252	Kedang	Austronesian	8Lembata	'weri	nan	ˈw e r i -	('left (side)', 'amar1273-kotos', 'ʔri:')	nan		
+232	right (side)	keda1252	Kedang	Austronesian	8Lembata	'wana	nan	ˈw a n a -	"('right (side)', 'keda1252', ""'wana"")"	nan		
+233	a few	keda1252	Kedang	Austronesian	8Lembata	ʔite	nan	ʔ i t e - -	('a few', 'adan1251-otvai', 'piteʔ')	nan		
+234	all	keda1252	Kedang	Austronesian	8Lembata	'rɛiʔ	nan	ˈr ɛ i ʔ	"('all', 'keda1252', ""'rɛiʔ"")"	nan		
+235	many	keda1252	Kedang	Austronesian	8Lembata	'rai	nan	ˈr a i	"('many', 'keda1252', ""'rai"")"	nan		
+236	animal	keda1252	Kedang	Austronesian	8Lembata	'ʔewaŋ	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	"('animal', 'keda1252', ""'ʔewaŋ"")"	nan		
+238	dog	keda1252	Kedang	Austronesian	8Lembata	au	nan	nan	('dog', 'keda1252', 'au')	nan		
+239	pig	keda1252	Kedang	Austronesian	8Lembata	'wawi	nan	nan	('pig', 'abui1241-fuime', 'fe')	nan		
+240	chicken	keda1252	Kedang	Austronesian	8Lembata	ma'nuʔ	nan	nan	"('chicken', 'keda1252', ""ma'nuʔ"")"	nan		
+241	rat	keda1252	Kedang	Austronesian	8Lembata	'tiu	nan	nan	"('rat', 'keda1252', ""'tiu"")"	nan		
+242	lizard	keda1252	Kedang	Austronesian	8Lembata	tɛ'kɛʔ	nan	nan	('lizard', 'abui1241-fuime', 'tekok')	nan		
+243	civet cat	keda1252	Kedang	Austronesian	8Lembata	la'ʔu	nan	nan	"('civet cat', 'alor1247-besar', ""'lako"")"	nan		
+244	deer	keda1252	Kedang	Austronesian	8Lembata	ru'ha	nan	nan	('deer', 'abui1241-takal', 'ä.jut')	nan		
+245	frog	keda1252	Kedang	Austronesian	8Lembata	tepatu'le	nan	nan	"('frog', 'keda1252', ""tepatu'le"")"	nan		
+246	bat	keda1252	Kedang	Austronesian	8Lembata	mi'ʔi	nan	nan	"('bat', 'alor1247-munas', ""'mikɛ"")"	nan		
+249	tail	keda1252	Kedang	Austronesian	8Lembata	ʔebɔ	nan	nan	('tail', 'keda1252', 'ʔebɔ')	nan		
+250	fish	keda1252	Kedang	Austronesian	8Lembata	iʔa	nan	nan	('fish', 'adon1237', 'ˈʔikã')	nan		
+251	shark	keda1252	Kedang	Austronesian	8Lembata	iʔa hiu	nan	nan	"('shark', 'alor1247-besar', ""'idʒo"")"	nan		
+252	whale	keda1252	Kedang	Austronesian	8Lembata	iʔa paus	nan	nan	('whale', 'keda1252', 'iʔa_paus')	nan		
+253	dolphin	keda1252	Kedang	Austronesian	8Lembata	iʔa lumba lumba	nan	nan	('dolphin', 'keda1252', 'iʔa_lumba_lumba')	nan		
+254	crocodile	keda1252	Kedang	Austronesian	8Lembata	bapa'juː	nan	nan	"('crocodile', 'alor1247-baran', ""'bapa"")"	nan		
+255	monitor lizard	keda1252	Kedang	Austronesian	8Lembata	rɛ'ti:	nan	nan	"('monitor lizard', 'keda1252', ""rɛ'ti:"")"	nan		
+257	turtle	keda1252	Kedang	Austronesian	8Lembata	ʔe're	nan	nan	"('turtle', 'alor1247-besar', ""'kea"")"	nan		
+258	turtle (saltwater)	keda1252	Kedang	Austronesian	8Lembata	ʔe're	nan	nan	"('turtle (saltwater)', 'alor1247-besar', ""'kea"")"	nan		
+259	bird	keda1252	Kedang	Austronesian	8Lembata	bu'ruŋ	nan	nan	"('bird', 'keda1252', ""bu'ruŋ"")"	nan		
+260	wing	keda1252	Kedang	Austronesian	8Lembata	a'piʔ	nan	nan	"('wing', 'keda1252', ""a'piʔ"")"	nan		
+261	claw	keda1252	Kedang	Austronesian	8Lembata	ka'ruŋ	nan	nan	"('claw', 'alor1247-besar', ""ga'raku"")"	nan		
+262	feather	keda1252	Kedang	Austronesian	8Lembata	u'run	nan	nan	"('feather', 'keda1252', ""u'run"")"	nan		
+263	horn	keda1252	Kedang	Austronesian	8Lembata	'woiʔ	nan	nan	"('horn', 'keda1252', ""'woiʔ"")"	nan		
+264	snake	keda1252	Kedang	Austronesian	8Lembata	u'lar	nan	nan	"('snake', 'alor1247-baran', ""ʔu'la"")"	nan		
+265	scorpion	keda1252	Kedang	Austronesian	8Lembata	'ela	nan	nan	"('scorpion', 'alor1247-besar', ""'ala"")"	nan		
+266	egg	keda1252	Kedang	Austronesian	8Lembata	tɔ'lɔr	nan	nan	"('egg', 'alor1247-baran', ""'taluk"")"	nan		
+267	earthworm	keda1252	Kedang	Austronesian	8Lembata	'todaŋ	nan	nan	"('earthworm', 'keda1252', ""'todaŋ"")"	nan		
+268	butterfly	keda1252	Kedang	Austronesian	8Lembata	'ʔebal	nan	nan	('butterfly', 'alor1249-sar-a', 'law_barbar')	nan		
+269	fly (n.)	keda1252	Kedang	Austronesian	8Lembata	'ʔubur	nan	nan	"('fly (n.)', 'fata1247', ""u'pur"")"	nan		
+270	mosquito	keda1252	Kedang	Austronesian	8Lembata	mɛ'miʔ	nan	nan	"('mosquito', 'keda1252', ""mɛ'miʔ"")"	nan		
+271	ant	keda1252	Kedang	Austronesian	8Lembata	mɛhi 'wilɛŋ	red ant, semut daun hijau, biɡ yellow ant 	nan	('ant', 'keda1252', 'lɛr')	nan		
+271	ant	keda1252	Kedang	Austronesian	8Lembata	ɛjɛʔ 'murun	red ant, semut daun hijau, biɡ yellow ant 	nan	"('ant', 'fata1247', ""ka'mini"")"	nan		
+271	ant	keda1252	Kedang	Austronesian	8Lembata	lɛr	red ant, semut daun hijau, biɡ yellow ant 	nan	('ant', 'keda1252', 'lɛr')	nan		
+272	grasshopper	keda1252	Kedang	Austronesian	8Lembata	waiʔ	nan	nan	('grasshopper', 'keda1252', 'waiʔ')	nan		
+274	spider	keda1252	Kedang	Austronesian	8Lembata	ɔwɛʔ ʔaɛʔ	nan	ɔ w ɛ ʔ _ ʔ a ɛ ʔ	('spider', 'keda1252', 'ɔwɛʔ_ʔaɛʔ')	nan		
+275	headlice	keda1252	Kedang	Austronesian	8Lembata	ʔutu	nan	ʔ u t u	"('headlice', 'alor1247-besar', ""'kuto"")"	nan		
+276	louse eggs	keda1252	Kedang	Austronesian	8Lembata	ʔutu 'ʔihɛn	nan	ʔ u t u _ ˈʔ i h ɛ n	"('louse eggs', 'alor1247-besar', ""'kuto_ka'lehã"")"	nan		
+277	mother louse	keda1252	Kedang	Austronesian	8Lembata	ʔutu 'inan	nan	ʔ u t u _ - ˈi n a n -	"('mother louse', 'alor1247-besar', ""'kuto_'inã"")"	nan		
+278	flea	keda1252	Kedang	Austronesian	8Lembata	'mɛlɛ	nan	- - ˈm ɛ l ɛ	('flea', 'blag1240-bama', 'tepela')	nan		
+279	louse (clothing)	keda1252	Kedang	Austronesian	8Lembata	'mɛlɛ	nan	ˈm ɛ l ɛ	('louse (clothing)', 'adan1251-lawah', 'nɛlɛ')	nan		
+280	bedbug	keda1252	Kedang	Austronesian	8Lembata	'maɛŋ	nan	nan	('bedbug', 'alor1249-sar-a', 'may')	nan		
+281	big	keda1252	Kedang	Austronesian	8Lembata	ri'aː	nan	nan	"('big', 'keda1252', ""ri'aː"")"	nan		
+282	small	keda1252	Kedang	Austronesian	8Lembata	u'tuː	nan	nan	"('small', 'keda1252', ""u'tuː"")"	nan		
+283	old; worn (house)	keda1252	Kedang	Austronesian	8Lembata	tu'an	nan	nan	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	nan		
+284	new (house)	keda1252	Kedang	Austronesian	8Lembata	wɛ'run	nan	nan	('new (house)', 'alor1247-baran', 'funɔ')	nan		
+285	old (people)	keda1252	Kedang	Austronesian	8Lembata	tua 'lahar	nan	nan	"('old (people)', 'alor1247-pandai', ""'tua"")"	nan		
+286	young (people)	keda1252	Kedang	Austronesian	8Lembata	anaʔ ʔabe 'rian	younɡ man, younɡ woman	nan	"('young (people)', 'keda1252', ""anaʔ_ʔabe_'rian"")"	nan		
+286	young (people)	keda1252	Kedang	Austronesian	8Lembata	arɛʔ wɛriʔ	younɡ man, younɡ woman	nan	('young (people)', 'keda1252', 'arɛʔ_wɛriʔ')	nan		
+287	lazy	keda1252	Kedang	Austronesian	8Lembata	pou	nan	nan	('lazy', 'keda1252', 'pou')	nan		
+288	hot	keda1252	Kedang	Austronesian	8Lembata	'pana	nan	nan	"('hot', 'idat1237', ""'panɑs"")"	nan		
+289	cold	keda1252	Kedang	Austronesian	8Lembata	'ʔɛmi	nan	nan	"('cold', 'keda1252', ""'ʔɛmi"")"	nan		
+290	good	keda1252	Kedang	Austronesian	8Lembata	diʔən	nan	nan	"('good', 'alor1247-baran', ""'dik:ɛ"")"	nan		
+291	bad	keda1252	Kedang	Austronesian	8Lembata	da'tɛn	nan	nan	"('bad', 'alor1247-baran', ""'datɛ"")"	nan		
+292	full	keda1252	Kedang	Austronesian	8Lembata	'pɛnu	nan	nan	"('full', 'alor1247-baran', ""'pan:ɔŋ"")"	nan		
+293	empty	keda1252	Kedang	Austronesian	8Lembata	'mɛtuŋ	nan	nan	"('empty', 'keda1252', ""'mɛtuŋ"")"	nan		
+294	near	keda1252	Kedang	Austronesian	8Lembata	de'hiʔ	nan	nan	"('near', 'alor1247-baran', ""'dah:ɛ"")"	nan		
+295	far	keda1252	Kedang	Austronesian	8Lembata	'doa	nan	nan	"('far', 'alor1247-baran', ""'ʤuaŋ"")"	nan		
+296	wet	keda1252	Kedang	Austronesian	8Lembata	ri'taʔ	nan	nan	"('wet', 'keda1252', ""ri'taʔ"")"	nan		
+297	dry	keda1252	Kedang	Austronesian	8Lembata	ma'jaʔ	nan	nan	"('dry', 'alor1247-baran', ""'mara"")"	nan		
+298	dry in sun	keda1252	Kedang	Austronesian	8Lembata	pa'riː	nan	nan	('dry in sun', 'adan1251-lawah', 'fɛd_poi')	nan		
+302	short (people)	keda1252	Kedang	Austronesian	8Lembata	wɛ'hɛʔ	nan	nan	"('short (people)', 'keda1252', ""wɛ'hɛʔ"")"	nan		
+303	thin (non-human)	keda1252	Kedang	Austronesian	8Lembata	'mipi	nan	nan	"('thin (non-human)', 'alor1247-besar', ""ma'nipi"")"	nan		
+304	skinny (human)	keda1252	Kedang	Austronesian	8Lembata	'piki	nan	nan	"('skinny (human)', 'keda1252', ""'piki"")"	nan		
+305	thick	keda1252	Kedang	Austronesian	8Lembata	'kapal	nan	nan	"('thick', 'alor1247-baran', ""'gapa"")"	nan		
+306	round	keda1252	Kedang	Austronesian	8Lembata	'ʔɔpaŋ	nan	nan	"('round', 'keda1252', ""'ʔɔpaŋ"")"	nan		
+307	dark	keda1252	Kedang	Austronesian	8Lembata	'mitɛŋ	nan	nan	"('dark', 'keda1252', ""'mitɛŋ"")"	nan		
+308	light	keda1252	Kedang	Austronesian	8Lembata	'nihɔ	nan	nan	"('light', 'keda1252', ""'nihɔ"")"	nan		
+309	dirty	keda1252	Kedang	Austronesian	8Lembata	'mitɛŋ	nan	nan	('dirty', 'amar1273-kotos', 'oe-metan')	nan		
+310	clean	keda1252	Kedang	Austronesian	8Lembata	ʔɛ'ŋar	nan	nan	"('clean', 'keda1252', ""ʔɛ'ŋar"")"	nan		
+311	sharp	keda1252	Kedang	Austronesian	8Lembata	dɛ'jɛʔ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	nan	"('sharp', 'keda1252', ""dɛ'jɛʔ"")"	nan		
+312	blunt; dull	keda1252	Kedang	Austronesian	8Lembata	lɛ'boʔ	nan	nan	('blunt; dull', 'amar1273-kotos', 'n-bufu')	nan		
+313	heavy	keda1252	Kedang	Austronesian	8Lembata	ba'raʔ	nan	nan	('heavy', 'alor1247-baran', 'ba:')	nan		
+314	light (weight)	keda1252	Kedang	Austronesian	8Lembata	ʔa'haʔ	nan	nan	"('light (weight)', 'keda1252', ""ʔa'haʔ"")"	nan		
+315	straight	keda1252	Kedang	Austronesian	8Lembata	'ʔɔlɔr	nan	nan	('straight', 'kama1365', 'sol')	nan		
+316	wide	keda1252	Kedang	Austronesian	8Lembata	mɛ'kuʔ	nan	nan	"('wide', 'keda1252', ""mɛ'kuʔ"")"	nan		
+318	correct	keda1252	Kedang	Austronesian	8Lembata	'muar	nan	nan	"('correct', 'alor1247-besar', ""'muro"")"	nan		
+319	wrong	keda1252	Kedang	Austronesian	8Lembata	'kehe	nan	nan	"('wrong', 'keda1252', ""'kehe"")"	nan		
+320	ripe	keda1252	Kedang	Austronesian	8Lembata	ta'ʔɛn	nan	nan	('ripe', 'adan1251-otvai', 'ten')	nan		
+321	rotten	keda1252	Kedang	Austronesian	8Lembata	bu'ruʔ	nan	nan	"('rotten', 'keda1252', ""bu'ruʔ"")"	nan		
+322	bitter	keda1252	Kedang	Austronesian	8Lembata	pɛiʔ	nan	nan	('bitter', 'keda1252', 'pɛiʔ')	nan		
+323	sweet	keda1252	Kedang	Austronesian	8Lembata	ɛ'ru	nan	nan	"('sweet', 'keda1252', ""ɛ'ru"")"	nan		
+324	sour	keda1252	Kedang	Austronesian	8Lembata	ki'ru	nan	nan	"('sour', 'keda1252', ""ki'ru"")"	nan		
+325	salty	keda1252	Kedang	Austronesian	8Lembata	pɛ'ju	nan	nan	"('salty', 'alor1247-besar', ""'parɔ"")"	nan		
+326	flat	keda1252	Kedang	Austronesian	8Lembata	na'poʔ	nan	n a ˈp o ʔ	"('flat', 'keda1252', ""na'poʔ"")"	nan		
+327	smooth	keda1252	Kedang	Austronesian	8Lembata	mɛ'luʔ	nan	- - m ɛ ˈl u ʔ	"('smooth', 'alor1247-besar', ""ha'melu"")"	nan		
+328	rough	keda1252	Kedang	Austronesian	8Lembata	ka'raŋ	nan	k a ˈr a ŋ	('rough', 'blag1240-tuntu', 'karátaŋ')	nan		
+329	black	keda1252	Kedang	Austronesian	8Lembata	'mitɛŋ	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	nan		
+330	white	keda1252	Kedang	Austronesian	8Lembata	bu'jaʔ	nan	b u ˈj a ʔ	"('white', 'alor1247-baran', ""'bur:a"")"	nan		
+331	red	keda1252	Kedang	Austronesian	8Lembata	pu'tuʔ	nan	nan	"('red', 'keda1252', ""pu'tuʔ"")"	nan		
+332	green	keda1252	Kedang	Austronesian	8Lembata	ta'ŋɛn	nan	nan	"('green', 'alor1247-munas', ""'taŋaŋ"")"	nan		
+333	blue	keda1252	Kedang	Austronesian	8Lembata	'biru	nan	ˈb i r u	('blue', 'amar1273-kotos', 'biru')	nan		
+334	yellow	keda1252	Kedang	Austronesian	8Lembata	ʔu'man	nan	nan	"('yellow', 'keda1252', ""ʔu'man"")"	nan		
+335	sick; painful	keda1252	Kedang	Austronesian	8Lembata	'lae	There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	nan	"('sick; painful', 'keda1252', ""'lae"")"	nan		
+336	shy; ashamed	keda1252	Kedang	Austronesian	8Lembata	ʔi'wiʔ	nan	nan	"('shy; ashamed', 'keda1252', ""ʔi'wiʔ"")"	nan		
+337	thirsty	keda1252	Kedang	Austronesian	8Lembata	ma'jaʔ	nan	nan	"('thirsty', 'alor1247-besar', ""'onɔŋ_'mara"")"	nan		
+338	hungry	keda1252	Kedang	Austronesian	8Lembata	ʔɔ'wan	nan	nan	"('hungry', 'keda1252', ""ʔɔ'wan"")"	nan		
+339	blind	keda1252	Kedang	Austronesian	8Lembata	ki'tiʔ	nan	nan	"('blind', 'keda1252', ""ki'tiʔ"")"	nan		
+340	deaf	keda1252	Kedang	Austronesian	8Lembata	'ʔɛbuʔ	nan	nan	('deaf', 'buna1278-bobon', 'buɁ')	nan		
+341	scared	keda1252	Kedang	Austronesian	8Lembata	'tauʔ	nan	nan	"('scared', 'alor1247-baran', ""'taku"")"	nan		
+342	angry	keda1252	Kedang	Austronesian	8Lembata	bu'rɛn	nan	nan	"('angry', 'keda1252', ""bu'rɛn"")"	nan		
+343	to see	keda1252	Kedang	Austronesian	8Lembata	'nui	nan	nan	('to see', 'alor1247-baran', 'hik:i')	nan		
+344	to hear	keda1252	Kedang	Austronesian	8Lembata	'dɛŋər	nan	nan	"('to hear', 'alor1247-baran', ""'daŋ:a"")"	nan		
+345	to smell	keda1252	Kedang	Austronesian	8Lembata	'naɛʔ	nan	nan	"('to smell', 'keda1252', ""'naɛʔ"")"	nan		
+346	to think	keda1252	Kedang	Austronesian	8Lembata	'pikir	nan	nan	"('to think', 'alor1247-baran', ""'pikir"")"	nan		
+347	to know	keda1252	Kedang	Austronesian	8Lembata	'nuan	nan	nan	"('to know', 'alor1247-besar', ""'koiŋ"")"	nan		
+348	to say	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	"('to say', 'kaer1234-obsol', ""wan_'tutuk"")"	nan		
+348	to say	keda1252	Kedang	Austronesian	8Lembata	tutuʔ	nan	- - - - t u t u ʔ _ ˈn a n a ŋ	('to say', 'keda1252', 'tutuʔ')	nan		
+349	to speak	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ	nan	- - - - - t u t u ʔ _ ˈn a n a ŋ	"('to speak', 'alor1247-baran', ""'tut:u"")"	nan		
+349	to speak	keda1252	Kedang	Austronesian	8Lembata	tutuʔ	nan	- - - - - t u t u ʔ _ ˈn a n a ŋ	"('to speak', 'alor1247-baran', ""'tut:u"")"	nan		
+350	voice	keda1252	Kedang	Austronesian	8Lembata	ʔɛuʔ	nan	nan	('voice', 'keda1252', 'ʔɛuʔ')	nan		
+351	language	keda1252	Kedang	Austronesian	8Lembata	bahasa	nan	nan	('language', 'keda1252', 'bahasa')	nan		
+352	to lie down	keda1252	Kedang	Austronesian	8Lembata	'hɛdaŋ	nan	nan	"('to lie down', 'keda1252', ""'hɛdaŋ"")"	nan		
+353	to sleep	keda1252	Kedang	Austronesian	8Lembata	'tɛʔɛl	nan	nan	"('to sleep', 'keda1252', ""'tɛʔɛl"")"	nan		
+354	to wake up	keda1252	Kedang	Austronesian	8Lembata	'hɔkɔ	nan	nan	"('to wake up', 'keda1252', ""'hɔkɔ"")"	nan		
+355	to wake someone up	keda1252	Kedang	Austronesian	8Lembata	'diju	nan	ˈd i j u	"('to wake someone up', 'keda1252', ""'diju"")"	nan		
+356	to bathe	keda1252	Kedang	Austronesian	8Lembata	'hɛbu	nan	ˈh ɛ b u	"('to bathe', 'alor1247-baran', ""'hab:ɔ"")"	nan		
+357	to bathe (a child)	keda1252	Kedang	Austronesian	8Lembata	'sɔrɔŋ 'hɛbu	nan	ˈs ɔ r ɔ ŋ _ ˈh ɛ b - - u	"('to bathe (a child)', 'alor1247-baran', ""'hab:ɔ_'anaŋ"")"	nan		
+358	to sit	keda1252	Kedang	Austronesian	8Lembata	te'beʔ	nan	t e ˈb e ʔ	"('to sit', 'keda1252', ""te'beʔ"")"	nan		
+359	to stand	keda1252	Kedang	Austronesian	8Lembata	'madɛr	nan	nan	"('to stand', 'keda1252', ""'madɛr"")"	nan		
+360	to walk	keda1252	Kedang	Austronesian	8Lembata	pɑn (lala)	nan	p ɑ n -	"('to walk', 'alor1247-baran', ""'pana"")"	nan		
+361	to run	keda1252	Kedang	Austronesian	8Lembata	'bɛjəŋ	nan	ˈb ɛ j ə ŋ	"('to run', 'keda1252', ""'bɛjəŋ"")"	nan		
+362	to go	keda1252	Kedang	Austronesian	8Lembata	pan	nan	p a n	('to go', 'keda1252', 'pan')	nan		
+363	to swim	keda1252	Kedang	Austronesian	8Lembata	'naŋi	nan	nan	"('to swim', 'alor1247-baran', ""'naŋgɛ"")"	nan		
+364	to fly	keda1252	Kedang	Austronesian	8Lembata	'baʔa	nan	nan	"('to fly', 'alor1247-baran', ""'bak:aŋ"")"	nan		
+365	to fall (from above)	keda1252	Kedang	Austronesian	8Lembata	mo'ruʔ	nan	nan	"('to fall (from above)', 'keda1252', ""mo'ruʔ"")"	nan		
+366	to fall over	keda1252	Kedang	Austronesian	8Lembata	'hubaʔ	e.g. pohon yang dipotong.	nan	"('to fall over', 'keda1252', ""'hubaʔ"")"	nan		
+367	to drop	keda1252	Kedang	Austronesian	8Lembata	mɔ'ruʔ	nan	nan	"('to drop', 'keda1252', ""mɔ'ruʔ"")"	nan		
+368	to drink	keda1252	Kedang	Austronesian	8Lembata	min	nan	nan	('to drink', 'adan1251-lawah', 'naʔ')	nan		
+369	to eat	keda1252	Kedang	Austronesian	8Lembata	kaː	nan	nan	('to eat', 'keda1252', 'kaː')	nan		
+370	to cook	keda1252	Kedang	Austronesian	8Lembata	iu 'daʔa	nan	nan	('to cook', 'keda1252', 'iu')	nan		
+370	to cook	keda1252	Kedang	Austronesian	8Lembata	iu	nan	nan	('to cook', 'keda1252', 'iu')	nan		
+371	to wash	keda1252	Kedang	Austronesian	8Lembata	ba'hiŋ	nan	nan	('to wash', 'alor1249-sar-a', '(uwam)_belí')	nan		
+372	to sew	keda1252	Kedang	Austronesian	8Lembata	hɛ'woŋ	nan	nan	"('to sew', 'keda1252', ""hɛ'woŋ"")"	nan		
+373	to live; be alive; living	keda1252	Kedang	Austronesian	8Lembata	'bita	nan	nan	('to live; be alive; living', 'adan1251-lawah', 'wɛcɛŋ')	nan		
+374	to breathe	keda1252	Kedang	Austronesian	8Lembata	'pɔhɔʔ	nan	nan	"('to breathe', 'keda1252', ""'pɔhɔʔ"")"	nan		
+375	to work	keda1252	Kedang	Austronesian	8Lembata	ka'rejaŋ	nan	nan	('to work', 'abui1241-takal', 'kär.je̞äŋ')	nan		
+376	to die	keda1252	Kedang	Austronesian	8Lembata	'mate	nan	nan	"('to die', 'alor1247-baran', ""'matɛ"")"	nan		
+377	to give	keda1252	Kedang	Austronesian	8Lembata	'sɔrɔŋ	nan	nan	"('to give', 'keda1252', ""'sɔrɔŋ"")"	nan		
+378	to wipe	keda1252	Kedang	Austronesian	8Lembata	pɔ'hɔʔ	nan	nan	('to wipe', 'keda1252', 'poho')	nan		
+379	to come	keda1252	Kedang	Austronesian	8Lembata	'adan	nan	nan	"('to come', 'keda1252', ""'adan"")"	nan		
+380	to laugh	keda1252	Kedang	Austronesian	8Lembata	'tawe	nan	nan	"('to laugh', 'keda1252', ""'tawe"")"	nan		
+381	to cry	keda1252	Kedang	Austronesian	8Lembata	ku'weʔ	nan	nan	('to cry', 'kabo1247', 'kəwéye')	nan		
+382	to dance	keda1252	Kedang	Austronesian	8Lembata	he'duŋ	nan	nan	"('to dance', 'keda1252', ""he'duŋ"")"	nan		
+383	to sing	keda1252	Kedang	Austronesian	8Lembata	la'liː	nan	nan	"('to sing', 'alor1247-baran', ""'bɔtɛ_'liaŋ"")"	nan		
+384	to burn (clear land)	keda1252	Kedang	Austronesian	8Lembata	paʔ (lumar)	lumar=ɡarden	nan	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	nan		
+385	to burn; to shine	keda1252	Kedang	Austronesian	8Lembata	duʔ 'ɔlɔr	duʔ=burn wood in kitchen	nan	"('to burn; to shine', 'keda1252', ""duʔ_'ɔlɔr"")"	nan		
+386	to shine	keda1252	Kedang	Austronesian	8Lembata	'ɔlɔr	nan	nan	"('to shine', 'alor1247-besar', ""'bɔlo"")"	nan		
+387	to chew	keda1252	Kedang	Austronesian	8Lembata	ma'mɛʔ	nan	nan	"('to chew', 'alor1247-besar', ""'mamɛ"")"	nan		
+388	to yawn	keda1252	Kedang	Austronesian	8Lembata	'moa	nan	nan	"('to yawn', 'keda1252', ""'moa"")"	nan		
+389	to suck	keda1252	Kedang	Austronesian	8Lembata	du'mɛʔ	nan	nan	"('to suck', 'alor1247-baran', ""'dum:ɔ"")"	nan		
+390	to blow	keda1252	Kedang	Austronesian	8Lembata	'puiʔ	nan	nan	('to blow', 'abui1241-fuime', 'furuŋra')	nan		
+391	to spit	keda1252	Kedang	Austronesian	8Lembata	pɔ'taʔ	ijuʔ=spit (n)	nan	"('to spit', 'keda1252', ""pɔ'taʔ"")"	nan		
+392	to vomit	keda1252	Kedang	Austronesian	8Lembata	ɔ'kaʔ	nan	nan	"('to vomit', 'keda1252', ""ɔ'kaʔ"")"	nan		
+393	to rub	keda1252	Kedang	Austronesian	8Lembata	pɔ'hɔʔ	nan	nan	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	nan		
+394	to scratch	keda1252	Kedang	Austronesian	8Lembata	'karɔ	nan	nan	('to scratch', 'alor1249-sar-a', 'kəra:b')	nan		
+395	itchy	keda1252	Kedang	Austronesian	8Lembata	ka'waʔ	nan	nan	"('itchy', 'keda1252', ""ka'waʔ"")"	nan		
+396	to swell	keda1252	Kedang	Austronesian	8Lembata	'babaŋ	nan	nan	"('to swell', 'alor1247-baran', ""'baɔ"")"	nan		
+397	to hit	keda1252	Kedang	Austronesian	8Lembata	pa'luʔ	nan	nan	"('to hit', 'keda1252', ""pa'luʔ"")"	nan		
+398	to slap	keda1252	Kedang	Austronesian	8Lembata	le'paʔ	E.g. to slap someone on the cheek; NOT to clap hands. 	nan	"('to slap', 'keda1252', ""le'paʔ"")"	nan		
+399	to bite	keda1252	Kedang	Austronesian	8Lembata	ki'ʔi	nan	nan	"('to bite', 'alor1247-baran', ""'gaki"")"	nan		
+400	to cut	keda1252	Kedang	Austronesian	8Lembata	pɛ'riʔ	nan	nan	('to cut', 'keda1252', 'bel')	nan		
+401	to cut down	keda1252	Kedang	Austronesian	8Lembata	ta'diʔ	nan	nan	"('to cut down', 'keda1252', ""ta'diʔ"")"	nan		
+402	to split	keda1252	Kedang	Austronesian	8Lembata	bɛ'tɛ	nan	nan	"('to split', 'alor1247-baran', ""'bat:a"")"	nan		
+403	to divide	keda1252	Kedang	Austronesian	8Lembata	bɔʔ	nan	nan	('to divide', 'keda1252', 'bɔʔ')	nan		
+404	to stab	keda1252	Kedang	Austronesian	8Lembata	'tuhuʔ	nan	nan	('to stab', 'adan1251-lawah', 'tɛʔɛ')	nan		
+405	to skewer	keda1252	Kedang	Austronesian	8Lembata	'tuhuʔ	nan	nan	"('to skewer', 'alor1247-besar', ""'tuhu"")"	nan		
+406	to fight	keda1252	Kedang	Austronesian	8Lembata	ʔawe 'wɛʔ	nan	nan	"('to fight', 'alor1247-baran', ""ka'laĩ_'fak:ĩ"")"	nan		
+407	to guard	keda1252	Kedang	Austronesian	8Lembata	'ʔewa	nan	nan	"('to guard', 'keda1252', ""'ʔewa"")"	nan		
+408	to throw	keda1252	Kedang	Austronesian	8Lembata	ka'kaʔ	nan	nan	"('to throw', 'keda1252', ""ka'kaʔ"")"	nan		
+409	to hunt	keda1252	Kedang	Austronesian	8Lembata	de'ruŋ	nan	nan	"('to hunt', 'keda1252', ""de'ruŋ"")"	nan		
+410	to kill	keda1252	Kedang	Austronesian	8Lembata	bel	nan	nan	('to kill', 'keda1252', 'bel')	nan		
+411	to chase away; to run after	keda1252	Kedang	Austronesian	8Lembata	de'huʔ	nan	nan	"('to chase away; to run after', 'keda1252', ""de'huʔ"")"	nan		
+413	to search for; to hunt for	keda1252	Kedang	Austronesian	8Lembata	ha'ba	nan	nan	"('to search for; to hunt for', 'keda1252', ""ha'ba"")"	nan		
+414	to dig	keda1252	Kedang	Austronesian	8Lembata	'kaɛl	nan	nan	"('to dig', 'keda1252', ""'kaɛl"")"	nan		
+415	to bury	keda1252	Kedang	Austronesian	8Lembata	'tanɛŋ	nan	nan	"('to bury', 'keda1252', ""'tanɛŋ"")"	nan		
+416	to flow	keda1252	Kedang	Austronesian	8Lembata	'kawaŋ	nan	nan	"('to flow', 'keda1252', ""'kawaŋ"")"	nan		
+417	to float	keda1252	Kedang	Austronesian	8Lembata	'baɔ	nan	nan	"('to float', 'keda1252', ""'baɔ"")"	nan		
+418	to freeze	keda1252	Kedang	Austronesian	8Lembata	waʔ	waʔ=water freezes; bute=coconut oil hardens	nan	"('to freeze', 'alor1247-baran', ""'fatɔ"")"	nan		
+419	to hold	keda1252	Kedang	Austronesian	8Lembata	mɛ'rɛʔ	nan	nan	('to hold', 'keda1252', 'mereʔ')	nan		
+420	to tie	keda1252	Kedang	Austronesian	8Lembata	'ujuŋ	nan	nan	"('to tie', 'keda1252', ""'ujuŋ"")"	nan		
+420	to tie	keda1252	Kedang	Austronesian	8Lembata	ho'ŋɛn	nan	nan	"('to tie', 'keda1252', ""ho'ŋɛn"")"	nan		
+421	to play	keda1252	Kedang	Austronesian	8Lembata	'huaŋ	nan	nan	('to play', 'amar1273-kotos', 'na-ʔbaʔe')	nan		
+422	to pull	keda1252	Kedang	Austronesian	8Lembata	'beʔ	nan	nan	"('to pull', 'keda1252', ""'beʔ"")"	nan		
+423	to push	keda1252	Kedang	Austronesian	8Lembata	'obaŋ	nan	nan	"('to push', 'keda1252', ""'obaŋ"")"	nan		
+424	to turn	keda1252	Kedang	Austronesian	8Lembata	'heaʔ	nan	nan	"('to turn', 'keda1252', ""'heaʔ"")"	nan		
+425	to dream	keda1252	Kedang	Austronesian	8Lembata	'nulur	nan	nan	"('to dream', 'keda1252', ""'nulur"")"	nan		
+426	to crouch; to bend over	keda1252	Kedang	Austronesian	8Lembata	'ʔɔmɔʔ	To crouch as on an Indonesian toilet, NOT: to kneel	nan	"('to crouch; to bend over', 'keda1252', ""'ʔɔmɔʔ"")"	nan		
+427	to live; to stay	keda1252	Kedang	Austronesian	8Lembata	'puaʔ	nan	nan	"('to live; to stay', 'keda1252', ""'puaʔ"")"	nan		
+428	to choose	keda1252	Kedang	Austronesian	8Lembata	pil	nan	nan	('to choose', 'keda1252', 'pil')	nan		
+429	to grow	keda1252	Kedang	Austronesian	8Lembata	'tawe	nan	nan	('to grow', 'blag1240-kulij', 'tappa')	nan		
+430	to squeeze	keda1252	Kedang	Austronesian	8Lembata	'ikuʔ	nan	nan	"('to squeeze', 'keda1252', ""'ikuʔ"")"	nan		
+431	to buy	keda1252	Kedang	Austronesian	8Lembata	ʔi'ʔer	nan	nan	"('to buy', 'keda1252', ""ʔi'ʔer"")"	nan		
+432	to sell	keda1252	Kedang	Austronesian	8Lembata	du'ruŋ	nan	nan	"('to sell', 'keda1252', ""du'ruŋ"")"	nan		
+433	to steal	keda1252	Kedang	Austronesian	8Lembata	ma'ʔɔ	nan	nan	"('to steal', 'keda1252', ""ma'ʔɔ"")"	nan		
+434	to open	keda1252	Kedang	Austronesian	8Lembata	bu'kaʔ	nan	nan	('to open', 'blag1240-kulij', 'bakuŋ')	nan		
+435	to close	keda1252	Kedang	Austronesian	8Lembata	lɛ'tuʔ	nan	nan	"('to close', 'keda1252', ""lɛ'tuʔ"")"	nan		
+436	to climb	keda1252	Kedang	Austronesian	8Lembata	kɛu	nan	nan	('to climb', 'keda1252', 'kɛu')	nan		
+437	to hide	keda1252	Kedang	Austronesian	8Lembata	'ʔoni	nan	nan	('to hide', 'abui1241-fuime', 'tabuŋ')	nan		
+438	to wait	keda1252	Kedang	Austronesian	8Lembata	tɔ'waŋ	nan	nan	"('to wait', 'keda1252', ""tɔ'waŋ"")"	nan		
+439	to fold	keda1252	Kedang	Austronesian	8Lembata	lɛ'piʔ	NOT: lipat tikar	nan	('to fold', 'adan1251-lawah', 'paliʔi')	nan		
+440	to help	keda1252	Kedang	Austronesian	8Lembata	po'hiŋ	nan	nan	"('to help', 'keda1252', ""po'hiŋ"")"	nan		
+441	to bark	keda1252	Kedang	Austronesian	8Lembata	bɔ'wɔŋ	nan	nan	"('to bark', 'keda1252', ""bɔ'wɔŋ"")"	nan		
+442	to shoot	keda1252	Kedang	Austronesian	8Lembata	pa'nɛ	nan	nan	"('to shoot', 'keda1252', ""pa'nɛ"")"	nan		
+443	to shoot with slingshot	keda1252	Kedang	Austronesian	8Lembata	pe'tiʔ	nan	nan	"('to shoot with slingshot', 'keda1252', ""pe'tiʔ"")"	nan		
+444	to pound; to beat	keda1252	Kedang	Austronesian	8Lembata	'bae	nan	nan	('to pound; to beat', 'amar1273-kotos', 'na-pau')	nan		
+445	to hit (drum)	keda1252	Kedang	Austronesian	8Lembata	pa'luʔ	nan	nan	"('to hit (drum)', 'keda1252', ""pa'luʔ"")"	nan		
+446	to call out	keda1252	Kedang	Austronesian	8Lembata	hi'ɔʔ	nan	nan	"('to call out', 'keda1252', ""hi'ɔʔ"")"	nan		
+447	to lie (tell untruth)	keda1252	Kedang	Austronesian	8Lembata	pa'dɛ	nan	nan	"('to lie (tell untruth)', 'keda1252', ""pa'dɛ"")"	nan		
+448	to ask (question)	keda1252	Kedang	Austronesian	8Lembata	da'haŋ	nan	nan	"('to ask (question)', 'keda1252', ""da'haŋ"")"	nan		
+449	to count	keda1252	Kedang	Austronesian	8Lembata	ka'rɛʔ	nan	nan	"('to count', 'keda1252', ""ka'rɛʔ"")"	nan		
+450	one	keda1252	Kedang	Austronesian	8Lembata	ʔu'deʔ	nan	nan	('one', 'amar1273-kotos', 'meseʔ')	nan		
+451	two	keda1252	Kedang	Austronesian	8Lembata	su'we	nan	nan	"('two', 'keda1252', ""su'we"")"	nan		
+452	three	keda1252	Kedang	Austronesian	8Lembata	telu	nan	nan	"('three', 'alor1247-baran', ""'tal:au"")"	nan		
+453	four	keda1252	Kedang	Austronesian	8Lembata	a'paʔ	nan	nan	('four', 'alor1247-baran', 'pa:')	nan		
+454	five	keda1252	Kedang	Austronesian	8Lembata	'lɛmɛ	nan	nan	"('five', 'alor1247-baran', ""'lɛm:a"")"	nan		
+455	six	keda1252	Kedang	Austronesian	8Lembata	'ɛnɛŋ	nan	nan	"('six', 'alor1247-baran', ""'nam:u"")"	nan		
+456	seven	keda1252	Kedang	Austronesian	8Lembata	'pitu	nan	nan	('seven', 'adan1251-lawah', 'wuitoʔ')	nan		
+457	eight	keda1252	Kedang	Austronesian	8Lembata	butu 'rai	nan	nan	"('eight', 'alor1247-baran', ""'but:ɔ"")"	nan		
+458	nine	keda1252	Kedang	Austronesian	8Lembata	leme 'apaʔ	nan	nan	"('nine', 'keda1252', ""leme_'apaʔ"")"	nan		
+459	ten	keda1252	Kedang	Austronesian	8Lembata	'pulu	nan	nan	"('ten', 'keda1252', ""'pulu"")"	nan		
+460	eleven	keda1252	Kedang	Austronesian	8Lembata	pulaʔ u'deʔ	nan	nan	('eleven', 'abui1241-fuime', 'wal_nuku')	nan		
+461	twelve	keda1252	Kedang	Austronesian	8Lembata	pulaʔ su'we	nan	nan	"('twelve', 'keda1252', ""pulaʔ_su'we"")"	nan		
+462	thirteen	keda1252	Kedang	Austronesian	8Lembata	pulaʔ 'tɛlu	nan	nan	"('thirteen', 'keda1252', ""pulaʔ_'tɛlu"")"	nan		
+463	fourteen	keda1252	Kedang	Austronesian	8Lembata	pulaʔ 'apaʔ	nan	nan	('fourteen', 'adan1251-otvai', 'ernu_faliŋ_ut')	nan		
+464	fifteen	keda1252	Kedang	Austronesian	8Lembata	pulaʔ 'lɛmɛ	nan	nan	('fifteen', 'adan1251-otvai', 'ernu_faliŋ_ifihiŋ')	nan		
+465	sixteen	keda1252	Kedang	Austronesian	8Lembata	pulaʔ 'ɛnɛŋ	nan	nan	('sixteen', 'adan1251-otvai', 'ernu_faliŋ_tala:ŋ')	nan		
+466	seventeen	keda1252	Kedang	Austronesian	8Lembata	pulaʔ 'pitu	nan	nan	('seventeen', 'adan1251-otvai', 'ernu_faliŋ_itito')	nan		
+467	eighteen	keda1252	Kedang	Austronesian	8Lembata	pulaʔ butu 'rai	nan	nan	('eighteen', 'adan1251-otvai', 'ernu_faliŋ_turlɔ')	nan		
+468	nineteen	keda1252	Kedang	Austronesian	8Lembata	pulaʔ leme 'apaʔ	nan	nan	('nineteen', 'adan1251-otvai', 'ernu_faliŋ_tieinu')	nan		
+469	twenty	keda1252	Kedang	Austronesian	8Lembata	purun 'suwe	nan	nan	"('twenty', 'keda1252', ""purun_'suwe"")"	nan		
+470	twenty one	keda1252	Kedang	Austronesian	8Lembata	purun suwe ilaʔ wudeʔ	nan	nan	('twenty one', 'keda1252', 'purun_suwe_ilaʔ_wudeʔ')	nan		
+471	twenty two	keda1252	Kedang	Austronesian	8Lembata	purun suwe ilaʔ suwe	nan	nan	('twenty two', 'adan1251-otvai', 'eralɔ_faliŋ_alɔ')	nan		
+472	twenty three	keda1252	Kedang	Austronesian	8Lembata	purun suwe ilaʔ tɛlu	nan	nan	('twenty three', 'adan1251-otvai', 'eralɔ_faliŋ_tɔu')	nan		
+473	twenty four	keda1252	Kedang	Austronesian	8Lembata	purun suwe ilaʔ apaʔ	nan	nan	('twenty four', 'adan1251-otvai', 'eralɔ_faliŋ_ut')	nan		
+474	twenty five	keda1252	Kedang	Austronesian	8Lembata	purun suwe ilaʔ lɛmɛ	nan	nan	('twenty five', 'adan1251-otvai', 'eralɔ_faliŋ_ifihiŋ')	nan		
+475	thirty	keda1252	Kedang	Austronesian	8Lembata	purun tɛlu	nan	nan	('thirty', 'amar1273-kotos', 'boʔ_tenu')	nan		
+476	forty	keda1252	Kedang	Austronesian	8Lembata	purun apaʔ	nan	nan	('forty', 'adan1251-otvai', 'er_ut')	nan		
+477	fifty	keda1252	Kedang	Austronesian	8Lembata	purun lemɛ	nan	nan	('fifty', 'adan1251-otvai', 'er_ifihiŋ')	nan		
+478	sixty	keda1252	Kedang	Austronesian	8Lembata	purun ɛnɛŋ	nan	nan	('sixty', 'adan1251-otvai', 'er_tala:ŋ')	nan		
+479	seventy	keda1252	Kedang	Austronesian	8Lembata	purun pitu	nan	nan	('seventy', 'adan1251-otvai', 'er_itito')	nan		
+480	eighty	keda1252	Kedang	Austronesian	8Lembata	purun butu 'rai	nan	nan	"('eighty', 'keda1252', ""purun_butu_'rai"")"	nan		
+481	ninety	keda1252	Kedang	Austronesian	8Lembata	purun leme 'apaʔ	nan	nan	"('ninety', 'keda1252', ""purun_leme_'apaʔ"")"	nan		
+482	one hundred	keda1252	Kedang	Austronesian	8Lembata	ratuʔ ʔudeʔ	nan	nan	('one hundred', 'keda1252', 'ratuʔ_ʔudeʔ')	nan		
+483	one hundred and twenty three	keda1252	Kedang	Austronesian	8Lembata	ratuʔ ʔudeʔ purun suwe ilaʔ tɛlu	nan	nan	('one hundred and twenty three', 'abui1241-fuime', 'aisaha_nuku_kar_aijoku_wal_sua')	nan		
+484	two hundred	keda1252	Kedang	Austronesian	8Lembata	ratuʔ suwe	nan	nan	('two hundred', 'adan1251-lawah', 'ratalu')	nan		
+485	thousand	keda1252	Kedang	Austronesian	8Lembata	ribu	nan	nan	('thousand', 'keda1252', 'ribu')	nan		
+486	one hundred thousand	keda1252	Kedang	Austronesian	8Lembata	seratus ribu	nan	nan	('one hundred thousand', 'keda1252', 'seratus_ribu')	nan		
+487	grandmother	keda1252	Kedang	Austronesian	8Lembata	ʔepu ʔarian	The kinship task also asks for this term	nan	('grandmother', 'keda1252', 'ʔepu_ʔarian')	nan		
+488	grandfather	keda1252	Kedang	Austronesian	8Lembata	ʔepu anaʔ abe	The kinship task also asks for this term	nan	('grandfather', 'keda1252', 'ʔepu_anaʔ_abe')	nan		
+489	grandchild	keda1252	Kedang	Austronesian	8Lembata	anaʔ	The kinship task also asks for this term	nan	('grandchild', 'keda1252', 'anaʔ')	nan		
+490	mother's brother	keda1252	Kedang	Austronesian	8Lembata	epu	The kinship task also asks for this term	nan	"(""mother's brother"", 'adan1251-otvai', 'omaŋsel')"	nan		
+491	nephew; niece	keda1252	Kedang	Austronesian	8Lembata	anaʔ	The kinship task also asks for this term	nan	('nephew; niece', 'keda1252', 'anaʔ')	nan		
+492	older brother	keda1252	Kedang	Austronesian	8Lembata	aʔe	The kinship task also asks for this term	nan	('older brother', 'buna1278-bobon', 'khaɁa')	nan		
+493	older sister	keda1252	Kedang	Austronesian	8Lembata	aʔe	The kinship task also asks for this term	nan	('older sister', 'keda1252', 'aʔe')	nan		
+494	sister	keda1252	Kedang	Austronesian	8Lembata	aʔe	aʔe kakak, ariʔ adik; The kinship task also asks for this term	a ʔ e	('sister', 'keda1252', 'aʔe')	nan		
+494	sister	keda1252	Kedang	Austronesian	8Lembata	ariʔ	aʔe kakak, ariʔ adik; The kinship task also asks for this term	a ʔ e	('sister', 'keda1252', 'ariʔ')	nan		
+496	woman's younger sister	keda1252	Kedang	Austronesian	8Lembata	ariʔ	The kinship task also asks for this term	- a r i ʔ	"(""woman's younger sister"", 'keda1252', 'ariʔ')"	nan		
+497	younger brother	keda1252	Kedang	Austronesian	8Lembata	ariʔ	The kinship task also asks for this term	- a r i ʔ	('younger brother', 'amar1273-kotos', 'ori-f')	nan		
+498	brother	keda1252	Kedang	Austronesian	8Lembata	aʔe	The kinship task also asks for this term	a ʔ e	('brother', 'keda1252', 'aʔe')	nan		
+498	brother	keda1252	Kedang	Austronesian	8Lembata	ariʔ	The kinship task also asks for this term	a ʔ e	('brother', 'keda1252', 'ariʔ')	nan		
+499	brother-in-law	keda1252	Kedang	Austronesian	8Lembata	aʔe	The kinship task also asks for this term	#NAME?	('brother-in-law', 'keda1252', 'aʔe')	nan		
+499	brother-in-law	keda1252	Kedang	Austronesian	8Lembata	ariʔ	The kinship task also asks for this term	#NAME?	('brother-in-law', 'keda1252', 'ariʔ')	nan		
+500	cross-cousin	keda1252	Kedang	Austronesian	8Lembata	ine ame	ine ame (m)	i n e _ a m e	('cross-cousin', 'keda1252', 'ine_ame')	nan		
+500	cross-cousin	keda1252	Kedang	Austronesian	8Lembata	mahan	mahan (f)	i n e _ a m e	('cross-cousin', 'keda1252', 'mahan')	nan		
+501	father's sister	keda1252	Kedang	Austronesian	8Lembata	binen	The kinship task also asks for this term	b i n e n	"(""father's sister"", 'keda1252', 'binen')"	nan		
+502	ridge(pole); peak; tip	keda1252	Kedang	Austronesian	8Lembata	'wɔlar	nan	ˈw ɔ l a r	"('ridge(pole); peak; tip', 'keda1252', ""'wɔlar"")"	nan		
+503	rack(above hearth/for storing food)	keda1252	Kedang	Austronesian	8Lembata	rak	There may be two types, a high one (for e.g. storage) and a lower one; if so, elicit both.	r a k - - -	"('rack(above hearth/for storing food)', 'fata1247', ""ra'kani"")"	nan		
+504	broom; sweep	keda1252	Kedang	Austronesian	8Lembata	naɛŋ	nan	n a ɛ ŋ	('broom; sweep', 'keda1252', 'naɛŋ')	nan		
+507	meeting house	keda1252	Kedang	Austronesian	8Lembata	weta riaŋ	cultural features answer to question 3.2	w e t a _ r i - a ŋ	('meeting house', 'keda1252', 'weta_riaŋ')	nan		
+508	floor	keda1252	Kedang	Austronesian	8Lembata	'lante	nan	- - ˈl a n t - e	"('floor', 'fata1247', ""su'mɛnti"")"	nan		
+509	wall	keda1252	Kedang	Austronesian	8Lembata	nɛ'biʔ	nan	n ɛ - - ˈb i ʔ	"('wall', 'keda1252', ""nɛ'biʔ"")"	nan		
+510	window	keda1252	Kedang	Austronesian	8Lembata	dʒən'dela	nan	nan	('window', 'adan1251-otvai', 'sanele')	nan		
+511	cookhouse; kitchen	keda1252	Kedang	Austronesian	8Lembata	lian 'matan	nan	nan	('cookhouse; kitchen', 'adan1251-otvai', 'dapur')	nan		
+512	bed	keda1252	Kedang	Austronesian	8Lembata	'lipu	nan	nan	('bed', 'adan1251-otvai', 'de’')	nan		
+513	chair	keda1252	Kedang	Austronesian	8Lembata	'kursi	nan	nan	('chair', 'adan1251-otvai', 'kadere')	nan		
+514	lamp	keda1252	Kedang	Austronesian	8Lembata	pə'lita	nan	nan	('lamp', 'adan1251-otvai', 'lampu')	nan		
+515	candle	keda1252	Kedang	Austronesian	8Lembata	'lilin	nan	nan	"('candle', 'abui1241-takal', ""'li.lin"")"	nan		
+516	to weave	keda1252	Kedang	Austronesian	8Lembata	nekeʔ 'tan	nan	nan	('to weave', 'adan1251-otvai', 'deu')	nan		
+517	shirt	keda1252	Kedang	Austronesian	8Lembata	'labor	nan	nan	('shirt', 'adan1251-otvai', 'kod')	nan		
+518	necklace	keda1252	Kedang	Austronesian	8Lembata	baŋ	nan	nan	('necklace', 'adan1251-otvai', 'ba')	nan		
+519	earring	keda1252	Kedang	Austronesian	8Lembata	anti	nan	nan	('earring', 'adan1251-otvai', 'falofaŋ')	nan		
+520	trousers	keda1252	Kedang	Austronesian	8Lembata	deko 'lawan	nan	nan	('trousers', 'adan1251-otvai', 'dekolai')	nan		
+521	sarong (women)	keda1252	Kedang	Austronesian	8Lembata	'wela	nan	nan	('sarong (women)', 'adan1251-otvai', 'salim_eŋ')	nan		
+523	thread	keda1252	Kedang	Austronesian	8Lembata	bə'naŋ	nan	nan	('thread', 'adan1251-otvai', 'ab')	nan		
+524	to worship	keda1252	Kedang	Austronesian	8Lembata	sɑm'beʔaŋ	nan	nan	('to worship', 'adan1251-otvai', 'aʔome')	nan		
+525	holy	keda1252	Kedang	Austronesian	8Lembata	'sutʃi	nan	nan	('holy', 'adan1251-otvai', 'bolaŋ')	nan		
+526	to bless	keda1252	Kedang	Austronesian	8Lembata	'bərkat	nan	nan	"('to bless', 'keda1252', ""'bərkat"")"	nan		
+527	God	keda1252	Kedang	Austronesian	8Lembata	tuaŋ'ala	nan	nan	"('God', 'keda1252', ""tuaŋ'ala"")"	nan		
+528	to pray	keda1252	Kedang	Austronesian	8Lembata	ber'doa	nan	nan	"('to pray', 'keda1252', ""ber'doa"")"	nan		
+529	church	keda1252	Kedang	Austronesian	8Lembata	ɡə'rɛdʒa	nan	nan	"('church', 'keda1252', ""ɡə'rɛdʒa"")"	nan		
+530	mosque	keda1252	Kedang	Austronesian	8Lembata	ma'siŋki	nan	nan	"('mosque', 'keda1252', ""ma'siŋki"")"	nan		
+531	to curse	keda1252	Kedang	Austronesian	8Lembata	ʔɔ'laʔ	nan	nan	"('to curse', 'keda1252', ""ʔɔ'laʔ"")"	nan		
+532	priest (modern)	keda1252	Kedang	Austronesian	8Lembata	'ʔimaŋ	nan	nan	"('priest (modern)', 'keda1252', ""'ʔimaŋ"")"	nan		
+533	sorcerer; witch	keda1252	Kedang	Austronesian	8Lembata	'mɔlan	nan	nan	"('sorcerer; witch', 'keda1252', ""'mɔlan"")"	nan		
+535	sermon	keda1252	Kedang	Austronesian	8Lembata	'xɔtbɑh	nan	ˈx ɔ t b ɑ h	"('sermon', 'keda1252', ""'xɔtbɑh"")"	nan		
+536	sacrifice	keda1252	Kedang	Austronesian	8Lembata	'kɔrbɑn	nan	ˈk ɔ r - b ɑ n	"('sacrifice', 'fata1247', ""ku'lupa"")"	nan		
+537	clan	keda1252	Kedang	Austronesian	8Lembata	'suku	nan	ˈs u k u	"('clan', 'keda1252', ""'suku"")"	nan		
+538	chieftain	keda1252	Kedang	Austronesian	8Lembata	'ʔaʔe 'ame	nan	ˈʔ a ʔ e _ ˈa m e	"('chieftain', 'keda1252', ""'ʔaʔe_'ame"")"	nan		
+539	to rule or govern	keda1252	Kedang	Austronesian	8Lembata	pa'rɛnta	nan	p a ˈr ɛ n t a - - - -	('to rule or govern', 'adan1251-otvai', 'parentapuin')	nan		
+540	treaty	keda1252	Kedang	Austronesian	8Lembata	bɛlɑn bajɑn	Alliance between Kedang-Marica: Uwa raya=Marica + Alor; Pitang raya= Kedang. It is a brotherhood (kakak/adik) relation.; E.g. perjanjian antara dua suku untuk tidak berperang	b ɛ l ɑ n _ b a j ɑ n	('treaty', 'keda1252', 'bɛlɑn_bajɑn')	nan		
+541	marriage	keda1252	Kedang	Austronesian	8Lembata	kuʔ'wɛʔ	nan	k u ʔ ˈw ɛ ʔ	"('marriage', 'keda1252', ""kuʔ'wɛʔ"")"	nan		
+542	friend	keda1252	Kedang	Austronesian	8Lembata	'niruŋ	nan	ˈn i - - r u ŋ -	"('friend', 'keda1252', ""'niruŋ"")"	nan		
+543	enemy	keda1252	Kedang	Austronesian	8Lembata	'musuh	nan	ˈm u s u h	"('enemy', 'keda1252', ""'musuh"")"	nan		
+544	king; ruler	keda1252	Kedang	Austronesian	8Lembata	'radʒa	nan	ˈr a dʒ a	"('king; ruler', 'keda1252', ""'radʒa"")"	nan		
+545	stranger	keda1252	Kedang	Austronesian	8Lembata	'tamu	nan	ˈt a m u	"('stranger', 'keda1252', ""'tamu"")"	nan		
+546	to invite	keda1252	Kedang	Austronesian	8Lembata	'ʔundaŋ	nan	nan	"('to invite', 'keda1252', ""'ʔundaŋ"")"	nan		
+547	to command or order	keda1252	Kedang	Austronesian	8Lembata	'hɔiŋ	nan	( - - ) - - ˈh ɔ i ŋ	('to command or order', 'adan1251-otvai', 'ahou')	nan		
+548	dowry	keda1252	Kedang	Austronesian	8Lembata	tɔdaʔ 'bare	nan	nan	"('dowry', 'keda1252', ""tɔdaʔ_'bare"")"	nan		
+549	the judge	keda1252	Kedang	Austronesian	8Lembata	ha'kim	nan	nan	"('the judge', 'keda1252', ""ha'kim"")"	nan		
+550	accuse	keda1252	Kedang	Austronesian	8Lembata	'ɔrɔʔ	nan	nan	"('accuse', 'keda1252', ""'ɔrɔʔ"")"	nan		
+551	guilty	keda1252	Kedang	Austronesian	8Lembata	'kehe	nan	ˈk e h e - -	"('guilty', 'keda1252', ""'kehe"")"	nan		
+552	innocent	keda1252	Kedang	Austronesian	8Lembata	ɔhaʔ 'kehe	nan	nan	"('innocent', 'keda1252', ""ɔhaʔ_'kehe"")"	nan		
+553	the murder	keda1252	Kedang	Austronesian	8Lembata	bɛ'lɔʔ	nan	nan	"('the murder', 'keda1252', ""bɛ'lɔʔ"")"	nan		
+555	penalty	keda1252	Kedang	Austronesian	8Lembata	ale	nan	nan	('penalty', 'keda1252', 'ale')	nan		
+556	fishnet	keda1252	Kedang	Austronesian	8Lembata	pueʔ	nan	nan	('fishnet', 'keda1252', 'pueʔ')	nan		
+558	to defend	keda1252	Kedang	Austronesian	8Lembata	li'kɔʔ	nan	nan	"('to defend', 'keda1252', ""li'kɔʔ"")"	nan		
+559	the war or battle	keda1252	Kedang	Austronesian	8Lembata	ʔawe'wɛʔ	nan	nan	"('the war or battle', 'keda1252', ""ʔawe'wɛʔ"")"	nan		
+560	poor	keda1252	Kedang	Austronesian	8Lembata	'tɔkɔŋ	nan	nan	"('poor', 'keda1252', ""'tɔkɔŋ"")"	nan		
+561	rich	keda1252	Kedang	Austronesian	8Lembata	'kaja	nan	nan	"('rich', 'keda1252', ""'kaja"")"	nan		
+562	money	keda1252	Kedang	Austronesian	8Lembata	'duiʔ	nan	nan	"('money', 'keda1252', ""'duiʔ"")"	nan		
+563	market	keda1252	Kedang	Austronesian	8Lembata	ul	nan	nan	('market', 'keda1252', 'ul')	nan		
+564	price	keda1252	Kedang	Austronesian	8Lembata	'welin	nan	nan	"('price', 'keda1252', ""'welin"")"	nan		
+565	to own	keda1252	Kedang	Austronesian	8Lembata	'neʔe	nan	nan	"('to own', 'keda1252', ""'neʔe"")"	nan		
+566	to borrow	keda1252	Kedang	Austronesian	8Lembata	bi'heʔ	nan	nan	"('to borrow', 'keda1252', ""bi'heʔ"")"	nan		
+567	to trade or barter	keda1252	Kedang	Austronesian	8Lembata	'duruŋ	nan	nan	"('to trade or barter', 'keda1252', ""'duruŋ"")"	nan		
+568	expensive	keda1252	Kedang	Austronesian	8Lembata	'welin	nan	nan	"('expensive', 'keda1252', ""'welin"")"	nan		
+569	cheap	keda1252	Kedang	Austronesian	8Lembata	'mura	nan	nan	"('cheap', 'keda1252', ""'mura"")"	nan		
+570	to grasp	keda1252	Kedang	Austronesian	8Lembata	tɔ'bɔl	nan	nan	"('to grasp', 'keda1252', ""tɔ'bɔl"")"	nan		
+571	to let go	keda1252	Kedang	Austronesian	8Lembata	'bele	nan	nan	"('to let go', 'keda1252', ""'bele"")"	nan		
+572	to promise	keda1252	Kedang	Austronesian	8Lembata	'dʒɑndʒi	nan	nan	"('to promise', 'keda1252', ""'dʒɑndʒi"")"	nan		
+573	word	keda1252	Kedang	Austronesian	8Lembata	tɛ'hɛʔ	nan	nan	"('word', 'keda1252', ""tɛ'hɛʔ"")"	nan		
+574	to answer	keda1252	Kedang	Austronesian	8Lembata	'hɔlɔ	nan	nan	"('to answer', 'keda1252', ""'hɔlɔ"")"	nan		
+575	to refuse	keda1252	Kedang	Austronesian	8Lembata	'daɛʔ	nan	nan	"('to refuse', 'keda1252', ""'daɛʔ"")"	nan		
+576	to whisper	keda1252	Kedang	Austronesian	8Lembata	'tihir	nan	nan	"('to whisper', 'keda1252', ""'tihir"")"	nan		
+577	to be silent	keda1252	Kedang	Austronesian	8Lembata	'ʔere	nan	nan	"('to be silent', 'keda1252', ""'ʔere"")"	nan		
+578	to tell	keda1252	Kedang	Austronesian	8Lembata	tutuʔ 'nanaŋ	nan	nan	"('to tell', 'keda1252', ""tutuʔ_'nanaŋ"")"	nan		
+579	to learn	keda1252	Kedang	Austronesian	8Lembata	'basa	nan	nan	"('to learn', 'keda1252', ""'basa"")"	nan		
+580	to teach	keda1252	Kedang	Austronesian	8Lembata	'ʔadʒar	nan	nan	"('to teach', 'keda1252', ""'ʔadʒar"")"	nan		
+581	easy	keda1252	Kedang	Austronesian	8Lembata	'ɡampaŋ	nan	nan	"('easy', 'keda1252', ""'ɡampaŋ"")"	nan		
+582	difficult	keda1252	Kedang	Austronesian	8Lembata	'sulit	nan	nan	"('difficult', 'keda1252', ""'sulit"")"	nan		
+583	finished	keda1252	Kedang	Austronesian	8Lembata	'bahe	nan	nan	"('finished', 'keda1252', ""'bahe"")"	nan		
+584	now	keda1252	Kedang	Austronesian	8Lembata	dɛʔ'nɔʔ	nan	nan	"('now', 'keda1252', ""dɛʔ'nɔʔ"")"	nan		
+584	now	keda1252	Kedang	Austronesian	8Lembata	dɛʔ'nɔʔɔ	nan	nan	"('now', 'keda1252', ""dɛʔ'nɔʔɔ"")"	nan		
+585	hour	keda1252	Kedang	Austronesian	8Lembata	dʒam	nan	nan	('hour', 'keda1252', 'dʒam')	nan		
+586	same	keda1252	Kedang	Austronesian	8Lembata	'hama	nan	nan	"('same', 'keda1252', ""'hama"")"	nan		
+587	oven/cooking place	keda1252	Kedang	Austronesian	8Lembata	ni'maʔ	nan	nan	"('oven/cooking place', 'keda1252', ""ni'maʔ"")"	nan		
+588	flower (in e.g. mangga tree)	keda1252	Kedang	Austronesian	8Lembata	pu'hun	nan	nan	('flower (in e.g. mangga tree)', 'adan1251-otvai', 'ti_buŋ')	nan		
+589	vein	keda1252	Kedang	Austronesian	8Lembata	a'li	nan	a ˈl - - i -	('vein', 'adan1251-otvai', 'taru')	nan		
+590	long (stick)	keda1252	Kedang	Austronesian	8Lembata	la'waː	nan	- - l a ˈw aː	('long (stick)', 'adan1251-lawah', 'low')	nan		
+591	tall (person)	keda1252	Kedang	Austronesian	8Lembata	la'ʔiː	nan	l a ˈʔ iː	"('tall (person)', 'keda1252', ""la'ʔiː"")"	nan		
+592	short (stick)	keda1252	Kedang	Austronesian	8Lembata	mɛ'kuʔ	nan	nan	"('short (stick)', 'alor1247-baran', ""'mak:u"")"	nan		
+593	narrow (road)	keda1252	Kedang	Austronesian	8Lembata	i'peʔ	Not: rumah sempit (crowded'small house), or pakaian sempit (clothes that are too tight).	nan	"('narrow (road)', 'alor1247-baran', ""ki'p:ɛ"")"	nan		
+598	to chase away; to expel	keda1252	Kedang	Austronesian	8Lembata	ho'riʔ	nan	nan	"('to chase away; to expel', 'keda1252', ""ho'riʔ"")"	nan		
