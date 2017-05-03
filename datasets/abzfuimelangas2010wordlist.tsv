@@ -6,7 +6,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 4	night	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	tuŋtama	nan	nan	('night', 'abui1241-fuime', 'tuŋtama')	nan		
 5	day	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	tadeŋ	nan	nan	('day', 'abui1241-fuime', 'tadeŋ')	nan		
 7	morning	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	akuni	nan	nan	('morning', 'abui1241-fuime', 'akuni')	nan		
-8	yesterday	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	tuona:	nan	nan	('yesterday', 'abui1241-fuime', 'tuona:')	nan		
+8	yesterday	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	tuona:	nan	nan	('because', 'pmpacd', '*ba')	nan		
 9	day before yesterday	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	hetadeŋ ayoku	nan	nan	('day before yesterday', 'abui1241-fuime', 'hetadeŋ_ayoku')	nan		
 10	tomorrow	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	akuni	nan	nan	('tomorrow', 'abui1241-fuime', 'akuni')	nan		
 11	day after tomorrow	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	ayoku	nan	nan	('day after tomorrow', 'abui1241-fuime', 'ayoku')	nan		
@@ -76,7 +76,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 102	betel nut; areca	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	fu	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	nan		
 103	betel vine	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	me:tiŋ	nan	nan	('betel vine', 'abui1241-fuime', 'me:tiŋ')	nan		
 104	lime	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	awai	nan	nan	('lime', 'abui1241-fuime', 'awai')	nan		
-105	chew betel	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	fu take	nan	nan	('chew betel', 'abui1241-fuime', 'fu_take')	nan		
+105	chew betel	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	fu take	nan	nan	('bamboo', 'lama1277-kalik', 'bəˈlaŋ')	nan		
 106	sweet potato	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	moŋko	nan	nan	('sweet potato', 'abui1241-fuime', 'moŋko')	nan		
 107	cassava	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	bata:ko	nan	nan	('cassava', 'abui1241-fuime', 'bata:ko')	nan		
 108	taro	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	kari	nan	nan	('taro', 'abui1241-fuime', 'kari')	nan		
@@ -271,7 +271,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381	to cry	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	biakda	nan	nan	('to cry', 'abui1241-fuime', 'biakda')	nan		
 382	to dance	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	tohaijok	nan	nan	('to dance', 'abui1241-fuime', 'tohaijok')	nan		
 383	to sing	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	yai wefaŋa	nan	nan	('to sing', 'abui1241-fuime', 'yai_wefaŋa')	nan		
-385	to burn; to shine	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	hiede	nan	nan	('to burn; to shine', 'abui1241-fuime', 'hiede')	nan		
+385	to burn; to shine	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	hiede	nan	nan	('cloud', 'lama1277-horow', 'abak')	nan		
 387	to chew	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	take	nan	nan	('to chew', 'abui1241-fuime', 'take')	nan		
 388	to yawn	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	ahau	nan	nan	('to yawn', 'abui1241-fuime', 'ahau')	nan		
 389	to suck	abui1241-fuime	Abui-Fuimelang	Timor-Alor-Pantar	3Alor, 2Central	buk	nan	nan	('to suck', 'abui1241-fuime', 'buk')	nan		
