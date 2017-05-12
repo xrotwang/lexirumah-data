@@ -12,7 +12,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "cognate_file",
     help="The file containing the cognate codes, in EDICTOR format",
-    default="tap-cognates-merged.tsv", nargs="?")
+    default="tap-aligned.tsv", nargs="?")
 parser.add_argument(
     "--derived_cognate_file",
     help="Other files containing the cognate codes, in EDICTOR format",
@@ -182,6 +182,25 @@ for i, line in cognates.iterrows():
             (cogid_old, cogid_postcoding),
             []).append(i)
         word_list.set_value(i, "Cognate Set", cogid_postcoding)
+
+    if args.alignments:
+        # Compare alignments
+        alignment_coding = line["COMMENT"]
+        alignment_old = word_list["Comment"][i]
+
+        try:
+            alignment_old = alignment_old.iloc[0]
+        except AttributeError:
+            pass
+
+        if (alignment_coding != alignment_old):
+            word_list.set_value(i, "Alignment", alignment_coding)
+            if args.print and not pandas.isnull(alignment_old):
+                print("Alignment changed: {:} ({:}) → {:} ({:})".format(
+                    alignment_old,
+                    type(alignment_old),
+                    alignment_coding,
+                    type(alignment_coding)))
 
     if args.alignments:
         # Compare alignments
