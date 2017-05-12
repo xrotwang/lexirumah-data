@@ -9,7 +9,9 @@ alignment.
 """
 
 import collections
+import copy
 
+import newick
 import pandas
 import pickle
 
@@ -21,7 +23,7 @@ import lingpy.align.multiple
 import infomapcog.clustering as clust
 from lingpy import LexStat, Alignments
 from infomapcog.ipa2asjp import ipa2asjp, tokenize_word_reversibly
-from infomapcog.dataio import multi_align
+from infomapcog.dataio import multi_align, MaxPairDict
 
 class KeyAwareDefaultDict(collections.defaultdict):
     """A defaultdict that creates based on key."""
@@ -174,6 +176,12 @@ if __name__ == "__main__":
                         help="Re-align all classes")
     parser.add_argument("--reset", action="append", default=[],
                         help="Cognate IDs, meanings and language IDs to reset to automatic coding")
+    parser.add_argument(
+        "--guide-tree",
+        type=argparse.FileType("r"),
+        help="""A Newick file containing a single guide tree to combine
+        multiple alignments. (Separate guide trees for different families are
+        not supported yet.)""")
     args = parser.parse_args()
 
     if args.start <= 0 <= args.end:
@@ -414,6 +422,8 @@ if __name__ == "__main__":
                         sep="\t")
 
     if args.start <= s["AUTOALIGN"] <= args.end:
+        if args.guide_tree:
+            tree = newick.load(args.guide_tree)[0]
         cognates = pandas.read_csv('tap-cognates-merged.tsv', sep='\t',
                                    keep_default_na=False, na_values=[""],
                                    index_col=["DOCULECT_ID", "CONCEPT", "TOKENS"])
@@ -422,37 +432,24 @@ if __name__ == "__main__":
                     cognateclass["ALIGNMENT"]).any() or len(
                     {len(x.split()) for x in cognateclass["ALIGNMENT"]}) > 1:
                 
-                as_dict = {
-                    0: [(l, c, tuple(t.split()))
-                        for (l, c, t) in cognateclass.index]}
-                for group, (languages, concepts, alg) in multi_align(
-                        as_dict, tree,
+                as_dict = [
+                    {(l, c, tuple(t.split()))
+                     for (l, c, t) in cognateclass.index}]
+                print(as_dict)
+                for group, (languages, concepts, algs) in multi_align(
+                        as_dict, copy.deepcopy(tree),
                         lodict=MaxPairDict(lodict),
-                        gop=args.gop, gep=args.gep).items():
-                    ...
-                
-                forms = list(cognateclass["IPA"])
-
-                m = lingpy.align.multiple.Multiple(forms)
-                m.prog_align(
-                    classes='asjp',
-                    sonar=False,
-                    gop=-0.9,
-                    tree_calc='upgma',
-                    scale=0.9,
-                    scoredict=KeyAwareDefaultDict(
-                        lambda x: 1 if x[0] == x[1] else (
-                            -2 if '0' in x else -1)))
-
-                for (i, row), al in zip(cognateclass.iterrows(), m.alm_matrix):
-                    ipa = cognates["IPA"][i]
-                    for c in range(len(al)):
-                        if al[c] != "-":
-                            al[c] = ipa[:len(al[c])]
-                            ipa = ipa[len(al[c]):]
-                    print(al)
-                    cognates.set_value(
-                        i, "ALIGNMENT", " ".join(al))
+                        gop=-2.5, gep=-1.75).items():
+                    for language, concept, alg in zip(
+                            languages, concepts, zip(*algs)):
+                        print(alg)
+                        try:
+                            cognates.set_value(
+                                (language, concept, ''.join(alg)),
+                                "ALIGNMENT",
+                                " ".join([a or '-' for a in alg]))
+                        except Exception:
+                            pass
 
         cognates.to_csv("tap-aligned.tsv",
                         index=False,
