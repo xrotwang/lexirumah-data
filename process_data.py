@@ -50,6 +50,8 @@ try:
     Contributor = common.Contributor
     ContributionContributor = common.ContributionContributor
     ValueSet = common.ValueSet
+    Identifier = common.Identifier
+    LanguageIdentifier = common.LanguageIdentifier
     from lexibank.models import (
         LexibankLanguage, Concept, Provider, Counterpart,
         CognatesetCounterpart, Cognateset)
@@ -83,7 +85,7 @@ except ImportError:
         def __init__(self, *args, **kwargs):
             """Ignore everything."""
             pass
-    Dataset = Editor = Contributor = ContributionContributor = ValueSet = (
+    Dataset = Editor = Contributor = ContributionContributor = ValueSet = Identifier = LanguageIdentifier = (
         Ignore)
     LexibankLanguage = Concept = Provider = Counterpart = Ignore
     CognatesetCounterpart = Cognateset = Ignore
@@ -144,7 +146,7 @@ def import_concepticon(concepticon_path=concepticon_path):
     return concepticon
 
 
-def create_language_object(language, languages, families={}):
+def create_language_object(language, languages, families={}, identifiers={}):
     """Create a new Language object from the languages DataFrame.
 
     Also create its a Family if necessary.
@@ -163,12 +165,46 @@ def create_language_object(language, languages, families={}):
     l = LexibankLanguage(
         id=language,
         name=row['Language name (-dialect)'],
-        latitude=row['Lat'],
         family=families[row['Family']],
+        latitude=row['Lat'],
         longitude=row['Lon'])
+
+    if not pandas.isnull(row["ISO_code"]):
+        iso_code = row["ISO_code"]
+        if iso_code in identifiers:
+            DBSession.add(LanguageIdentifier(
+                language=l, identifier=identifiers[iso_code]))
+        else:
+            identifiers[iso_code] = iso = Identifier(
+                id=iso_code, name=iso_code, type='iso639-3')
+            DBSession.add(LanguageIdentifier(
+                language=l, identifier=iso))
+
+    if language.startswith("p-"):
+        glottolog_code = language.split("-")[1]
+        if glottolog_code in identifiers:
+            glottolog = identifiers[glottolog_code]
+        else:
+            glottolog = identifiers[glottolog_code] = Identifier(
+                id=glottolog_code, name=glottolog_code,
+                type='glottolog')
+        DBSession.add(LanguageIdentifier(
+            language=l, identifier=glottolog))
+    else:
+        glottolog_code = language.split("-")
+        if glottolog_code[0] in identifiers:
+            glottolog = identifiers[glottolog_code[0]]
+        else:
+            glottolog = identifiers[glottolog_code[0]] = Identifier(
+                id=glottolog_code[0], name=glottolog_code[0],
+                type='glottolog')
+        DBSession.add(LanguageIdentifier(
+            language=l, identifier=glottolog,
+            description=("is" if len(glottolog_code) == 1 else
+                         "is dialect of")))
+
     languages.set_value(
         language, "db_Object", l)
-    DBSession.add(l)
     return l
 
 
@@ -222,6 +258,8 @@ def import_contribution_metadata(
         # (audio files etc.), and "references" to point to
         # bibliographic data. TODO: But that's a thing we will sort
         # out at a later stage.
+        description=md["abstract"],
+        jsondata={'sources': md.get("sources", [])}
         )
     # Provider also has attributes url, aboutUrl, language_count,
     # parameter_count, lexeme_count, synonym
@@ -488,6 +526,7 @@ def import_contribution(
                     DBSession.add(
                         CognatesetCounterpart(
                             cognateset=cognateset,
+                            alignment=row["Alignment"],
                             counterpart=value))
 
         if file not in trust:
@@ -505,6 +544,7 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
     COGNATESETS_CONTRIB = Provider(
         id="edictor",
         name="Supported Similarity Codings",
+        jsondata={'sources': None},
         lexeme_count=0
         )
     # Provider also has attributes url, aboutUrl, language_count,
@@ -526,7 +566,7 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
         data["Source"] = os.path.join(srcdir, fname)
         all_data = pandas.concat((all_data, data))
         print("Import done.")
-       
+
     if "all_data.tsv" not in trust:
         all_data.sort_values(
             by=["Feature_ID",
