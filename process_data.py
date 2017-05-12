@@ -13,6 +13,12 @@ import json
 import pandas
 import sys
 
+import lexibank
+import transaction
+
+from clld.scripts.util import parsed_args
+from lexibank.scripts.initializedb import prime_cache
+
 try:
     from nameparser import HumanName
 except ImportError:
@@ -27,9 +33,10 @@ except ImportError:
             that everything is last name if there is no space.
 
             """
+            name = name.strip()
             if " " in name:
-                self.first = name[:name.index(" ")].strip()
-                self.last = name[name.index(" "):].strip()
+                self.first = name[:name.index(" ")]
+                self.last = name[name.index(" "):]
             else:
                 self.last = name
                 self.first = ""
@@ -82,17 +89,12 @@ except ImportError:
     CognatesetCounterpart = Cognateset = Ignore
     Family = Ignore
 
-    class Icon (Ignore):
-        """A dummy Icon class.
-
-        Icons are expected to have a name attribute.
-
-        """
-
-        name = None
-
     model_is_available = False
 
+
+ICONS = iter(
+    ['c0000dd',
+     'fdd0000'])
 
 # Utility functions
 def report(problem, *args, process_log=None):
@@ -142,6 +144,34 @@ def import_concepticon(concepticon_path=concepticon_path):
     return concepticon
 
 
+def create_language_object(language, languages, families={}):
+    """Create a new Language object from the languages DataFrame.
+
+    Also create its a Family if necessary.
+
+    """
+    row = languages.loc[language]
+    if row["db_Object"] is not None:
+        return row["db_Object"]
+    family = row["Family"]
+    if family not in families:
+        families[family] = Family(
+            id=family.lower(),
+            jsondata={"icon": next(ICONS)},
+            name=family)
+
+    l = LexibankLanguage(
+        id=language,
+        name=row['Language name (-dialect)'],
+        latitude=row['Lat'],
+        family=families[row['Family']],
+        longitude=row['Lon'])
+    languages.set_value(
+        language, "db_Object", l)
+    DBSession.add(l)
+    return l
+
+
 def import_languages(languages_path=languages_path):
     """Load language metadata from languages tsv.
 
@@ -157,23 +187,7 @@ def import_languages(languages_path=languages_path):
         na_values=[""],
         keep_default_na=False,
         encoding='utf-8')
-    families = {
-        family: Family(
-            id=family.lower(),
-            jsondata={"icon": icon},
-            name=family)
-        for icon, family in zip(
-                ["fffffff", "ccccccc"],
-                set(languages["Family"]))
-        }
-    languages["db_Object"] = [
-        LexibankLanguage(
-            id=i,
-            name=row['Language name (-dialect)'],
-            latitude=row['Lat'],
-            family=families[row['Family']],
-            longitude=row['Lon'])
-        for i, row in languages.iterrows()]
+    languages["db_Object"] = None
     return languages
 
 
@@ -199,7 +213,7 @@ def import_contribution_metadata(
     default_name = os.path.split(mdpath)[-1][:-len(".tsv-metadata.json")]
     contrib = Provider(
         id=md.get("id", default_name),
-        # The idea is the filename without extension
+        # The id is the filename without extension
         name=md.get("name", default_name),
         # The name is the filename with extension
         # references_text=str(md.get("source", []) +
@@ -256,7 +270,7 @@ def get_language(language, language_name, languages):
 
 def get_feature(concept_id, english, features):
     """Look concept up in dataframe of concepts.
-    
+
     Try to find the described concept in our concepticon, first by id,
     then by English gloss.
 
@@ -335,7 +349,8 @@ def import_contribution(
         trust=[],
         valuesets={},
         values={},
-        cognatesets={}):
+        cognatesets={},
+        COGNATESETS_CONTRIB=None):
     """Load a word list from a file.
 
     Import a contribution (tsv dataset and its metadata file)
@@ -350,132 +365,133 @@ def import_contribution(
     mdpath = path + '-metadata.json'
     contrib = import_contribution_metadata(mdpath, contributors, trust)
 
-    # Open the data frame and to some initial clean up.
-    data = pandas.io.parsers.read_csv(
-        path,
-        sep="," if path.endswith(".csv") else "\t",
-        na_values=[""],
-        keep_default_na=False,
-        encoding='utf-8')
+    langs_cache = {}
 
-    if 'keraf/' in path:
-        # The Keraf contributions may have strange column names.
-        try:
-            data.columns = ["Language name (-dialect)",
-                            "Language_ID",
-                            "Indonesian",
-                            "Value",
-                            "English",
-                            "Comment"]
-            data["Feature_ID"] = None
-        except ValueError:
-            pass
+    if os.path.isdir(path):
+        files = [os.path.join(path, f) for f in os.listdir(path)]
+    else:
+        files = [path]
 
-    for column in (make_sure_exists +
-                   copy_from_concepticon +
-                   copy_from_languages):
-        if column not in data.columns:
-            data[column] = ""
-        data[column] = data[column].astype(str)
+    for file in files:
+        # Open the data frame and to some initial clean up.
+        data = pandas.io.parsers.read_csv(
+            file,
+            sep="," if file.endswith(".csv") else "\t",
+            na_values=[""],
+            keep_default_na=False,
+            encoding='utf-8')
 
-    # Import all the rows.
-    for i, row in data.iterrows():
-        # Try to find the language in the list. If not found, log a
-        # message and take on the next row.
-        try:
-            language = get_language(
-                row["Language_ID"], row.get("Language name (-dialect)"),
-                languages)
-        except ValueError:
-            report(
-                "No language given!",
-                "Language in row {:d} had invalid id {:}.".format(
-                    -1, language), "No name was given either. Ignored.")
-            continue
-        except KeyError:
-            report(
-                "Invalid language given!",
-                "Language in row {:d} had invalid id {:}.".format(
-                    -1, language),
-                "The name {:s} could not be found either.".format(
-                    row.get("Language name (-dialect)")), "Ignored.")
-            continue
-        data.set_value(i, "Language_ID", language)
-        # Copy redundant columns.
-        for column in copy_from_languages:
-            if row[column] != languages[column][language]:
-                data.set_value(i, column, languages[column][language])
+        print("Loading file {:s}".format(file))
+        for column in (make_sure_exists +
+                       copy_from_concepticon +
+                       copy_from_languages):
+            if column not in data.columns:
+                data[column] = ""
+            data[column] = data[column].astype(str)
 
-        # Try to find the feature in the list. If not found, log a
-        # message and take on the next row.
-        try:
-            feature = get_feature(
-                row["Feature_ID"], row["English"].strip().lower(),
-                concepticon)
-        except ValueError:
-            continue
-        data.set_value(i, "Feature_ID", feature)
-        for column in copy_from_concepticon:
-            if row[column] != concepticon[column][feature]:
-                data.set_value(i, column, concepticon[column][feature])
+        # Import all the rows.
+        for i, row in data.iterrows():
+            # Try to find the language in the list. If not found, log a
+            # message and take on the next row.
+            try:
+                language = get_language(
+                    row["Language_ID"], row.get("Language name (-dialect)"),
+                    languages)
+            except ValueError:
+                report(
+                    "No language given!",
+                    "Language in row {:d} had invalid id {:}.".format(
+                        -1, language), "No name was given either. Ignored.")
+                continue
+            except KeyError:
+                report(
+                    "Invalid language given!",
+                    "Language in row {:d} had invalid id {:}.".format(
+                        -1, language),
+                    "The name {:s} could not be found either.".format(
+                        row.get("Language name (-dialect)")), "Ignored.")
+                continue
+            data.set_value(i, "Language_ID", language)
+            # Copy redundant columns.
+            for column in copy_from_languages:
+                if row[column] != languages[column][language]:
+                    data.set_value(i, column, languages[column][language])
 
-        # Create the objects representing the form in the
-        # database. This is a value in a value set.
-        value = row["Value"]
-        if pandas.isnull(value):
-            alignment = row["Alignment"]
-            if pandas.isnull(alignment):
-                report("Value not given, and unable to reconstruct",
-                       value,
-                       alignment)
-            else:
-                value = "".join(alignment.split())
+            # Try to find the feature in the list. If not found, log a
+            # message and take on the next row.
+            try:
+                feature = get_feature(
+                    row["Feature_ID"], row["English"].strip().lower(),
+                    concepticon)
+            except ValueError:
+                continue
+            data.set_value(i, "Feature_ID", feature)
+            for column in copy_from_concepticon:
+                if row[column] != concepticon[column][feature]:
+                    data.set_value(i, column, concepticon[column][feature])
 
-        vsid = "{:s}-{:}".format(language, feature)
-        if feature in valuesets:
-            vs = valuesets[vsid]
-        else:
-            vs = valuesets[vsid] = ValueSet(
-                vsid,
-                parameter=concepticon["db_Object"][feature],
-                language=languages["db_Object"][language],
-                contribution=contrib,
-                source=row['Source'])
-        vid = "{:s}-{:}-{:}".format(language, feature, value)
-        if vid not in values:
-            value = values[vid] = Counterpart(
-                id=vid,
-                valueset=vs,
-                name=value)
-            DBSession.add(value)
-        else:
-            value = values[vid]
-
-        if ((row["Cognate Set"] and
-             not pandas.isnull(row["Cognate Set"]) and
-             row["Cognate Set"] != "nan")):
-            for cognate in [row["Cognate Set"]]:
-                if type(cognate) == float:
-                    cognate = int(cognate)
-                elif type(cognate) == int:
-                    pass
+            # Create the objects representing the form in the
+            # database. This is a value in a value set.
+            value = row["Value"]
+            if pandas.isnull(value):
+                alignment = row["Alignment"]
+                if pandas.isnull(alignment):
+                    report("Value not given, and unable to reconstruct",
+                        value,
+                        alignment)
                 else:
-                    cognateset_id = hash(cognate)
-                try:
-                    cognateset = cognatesets[cognateset_id]
-                except KeyError:
-                    cognateset = cognatesets[cognateset_id] = Cognateset(
-                        id=cognateset_id,
-                        contribution=contrib,
-                        name=cognate)
-                    print("Created cognate class", cognate)
-                DBSession.add(
-                    CognatesetCounterpart(
-                        cognateset=cognateset,
-                        counterpart=value))
+                    value = "".join(alignment.split())
 
-    if path not in trust:
-        write_normalized_data(data, path)
+            if language in langs_cache:
+                lo = langs_cache[language]
+            else:
+                lo = langs_cache[language] = create_language_object(
+                    language, languages)
+                contrib.jsondata.setdefault("language_pks", []).append(
+                    lo.pk)
+            vsid = "{:s}-{:}".format(language, feature)
+            if feature in valuesets:
+                vs = valuesets[vsid]
+            else:
+                vs = valuesets[vsid] = ValueSet(
+                    vsid,
+                    parameter=concepticon["db_Object"][feature],
+                    language=lo,
+                    contribution=contrib,
+                    source=row['Source'])
+            vid = "{:s}-{:}-{:}".format(language, feature, value)
+            if vid not in values:
+                value = values[vid] = Counterpart(
+                    id=vid,
+                    valueset=vs,
+                    name=value)
+                DBSession.add(value)
+            else:
+                value = values[vid]
+
+            if not pandas.isnull(row["Cognate Set"]):
+                for cognate in [row["Cognate Set"]]:
+                    if type(cognate) == float:
+                        cognate = int(cognate)
+                    elif type(cognate) == int:
+                        pass
+                    else:
+                        cognateset_id = hash(cognate)
+
+                    try:
+                        cognateset = cognatesets[cognateset_id]
+                    except KeyError:
+                        cognateset = cognatesets[cognateset_id] = Cognateset(
+                            id=len(cognatesets),
+                            contribution=COGNATESETS_CONTRIB,
+                            name=cognate)
+                    DBSession.add(
+                        CognatesetCounterpart(
+                            cognateset=cognateset,
+                            counterpart=value))
+
+        if file not in trust:
+            write_normalized_data(data, file)
     return data
 
 
@@ -486,19 +502,31 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
     encountered.
 
     """
+    COGNATESETS_CONTRIB = Provider(
+        id="edictor",
+        name="Supported Similarity Codings",
+        lexeme_count=0
+        )
+    # Provider also has attributes url, aboutUrl, language_count,
+    # parameter_count, lexeme_count, synonym
+
     all_data = pandas.DataFrame()
-    for dirpath, dnames, fnames in os.walk(srcdir):
-        for fname in fnames:
-            if os.path.splitext(fname)[1] in ['.tsv', '.csv']:
-                print("Importing {:s}…".format(os.path.join(dirpath, fname)))
-                data = import_contribution(
-                    os.path.join(dirpath, fname),
-                    concepticon,
-                    languages,
-                    trust=trust)
-                data["Source"] = os.path.join(dirpath, fname)
-                all_data = pandas.concat((all_data, data))
-                print("Import done.")
+    for fname in os.listdir(srcdir):
+        if fname.endswith("-metadata.json"):
+            continue
+        if fname.startswith("."):
+            continue
+        print("Importing {:s}…".format(os.path.join(srcdir, fname)))
+        data = import_contribution(
+            os.path.join(srcdir, fname),
+            concepticon,
+            languages,
+            trust=trust,
+            COGNATESETS_CONTRIB=COGNATESETS_CONTRIB)
+        data["Source"] = os.path.join(srcdir, fname)
+        all_data = pandas.concat((all_data, data))
+        print("Import done.")
+       
     if "all_data.tsv" not in trust:
         all_data.sort_values(
             by=["Feature_ID",
@@ -540,9 +568,12 @@ def db_main(trust=[languages_path, concepticon_path]):
     contributors = {}
     primary = True
     for i, editor in enumerate(dataset_metadata["editors"]):
+        # Primary and secondary editors are in the same list,
+        # separated by a not-value.
         if not editor:
             primary = False
             continue
+
         contributor_name = HumanName(editor)
         contributor_id = ("ED" + contributor_name.last + contributor_name.first)
         # FIXME: Don't use ID hack, instead hand contributors dict
@@ -574,25 +605,16 @@ def db_main(trust=[languages_path, concepticon_path]):
 
 
 def main():
-    import lexibank
-    sys.argv=["i", os.path.join(os.path.dirname(os.path.dirname(lexibank.__file__)), "development.ini")]
+    """Construct a new database from scratch."""
+    args = parsed_args(
+        args=[os.path.join(
+                  os.path.dirname(os.path.dirname(lexibank.__file__)),
+                  "development.ini")])
 
-    if model_is_available:
-            from clld.scripts.util import initializedb
-            from clld.db.util import compute_language_sources
-            try:
-                initializedb(create=db_main, prime_cache=lambda x: None)
-            except SystemExit:
-                print("done")
-    else:
-            parser = argparse.ArgumentParser(description="Process LexiRumah data with consistency in mind")
-            parser.add_argument("--sqlite", default=None, const="gramrumah.sqlite", nargs="?",
-                                help="Generate an sqlite database from the data")
-            parser.add_argument("--trust", "-t", nargs="*", type=argparse.FileType("r"), default=[],
-                                help="Data files to be trusted in case of mismatch")
-            #args = parser.parse_args()
-            #main([x.name for x in args.trust])
-            main([languages_path, concepticon_path])
+    with transaction.manager:
+        db_main(args)
+    with transaction.manager:
+        prime_cache(args)
 
 
 if __name__ == '__main__':
