@@ -8,18 +8,20 @@ alignment.
 
 """
 
-import sys
-
-import pandas
 import collections
 
+import pandas
+import pickle
+
+import sys
 import argparse
+
 import pyclpa.util
-from lingpy import LexStat, Alignments
 import lingpy.align.multiple
-
+import infomapcog.clustering as clust
+from lingpy import LexStat, Alignments
 from infomapcog.ipa2asjp import ipa2asjp, tokenize_word_reversibly
-
+from infomapcog.dataio import multi_align
 
 class KeyAwareDefaultDict(collections.defaultdict):
     """A defaultdict that creates based on key."""
@@ -137,6 +139,14 @@ def tokenize(form,
     yield segment
 
 
+s = {
+    'SEGMENT': 0,
+    'AUTOCODE': 1,
+    'RESET': 2,
+    'MERGE': 3,
+    'AUTOALIGN': 4,
+    }
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("filename", default="all_data.tsv", nargs="?",
@@ -155,6 +165,11 @@ if __name__ == "__main__":
                         want to re-use an existing automatic cognate
                         coding file: --start 2 --coding unaligned.tsv
                         """)
+    parser.add_argument("--scores", type=argparse.FileType("rb"),
+                        help="""A file containing a pickled sound similarity dictionary, as
+                        eg. generated from PMI scores. Used for
+                        alignment and similarity coding. Calculated if
+                        not given, which takes time.""")
     parser.add_argument("--align", action='store_true', default=False,
                         help="Re-align all classes")
     parser.add_argument("--reset", action="append", default=[],
@@ -162,6 +177,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.start <= 0 <= args.end:
+        ...
+
+    if args.start <= s['SEGMENT'] <= args.end:
         data = pandas.io.parsers.read_csv(
             args.filename,
             sep="," if args.filename.endswith(".csv") else "\t",
@@ -173,8 +191,6 @@ if __name__ == "__main__":
             data = data[~data["Language_ID"].str.endswith("-o")]
 
         cldf_to_lingpy(data)
-
-
 
         data = data[~pandas.isnull(data["IPA"])]
 
@@ -206,19 +222,37 @@ if __name__ == "__main__":
             na_rep="",
             encoding='utf-8')
 
-    if args.start <= 1 <= args.end:
-        lex = LexStat("unaligned.tsv")
-        lex.get_scorer(preprocessing=False,
-                       runs=10000, ratio=(2, 1), vscale=1.0)
-        lex.cluster(cluster_method='upgma',
-                    method='lexstat',
-                    ref='auto_cogid',
-                    threshold=0.8)
-        lex.output("tsv", filename="tap-cognates", ignore="all",
-                   prettify=False)
-        scorer = lex.bscorer
+    if args.start <= s['AUTOCODE'] <= args.end or args.start <= s['AUTOALIGN'] <= args.end:
+        if args.scores:
+            lodict = pickle.load(args.scores)
+        else:
+            lodict = ...
 
-    if args.start <= 2 <= args.end:
+    if args.start <= s['AUTOCODE'] <= args.end:
+        lex = pandas.read_csv(
+            "unaligned.tsv", sep="\t", keep_default_na=False, na_values=[""])
+
+        words_dict = {
+            concept: {
+                language: [
+                    tuple(tokens.split()) for tokens in blob["TOKENS"]]
+                for language, blob in by_concept.groupby("DOCULECT_ID")}
+            for concept, by_concept in lex.groupby("CONCEPT")}
+
+        codes = clust.cognate_code_infomap2(
+            words_dict, lodict, gop=-2.5, gep=-1.75, threshold=0.5, method='infomap')
+
+        lex = lex.set_index(["CONCEPT", "DOCULECT_ID", "IPA"])
+        lex["AUTO_COGID"] = 0
+        for i, similarityset in enumerate(codes):
+            for c, l, w in similarityset:
+                lex.set_value((c, l, ''.join(w)),
+                              "AUTO_COGID",
+                              i+1)
+                    
+        lex.to_csv("tap-cognates.tvs", sep="\t", na_rep="", encoding="utf-8")
+
+    if args.start <= s['RESET'] <= args.end:
         autocognates = pandas.read_csv(
             'tap-cognates.tsv', sep='\t', keep_default_na=False,
             na_values=[""])
@@ -295,17 +329,66 @@ if __name__ == "__main__":
                         na_rep="",
                         sep="\t")
 
-    if args.start <= 3 <= args.end:
+    if args.start <= s['MERGE'] <= args.end:
         cognates = pandas.read_csv('tap-cognates-mg.tsv', sep='\t',
                                    keep_default_na=False, na_values=[""])
 
+        subgroup = {
+"Kedang-Leubatang": "PEF",
+"Kedang-Léuwayang": "PEF",
+"Lamaholot-Adonara": "PEF",
+"Lamaholot-Baipito": "PEF",
+"Lamaholot-Bama": "PEF",
+"Lamaholot-Belang": "PEF",
+"Lamaholot-Botun": "PEF",
+"Lamaholot-Dulhi": "PEF",
+"Hewa": "PEF",
+"Lamaholot-Horowura": "PEF",
+"Lamaholot-Ile Ape": "PEF",
+"Lamaholot-Imulolo": "PEF",
+"Lamaholot-Kalikasa": "PEF",
+"Kedang": "PEF",
+"Lamaholot-Kiwangona": "PEF",
+"Lamaholot-Lamahora": "PEF",
+"Lamaholot-Lamakera": "PEF",
+"Lamaholot-Lamalera": "PEF",
+"Lamaholot-Lamatuka": "PEF",
+"Lamaholot-Lewoeleng": "PEF",
+"Lamaholot-Lewokukun": "PEF",
+"Lamaholot-Lewolaga": "PEF",
+"Lamaholot-Lewolema": "PEF",
+"Lamaholot-Lewopenutu": "PEF",
+"Lamaholot-Lewotala": "PEF",
+"Lamaholot-Lewotobi [Nagaya]": "PEF",
+"Lamaholot-Lewotobi": "PEF",
+"Lamaholot-Lewuka": "PEF",
+"Lamaholot-Merdeka": "PEF",
+"Lamaholot-Mingar": "PEF",
+"Lamaholot-Mulan": "PEF",
+"Lamaholot-Painara": "PEF",
+"Lamaholot-Pukaunu": "PEF",
+"Lamaholot-Ritaebang": "PEF",
+"Lamaholot-Tanjung": "PEF",
+"Lamaholot-Waibalun": "PEF",
+"Lamaholot-Waiwadan": "PEF",
+"Lamaholot-Watan": "PEF",
+"Lamaholot-Wuakerong": "PEF",
+"Lamaholot-Lewoingu": "PEF",
+"Lamaholot-Lerek": "PEF",
+"Lamaholot-Central Lembata": "PEF",
+"proto-MP-ABVD": "PEF",
+"proto-MP-ACD": "PEF",
+"proto-MP-ACD 2": "PEF",
+"Sika-Maumere": "PEF",
+"Sika-Tana Ai": "PEF",}
         short = {"Austronesian": "AN",
                 "Timor-Alor-Pantar": "TAP"}
         cognates["DOCULECT"] = [
-            "{:s} – {:s} {:s}".format(
+            "{:s} – {:s} {:s} {:s}".format(
                 "X" if pandas.isnull(region) else region,
                 "X" if pandas.isnull(family) else short.get(family, family),
-                "X" if pandas.isnull(lect) else lect)
+                "X" if pandas.isnull(lect) else lect,
+                "({:})".format(subgroup[lect]) if lect in subgroup else "")
             for lect, family, region in zip(
                     cognates["DOCULECT"], cognates["FAMILY"], cognates["REGION"])]
 
@@ -330,12 +413,24 @@ if __name__ == "__main__":
                         na_rep="",
                         sep="\t")
 
-    if args.start <= 4 <= args.end:
+    if args.start <= s["AUTOALIGN"] <= args.end:
         cognates = pandas.read_csv('tap-cognates-merged.tsv', sep='\t',
-                                   keep_default_na=False, na_values=[""])
+                                   keep_default_na=False, na_values=[""],
+                                   index_col=["DOCULECT_ID", "CONCEPT", "TOKENS"])
         for c, cognateclass in cognates.groupby("COGID"):
-            if args.align or len(
+            if args.align or pandas.isnull(
+                    cognateclass["ALIGNMENT"]).any() or len(
                     {len(x.split()) for x in cognateclass["ALIGNMENT"]}) > 1:
+                
+                as_dict = {
+                    0: [(l, c, tuple(t.split()))
+                        for (l, c, t) in cognateclass.index]}
+                for group, (languages, concepts, alg) in multi_align(
+                        as_dict, tree,
+                        lodict=MaxPairDict(lodict),
+                        gop=args.gop, gep=args.gep).items():
+                    ...
+                
                 forms = list(cognateclass["IPA"])
 
                 m = lingpy.align.multiple.Multiple(forms)
