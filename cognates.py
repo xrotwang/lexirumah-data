@@ -224,7 +224,7 @@ if __name__ == "__main__":
             for x in data["COMMENT"]]
 
         data.to_csv(
-            "unaligned.tsv",
+            "tap-unaligned.tsv",
             sep='\t',
             index_label="ID",
             na_rep="",
@@ -238,7 +238,7 @@ if __name__ == "__main__":
 
     if args.start <= s['AUTOCODE'] <= args.end:
         lex = pandas.read_csv(
-            "unaligned.tsv", sep="\t", keep_default_na=False, na_values=[""])
+            "tap-unaligned.tsv", sep="\t", keep_default_na=False, na_values=[""])
 
         words_dict = {
             concept: {
@@ -250,15 +250,15 @@ if __name__ == "__main__":
         codes = clust.cognate_code_infomap2(
             words_dict, lodict, gop=-2.5, gep=-1.75, threshold=0.5, method='infomap')
 
-        lex = lex.set_index(["CONCEPT", "DOCULECT_ID", "IPA"])
+        lex = lex.set_index(["DOCULECT_ID", "CONCEPT", "IPA"])
         lex["AUTO_COGID"] = 0
         for i, similarityset in enumerate(codes):
             for c, l, w in similarityset:
-                lex.set_value((c, l, ''.join(w)),
+                lex.set_value((l, c, ''.join(w)),
                               "AUTO_COGID",
                               i+1)
                     
-        lex.to_csv("tap-cognates.tvs", sep="\t", na_rep="", encoding="utf-8")
+        lex.to_csv("tap-cognates.tsv", sep="\t", na_rep="", encoding="utf-8")
 
     if args.start <= s['RESET'] <= args.end:
         autocognates = pandas.read_csv(
@@ -426,15 +426,15 @@ if __name__ == "__main__":
             tree = newick.load(args.guide_tree)[0]
         cognates = pandas.read_csv('tap-cognates-merged.tsv', sep='\t',
                                    keep_default_na=False, na_values=[""],
-                                   index_col=["DOCULECT_ID", "CONCEPT", "TOKENS"])
+                                   index_col=["DOCULECT_ID", "CONCEPT", "IPA"])
         for c, cognateclass in cognates.groupby("COGID"):
             if args.align or pandas.isnull(
                     cognateclass["ALIGNMENT"]).any() or len(
                     {len(x.split()) for x in cognateclass["ALIGNMENT"]}) > 1:
                 
                 as_dict = [
-                    {(l, c, tuple(t.split()))
-                     for (l, c, t) in cognateclass.index}]
+                    {(l, c, tuple(row["TOKENS"].split()))
+                     for (l, c, t), row in cognateclass.iterrows()}]
                 print(as_dict)
                 for group, (languages, concepts, algs) in multi_align(
                         as_dict, copy.deepcopy(tree),
@@ -449,9 +449,11 @@ if __name__ == "__main__":
                                 "ALIGNMENT",
                                 " ".join([a or '-' for a in alg]))
                         except Exception:
-                            pass
+                            raise
 
+        cognates.reset_index(inplace=True)
         cognates.to_csv("tap-aligned.tsv",
-                        index=False,
+                        index=True,
+                        index_label="ID",
                         na_rep="",
                         sep="\t")

@@ -259,7 +259,8 @@ def import_contribution_metadata(
         # bibliographic data. TODO: But that's a thing we will sort
         # out at a later stage.
         description=md["abstract"],
-        jsondata={'sources': md.get("sources", [])}
+        jsondata={'sources': md.get("sources", []),
+                  "language_pks": []}
         )
     # Provider also has attributes url, aboutUrl, language_count,
     # parameter_count, lexeme_count, synonym
