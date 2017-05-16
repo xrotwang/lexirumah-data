@@ -419,7 +419,8 @@ def import_contribution(
             na_values=[""],
             keep_default_na=False,
             encoding='utf-8')
-
+        
+        data["Source"] = file
         print("Loading file {:s}".format(file))
         for column in (make_sure_exists +
                        copy_from_concepticon +
@@ -564,7 +565,6 @@ def import_cldf(srcdir, concepticon, languages, trust=[]):
             languages,
             trust=trust,
             COGNATESETS_CONTRIB=COGNATESETS_CONTRIB)
-        data["Source"] = os.path.join(srcdir, fname)
         all_data = pandas.concat((all_data, data))
         print("Import done.")
 
