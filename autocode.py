@@ -65,6 +65,7 @@ if __name__ == "__main__":
 
     lex.to_csv(
         args.output,
+        index=False,
         sep='\t',
         na_rep="",
         encoding='utf-8')

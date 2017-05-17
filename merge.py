@@ -36,6 +36,7 @@ if __name__ == "__main__":
         args.input,
         sep="\t",
         na_values=[""],
+        index_col=["English", "Language_ID", "IPA"],
         keep_default_na=False,
         encoding='utf-8')
 
@@ -44,6 +45,7 @@ if __name__ == "__main__":
             args.other,
             sep="\t",
             na_values=[""],
+            index_col=["English", "Language_ID", "IPA"],
             keep_default_na=False,
             encoding='utf-8')
     else:
@@ -56,47 +58,46 @@ if __name__ == "__main__":
     if args.output_col in [args.input_col, args.other_col]:
         print("If the output column is identical to an input column, behaviour is not well-defined. Continuing anyway.",
               file=sys.stderr)
-    if True:
-        data[args.output_col] = None
-        for i, row in list(data.iterrows()):
-            cognateset = row[args.input_col]
-            reset = cognateset == "nan" or not cognateset or pandas.isnull(
-                    cognateset)
-            for c, v in reset_these:
-                reset |= row[c] == v
+    data[args.output_col] = None
 
-            try:
-                cogid = row[args.input_col]
-                representatives = data[data[args.input_col] == cogid].sort_values(
-                    by=["Language_ID", "English", "IPA"])
-                representative = tuple(representatives.iloc[0][
-                    ["Language_ID", "English", "IPA"]])
-            except IndexError:
-                representative = None
+    for (c, l, v), row in list(data.iterrows()):
+        cognateset = row[args.input_col]
+        reset = cognateset == "nan" or not cognateset or pandas.isnull(
+                cognateset)
+        for col, const in reset_these:
+            if col == "English":
+                reset |= c == const
+            elif col == "Language_ID":
+                reset |= l == const
+            elif col == "IPA":
+                reset |= v == const
+            else:
+                reset |= row[col] == const
 
-            try:
-                other_rows = other[
-                    (other["Language_ID"] == row["Language_ID"]) &
-                    (other["IPA"] == row["IPA"]) &
-                    (other["English"] == row["English"])]
-                other_cogid = other_rows.iloc[0][args.other_col]
-                other_representatives = other[
-                    other[args.other_col] == other_cogid].sort_values(
-                        by=["Language_ID", "English", "IPA"])
-                other_representative = tuple(other_representatives.iloc[0][
-                    ["Language_ID", "English", "IPA"]])
-            except IndexError:
-                other_representative = None
+        try:
+            cogid = row[args.input_col]
+            representatives = data[data[args.input_col] == cogid]
+            representative = representatives.index[0]
+        except IndexError:
+            representative = None
 
-            if reset:
-                representative = other_representative
-            elif args.log:
-                if (representative != other_representative):
-                    print((row["Language_ID"], row["English"], row["IPA"]),
-                          ":", representative, "→", other_representative)
-            data.set_value(i, args.output_col, representative)
+        try:
+            other_rows = other.loc[(c, l, v)]
+            other_cogid = other_rows.iloc[0][args.other_col]
+            other_representatives = other[
+                other[args.other_col] == other_cogid]
+            other_representative = other_representatives.index[0]
+        except IndexError:
+            other_representative = None
 
-        data.to_csv(args.output,
-                    index=False,
-                    na_rep="",
-                    sep="\t")
+        if reset:
+            representative = other_representative
+        elif args.log:
+            if (representative != other_representative or not representative):
+                print((c, l, v), ":", representative, "→", other_representative)
+        data.set_value((c, l, v), args.output_col, str(representative))
+
+    data.to_csv(args.output,
+                index=True,
+                na_rep="",
+                sep="\t")

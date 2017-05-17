@@ -9,7 +9,8 @@ import argparse
 
 from infomapcog.ipa2asjp import ipa2asjp, tokenize_word_reversibly
 
-clean = {"ä": "a",
+clean = {" ": "_",
+         "ä": "a",
          "ε": "ɛ",
          "é": "e",
          "á": "a",
@@ -17,7 +18,10 @@ clean = {"ä": "a",
          "Ɂ": "ʔ",
          "ˈ": "'",
          ":": "ː",
-         "ɡ": "g"}
+         "ɡ": "g",
+         "R": "ʀ",
+         'dʒ͡': 'd͡ʒ',
+         'ʤ': 'd͡ʒ'}
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
@@ -46,7 +50,7 @@ if __name__ == "__main__":
     data = data[~pandas.isnull(data["Value"])]
 
     # Clean up IPA slightly
-    data["IPA"] = data["Value"]
+    data["IPA"] = data["Value"].str.strip()
     for key, value in clean.items():
         data["IPA"] = data["IPA"].str.replace(key, value)
 
