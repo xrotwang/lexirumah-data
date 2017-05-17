@@ -1,5 +1,6 @@
 datasets/*/*.tsv diff=winutf16 filter=winutf16
 datasets/*.tsv diff=winutf16 filter=winutf16
 tap-*.tsv diff=none filter=none
-*.tsv diff=winutf16 filter=winutf16
+languages.tsv diff=winutf16 filter=winutf16
+concepts.tsv diff=winutf16 filter=winutf16
 * text=auto
