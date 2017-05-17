@@ -72,6 +72,7 @@ if __name__ == "__main__":
 
     data.to_csv(
         args.output,
+        index=False,
         sep='\t',
         na_rep="",
         encoding='utf-8')
