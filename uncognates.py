@@ -40,7 +40,7 @@ file = args.cognate_file
 
 cognates = pandas.read_csv(
     file,
-    index_col=["CONCEPT", "DOCULECT_ID", "IPA"],
+    index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
     na_values="",
     keep_default_na=False,
     sep="\t")
@@ -69,7 +69,7 @@ while cognates.index.duplicated().any():
 for file in args.derived_cognate_file:
     df = pandas.read_csv(
         file,
-        index_col=["CONCEPT", "DOCULECT_ID", "IPA"],
+        index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
         na_values="",
         keep_default_na=False,
         sep="\t")
@@ -95,7 +95,7 @@ word_lists = {}
 changes = {}
 
 for i, line in cognates.iterrows():
-    i = i[0], i[1], i[2].replace("_", " ")
+    i = i[0], i[1], i[2]
     original_file = line["SOURCE"]
     word_list = word_lists.get(original_file)
 
