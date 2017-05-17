@@ -58,7 +58,8 @@ if __name__ == "__main__":
         # Calculate an UPGMA tree or something
         
     for i, cognateclass in data.groupby(args.cognate_col):
-        if args.only_necessary and len(set(len(cognateclass["Alignment"].str))) == 1:
+        if args.only_necessary and len(set([
+                len(r.split()) for r in cognateclass["Alignment"]])) == 1:
             continue
         as_dict = [
             {(c, l, tuple(row[args.tokens].split()))
