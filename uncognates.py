@@ -29,9 +29,9 @@ parser.add_argument(
     help="Split cognate classes that cross concept boundaries",
     action="store_true", default=False)
 parser.add_argument(
-    "--alignments",
-    help="Inspect and deal with alignments",
-    action="store_true", default=False)
+    "--copy-columns",
+    help="Copy these columns",
+    action="append", default=[])
 parser.add_argument(
     "--bad-cogid", action="append", default=[],
     help="Untrusted cogids in COGNATE_FILE, which should be ignored")
@@ -183,10 +183,10 @@ for i, line in cognates.iterrows():
             []).append(i)
         word_list.set_value(i, "Cognate Set", cogid_postcoding)
 
-    if args.alignments:
+    for column in args.copy_columns:
         # Compare alignments
-        alignment_coding = line["COMMENT"]
-        alignment_old = word_list["Comment"][i]
+        alignment_coding = line[column.upper()]
+        alignment_old = word_list[column.title()][i]
 
         try:
             alignment_old = alignment_old.iloc[0]
@@ -194,28 +194,10 @@ for i, line in cognates.iterrows():
             pass
 
         if (alignment_coding != alignment_old):
-            word_list.set_value(i, "Alignment", alignment_coding)
+            word_list.set_value(i, column.title(), alignment_coding)
             if args.print and not pandas.isnull(alignment_old):
-                print("Alignment changed: {:} ({:}) → {:} ({:})".format(
-                    alignment_old,
-                    type(alignment_old),
-                    alignment_coding,
-                    type(alignment_coding)))
-
-    if args.alignments:
-        # Compare alignments
-        alignment_coding = line["ALIGNMENT"]
-        alignment_old = word_list["Alignment"][i]
-
-        try:
-            alignment_old = alignment_old.iloc[0]
-        except AttributeError:
-            pass
-
-        if (alignment_coding != alignment_old):
-            word_list.set_value(i, "Alignment", alignment_coding)
-            if args.print and not pandas.isnull(alignment_old):
-                print("Alignment changed: {:} ({:}) → {:} ({:})".format(
+                print("{:} changed: {:} ({:}) → {:} ({:})".format(
+                    column.title(),
                     alignment_old,
                     type(alignment_old),
                     alignment_coding,

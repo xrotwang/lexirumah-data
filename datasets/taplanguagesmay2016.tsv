@@ -1423,7 +1423,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 68	smoke	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fonɑ	nan	- - - - - - - - f o n ɑ - - - -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/taplanguagesmay2016.tsv		
 68	smoke	kelo1247-bring	Klon-Bring	Timor-Alor-Pantar	3Alor, 1West	ədɑbon	nan	- ə d ɑ - - - - b o n - - - - -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/taplanguagesmay2016.tsv		
 68	smoke	kuii1253	Kui-Moru	Timor-Alor-Pantar	3Alor, 1West	ar bonok	nan	- a r - - _ - - b o n o - k - -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/taplanguagesmay2016.tsv		
-68	smoke	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	punɑ	nan	p u n ɑ - - - -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/taplanguagesmay2016.tsv		
+68	smoke	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	punɑ	nan	p u n ɑ - - - -	('smoke', 'kama1365', 'punɑ')	datasets/taplanguagesmay2016.tsv		
 68	smoke	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	ar banokan	nan	- a r - - _ - - b a n o - k a n	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/taplanguagesmay2016.tsv		
 68	smoke	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	adá punak	nan	- a d á - _ - - p u n a - k - -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/taplanguagesmay2016.tsv		
 68	smoke	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	pnəkka	Swadesh; 100; 101; 145.0	- - - - - - - - p - n ə - kk a -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/taplanguagesmay2016.tsv		
@@ -3068,7 +3068,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 144	stomach; belly	kelo1247-bring	Klon-Bring	Timor-Alor-Pantar	3Alor, 1West	gəbɛt	nan	g ə b ɛ t - - -	('stomach; belly', 'keda1252-leuwa', 'bɔtin')	datasets/taplanguagesmay2016.tsv		
 144	stomach; belly	kuii1253	Kui-Moru	Timor-Alor-Pantar	3Alor, 1West	ta-beter	nan	t a b e t e - -	('stomach; belly', 'keda1252-leuwa', 'bɔtin')	datasets/taplanguagesmay2016.tsv		
 144	stomach; belly	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑpʊŋ	nan	- n ɑ p ʊ ŋ - -	('stomach; belly', 'kama1365', 'nɑpʊŋ')	datasets/taplanguagesmay2016.tsv		
-144	stomach; belly	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑtɔk	nan	nan	('stomach; belly', 'abui1241-fuime', 'tatok foko')	datasets/taplanguagesmay2016.tsv		
+144	stomach; belly	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	nɑtɔk	nan	nan	('stomach; belly', 'kama1365', 'nɑtɔk')	datasets/taplanguagesmay2016.tsv		
 144	stomach; belly	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	nabet	nan	n a b e t - - -	('stomach; belly', 'keda1252-leuwa', 'bɔtin')	datasets/taplanguagesmay2016.tsv		
 144	stomach; belly	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	atoko	nan	- - a t o k - - o - -	('stomach; belly', 'abui1241-fuime', 'tatok foko')	datasets/taplanguagesmay2016.tsv		
 144	stomach; belly	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	giti	Swadesh; 15; 15; 14.0	- g i t - - - - i - -	('stomach; belly', 'kula1280-lanto', 'giti')	datasets/taplanguagesmay2016.tsv		
@@ -5053,7 +5053,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 259	bird	kelo1247-bring	Klon-Bring	Timor-Alor-Pantar	3Alor, 1West	hɪʔɪdom	nan	h ɪ - ʔ ɪ - - d o m -	('bird', 'adan1251-lawah', 'hiu walɛwɛŋ')	datasets/taplanguagesmay2016.tsv		
 259	bird	kuii1253	Kui-Moru	Timor-Alor-Pantar	3Alor, 1West	adol	nan	- - - - - - - - a - - - - d o l -	('bird', 'abui1241-fuime', 'ruo')	datasets/taplanguagesmay2016.tsv		
 259	bird	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	atul	sɪbe (chicken)	- - - - - - - - a - - - - t u l -	('bird', 'kama1365', 'atul')	datasets/taplanguagesmay2016.tsv		
-259	bird	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sɪbe	sɪbe (chicken)	s ɪ b e	('bird', 'adan1251-lawah', 'hiu walɛwɛŋ')	datasets/taplanguagesmay2016.tsv		
+259	bird	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	sɪbe	sɪbe (chicken)	s ɪ b e	('bird', 'kama1365', 'sɪbe')	datasets/taplanguagesmay2016.tsv		
 259	bird	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	adol	nan	- - - - - - - - a - - - - d o l -	('bird', 'abui1241-fuime', 'ruo')	datasets/taplanguagesmay2016.tsv		
 259	bird	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	adol gateŋ kurusi	('cakar burung')	a d o l _ g a t e ŋ _ k u r u s i	('bird', 'abui1241-fuime', 'ruo')	datasets/taplanguagesmay2016.tsv		
 259	bird	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	ada masa	Swadesh; -; -	a d a _ m a s a	('bird', 'keda1252-leuwa', 'udaŋ')	datasets/taplanguagesmay2016.tsv		
@@ -6219,7 +6219,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 311	sharp	kuii1253	Kui-Moru	Timor-Alor-Pantar	3Alor, 1West	maŋan	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	- - m a ŋ a n	('sharp', 'kabo1247', 'namaŋ')	datasets/taplanguagesmay2016.tsv		
 311	sharp	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	mona	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	m o n a	('sharp', 'kira1248', 'mona')	datasets/taplanguagesmay2016.tsv		
 311	sharp	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	plit	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	p - l i t -	"('sharp', 'abui1241-takal', ""bu.'lä"")"	datasets/taplanguagesmay2016.tsv		
-311	sharp	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	palita	Swadesh; 133; -; 81.0; Of spear (tombak) or machete (parang); if there are two different words, elicit both.	p a l i t a	('sharp', 'kula1280-lanto', 'palita')	datasets/taplanguagesmay2016.tsv		
+311	sharp	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	palita	Swadesh; 133; -; 81.0; Of spear (tombak) or machete (parang); if there are two different words, elicit both.	p a l i t a	"('sharp', 'abui1241-takal', ""bu.'lä"")"	datasets/taplanguagesmay2016.tsv		
 311	sharp	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'sɔʔ	nan	's ɔ ʔ	"('sharp', 'buna1278-malia', ""'sɔʔ"")"	datasets/taplanguagesmay2016.tsv		
 311	sharp	buna1278-o	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	taiss	nan	t a i ss	('sharp', 'buna1278', 'taiss')	datasets/taplanguagesmay2016.tsv		
 312	blunt; dull	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	lu:k	nan	l u: k	('blunt; dull', 'alor1249-sar-a', 'lu:k')	datasets/taplanguagesmay2016.tsv		
@@ -6763,7 +6763,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 334	yellow	kuii1253	Kui-Moru	Timor-Alor-Pantar	3Alor, 1West	bagura	nan	b a g u r a	('yellow', 'hama1240', 'baʔ.oil')	datasets/taplanguagesmay2016.tsv		
 334	yellow	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	mareka	nan	m a r e k a	('yellow', 'kira1248', 'mareka')	datasets/taplanguagesmay2016.tsv		
 334	yellow	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	merok	nan	m e r o k -	"('yellow', 'kema1243', ""mə'gɛ:"")"	datasets/taplanguagesmay2016.tsv		
-334	yellow	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	mareka	Swadesh; 142; 141; 150.0	m a r e k a	('yellow', 'kula1280-lanto', 'mareka')	datasets/taplanguagesmay2016.tsv		
+334	yellow	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	mareka	Swadesh; 142; 141; 150.0	m a r e k a	"('yellow', 'kema1243', ""mə'gɛ:"")"	datasets/taplanguagesmay2016.tsv		
 334	yellow	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'kinul	nan	- 'k - i n u l	"('yellow', 'buna1278-malia', ""'kinul"")"	datasets/taplanguagesmay2016.tsv		
 334	yellow	p-alor1249	proto-AP	Timor-Alor-Pantar		*bagori	nan	- * b a g o r - - i	('yellow', 'baka1276', 'bóri')	datasets/taplanguagesmay2016.tsv		
 334	yellow	p-east2519	proto-TIM	Timor-Alor-Pantar		*gabar	nan	* g - a b a r	"('yellow', 'buna1278-malia', ""'kinul"")"	datasets/taplanguagesmay2016.tsv		
@@ -8344,7 +8344,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 394	to scratch	kuii1253	Kui-Moru	Timor-Alor-Pantar	3Alor, 1West	ukuberi	nan	u k - u - b e r i - - - -	('to scratch', 'abui1241-fuime', 'kafie')	datasets/taplanguagesmay2016.tsv		
 394	to scratch	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	kaˈbir	nan	- k - a - ˈb i r - - - - -	('to scratch', 'abui1241-fuime', 'kafie')	datasets/taplanguagesmay2016.tsv		
 394	to scratch	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	kepir	nan	- k e p i r - - - -	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	datasets/taplanguagesmay2016.tsv		
-394	to scratch	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	kapi	Swadesh; 77.0	- k a p i - - - - -	('to scratch', 'kula1280-lanto', 'kapi')	datasets/taplanguagesmay2016.tsv		
+394	to scratch	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	kapi	Swadesh; 77.0	- k a p i - - - - -	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	datasets/taplanguagesmay2016.tsv		
 394	to scratch	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'khɔʔi	nan	- 'k h ɔ ʔ i	"('to scratch', 'alor1247-besar', ""'gou"")"	datasets/taplanguagesmay2016.tsv		
 394	to scratch	p-alor1249	proto-AP	Timor-Alor-Pantar		*karab	nan	* k a - r a b - -	('to scratch', 'alor1249-sar-a', 'kəra:b')	datasets/taplanguagesmay2016.tsv		
 394	to scratch	p-east2519	proto-TIM	Timor-Alor-Pantar		*gabar	nan	* g a b a r - - - -	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	datasets/taplanguagesmay2016.tsv		
@@ -9586,7 +9586,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 449	to count	kuii1253	Kui-Moru	Timor-Alor-Pantar	3Alor, 1West	galeki	nan	g a l e k - i -	"('to count', 'abui1241-takal', ""hä.läq.'dä"")"	datasets/taplanguagesmay2016.tsv		
 449	to count	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	galik	nan	g a l i k - - -	"('to count', 'abui1241-takal', ""hä.läq.'dä"")"	datasets/taplanguagesmay2016.tsv		
 449	to count	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	geleki	nan	g e l e k - i -	"('to count', 'abui1241-takal', ""hä.läq.'dä"")"	datasets/taplanguagesmay2016.tsv		
-449	to count	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	aliku	Swadesh; 248; 231; 196.0	#NAME?	('to count', 'kula1280-lanto', 'aliku')	datasets/taplanguagesmay2016.tsv		
+449	to count	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	aliku	Swadesh; 248; 231; 196.0	#NAME?	"('to count', 'abui1241-takal', ""hä.läq.'dä"")"	datasets/taplanguagesmay2016.tsv		
 449	to count	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	'thɑg	nan	't h ɑ g - - - -	('to count', 'adan1251-lawah', 'taʔana')	datasets/taplanguagesmay2016.tsv		
 449	to count	buna1278-o	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	nare	nan	nan	('to count', 'buna1278-bobon', 'sura')	datasets/taplanguagesmay2016.tsv		
 450	one	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nuk	nan	- - - n u k -	('one', 'abui1241-fuime', 'nuku')	datasets/taplanguagesmay2016.tsv		
@@ -9675,7 +9675,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 452	three	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	su	nan	s - - u	('three', 'kama1365', 'su')	datasets/taplanguagesmay2016.tsv		
 452	three	kira1248	Kiraman	Timor-Alor-Pantar	3Alor, 2Central	suwa	nan	s u w a	('three', 'abui1241-fuime', 'sua')	datasets/taplanguagesmay2016.tsv		
 452	three	kola1287	Wersing-Kolana	Timor-Alor-Pantar	3Alor, 3East	tu	nan	t u - -	('three', 'abui1241-fuime', 'sua')	datasets/taplanguagesmay2016.tsv		
-452	three	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	tu	Swadesh; 251; 147; 199.0	t u	('three', 'kula1280-lanto', 'tu')	datasets/taplanguagesmay2016.tsv		
+452	three	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	tu	Swadesh; 251; 147; 199.0	t u	"('three', 'alor1247-baran', ""'tal:au"")"	datasets/taplanguagesmay2016.tsv		
 452	three	kula1280-lanto	Kula-Lantoka	Timor-Alor-Pantar	3Alor, 3East	twa	Swadesh; 251; 147; 199.0	t - w a	('three', 'abui1241-fuime', 'sua')	datasets/taplanguagesmay2016.tsv		
 452	three	buna1278-malia	Bunaq-Maliana	Timor-Alor-Pantar	4Timor, 2Central	gɔni'ʔo	nan	g ɔ n i 'ʔ o	('three', 'buna1278-bobon', 'goniɁo')	datasets/taplanguagesmay2016.tsv		
 452	three	buna1278-o	Bunak (Orthographic)	Timor-Alor-Pantar	4Timor, 2Central	phi:t	nan	ph ii t	"('three', 'idat1237', ""'ʔa:t"")"	datasets/taplanguagesmay2016.tsv		

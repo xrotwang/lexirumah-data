@@ -157,9 +157,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 143	lungs	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	alua	nan	- - - a l ua - - -	('lungs', 'abui1241-takal', 'tä.qä.le̞̞i')	datasets/westernpantar.tsv		
 144	stomach; belly	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-abbu	nan	_ a bb u -	('stomach; belly', 'lamm1241-westp', '-abbu')	datasets/westernpantar.tsv		
 144	stomach; belly	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-s	nan	_ s	('stomach; belly', 'lamm1241-westp', '-s')	datasets/westernpantar.tsv		
-145	head	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-'uŋ	nan	_ - - 'u ŋ - - - -	"('head', 'lamm1241', ""na'uŋ ki"")"	datasets/westernpantar.tsv		
-145	head	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	ta'uŋ ki	nan	- t a 'u ŋ - _ k i	"('head', 'lamm1241', ""na'uŋ ki"")"	datasets/westernpantar.tsv		
-145	head	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	gane ki	nan	- g a - n e _ k i	"('head', 'lamm1241', ""na'uŋ ki"")"	datasets/westernpantar.tsv		
+145	head	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-'uŋ	nan	_ - - 'u ŋ - - - -	"('head', 'lamm1241-westp', ""-'uŋ"")"	datasets/westernpantar.tsv		
+145	head	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	ta'uŋ ki	nan	- t a 'u ŋ - _ k i	"('head', 'lamm1241-westp', ""-'uŋ"")"	datasets/westernpantar.tsv		
+145	head	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	gane ki	nan	- g a - n e _ k i	"('head', 'lamm1241-westp', ""-'uŋ"")"	datasets/westernpantar.tsv		
 146	hair	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	mayaŋ	nan	m aya ŋ	('hair', 'lamm1241-westp', 'mayaŋ')	datasets/westernpantar.tsv		
 147	body hair	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	mayaŋ	nan	m aya ŋ	('body hair', 'lamm1241-westp', 'mayaŋ')	datasets/westernpantar.tsv		
 147	body hair	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	ur	nan	u r	('body hair', 'lamm1241-westp', 'ur')	datasets/westernpantar.tsv		
@@ -173,7 +173,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 154	teeth	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-wasiŋ	nan	_ w a s i ŋ	('teeth', 'abui1241-fuime', 'taweiti')	datasets/westernpantar.tsv		
 155	tongue	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-lebu	nan	- - _ l e - b u - - - -	('tongue', 'abui1241-fuime', 'talifi')	datasets/westernpantar.tsv		
 156	neck	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-eba	nan	- _ e b a	('neck', 'dein1238', 'newe')	datasets/westernpantar.tsv		
-156	neck	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	hule	nan	- - - h u l e	('neck', 'lamm1241', 'nai hule')	datasets/westernpantar.tsv		
+156	neck	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	hule	nan	- - - h u l e	('neck', 'lamm1241-westp', 'hule')	datasets/westernpantar.tsv		
 157	shoulder	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-makar	nan	_ - - m a k a r	('shoulder', 'alor1249-sar-a', 'pemaqar')	datasets/westernpantar.tsv		
 157	shoulder	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	tamakar	nan	- t a m a k a r	('shoulder', 'alor1249-sar-a', 'pemaqar')	datasets/westernpantar.tsv		
 158	body	lamm1241-westp	Western Pantar	Timor-Alor-Pantar	1Pantar, 1West	-ga	nan	_ g a - -	('body', 'buna1278-bobon', 'gik')	datasets/westernpantar.tsv		
