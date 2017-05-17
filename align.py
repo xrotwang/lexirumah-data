@@ -34,6 +34,8 @@ if __name__ == "__main__":
                         help="Column containing the cognate classes")
     parser.add_argument("--guide-tree", type=argparse.FileType('r'),
                         help="Newick tree to use as guide tree for multi-alignment")
+    parser.add_argument("--only-necessary", action='store_true', default=False,
+                        help="Only align those classes that appear unaligned")
     args = parser.parse_args()
 
     if args.lodict is None:
@@ -52,10 +54,12 @@ if __name__ == "__main__":
     if args.guide_tree:
         tree = newick.load(args.guide_tree)[0]
     else:
-        raise ArgumentError
+        raise argparse.ArgumentError
         # Calculate an UPGMA tree or something
         
     for i, cognateclass in data.groupby(args.cognate_col):
+        if args.only_necessary and len(set(len(cognateclass["Alignment"].str))) == 1:
+            continue
         as_dict = [
             {(c, l, tuple(row[args.tokens].split()))
                 for (c, l, t), row in cognateclass.iterrows()}]
