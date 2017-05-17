@@ -32,7 +32,7 @@ if __name__ == "__main__":
     if args.lodict is None:
         lodict = {}
     else:
-        lodict = pickle.load(args.scores)
+        lodict = pickle.load(args.lodict)
 
     data = pandas.io.parsers.read_csv(
         args.input,
