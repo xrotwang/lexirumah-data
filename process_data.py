@@ -7,6 +7,8 @@ generate a lexirumah sqlite from it.
 
 """
 
+import re
+
 import os
 import argparse
 import json
@@ -141,7 +143,7 @@ def import_concepticon(concepticon_path=concepticon_path):
             # GLOSS
             name=row['English'],
             concepticon_id=row.get('CONCEPTICON_ID', 0),
-            semanticfield="")
+            semanticfield=row["Semantic field"])
         for i, row in concepticon.iterrows()]
     return concepticon
 
@@ -246,9 +248,13 @@ def import_contribution_metadata(
     except KeyError:
         md["abstract"] = "[No description]"
 
-    default_name = os.path.split(mdpath)[-1][:-len(".tsv-metadata.json")]
+    default_name = os.path.split(mdpath)[-1][:-len("-metadata.json")]
+    if default_name.endswith(".tsv"):
+        default_name = default_name[:-4]
+    identifier = md.get("id", re.sub(r'\W+', '', default_name.lower()))
+    print("As:", default_name)
     contrib = Provider(
-        id=md.get("id", default_name),
+        id=md.get("id", identifier),
         # The id is the filename without extension
         name=md.get("name", default_name),
         # The name is the filename with extension
