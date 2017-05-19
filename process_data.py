@@ -168,6 +168,7 @@ def create_language_object(language, languages, families={}, identifiers={}):
         id=language,
         name=row['Language name (-dialect)'],
         family=families[row['Family']],
+        macroarea=row["Region"],
         latitude=row['Lat'],
         longitude=row['Lon'])
 
