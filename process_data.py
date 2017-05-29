@@ -253,7 +253,7 @@ def import_contribution_metadata(
     if default_name.endswith(".tsv"):
         default_name = default_name[:-4]
     identifier = md.get("id", re.sub(r'\W+', '', default_name.lower()))
-    print("As:", default_name)
+    print("As:", identifier)
     contrib = Provider(
         id=md.get("id", identifier),
         # The id is the filename without extension
