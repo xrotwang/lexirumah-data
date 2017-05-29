@@ -266,6 +266,7 @@ def import_contribution_metadata(
         # bibliographic data. TODO: But that's a thing we will sort
         # out at a later stage.
         description=md["abstract"],
+        license=md.get("license", ""),
         jsondata={'sources': md.get("sources", []),
                   "language_pks": []}
         )
