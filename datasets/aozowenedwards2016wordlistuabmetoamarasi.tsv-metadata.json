@@ -1,22 +1,21 @@
 {
-  "abstract": "[No description]",
-  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/aozowenedwards2016wordlistuabmetoamarasi.tsv",
-  "id": "aozowenedwards2016wordlistuabmetoamarasi",
-  "language": "amar1273-kotos",
-  "name": "AOZ_Owen Edwards_2016_word list Uab Meto_Amarasi",
-  "sources": [
-    {
-      "authors": [
-        "Owen Edwards"
-      ],
-      "date": [
-        "2014-2016"
-      ],
-      "recorders": [
-        "Owen Edwards"
-      ],
-      "type": "Toolbox dictionary"
-    },
-    "Edwards, Owen. 2016. Metathesis and Unmetathesis: Parallelism and Complementarity in Amarasi, Timor. PhD Thesis, Australian National University."
-  ]
+	"abstract": "[No description]",
+	"filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/aozowenedwards2016wordlistuabmetoamarasi.tsv",
+	"id": "aozowenedwards2016wordlistuabmetoamarasi",
+	"language": "amar1273-kotos",
+	"name": "AOZ_Owen Edwards_2016_word list Uab Meto_Amarasi",
+	"sources": [{
+			"type": "Toolbox dictionary",
+			"authors": [
+				"Owen Edwards"
+			],
+			"date": [
+				"2014-2016"
+			],
+			"recorders": [
+				"Owen Edwards"
+			]
+		},
+		"Edwards, Owen. 2016. Metathesis and Unmetathesis: Parallelism and Complementarity in Amarasi, Timor. PhD Thesis, Australian National University."
+	]
 }
