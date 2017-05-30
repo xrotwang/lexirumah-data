@@ -8,6 +8,7 @@ generate a lexirumah sqlite from it.
 """
 
 import re
+import math
 
 import os
 import argparse
@@ -137,9 +138,10 @@ def import_concepticon(concepticon_path=concepticon_path):
         keep_default_na=False,
         encoding='utf-8')
     concepticon = concepticon.groupby(level=0).last()
+    digits = int(math.log(len(concepticon))/math.log(10)+1)
     concepticon["db_Object"] = [
         Concept(
-            id=str(i),
+            id=str(i).zfill(digits),
             # GLOSS
             name=row['English'],
             concepticon_id=row.get('CONCEPTICON_ID', 0),
