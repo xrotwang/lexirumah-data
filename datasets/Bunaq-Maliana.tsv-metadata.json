@@ -1,16 +1,25 @@
 {
-	"language": "buna1278-malia",
-	"sources": [{
-		"recorders": ["Marian Klamer"],
-		"date": "2002-05-15, Wednesday",
-		"location": "Tapo (Maliana) (3,5 hours from Dili)",
-		"assistant": [{
-			"name": "Domingus Belo da Cruz",
-			"notes": "student, 20+ years old"
-		}],
-		"speakers": [{
-			"name": "Domingus Martin",
-			"notes": "24 years old, teacher at SMP. Speaks Tetum, Indonesian, Portuguese and English"
-		}]
-	}]
+  "abstract": "[No description]",
+  "language": "buna1278-malia",
+  "sources": [
+    {
+      "assistant": [
+        {
+          "name": "Domingus Belo da Cruz",
+          "notes": "student, 20+ years old"
+        }
+      ],
+      "date": "2002-05-15, Wednesday",
+      "location": "Tapo (Maliana) (3,5 hours from Dili)",
+      "recorders": [
+        "Marian Klamer"
+      ],
+      "speakers": [
+        {
+          "name": "Domingus Martin",
+          "notes": "24 years old, teacher at SMP. Speaks Tetum, Indonesian, Portuguese and English"
+        }
+      ]
+    }
+  ]
 }
