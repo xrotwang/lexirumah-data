@@ -270,9 +270,10 @@ def import_contribution_metadata(
         description=md["abstract"],
         license=md.get("license", ""),
         jsondata={'sources': md.get("sources", []),
-                  "language_pks": []}
+                  "language_pks": []},
+        url=md.get("url")
         )
-    # Provider also has attributes url, aboutUrl, language_count,
+    # Provider also has attributes aboutUrl, language_count,
     # parameter_count, lexeme_count, synonym
 
     contributor_name = HumanName(md.get("creator", "?")[0])

@@ -1,10 +1,10 @@
 {
-  "abstract": "Data from the online Austronesian Basic Vocabulary Database\nData taken from the online version ABVD when it was published under a Creative Commons Attribution 4.0 International license.",
+  "abstract": "Data from the online Austronesian Basic Vocabulary Database<br/>Data taken from the online version ABVD when it was still published under a Creative Commons Attribution 4.0 International license.",
   "id": "abvd",
-  "license" = "CC-BY 4.0",
+  "license": "CC-BY 4.0",
   "name": "Greenhill et al. (2008): ABVD",
   "sources": [
     "Greenhill, S.J., Blust. R, & Gray, R.D. (2008). The Austronesian Basic Vocabulary Database: From Bioinformatics to Lexomics. Evolutionary Bioinformatics, 4:271-283."
-  ]
+  ],
   "url": "https://abvd.shh.mpg.de/austronesian/"
 }
