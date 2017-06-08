@@ -1,218 +1,109 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	a.di( )	nan	a . d i ( _	('sky', 'abui1241-fuime', 'adi')	datasets/abzpetlenggs201505wordlist.tsv		
-0.0	sky	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	adi	nan	a d - - i	('sky', 'abui1241-petle', 'a.di( )')	datasets/abzpetlenggs201505wordlist.tsv		
 4.0	night	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ak.'un	nan	- - - a - - - k .' - - u -	"('night', 'abui1241-petle', ""ak.'un"")"	datasets/abzpetlenggs201505wordlist.tsv		
-4.0	night	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	akun	nan	- - a k u n - -	"('night', 'abui1241-petle', ""ak.'un"")"	datasets/abzpetlenggs201505wordlist.tsv		
 5.0	day	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	leŋ	nan	l e - - ŋ	('day', 'abui1241-petle', 'leŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-5.0	day	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	leng	nan	l e n g -	('day', 'abui1241-petle', 'leŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 6.0	year	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	tuŋ	nan	- t u - ŋ - - - -	('year', 'abui1241-petle', 'tuŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-6.0	year	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tung	nan	t u n - g	('year', 'abui1241-petle', 'tuŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 10.0	tomorrow	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ar.'ja	nan	a r - - .' j - - -	"('tomorrow', 'abui1241-petle', ""ar.'ja"")"	datasets/abzpetlenggs201505wordlist.tsv		
-10.0	tomorrow	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	aria	nan	a r i - a	('tomorrow', 'abui1241-petle-o', 'aria')	datasets/abzpetlenggs201505wordlist.tsv		
 14.0	wind	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ta.'moi	nan	t a .' mo -	('wind', 'abui1241-fuime', 'timoi')	datasets/abzpetlenggs201505wordlist.tsv		
-14.0	wind	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tamoi	nan	nan	"('wind', 'abui1241-petle', ""ta.'moi"")"	datasets/abzpetlenggs201505wordlist.tsv		
 28.0	village	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'me.laŋ	nan	'm e . l a	('village', 'abui1241-fuime', 'melaŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-28.0	village	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	melang	nan	m e l a n g	"('village', 'abui1241-petle', ""'me.laŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
 32.0	stone	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ʋi	nan	- ʋ i - - - - - - -	('stone', 'abui1241-fuime', 'vi')	datasets/abzpetlenggs201505wordlist.tsv		
-32.0	stone	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	wi	nan	w i - -	('stone', 'abui1241-petle', 'ʋi')	datasets/abzpetlenggs201505wordlist.tsv		
 46.0	canoe	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'pe.laŋ	nan	'p e . l a	"('canoe', 'abui1241-petle', ""'pe.laŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
-46.0	canoe	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	pelang	nan	p e l a n g	"('canoe', 'abui1241-petle', ""'pe.laŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
 47.0	sail (n.)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	lol	nan	- l o - l -	('sail (n.)', 'abui1241-petle', 'lol')	datasets/abzpetlenggs201505wordlist.tsv		
-47.0	sail (n.)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	lol	nan	#NAME?	('sail (n.)', 'abui1241-petle', 'lol')	datasets/abzpetlenggs201505wordlist.tsv		
 51.0	rope	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	si.'la	Should be superscript	s i .' l -	"('rope', 'abui1241-petle', ""si.'la"")"	datasets/abzpetlenggs201505wordlist.tsv		
-51.0	rope	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	sila	nan	s i l a - -	"('rope', 'abui1241-petle', ""si.'la"")"	datasets/abzpetlenggs201505wordlist.tsv		
 52.0	machete	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	sa.'pa.da	nan	s a .' p a . -	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	datasets/abzpetlenggs201505wordlist.tsv		
-52.0	machete	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	sapada	nan	s a p a d a -	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	datasets/abzpetlenggs201505wordlist.tsv		
 53.0	axe	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	fa.'liŋ	nan	- - f - - - a .' l i - - - - - - -	('axe', 'abui1241-fuime', 'faliŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-53.0	axe	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	faling	nan	nan	('axe', 'atim1239', 'faling')	datasets/abzpetlenggs201505wordlist.tsv		
 62.0	comb	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ti.'lei	nan	t i .' le	"('comb', 'abui1241-petle', ""ti.'lei"")"	datasets/abzpetlenggs201505wordlist.tsv		
-62.0	comb	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tilei	nan	t i l e i	"('comb', 'abui1241-petle', ""ti.'lei"")"	datasets/abzpetlenggs201505wordlist.tsv		
 65.0	clothing	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'na.maŋ	nan	- 'n a . m a -	"('clothing', 'abui1241-petle', ""'na.maŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
-65.0	clothing	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	namang	nan	n a m a n g	"('clothing', 'abui1241-petle', ""'na.maŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
 67.0	fire	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	a.'ra	nan	- - a - - - - - - .' r - -	('fire', 'abui1241-fuime', 'ara')	datasets/abzpetlenggs201505wordlist.tsv		
-67.0	fire	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ara	nan	a r a	"('fire', 'abui1241-petle', ""a.'ra"")"	datasets/abzpetlenggs201505wordlist.tsv		
 72.0	mud	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	na.'bak	nan	n a .' b a	"('mud', 'abui1241-petle', ""na.'bak"")"	datasets/abzpetlenggs201505wordlist.tsv		
-72.0	mud	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nabak	nan	n a b a k	"('mud', 'abui1241-petle', ""na.'bak"")"	datasets/abzpetlenggs201505wordlist.tsv		
 73.0	clay	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	a.'ruj	yes	a .' r u	"('clay', 'abui1241-petle', ""a.'ruj"")"	datasets/abzpetlenggs201505wordlist.tsv		
-73.0	clay	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	arui	nan	a r u - i	"('clay', 'abui1241-petle', ""a.'ruj"")"	datasets/abzpetlenggs201505wordlist.tsv		
 75.0	sand	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ma.la.'tei	nan	m a . l a. 't - -	('sand', 'abui1241-fuime', 'malatai')	datasets/abzpetlenggs201505wordlist.tsv		
-75.0	sand	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	malatei	nan	nan	"('sand', 'abui1241-petle', ""ma.la.'tei"")"	datasets/abzpetlenggs201505wordlist.tsv		
 77.0	house	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	fa.'la	nan	- - f a .' l	('house', 'abui1241-fuime', 'fala')	datasets/abzpetlenggs201505wordlist.tsv		
-77.0	house	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fala	nan	nan	"('house', 'abui1241-petle', ""fa.'la"")"	datasets/abzpetlenggs201505wordlist.tsv		
 78.0	traditional house	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	fa.'la  'gu.daŋ	nan	f a .' l a_ _' g u . d	"('traditional house', 'abui1241-petle', ""fa.'la  'gu.daŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
-78.0	traditional house	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fala gudang	nan	f a l a _ g u d a n g	('traditional house', 'abui1241-petle-o', 'fala gudang')	datasets/abzpetlenggs201505wordlist.tsv		
 81.0	door	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	luŋ	nan	- - l u ŋ -	('door', 'abui1241-fuime', 'luŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-81.0	door	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	lung	nan	l u - - n g	('door', 'abui1241-petle', 'luŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 92.0	fruit	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	upu	nan	u p u	('fruit', 'abui1241-petle', 'upu')	datasets/abzpetlenggs201505wordlist.tsv		
-92.0	fruit	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	upu	nan	u p u	('fruit', 'abui1241-petle', 'upu')	datasets/abzpetlenggs201505wordlist.tsv		
 98.0	cooked rice	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	´aj.ak ´ma	nan	´ a j . a - k - _ ´ m - -	('cooked rice', 'abui1241-fuime', 'ajak ma')	datasets/abzpetlenggs201505wordlist.tsv		
-98.0	cooked rice	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ayak ma	nan	nan	('cooked rice', 'abui1241-petle', '´aj.ak ´ma')	datasets/abzpetlenggs201505wordlist.tsv		
 136.0	blood	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	we:	nan	- w - e: - -	('blood', 'abui1241-fuime', 'we')	datasets/abzpetlenggs201505wordlist.tsv		
-136.0	blood	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	we	nan	nan	('blood', 'abui1241-petle', 'we:')	datasets/abzpetlenggs201505wordlist.tsv		
 148.0	eye	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	njieŋ	nan	n j - ie ŋ - - - - - - -	('eye', 'abui1241-fuime', 'tieŋ bilka')	datasets/abzpetlenggs201505wordlist.tsv		
-148.0	eye	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nieng	nan	n - i e n g -	('eye', 'abui1241-petle', 'njieŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 154.0	teeth	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'i.tiŋ	nan	- - - 'i - . t - i - - - -	('teeth', 'abui1241-fuime', 'taweiti')	datasets/abzpetlenggs201505wordlist.tsv		
-154.0	teeth	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iting	nan	i t i n g	"('teeth', 'abui1241-petle', ""'i.tiŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
 185.0	scabies	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ku.'ral	nan	k u .' r a	"('scabies', 'abui1241-petle', ""ku.'ral"")"	datasets/abzpetlenggs201505wordlist.tsv		
-185.0	scabies	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kural	nan	k u r a l	"('scabies', 'abui1241-petle', ""ku.'ral"")"	datasets/abzpetlenggs201505wordlist.tsv		
 190.0	person	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	am.'a	nan	- a m .'	"('person', 'abui1241-petle', ""am.'a"")"	datasets/abzpetlenggs201505wordlist.tsv		
-190.0	person	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ama	nan	#NAME?	"('person', 'abui1241-petle', ""am.'a"")"	datasets/abzpetlenggs201505wordlist.tsv		
 191.0	name	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	an.'a	nan	- - a n - .' - - - -	('name', 'abui1241-fuime', 'na-ne')	datasets/abzpetlenggs201505wordlist.tsv		
-191.0	name	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ana	nan	- - a - n a - -	"('name', 'abui1241-petle', ""an.'a"")"	datasets/abzpetlenggs201505wordlist.tsv		
 192.0	child	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'mo.ki	nan	'm o . k	"('child', 'abui1241-petle', ""'mo.ki"")"	datasets/abzpetlenggs201505wordlist.tsv		
-192.0	child	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	moki	nan	#NAME?	"('child', 'abui1241-petle', ""'mo.ki"")"	datasets/abzpetlenggs201505wordlist.tsv		
 193.0	man	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	neŋ	nan	n e - ŋ	('man', 'abui1241-fuime', 'neŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-193.0	man	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	neng	nan	n e - n g	('man', 'abui1241-petle', 'neŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 194.0	woman	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	me:l	nan	m - - e: l - - -	('woman', 'abui1241-fuime', 'maijo')	datasets/abzpetlenggs201505wordlist.tsv		
-194.0	woman	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	mel	nan	m e - - l - -	('woman', 'abui1241-petle', 'me:l')	datasets/abzpetlenggs201505wordlist.tsv		
 197.0	mother	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ni.'ja	nan	- n i .' j	('mother', 'abui1241-fuime', 'nija')	datasets/abzpetlenggs201505wordlist.tsv		
-197.0	mother	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	niya	nan	nan	('mother', 'atim1239', 'hea')	datasets/abzpetlenggs201505wordlist.tsv		
 198.0	father	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	nu.'ma	nan	n - - u .' m - - - -	('father', 'abui1241-fuime', 'mama')	datasets/abzpetlenggs201505wordlist.tsv		
-198.0	father	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	numa	nan	nan	('father', 'atim1239', 'mama')	datasets/abzpetlenggs201505wordlist.tsv		
 211.0	no; not	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	na.'ha	nan	n a .' h	"('no; not', 'abui1241-petle', ""na.'ha"")"	datasets/abzpetlenggs201505wordlist.tsv		
-211.0	no; not	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	naha	nan	n a h a - -	"('no; not', 'abui1241-petle', ""na.'ha"")"	datasets/abzpetlenggs201505wordlist.tsv		
 216.0	what?	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	na.'la	nan	- - n a .' l - - - -	"('what?', 'abui1241-petle', ""na.'la"")"	datasets/abzpetlenggs201505wordlist.tsv		
-216.0	what?	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nala	nan	n a l - - - a	"('what?', 'abui1241-petle', ""na.'la"")"	datasets/abzpetlenggs201505wordlist.tsv		
 217.0	who?	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ma:	nan	- - m a: - - - -	('who?', 'abui1241-petle', 'ma:')	datasets/abzpetlenggs201505wordlist.tsv		
-217.0	who?	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	maa	nan	m aa	('who?', 'abui1241-petle', 'ma:')	datasets/abzpetlenggs201505wordlist.tsv		
 218.0	where?	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'te(:).ha	nan	- 't - - e - (: ) . - h -	"('where?', 'abui1241-petle', ""'te(:).ha"")"	datasets/abzpetlenggs201505wordlist.tsv		
-218.0	where?	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	teha	nan	- - - - t e h a - - - - - - ( - - - - - - - ) -	"('where?', 'abui1241-petle', ""'te(:).ha"")"	datasets/abzpetlenggs201505wordlist.tsv		
 223.0	this	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	i.'ti	nan	- i .' t	"('this', 'abui1241-petle', ""i.'ti"")"	datasets/abzpetlenggs201505wordlist.tsv		
-223.0	this	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iti	nan	#NAME?	"('this', 'abui1241-petle', ""i.'ti"")"	datasets/abzpetlenggs201505wordlist.tsv		
 224.0	that	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	i.'ti mu:	nan	- i .' t - i _ mu	"('that', 'abui1241-petle', ""i.'ti mu:"")"	datasets/abzpetlenggs201505wordlist.tsv		
-224.0	that	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	iti muu	nan	i t i _ m uu	"('that', 'abui1241-petle', ""i.'ti mu:"")"	datasets/abzpetlenggs201505wordlist.tsv		
 227.0	here	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	me	nan	- - - - m e	('here', 'abui1241-petle', 'me')	datasets/abzpetlenggs201505wordlist.tsv		
-227.0	here	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	me	nan	#NAME?	('here', 'abui1241-petle', 'me')	datasets/abzpetlenggs201505wordlist.tsv		
 228.0	there	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	we	nan	- - - w e - -	('there', 'abui1241-petle', 'we')	datasets/abzpetlenggs201505wordlist.tsv		
 228.0	there	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ʋe	nan	- - - ʋ e - -	('there', 'abui1241-petle', 'we')	datasets/abzpetlenggs201505wordlist.tsv		
-228.0	there	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	we	nan	w e	('there', 'abui1241-petle', 'we')	datasets/abzpetlenggs201505wordlist.tsv		
 231.0	left (side)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ai.'bi.kil	some palatilization going on	- ai .' b i - - . k	('left (side)', 'abui1241-fuime', 'teibika')	datasets/abzpetlenggs201505wordlist.tsv		
 231.0	left (side)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	i.'bi.kil	some palatilization going on	- i .' b i - - . k	('left (side)', 'abui1241-fuime', 'teibika')	datasets/abzpetlenggs201505wordlist.tsv		
-231.0	left (side)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	aibikil	nan	#NAME?	"('left (side)', 'abui1241-petle', ""ai.'bi.kil"")"	datasets/abzpetlenggs201505wordlist.tsv		
-231.0	left (side)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ibikil	nan	#NAME?	"('left (side)', 'abui1241-petle', ""ai.'bi.kil"")"	datasets/abzpetlenggs201505wordlist.tsv		
 232.0	right (side)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ai.'kaŋ	nan	- ai .' - k a - -	('right (side)', 'abui1241-fuime', 'teikaŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 232.0	right (side)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	i.'kaŋ	nan	- i .' - k a - -	('right (side)', 'abui1241-fuime', 'teikaŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-232.0	right (side)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	aikang	nan	#NAME?	('right (side)', 'abui1241-fuime', 'teikang')	datasets/abzpetlenggs201505wordlist.tsv		
-232.0	right (side)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ikang	nan	#NAME?	('right (side)', 'abui1241-fuime', 'teikang')	datasets/abzpetlenggs201505wordlist.tsv		
 238.0	dog	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	kai	nan	k ai - - - - - -	('dog', 'abui1241-fuime', 'kai')	datasets/abzpetlenggs201505wordlist.tsv		
-238.0	dog	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kai	nan	k a i	('dog', 'abui1241-fuime', 'kai')	datasets/abzpetlenggs201505wordlist.tsv		
 241.0	rat	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	i.'li	nan	- i .' l -	"('rat', 'abui1241-petle', ""i.'li"")"	datasets/abzpetlenggs201505wordlist.tsv		
-241.0	rat	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	ili	nan	- i l i -	"('rat', 'abui1241-petle', ""i.'li"")"	datasets/abzpetlenggs201505wordlist.tsv		
 250.0	fish	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	a.'fu	nan	- - a .' f	('fish', 'abui1241-fuime', 'afu')	datasets/abzpetlenggs201505wordlist.tsv		
-250.0	fish	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	afu	nan	#NAME?	"('fish', 'abui1241-petle', ""a.'fu"")"	datasets/abzpetlenggs201505wordlist.tsv		
 254.0	crocodile	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	bu.'a.ja 'ta.ma	nan	b u .' a . j a_ ' t a	"('crocodile', 'abui1241-petle', ""bu.'a.ja 'ta.ma"")"	datasets/abzpetlenggs201505wordlist.tsv		
-254.0	crocodile	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	buaya tama	nan	b u a y a _ t a m a	"('crocodile', 'abui1241-petle', ""bu.'a.ja 'ta.ma"")"	datasets/abzpetlenggs201505wordlist.tsv		
 264.0	snake	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	mon	nan	- - m o n -	('snake', 'abui1241-fuime', 'mon')	datasets/abzpetlenggs201505wordlist.tsv		
-264.0	snake	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	mon	nan	m o n -	('snake', 'abui1241-petle', 'mon')	datasets/abzpetlenggs201505wordlist.tsv		
 266.0	egg	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ruwal bura	nan	- r u - - w a l _ b u r a	('egg', 'abui1241-petle', 'ruwal bura')	datasets/abzpetlenggs201505wordlist.tsv		
-266.0	egg	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	rual bura	nan	r u - a l _ b u r a	('egg', 'abui1241-petle', 'ruwal bura')	datasets/abzpetlenggs201505wordlist.tsv		
 279.0	louse (clothing)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	bi.'keŋ	nan	b i .' - k e	"('louse (clothing)', 'abui1241-petle', ""bi.'keŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
-279.0	louse (clothing)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	bikeng	nan	b i k e n g	"('louse (clothing)', 'abui1241-petle', ""bi.'keŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
 288.0	hot	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	li.'la( )	nan	l i .' l a ( _	('hot', 'abui1241-fuime', 'lila')	datasets/abzpetlenggs201505wordlist.tsv		
-288.0	hot	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	lila	nan	#NAME?	"('hot', 'abui1241-petle', ""li.'la( )"")"	datasets/abzpetlenggs201505wordlist.tsv		
 289.0	cold	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	pa.'la.ta( )	nan	- p a - .' l a - - - - - - - . t a (	('cold', 'abui1241-fuime', 'palata')	datasets/abzpetlenggs201505wordlist.tsv		
-289.0	cold	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	palata	nan	p a l a t a - - -	"('cold', 'abui1241-petle', ""pa.'la.ta( )"")"	datasets/abzpetlenggs201505wordlist.tsv		
 290.0	good	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ka:ŋ	nan	- k a: ŋ -	('good', 'abui1241-fuime', 'kaŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-290.0	good	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kaang	nan	- k aa - n g -	('good', 'abui1241-petle', 'ka:ŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 291.0	bad	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'be:.ka	nan	'b e: . k	"('bad', 'abui1241-petle', ""'be:.ka"")"	datasets/abzpetlenggs201505wordlist.tsv		
-291.0	bad	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	beeka	nan	nan	"('bad', 'abui1241-petle', ""'be:.ka"")"	datasets/abzpetlenggs201505wordlist.tsv		
 298.0	dry in sun	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	te.'li.a	nan	t e .' l i	"('dry in sun', 'abui1241-petle', ""te.'li.a"")"	datasets/abzpetlenggs201505wordlist.tsv		
 298.0	dry in sun	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	tǝ.'li.a	nan	t ǝ .' l i	"('dry in sun', 'abui1241-petle', ""te.'li.a"")"	datasets/abzpetlenggs201505wordlist.tsv		
-298.0	dry in sun	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	telia	nan	#NAME?	"('dry in sun', 'abui1241-petle', ""te.'li.a"")"	datasets/abzpetlenggs201505wordlist.tsv		
 316.0	wide	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	fo.ko	nan	f o . k	('wide', 'abui1241-petle', 'fo.ko')	datasets/abzpetlenggs201505wordlist.tsv		
 316.0	wide	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	foka	nan	f o k a	('wide', 'abui1241-petle', 'fo.ko')	datasets/abzpetlenggs201505wordlist.tsv		
-316.0	wide	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	foka	nan	f o k a	('wide', 'abui1241-petle', 'fo.ko')	datasets/abzpetlenggs201505wordlist.tsv		
 317.0	narrow	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	mi:.'ta	nan	m i: .' t	"('narrow', 'abui1241-petle', ""mi:.'ta"")"	datasets/abzpetlenggs201505wordlist.tsv		
-317.0	narrow	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	mita	nan	m i t a	"('narrow', 'abui1241-petle', ""mi:.'ta"")"	datasets/abzpetlenggs201505wordlist.tsv		
 320.0	ripe	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'ma.di	nan	'm a . - - d -	"('ripe', 'abui1241-petle', ""'ma.di"")"	datasets/abzpetlenggs201505wordlist.tsv		
-320.0	ripe	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	madi	nan	m a d - - i -	"('ripe', 'abui1241-petle', ""'ma.di"")"	datasets/abzpetlenggs201505wordlist.tsv		
 329.0	black	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	a.ka.'ni	nan	- - - - a . k a. ' -	('black', 'abui1241-fuime', 'akani')	datasets/abzpetlenggs201505wordlist.tsv		
-329.0	black	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	akani	nan	nan	('black', 'atim1239', 'akani')	datasets/abzpetlenggs201505wordlist.tsv		
 330.0	white	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ku.'li	nan	k u .' l	('white', 'abui1241-fuime', 'kuli')	datasets/abzpetlenggs201505wordlist.tsv		
-330.0	white	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kuli	nan	k u l i	"('white', 'abui1241-petle', ""ku.'li"")"	datasets/abzpetlenggs201505wordlist.tsv		
 332.0	green	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	wa.la.'ŋai	nan	- - w a - . l a. - - 'ŋ	('green', 'abui1241-fuime', 'walaŋai')	datasets/abzpetlenggs201505wordlist.tsv		
 332.0	green	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	wa.la.'ŋɪi	nan	- - w a - . l a. - - 'ŋ	('green', 'abui1241-fuime', 'walaŋai')	datasets/abzpetlenggs201505wordlist.tsv		
-332.0	green	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	walangai	nan	- - w a l a n g a - i - - - - - -	"('green', 'abui1241-petle', ""wa.la.'ŋai"")"	datasets/abzpetlenggs201505wordlist.tsv		
-332.0	green	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	walangei	nan	- - w a l a n g e - i - - - - - -	"('green', 'abui1241-petle', ""wa.la.'ŋai"")"	datasets/abzpetlenggs201505wordlist.tsv		
 341.0	scared	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	fu:.'ja	nan	f u: .' j	"('scared', 'abui1241-petle', ""fu:.'ja"")"	datasets/abzpetlenggs201505wordlist.tsv		
-341.0	scared	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fuya	nan	f u - y a	"('scared', 'abui1241-petle', ""fu:.'ja"")"	datasets/abzpetlenggs201505wordlist.tsv		
 346.0	to think	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'no:.miŋ ha.'tuk	nan	- - 'n - o: . m i ŋ _ h a. ' t - -	"('to think', 'abui1241-petle', ""'no:.miŋ ha.'tuk"")"	datasets/abzpetlenggs201505wordlist.tsv		
-346.0	to think	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nooming hatuk	nan	n oo m i n g _ h a t u k	"('to think', 'abui1241-petle', ""'no:.miŋ ha.'tuk"")"	datasets/abzpetlenggs201505wordlist.tsv		
 348.0	to say	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'la.ral	Malay Laral: discussion about word	'l a . r a	"('to say', 'abui1241-petle', ""'la.ral"")"	datasets/abzpetlenggs201505wordlist.tsv		
-348.0	to say	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	laral	nan	l a r a l	"('to say', 'abui1241-petle', ""'la.ral"")"	datasets/abzpetlenggs201505wordlist.tsv		
 351.0	language	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'la.ral	nan	'l a . r a	"('language', 'abui1241-petle', ""'la.ral"")"	datasets/abzpetlenggs201505wordlist.tsv		
-351.0	language	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	laral	nan	l a r a l	"('language', 'abui1241-petle', ""'la.ral"")"	datasets/abzpetlenggs201505wordlist.tsv		
 358.0	to sit	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	mi.'ti	nan	- - m i .' t -	"('to sit', 'abui1241-petle', ""mi.'ti"")"	datasets/abzpetlenggs201505wordlist.tsv		
-358.0	to sit	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	miti	nan	- - m i t - i - -	"('to sit', 'abui1241-petle', ""mi.'ti"")"	datasets/abzpetlenggs201505wordlist.tsv		
 360.0	to walk	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	pu.'tok ho.'la:k	/o/ sounds like a /u/	p u .' t o - k _ h o. 'l a	"('to walk', 'abui1241-petle', ""pu.'tok ho.'la:k"")"	datasets/abzpetlenggs201505wordlist.tsv		
-360.0	to walk	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	putok holak	nan	p u t o k - _ h o l a k	"('to walk', 'abui1241-petle', ""pu.'tok ho.'la:k"")"	datasets/abzpetlenggs201505wordlist.tsv		
 362.0	to go	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	la:k	nan	- l a: k - -	('to go', 'abui1241-petle', 'la:k')	datasets/abzpetlenggs201505wordlist.tsv		
-362.0	to go	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	laak	nan	l aa k -	('to go', 'abui1241-petle', 'la:k')	datasets/abzpetlenggs201505wordlist.tsv		
 370.0	to cook	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ma:l	nan	m a: - - l - - -	('to cook', 'abui1241-petle', 'ma:l')	datasets/abzpetlenggs201505wordlist.tsv		
 370.0	to cook	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	sen	nan	s - - - - e n -	('to cook', 'abui1241-petle', 'sen')	datasets/abzpetlenggs201505wordlist.tsv		
 370.0	to cook	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	sεn	nan	s - - - - ε n -	('to cook', 'abui1241-petle', 'sen')	datasets/abzpetlenggs201505wordlist.tsv		
-370.0	to cook	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	maal	nan	m aa l - - -	('to cook', 'abui1241-petle', 'ma:l')	datasets/abzpetlenggs201505wordlist.tsv		
-370.0	to cook	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	sen	nan	s e n - -	('to cook', 'abui1241-petle', 'sen')	datasets/abzpetlenggs201505wordlist.tsv		
 376.0	to die	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	moŋ	nan	- - - m - o ŋ - - -	('to die', 'abui1241-fuime', 'moŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-376.0	to die	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	mong	nan	#NAME?	('to die', 'abui1241-petle', 'moŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 377.0	to give	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	l	el: give to you	- - l -	('to give', 'abui1241-petle', 'l')	datasets/abzpetlenggs201505wordlist.tsv		
-377.0	to give	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	l	nan	l	('to give', 'abui1241-petle', 'l')	datasets/abzpetlenggs201505wordlist.tsv		
 379.0	to come	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	jei	CHECK	j ei	('to come', 'abui1241-petle', 'jei')	datasets/abzpetlenggs201505wordlist.tsv		
-379.0	to come	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yei	nan	y e i	('to come', 'abui1241-petle-o', 'yei')	datasets/abzpetlenggs201505wordlist.tsv		
 380.0	to laugh	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	jei	nan	- j - - - - ei - -	('to laugh', 'abui1241-petle', 'jei')	datasets/abzpetlenggs201505wordlist.tsv		
-380.0	to laugh	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yei	nan	y e i	('to laugh', 'abui1241-petle-o', 'yei')	datasets/abzpetlenggs201505wordlist.tsv		
 381.0	to cry	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	fel	nan	f e l - -	('to cry', 'abui1241-petle', 'fel')	datasets/abzpetlenggs201505wordlist.tsv		
-381.0	to cry	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fel	nan	f e l -	('to cry', 'abui1241-petle', 'fel')	datasets/abzpetlenggs201505wordlist.tsv		
 383.0	to sing	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	jei hofaŋa	nan	j ei _ h o f a ŋ a	('to sing', 'abui1241-petle', 'jei hofaŋa')	datasets/abzpetlenggs201505wordlist.tsv		
-383.0	to sing	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yei hofanga	nan	#NAME?	('to sing', 'abui1241-petle', 'jei hofaŋa')	datasets/abzpetlenggs201505wordlist.tsv		
 389.0	to suck	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	hiŋ ah.'el	nan	h i ŋ _ a h .' e	"('to suck', 'abui1241-petle', ""hiŋ ah.'el"")"	datasets/abzpetlenggs201505wordlist.tsv		
-389.0	to suck	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	(hing) ahel	nan	#NAME?	"('to suck', 'abui1241-petle', ""hiŋ ah.'el"")"	datasets/abzpetlenggs201505wordlist.tsv		
 397.0	to hit	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	feŋ	nan	f e ŋ	('to hit', 'abui1241-petle', 'feŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-397.0	to hit	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	feng	nan	f e n g	('to hit', 'abui1241-petle', 'feŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 406.0	to fight	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ta'lu:k	nan	t a 'l u: k	('to fight', 'abui1241-fuime', 'taluk')	datasets/abzpetlenggs201505wordlist.tsv		
-406.0	to fight	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	taluk	nan	t a - l u k	"('to fight', 'abui1241-petle', ""ta'lu:k"")"	datasets/abzpetlenggs201505wordlist.tsv		
 410.0	to kill	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	bol moŋ	nan	b o l - - - - - - _ - m o ŋ - -	('to kill', 'abui1241-petle', 'bol moŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-410.0	to kill	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	bol mong	nan	nan	('to kill', 'abui1241-petle', 'bol moŋ')	datasets/abzpetlenggs201505wordlist.tsv		
 416.0	to flow	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	tel	nan	t e l -	('to flow', 'abui1241-petle', 'tel')	datasets/abzpetlenggs201505wordlist.tsv		
-416.0	to flow	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tel	nan	t e l -	('to flow', 'abui1241-petle', 'tel')	datasets/abzpetlenggs201505wordlist.tsv		
 419.0	to hold	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ho.'pu.na	nan	- h o - - - .' - - - - p - u .	('to hold', 'abui1241-fuime', 'ho-puna')	datasets/abzpetlenggs201505wordlist.tsv		
-419.0	to hold	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hopuna	nan	h o - p u - n a	"('to hold', 'abui1241-petle', ""ho.'pu.na"")"	datasets/abzpetlenggs201505wordlist.tsv		
 420.0	to tie	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	kol	nan	- - - k - o l -	('to tie', 'abui1241-fuime', 'ha-kode')	datasets/abzpetlenggs201505wordlist.tsv		
-420.0	to tie	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kol	nan	#NAME?	('to tie', 'abui1241-petle', 'kol')	datasets/abzpetlenggs201505wordlist.tsv		
-421.0	to play	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tafik	nan	t a f i k	('to play', 'abui1241-petle-o', 'tafik')	datasets/abzpetlenggs201505wordlist.tsv		
-422.0	to pull	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	hafik	nan	h a f i k -	('to pull', 'abui1241-petle-o', 'hafik')	datasets/abzpetlenggs201505wordlist.tsv		
 433.0	to steal	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ta.kau	nan	- - t - a . ka - - -	('to steal', 'abui1241-fuime', 'takau')	datasets/abzpetlenggs201505wordlist.tsv		
-433.0	to steal	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	takau	nan	t a k a - u -	('to steal', 'abui1241-petle', 'ta.kau')	datasets/abzpetlenggs201505wordlist.tsv		
 438.0	to wait	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	neroi	Written but not spoken	- n e r oi	('to wait', 'abui1241-fuime', 'ne-re')	datasets/abzpetlenggs201505wordlist.tsv		
-438.0	to wait	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	neroi	Written but not spoken	- n e r o i	('to wait', 'abui1241-petle-o', 'neroi')	datasets/abzpetlenggs201505wordlist.tsv		
 442.0	to shoot	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	tak	check recording for example	- - t a k -	('to shoot', 'abui1241-fuime', 'hateike')	datasets/abzpetlenggs201505wordlist.tsv		
-442.0	to shoot	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	tak	nan	- - t - a k -	('to shoot', 'abui1241-petle', 'tak')	datasets/abzpetlenggs201505wordlist.tsv		
 450.0	one	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'nu.ku	stress is diff	- - - 'n u . k	('one', 'abui1241-fuime', 'nuku')	datasets/abzpetlenggs201505wordlist.tsv		
-450.0	one	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	nuku	nan	#NAME?	"('one', 'abui1241-petle', ""'nu.ku"")"	datasets/abzpetlenggs201505wordlist.tsv		
 451.0	two	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'o.ki	nan	- - 'o . - k -	"('two', 'abui1241-petle', ""'o.ki"")"	datasets/abzpetlenggs201505wordlist.tsv		
-451.0	two	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	oki	nan	- - o k i -	"('two', 'abui1241-petle', ""'o.ki"")"	datasets/abzpetlenggs201505wordlist.tsv		
 452.0	three	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	'su.a	nan	's u - .	('three', 'abui1241-fuime', 'sua')	datasets/abzpetlenggs201505wordlist.tsv		
-452.0	three	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	sua	nan	s u - a	"('three', 'abui1241-petle', ""'su.a"")"	datasets/abzpetlenggs201505wordlist.tsv		
 453.0	four	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	bu.'ti	nan	- - b u .' t -	('four', 'abui1241-fuime', 'buti')	datasets/abzpetlenggs201505wordlist.tsv		
-453.0	four	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	buti	nan	b u t i -	"('four', 'abui1241-petle', ""bu.'ti"")"	datasets/abzpetlenggs201505wordlist.tsv		
 454.0	five	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	je.'tiŋ	nan	- - - - - j e .' t i -	('five', 'abui1241-fuime', 'jetiŋ')	datasets/abzpetlenggs201505wordlist.tsv		
-454.0	five	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yeting	nan	#NAME?	"('five', 'abui1241-petle', ""je.'tiŋ"")"	datasets/abzpetlenggs201505wordlist.tsv		
 455.0	six	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	ta.'la.ma	nan	- t a .' l a . -	('six', 'abui1241-fuime', 'tala:ma')	datasets/abzpetlenggs201505wordlist.tsv		
-455.0	six	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	talama	nan	t a l a - m a -	"('six', 'abui1241-petle', ""ta.'la.ma"")"	datasets/abzpetlenggs201505wordlist.tsv		
 456.0	seven	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	je.'tiŋ  'o.ki	nan	j e .' t i ŋ_ - - _' o .	"('seven', 'abui1241-petle', ""je.'tiŋ  'o.ki"")"	datasets/abzpetlenggs201505wordlist.tsv		
-456.0	seven	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yeting oki	nan	#NAME?	('seven', 'abui1241-petle-o', 'yeting oki')	datasets/abzpetlenggs201505wordlist.tsv		
 457.0	eight	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	je.'tiŋ 'su.a	nan	j e .' t i ŋ _' s u	('eight', 'abui1241-fuime', 'jeti sua')	datasets/abzpetlenggs201505wordlist.tsv		
-457.0	eight	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yeting sua	nan	#NAME?	"('eight', 'abui1241-petle', ""je.'tiŋ 'su.a"")"	datasets/abzpetlenggs201505wordlist.tsv		
 458.0	nine	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	je.'tiŋ buti	nan	j e .' t i - ŋ _ b u t	('nine', 'abui1241-fuime', 'jetiŋ buti')	datasets/abzpetlenggs201505wordlist.tsv		
-458.0	nine	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	yeting buti	nan	#NAME?	"('nine', 'abui1241-petle', ""je.'tiŋ buti"")"	datasets/abzpetlenggs201505wordlist.tsv		
 459.0	ten	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	kar.'nu.ku	nan	- k a r - - .' n u .	('ten', 'abui1241-fuime', 'kar nuku')	datasets/abzpetlenggs201505wordlist.tsv		
-459.0	ten	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	karnuku	nan	k a - r - n u k u	"('ten', 'abui1241-petle', ""kar.'nu.ku"")"	datasets/abzpetlenggs201505wordlist.tsv		
-470.0	twenty one	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kär.'ä.jo.qu wäl 'ta.la.ma	nan	k ä - r ˈä - - j o q u _ w ä - l - - _ ˈt a l a m a	"('twenty one', 'abui1241-petle-o', ""kär.'ä.jo.qu wäl 'ta.la.ma"")"	datasets/abzpetlenggs201505wordlist.tsv		
-471.0	twenty two	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kär.'ä.jo.qu wäl je̞.tiŋ ä.jo.'qu	nan	k ä r ˈä j - o q u _ w ä l _ j e̞ t i ŋ _ ä j - o ˈq u	"('twenty two', 'abui1241-petle-o', ""kär.'ä.jo.qu wäl je̞.tiŋ ä.jo.'qu"")"	datasets/abzpetlenggs201505wordlist.tsv		
-472.0	twenty three	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kär.'ä.jo.qu wäl je̞.ti 'su.a	nan	k ä r ˈä j - o q u _ w ä l _ j e̞ t i _ ˈs u a	"('twenty three', 'abui1241-petle-o', ""kär.'ä.jo.qu wäl je̞.ti 'su.a"")"	datasets/abzpetlenggs201505wordlist.tsv		
-473.0	twenty four	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	kär.'ä.jo.qu wäl je̞.tiŋ bu.'ti	nan	k ä r ˈä - j o q u _ w ä l _ j e̞ - t i ŋ _ b u ˈt i	"('twenty four', 'abui1241-petle-o', ""kär.'ä.jo.qu wäl je̞.tiŋ bu.'ti"")"	datasets/abzpetlenggs201505wordlist.tsv		
 503.0	rack(above hearth/for storing food)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	a.'ku.i 'sa.ha	nan	- a .' k u . i_ ' s a	"('rack(above hearth/for storing food)', 'abui1241-petle', ""a.'ku.i 'sa.ha"")"	datasets/abzpetlenggs201505wordlist.tsv		
 503.0	rack(above hearth/for storing food)	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	fal 'fa.la	nan	f - a l - _ 'f a . l	"('rack(above hearth/for storing food)', 'abui1241-petle', ""fal 'fa.la"")"	datasets/abzpetlenggs201505wordlist.tsv		
-503.0	rack(above hearth/for storing food)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	akui saha	nan	#NAME?	"('rack(above hearth/for storing food)', 'abui1241-petle', ""a.'ku.i 'sa.ha"")"	datasets/abzpetlenggs201505wordlist.tsv		
-503.0	rack(above hearth/for storing food)	abui1241-petle-o	Abui-Petleng (Orthographic)	Timor-Alor-Pantar	3Alor, 2Central	fal fala	nan	f a l - _ f a l a	"('rack(above hearth/for storing food)', 'abui1241-petle', ""fal 'fa.la"")"	datasets/abzpetlenggs201505wordlist.tsv		
 644.0	tobacco	abui1241-petle	Abui-Petleng	Timor-Alor-Pantar	3Alor, 2Central	kabak	nan	k a b a k	('tobacco', 'abui1241-petle', 'kabak')	datasets/abzpetlenggs201505wordlist.tsv		
