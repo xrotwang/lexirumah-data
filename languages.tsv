@@ -92,10 +92,10 @@ kaer1234-o	Timor-Alor-Pantar	Kaera-Abangiwang (Orthographic)		jka		kaer1234	-8.4
 kafo1240	Timor-Alor-Pantar	Kafoa-Probur		kpu		kafo1240	-8.3616	124.4478	"3Alor, 1West"		Coordinates taken from Probur village on OSM [Gereon]; changed lat and long in this file to match Languages and Coordinates excel file [Emily]	kafoaprobur	Kafoa-Probur
 kama1365	Timor-Alor-Pantar	Kamang-Atoitaa		woi		kama1365	-8.2543	124.8515	"3Alor, 2Central"			kamangatoitaa	Kamang-Atoitaa
 kira1248	Timor-Alor-Pantar	Kiraman		kvd		kira1248	-8.3847	124.8334	"3Alor, 2Central"			kiraman	Kiraman
-kelo1247-bring	Timor-Alor-Pantar	Klon-Bring		kyo		kelo1247	-8.4185	124.3418	"3Alor, 1West"			klonbring	Klon-Bring
+kelo1247-bring	Timor-Alor-Pantar	Klon-Bring		kyo		kelo1247	-8.349705	124.423117	"3Alor, 1West"		From village Probur (-8.349705, 124.423117)	klonbring	Klon-Bring
 kelo1247	Timor-Alor-Pantar	Klon		kyo		kelo1247	-8.4185	123.418	"3Alor, 1West"		This is in the sea; can't find the place on choi map [Emily]	klon	
 kelo1247-hopte	Timor-Alor-Pantar	Klon-Hopter		kyo		kelo1247	-8.4018	124.4192056	"3Alor, 1West"			klon	Klon-Hopter
-kuii1253	Timor-Alor-Pantar	Kui-Moru		kvd		kuii1253	-8.4351	124.5423	"3Alor, 1West"		Coordinates of Moru village on OSM – we also have from other sources -8.2844737/125.0477418 or -8.4351/124.5423; latter in L&C excel file changed it accordingly [Emily]	kuimoru	Kui-Moru
+kuii1253	Timor-Alor-Pantar	Kui-Labaing		kvd		kuii1253	-8.422124	124.524538	"3Alor, 1West"		Kui was recoded in Moru, but speaker is from Lerabaing -8.422124, 124.524538		Kui-Moru
 kula1280-lanto	Timor-Alor-Pantar	Kula-Lantoka		tpg		kula1280	-8.2584306	124.9309167	"3Alor, 3East"			kulalantoka	Kula-Lantoka
 kula1280	Timor-Alor-Pantar	Kula		tpg		kula1280	-8.1753	125.099	"3Alor, 3East"		Typological questionnaire is based on Kula-Tanglapui and Lantoka dialect. Other data are yet pending. Can't find place on Choi map	kula	
 maka1316	Timor-Alor-Pantar	Makasae	maka	mkz		maka1316	-8.4394	126.9821	"4Timor, 3East"			makasae	Makasae
@@ -108,11 +108,10 @@ alor1249-sar-a	Timor-Alor-Pantar	Sar-Adiabang			sarx		-8.326	124.228	"1Pantar, 1
 alor1249-sar-n	Timor-Alor-Pantar	Sar-Nule					-8.3775	124.2303	"1Pantar, 1West"			sarnule	Sar-Nule
 sawi1256	Timor-Alor-Pantar	Sawila		swt		sawi1256	-8.3433	125.0922	"3Alor, 3East"			sawila	Sawila
 teiw1235	Timor-Alor-Pantar	Teiwa-Lebang	teiw	twe		teiw1235	-8.257	124.2151	"1Pantar, 1West"			teiwalebang	Teiwa-Lebang
-kola1287	Timor-Alor-Pantar	Wersing-Kolana		kvw		kola1287	-8.2844737	125.0477418	"3Alor, 3East"		"Village Kolana Selatan, on OSM"	wersingkolana	Wersing-Kolana
+kola1287	Timor-Alor-Pantar	Wersing-Taramana		kvw		wers1238	-8.167276	124.850714	"3Alor, 3East"		Wersing speaker recorded in Kalabahi but speaker is from Taramana: -8.167276, 124.850714. (Taramana is NOT in Kolana, so the current ID is misleading.)	wersingkolana	Wersing-Kolana
 wers1238	Timor-Alor-Pantar	Wersing		kvw		wers1238	-8.2908	125.1234	"3Alor, 3East"		Typological questionnaire is based on Wersing-Pureman dialect. Other data are  yet pending; can't find place on Choi map [Emily]	wersing	
 wers1238-marit	Timor-Alor-Pantar	Wersing-Maritaing		kvw		wers1238	-8.2968139	125.1093111	"3Alor, 3East"			wersing	Wersing-Maritaing
-lamm1241	Timor-Alor-Pantar	Western Pantar-Tubbe		lev		lamm1241	-8.4631	124.1274	"1Pantar, 1West"			westernpantartubbe	
-lamm1241-westp	Timor-Alor-Pantar	Western Pantar		lev		lamm1241	-8.4631	124.1274	"1Pantar, 1West"			westernpantar	Western Pantar
+lamm1241-westp	Timor-Alor-Pantar	Western Pantar-Tubbe		lev		lamm1241	-8.450514	124.054522	"1Pantar, 1West"		Collection by Gary Holton. From Puntaru (-8.450514, 124.054522), in the Tubbe speaking region.	westernpantar	Western Pantar
 alor1247-pandai	Austronesian	Alorese-Pandai					-8.21559	124.2643342	"1Pantar, 2East"				Alorese-Pandai
 alor1247-munas	Austronesian	Alorese-Munaseli					-8.1927045	124.3070337	"1Pantar, 2East"				Alorese-Munaseli
 amar1273-kotos	Austronesian	Amarasi-Uab Meto-Kotos					-10.243719	123.872458			"Amarasi dialect of Uab Meto, in the Kotos variety spoken by inhabitants of the hamlet"	Glottolog gives a number of varieties of Uab Meto. The Amarasi variety represented here is distinct from any of those mentioned.	Amarasi-Uab Meto-Kotos
