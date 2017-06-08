@@ -422,6 +422,7 @@ def import_contribution(
     else:
         files = [path]
 
+    contribution_data = pandas.DataFrame()
     for file in files:
         # Open the data frame and to some initial clean up.
         data = pandas.io.parsers.read_csv(
@@ -544,7 +545,8 @@ def import_contribution(
 
         if file not in trust:
             write_normalized_data(data, file)
-    return data
+        contribution_data = pandas.concat((contribution_data, data))
+    return contribution_data
 
 
 def import_cldf(srcdir, concepticon, languages, trust=[]):
