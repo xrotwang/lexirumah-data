@@ -469,6 +469,12 @@ def import_contribution(
                 if row[column] != languages[column][language]:
                     data.set_value(i, column, languages[column][language])
 
+            # Remove 'nan' strings
+            for key in row.index:
+                if key != "Value":
+                    if row[key] == "nan":
+                        row[key] = ""
+
             # Try to find the feature in the list. If not found, log a
             # message and take on the next row.
             try:
@@ -516,6 +522,7 @@ def import_contribution(
                 value = values[vid] = Counterpart(
                     id=vid,
                     valueset=vs,
+                    comment=row['Comment'],
                     name=value)
                 DBSession.add(value)
             else:
