@@ -269,8 +269,8 @@ def import_contribution_metadata(
         # out at a later stage.
         description=md["abstract"],
         license=md.get("license", ""),
-        jsondata={'sources': md.get("sources", []),
-                  "language_pks": []},
+        jsondata={key: value for key, value in md.items()
+                  if key not in ["abstract", "filename", "id", "name"]},
         url=md.get("url")
         )
     # Provider also has attributes aboutUrl, language_count,
@@ -505,8 +505,6 @@ def import_contribution(
             else:
                 lo = langs_cache[language] = create_language_object(
                     language, languages)
-                contrib.jsondata.setdefault("language_pks", []).append(
-                    lo.pk)
             vsid = "{:s}-{:}".format(language, feature)
             if feature in valuesets:
                 vs = valuesets[vsid]

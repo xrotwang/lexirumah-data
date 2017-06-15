@@ -1,11 +1,17 @@
 {
-    "Language": [
-        "Ka\u025bra"
-    ],
-    "Location": [
-        "Abangiwang Padangsul"
-    ],
-    "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/kaeranew2016.tsv",
-    "id": "kaeranew2016",
-    "name": "Kaera_new_2016"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/kaeranew2016.tsv",
+  "id": "klamer2016kaera",
+  "language": "kaer1234",
+  "name": "Klamer 2003-2016: Field notes on Kaera-Abangiwang",
+  "sources": [
+    {
+      "collector": [
+        "Marian Klamer"
+      ],
+      "location": "Abangiwang",
+      "type": "fieldnotes",
+      "year": "2003-2016"
+    }
+  ]
 }
