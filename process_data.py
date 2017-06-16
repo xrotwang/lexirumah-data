@@ -8,6 +8,7 @@ generate a lexirumah sqlite from it.
 """
 
 import re
+import math
 
 import os
 import argparse
@@ -137,9 +138,10 @@ def import_concepticon(concepticon_path=concepticon_path):
         keep_default_na=False,
         encoding='utf-8')
     concepticon = concepticon.groupby(level=0).last()
+    digits = int(math.log(len(concepticon))/math.log(10)+1)
     concepticon["db_Object"] = [
         Concept(
-            id=str(i),
+            id=str(i).zfill(digits),
             # GLOSS
             name=row['English'],
             concepticon_id=row.get('CONCEPTICON_ID', 0),
@@ -253,7 +255,7 @@ def import_contribution_metadata(
     if default_name.endswith(".tsv"):
         default_name = default_name[:-4]
     identifier = md.get("id", re.sub(r'\W+', '', default_name.lower()))
-    print("As:", default_name)
+    print("As:", identifier)
     contrib = Provider(
         id=md.get("id", identifier),
         # The id is the filename without extension
@@ -266,10 +268,12 @@ def import_contribution_metadata(
         # bibliographic data. TODO: But that's a thing we will sort
         # out at a later stage.
         description=md["abstract"],
-        jsondata={'sources': md.get("sources", []),
-                  "language_pks": []}
+        license=md.get("license", ""),
+        jsondata={key: value for key, value in md.items()
+                  if key not in ["abstract", "filename", "id", "name"]},
+        url=md.get("url")
         )
-    # Provider also has attributes url, aboutUrl, language_count,
+    # Provider also has attributes aboutUrl, language_count,
     # parameter_count, lexeme_count, synonym
 
     contributor_name = HumanName(md.get("creator", "?")[0])
@@ -418,6 +422,7 @@ def import_contribution(
     else:
         files = [path]
 
+    contribution_data = pandas.DataFrame()
     for file in files:
         # Open the data frame and to some initial clean up.
         data = pandas.io.parsers.read_csv(
@@ -464,6 +469,12 @@ def import_contribution(
                 if row[column] != languages[column][language]:
                     data.set_value(i, column, languages[column][language])
 
+            # Remove 'nan' strings
+            for key in row.index:
+                if key != "Value":
+                    if row[key] == "nan":
+                        row[key] = ""
+
             # Try to find the feature in the list. If not found, log a
             # message and take on the next row.
             try:
@@ -494,8 +505,6 @@ def import_contribution(
             else:
                 lo = langs_cache[language] = create_language_object(
                     language, languages)
-                contrib.jsondata.setdefault("language_pks", []).append(
-                    lo.pk)
             vsid = "{:s}-{:}".format(language, feature)
             if feature in valuesets:
                 vs = valuesets[vsid]
@@ -511,6 +520,7 @@ def import_contribution(
                 value = values[vid] = Counterpart(
                     id=vid,
                     valueset=vs,
+                    comment=row['Comment'],
                     name=value)
                 DBSession.add(value)
             else:
@@ -540,7 +550,8 @@ def import_contribution(
 
         if file not in trust:
             write_normalized_data(data, file)
-    return data
+        contribution_data = pandas.concat((contribution_data, data))
+    return contribution_data
 
 
 def import_cldf(srcdir, concepticon, languages, trust=[]):

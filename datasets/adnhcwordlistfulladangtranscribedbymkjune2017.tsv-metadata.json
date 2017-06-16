@@ -1,11 +1,12 @@
 {
   "abstract": "[No description]",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/adnhc20150923wordlist.tsv",
-  "id": "adnhc20150923wordlist",
+  "id": "choi2015otvai",
   "language": "adan1251",
-  "name": "ADN_HC_2015_09_23_word list",
-  "sources": [
+  "name": "Choi 2015: Field notes on Adang-Otvai",
+  "recordings": [
     {
+      "date": "2015",
       "location": "Otvai, Alor",
       "recorders": [
         "Hannah Choi"
@@ -21,5 +22,11 @@
         }
       ]
     }
-  ]
+  ],
+  "transcription": {
+    "date": "2017-06",
+    "transcribers": [
+      "Marian Klamer"
+    ]
+  }
 }

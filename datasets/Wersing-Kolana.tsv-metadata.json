@@ -1,13 +1,16 @@
 {
-	"id": "holton2010kolan",
-	"name": "Holton 2010: Field notes on  Kolana",	
-	"sources": [{
-		"type": "fieldnotes",
-		"year": "2010",
-		"location": "Kolana",
-		"collector": [
-			"Gary Holton"
-		}]
-	"date": "2002-05-10",
-	}]
+  "abstract": "[No description]",
+  "id": "holton2010kolan",
+  "name": "Holton 2010: Field notes on Wersing-Kolana",
+  "sources": [
+    {
+      "collector": [
+        "Gary Holton"
+      ],
+      "date": "2010-05-10",
+      "location": "Kolana",
+      "type": "fieldnotes",
+      "year": "2010"
+    }
+  ]
 }

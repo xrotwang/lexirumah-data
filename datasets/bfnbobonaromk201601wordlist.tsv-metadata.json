@@ -2,13 +2,16 @@
   "abstract": "[No description]",
   "comments": "Bunak Dialect Bobonaro (Malopeta) -8.439363, 126.982125",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/bfnbobonaromk201601wordlist.tsv",
-  "id": "bfnbobonaromk201601wordlist",
+  "id": "klamer2016bobon",
   "language": "buna1278-bobon",
-  "name": "BFN_Bobonaro_MK_2016_01_word list",
+  "name": "Klamer 2016: Field notes on Bunak-Bobonaro",
   "sources": [
     {
       "date": "2016-01",
       "location": "Dili, Timor Leste",
+      "notes": [
+        "The recording contains different dialects. The lexical differences are often between Suai and Bobonaro/Maliana. Phonological differences include: /ph/ in Suai often corresponds to  /f/ in Bobonaro; and  /r/ in Suai may correspond to /l/ in Bobonaro."
+      ],
       "recorders": [
         "Marian Klamer"
       ],

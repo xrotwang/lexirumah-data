@@ -1,11 +1,16 @@
 {
-	"language": "hama1240",
-	"sources": [{
-		"type": "fieldnotes",
-		"year": "2003",
-		"location": "Moru",
-		"collector": [
-			"Louise Baird"
-		]
-	}]
+  "abstract": "[No description]",
+  "id": "baird2003hamap",
+  "language": "hama1240",
+  "name": "Baird 2003: Field notes on Hamap-Moru",
+  "sources": [
+    {
+      "collector": [
+        "Louise Baird"
+      ],
+      "location": "Moru",
+      "type": "fieldnotes",
+      "year": "2003"
+    }
+  ]
 }

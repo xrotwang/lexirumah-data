@@ -1,18 +1,23 @@
 {
-	"language": "kula1280-lanto",
-	"sources": [{
-		"type": "fieldnotes",
-		"year": "2010",
-		"location of recording": "Kalabahi",
-		"recorders": [
-			"Nicholas Williams"
-		],
-		"speakers": [{
-				"name": "Poli Karpus",
-				"date of birth": "January 1982",
-				"place of birth": "Lantuka"
-			}
-
-		]
-	}]
+  "abstract": "[No description]",
+  "id": "williams2010lanto",
+  "language": "kula1280-lanto",
+  "name": "Williams 2010: Field notes on Kula-Lantoka",
+  "sources": [
+    {
+      "location of recording": "Kalabahi",
+      "recorders": [
+        "Nicholas Williams"
+      ],
+      "speakers": [
+        {
+          "date of birth": "January 1982",
+          "name": "Poli Karpus",
+          "place of birth": "Lantuka"
+        }
+      ],
+      "type": "fieldnotes",
+      "year": "2010"
+    }
+  ]
 }

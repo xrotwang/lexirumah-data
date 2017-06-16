@@ -1,9 +1,14 @@
 {
   "abstract": "[No description]",
   "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/lmhadmk20150518wordlist.tsv",
-  "id": "lmhadmk20150518wordlist",
-  "language": "adon1237",
-  "name": "LMH_AD_MK_2015_05_18_word list",
+  "id": "klamer2015adona",
+  "language": "lama1277-adona",
+  "name": "Klamer 2015: Field notes on Lamaholot-Adonara",
+  "notes": [
+    "No phonemic use of glottal stop in word initial position. Glottal stop is phonemic in word final position.",
+    "No phonemic distinction between \u0251/a, \u0254/o, \u025b/e, \u026a/i; phonemic distinction between \u025c/schwa versus \u025b/e.",
+    "Nasal vowels are likely not phonemic but are a merger of word/syllable final nasal with preceding vowel."
+  ],
   "sources": [
     {
       "date": "2015-05-18",

@@ -1,11 +1,16 @@
 {
-	"language": "kafo1240",
-	"sources": [{
-		"type": "fieldnotes",
-		"year": "2003",
-		"location": "Probur",
-		"collector": [
-			"Louise Baird"
-		]
-	}]
+  "abstract": "[No description]",
+  "id": "baird2003probur",
+  "language": "kafo1240",
+  "name": "Baird 2003: Field notes on Kafoa-Probur",
+  "sources": [
+    {
+      "collector": [
+        "Louise Baird"
+      ],
+      "location": "Probur",
+      "type": "fieldnotes",
+      "year": "2003"
+    }
+  ]
 }

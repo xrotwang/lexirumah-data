@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
     codes = clust.cognate_code_infomap2(
         words_dict, lodict,
-        gop=-2.5, gep=-1.75, threshold=0.5, method='infomap')
+        gop=-2.5, gep=-1.75, threshold=0.001, method='infomap')
 
     lex = data.set_index(["English", "Language_ID", args.tokens])
     lex["Similarity Set"] = None

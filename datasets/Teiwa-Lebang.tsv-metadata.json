@@ -1,13 +1,21 @@
 {
-"id": "klamer2016teiwa", 
-  "name": "Klamer 2016: Field notes on Teiwa",
-	"sources": [{
-		"type": "fieldnotes",
-		"year": ["2010", "2016"],
-		"location": ["Lebang", "Tamalabang"],
-		"collector": [
-			"Marian Klamer"
-		]
-	}]
+  "abstract": "[No description]",
+  "id": "klamer2016teiwa",
+  "name": "Klamer 2016: Field notes on Teiwa-Lebang",
+  "sources": [
+    {
+      "collector": [
+        "Marian Klamer"
+      ],
+      "location": [
+        "Lebang",
+        "Tamalabang"
+      ],
+      "type": "fieldnotes",
+      "year": [
+        "2010",
+        "2016"
+      ]
+    }
+  ]
 }
-
