@@ -1,14 +1,32 @@
 {
-    "Date of transcription:": [
-        "June 2017"
-    ],
-    "Recorded by:": [
-        "Hanna Choi"
-    ],
-    "Transcribed by:": [
-        "Marian Klamer"
-    ],
-    "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/adnhcwordlistfulladangtranscribedbymkjune2017.tsv",
-    "id": "adnhcwordlistfulladangtranscribedbymkjune2017",
-    "name": "ADN_HC_Wordlist_full_Adang_transcribed by MK June 2017"
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/adnhc20150923wordlist.tsv",
+  "id": "choi2015otvai",
+  "language": "adan1251",
+  "name": "Choi 2015: Field notes on Adang-Otvai",
+  "recordings": [
+    {
+      "date": "2015",
+      "location": "Otvai, Alor",
+      "recorders": [
+        "Hannah Choi"
+      ],
+      "speakers": [
+        {
+          "name": "Marlon Adang",
+          "speaker code": "MA"
+        },
+        {
+          "name": "Yosmi Riana Wati Adang",
+          "speaker code": "WA"
+        }
+      ]
+    }
+  ],
+  "transcription": {
+    "date": "2017-06",
+    "transcribers": [
+      "Marian Klamer"
+    ]
+  }
 }

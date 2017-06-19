@@ -269,8 +269,8 @@ def import_contribution_metadata(
         # out at a later stage.
         description=md["abstract"],
         license=md.get("license", ""),
-        jsondata={'sources': md.get("sources", []),
-                  "language_pks": []},
+        jsondata={key: value for key, value in md.items()
+                  if key not in ["abstract", "filename", "id", "name"]},
         url=md.get("url")
         )
     # Provider also has attributes aboutUrl, language_count,
@@ -469,6 +469,12 @@ def import_contribution(
                 if row[column] != languages[column][language]:
                     data.set_value(i, column, languages[column][language])
 
+            # Remove 'nan' strings
+            for key in row.index:
+                if key != "Value":
+                    if row[key] == "nan":
+                        row[key] = ""
+
             # Try to find the feature in the list. If not found, log a
             # message and take on the next row.
             try:
@@ -499,8 +505,6 @@ def import_contribution(
             else:
                 lo = langs_cache[language] = create_language_object(
                     language, languages)
-                contrib.jsondata.setdefault("language_pks", []).append(
-                    lo.pk)
             vsid = "{:s}-{:}".format(language, feature)
             if feature in valuesets:
                 vs = valuesets[vsid]
@@ -516,6 +520,7 @@ def import_contribution(
                 value = values[vid] = Counterpart(
                     id=vid,
                     valueset=vs,
+                    comment=row['Comment'],
                     name=value)
                 DBSession.add(value)
             else:

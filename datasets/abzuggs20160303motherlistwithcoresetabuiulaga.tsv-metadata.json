@@ -1,34 +1,37 @@
 {
-    "Approximate coordinates": [
-        "-8.403792",
-        "124.623702",
+  "abstract": "[No description]",
+  "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abzuggs20160303motherlistwithcoresetabuiulaga.tsv",
+  "id": "saad2016ulang",
+  "name": "Saad 2016: Field notes on Abui-Ulaga",
+  "recording": {
+    "date": [
+      "2016-03-02",
+      "2016-03-03"
     ],
-    "Date recorded": [
-        "2016-03-02",
-        "2016-03-03",
+    "recorders": [
+      "George Saad"
     ],
-    "Desa": [
-        "Lakatuli"
-    ],
-    "Kecamatan": [
-        "Mataru"
-    ],
-    "Location": [
-        "mataru selatan (Mery) desa lakatuli"
-    ],
-    "Notes:": [
-        "She claims to be a descendent of the Mataru royal family"
-    ],
-    "Speaker name:": [
-        "Meriance Karpanegi"
-    ],
-    "Speaker residence": [
-        "Kupang"
-    ],
-    "Village name": [
-        "Ulaga"
-    ],
-    "filename": "/vol/winshare/Public/ResearchData/HUM/LUCL-KlamerVICI/sunda_database_raw_git/lexirumah-data/datasets/abzuggs20160303motherlistwithcoresetabuiulaga.tsv",
-    "id": "abzuggs20160303motherlistwithcoresetabuiulaga",
-    "name": "ABZ_UG_GS_2016_03_03_motherlist_with_core_set_Abui_Ulaga"
+    "speakers": [
+      {
+        "Meriance Karpanegi": {
+          "notes:": [
+            "She claims to be a descendent of the Mataru royal family"
+          ],
+          "origin": {
+            "approximate coordinates": {
+              "lat": -8.403792,
+              "lon": 124.623702
+            },
+            "desa": "Lakatuli",
+            "description": "mataru selatan (Mery) desa lakatuli",
+            "kecamatan": "Mataru",
+            "village name": "Ulaga"
+          },
+          "residences": [
+            "Kupang"
+          ]
+        }
+      }
+    ]
+  }
 }
