@@ -1,420 +1,420 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bu'la	nan	b u l á - - - -	"('sky', 'adan1251-otvai', 'buraŋ')"	datasets/Sar-Adiabang.tsv		
-1	sun	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	war	nan	w a r - - - -	"('sun', 'abui1241-fuime', 'wari')"	datasets/Sar-Adiabang.tsv		
-2	moon	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wur	nan	nan	"('moon', 'abui1241-fuime', 'ije')"	datasets/Sar-Adiabang.tsv		
-3	star	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤif	nan	j i f -	"('star', 'abui1241-fuime', 'fɪri')"	datasets/Sar-Adiabang.tsv		
-4	night	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ibes	nan	i b e s	"('night', 'alor1249-sar-a', 'ibes')"	datasets/Sar-Adiabang.tsv		
-5	day	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	war	nan	w a r -	"('day', 'adan1251-lawah', 'wɛd_saha')"	datasets/Sar-Adiabang.tsv		
-7	morning	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bes iwaŋ	nan	b e s _ - i w a ŋ -	"('morning', 'alor1249-sar-a', 'bes_iwaŋ')"	datasets/Sar-Adiabang.tsv		
-8	yesterday	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	məlah	nan	m ə l a h - - - - -	"('yesterday', 'alor1249-sar-a', 'məlah')"	datasets/Sar-Adiabang.tsv		
-9	day before yesterday	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gataraq	nan	g a t a - r a q -	"('day before yesterday', 'alor1249-sar-a', 'gataraq')"	datasets/Sar-Adiabang.tsv		
-10	tomorrow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bat	nan	b a t - -	"('tomorrow', 'alor1249-sar-a', 'bat')"	datasets/Sar-Adiabang.tsv		
-11	day after tomorrow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tiraq	nan	- - t i - - r - a q - - -	"('day after tomorrow', 'alor1249-sar-a', 'tiraq')"	datasets/Sar-Adiabang.tsv		
-12	twilight; dawn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ihar gafar	nan	i h a r _ g a f a r	"('twilight; dawn', 'alor1249-sar-a', 'ihar_gafar')"	datasets/Sar-Adiabang.tsv		
-13	cloud	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mana:f	nan	m a n aa f - -	"('cloud', 'alor1249-sar-a', 'mana:f')"	datasets/Sar-Adiabang.tsv		
-14	wind	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤerak	nan	j e r a k	"('wind', 'alor1249-sar-a', 'jerak')"	datasets/Sar-Adiabang.tsv		
-15	rain	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'al	nan	- á l -	"('rain', 'alor1249-sar-a', 'ál')"	datasets/Sar-Adiabang.tsv		
-17	rainbow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	teh ga'tan	nan	t e h _ g a t á n	"('rainbow', 'alor1249-sar-a', 'teh_gatán')"	datasets/Sar-Adiabang.tsv		
-18	thunder	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gragar	bunyinya	g - r a g a - r	"('thunder', 'alor1249-sar-a', 'gragar')"	datasets/Sar-Adiabang.tsv		
-19	lightning	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	itimiʤah	"kilatan, cahaya"	i - - t i m i j a h	"('lightning', 'alor1249-sar-a', 'itimiyah')"	datasets/Sar-Adiabang.tsv		
-20	earthquake	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	itoj	nan	i t o j	"('earthquake', 'abui1241-fuime', 'taiyoka')"	datasets/Sar-Adiabang.tsv		
-21	fog	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ibu:m	"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari"	i b uu m	"('fog', 'alor1249-sar-a', 'ibu:m')"	datasets/Sar-Adiabang.tsv		
-22	river; stream	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa'fa	nan	q a f á	"('river; stream', 'alor1249-sar-a', 'qafá')"	datasets/Sar-Adiabang.tsv		
-26	mountain	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ujah	nan	u j a h	"('mountain', 'alor1249-sar-a', 'uyah')"	datasets/Sar-Adiabang.tsv		
-27	hill; ridge	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤihil	nan	j i h i l	"('hill; ridge', 'alor1249-sar-a', 'jihil')"	datasets/Sar-Adiabang.tsv		
-28	village	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ha'faŋ	nan	h a f á ŋ -	"('village', 'adan1251-lawah', 'baŋ_ʔɛme')"	datasets/Sar-Adiabang.tsv		
-29	land; soil	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma'xaʔ	nan	m a x - á ʔ	"('land; soil', 'alor1249-sar-a', 'maxáʔ')"	datasets/Sar-Adiabang.tsv		
-30	Earth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	id	"id ‘earth’, por ‘island’"	i d	"('Earth', 'alor1249-sar-a', 'id')"	datasets/Sar-Adiabang.tsv		
-30	Earth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	por	"id ‘earth’, por ‘island’"	p o r	"('Earth', 'alor1249-sar-a', 'por')"	datasets/Sar-Adiabang.tsv		
-31	hole	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤe'ga	nan	j e g á	"('hole', 'alor1249-sar-a', 'jegá')"	datasets/Sar-Adiabang.tsv		
-32	stone	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	war	nan	w a r -	"('stone', 'abui1241-fuime', 'vi')"	datasets/Sar-Adiabang.tsv		
-33	coral (rock)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	(war) mə'rag	batu (rock) di pantai	m ə r á g	"('coral (rock)', 'alor1249-sar-a', '(war)_mərág')"	datasets/Sar-Adiabang.tsv		
-34	(coral) reef	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'tomi	karang (reef) di dasar laut	nan	"('(coral) reef', 'alor1249-sar-a', 'tómi')"	datasets/Sar-Adiabang.tsv		
-35	water (fresh)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤir	nan	- j i r -	"('water (fresh)', 'abui1241-fuime', 'je')"	datasets/Sar-Adiabang.tsv		
-36	sea; sea water	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	taŋ	nan	t a ŋ -	"('sea; sea water', 'abui1241-fuime', 'tama')"	datasets/Sar-Adiabang.tsv		
-37	wave	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bu'at	nan	b u á t - - -	"('wave', 'alor1249-sar-a', 'buát')"	datasets/Sar-Adiabang.tsv		
-38	foam	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ul	nan	u l	"('foam', 'alor1249-sar-a', 'ul')"	datasets/Sar-Adiabang.tsv		
-39	forest	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mə'rag	nan	- m ə r á g	"('forest', 'alor1249-sar-a', 'mərág')"	datasets/Sar-Adiabang.tsv		
-40	field	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʔar	nan	- - ʔ a r	"('field', 'alor1249-sar-a', 'ʔar')"	datasets/Sar-Adiabang.tsv		
-43	garden	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma'xar	nan	m a x á r -	"('garden', 'alor1249-sar-a', 'maxár')"	datasets/Sar-Adiabang.tsv		
-45	road; path; way	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤuhutar	nan	j u h u t a r	"('road; path; way', 'alor1247-baran', ""'tɔ:r"")"	datasets/Sar-Adiabang.tsv		
-46	canoe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	haj	nan	h a j	"('canoe', 'alor1249-sar-a', 'hay')"	datasets/Sar-Adiabang.tsv		
-49	fishing hook	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	kawil	nan	k a w i l -	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	datasets/Sar-Adiabang.tsv		
-50	fish trap	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	dah	(‘bubu fishtrap’); dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	d a h	"('fish trap', 'alor1249-sar-a', 'dah')"	datasets/Sar-Adiabang.tsv		
-51	rope	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tar	nan	t a - r - -	"('rope', 'abui1241-takal', 'tʰi.lä')"	datasets/Sar-Adiabang.tsv		
-52	machete	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pe:d	nan	- - p ee d - -	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	datasets/Sar-Adiabang.tsv		
-53	axe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ba'liŋ	nan	nan	"('axe', 'abui1241-fuime', 'faliŋ')"	datasets/Sar-Adiabang.tsv		
-54	spear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qab	nan	q a b - -	"('spear', 'abui1241-takal', ""kä.'fäk"")"	datasets/Sar-Adiabang.tsv		
-56	stick; pole	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'tuha	nan	t ú h a -	"('stick; pole', 'abui1241-fuime', 'tukaraŋ')"	datasets/Sar-Adiabang.tsv		
-57	digging stick	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	laŋʤa	nan	l a ŋ j a	"('digging stick', 'alor1249-sar-a', 'laŋja')"	datasets/Sar-Adiabang.tsv		
-59	bow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʔa'mutan	nan	nan	"('bow', 'alor1249-sar-a', 'ʔamútan')"	datasets/Sar-Adiabang.tsv		
-60	arrow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qu'fut	nan	nan	"('arrow', 'abui1241-takal', ""kä.'fuq"")"	datasets/Sar-Adiabang.tsv		
-61	knife	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	siar	nan	s i - a r	"('knife', 'alor1249-sar-a', 'siar')"	datasets/Sar-Adiabang.tsv		
-62	comb	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ki:r	nan	k ii - - - r -	"('comb', 'alor1249-sar-a', 'ki:r')"	datasets/Sar-Adiabang.tsv		
-62	comb	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤimar	nan	k ii - - - r -	"('comb', 'abui1241-fuime', 'ke:ti')"	datasets/Sar-Adiabang.tsv		
-63	mat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bis	nan	b i s - -	"('mat', 'adan1251-lawah', 'bahu')"	datasets/Sar-Adiabang.tsv		
-64	needle	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bi'tal	nan	b i t á l	"('needle', 'adan1251-lawah', 'bátuŋ')"	datasets/Sar-Adiabang.tsv		
-67	fire	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ar	nan	a r -	"('fire', 'abui1241-fuime', 'ara')"	datasets/Sar-Adiabang.tsv		
-68	smoke	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	(ar) bu:n	nan	b uu n - - - - -	"('smoke', 'adan1251-lawah', 'awai_banoʔo')"	datasets/Sar-Adiabang.tsv		
-70	dust; fine earth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	de'maŋ	nan	d e m á ŋ	"('dust; fine earth', 'alor1249-sar-a', 'demáŋ')"	datasets/Sar-Adiabang.tsv		
-71	fireplace ash	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	de'maŋ	"NOT 'debu' (dust, after you have been sweeping)"	d e m á ŋ -	"('fireplace ash', 'alor1249-sar-a', 'demáŋ')"	datasets/Sar-Adiabang.tsv		
-72	mud	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	quŋ	nan	- - - q u ŋ - -	"('mud', 'alor1249-sar-a', 'quŋ')"	datasets/Sar-Adiabang.tsv		
-74	gravel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	də'lawar	nan	d ə l á w a r	"('gravel', 'alor1249-sar-a', 'dəláwar')"	datasets/Sar-Adiabang.tsv		
-75	sand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	u'lus	nan	#NAME?	"('sand', 'alor1249-sar-a', 'ulús')"	datasets/Sar-Adiabang.tsv		
-76	grass; brush	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	raŋ	nan	r a ŋ -	"('grass; brush', 'alor1249-sar-a', 'raŋ')"	datasets/Sar-Adiabang.tsv		
-77	house	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bal	nan	nan	"('house', 'abui1241-fuime', 'fala')"	datasets/Sar-Adiabang.tsv		
-78	traditional house	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa:b	nan	q aa b	"('traditional house', 'alor1249-sar-a', 'qa:b')"	datasets/Sar-Adiabang.tsv		
-79	barn; storage house	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pa'hambal	nan	nan	"('barn; storage house', 'alor1249-sar-a', 'pahámbal')"	datasets/Sar-Adiabang.tsv		
-80	raised platform	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	lag	nan	- l a g -	"('raised platform', 'alor1249-sar-a', 'lag')"	datasets/Sar-Adiabang.tsv		
-81	door	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wə'laʔ	nan	w ə l á ʔ -	"('door', 'alor1249-sar-a', 'wəláʔ')"	datasets/Sar-Adiabang.tsv		
-82	(thatch) roof	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wa:j	nan	nan	"('(thatch) roof', 'abui1241-takal', ""'wäj"")"	datasets/Sar-Adiabang.tsv		
-83	roof thatch	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	maŋ	nan	- m a - - ŋ -	"('roof thatch', 'abui1241-fuime', 'ameŋ')"	datasets/Sar-Adiabang.tsv		
-84	tree	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tai	nan	#NAME?	"('tree', 'adan1251-lawah', 'ti')"	datasets/Sar-Adiabang.tsv		
-86	bark (of tree)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tai qəfijaq	nan	nan	"('bark (of tree)', 'alor1249-sar-a', 'tai_qəfiyaq')"	datasets/Sar-Adiabang.tsv		
-87	leaf	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga waʔ	nan	- g a - _ w a - ʔ -	"('leaf', 'abui1241-fuime', 'watala')"	datasets/Sar-Adiabang.tsv		
-88	branch	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga ki:l	cabang pohon	g a _ k ii l	"('branch', 'alor1249-sar-a', 'ga_ki:l')"	datasets/Sar-Adiabang.tsv		
-89	firewood	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	har ge'miŋ	nan	h a r _ g e m í ŋ	"('firewood', 'abui1241-fuime', 'ara_wa:siŋ')"	datasets/Sar-Adiabang.tsv		
-90	rattan	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	lijah	‘large rattan’	l i j a h _ ‘ l a r g e _ r a tt a n ’	"('rattan', 'adan1251-lawah', 'lɛʔ')"	datasets/Sar-Adiabang.tsv		
-90	rattan	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wurah 	‘small rattan’	l i j a h _ ‘ l a r g e _ r a tt a n ’	"('rattan', 'adan1251-lawah', 'lɛʔ')"	datasets/Sar-Adiabang.tsv		
-91	root	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	a'rak	nan	- a r á - k	"('root', 'alor1249-sar-a', 'arák')"	datasets/Sar-Adiabang.tsv		
-92	fruit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤit	nan	j i t - - - - - - -	"('fruit', 'alor1249-sar-a', 'jit')"	datasets/Sar-Adiabang.tsv		
-93	seed	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bah	nan	b a h	"('seed', 'alor1249-sar-a', 'bah')"	datasets/Sar-Adiabang.tsv		
-96	husked rice; uncooked rice	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	harax	nan	h a r a x	"('husked rice; uncooked rice', 'abui1241-fuime', 'ajak')"	datasets/Sar-Adiabang.tsv		
-98	cooked rice	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'waʔ qar	nan	nan	"('cooked rice', 'alor1247-baran', ""'fata"")"	datasets/Sar-Adiabang.tsv		
-99	rice plant	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	harax	nan	h a r a x	"('rice plant', 'abui1241-fuime', 'ajak_kai')"	datasets/Sar-Adiabang.tsv		
-100	to plant (yam)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga:d	nan	- g aa d -	"('to plant (yam)', 'alor1249-sar-a', 'ga:d')"	datasets/Sar-Adiabang.tsv		
-101	to plant (rice)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga:d	nan	- g aa d -	"('to plant (rice)', 'alor1249-sar-a', 'ga:d')"	datasets/Sar-Adiabang.tsv		
-102	betel nut; areca	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	buj	nan	nan	"('betel nut; areca', 'abui1241-fuime', 'fu')"	datasets/Sar-Adiabang.tsv		
-103	betel vine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mat	nan	nan	"('betel vine', 'abui1241-fuime', 'me:tiŋ')"	datasets/Sar-Adiabang.tsv		
-104	lime	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	hour	nan	h o u r	"('lime', 'abui1241-fuime', 'awai')"	datasets/Sar-Adiabang.tsv		
-105	chew betel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bui si	nan	b u i _ - - s i	"('chew betel', 'alor1249-sar-a', 'bui_si')"	datasets/Sar-Adiabang.tsv		
-106	sweet potato	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qajaw mud	nan	nan	"('sweet potato', 'alor1249-sar-a', 'qayaw_mud')"	datasets/Sar-Adiabang.tsv		
-107	cassava	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	beŋ mud	nan	b e ŋ - _ m u - d	"('cassava', 'alor1249-sar-a', 'beŋ_mud')"	datasets/Sar-Adiabang.tsv		
-108	taro	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wu'fal	nan	nan	"('taro', 'alor1249-sar-a', 'wufál')"	datasets/Sar-Adiabang.tsv		
-108	taro	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wu'hal	nan	w u h á l	"('taro', 'alor1249-sar-a', 'wuhál')"	datasets/Sar-Adiabang.tsv		
-110	millet	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	nat	nan	nan	"('millet', 'alor1249-sar-a', 'nat')"	datasets/Sar-Adiabang.tsv		
-111	sugarcane	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	huh	nan	h u h	"('sugarcane', 'alor1249-sar-a', 'huh')"	datasets/Sar-Adiabang.tsv		
-112	corn; maize	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bə'tar	nan	b ə t á r	"('corn; maize', 'abui1241-fuime', 'fa:ti')"	datasets/Sar-Adiabang.tsv		
-113	cooked corn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	waʔi pa	nan	w a ʔ i _ p a	"('cooked corn', 'alor1247-besar', ""'fata_pu'nakaŋ"")"	datasets/Sar-Adiabang.tsv		
-114	coconut	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wat	nan	w a t - -	"('coconut', 'abui1241-fuime', 'wata')"	datasets/Sar-Adiabang.tsv		
-115	gwang	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	hahal	nan	h a h a l	"('gwang', 'alor1249-sar-a', 'hahal')"	datasets/Sar-Adiabang.tsv		
-116	lontar palm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tuax	nan	t u a x	"('lontar palm', 'adan1251-otvai', 'tɔk')"	datasets/Sar-Adiabang.tsv		
-117	sugar palm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bur	nan	b u r -	"('sugar palm', 'alor1249-sar-a', 'bur')"	datasets/Sar-Adiabang.tsv		
-118	marungga	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qu:d waʔ	nan	q uu d _ w a ʔ	"('marungga', 'alor1249-sar-a', 'qu:d_waʔ')"	datasets/Sar-Adiabang.tsv		
-119	gum tree; eucalyptus	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pal	nan	p a l -	"('gum tree; eucalyptus', 'adan1251-lawah', 'pu')"	datasets/Sar-Adiabang.tsv		
-120	bamboo	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	peita 	‘large domestic bamboo’	nan	"('bamboo', 'alor1249-sar-a', 'biŋmaliŋ_')"	datasets/Sar-Adiabang.tsv		
-120	bamboo	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'ʤa	‘small wild bamboo’	nan	"('bamboo', 'alor1249-sar-a', 'biŋmaliŋ_')"	datasets/Sar-Adiabang.tsv		
-120	bamboo	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	biŋmaliŋ 	‘domestic bamboo used for furniture’	nan	"('bamboo', 'alor1249-sar-a', 'biŋmaliŋ_')"	datasets/Sar-Adiabang.tsv		
-121	banana	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	muxul	nan	nan	"('banana', 'abui1241-fuime', 'musa')"	datasets/Sar-Adiabang.tsv		
-122	mango	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wow	‘domestic mango’	w o w _ ‘ d o m e s t i c _ m a n g o ’	"('mango', 'alor1249-sar-a', 'biyat_')"	datasets/Sar-Adiabang.tsv		
-122	mango	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bijat 	‘wild mango’	w o w _ ‘ d o m e s t i c _ m a n g o ’	"('mango', 'alor1249-sar-a', 'biyat_')"	datasets/Sar-Adiabang.tsv		
-123	papaya	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa'ja	nan	q a - j á	"('papaya', 'adan1251-lawah', 'kahatɛlɛ')"	datasets/Sar-Adiabang.tsv		
-124	jackfruit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ku'lar	nan	k u l á r	"('jackfruit', 'alor1249-sar-a', 'kulár')"	datasets/Sar-Adiabang.tsv		
-125	breadfruit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tu'wan	nan	t u w á n	"('breadfruit', 'alor1249-sar-a', 'tuwán')"	datasets/Sar-Adiabang.tsv		
-126	bean	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa:s	nan	nan	"('bean', 'alor1249-sar-a', 'qa:s')"	datasets/Sar-Adiabang.tsv		
-127	honey	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ta:ŋ	nan	- - t aa ŋ -	"('honey', 'alor1249-sar-a', 'ta:ŋ')"	datasets/Sar-Adiabang.tsv		
-128	milk	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	haŋ	not 'breast'	h a ŋ -	"('milk', 'alor1249-sar-a', 'haŋ')"	datasets/Sar-Adiabang.tsv		
-129	salt	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤisar	nan	j i s a r -	"('salt', 'alor1249-sar-a', 'jisar')"	datasets/Sar-Adiabang.tsv		
-130	fat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qout	nan	q o u t -	"('fat', 'alor1249-sar-a', 'qout')"	datasets/Sar-Adiabang.tsv		
-132	bone	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	kir	nan	nan	"('bone', 'alor1249-sar-a', 'kir')"	datasets/Sar-Adiabang.tsv		
-133	rib	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pa'ʔis	nan	p a ʔ í s	"('rib', 'alor1249-sar-a', 'paʔís')"	datasets/Sar-Adiabang.tsv		
-134	sweat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wu'sir	nan	w u s í r	"('sweat', 'alor1249-sar-a', 'wusír')"	datasets/Sar-Adiabang.tsv		
-135	tear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa'ʔar	nan	- - - - - q a ʔ á r	"('tear', 'alor1249-sar-a', 'qaʔár')"	datasets/Sar-Adiabang.tsv		
-136	blood	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	waj	nan	nan	"('blood', 'abui1241-fuime', 'we')"	datasets/Sar-Adiabang.tsv		
-138	heart	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qalu'al	nan	- - q a l u á l -	"('heart', 'alor1249-sar-a', 'qaluál')"	datasets/Sar-Adiabang.tsv		
-139	liver	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	paxa:l	nan	p a x aa l	"('liver', 'alor1249-sar-a', 'paxa:l')"	datasets/Sar-Adiabang.tsv		
-141	guts	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gum	nan	g u m	"('guts', 'alor1249-sar-a', 'gum')"	datasets/Sar-Adiabang.tsv		
-142	excrement	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	a'qus	nan	a q ú s	"('excrement', 'alor1249-sar-a', 'aqús')"	datasets/Sar-Adiabang.tsv		
-144	stomach; belly	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pi'taʔ	nan	p i t á ʔ -	"('stomach; belly', 'abui1241-fuime', 'tatok_foko')"	datasets/Sar-Adiabang.tsv		
-145	head	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	puʔuŋ kul	nan	nan	"('head', 'alor1247-besar', ""'kɔtɔŋ"")"	datasets/Sar-Adiabang.tsv		
-146	hair	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	puʔuŋ	nan	p u ʔ u ŋ	"('hair', 'alor1249-sar-a', 'puʔuŋ')"	datasets/Sar-Adiabang.tsv		
-147	body hair	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	piŋ mur	nan	nan	"('body hair', 'abui1241-fuime', 'teamur')"	datasets/Sar-Adiabang.tsv		
-148	eye	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pejkba	nan	p e j k b a	"('eye', 'alor1249-sar-a', 'peykba')"	datasets/Sar-Adiabang.tsv		
-149	ear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	puar waʔ	nan	p u - a r _ w a ʔ	"('ear', 'abui1241-fuime', 'tawei_ata')"	datasets/Sar-Adiabang.tsv		
-150	nose	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pimimbul	nan	p i m i m b u l	"('nose', 'alor1249-sar-a', 'pimimbul')"	datasets/Sar-Adiabang.tsv		
-151	mouth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	po'xos	nan	p o x ós	"('mouth', 'alor1249-sar-a', 'poxós')"	datasets/Sar-Adiabang.tsv		
-152	chin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pijaw	nan	p i j a w	"('chin', 'alor1249-sar-a', 'piyaw')"	datasets/Sar-Adiabang.tsv		
-152	chin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'paw	nan	p á - - w	"('chin', 'alor1249-sar-a', 'piyaw')"	datasets/Sar-Adiabang.tsv		
-153	lips	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	peʔertu	nan	p e ʔ e r t u -	"('lips', 'adan1251-lawah', 'tɛm_tɛporo')"	datasets/Sar-Adiabang.tsv		
-154	teeth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pesíŋ	nan	p e - s í ŋ -	"('teeth', 'abui1241-fuime', 'taweiti')"	datasets/Sar-Adiabang.tsv		
-155	tongue	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pe'fal	nan	p e f á l - - -	"('tongue', 'abui1241-takal', ""tä.'li.fi"")"	datasets/Sar-Adiabang.tsv		
-156	neck	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pemaj	nan	p e m a j	"('neck', 'alor1249-sar-a', 'pemay')"	datasets/Sar-Adiabang.tsv		
-157	shoulder	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pemaqar	nan	p e m a q a r - -	"('shoulder', 'alor1249-sar-a', 'pemaqar')"	datasets/Sar-Adiabang.tsv		
-157	shoulder	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pita'hal	nan	p e m a q a r - -	"('shoulder', 'alor1249-sar-a', 'pemaqar')"	datasets/Sar-Adiabang.tsv		
-163	arm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pitaŋ	nan	nan	"('arm', 'abui1241-fuime', 'tataŋ')"	datasets/Sar-Adiabang.tsv		
-166	finger	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pitaŋ ki	nan	p i t a ŋ - _ k i - - -	"('finger', 'alor1249-sar-a', 'pitaŋ_ki')"	datasets/Sar-Adiabang.tsv		
-167	fingernail	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pitaŋ kə'pus	nan	p i t a ŋ - - _ k ə p ú s - - -	"('fingernail', 'abui1241-fuime', 'tataŋ_kusiŋ')"	datasets/Sar-Adiabang.tsv		
-168	breast	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	haŋ	nan	nan	"('breast', 'alor1249-sar-a', 'haŋ')"	datasets/Sar-Adiabang.tsv		
-170	navel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'potal	nan	p ó t a l	"('navel', 'alor1249-sar-a', 'pótal')"	datasets/Sar-Adiabang.tsv		
-171	penis	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pu'hul	"Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip."	nan	"('penis', 'alor1249-sar-a', 'puhúl')"	datasets/Sar-Adiabang.tsv		
-172	vagina	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga:r	"Kemaluan perempuan, same as above."	nan	"('vagina', 'adan1251-otvai', 'a:l')"	datasets/Sar-Adiabang.tsv		
-173	testicles	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	hul 'ba	nan	h u l _ b á	"('testicles', 'alor1249-sar-a', 'hul_bá')"	datasets/Sar-Adiabang.tsv		
-174	leg	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gə'fat	nan	g ə f á t -	"('leg', 'adan1251-lawah', 'nɛʔɛw')"	datasets/Sar-Adiabang.tsv		
-176	heel of foot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bai ge'miŋ	nan	b a i _ g e m í ŋ -	"('heel of foot', 'alor1249-sar-a', 'bai_gemíŋ')"	datasets/Sar-Adiabang.tsv		
-178	knee	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gə'fat ku	nan	g ə f á t _ - k - u -	"('knee', 'abui1241-fuime', 'tabala_buku')"	datasets/Sar-Adiabang.tsv		
-179	back	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pesi'ʔib	nan	nan	"('back', 'alor1249-sar-a', 'pesiíb')"	datasets/Sar-Adiabang.tsv		
-182	skin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	piŋ kuwal	nan	nan	"('skin', 'alor1249-sar-a', 'piŋ_kuwal')"	datasets/Sar-Adiabang.tsv		
-183	sore; wound	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤifat	‘new wound’	nan	"('sore; wound', 'alor1249-sar-a', 'jifat')"	datasets/Sar-Adiabang.tsv		
-183	sore; wound	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	be'tis	‘old wound’	nan	"('sore; wound', 'adan1251-otvai', 'bah')"	datasets/Sar-Adiabang.tsv		
-184	ringworm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	dutis	nan	d u t i s	"('ringworm', 'alor1249-sar-a', 'dutis')"	datasets/Sar-Adiabang.tsv		
-185	scabies	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qu:s	nan	q uu s	"('scabies', 'alor1249-sar-a', 'qu:s')"	datasets/Sar-Adiabang.tsv		
-186	tinea	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mə'nas	nan	m ə n á s	"('tinea', 'alor1249-sar-a', 'mənás')"	datasets/Sar-Adiabang.tsv		
-187	feverish	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gom qajʔaw	nan	g o m _ q a j ʔ a w	"('feverish', 'alor1249-sar-a', 'gom_qayʔaw')"	datasets/Sar-Adiabang.tsv		
-188	conjunctivitis	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	get ʔi	"(lit., ‘eye sick’); Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning."	g e t _ ʔ i	"('conjunctivitis', 'alor1249-sar-a', 'get_ʔi')"	datasets/Sar-Adiabang.tsv		
-189	cold; influenza	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pe'sin	nan	p e s í n - -	"('cold; influenza', 'abui1241-fuime', 'pasiŋ')"	datasets/Sar-Adiabang.tsv		
-190	person	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	uj	"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'"	u j	"('person', 'alor1249-sar-a', 'uy')"	datasets/Sar-Adiabang.tsv		
-191	name	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga'lut	nan	g a l ú t	"('name', 'alor1249-sar-a', 'galút')"	datasets/Sar-Adiabang.tsv		
-192	child	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gokal	"pokál (1pl), gokal (3), nokal (1sg)"	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Sar-Adiabang.tsv		
-192	child	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	nokal	"pokál (1pl), gokal (3), nokal (1sg)"	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Sar-Adiabang.tsv		
-192	child	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	po'kal	"pokál (1pl), gokal (3), nokal (1sg)"	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Sar-Adiabang.tsv		
-193	man	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mase:r	nan	m a s - - - - ee r	"('man', 'alor1249-sar-a', 'mase:r')"	datasets/Sar-Adiabang.tsv		
-194	woman	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ama'qar	nan	a m a q á r	"('woman', 'alor1249-sar-a', 'amaqár')"	datasets/Sar-Adiabang.tsv		
-195	husband	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma'sal	nan	#NAME?	"('husband', 'alor1249-sar-a', 'masál')"	datasets/Sar-Adiabang.tsv		
-196	wife	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	a'maq	Not 'married woman'.	#NAME?	"('wife', 'abui1241-takal', ""te̞̞.mä.'jɔl"")"	datasets/Sar-Adiabang.tsv		
-197	mother	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	na'xaj	nan	nan	"('mother', 'alor1249-sar-a', 'naxáy')"	datasets/Sar-Adiabang.tsv		
-198	father	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	nojta	nan	n o j t a	"('father', 'alor1249-sar-a', 'noyta')"	datasets/Sar-Adiabang.tsv		
-199	older sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	nabib	nan	n a b i b	"('older sibling', 'alor1249-sar-a', 'nabib')"	datasets/Sar-Adiabang.tsv		
-199	older sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	nanaʔ	nan	nan	"('older sibling', 'abui1241-fuime', 'nana')"	datasets/Sar-Adiabang.tsv		
-200	younger sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	nagis	"nagis ‘sister’, neʔa ‘brother’"	n a g i - - s - -	"('younger sibling', 'alor1249-sar-a', 'nagis')"	datasets/Sar-Adiabang.tsv		
-200	younger sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	neʔa	"nagis ‘sister’, neʔa ‘brother’"	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	datasets/Sar-Adiabang.tsv		
-201	bride price	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga'ʔal	nan	nan	"('bride price', 'alor1249-sar-a', 'gaʔál')"	datasets/Sar-Adiabang.tsv		
-202	slave	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gahiŋwal	nan	nan	"('slave', 'alor1249-sar-a', 'gahiŋwal')"	datasets/Sar-Adiabang.tsv		
-231	left (side)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	xa'war	nan	x a w á r	"('left (side)', 'abui1241-fuime', 'teibika')"	datasets/Sar-Adiabang.tsv		
-232	right (side)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'ʤeda	nan	j é - d a - -	"('right (side)', 'alor1249-sar-a', 'jéda')"	datasets/Sar-Adiabang.tsv		
-238	dog	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤI'far	nan	nan	"('dog', 'adan1251-lawah', 'bɛl')"	datasets/Sar-Adiabang.tsv		
-239	pig	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	baj	nan	b a - j -	"('pig', 'abui1241-fuime', 'fe')"	datasets/Sar-Adiabang.tsv		
-240	chicken	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	saxaʔ	nan	s a x - a - ʔ -	"('chicken', 'alor1249-sar-a', 'saxaʔ')"	datasets/Sar-Adiabang.tsv		
-241	rat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	dur	nan	d u r - -	"('rat', 'adan1251-lawah', 'du:l')"	datasets/Sar-Adiabang.tsv		
-242	lizard	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	teh	nan	t e - h	"('lizard', 'abui1241-fuime', 'tekok')"	datasets/Sar-Adiabang.tsv		
-243	civet cat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	raw	nan	r a w	"('civet cat', 'adan1251-lawah', 'alumanɛmɛ')"	datasets/Sar-Adiabang.tsv		
-244	deer	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mu'waj	nan	m u w á j	"('deer', 'alor1249-sar-a', 'muwáy')"	datasets/Sar-Adiabang.tsv		
-245	frog	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mawkubar	nan	m a w - k u b a r	"('frog', 'alor1249-sar-a', 'mawkubar')"	datasets/Sar-Adiabang.tsv		
-246	bat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma'dal	nan	nan	"('bat', 'abui1241-takal', ""mä.'re̞l"")"	datasets/Sar-Adiabang.tsv		
-249	tail	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gor	nan	- g o r - - - - -	"('tail', 'adan1251-lawah', 'oloʔ')"	datasets/Sar-Adiabang.tsv		
-250	fish	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	haf	nan	h a f -	"('fish', 'abui1241-fuime', 'afu')"	datasets/Sar-Adiabang.tsv		
-251	shark	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	si'fir	nan	s i f í r	"('shark', 'adan1251-otvai', 'tabɛi')"	datasets/Sar-Adiabang.tsv		
-252	whale	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'pera	nan	- - - p é r a - - -	"('whale', 'adan1251-lawah', 'perunsah')"	datasets/Sar-Adiabang.tsv		
-253	dolphin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'kuja	nan	k ú - j a -	"('dolphin', 'alor1247-besar', ""'ikaŋ_'kudʒae"")"	datasets/Sar-Adiabang.tsv		
-254	crocodile	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	jiris	nan	j i r i s -	"('crocodile', 'alor1249-sar-a', 'yiris')"	datasets/Sar-Adiabang.tsv		
-255	monitor lizard	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	jiris	nan	- j i r i s -	"('monitor lizard', 'alor1249-sar-a', 'yiris')"	datasets/Sar-Adiabang.tsv		
-256	starfish	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤif taŋga	nan	j i f _ t a ŋ g a	"('starfish', 'alor1249-sar-a', 'jif_taŋga')"	datasets/Sar-Adiabang.tsv		
-257	turtle	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤer quaf	nan	j e - - r _ q u - a f	"('turtle', 'abui1241-fuime', 'youko')"	datasets/Sar-Adiabang.tsv		
-258	turtle (saltwater)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤer quaf	nan	j e - r _ q u - a f	"('turtle (saltwater)', 'abui1241-takal', ""jɜɪ.'kɔi"")"	datasets/Sar-Adiabang.tsv		
-259	bird	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	dal	nan	nan	"('bird', 'abui1241-fuime', 'ruo')"	datasets/Sar-Adiabang.tsv		
-260	wing	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gataʔar	nan	g a t a ʔ a r	"('wing', 'alor1249-sar-a', 'gataʔar')"	datasets/Sar-Adiabang.tsv		
-262	feather	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gamur	nan	- - g a m u r	"('feather', 'abui1241-takal', ""he̞̞.'Ɂäm.ur"")"	datasets/Sar-Adiabang.tsv		
-263	horn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ge'deha	nan	g e d éh - - a	"('horn', 'alor1249-sar-a', 'gedéha')"	datasets/Sar-Adiabang.tsv		
-264	snake	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	da:m	nan	d aa m - - -	"('snake', 'alor1249-sar-a', 'da:m')"	datasets/Sar-Adiabang.tsv		
-265	scorpion	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	par	nan	nan	"('scorpion', 'abui1241-fuime', 'pei')"	datasets/Sar-Adiabang.tsv		
-266	egg	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	to'xol	nan	t o x ó l	"('egg', 'alor1249-sar-a', 'toxól')"	datasets/Sar-Adiabang.tsv		
-267	earthworm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ojtar	nan	o j t a r	"('earthworm', 'alor1249-sar-a', 'oytar')"	datasets/Sar-Adiabang.tsv		
-268	butterfly	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	law barbar	nan	nan	"('butterfly', 'alor1249-sar-a', 'law_barbar')"	datasets/Sar-Adiabang.tsv		
-269	fly (n.)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤə'fur	nan	j ə f ú r	"('fly (n.)', 'alor1249-sar-a', 'jəfúr')"	datasets/Sar-Adiabang.tsv		
-270	mosquito	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	I'hiŋ	nan	- i h - í ŋ -	"('mosquito', 'adan1251-lawah', 'ʔin')"	datasets/Sar-Adiabang.tsv		
-271	ant	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤe'rih	nan	nan	"('ant', 'alor1249-sar-a', 'jeríh')"	datasets/Sar-Adiabang.tsv		
-272	grasshopper	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʔaw	nan	ʔ a w	"('grasshopper', 'alor1249-sar-a', 'ʔaw')"	datasets/Sar-Adiabang.tsv		
-274	spider	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qaʔqaʔ	nan	q a ʔ q a ʔ	"('spider', 'alor1249-sar-a', 'qaʔqaʔ')"	datasets/Sar-Adiabang.tsv		
-275	headlice	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ku'aŋ	nan	#NAME?	"('headlice', 'abui1241-fuime', 'bikeŋ')"	datasets/Sar-Adiabang.tsv		
-276	louse eggs	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	de'liŋ	nan	- - - d e l í ŋ -	"('louse eggs', 'alor1249-sar-a', 'delíŋ')"	datasets/Sar-Adiabang.tsv		
-278	flea	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pa'ʔar	nan	p a ʔ á r	"('flea', 'alor1249-sar-a', 'paʔár')"	datasets/Sar-Adiabang.tsv		
-279	louse (clothing)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	oʔ	nan	#NAME?	"('louse (clothing)', 'alor1249-sar-a', 'oʔ')"	datasets/Sar-Adiabang.tsv		
-280	bedbug	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	maj	nan	nan	"('bedbug', 'alor1249-sar-a', 'may')"	datasets/Sar-Adiabang.tsv		
-281	big	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	u'wad	nan	nan	"('big', 'alor1249-sar-a', 'uwád')"	datasets/Sar-Adiabang.tsv		
-282	small	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	kəno:j	nan	k ə n oo - j	"('small', 'alor1249-sar-a', 'kəno:y')"	datasets/Sar-Adiabang.tsv		
-283	old; worn (house)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	anaʔ	nan	- a n a ʔ -	"('old; worn (house)', 'alor1249-sar-a', 'anaʔ')"	datasets/Sar-Adiabang.tsv		
-284	new (house)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wu'dah	nan	w u d á h - -	"('new (house)', 'alor1247-baran', 'funɔ')"	datasets/Sar-Adiabang.tsv		
-285	old (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	kəri	"kəri ‘old man’, quaf ‘old woman’"	k ə r i -	"('old (people)', 'alor1249-sar-a', 'kəri')"	datasets/Sar-Adiabang.tsv		
-285	old (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	quaf	"kəri ‘old man’, quaf ‘old woman’"	q u a f	"('old (people)', 'alor1249-sar-a', 'quaf')"	datasets/Sar-Adiabang.tsv		
-286	young (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bog	nan	b o - g -	"('young (people)', 'alor1249-sar-a', 'bog')"	datasets/Sar-Adiabang.tsv		
-287	lazy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gah 'qlam	nan	nan	"('lazy', 'alor1249-sar-a', 'gah_qlám')"	datasets/Sar-Adiabang.tsv		
-288	hot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	oh	nan	o h	"('hot', 'alor1249-sar-a', 'oh')"	datasets/Sar-Adiabang.tsv		
-289	cold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qajʔaw	nan	q a - j ʔ a w -	"('cold', 'alor1249-sar-a', 'qayʔaw')"	datasets/Sar-Adiabang.tsv		
-290	good	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa'ʔaw	nan	q a ʔ á w	"('good', 'alor1249-sar-a', 'qaʔáw')"	datasets/Sar-Adiabang.tsv		
-291	bad	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ja:t	nan	nan	"('bad', 'adan1251-otvai', 'sah')"	datasets/Sar-Adiabang.tsv		
-292	full	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'wal	nan	w á l -	"('full', 'adan1251-lawah', 'wutulu')"	datasets/Sar-Adiabang.tsv		
-293	empty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ji'sak	nan	#NAME?	"('empty', 'alor1249-sar-a', 'yisák')"	datasets/Sar-Adiabang.tsv		
-296	wet	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ka'loʔ	nan	#NAME?	"('wet', 'alor1247-baran', ""'ɛlɛ"")"	datasets/Sar-Adiabang.tsv		
-297	dry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	si:d	nan	s ii d - - -	"('dry', 'alor1249-sar-a', 'si:d')"	datasets/Sar-Adiabang.tsv		
-298	dry in sun	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mawada	nan	m a w a d a - - -	"('dry in sun', 'abui1241-fuime', 'waritek')"	datasets/Sar-Adiabang.tsv		
-302	short (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	moxoʔa	nan	m o x o ʔ a	"('short (people)', 'alor1249-sar-a', 'moxoʔa')"	datasets/Sar-Adiabang.tsv		
-303	thin (non-human)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ta'xal	nan	#NAME?	"('thin (non-human)', 'adan1251-lawah', 'tiʔi')"	datasets/Sar-Adiabang.tsv		
-305	thick	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tuʔum	nan	t u ʔ u m -	"('thick', 'alor1249-sar-a', 'tuʔum')"	datasets/Sar-Adiabang.tsv		
-307	dark	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ibes	nan	i b e s	"('dark', 'alor1249-sar-a', 'ibes')"	datasets/Sar-Adiabang.tsv		
-308	light	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	I'har	nan	i h á r	"('light', 'alor1249-sar-a', 'ihár')"	datasets/Sar-Adiabang.tsv		
-309	dirty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qaʔan	nan	q a ʔ a n	"('dirty', 'alor1249-sar-a', 'qaʔan')"	datasets/Sar-Adiabang.tsv		
-310	clean	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ala:t	"ala:t, sib ‘new’"	a l aa t	"('clean', 'alor1249-sar-a', 'ala:t')"	datasets/Sar-Adiabang.tsv		
-310	clean	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	sib	"ala:t, sib ‘new’"	s i b	"('clean', 'alor1249-sar-a', 'sib')"	datasets/Sar-Adiabang.tsv		
-311	sharp	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mu'tuʔ	"Of spear (tombak) or machete (parang); if there are two different words, elicit both."	m u t ú ʔ -	"('sharp', 'alor1249-sar-a', 'mutúʔ')"	datasets/Sar-Adiabang.tsv		
-312	blunt; dull	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	lu:k	nan	#NAME?	"('blunt; dull', 'alor1249-sar-a', 'lu:k')"	datasets/Sar-Adiabang.tsv		
-313	heavy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	sə'fur	nan	nan	"('heavy', 'alor1249-sar-a', 'səfúr')"	datasets/Sar-Adiabang.tsv		
-314	light (weight)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	xaʔ	nan	#NAME?	"('light (weight)', 'alor1249-sar-a', 'xaʔ')"	datasets/Sar-Adiabang.tsv		
-315	straight	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qun	nan	q - u n - - -	"('straight', 'alor1249-sar-a', 'qun')"	datasets/Sar-Adiabang.tsv		
-316	wide	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'tlag	nan	t - l á g	"('wide', 'abui1241-fuime', 'tilesiŋ')"	datasets/Sar-Adiabang.tsv		
-318	correct	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qun	nan	q - u n -	"('correct', 'alor1249-sar-a', 'qun')"	datasets/Sar-Adiabang.tsv		
-319	wrong	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	saxan	nan	s a x a n	"('wrong', 'alor1249-sar-a', 'saxan')"	datasets/Sar-Adiabang.tsv		
-320	ripe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gom 'duga	nan	g o m - _ d ú g a	"('ripe', 'alor1249-sar-a', 'gom_dúga')"	datasets/Sar-Adiabang.tsv		
-321	rotten	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mu:n	nan	- - m - uu n -	"('rotten', 'abui1241-takal', ""hä.mu.'ni"")"	datasets/Sar-Adiabang.tsv		
-322	bitter	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mal	nan	nan	"('bitter', 'alor1249-sar-a', 'mal')"	datasets/Sar-Adiabang.tsv		
-323	sweet	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤigal ub	nan	j i g a l _ u b	"('sweet', 'alor1249-sar-a', 'jigal_ub')"	datasets/Sar-Adiabang.tsv		
-324	sour	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	jap	nan	#NAME?	"('sour', 'alor1249-sar-a', 'tamál_')"	datasets/Sar-Adiabang.tsv		
-324	sour	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ta'mal 	‘tamarind’	#NAME?	"('sour', 'alor1249-sar-a', 'tamál_')"	datasets/Sar-Adiabang.tsv		
-325	salty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma'xar	nan	m a x á r -	"('salty', 'abui1241-takal', ""mä:.'qäl"")"	datasets/Sar-Adiabang.tsv		
-326	flat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bi'ʔa	nan	b i ʔ á	"('flat', 'alor1249-sar-a', 'biʔá')"	datasets/Sar-Adiabang.tsv		
-327	smooth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	du:l	‘slippery’	d uu l _ ‘s l i pp e r j ’	"('smooth', 'abui1241-fuime', 'rula')"	datasets/Sar-Adiabang.tsv		
-328	rough	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa:l	nan	q aa l	"('rough', 'alor1249-sar-a', 'qa:l')"	datasets/Sar-Adiabang.tsv		
-329	black	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa'ʔan	nan	nan	"('black', 'abui1241-fuime', 'akani')"	datasets/Sar-Adiabang.tsv		
-330	white	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mi'jaq	nan	m i j - á q -	"('white', 'alor1249-sar-a', 'miyáq')"	datasets/Sar-Adiabang.tsv		
-331	red	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	i:ʔ	nan	ii ʔ	"('red', 'alor1249-sar-a', 'i:ʔ')"	datasets/Sar-Adiabang.tsv		
-332	green	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	logar	nan	- - - - l o - g a r - - - - - - -	"('green', 'abui1241-fuime', 'walaŋai')"	datasets/Sar-Adiabang.tsv		
-333	blue	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	logar	nan	- - l - o - g a r	"('blue', 'alor1249-sar-a', 'logar')"	datasets/Sar-Adiabang.tsv		
-334	yellow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ba'har	nan	b a h á r -	"('yellow', 'adan1251-lawah', 'baʔoi')"	datasets/Sar-Adiabang.tsv		
-335	sick; painful	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	iʔ	"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam."	i ʔ	"('sick; painful', 'alor1249-sar-a', 'iʔ')"	datasets/Sar-Adiabang.tsv		
-336	shy; ashamed	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ra'ʔar	nan	- r a ʔ á r	"('shy; ashamed', 'alor1249-sar-a', 'raʔár')"	datasets/Sar-Adiabang.tsv		
-337	thirsty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pom si:d	nan	p o m _ s ii d	"('thirsty', 'alor1249-sar-a', 'pom_si:d')"	datasets/Sar-Adiabang.tsv		
-338	hungry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qajaq	nan	#NAME?	"('hungry', 'alor1249-sar-a', 'qayaq')"	datasets/Sar-Adiabang.tsv		
-339	blind	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pet bes	nan	p e t _ b e s	"('blind', 'alor1249-sar-a', 'pet_bes')"	datasets/Sar-Adiabang.tsv		
-339	blind	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pet ja:t	nan	nan	"('blind', 'alor1249-sar-a', 'pet_ya:t')"	datasets/Sar-Adiabang.tsv		
-340	deaf	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qa'jus	nan	q a j ú s	"('deaf', 'alor1249-sar-a', 'qayús')"	datasets/Sar-Adiabang.tsv		
-341	scared	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	haraʔar	nan	- h a r a ʔ a r -	"('scared', 'alor1249-sar-a', 'haraʔar')"	datasets/Sar-Adiabang.tsv		
-342	angry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'gaʔas	nan	g á ʔ a s	"('angry', 'alor1249-sar-a', 'gáʔas')"	datasets/Sar-Adiabang.tsv		
-342	angry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	om kaka	nan	o m _ k a k a	"('angry', 'alor1247-munas', ""'ɔnɔ_k'likil"")"	datasets/Sar-Adiabang.tsv		
-343	to see	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bil	nan	b i l -	"('to see', 'alor1249-sar-a', 'bil')"	datasets/Sar-Adiabang.tsv		
-344	to hear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wu'raqar	nan	w u r á q a - r	"('to hear', 'alor1249-sar-a', 'wuráqar')"	datasets/Sar-Adiabang.tsv		
-345	to smell	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	menim	nan	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Sar-Adiabang.tsv		
-346	to think	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wambil	nan	#NAME?	"('to think', 'alor1249-sar-a', 'wambil')"	datasets/Sar-Adiabang.tsv		
-347	to know	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ka'lal	nan	- - k a l á l -	"('to know', 'alor1249-sar-a', 'kalál')"	datasets/Sar-Adiabang.tsv		
-348	to say	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	traʔ bir	"‘speak, language’"	t r a ʔ _ b i r	"('to say', 'alor1249-sar-a', 'traʔ_bir')"	datasets/Sar-Adiabang.tsv		
-349	to speak	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga'maʔ	nan	g a m á ʔ	"('to speak', 'alor1249-sar-a', 'gamáʔ')"	datasets/Sar-Adiabang.tsv		
-352	to lie down	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tiʔ	nan	nan	"('to lie down', 'abui1241-fuime', 'ta')"	datasets/Sar-Adiabang.tsv		
-353	to sleep	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tiʔ	nan	t i - - ʔ - -	"('to sleep', 'abui1241-fuime', 'ta')"	datasets/Sar-Adiabang.tsv		
-354	to wake up	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tuk	nan	t u - k	"('to wake up', 'adan1251-lawah', 'tohø')"	datasets/Sar-Adiabang.tsv		
-355	to wake someone up	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga'tan	nan	g a t - á n - -	"('to wake someone up', 'adan1251-otvai', 'aden_to')"	datasets/Sar-Adiabang.tsv		
-356	to bathe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	puwel	nan	- - p u w e l -	"('to bathe', 'abui1241-fuime', 'tawel')"	datasets/Sar-Adiabang.tsv		
-357	to bathe (a child)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gewel	nan	- - g e w e l -	"('to bathe (a child)', 'abui1241-takal', 'di_hä.ʋe̞l')"	datasets/Sar-Adiabang.tsv		
-358	to sit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mi:s	nan	- - m ii s - - - -	"('to sit', 'abui1241-petle', ""mi.'ti"")"	datasets/Sar-Adiabang.tsv		
-359	to stand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tas	nan	nan	"('to stand', 'abui1241-fuime', 'nate')"	datasets/Sar-Adiabang.tsv		
-360	to walk	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'tewar	nan	t éw - a r	"('to walk', 'alor1249-sar-a', 'téwar')"	datasets/Sar-Adiabang.tsv		
-361	to run	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bir	nan	nan	"('to run', 'abui1241-fuime', 'furei')"	datasets/Sar-Adiabang.tsv		
-363	to swim	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tə'lis	nan	t ə l í - s	"('to swim', 'alor1249-sar-a', 'təlís')"	datasets/Sar-Adiabang.tsv		
-364	to fly	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤi:r	nan	j ii r - - - -	"('to fly', 'abui1241-fuime', 'li')"	datasets/Sar-Adiabang.tsv		
-365	to fall (from above)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	baʔ	nan	b a - ʔ	"('to fall (from above)', 'alor1249-sar-a', 'baʔ')"	datasets/Sar-Adiabang.tsv		
-366	to fall over	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	e'ri	e.g. pohon yang dipotong.	- e r í	"('to fall over', 'alor1249-sar-a', 'erí')"	datasets/Sar-Adiabang.tsv		
-367	to drop	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	genabaʔ	"genabaʔ ‘drop someone’, məhud ‘drop someone’"	g e n a b a ʔ	"('to drop', 'alor1249-sar-a', 'genabaʔ')"	datasets/Sar-Adiabang.tsv		
-367	to drop	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	məhud	"genabaʔ ‘drop someone’, məhud ‘drop someone’"	m ə h u d	"('to drop', 'alor1249-sar-a', 'məhud')"	datasets/Sar-Adiabang.tsv		
-368	to drink	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	foʔ	nan	f o ʔ	"('to drink', 'alor1249-sar-a', 'foʔ')"	datasets/Sar-Adiabang.tsv		
-369	to eat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	na	nan	#NAME?	"('to eat', 'alor1249-sar-a', 'na')"	datasets/Sar-Adiabang.tsv		
-370	to cook	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	daw	nan	d a - - w	"('to cook', 'adan1251-lawah', 'dowoʔ')"	datasets/Sar-Adiabang.tsv		
-371	to wash	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	(uwam) be'li	nan	- - b e l í - -	"('to wash', 'alor1249-sar-a', '(uwam)_belí')"	datasets/Sar-Adiabang.tsv		
-372	to sew	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	rot	nan	- - - - - - r o t - - - - - - - -	"('to sew', 'adan1251-lawah', 'narotoʔ')"	datasets/Sar-Adiabang.tsv		
-373	to live; be alive; living	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ba'na	nan	b a n á - - -	"('to live; be alive; living', 'alor1249-sar-a', 'baná')"	datasets/Sar-Adiabang.tsv		
-374	to breathe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	haqah	nan	h a q a h	"('to breathe', 'alor1249-sar-a', 'haqah')"	datasets/Sar-Adiabang.tsv		
-376	to die	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	min	nan	- - m i n - -	"('to die', 'abui1241-fuime', 'moŋ')"	datasets/Sar-Adiabang.tsv		
-377	to give	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma'gaŋ	nan	- m a - g á ŋ - -	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	datasets/Sar-Adiabang.tsv		
-378	to wipe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ap	nan	- a p - - -	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	datasets/Sar-Adiabang.tsv		
-379	to come	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma	nan	- - - m a - - -	"('to come', 'abui1241-fuime', 'me')"	datasets/Sar-Adiabang.tsv		
-380	to laugh	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤə'har	nan	j ə h á r -	"('to laugh', 'abui1241-petle', 'jei')"	datasets/Sar-Adiabang.tsv		
-381	to cry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bagis	nan	b a - g - i s	"('to cry', 'abui1241-fuime', 'biakda')"	datasets/Sar-Adiabang.tsv		
-382	to dance	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	sohal 	‘lego-lego’	nan	"('to dance', 'abui1241-fuime', 'tohaijok')"	datasets/Sar-Adiabang.tsv		
-382	to dance	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	dial 	‘fast lego-lego’	nan	"('to dance', 'abui1241-fuime', 'tohaijok')"	datasets/Sar-Adiabang.tsv		
-382	to dance	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	haman 	‘slow lego-lego’	nan	"('to dance', 'abui1241-fuime', 'tohaijok')"	datasets/Sar-Adiabang.tsv		
-384	to burn (clear land)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ma'har de	"(lit, ‘garden burn’)"	- - - - m a h á r _ d e - - - - -	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	datasets/Sar-Adiabang.tsv		
-385	to burn; to shine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	de	nan	d e - -	"('to burn; to shine', 'alor1249-sar-a', 'de')"	datasets/Sar-Adiabang.tsv		
-386	to shine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	lijar	nan	l i j a r	"('to shine', 'alor1249-sar-a', 'liyar')"	datasets/Sar-Adiabang.tsv		
-387	to chew	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ka'raj	nan	k a r á - j	"('to chew', 'alor1249-sar-a', 'karáy')"	datasets/Sar-Adiabang.tsv		
-388	to yawn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	hahar	nan	h a h a - r -	"('to yawn', 'abui1241-takal', ""ä.häi.'lä"")"	datasets/Sar-Adiabang.tsv		
-389	to suck	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	puʔis	nan	p u ʔ i s - - - - - - - - - - -	"('to suck', 'abui1241-fuime', 'buk')"	datasets/Sar-Adiabang.tsv		
-390	to blow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	puj	nan	- - - - - p u j - - - -	"('to blow', 'abui1241-fuime', 'furuŋra')"	datasets/Sar-Adiabang.tsv		
-391	to spit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	(meler) fut	nan	f u t	"('to spit', 'alor1249-sar-a', '(meler)_fut')"	datasets/Sar-Adiabang.tsv		
-392	to vomit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤigit	nan	nan	"('to vomit', 'abui1241-fuime', 'iu')"	datasets/Sar-Adiabang.tsv		
-393	to rub	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	to:d	nan	t oo d - -	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	datasets/Sar-Adiabang.tsv		
-394	to scratch	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	kəra:b	nan	k ə - r aa b - -	"('to scratch', 'alor1249-sar-a', 'kəra:b')"	datasets/Sar-Adiabang.tsv		
-395	itchy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qaq	nan	q a q - -	"('itchy', 'adan1251-lawah', 'kakaʔ')"	datasets/Sar-Adiabang.tsv		
-396	to swell	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wa'ra	nan	- w a r á -	"('to swell', 'alor1249-sar-a', 'wará')"	datasets/Sar-Adiabang.tsv		
-397	to hit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	put	nan	p u t	"('to hit', 'adan1251-lawah', 'bihiʔ')"	datasets/Sar-Adiabang.tsv		
-399	to bite	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'si	nan	- - s í -	"('to bite', 'adan1251-lawah', '(bɛl)_ʔihi')"	datasets/Sar-Adiabang.tsv		
-400	to cut	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	te'he	nan	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Sar-Adiabang.tsv		
-401	to cut down	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gour	nan	g o u r -	"('to cut down', 'alor1249-sar-a', 'gour')"	datasets/Sar-Adiabang.tsv		
-402	to split	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'qat	nan	q á t -	"('to split', 'abui1241-fuime', 'kadel')"	datasets/Sar-Adiabang.tsv		
-403	to divide	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pahal	nan	- - p a h a l -	"('to divide', 'adan1251-lawah', 'ʔabaʔaŋ')"	datasets/Sar-Adiabang.tsv		
-404	to stab	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	sifal	nan	s i f a l -	"('to stab', 'alor1249-sar-a', 'sifal')"	datasets/Sar-Adiabang.tsv		
-404	to stab	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tatap	nan	t a t a p	"('to stab', 'alor1249-sar-a', 'tatap')"	datasets/Sar-Adiabang.tsv		
-406	to fight	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	təmu'kis	nan	t ə m u k í s	"('to fight', 'alor1249-sar-a', 'təmukís')"	datasets/Sar-Adiabang.tsv		
-407	to guard	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga'buha	nan	g a b ú h a -	"('to guard', 'abui1241-takal', ""ho:.'fi.kä:ng"")"	datasets/Sar-Adiabang.tsv		
-408	to throw	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wun'tar	nan	w u n t á r -	"('to throw', 'alor1249-sar-a', 'wuntár')"	datasets/Sar-Adiabang.tsv		
-409	to hunt	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	saw	nan	s a w	"('to hunt', 'alor1249-sar-a', 'saw')"	datasets/Sar-Adiabang.tsv		
-410	to kill	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gel na'min	nan	nan	"('to kill', 'abui1241-petle', 'bol_moŋ')"	datasets/Sar-Adiabang.tsv		
-411	to chase away; to run after	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gatijas	nan	#NAME?	"('to chase away; to run after', 'abui1241-takal', ""tä.'pä:.tiŋ"")"	datasets/Sar-Adiabang.tsv		
-413	to search for; to hunt for	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wuraq	nan	w u r a q	"('to search for; to hunt for', 'alor1249-sar-a', 'wuraq')"	datasets/Sar-Adiabang.tsv		
-414	to dig	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	han	nan	h a n	"('to dig', 'alor1249-sar-a', 'han')"	datasets/Sar-Adiabang.tsv		
-415	to bury	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pram	nan	p r a m -	"('to bury', 'alor1249-sar-a', 'pram')"	datasets/Sar-Adiabang.tsv		
-416	to flow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	totis	nan	t o - t i s	"('to flow', 'alor1249-sar-a', 'totis')"	datasets/Sar-Adiabang.tsv		
-417	to float	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tedis	nan	t e - d i s -	"('to float', 'abui1241-fuime', 'ije_fauiti')"	datasets/Sar-Adiabang.tsv		
-419	to hold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	(wam)pin	nan	- - - p i - n -	"('to hold', 'abui1241-fuime', 'ho-puna')"	datasets/Sar-Adiabang.tsv		
-420	to tie	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ojomg 	‘tie a rope’	o j o m g _ ‘ t i e _ a _ r o p e ’	"('to tie', 'alor1249-sar-a', 'ojomg_')"	datasets/Sar-Adiabang.tsv		
-420	to tie	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pat	‘tie up an animal’	o j o m g _ ‘ t i e _ a _ r o p e ’	"('to tie', 'alor1249-sar-a', 'ojomg_')"	datasets/Sar-Adiabang.tsv		
-421	to play	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mujar	nan	m u j a r	"('to play', 'abui1241-fuime', 'muila')"	datasets/Sar-Adiabang.tsv		
-422	to pull	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	kejr	nan	k e j r -	"('to pull', 'alor1249-sar-a', 'keyr')"	datasets/Sar-Adiabang.tsv		
-423	to push	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tatum	nan	t a t u m -	"('to push', 'adan1251-lawah', 'adoʔo')"	datasets/Sar-Adiabang.tsv		
-424	to turn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ga'fur	nan	g a f ú r -	"('to turn', 'alor1249-sar-a', 'gafúr')"	datasets/Sar-Adiabang.tsv		
-425	to dream	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤi'fir	nan	j i - f í r	"('to dream', 'adan1251-lawah', 'pei')"	datasets/Sar-Adiabang.tsv		
-426	to crouch; to bend over	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'saʔ	"To crouch as on an Indonesian toilet, NOT: to kneel"	s á ʔ -	"('to crouch; to bend over', 'alor1249-sar-a', 'sáʔ')"	datasets/Sar-Adiabang.tsv		
-428	to choose	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	wantraj	nan	w a n t r a j	"('to choose', 'adan1251-otvai', 'taraʔ')"	datasets/Sar-Adiabang.tsv		
-429	to grow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	I'la	nan	- i l á -	"('to grow', 'alor1249-sar-a', 'ilá')"	datasets/Sar-Adiabang.tsv		
-430	to squeeze	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	mə'rat	qamay ‘squeeze coconut’	m ə r á t -	"('to squeeze', 'alor1249-sar-a', 'mərát')"	datasets/Sar-Adiabang.tsv		
-430	to squeeze	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qamaj	qamay ‘squeeze coconut’	q a - m a - j	"('to squeeze', 'alor1249-sar-a', 'qamay')"	datasets/Sar-Adiabang.tsv		
-431	to buy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʔol	nan	- - ʔ o l -	"('to buy', 'abui1241-fuime', 'bele')"	datasets/Sar-Adiabang.tsv		
-432	to sell	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	maʔaŋ	nan	m a ʔ a ŋ	"('to sell', 'alor1249-sar-a', 'maʔaŋ')"	datasets/Sar-Adiabang.tsv		
-433	to steal	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	taxa	taxa ‘thief’	t a x a - - -	"('to steal', 'abui1241-fuime', 'takau')"	datasets/Sar-Adiabang.tsv		
-433	to steal	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	taxawis	taxa ‘thief’	t a x a w i s	"('to steal', 'abui1241-fuime', 'takau')"	datasets/Sar-Adiabang.tsv		
-434	to open	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	se'xe	nan	s e x é -	"('to open', 'alor1249-sar-a', 'sexé')"	datasets/Sar-Adiabang.tsv		
-435	to close	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	sa'bar	nan	s a b á r	"('to close', 'alor1249-sar-a', 'sabár')"	datasets/Sar-Adiabang.tsv		
-436	to climb	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gasir	nan	g a s i r -	"('to climb', 'alor1249-sar-a', 'gasir')"	datasets/Sar-Adiabang.tsv		
-437	to hide	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pi-'maj	nan	p i m - á j	"('to hide', 'alor1249-sar-a', 'pi-máy')"	datasets/Sar-Adiabang.tsv		
-438	to wait	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	warah	nan	w a r a h	"('to wait', 'alor1249-sar-a', 'warah')"	datasets/Sar-Adiabang.tsv		
-439	to fold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	plik	NOT: lipat tikar	p - l i k - -	"('to fold', 'adan1251-lawah', 'paliʔi')"	datasets/Sar-Adiabang.tsv		
-439	to fold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pəlík	NOT: lipat tikar	p ə l í k - -	"('to fold', 'adan1251-lawah', 'paliʔi')"	datasets/Sar-Adiabang.tsv		
-440	to help	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	molah	nan	- - - m o l a h -	"('to help', 'alor1249-sar-a', 'molah')"	datasets/Sar-Adiabang.tsv		
-441	to bark	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'togis	nan	t ó g i s	"('to bark', 'alor1249-sar-a', 'tógis')"	datasets/Sar-Adiabang.tsv		
-442	to shoot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	blap	nan	b - l a p	"('to shoot', 'alor1249-sar-a', 'blap')"	datasets/Sar-Adiabang.tsv		
-443	to shoot with slingshot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pə'sak	nan	p ə s á k -	"('to shoot with slingshot', 'alor1249-sar-a', 'pəsák')"	datasets/Sar-Adiabang.tsv		
-444	to pound; to beat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tap	nan	nan	"('to pound; to beat', 'abui1241-fuime', 'tape')"	datasets/Sar-Adiabang.tsv		
-445	to hit (drum)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bah	nan	b a h	"('to hit (drum)', 'alor1249-sar-a', 'bah')"	datasets/Sar-Adiabang.tsv		
-446	to call out	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pe'xejr	‘call out’	p e x é j r _ ‘ c a ll _ o u t ’	"('to call out', 'alor1249-sar-a', 'pexéyr')"	datasets/Sar-Adiabang.tsv		
-446	to call out	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pon 	‘call out with a loud voice’	p e x é j r _ ‘ c a ll _ o u t ’	"('to call out', 'alor1249-sar-a', 'pexéyr')"	datasets/Sar-Adiabang.tsv		
-447	to lie (tell untruth)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	'akal	nan	- á k a l - - -	"('to lie (tell untruth)', 'adan1251-lawah', 'kaluwi')"	datasets/Sar-Adiabang.tsv		
-448	to ask (question)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	waŋgə'tah	nan	w a ŋ g ə t á h	"('to ask (question)', 'abui1241-fuime', 'na:tahaŋ')"	datasets/Sar-Adiabang.tsv		
-449	to count	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tag	nan	nan	"('to count', 'adan1251-lawah', 'taʔana')"	datasets/Sar-Adiabang.tsv		
-450	one	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	nuk	nan	- n u k -	"('one', 'abui1241-fuime', 'nuku')"	datasets/Sar-Adiabang.tsv		
-451	two	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	raq	nan	- r a q -	"('two', 'alor1249-sar-a', 'raq')"	datasets/Sar-Adiabang.tsv		
-452	three	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tig	nan	- t i g -	"('three', 'alor1249-sar-a', 'tig')"	datasets/Sar-Adiabang.tsv		
-453	four	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ut	nan	- u t - -	"('four', 'abui1241-fuime', 'buti')"	datasets/Sar-Adiabang.tsv		
-454	five	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	a'san	nan	- - - a s á n -	"('five', 'abui1241-fuime', 'jetiŋ')"	datasets/Sar-Adiabang.tsv		
-455	six	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	təlaŋ	nan	t ə l a - ŋ - -	"('six', 'abui1241-fuime', 'tala:ma')"	datasets/Sar-Adiabang.tsv		
-456	seven	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ʤisraq	nan	j i - s r a q -	"('seven', 'abui1241-fuime', 'jetiŋ_ajoku')"	datasets/Sar-Adiabang.tsv		
-457	eight	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	santig	nan	s a - n - t i g	"('eight', 'alor1249-sar-a', 'santig')"	datasets/Sar-Adiabang.tsv		
-458	nine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	saŋʔut	nan	s a ŋ ʔ u t	"('nine', 'alor1249-sar-a', 'saŋʔut')"	datasets/Sar-Adiabang.tsv		
-459	ten	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qarnuk	nan	q a - r - n u k -	"('ten', 'abui1241-fuime', 'kar_nuku')"	datasets/Sar-Adiabang.tsv		
-460	eleven	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qar nuk unuk	nan	nan	"('eleven', 'abui1241-fuime', 'wal_nuku')"	datasets/Sar-Adiabang.tsv		
-461	twelve	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qar nuk unraq	nan	q a r _ n u k - _ - u n r a q - - - - - - - -	"('twelve', 'abui1241-fuime', 'wal_ajoku')"	datasets/Sar-Adiabang.tsv		
-462	thirteen	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qar nuk untig	nan	q a r _ n u k - _ - - - - - - - u n t i g -	"('thirteen', 'abui1241-takal', ""kär.'nu.qu._wäl_'su.ä"")"	datasets/Sar-Adiabang.tsv		
-469	twenty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qaraq	nan	- - - q a r a - - - q -	"('twenty', 'abui1241-fuime', 'kar_ajoku')"	datasets/Sar-Adiabang.tsv		
-470	twenty one	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qaraq onuk	nan	q a r a q _ - - - - - o n u k	"('twenty one', 'abui1241-fuime', 'kar_ajoku_wal_nuku')"	datasets/Sar-Adiabang.tsv		
-475	thirty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	qar tig	nan	q a r - _ t i g - -	"('thirty', 'alor1249-sar-a', 'qar_tig')"	datasets/Sar-Adiabang.tsv		
-482	one hundred	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ratu nuk	nan	- r a t u _ - n u k -	"('one hundred', 'adan1251-lawah', 'ratnu')"	datasets/Sar-Adiabang.tsv		
-483	one hundred and twenty three	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ratu nuk qar raq untig	nan	- r a t u _ n u k - _ q a r - - _ r a - q - - _ - - - - - - - u n t i g -	"('one hundred and twenty three', 'alor1249-sar-a', 'ratu_nuk_qar_raq_untig')"	datasets/Sar-Adiabang.tsv		
-484	two hundred	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ratu raq	nan	- r a t u - _ r a q - -	"('two hundred', 'adan1251-lawah', 'ratalu')"	datasets/Sar-Adiabang.tsv		
-485	thousand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ribu nuk	nan	- r i b u _ n u k -	"('thousand', 'abui1241-fuime', 'rifi_nuku')"	datasets/Sar-Adiabang.tsv		
-486	one hundred thousand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	sə'lak nuk 	‘one million’	s ə l á k _ n u k _ ‘ o n e _ m i ll i o n ’	"('one hundred thousand', 'alor1249-sar-a', 'səlák_nuk_')"	datasets/Sar-Adiabang.tsv		
-487	grandmother	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tapis	The kinship task also asks for this term	#NAME?	"('grandmother', 'alor1249-sar-a', 'tapis')"	datasets/Sar-Adiabang.tsv		
-489	grandchild	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	pitapis	The kinship task also asks for this term	p i t a p i s	"('grandchild', 'alor1249-sar-a', 'pitapis')"	datasets/Sar-Adiabang.tsv		
-587	oven/cooking place	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tu'tuh	nan	t u t ú h - - - - - - -	"('oven/cooking place', 'alor1249-sar-a', 'tutúh')"	datasets/Sar-Adiabang.tsv		
-588	flower (in e.g. mangga tree)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	la'har	nan	l a h á r	"('flower (in e.g. mangga tree)', 'alor1249-sar-a', 'lahár')"	datasets/Sar-Adiabang.tsv		
-589	vein	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	ta̯'raw	nan	- - t a̯ r á - w	"('vein', 'alor1249-sar-a', 'ta̯ráw')"	datasets/Sar-Adiabang.tsv		
-590	long (stick)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tián	nan	t i - á n -	"('long (stick)', 'alor1249-sar-a', 'tián')"	datasets/Sar-Adiabang.tsv		
-591	tall (person)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	lewa	nan	l e - w a - -	"('tall (person)', 'adan1251-lawah', 'lawen')"	datasets/Sar-Adiabang.tsv		
-592	short (stick)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tuk	nan	t u - - k - - - -	"('short (stick)', 'alor1249-sar-a', 'tuk')"	datasets/Sar-Adiabang.tsv		
-593	narrow (road)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	tə'fug	"Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight)."	t ə f ú g - -	"('narrow (road)', 'adan1251-otvai', 'kapuh')"	datasets/Sar-Adiabang.tsv		
-598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	bu'rah	"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’"	b u r á h	"('to chase away; to expel', 'alor1249-sar-a', 'buráh')"	datasets/Sar-Adiabang.tsv		
-598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	gə'saj	"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’"	g ə s á j	"('to chase away; to expel', 'alor1249-sar-a', 'gəsáy')"	datasets/Sar-Adiabang.tsv		
-598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	hus	"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’"	h u s	"('to chase away; to expel', 'alor1249-sar-a', 'hus')"	datasets/Sar-Adiabang.tsv		
-598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	"1Pantar, 1West"	si'kah	"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’"	s i k á h	"('to chase away; to expel', 'alor1249-sar-a', 'sikáh')"	datasets/Sar-Adiabang.tsv		
+0	sky	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bu'la	nan	b u l á - - - -	('sky', 'adan1251-otvai', 'buraŋ')	datasets/Sar-Adiabang.tsv		
+1	sun	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	war	nan	w a r - - - -	('sun', 'abui1241-fuime', 'wari')	datasets/Sar-Adiabang.tsv		
+2	moon	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wur	nan	nan	('moon', 'abui1241-fuime', 'ije')	datasets/Sar-Adiabang.tsv		
+3	star	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤif	nan	j i f -	('star', 'abui1241-fuime', 'fɪri')	datasets/Sar-Adiabang.tsv		
+4	night	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ibes	nan	i b e s	('night', 'alor1249-sar-a', 'ibes')	datasets/Sar-Adiabang.tsv		
+5	day	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	war	nan	w a r -	('day', 'adan1251-lawah', 'wɛd_saha')	datasets/Sar-Adiabang.tsv		
+7	morning	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bes iwaŋ	nan	b e s _ - i w a ŋ -	('morning', 'alor1249-sar-a', 'bes_iwaŋ')	datasets/Sar-Adiabang.tsv		
+8	yesterday	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	məlah	nan	m ə l a h - - - - -	('yesterday', 'alor1249-sar-a', 'məlah')	datasets/Sar-Adiabang.tsv		
+9	day before yesterday	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gataraq	nan	g a t a - r a q -	('day before yesterday', 'alor1249-sar-a', 'gataraq')	datasets/Sar-Adiabang.tsv		
+10	tomorrow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bat	nan	b a t - -	('tomorrow', 'alor1249-sar-a', 'bat')	datasets/Sar-Adiabang.tsv		
+11	day after tomorrow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tiraq	nan	- - t i - - r - a q - - -	('day after tomorrow', 'alor1249-sar-a', 'tiraq')	datasets/Sar-Adiabang.tsv		
+12	twilight; dawn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ihar gafar	nan	i h a r _ g a f a r	('twilight; dawn', 'alor1249-sar-a', 'ihar_gafar')	datasets/Sar-Adiabang.tsv		
+13	cloud	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mana:f	nan	m a n aa f - -	('cloud', 'alor1249-sar-a', 'mana:f')	datasets/Sar-Adiabang.tsv		
+14	wind	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤerak	nan	j e r a k	('wind', 'alor1249-sar-a', 'jerak')	datasets/Sar-Adiabang.tsv		
+15	rain	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'al	nan	- á l -	('rain', 'alor1249-sar-a', 'ál')	datasets/Sar-Adiabang.tsv		
+17	rainbow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	teh ga'tan	nan	t e h _ g a t á n	('rainbow', 'alor1249-sar-a', 'teh_gatán')	datasets/Sar-Adiabang.tsv		
+18	thunder	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gragar	bunyinya	g - r a g a - r	('thunder', 'alor1249-sar-a', 'gragar')	datasets/Sar-Adiabang.tsv		
+19	lightning	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	itimiʤah	kilatan, cahaya	i - - t i m i j a h	('lightning', 'alor1249-sar-a', 'itimiyah')	datasets/Sar-Adiabang.tsv		
+20	earthquake	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	itoj	nan	i t o j	('earthquake', 'abui1241-fuime', 'taiyoka')	datasets/Sar-Adiabang.tsv		
+21	fog	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ibu:m	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	i b uu m	('fog', 'alor1249-sar-a', 'ibu:m')	datasets/Sar-Adiabang.tsv		
+22	river; stream	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa'fa	nan	q a f á	('river; stream', 'alor1249-sar-a', 'qafá')	datasets/Sar-Adiabang.tsv		
+26	mountain	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ujah	nan	u j a h	('mountain', 'alor1249-sar-a', 'uyah')	datasets/Sar-Adiabang.tsv		
+27	hill; ridge	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤihil	nan	j i h i l	('hill; ridge', 'alor1249-sar-a', 'jihil')	datasets/Sar-Adiabang.tsv		
+28	village	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ha'faŋ	nan	h a f á ŋ -	('village', 'adan1251-lawah', 'baŋ_ʔɛme')	datasets/Sar-Adiabang.tsv		
+29	land; soil	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma'xaʔ	nan	m a x - á ʔ	('land; soil', 'alor1249-sar-a', 'maxáʔ')	datasets/Sar-Adiabang.tsv		
+30	Earth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	id	id ‘earth’, por ‘island’	i d	('Earth', 'alor1249-sar-a', 'id')	datasets/Sar-Adiabang.tsv		
+30	Earth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	por	id ‘earth’, por ‘island’	p o r	('Earth', 'alor1249-sar-a', 'por')	datasets/Sar-Adiabang.tsv		
+31	hole	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤe'ga	nan	j e g á	('hole', 'alor1249-sar-a', 'jegá')	datasets/Sar-Adiabang.tsv		
+32	stone	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	war	nan	w a r -	('stone', 'abui1241-fuime', 'vi')	datasets/Sar-Adiabang.tsv		
+33	coral (rock)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	(war) mə'rag	batu (rock) di pantai	m ə r á g	('coral (rock)', 'alor1249-sar-a', '(war)_mərág')	datasets/Sar-Adiabang.tsv		
+34	(coral) reef	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'tomi	karang (reef) di dasar laut	nan	('(coral) reef', 'alor1249-sar-a', 'tómi')	datasets/Sar-Adiabang.tsv		
+35	water (fresh)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤir	nan	- j i r -	('water (fresh)', 'abui1241-fuime', 'je')	datasets/Sar-Adiabang.tsv		
+36	sea; sea water	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	taŋ	nan	t a ŋ -	('sea; sea water', 'abui1241-fuime', 'tama')	datasets/Sar-Adiabang.tsv		
+37	wave	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bu'at	nan	b u á t - - -	('wave', 'alor1249-sar-a', 'buát')	datasets/Sar-Adiabang.tsv		
+38	foam	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ul	nan	u l	('foam', 'alor1249-sar-a', 'ul')	datasets/Sar-Adiabang.tsv		
+39	forest	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mə'rag	nan	- m ə r á g	('forest', 'alor1249-sar-a', 'mərág')	datasets/Sar-Adiabang.tsv		
+40	field	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʔar	nan	- - ʔ a r	('field', 'alor1249-sar-a', 'ʔar')	datasets/Sar-Adiabang.tsv		
+43	garden	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma'xar	nan	m a x á r -	('garden', 'alor1249-sar-a', 'maxár')	datasets/Sar-Adiabang.tsv		
+45	road; path; way	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤuhutar	nan	j u h u t a r	"('road; path; way', 'alor1247-baran', ""'tɔ:r"")"	datasets/Sar-Adiabang.tsv		
+46	canoe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	haj	nan	h a j	('canoe', 'alor1249-sar-a', 'hay')	datasets/Sar-Adiabang.tsv		
+49	fishing hook	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	kawil	nan	k a w i l -	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	datasets/Sar-Adiabang.tsv		
+50	fish trap	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	dah	(‘bubu fishtrap’); dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	d a h	('fish trap', 'alor1249-sar-a', 'dah')	datasets/Sar-Adiabang.tsv		
+51	rope	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tar	nan	t a - r - -	('rope', 'abui1241-takal', 'tʰi.lä')	datasets/Sar-Adiabang.tsv		
+52	machete	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pe:d	nan	- - p ee d - -	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	datasets/Sar-Adiabang.tsv		
+53	axe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ba'liŋ	nan	nan	('axe', 'abui1241-fuime', 'faliŋ')	datasets/Sar-Adiabang.tsv		
+54	spear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qab	nan	q a b - -	"('spear', 'abui1241-takal', ""kä.'fäk"")"	datasets/Sar-Adiabang.tsv		
+56	stick; pole	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'tuha	nan	t ú h a -	('stick; pole', 'abui1241-fuime', 'tukaraŋ')	datasets/Sar-Adiabang.tsv		
+57	digging stick	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	laŋʤa	nan	l a ŋ j a	('digging stick', 'alor1249-sar-a', 'laŋja')	datasets/Sar-Adiabang.tsv		
+59	bow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʔa'mutan	nan	nan	('bow', 'alor1249-sar-a', 'ʔamútan')	datasets/Sar-Adiabang.tsv		
+60	arrow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qu'fut	nan	nan	"('arrow', 'abui1241-takal', ""kä.'fuq"")"	datasets/Sar-Adiabang.tsv		
+61	knife	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	siar	nan	s i - a r	('knife', 'alor1249-sar-a', 'siar')	datasets/Sar-Adiabang.tsv		
+62	comb	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ki:r	nan	k ii - - - r -	('comb', 'alor1249-sar-a', 'ki:r')	datasets/Sar-Adiabang.tsv		
+62	comb	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤimar	nan	k ii - - - r -	('comb', 'abui1241-fuime', 'ke:ti')	datasets/Sar-Adiabang.tsv		
+63	mat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bis	nan	b i s - -	('mat', 'adan1251-lawah', 'bahu')	datasets/Sar-Adiabang.tsv		
+64	needle	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bi'tal	nan	b i t á l	('needle', 'adan1251-lawah', 'bátuŋ')	datasets/Sar-Adiabang.tsv		
+67	fire	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ar	nan	a r -	('fire', 'abui1241-fuime', 'ara')	datasets/Sar-Adiabang.tsv		
+68	smoke	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	(ar) bu:n	nan	b uu n - - - - -	('smoke', 'adan1251-lawah', 'awai_banoʔo')	datasets/Sar-Adiabang.tsv		
+70	dust; fine earth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	de'maŋ	nan	d e m á ŋ	('dust; fine earth', 'alor1249-sar-a', 'demáŋ')	datasets/Sar-Adiabang.tsv		
+71	fireplace ash	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	de'maŋ	NOT 'debu' (dust, after you have been sweeping)	d e m á ŋ -	('fireplace ash', 'alor1249-sar-a', 'demáŋ')	datasets/Sar-Adiabang.tsv		
+72	mud	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	quŋ	nan	- - - q u ŋ - -	('mud', 'alor1249-sar-a', 'quŋ')	datasets/Sar-Adiabang.tsv		
+74	gravel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	də'lawar	nan	d ə l á w a r	('gravel', 'alor1249-sar-a', 'dəláwar')	datasets/Sar-Adiabang.tsv		
+75	sand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	u'lus	nan	#NAME?	('sand', 'alor1249-sar-a', 'ulús')	datasets/Sar-Adiabang.tsv		
+76	grass; brush	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	raŋ	nan	r a ŋ -	('grass; brush', 'alor1249-sar-a', 'raŋ')	datasets/Sar-Adiabang.tsv		
+77	house	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bal	nan	nan	('house', 'abui1241-fuime', 'fala')	datasets/Sar-Adiabang.tsv		
+78	traditional house	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa:b	nan	q aa b	('traditional house', 'alor1249-sar-a', 'qa:b')	datasets/Sar-Adiabang.tsv		
+79	barn; storage house	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pa'hambal	nan	nan	('barn; storage house', 'alor1249-sar-a', 'pahámbal')	datasets/Sar-Adiabang.tsv		
+80	raised platform	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	lag	nan	- l a g -	('raised platform', 'alor1249-sar-a', 'lag')	datasets/Sar-Adiabang.tsv		
+81	door	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wə'laʔ	nan	w ə l á ʔ -	('door', 'alor1249-sar-a', 'wəláʔ')	datasets/Sar-Adiabang.tsv		
+82	(thatch) roof	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wa:j	nan	nan	"('(thatch) roof', 'abui1241-takal', ""'wäj"")"	datasets/Sar-Adiabang.tsv		
+83	roof thatch	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	maŋ	nan	- m a - - ŋ -	('roof thatch', 'abui1241-fuime', 'ameŋ')	datasets/Sar-Adiabang.tsv		
+84	tree	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tai	nan	#NAME?	('tree', 'adan1251-lawah', 'ti')	datasets/Sar-Adiabang.tsv		
+86	bark (of tree)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tai qəfijaq	nan	nan	('bark (of tree)', 'alor1249-sar-a', 'tai_qəfiyaq')	datasets/Sar-Adiabang.tsv		
+87	leaf	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga waʔ	nan	- g a - _ w a - ʔ -	('leaf', 'abui1241-fuime', 'watala')	datasets/Sar-Adiabang.tsv		
+88	branch	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga ki:l	cabang pohon	g a _ k ii l	('branch', 'alor1249-sar-a', 'ga_ki:l')	datasets/Sar-Adiabang.tsv		
+89	firewood	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	har ge'miŋ	nan	h a r _ g e m í ŋ	('firewood', 'abui1241-fuime', 'ara_wa:siŋ')	datasets/Sar-Adiabang.tsv		
+90	rattan	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	lijah	‘large rattan’	l i j a h _ ‘ l a r g e _ r a tt a n ’	('rattan', 'adan1251-lawah', 'lɛʔ')	datasets/Sar-Adiabang.tsv		
+90	rattan	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wurah 	‘small rattan’	l i j a h _ ‘ l a r g e _ r a tt a n ’	('rattan', 'adan1251-lawah', 'lɛʔ')	datasets/Sar-Adiabang.tsv		
+91	root	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	a'rak	nan	- a r á - k	('root', 'alor1249-sar-a', 'arák')	datasets/Sar-Adiabang.tsv		
+92	fruit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤit	nan	j i t - - - - - - -	('fruit', 'alor1249-sar-a', 'jit')	datasets/Sar-Adiabang.tsv		
+93	seed	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bah	nan	b a h	('seed', 'alor1249-sar-a', 'bah')	datasets/Sar-Adiabang.tsv		
+96	husked rice; uncooked rice	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	harax	nan	h a r a x	('husked rice; uncooked rice', 'abui1241-fuime', 'ajak')	datasets/Sar-Adiabang.tsv		
+98	cooked rice	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'waʔ qar	nan	nan	"('cooked rice', 'alor1247-baran', ""'fata"")"	datasets/Sar-Adiabang.tsv		
+99	rice plant	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	harax	nan	h a r a x	('rice plant', 'abui1241-fuime', 'ajak_kai')	datasets/Sar-Adiabang.tsv		
+100	to plant (yam)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga:d	nan	- g aa d -	('to plant (yam)', 'alor1249-sar-a', 'ga:d')	datasets/Sar-Adiabang.tsv		
+101	to plant (rice)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga:d	nan	- g aa d -	('to plant (rice)', 'alor1249-sar-a', 'ga:d')	datasets/Sar-Adiabang.tsv		
+102	betel nut; areca	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	buj	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	datasets/Sar-Adiabang.tsv		
+103	betel vine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mat	nan	nan	('betel vine', 'abui1241-fuime', 'me:tiŋ')	datasets/Sar-Adiabang.tsv		
+104	lime	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	hour	nan	h o u r	('lime', 'abui1241-fuime', 'awai')	datasets/Sar-Adiabang.tsv		
+105	chew betel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bui si	nan	b u i _ - - s i	('chew betel', 'alor1249-sar-a', 'bui_si')	datasets/Sar-Adiabang.tsv		
+106	sweet potato	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qajaw mud	nan	nan	('sweet potato', 'alor1249-sar-a', 'qayaw_mud')	datasets/Sar-Adiabang.tsv		
+107	cassava	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	beŋ mud	nan	b e ŋ - _ m u - d	('cassava', 'alor1249-sar-a', 'beŋ_mud')	datasets/Sar-Adiabang.tsv		
+108	taro	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wu'fal	nan	nan	('taro', 'alor1249-sar-a', 'wufál')	datasets/Sar-Adiabang.tsv		
+108	taro	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wu'hal	nan	w u h á l	('taro', 'alor1249-sar-a', 'wuhál')	datasets/Sar-Adiabang.tsv		
+110	millet	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nat	nan	nan	('millet', 'alor1249-sar-a', 'nat')	datasets/Sar-Adiabang.tsv		
+111	sugarcane	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	huh	nan	h u h	('sugarcane', 'alor1249-sar-a', 'huh')	datasets/Sar-Adiabang.tsv		
+112	corn; maize	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bə'tar	nan	b ə t á r	('corn; maize', 'abui1241-fuime', 'fa:ti')	datasets/Sar-Adiabang.tsv		
+113	cooked corn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	waʔi pa	nan	w a ʔ i _ p a	"('cooked corn', 'alor1247-besar', ""'fata_pu'nakaŋ"")"	datasets/Sar-Adiabang.tsv		
+114	coconut	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wat	nan	w a t - -	('coconut', 'abui1241-fuime', 'wata')	datasets/Sar-Adiabang.tsv		
+115	gwang	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	hahal	nan	h a h a l	('gwang', 'alor1249-sar-a', 'hahal')	datasets/Sar-Adiabang.tsv		
+116	lontar palm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tuax	nan	t u a x	('lontar palm', 'adan1251-otvai', 'tɔk')	datasets/Sar-Adiabang.tsv		
+117	sugar palm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bur	nan	b u r -	('sugar palm', 'alor1249-sar-a', 'bur')	datasets/Sar-Adiabang.tsv		
+118	marungga	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qu:d waʔ	nan	q uu d _ w a ʔ	('marungga', 'alor1249-sar-a', 'qu:d_waʔ')	datasets/Sar-Adiabang.tsv		
+119	gum tree; eucalyptus	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pal	nan	p a l -	('gum tree; eucalyptus', 'adan1251-lawah', 'pu')	datasets/Sar-Adiabang.tsv		
+120	bamboo	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	peita 	‘large domestic bamboo’	nan	('bamboo', 'alor1249-sar-a', 'biŋmaliŋ_')	datasets/Sar-Adiabang.tsv		
+120	bamboo	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'ʤa	‘small wild bamboo’	nan	('bamboo', 'alor1249-sar-a', 'biŋmaliŋ_')	datasets/Sar-Adiabang.tsv		
+120	bamboo	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	biŋmaliŋ 	‘domestic bamboo used for furniture’	nan	('bamboo', 'alor1249-sar-a', 'biŋmaliŋ_')	datasets/Sar-Adiabang.tsv		
+121	banana	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	muxul	nan	nan	('banana', 'abui1241-fuime', 'musa')	datasets/Sar-Adiabang.tsv		
+122	mango	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wow	‘domestic mango’	w o w _ ‘ d o m e s t i c _ m a n g o ’	('mango', 'alor1249-sar-a', 'biyat_')	datasets/Sar-Adiabang.tsv		
+122	mango	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bijat 	‘wild mango’	w o w _ ‘ d o m e s t i c _ m a n g o ’	('mango', 'alor1249-sar-a', 'biyat_')	datasets/Sar-Adiabang.tsv		
+123	papaya	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa'ja	nan	q a - j á	('papaya', 'adan1251-lawah', 'kahatɛlɛ')	datasets/Sar-Adiabang.tsv		
+124	jackfruit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ku'lar	nan	k u l á r	('jackfruit', 'alor1249-sar-a', 'kulár')	datasets/Sar-Adiabang.tsv		
+125	breadfruit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tu'wan	nan	t u w á n	('breadfruit', 'alor1249-sar-a', 'tuwán')	datasets/Sar-Adiabang.tsv		
+126	bean	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa:s	nan	nan	('bean', 'alor1249-sar-a', 'qa:s')	datasets/Sar-Adiabang.tsv		
+127	honey	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ta:ŋ	nan	- - t aa ŋ -	('honey', 'alor1249-sar-a', 'ta:ŋ')	datasets/Sar-Adiabang.tsv		
+128	milk	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	haŋ	not 'breast'	h a ŋ -	('milk', 'alor1249-sar-a', 'haŋ')	datasets/Sar-Adiabang.tsv		
+129	salt	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤisar	nan	j i s a r -	('salt', 'alor1249-sar-a', 'jisar')	datasets/Sar-Adiabang.tsv		
+130	fat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qout	nan	q o u t -	('fat', 'alor1249-sar-a', 'qout')	datasets/Sar-Adiabang.tsv		
+132	bone	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	kir	nan	nan	('bone', 'alor1249-sar-a', 'kir')	datasets/Sar-Adiabang.tsv		
+133	rib	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pa'ʔis	nan	p a ʔ í s	('rib', 'alor1249-sar-a', 'paʔís')	datasets/Sar-Adiabang.tsv		
+134	sweat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wu'sir	nan	w u s í r	('sweat', 'alor1249-sar-a', 'wusír')	datasets/Sar-Adiabang.tsv		
+135	tear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa'ʔar	nan	- - - - - q a ʔ á r	('tear', 'alor1249-sar-a', 'qaʔár')	datasets/Sar-Adiabang.tsv		
+136	blood	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	waj	nan	nan	('blood', 'abui1241-fuime', 'we')	datasets/Sar-Adiabang.tsv		
+138	heart	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qalu'al	nan	- - q a l u á l -	('heart', 'alor1249-sar-a', 'qaluál')	datasets/Sar-Adiabang.tsv		
+139	liver	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	paxa:l	nan	p a x aa l	('liver', 'alor1249-sar-a', 'paxa:l')	datasets/Sar-Adiabang.tsv		
+141	guts	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gum	nan	g u m	('guts', 'alor1249-sar-a', 'gum')	datasets/Sar-Adiabang.tsv		
+142	excrement	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	a'qus	nan	a q ú s	('excrement', 'alor1249-sar-a', 'aqús')	datasets/Sar-Adiabang.tsv		
+144	stomach; belly	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pi'taʔ	nan	p i t á ʔ -	('stomach; belly', 'abui1241-fuime', 'tatok_foko')	datasets/Sar-Adiabang.tsv		
+145	head	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	puʔuŋ kul	nan	nan	"('head', 'alor1247-besar', ""'kɔtɔŋ"")"	datasets/Sar-Adiabang.tsv		
+146	hair	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	puʔuŋ	nan	p u ʔ u ŋ	('hair', 'alor1249-sar-a', 'puʔuŋ')	datasets/Sar-Adiabang.tsv		
+147	body hair	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	piŋ mur	nan	nan	('body hair', 'abui1241-fuime', 'teamur')	datasets/Sar-Adiabang.tsv		
+148	eye	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pejkba	nan	p e j k b a	('eye', 'alor1249-sar-a', 'peykba')	datasets/Sar-Adiabang.tsv		
+149	ear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	puar waʔ	nan	p u - a r _ w a ʔ	('ear', 'abui1241-fuime', 'tawei_ata')	datasets/Sar-Adiabang.tsv		
+150	nose	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pimimbul	nan	p i m i m b u l	('nose', 'alor1249-sar-a', 'pimimbul')	datasets/Sar-Adiabang.tsv		
+151	mouth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	po'xos	nan	p o x ós	('mouth', 'alor1249-sar-a', 'poxós')	datasets/Sar-Adiabang.tsv		
+152	chin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pijaw	nan	p i j a w	('chin', 'alor1249-sar-a', 'piyaw')	datasets/Sar-Adiabang.tsv		
+152	chin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'paw	nan	p á - - w	('chin', 'alor1249-sar-a', 'piyaw')	datasets/Sar-Adiabang.tsv		
+153	lips	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	peʔertu	nan	p e ʔ e r t u -	('lips', 'adan1251-lawah', 'tɛm_tɛporo')	datasets/Sar-Adiabang.tsv		
+154	teeth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pesíŋ	nan	p e - s í ŋ -	('teeth', 'abui1241-fuime', 'taweiti')	datasets/Sar-Adiabang.tsv		
+155	tongue	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pe'fal	nan	p e f á l - - -	"('tongue', 'abui1241-takal', ""tä.'li.fi"")"	datasets/Sar-Adiabang.tsv		
+156	neck	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pemaj	nan	p e m a j	('neck', 'alor1249-sar-a', 'pemay')	datasets/Sar-Adiabang.tsv		
+157	shoulder	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pemaqar	nan	p e m a q a r - -	('shoulder', 'alor1249-sar-a', 'pemaqar')	datasets/Sar-Adiabang.tsv		
+157	shoulder	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pita'hal	nan	p e m a q a r - -	('shoulder', 'alor1249-sar-a', 'pemaqar')	datasets/Sar-Adiabang.tsv		
+163	arm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pitaŋ	nan	nan	('arm', 'abui1241-fuime', 'tataŋ')	datasets/Sar-Adiabang.tsv		
+166	finger	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pitaŋ ki	nan	p i t a ŋ - _ k i - - -	('finger', 'alor1249-sar-a', 'pitaŋ_ki')	datasets/Sar-Adiabang.tsv		
+167	fingernail	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pitaŋ kə'pus	nan	p i t a ŋ - - _ k ə p ú s - - -	('fingernail', 'abui1241-fuime', 'tataŋ_kusiŋ')	datasets/Sar-Adiabang.tsv		
+168	breast	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	haŋ	nan	nan	('breast', 'alor1249-sar-a', 'haŋ')	datasets/Sar-Adiabang.tsv		
+170	navel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'potal	nan	p ó t a l	('navel', 'alor1249-sar-a', 'pótal')	datasets/Sar-Adiabang.tsv		
+171	penis	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pu'hul	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	nan	('penis', 'alor1249-sar-a', 'puhúl')	datasets/Sar-Adiabang.tsv		
+172	vagina	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga:r	Kemaluan perempuan, same as above.	nan	('vagina', 'adan1251-otvai', 'a:l')	datasets/Sar-Adiabang.tsv		
+173	testicles	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	hul 'ba	nan	h u l _ b á	('testicles', 'alor1249-sar-a', 'hul_bá')	datasets/Sar-Adiabang.tsv		
+174	leg	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gə'fat	nan	g ə f á t -	('leg', 'adan1251-lawah', 'nɛʔɛw')	datasets/Sar-Adiabang.tsv		
+176	heel of foot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bai ge'miŋ	nan	b a i _ g e m í ŋ -	('heel of foot', 'alor1249-sar-a', 'bai_gemíŋ')	datasets/Sar-Adiabang.tsv		
+178	knee	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gə'fat ku	nan	g ə f á t _ - k - u -	('knee', 'abui1241-fuime', 'tabala_buku')	datasets/Sar-Adiabang.tsv		
+179	back	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pesi'ʔib	nan	nan	('back', 'alor1249-sar-a', 'pesiíb')	datasets/Sar-Adiabang.tsv		
+182	skin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	piŋ kuwal	nan	nan	('skin', 'alor1249-sar-a', 'piŋ_kuwal')	datasets/Sar-Adiabang.tsv		
+183	sore; wound	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤifat	‘new wound’	nan	('sore; wound', 'alor1249-sar-a', 'jifat')	datasets/Sar-Adiabang.tsv		
+183	sore; wound	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	be'tis	‘old wound’	nan	('sore; wound', 'adan1251-otvai', 'bah')	datasets/Sar-Adiabang.tsv		
+184	ringworm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	dutis	nan	d u t i s	('ringworm', 'alor1249-sar-a', 'dutis')	datasets/Sar-Adiabang.tsv		
+185	scabies	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qu:s	nan	q uu s	('scabies', 'alor1249-sar-a', 'qu:s')	datasets/Sar-Adiabang.tsv		
+186	tinea	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mə'nas	nan	m ə n á s	('tinea', 'alor1249-sar-a', 'mənás')	datasets/Sar-Adiabang.tsv		
+187	feverish	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gom qajʔaw	nan	g o m _ q a j ʔ a w	('feverish', 'alor1249-sar-a', 'gom_qayʔaw')	datasets/Sar-Adiabang.tsv		
+188	conjunctivitis	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	get ʔi	(lit., ‘eye sick’); Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	g e t _ ʔ i	('conjunctivitis', 'alor1249-sar-a', 'get_ʔi')	datasets/Sar-Adiabang.tsv		
+189	cold; influenza	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pe'sin	nan	p e s í n - -	('cold; influenza', 'abui1241-fuime', 'pasiŋ')	datasets/Sar-Adiabang.tsv		
+190	person	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	uj	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	u j	('person', 'alor1249-sar-a', 'uy')	datasets/Sar-Adiabang.tsv		
+191	name	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga'lut	nan	g a l ú t	('name', 'alor1249-sar-a', 'galút')	datasets/Sar-Adiabang.tsv		
+192	child	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gokal	pokál (1pl), gokal (3), nokal (1sg)	nan	('child', 'abui1241-takal', 'ʋil')	datasets/Sar-Adiabang.tsv		
+192	child	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nokal	pokál (1pl), gokal (3), nokal (1sg)	nan	('child', 'abui1241-takal', 'ʋil')	datasets/Sar-Adiabang.tsv		
+192	child	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	po'kal	pokál (1pl), gokal (3), nokal (1sg)	nan	('child', 'abui1241-takal', 'ʋil')	datasets/Sar-Adiabang.tsv		
+193	man	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mase:r	nan	m a s - - - - ee r	('man', 'alor1249-sar-a', 'mase:r')	datasets/Sar-Adiabang.tsv		
+194	woman	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ama'qar	nan	a m a q á r	('woman', 'alor1249-sar-a', 'amaqár')	datasets/Sar-Adiabang.tsv		
+195	husband	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma'sal	nan	#NAME?	('husband', 'alor1249-sar-a', 'masál')	datasets/Sar-Adiabang.tsv		
+196	wife	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	a'maq	Not 'married woman'.	#NAME?	"('wife', 'abui1241-takal', ""te̞̞.mä.'jɔl"")"	datasets/Sar-Adiabang.tsv		
+197	mother	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	na'xaj	nan	nan	('mother', 'alor1249-sar-a', 'naxáy')	datasets/Sar-Adiabang.tsv		
+198	father	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nojta	nan	n o j t a	('father', 'alor1249-sar-a', 'noyta')	datasets/Sar-Adiabang.tsv		
+199	older sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nabib	nan	n a b i b	('older sibling', 'alor1249-sar-a', 'nabib')	datasets/Sar-Adiabang.tsv		
+199	older sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nanaʔ	nan	nan	('older sibling', 'abui1241-fuime', 'nana')	datasets/Sar-Adiabang.tsv		
+200	younger sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nagis	nagis ‘sister’, neʔa ‘brother’	n a g i - - s - -	('younger sibling', 'alor1249-sar-a', 'nagis')	datasets/Sar-Adiabang.tsv		
+200	younger sibling	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	neʔa	nagis ‘sister’, neʔa ‘brother’	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	datasets/Sar-Adiabang.tsv		
+201	bride price	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga'ʔal	nan	nan	('bride price', 'alor1249-sar-a', 'gaʔál')	datasets/Sar-Adiabang.tsv		
+202	slave	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gahiŋwal	nan	nan	('slave', 'alor1249-sar-a', 'gahiŋwal')	datasets/Sar-Adiabang.tsv		
+231	left (side)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	xa'war	nan	x a w á r	('left (side)', 'abui1241-fuime', 'teibika')	datasets/Sar-Adiabang.tsv		
+232	right (side)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'ʤeda	nan	j é - d a - -	('right (side)', 'alor1249-sar-a', 'jéda')	datasets/Sar-Adiabang.tsv		
+238	dog	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤI'far	nan	nan	('dog', 'adan1251-lawah', 'bɛl')	datasets/Sar-Adiabang.tsv		
+239	pig	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	baj	nan	b a - j -	('pig', 'abui1241-fuime', 'fe')	datasets/Sar-Adiabang.tsv		
+240	chicken	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	saxaʔ	nan	s a x - a - ʔ -	('chicken', 'alor1249-sar-a', 'saxaʔ')	datasets/Sar-Adiabang.tsv		
+241	rat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	dur	nan	d u r - -	('rat', 'adan1251-lawah', 'du:l')	datasets/Sar-Adiabang.tsv		
+242	lizard	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	teh	nan	t e - h	('lizard', 'abui1241-fuime', 'tekok')	datasets/Sar-Adiabang.tsv		
+243	civet cat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	raw	nan	r a w	('civet cat', 'adan1251-lawah', 'alumanɛmɛ')	datasets/Sar-Adiabang.tsv		
+244	deer	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mu'waj	nan	m u w á j	('deer', 'alor1249-sar-a', 'muwáy')	datasets/Sar-Adiabang.tsv		
+245	frog	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mawkubar	nan	m a w - k u b a r	('frog', 'alor1249-sar-a', 'mawkubar')	datasets/Sar-Adiabang.tsv		
+246	bat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma'dal	nan	nan	"('bat', 'abui1241-takal', ""mä.'re̞l"")"	datasets/Sar-Adiabang.tsv		
+249	tail	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gor	nan	- g o r - - - - -	('tail', 'adan1251-lawah', 'oloʔ')	datasets/Sar-Adiabang.tsv		
+250	fish	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	haf	nan	h a f -	('fish', 'abui1241-fuime', 'afu')	datasets/Sar-Adiabang.tsv		
+251	shark	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	si'fir	nan	s i f í r	('shark', 'adan1251-otvai', 'tabɛi')	datasets/Sar-Adiabang.tsv		
+252	whale	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'pera	nan	- - - p é r a - - -	('whale', 'adan1251-lawah', 'perunsah')	datasets/Sar-Adiabang.tsv		
+253	dolphin	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'kuja	nan	k ú - j a -	"('dolphin', 'alor1247-besar', ""'ikaŋ_'kudʒae"")"	datasets/Sar-Adiabang.tsv		
+254	crocodile	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	jiris	nan	j i r i s -	('crocodile', 'alor1249-sar-a', 'yiris')	datasets/Sar-Adiabang.tsv		
+255	monitor lizard	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	jiris	nan	- j i r i s -	('monitor lizard', 'alor1249-sar-a', 'yiris')	datasets/Sar-Adiabang.tsv		
+256	starfish	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤif taŋga	nan	j i f _ t a ŋ g a	('starfish', 'alor1249-sar-a', 'jif_taŋga')	datasets/Sar-Adiabang.tsv		
+257	turtle	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤer quaf	nan	j e - - r _ q u - a f	('turtle', 'abui1241-fuime', 'youko')	datasets/Sar-Adiabang.tsv		
+258	turtle (saltwater)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤer quaf	nan	j e - r _ q u - a f	"('turtle (saltwater)', 'abui1241-takal', ""jɜɪ.'kɔi"")"	datasets/Sar-Adiabang.tsv		
+259	bird	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	dal	nan	nan	('bird', 'abui1241-fuime', 'ruo')	datasets/Sar-Adiabang.tsv		
+260	wing	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gataʔar	nan	g a t a ʔ a r	('wing', 'alor1249-sar-a', 'gataʔar')	datasets/Sar-Adiabang.tsv		
+262	feather	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gamur	nan	- - g a m u r	"('feather', 'abui1241-takal', ""he̞̞.'Ɂäm.ur"")"	datasets/Sar-Adiabang.tsv		
+263	horn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ge'deha	nan	g e d éh - - a	('horn', 'alor1249-sar-a', 'gedéha')	datasets/Sar-Adiabang.tsv		
+264	snake	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	da:m	nan	d aa m - - -	('snake', 'alor1249-sar-a', 'da:m')	datasets/Sar-Adiabang.tsv		
+265	scorpion	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	par	nan	nan	('scorpion', 'abui1241-fuime', 'pei')	datasets/Sar-Adiabang.tsv		
+266	egg	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	to'xol	nan	t o x ó l	('egg', 'alor1249-sar-a', 'toxól')	datasets/Sar-Adiabang.tsv		
+267	earthworm	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ojtar	nan	o j t a r	('earthworm', 'alor1249-sar-a', 'oytar')	datasets/Sar-Adiabang.tsv		
+268	butterfly	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	law barbar	nan	nan	('butterfly', 'alor1249-sar-a', 'law_barbar')	datasets/Sar-Adiabang.tsv		
+269	fly (n.)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤə'fur	nan	j ə f ú r	('fly (n.)', 'alor1249-sar-a', 'jəfúr')	datasets/Sar-Adiabang.tsv		
+270	mosquito	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	I'hiŋ	nan	- i h - í ŋ -	('mosquito', 'adan1251-lawah', 'ʔin')	datasets/Sar-Adiabang.tsv		
+271	ant	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤe'rih	nan	nan	('ant', 'alor1249-sar-a', 'jeríh')	datasets/Sar-Adiabang.tsv		
+272	grasshopper	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʔaw	nan	ʔ a w	('grasshopper', 'alor1249-sar-a', 'ʔaw')	datasets/Sar-Adiabang.tsv		
+274	spider	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qaʔqaʔ	nan	q a ʔ q a ʔ	('spider', 'alor1249-sar-a', 'qaʔqaʔ')	datasets/Sar-Adiabang.tsv		
+275	headlice	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ku'aŋ	nan	#NAME?	('headlice', 'abui1241-fuime', 'bikeŋ')	datasets/Sar-Adiabang.tsv		
+276	louse eggs	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	de'liŋ	nan	- - - d e l í ŋ -	('louse eggs', 'alor1249-sar-a', 'delíŋ')	datasets/Sar-Adiabang.tsv		
+278	flea	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pa'ʔar	nan	p a ʔ á r	('flea', 'alor1249-sar-a', 'paʔár')	datasets/Sar-Adiabang.tsv		
+279	louse (clothing)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	oʔ	nan	#NAME?	('louse (clothing)', 'alor1249-sar-a', 'oʔ')	datasets/Sar-Adiabang.tsv		
+280	bedbug	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	maj	nan	nan	('bedbug', 'alor1249-sar-a', 'may')	datasets/Sar-Adiabang.tsv		
+281	big	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	u'wad	nan	nan	('big', 'alor1249-sar-a', 'uwád')	datasets/Sar-Adiabang.tsv		
+282	small	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	kəno:j	nan	k ə n oo - j	('small', 'alor1249-sar-a', 'kəno:y')	datasets/Sar-Adiabang.tsv		
+283	old; worn (house)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	anaʔ	nan	- a n a ʔ -	('old; worn (house)', 'alor1249-sar-a', 'anaʔ')	datasets/Sar-Adiabang.tsv		
+284	new (house)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wu'dah	nan	w u d á h - -	('new (house)', 'alor1247-baran', 'funɔ')	datasets/Sar-Adiabang.tsv		
+285	old (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	kəri	kəri ‘old man’, quaf ‘old woman’	k ə r i -	('old (people)', 'alor1249-sar-a', 'kəri')	datasets/Sar-Adiabang.tsv		
+285	old (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	quaf	kəri ‘old man’, quaf ‘old woman’	q u a f	('old (people)', 'alor1249-sar-a', 'quaf')	datasets/Sar-Adiabang.tsv		
+286	young (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bog	nan	b o - g -	('young (people)', 'alor1249-sar-a', 'bog')	datasets/Sar-Adiabang.tsv		
+287	lazy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gah 'qlam	nan	nan	('lazy', 'alor1249-sar-a', 'gah_qlám')	datasets/Sar-Adiabang.tsv		
+288	hot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	oh	nan	o h	('hot', 'alor1249-sar-a', 'oh')	datasets/Sar-Adiabang.tsv		
+289	cold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qajʔaw	nan	q a - j ʔ a w -	('cold', 'alor1249-sar-a', 'qayʔaw')	datasets/Sar-Adiabang.tsv		
+290	good	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa'ʔaw	nan	q a ʔ á w	('good', 'alor1249-sar-a', 'qaʔáw')	datasets/Sar-Adiabang.tsv		
+291	bad	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ja:t	nan	nan	('bad', 'adan1251-otvai', 'sah')	datasets/Sar-Adiabang.tsv		
+292	full	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'wal	nan	w á l -	('full', 'adan1251-lawah', 'wutulu')	datasets/Sar-Adiabang.tsv		
+293	empty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ji'sak	nan	#NAME?	('empty', 'alor1249-sar-a', 'yisák')	datasets/Sar-Adiabang.tsv		
+296	wet	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ka'loʔ	nan	#NAME?	"('wet', 'alor1247-baran', ""'ɛlɛ"")"	datasets/Sar-Adiabang.tsv		
+297	dry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	si:d	nan	s ii d - - -	('dry', 'alor1249-sar-a', 'si:d')	datasets/Sar-Adiabang.tsv		
+298	dry in sun	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mawada	nan	m a w a d a - - -	('dry in sun', 'abui1241-fuime', 'waritek')	datasets/Sar-Adiabang.tsv		
+302	short (people)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	moxoʔa	nan	m o x o ʔ a	('short (people)', 'alor1249-sar-a', 'moxoʔa')	datasets/Sar-Adiabang.tsv		
+303	thin (non-human)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ta'xal	nan	#NAME?	('thin (non-human)', 'adan1251-lawah', 'tiʔi')	datasets/Sar-Adiabang.tsv		
+305	thick	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tuʔum	nan	t u ʔ u m -	('thick', 'alor1249-sar-a', 'tuʔum')	datasets/Sar-Adiabang.tsv		
+307	dark	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ibes	nan	i b e s	('dark', 'alor1249-sar-a', 'ibes')	datasets/Sar-Adiabang.tsv		
+308	light	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	I'har	nan	i h á r	('light', 'alor1249-sar-a', 'ihár')	datasets/Sar-Adiabang.tsv		
+309	dirty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qaʔan	nan	q a ʔ a n	('dirty', 'alor1249-sar-a', 'qaʔan')	datasets/Sar-Adiabang.tsv		
+310	clean	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ala:t	ala:t, sib ‘new’	a l aa t	('clean', 'alor1249-sar-a', 'ala:t')	datasets/Sar-Adiabang.tsv		
+310	clean	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	sib	ala:t, sib ‘new’	s i b	('clean', 'alor1249-sar-a', 'sib')	datasets/Sar-Adiabang.tsv		
+311	sharp	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mu'tuʔ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	m u t ú ʔ -	('sharp', 'alor1249-sar-a', 'mutúʔ')	datasets/Sar-Adiabang.tsv		
+312	blunt; dull	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	lu:k	nan	#NAME?	('blunt; dull', 'alor1249-sar-a', 'lu:k')	datasets/Sar-Adiabang.tsv		
+313	heavy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	sə'fur	nan	nan	('heavy', 'alor1249-sar-a', 'səfúr')	datasets/Sar-Adiabang.tsv		
+314	light (weight)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	xaʔ	nan	#NAME?	('light (weight)', 'alor1249-sar-a', 'xaʔ')	datasets/Sar-Adiabang.tsv		
+315	straight	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qun	nan	q - u n - - -	('straight', 'alor1249-sar-a', 'qun')	datasets/Sar-Adiabang.tsv		
+316	wide	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'tlag	nan	t - l á g	('wide', 'abui1241-fuime', 'tilesiŋ')	datasets/Sar-Adiabang.tsv		
+318	correct	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qun	nan	q - u n -	('correct', 'alor1249-sar-a', 'qun')	datasets/Sar-Adiabang.tsv		
+319	wrong	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	saxan	nan	s a x a n	('wrong', 'alor1249-sar-a', 'saxan')	datasets/Sar-Adiabang.tsv		
+320	ripe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gom 'duga	nan	g o m - _ d ú g a	('ripe', 'alor1249-sar-a', 'gom_dúga')	datasets/Sar-Adiabang.tsv		
+321	rotten	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mu:n	nan	- - m - uu n -	"('rotten', 'abui1241-takal', ""hä.mu.'ni"")"	datasets/Sar-Adiabang.tsv		
+322	bitter	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mal	nan	nan	('bitter', 'alor1249-sar-a', 'mal')	datasets/Sar-Adiabang.tsv		
+323	sweet	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤigal ub	nan	j i g a l _ u b	('sweet', 'alor1249-sar-a', 'jigal_ub')	datasets/Sar-Adiabang.tsv		
+324	sour	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	jap	nan	#NAME?	('sour', 'alor1249-sar-a', 'tamál_')	datasets/Sar-Adiabang.tsv		
+324	sour	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ta'mal 	‘tamarind’	#NAME?	('sour', 'alor1249-sar-a', 'tamál_')	datasets/Sar-Adiabang.tsv		
+325	salty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma'xar	nan	m a x á r -	"('salty', 'abui1241-takal', ""mä:.'qäl"")"	datasets/Sar-Adiabang.tsv		
+326	flat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bi'ʔa	nan	b i ʔ á	('flat', 'alor1249-sar-a', 'biʔá')	datasets/Sar-Adiabang.tsv		
+327	smooth	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	du:l	‘slippery’	d uu l _ ‘s l i pp e r j ’	('smooth', 'abui1241-fuime', 'rula')	datasets/Sar-Adiabang.tsv		
+328	rough	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa:l	nan	q aa l	('rough', 'alor1249-sar-a', 'qa:l')	datasets/Sar-Adiabang.tsv		
+329	black	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa'ʔan	nan	nan	('black', 'abui1241-fuime', 'akani')	datasets/Sar-Adiabang.tsv		
+330	white	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mi'jaq	nan	m i j - á q -	('white', 'alor1249-sar-a', 'miyáq')	datasets/Sar-Adiabang.tsv		
+331	red	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	i:ʔ	nan	ii ʔ	('red', 'alor1249-sar-a', 'i:ʔ')	datasets/Sar-Adiabang.tsv		
+332	green	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	logar	nan	- - - - l o - g a r - - - - - - -	('green', 'abui1241-fuime', 'walaŋai')	datasets/Sar-Adiabang.tsv		
+333	blue	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	logar	nan	- - l - o - g a r	('blue', 'alor1249-sar-a', 'logar')	datasets/Sar-Adiabang.tsv		
+334	yellow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ba'har	nan	b a h á r -	('yellow', 'adan1251-lawah', 'baʔoi')	datasets/Sar-Adiabang.tsv		
+335	sick; painful	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	iʔ	There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	i ʔ	('sick; painful', 'alor1249-sar-a', 'iʔ')	datasets/Sar-Adiabang.tsv		
+336	shy; ashamed	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ra'ʔar	nan	- r a ʔ á r	('shy; ashamed', 'alor1249-sar-a', 'raʔár')	datasets/Sar-Adiabang.tsv		
+337	thirsty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pom si:d	nan	p o m _ s ii d	('thirsty', 'alor1249-sar-a', 'pom_si:d')	datasets/Sar-Adiabang.tsv		
+338	hungry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qajaq	nan	#NAME?	('hungry', 'alor1249-sar-a', 'qayaq')	datasets/Sar-Adiabang.tsv		
+339	blind	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pet bes	nan	p e t _ b e s	('blind', 'alor1249-sar-a', 'pet_bes')	datasets/Sar-Adiabang.tsv		
+339	blind	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pet ja:t	nan	nan	('blind', 'alor1249-sar-a', 'pet_ya:t')	datasets/Sar-Adiabang.tsv		
+340	deaf	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qa'jus	nan	q a j ú s	('deaf', 'alor1249-sar-a', 'qayús')	datasets/Sar-Adiabang.tsv		
+341	scared	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	haraʔar	nan	- h a r a ʔ a r -	('scared', 'alor1249-sar-a', 'haraʔar')	datasets/Sar-Adiabang.tsv		
+342	angry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'gaʔas	nan	g á ʔ a s	('angry', 'alor1249-sar-a', 'gáʔas')	datasets/Sar-Adiabang.tsv		
+342	angry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	om kaka	nan	o m _ k a k a	"('angry', 'alor1247-munas', ""'ɔnɔ_k'likil"")"	datasets/Sar-Adiabang.tsv		
+343	to see	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bil	nan	b i l -	('to see', 'alor1249-sar-a', 'bil')	datasets/Sar-Adiabang.tsv		
+344	to hear	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wu'raqar	nan	w u r á q a - r	('to hear', 'alor1249-sar-a', 'wuráqar')	datasets/Sar-Adiabang.tsv		
+345	to smell	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	menim	nan	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Sar-Adiabang.tsv		
+346	to think	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wambil	nan	#NAME?	('to think', 'alor1249-sar-a', 'wambil')	datasets/Sar-Adiabang.tsv		
+347	to know	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ka'lal	nan	- - k a l á l -	('to know', 'alor1249-sar-a', 'kalál')	datasets/Sar-Adiabang.tsv		
+348	to say	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	traʔ bir	‘speak, language’	t r a ʔ _ b i r	('to say', 'alor1249-sar-a', 'traʔ_bir')	datasets/Sar-Adiabang.tsv		
+349	to speak	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga'maʔ	nan	g a m á ʔ	('to speak', 'alor1249-sar-a', 'gamáʔ')	datasets/Sar-Adiabang.tsv		
+352	to lie down	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tiʔ	nan	nan	('to lie down', 'abui1241-fuime', 'ta')	datasets/Sar-Adiabang.tsv		
+353	to sleep	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tiʔ	nan	t i - - ʔ - -	('to sleep', 'abui1241-fuime', 'ta')	datasets/Sar-Adiabang.tsv		
+354	to wake up	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tuk	nan	t u - k	('to wake up', 'adan1251-lawah', 'tohø')	datasets/Sar-Adiabang.tsv		
+355	to wake someone up	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga'tan	nan	g a t - á n - -	('to wake someone up', 'adan1251-otvai', 'aden_to')	datasets/Sar-Adiabang.tsv		
+356	to bathe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	puwel	nan	- - p u w e l -	('to bathe', 'abui1241-fuime', 'tawel')	datasets/Sar-Adiabang.tsv		
+357	to bathe (a child)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gewel	nan	- - g e w e l -	('to bathe (a child)', 'abui1241-takal', 'di_hä.ʋe̞l')	datasets/Sar-Adiabang.tsv		
+358	to sit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mi:s	nan	- - m ii s - - - -	"('to sit', 'abui1241-petle', ""mi.'ti"")"	datasets/Sar-Adiabang.tsv		
+359	to stand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tas	nan	nan	('to stand', 'abui1241-fuime', 'nate')	datasets/Sar-Adiabang.tsv		
+360	to walk	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'tewar	nan	t éw - a r	('to walk', 'alor1249-sar-a', 'téwar')	datasets/Sar-Adiabang.tsv		
+361	to run	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bir	nan	nan	('to run', 'abui1241-fuime', 'furei')	datasets/Sar-Adiabang.tsv		
+363	to swim	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tə'lis	nan	t ə l í - s	('to swim', 'alor1249-sar-a', 'təlís')	datasets/Sar-Adiabang.tsv		
+364	to fly	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤi:r	nan	j ii r - - - -	('to fly', 'abui1241-fuime', 'li')	datasets/Sar-Adiabang.tsv		
+365	to fall (from above)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	baʔ	nan	b a - ʔ	('to fall (from above)', 'alor1249-sar-a', 'baʔ')	datasets/Sar-Adiabang.tsv		
+366	to fall over	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	e'ri	e.g. pohon yang dipotong.	- e r í	('to fall over', 'alor1249-sar-a', 'erí')	datasets/Sar-Adiabang.tsv		
+367	to drop	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	genabaʔ	genabaʔ ‘drop someone’, məhud ‘drop someone’	g e n a b a ʔ	('to drop', 'alor1249-sar-a', 'genabaʔ')	datasets/Sar-Adiabang.tsv		
+367	to drop	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	məhud	genabaʔ ‘drop someone’, məhud ‘drop someone’	m ə h u d	('to drop', 'alor1249-sar-a', 'məhud')	datasets/Sar-Adiabang.tsv		
+368	to drink	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	foʔ	nan	f o ʔ	('to drink', 'alor1249-sar-a', 'foʔ')	datasets/Sar-Adiabang.tsv		
+369	to eat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	na	nan	#NAME?	('to eat', 'alor1249-sar-a', 'na')	datasets/Sar-Adiabang.tsv		
+370	to cook	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	daw	nan	d a - - w	('to cook', 'adan1251-lawah', 'dowoʔ')	datasets/Sar-Adiabang.tsv		
+371	to wash	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	(uwam) be'li	nan	- - b e l í - -	('to wash', 'alor1249-sar-a', '(uwam)_belí')	datasets/Sar-Adiabang.tsv		
+372	to sew	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	rot	nan	- - - - - - r o t - - - - - - - -	('to sew', 'adan1251-lawah', 'narotoʔ')	datasets/Sar-Adiabang.tsv		
+373	to live; be alive; living	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ba'na	nan	b a n á - - -	('to live; be alive; living', 'alor1249-sar-a', 'baná')	datasets/Sar-Adiabang.tsv		
+374	to breathe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	haqah	nan	h a q a h	('to breathe', 'alor1249-sar-a', 'haqah')	datasets/Sar-Adiabang.tsv		
+376	to die	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	min	nan	- - m i n - -	('to die', 'abui1241-fuime', 'moŋ')	datasets/Sar-Adiabang.tsv		
+377	to give	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma'gaŋ	nan	- m a - g á ŋ - -	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	datasets/Sar-Adiabang.tsv		
+378	to wipe	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ap	nan	- a p - - -	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	datasets/Sar-Adiabang.tsv		
+379	to come	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma	nan	- - - m a - - -	('to come', 'abui1241-fuime', 'me')	datasets/Sar-Adiabang.tsv		
+380	to laugh	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤə'har	nan	j ə h á r -	('to laugh', 'abui1241-petle', 'jei')	datasets/Sar-Adiabang.tsv		
+381	to cry	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bagis	nan	b a - g - i s	('to cry', 'abui1241-fuime', 'biakda')	datasets/Sar-Adiabang.tsv		
+382	to dance	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	sohal 	‘lego-lego’	nan	('to dance', 'abui1241-fuime', 'tohaijok')	datasets/Sar-Adiabang.tsv		
+382	to dance	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	dial 	‘fast lego-lego’	nan	('to dance', 'abui1241-fuime', 'tohaijok')	datasets/Sar-Adiabang.tsv		
+382	to dance	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	haman 	‘slow lego-lego’	nan	('to dance', 'abui1241-fuime', 'tohaijok')	datasets/Sar-Adiabang.tsv		
+384	to burn (clear land)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ma'har de	(lit, ‘garden burn’)	- - - - m a h á r _ d e - - - - -	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	datasets/Sar-Adiabang.tsv		
+385	to burn; to shine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	de	nan	d e - -	('to burn; to shine', 'alor1249-sar-a', 'de')	datasets/Sar-Adiabang.tsv		
+386	to shine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	lijar	nan	l i j a r	('to shine', 'alor1249-sar-a', 'liyar')	datasets/Sar-Adiabang.tsv		
+387	to chew	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ka'raj	nan	k a r á - j	('to chew', 'alor1249-sar-a', 'karáy')	datasets/Sar-Adiabang.tsv		
+388	to yawn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	hahar	nan	h a h a - r -	"('to yawn', 'abui1241-takal', ""ä.häi.'lä"")"	datasets/Sar-Adiabang.tsv		
+389	to suck	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	puʔis	nan	p u ʔ i s - - - - - - - - - - -	('to suck', 'abui1241-fuime', 'buk')	datasets/Sar-Adiabang.tsv		
+390	to blow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	puj	nan	- - - - - p u j - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	datasets/Sar-Adiabang.tsv		
+391	to spit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	(meler) fut	nan	f u t	('to spit', 'alor1249-sar-a', '(meler)_fut')	datasets/Sar-Adiabang.tsv		
+392	to vomit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤigit	nan	nan	('to vomit', 'abui1241-fuime', 'iu')	datasets/Sar-Adiabang.tsv		
+393	to rub	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	to:d	nan	t oo d - -	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	datasets/Sar-Adiabang.tsv		
+394	to scratch	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	kəra:b	nan	k ə - r aa b - -	('to scratch', 'alor1249-sar-a', 'kəra:b')	datasets/Sar-Adiabang.tsv		
+395	itchy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qaq	nan	q a q - -	('itchy', 'adan1251-lawah', 'kakaʔ')	datasets/Sar-Adiabang.tsv		
+396	to swell	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wa'ra	nan	- w a r á -	('to swell', 'alor1249-sar-a', 'wará')	datasets/Sar-Adiabang.tsv		
+397	to hit	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	put	nan	p u t	('to hit', 'adan1251-lawah', 'bihiʔ')	datasets/Sar-Adiabang.tsv		
+399	to bite	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'si	nan	- - s í -	('to bite', 'adan1251-lawah', '(bɛl)_ʔihi')	datasets/Sar-Adiabang.tsv		
+400	to cut	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	te'he	nan	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Sar-Adiabang.tsv		
+401	to cut down	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gour	nan	g o u r -	('to cut down', 'alor1249-sar-a', 'gour')	datasets/Sar-Adiabang.tsv		
+402	to split	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'qat	nan	q á t -	('to split', 'abui1241-fuime', 'kadel')	datasets/Sar-Adiabang.tsv		
+403	to divide	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pahal	nan	- - p a h a l -	('to divide', 'adan1251-lawah', 'ʔabaʔaŋ')	datasets/Sar-Adiabang.tsv		
+404	to stab	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	sifal	nan	s i f a l -	('to stab', 'alor1249-sar-a', 'sifal')	datasets/Sar-Adiabang.tsv		
+404	to stab	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tatap	nan	t a t a p	('to stab', 'alor1249-sar-a', 'tatap')	datasets/Sar-Adiabang.tsv		
+406	to fight	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	təmu'kis	nan	t ə m u k í s	('to fight', 'alor1249-sar-a', 'təmukís')	datasets/Sar-Adiabang.tsv		
+407	to guard	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga'buha	nan	g a b ú h a -	"('to guard', 'abui1241-takal', ""ho:.'fi.kä:ng"")"	datasets/Sar-Adiabang.tsv		
+408	to throw	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wun'tar	nan	w u n t á r -	('to throw', 'alor1249-sar-a', 'wuntár')	datasets/Sar-Adiabang.tsv		
+409	to hunt	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	saw	nan	s a w	('to hunt', 'alor1249-sar-a', 'saw')	datasets/Sar-Adiabang.tsv		
+410	to kill	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gel na'min	nan	nan	('to kill', 'abui1241-petle', 'bol_moŋ')	datasets/Sar-Adiabang.tsv		
+411	to chase away; to run after	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gatijas	nan	#NAME?	"('to chase away; to run after', 'abui1241-takal', ""tä.'pä:.tiŋ"")"	datasets/Sar-Adiabang.tsv		
+413	to search for; to hunt for	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wuraq	nan	w u r a q	('to search for; to hunt for', 'alor1249-sar-a', 'wuraq')	datasets/Sar-Adiabang.tsv		
+414	to dig	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	han	nan	h a n	('to dig', 'alor1249-sar-a', 'han')	datasets/Sar-Adiabang.tsv		
+415	to bury	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pram	nan	p r a m -	('to bury', 'alor1249-sar-a', 'pram')	datasets/Sar-Adiabang.tsv		
+416	to flow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	totis	nan	t o - t i s	('to flow', 'alor1249-sar-a', 'totis')	datasets/Sar-Adiabang.tsv		
+417	to float	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tedis	nan	t e - d i s -	('to float', 'abui1241-fuime', 'ije_fauiti')	datasets/Sar-Adiabang.tsv		
+419	to hold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	(wam)pin	nan	- - - p i - n -	('to hold', 'abui1241-fuime', 'ho-puna')	datasets/Sar-Adiabang.tsv		
+420	to tie	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ojomg 	‘tie a rope’	o j o m g _ ‘ t i e _ a _ r o p e ’	('to tie', 'alor1249-sar-a', 'ojomg_')	datasets/Sar-Adiabang.tsv		
+420	to tie	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pat	‘tie up an animal’	o j o m g _ ‘ t i e _ a _ r o p e ’	('to tie', 'alor1249-sar-a', 'ojomg_')	datasets/Sar-Adiabang.tsv		
+421	to play	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mujar	nan	m u j a r	('to play', 'abui1241-fuime', 'muila')	datasets/Sar-Adiabang.tsv		
+422	to pull	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	kejr	nan	k e j r -	('to pull', 'alor1249-sar-a', 'keyr')	datasets/Sar-Adiabang.tsv		
+423	to push	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tatum	nan	t a t u m -	('to push', 'adan1251-lawah', 'adoʔo')	datasets/Sar-Adiabang.tsv		
+424	to turn	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ga'fur	nan	g a f ú r -	('to turn', 'alor1249-sar-a', 'gafúr')	datasets/Sar-Adiabang.tsv		
+425	to dream	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤi'fir	nan	j i - f í r	('to dream', 'adan1251-lawah', 'pei')	datasets/Sar-Adiabang.tsv		
+426	to crouch; to bend over	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'saʔ	To crouch as on an Indonesian toilet, NOT: to kneel	s á ʔ -	('to crouch; to bend over', 'alor1249-sar-a', 'sáʔ')	datasets/Sar-Adiabang.tsv		
+428	to choose	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	wantraj	nan	w a n t r a j	('to choose', 'adan1251-otvai', 'taraʔ')	datasets/Sar-Adiabang.tsv		
+429	to grow	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	I'la	nan	- i l á -	('to grow', 'alor1249-sar-a', 'ilá')	datasets/Sar-Adiabang.tsv		
+430	to squeeze	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	mə'rat	qamay ‘squeeze coconut’	m ə r á t -	('to squeeze', 'alor1249-sar-a', 'mərát')	datasets/Sar-Adiabang.tsv		
+430	to squeeze	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qamaj	qamay ‘squeeze coconut’	q a - m a - j	('to squeeze', 'alor1249-sar-a', 'qamay')	datasets/Sar-Adiabang.tsv		
+431	to buy	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʔol	nan	- - ʔ o l -	('to buy', 'abui1241-fuime', 'bele')	datasets/Sar-Adiabang.tsv		
+432	to sell	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	maʔaŋ	nan	m a ʔ a ŋ	('to sell', 'alor1249-sar-a', 'maʔaŋ')	datasets/Sar-Adiabang.tsv		
+433	to steal	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	taxa	taxa ‘thief’	t a x a - - -	('to steal', 'abui1241-fuime', 'takau')	datasets/Sar-Adiabang.tsv		
+433	to steal	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	taxawis	taxa ‘thief’	t a x a w i s	('to steal', 'abui1241-fuime', 'takau')	datasets/Sar-Adiabang.tsv		
+434	to open	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	se'xe	nan	s e x é -	('to open', 'alor1249-sar-a', 'sexé')	datasets/Sar-Adiabang.tsv		
+435	to close	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	sa'bar	nan	s a b á r	('to close', 'alor1249-sar-a', 'sabár')	datasets/Sar-Adiabang.tsv		
+436	to climb	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gasir	nan	g a s i r -	('to climb', 'alor1249-sar-a', 'gasir')	datasets/Sar-Adiabang.tsv		
+437	to hide	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pi-'maj	nan	p i m - á j	('to hide', 'alor1249-sar-a', 'pi-máy')	datasets/Sar-Adiabang.tsv		
+438	to wait	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	warah	nan	w a r a h	('to wait', 'alor1249-sar-a', 'warah')	datasets/Sar-Adiabang.tsv		
+439	to fold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	plik	NOT: lipat tikar	p - l i k - -	('to fold', 'adan1251-lawah', 'paliʔi')	datasets/Sar-Adiabang.tsv		
+439	to fold	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pəlík	NOT: lipat tikar	p ə l í k - -	('to fold', 'adan1251-lawah', 'paliʔi')	datasets/Sar-Adiabang.tsv		
+440	to help	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	molah	nan	- - - m o l a h -	('to help', 'alor1249-sar-a', 'molah')	datasets/Sar-Adiabang.tsv		
+441	to bark	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'togis	nan	t ó g i s	('to bark', 'alor1249-sar-a', 'tógis')	datasets/Sar-Adiabang.tsv		
+442	to shoot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	blap	nan	b - l a p	('to shoot', 'alor1249-sar-a', 'blap')	datasets/Sar-Adiabang.tsv		
+443	to shoot with slingshot	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pə'sak	nan	p ə s á k -	('to shoot with slingshot', 'alor1249-sar-a', 'pəsák')	datasets/Sar-Adiabang.tsv		
+444	to pound; to beat	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tap	nan	nan	('to pound; to beat', 'abui1241-fuime', 'tape')	datasets/Sar-Adiabang.tsv		
+445	to hit (drum)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bah	nan	b a h	('to hit (drum)', 'alor1249-sar-a', 'bah')	datasets/Sar-Adiabang.tsv		
+446	to call out	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pe'xejr	‘call out’	p e x é j r _ ‘ c a ll _ o u t ’	('to call out', 'alor1249-sar-a', 'pexéyr')	datasets/Sar-Adiabang.tsv		
+446	to call out	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pon 	‘call out with a loud voice’	p e x é j r _ ‘ c a ll _ o u t ’	('to call out', 'alor1249-sar-a', 'pexéyr')	datasets/Sar-Adiabang.tsv		
+447	to lie (tell untruth)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	'akal	nan	- á k a l - - -	('to lie (tell untruth)', 'adan1251-lawah', 'kaluwi')	datasets/Sar-Adiabang.tsv		
+448	to ask (question)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	waŋgə'tah	nan	w a ŋ g ə t á h	('to ask (question)', 'abui1241-fuime', 'na:tahaŋ')	datasets/Sar-Adiabang.tsv		
+449	to count	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tag	nan	nan	('to count', 'adan1251-lawah', 'taʔana')	datasets/Sar-Adiabang.tsv		
+450	one	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	nuk	nan	- n u k -	('one', 'abui1241-fuime', 'nuku')	datasets/Sar-Adiabang.tsv		
+451	two	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	raq	nan	- r a q -	('two', 'alor1249-sar-a', 'raq')	datasets/Sar-Adiabang.tsv		
+452	three	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tig	nan	- t i g -	('three', 'alor1249-sar-a', 'tig')	datasets/Sar-Adiabang.tsv		
+453	four	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ut	nan	- u t - -	('four', 'abui1241-fuime', 'buti')	datasets/Sar-Adiabang.tsv		
+454	five	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	a'san	nan	- - - a s á n -	('five', 'abui1241-fuime', 'jetiŋ')	datasets/Sar-Adiabang.tsv		
+455	six	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	təlaŋ	nan	t ə l a - ŋ - -	('six', 'abui1241-fuime', 'tala:ma')	datasets/Sar-Adiabang.tsv		
+456	seven	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ʤisraq	nan	j i - s r a q -	('seven', 'abui1241-fuime', 'jetiŋ_ajoku')	datasets/Sar-Adiabang.tsv		
+457	eight	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	santig	nan	s a - n - t i g	('eight', 'alor1249-sar-a', 'santig')	datasets/Sar-Adiabang.tsv		
+458	nine	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	saŋʔut	nan	s a ŋ ʔ u t	('nine', 'alor1249-sar-a', 'saŋʔut')	datasets/Sar-Adiabang.tsv		
+459	ten	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qarnuk	nan	q a - r - n u k -	('ten', 'abui1241-fuime', 'kar_nuku')	datasets/Sar-Adiabang.tsv		
+460	eleven	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qar nuk unuk	nan	nan	('eleven', 'abui1241-fuime', 'wal_nuku')	datasets/Sar-Adiabang.tsv		
+461	twelve	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qar nuk unraq	nan	q a r _ n u k - _ - u n r a q - - - - - - - -	('twelve', 'abui1241-fuime', 'wal_ajoku')	datasets/Sar-Adiabang.tsv		
+462	thirteen	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qar nuk untig	nan	q a r _ n u k - _ - - - - - - - u n t i g -	"('thirteen', 'abui1241-takal', ""kär.'nu.qu._wäl_'su.ä"")"	datasets/Sar-Adiabang.tsv		
+469	twenty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qaraq	nan	- - - q a r a - - - q -	('twenty', 'abui1241-fuime', 'kar_ajoku')	datasets/Sar-Adiabang.tsv		
+470	twenty one	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qaraq onuk	nan	q a r a q _ - - - - - o n u k	('twenty one', 'abui1241-fuime', 'kar_ajoku_wal_nuku')	datasets/Sar-Adiabang.tsv		
+475	thirty	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	qar tig	nan	q a r - _ t i g - -	('thirty', 'alor1249-sar-a', 'qar_tig')	datasets/Sar-Adiabang.tsv		
+482	one hundred	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ratu nuk	nan	- r a t u _ - n u k -	('one hundred', 'adan1251-lawah', 'ratnu')	datasets/Sar-Adiabang.tsv		
+483	one hundred and twenty three	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ratu nuk qar raq untig	nan	- r a t u _ n u k - _ q a r - - _ r a - q - - _ - - - - - - - u n t i g -	('one hundred and twenty three', 'alor1249-sar-a', 'ratu_nuk_qar_raq_untig')	datasets/Sar-Adiabang.tsv		
+484	two hundred	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ratu raq	nan	- r a t u - _ r a q - -	('two hundred', 'adan1251-lawah', 'ratalu')	datasets/Sar-Adiabang.tsv		
+485	thousand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ribu nuk	nan	- r i b u _ n u k -	('thousand', 'abui1241-fuime', 'rifi_nuku')	datasets/Sar-Adiabang.tsv		
+486	one hundred thousand	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	sə'lak nuk 	‘one million’	s ə l á k _ n u k _ ‘ o n e _ m i ll i o n ’	('one hundred thousand', 'alor1249-sar-a', 'səlák_nuk_')	datasets/Sar-Adiabang.tsv		
+487	grandmother	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tapis	The kinship task also asks for this term	#NAME?	('grandmother', 'alor1249-sar-a', 'tapis')	datasets/Sar-Adiabang.tsv		
+489	grandchild	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	pitapis	The kinship task also asks for this term	p i t a p i s	('grandchild', 'alor1249-sar-a', 'pitapis')	datasets/Sar-Adiabang.tsv		
+587	oven/cooking place	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tu'tuh	nan	t u t ú h - - - - - - -	('oven/cooking place', 'alor1249-sar-a', 'tutúh')	datasets/Sar-Adiabang.tsv		
+588	flower (in e.g. mangga tree)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	la'har	nan	l a h á r	('flower (in e.g. mangga tree)', 'alor1249-sar-a', 'lahár')	datasets/Sar-Adiabang.tsv		
+589	vein	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	ta̯'raw	nan	- - t a̯ r á - w	('vein', 'alor1249-sar-a', 'ta̯ráw')	datasets/Sar-Adiabang.tsv		
+590	long (stick)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tián	nan	t i - á n -	('long (stick)', 'alor1249-sar-a', 'tián')	datasets/Sar-Adiabang.tsv		
+591	tall (person)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	lewa	nan	l e - w a - -	('tall (person)', 'adan1251-lawah', 'lawen')	datasets/Sar-Adiabang.tsv		
+592	short (stick)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tuk	nan	t u - - k - - - -	('short (stick)', 'alor1249-sar-a', 'tuk')	datasets/Sar-Adiabang.tsv		
+593	narrow (road)	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	tə'fug	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	t ə f ú g - -	('narrow (road)', 'adan1251-otvai', 'kapuh')	datasets/Sar-Adiabang.tsv		
+598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	bu'rah	gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’	b u r á h	('to chase away; to expel', 'alor1249-sar-a', 'buráh')	datasets/Sar-Adiabang.tsv		
+598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	gə'saj	gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’	g ə s á j	('to chase away; to expel', 'alor1249-sar-a', 'gəsáy')	datasets/Sar-Adiabang.tsv		
+598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	hus	gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’	h u s	('to chase away; to expel', 'alor1249-sar-a', 'hus')	datasets/Sar-Adiabang.tsv		
+598	to chase away; to expel	alor1249-sar-a	Sar-Adiabang	Timor-Alor-Pantar	1Pantar, 1West	si'kah	gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’	s i k á h	('to chase away; to expel', 'alor1249-sar-a', 'sikáh')	datasets/Sar-Adiabang.tsv		
