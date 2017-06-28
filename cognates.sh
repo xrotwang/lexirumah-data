@@ -1,5 +1,6 @@
 set -e
 
+rm db.sqlite
 python process_data.py
 echo "Segmenting…"
 python segment.py all_data.tsv tap-segmented.tsv
