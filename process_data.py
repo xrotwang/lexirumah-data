@@ -613,6 +613,7 @@ def db_main(trust=[languages_path, concepticon_path]):
     ds = Dataset(
         id=dataset_metadata["id"],
         name=dataset_metadata["name"],
+        description=dataset_metadata["description"],
         publisher_name=dataset_metadata["publisher_name"],
         publisher_place=dataset_metadata["publisher_place"],
         publisher_url=dataset_metadata["publisher_url"],
