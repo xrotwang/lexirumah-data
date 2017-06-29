@@ -14,12 +14,12 @@ if __name__ == "__main__":
     parser.add_argument("input", default=sys.stdin,
                         type=argparse.FileType('r'),
                         help="Input filename containing word list")
-    parser.add_argument("--other", default=None,
-                        type=argparse.FileType('r'),
-                        help="Other word list containing alternative codings")
     parser.add_argument("output", default=sys.stdout, nargs="?",
                         type=argparse.FileType('w'),
                         help="Output file to write merged data to")
+    parser.add_argument("--other", default=None,
+                        type=argparse.FileType('r'),
+                        help="Other word list containing alternative codings")
     parser.add_argument("--input-col", default="Cognate Set",
                         help="Column containing classes in the input")
     parser.add_argument("--other-col", default="Similarity Set",
@@ -32,6 +32,7 @@ if __name__ == "__main__":
                         help="Show which classes are moved")
     args = parser.parse_args()
 
+    # Read the original data file
     data = pandas.io.parsers.read_csv(
         args.input,
         sep="\t",
@@ -39,7 +40,10 @@ if __name__ == "__main__":
         index_col=["English", "Language_ID", "IPA"],
         keep_default_na=False,
         encoding='utf-8')
+    data.sort_index(inplace=True)
 
+    # If cognate classes from a different file should be merged in,
+    # read that. (Otherwise, do practically nothing.)
     if args.other:
         other = pandas.io.parsers.read_csv(
             args.other,
@@ -48,19 +52,23 @@ if __name__ == "__main__":
             index_col=["English", "Language_ID", "IPA"],
             keep_default_na=False,
             encoding='utf-8')
+        other.sort_index(inplace=True)
     else:
         other = data
 
+    # Parse the `reset` switch.
     reset_these = [r.split("=")
                    for r in args.reset
                    if r.count("=") == 1]
 
+    # Prepare the output column
     if args.output_col in [args.input_col, args.other_col]:
-        print("If the output column is identical to an input column, behaviour is not well-defined. Continuing anyway.",
-              file=sys.stderr)
+        raise ValueError("Output column may not be also an input column.")
     data[args.output_col] = None
 
     for (c, l, v), row in list(data.iterrows()):
+        # The cognateset is reset if it's not defined, or if a request
+        # was explicitly requested.
         cognateset = row[args.input_col]
         reset = cognateset == "nan" or not cognateset or pandas.isnull(
                 cognateset)
@@ -75,26 +83,29 @@ if __name__ == "__main__":
                 reset |= row[col] == const
 
         try:
-            cogid = row[args.input_col]
-            representatives = data[data[args.input_col] == cogid]
+            # Find the first row in that cognateset and use its index
+            # (C,L,V) as a representative of the class.
+            representatives = data[data[args.input_col] == cognateset]
             representative = representatives.index[0]
         except IndexError:
             representative = None
 
-        try:
-            other_rows = other.loc[(c, l, v)]
-            other_cogid = other_rows.iloc[0][args.other_col]
-            other_representatives = other[
-                other[args.other_col] == other_cogid]
-            other_representative = other_representatives.index[0]
-        except IndexError:
-            other_representative = None
+        if reset or representative is None:
+            # Find the first row in the *other* file that shares the
+            # *other* cognate class with this word. Assuming sorted
+            # indices, that would be this word or a word we have
+            # already handled, so that word should have a reasonable
+            # representative set.
+            try:
+                other_rows_for_this_form = other.loc[(c, l, v)]
+                other_cogid = other_rows_for_this_form.iloc[0][args.other_col]
+                other_representatives = other[
+                    other[args.other_col] == other_cogid]
+                representative = other_representatives.index[0]
+                assert representative <= (c, l, v)
+            except IndexError:
+                representative = None
 
-        if reset:
-            representative = other_representative
-        elif args.log:
-            if (representative != other_representative or not representative):
-                print((c, l, v), ":", representative, "→", other_representative)
         data.set_value((c, l, v), args.output_col, str(representative))
 
     data.to_csv(args.output,
