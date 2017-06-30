@@ -14,10 +14,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 12	twilight; dawn	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mua usa ma'lena	nan	m ua _ u s a _ m a 'l e n a	"('twilight; dawn', 'maka1316', ""mua usa ma'lena"")"	datasets/mkzmk20160112wordlist.tsv		
 13	cloud	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	nin'deu	nan	n i n 'd eu	"('cloud', 'maka1316', ""nin'deu"")"	datasets/mkzmk20160112wordlist.tsv		
 14	wind	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ga'wara	nan	g a 'w a r a	('wind', 'buna1278-bobon', 'bɛl')	datasets/mkzmk20160112wordlist.tsv		
-15	rain	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ae	nan	- - ae - - - - - -	('rain', 'alor1249-sar-a', 'ál')	datasets/mkzmk20160112wordlist.tsv		
+15	rain	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ae	nan	- - ae - - - - - -	"('rain', 'alor1249-sar-a', ""'al"")"	datasets/mkzmk20160112wordlist.tsv		
 16	drizzle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ae liri-liri	nan	- - ae _ l i r i - l i r	"('drizzle', 'fata1247', ""aija liri-'liri"")"	datasets/mkzmk20160112wordlist.tsv		
 18	thunder	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lo fati'lɔkɔ	nan	l o _ f a t i 'l ɔ k ɔ	"('thunder', 'maka1316', ""lo fati'lɔkɔ"")"	datasets/mkzmk20160112wordlist.tsv		
-19	lightning	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ilili 'sɔɁɔ	nan	- - i l - - i l i _ 's ɔ Ɂ ɔ	('lightning', 'baka1276', 'bil məlélak')	datasets/mkzmk20160112wordlist.tsv		
+19	lightning	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ilili 'sɔɁɔ	nan	- - i l - - i l i _ 's ɔ Ɂ ɔ	('lightning', 'buna1278-bobon', 'mɛrɛn')	datasets/mkzmk20160112wordlist.tsv		
 20	earthquake	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	'li:l-li	nan	'l i: l- l	"('earthquake', 'maka1316', ""'li:l-li"")"	datasets/mkzmk20160112wordlist.tsv		
 21	fog	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	uwara	nan	u w a r a	('fog', 'fata1247', 'war')	datasets/mkzmk20160112wordlist.tsv		
 22	river; stream	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ira wair	nan	i r a _ w ai r	('river; stream', 'fata1247', 'ira wɛr')	datasets/mkzmk20160112wordlist.tsv		
@@ -28,7 +28,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 26	mountain	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ili	buɁunu=ridge, mountain top; ili=mountain	- - i l i - - - - - - -	('mountain', 'abui1241-fuime', 'buku')	datasets/mkzmk20160112wordlist.tsv		
 27	hill; ridge	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	buɁunu	nan	b u Ɂ u n u	('hill; ridge', 'maka1316', 'buɁunu')	datasets/mkzmk20160112wordlist.tsv		
 28	village	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ka:mbu	nan	k a: m b u	('village', 'fata1247', 'kampu')	datasets/mkzmk20160112wordlist.tsv		
-29	land; soil	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	muɁa	nan	m u - Ɂ a -	('land; soil', 'alor1249-sar-a', 'maxáʔ')	datasets/mkzmk20160112wordlist.tsv		
+29	land; soil	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	muɁa	nan	m u - Ɂ a -	"('land; soil', 'alor1249-sar-a', ""ma'xaʔ"")"	datasets/mkzmk20160112wordlist.tsv		
 30	Earth	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	muɁa	nan	m u Ɂ a	('Earth', 'buna1278-bobon', 'mug')	datasets/mkzmk20160112wordlist.tsv		
 31	hole	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tabaɁa	nan	t a b a Ɂ a	('hole', 'maka1316', 'tabaɁa')	datasets/mkzmk20160112wordlist.tsv		
 32	stone	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afa	nan	a f a - - - - - - -	('stone', 'abui1241-fuime', 'vi')	datasets/mkzmk20160112wordlist.tsv		
@@ -45,7 +45,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 42	rice field	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	alɛ ama	ale ama = wet rice field, teli ama = corn field	a l ɛ _ - a m a	('rice field', 'fata1247', 'alɛ pala')	datasets/mkzmk20160112wordlist.tsv		
 43	garden	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ama	nan	- - a m - - - a - -	('garden', 'buna1278-bobon', 'maɁ')	datasets/mkzmk20160112wordlist.tsv		
 44	fence	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	de'turu	nan	d e 't u r u	('fence', 'fata1247', 'tari')	datasets/mkzmk20160112wordlist.tsv		
-45	road; path; way	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ia'bata	nan	ia 'b a t a	('road; path; way', 'kama1365', 'yebɑ')	datasets/mkzmk20160112wordlist.tsv		
+45	road; path; way	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ia'bata	nan	ia 'b a t a	"('road; path; way', 'maka1316', ""ia'bata"")"	datasets/mkzmk20160112wordlist.tsv		
 46	canoe	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kora-kora	nan	k o r a - k o r	('canoe', 'maka1316', 'kora-kora')	datasets/mkzmk20160112wordlist.tsv		
 47	sail (n.)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lona	nan	l o n a	('sail (n.)', 'fata1247', 'lɔna')	datasets/mkzmk20160112wordlist.tsv		
 48	to sail	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fara'guaɁa	nan	f a r a 'g ua Ɂ a	"('to sail', 'maka1316', ""fara'guaɁa"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -60,7 +60,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 59	bow	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	iru	nan	i r u	('bow', 'maka1316', 'iru')	datasets/mkzmk20160112wordlist.tsv		
 60	arrow	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	iru 'mata	nan	i r u _ 'm a t a	"('arrow', 'maka1316', ""iru 'mata"")"	datasets/mkzmk20160112wordlist.tsv		
 61	knife	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	suti kaɁu	nan	s u t i _ k a Ɂ u	('knife', 'maka1316', 'suti kaɁu')	datasets/mkzmk20160112wordlist.tsv		
-62	comb	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	suri	nan	- s u r i -	('comb', 'amar1273-kotos', 'soʔit')	datasets/mkzmk20160112wordlist.tsv		
+62	comb	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	suri	nan	- s u r i -	('comb', 'buna1278-bobon', 'sae')	datasets/mkzmk20160112wordlist.tsv		
 63	mat	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	biti	nan	- b i - t i - - -	('mat', 'adan1251-lawah', 'bahu')	datasets/mkzmk20160112wordlist.tsv		
 64	needle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dau'ruma	nan	- d au 'r u m a -	('needle', 'buna1278-bobon', 'daun')	datasets/mkzmk20160112wordlist.tsv		
 65	clothing	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	roba	nan	r o b a	('clothing', 'fata1247', 'rɔpa')	datasets/mkzmk20160112wordlist.tsv		
@@ -76,21 +76,21 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 77	house	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	oma	nan	- - o m a -	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/mkzmk20160112wordlist.tsv		
 78	traditional house	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	oma'falu	nan	o m a 'f a l u	"('traditional house', 'maka1316', ""oma'falu"")"	datasets/mkzmk20160112wordlist.tsv		
 79	barn; storage house	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	zera gaɁawai	zera=goods, gaɁawai=storage place	- z e r a _ g a Ɂ a w - - ai	"('barn; storage house', 'fata1247', ""upa'ta: ali'wana"")"	datasets/mkzmk20160112wordlist.tsv		
-80	raised platform	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lɛse-lɛse	nan	l ɛ s e - l - - ɛ s	('raised platform', 'kula1280-lanto', 'lulla yana')	datasets/mkzmk20160112wordlist.tsv		
+80	raised platform	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lɛse-lɛse	nan	l ɛ s e - l - - ɛ s	('raised platform', 'maka1316', 'lɛse-lɛse')	datasets/mkzmk20160112wordlist.tsv		
 81	door	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	aira:	nan	ai r a:	('door', 'maka1316', 'aira:')	datasets/mkzmk20160112wordlist.tsv		
 82	(thatch) roof	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gifu	nan	g i f u	('(thatch) roof', 'maka1316', 'gifu')	datasets/mkzmk20160112wordlist.tsv		
 83	roof thatch	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gigua'doku	nan	g i g ua 'd o k u	"('roof thatch', 'maka1316', ""gigua'doku"")"	datasets/mkzmk20160112wordlist.tsv		
 84	tree	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ate	nan	- - a t e - - - - -	('tree', 'adan1251-lawah', 'ti')	datasets/mkzmk20160112wordlist.tsv		
 85	wood	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ata	ata=wood, ate=tree	- a t a -	('wood', 'maka1316', 'ata')	datasets/mkzmk20160112wordlist.tsv		
-86	bark (of tree)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ate'uli	nan	a t e - - - 'u l i - - -	('bark (of tree)', 'adan1251-lawah', 'ti ʔui')	datasets/mkzmk20160112wordlist.tsv		
+86	bark (of tree)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ate'uli	nan	a t e - - - 'u l i - - -	"('bark (of tree)', 'idat1237', ""ɑili'tɑ:k"")"	datasets/mkzmk20160112wordlist.tsv		
 87	leaf	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ate'asa	wate asa=coconut leaf	a t e 'a s a	"('leaf', 'maka1316', ""ate'asa"")"	datasets/mkzmk20160112wordlist.tsv		
 88	branch	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tala	nan	t a l a	('branch', 'maka1316', 'tala')	datasets/mkzmk20160112wordlist.tsv		
 89	firewood	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ata	nan	- a t - - - - a - - - - -	('firewood', 'abui1241-fuime', 'ara wa:siŋ')	datasets/mkzmk20160112wordlist.tsv		
 90	rattan	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	rota	nan	r o t a	('rattan', 'maka1316', 'rota')	datasets/mkzmk20160112wordlist.tsv		
 91	root	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ate 'ari	nan	- a t e - _ 'a r i	('root', 'abui1241-fuime', 'bata ai')	datasets/mkzmk20160112wordlist.tsv		
-92	fruit	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	isu	nan	- - - - i s - u -	('fruit', 'alor1249-sar-a', 'jit')	datasets/mkzmk20160112wordlist.tsv		
+92	fruit	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	isu	nan	- - - - i s - u -	('fruit', 'alor1249-sar-a', 'ʤit')	datasets/mkzmk20160112wordlist.tsv		
 93	seed	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ate wuɁa	nan	a t e _ w u Ɂ a	('seed', 'maka1316', 'ate wuɁa')	datasets/mkzmk20160112wordlist.tsv		
-94	grain; cereal	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ale	nan	- - - - a l e -	('grain; cereal', 'adan1251-otvai', 'naʔfail')	datasets/mkzmk20160112wordlist.tsv		
+94	grain; cereal	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ale	nan	- - - - a l e -	('grain; cereal', 'lama1277-kalik', 'liˈsɔ-ʤa')	datasets/mkzmk20160112wordlist.tsv		
 96	husked rice; uncooked rice	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	alɛ	nan	- a l ɛ - - - - - - - - - -	('husked rice; uncooked rice', 'abui1241-fuime', 'ajak')	datasets/mkzmk20160112wordlist.tsv		
 97	rice grains (unhusked) (raw from field)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	alɛ'wua	nan	a l ɛ 'w ua	"('rice grains (unhusked) (raw from field)', 'maka1316', ""alɛ'wua"")"	datasets/mkzmk20160112wordlist.tsv		
 98	cooked rice	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	koi	nan	k - - - oi -	('cooked rice', 'lama1277-kalik', 'kəluˈɔk')	datasets/mkzmk20160112wordlist.tsv		
@@ -119,7 +119,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 121	banana	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	muɁu	nan	- m u Ɂ u - -	('banana', 'abui1241-fuime', 'musa')	datasets/mkzmk20160112wordlist.tsv		
 122	mango	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	Ɂa:	nan	Ɂ a:	('mango', 'maka1316', 'Ɂa:')	datasets/mkzmk20160112wordlist.tsv		
 123	papaya	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kai'dile	nan	- - k - - ai 'd - - - i l e	('papaya', 'adan1251-lawah', 'kahatɛlɛ')	datasets/mkzmk20160112wordlist.tsv		
-124	jackfruit	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kulu	nan	k - u l u -	('jackfruit', 'alor1249-sar-a', 'kulár')	datasets/mkzmk20160112wordlist.tsv		
+124	jackfruit	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kulu	nan	k - u l u -	"('jackfruit', 'alor1249-sar-a', ""ku'lar"")"	datasets/mkzmk20160112wordlist.tsv		
 125	breadfruit	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kulu	nan	- - - - - k u - - l u -	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	datasets/mkzmk20160112wordlist.tsv		
 126	bean	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	uta	nan	- - - u t a -	('bean', 'adan1251-lawah', 'ʔutuŋ')	datasets/mkzmk20160112wordlist.tsv		
 127	honey	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	wani	nan	- - w a n - - - - - i -	('honey', 'abui1241-fuime', 'nawa:ŋ')	datasets/mkzmk20160112wordlist.tsv		
@@ -168,7 +168,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 170	navel	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ilu'mana	nan	i l u - 'm a n a	('navel', 'fata1247', 'ulu kuru')	datasets/mkzmk20160112wordlist.tsv		
 171	penis	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ava	no difference in politeness or meaning	- a v a - -	('penis', 'fata1247', 'ava')	datasets/mkzmk20160112wordlist.tsv		
 171	penis	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fura	no difference in politeness or meaning	- - f u r a	('penis', 'fata1247', 'ava')	datasets/mkzmk20160112wordlist.tsv		
-172	vagina	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	aru	nan	- a r - u -	('vagina', 'adan1251-otvai', 'a:l')	datasets/mkzmk20160112wordlist.tsv		
+172	vagina	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	aru	nan	- a r - u -	('vagina', 'alor1249-sar-a', 'ga:r')	datasets/mkzmk20160112wordlist.tsv		
 173	testicles	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ava'isu	nan	a v a - - 'i s u	('testicles', 'fata1247', 'ava kafu')	datasets/mkzmk20160112wordlist.tsv		
 174	leg	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	iti	nan	i t i - -	('leg', 'baka1276', 'ijá')	datasets/mkzmk20160112wordlist.tsv		
 175	foot	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	iti	nan	i t i	('foot', 'maka1316', 'iti')	datasets/mkzmk20160112wordlist.tsv		
@@ -210,7 +210,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 209	2pl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	i:	nan	- - - - i: - -	"('2pl', 'abui1241-takal', ""'ri.dɔ"")"	datasets/mkzmk20160112wordlist.tsv		
 210	3pl	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	wɛra	nan	- - w ɛ r a - -	"('3pl', 'fata1247', ""ta'wari"")"	datasets/mkzmk20160112wordlist.tsv		
 211	no; not	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mai	nan	m ai -	('no; not', 'maka1316', 'mai')	datasets/mkzmk20160112wordlist.tsv		
-212	and	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mai	nan	- - - - m ai -	('and', 'amar1273-kotos', 'ma')	datasets/mkzmk20160112wordlist.tsv		
+212	and	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mai	nan	- - - - m ai -	('and', 'amar1273-kotos', '=ma')	datasets/mkzmk20160112wordlist.tsv		
 213	because	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	were'gau	wereɁe=that, gau=untuk	w e r e 'g au	"('because', 'maka1316', ""were'gau"")"	datasets/mkzmk20160112wordlist.tsv		
 214	if	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	we'dane	nan	w e 'd a n e	"('if', 'fata1247', ""ai'cana"")"	datasets/mkzmk20160112wordlist.tsv		
 215	with	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mai	nan	m ai	('with', 'maka1316', 'mai')	datasets/mkzmk20160112wordlist.tsv		
@@ -220,7 +220,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	netani'ɛtɛ	nan	n e t a n i 'ɛ t ɛ	"('when?', 'maka1316', ""netani'ɛtɛ"")"	datasets/mkzmk20160112wordlist.tsv		
 220	why?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI'dɔ:	nan	n a Ɂ I 'd ɔ:	"('why?', 'maka1316', ""naɁI'dɔ:"")"	datasets/mkzmk20160112wordlist.tsv		
 221	how much; how many?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI'roba	nan	n a Ɂ I 'r o b a	"('how much; how many?', 'maka1316', ""naɁI'roba"")"	datasets/mkzmk20160112wordlist.tsv		
-222	how?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI gau ani	nan	n a Ɂ I - _ g a - u _ a n i	('how?', 'kula1280-lanto', 'nun ŋape da')	datasets/mkzmk20160112wordlist.tsv		
+222	how?	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	naɁI gau ani	nan	n a Ɂ I - _ g a - u _ a n i	('how?', 'lama1277-adona', 'nɜˈɡaku')	datasets/mkzmk20160112wordlist.tsv		
 223	this	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ɛrɛɁɛ	nan	- - - ɛ r ɛ Ɂ ɛ	('this', 'buna1278-bobon', 'are')	datasets/mkzmk20160112wordlist.tsv		
 224	that	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	woriɁi	nan	- w o r i Ɂ i	"('that', 'fata1247', ""i'wiɁi"")"	datasets/mkzmk20160112wordlist.tsv		
 225	at	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	I'siɁi	nan	I 's i Ɂ i	"('at', 'maka1316', ""I'siɁi"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -229,8 +229,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 228	there	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	woris woɁi	nan	w o r i s _ w o Ɂ i	('there', 'maka1316', 'woris woɁi')	datasets/mkzmk20160112wordlist.tsv		
 229	above	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gua'deɁi	nan	g ua 'd e Ɂ i	"('above', 'maka1316', ""gua'deɁi"")"	datasets/mkzmk20160112wordlist.tsv		
 230	below	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gia'heɁi	nan	g ia 'h e Ɂ i	"('below', 'maka1316', ""gia'heɁi"")"	datasets/mkzmk20160112wordlist.tsv		
-231	left (side)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	weli	nan	- - - w e l i - -	('left (side)', 'amar1273-kotos', 'ʔri:')	datasets/mkzmk20160112wordlist.tsv		
-232	right (side)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tane	nan	t a n e - -	('right (side)', 'blag1240-bama', 'tene')	datasets/mkzmk20160112wordlist.tsv		
+231	left (side)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	weli	nan	- - - w e l i - -	"('left (side)', 'fata1247', ""'welika"")"	datasets/mkzmk20160112wordlist.tsv		
+232	right (side)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tane	nan	t a n e - -	"('right (side)', 'fata1247', ""tɛ'nɛni"")"	datasets/mkzmk20160112wordlist.tsv		
 233	a few	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ka'Ɂunu	nan	k a 'Ɂ u n u	"('a few', 'maka1316', ""ka'Ɂunu"")"	datasets/mkzmk20160112wordlist.tsv		
 234	all	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	na'Ɂusa'i	nan	n a 'Ɂ u s a 'i	"('all', 'maka1316', ""na'Ɂusa'i"")"	datasets/mkzmk20160112wordlist.tsv		
 235	many	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	baunu	nan	- - b au n u	"('many', 'alor1247-besar', ""'mafa"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -249,7 +249,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 248	cuscus	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lau'buti	buti=white; lau=cuscus	l au 'b u t i	"('cuscus', 'maka1316', ""lau'buti"")"	datasets/mkzmk20160112wordlist.tsv		
 249	tail	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ula	nan	- - - - - u - l a - - - - - -	('tail', 'adan1251-lawah', 'oloʔ')	datasets/mkzmk20160112wordlist.tsv		
 250	fish	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi	nan	- - a f i	('fish', 'abui1241-fuime', 'afu')	datasets/mkzmk20160112wordlist.tsv		
-251	shark	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi	nan	- - a f - - - - i - -	('shark', 'adan1251-otvai', 'tabɛi')	datasets/mkzmk20160112wordlist.tsv		
+251	shark	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi	nan	- - a f - - - - i - -	"('shark', 'alor1249-sar-a', ""si'fir"")"	datasets/mkzmk20160112wordlist.tsv		
 252	whale	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi'bere	nan	- a f i - - 'b e r e - - - -	('whale', 'adan1251-lawah', 'perunsah')	datasets/mkzmk20160112wordlist.tsv		
 253	dolphin	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	afi	nan	a f i	('dolphin', 'fata1247', 'api')	datasets/mkzmk20160112wordlist.tsv		
 254	crocodile	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lawa'hai	nan	l a w a - 'h - - ai - - - - - - - -	('crocodile', 'abui1241-fuime', 'fahai')	datasets/mkzmk20160112wordlist.tsv		
@@ -310,7 +310,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 308	light	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	u'sara	nan	u 's a r a	"('light', 'alor1247-besar', ""'tarã"")"	datasets/mkzmk20160112wordlist.tsv		
 309	dirty	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fo'Ɂɛre	nan	f o 'Ɂ ɛ r e	"('dirty', 'laka1255', ""fɔ'ʔɛ:r"")"	datasets/mkzmk20160112wordlist.tsv		
 310	clean	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	sa'rɛhe	nan	s a 'r ɛ h e	"('clean', 'fata1247', ""'warɛsɛ"")"	datasets/mkzmk20160112wordlist.tsv		
-311	sharp	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	me'raɁa	nan	m e 'r a Ɂ a	('sharp', 'alor1249-sar-a', 'mutúʔ')	datasets/mkzmk20160112wordlist.tsv		
+311	sharp	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	me'raɁa	nan	m e 'r a Ɂ a	"('sharp', 'alor1249-sar-a', ""mu'tuʔ"")"	datasets/mkzmk20160112wordlist.tsv		
 312	blunt; dull	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	'boulu	nan	- - - - 'b ou l u	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/mkzmk20160112wordlist.tsv		
 313	heavy	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	'tiɁiri	nan	't i Ɂ i r i -	('heavy', 'abui1241-fuime', 'tuhai')	datasets/mkzmk20160112wordlist.tsv		
 314	light (weight)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ha'Ɂɛhɛ	nan	h a 'Ɂ ɛ h ɛ	"('light (weight)', 'maka1316', ""ha'Ɂɛhɛ"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -321,7 +321,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 319	wrong	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	sala	nan	- - s - a l a -	('wrong', 'abui1241-fuime', 'hasala')	datasets/mkzmk20160112wordlist.tsv		
 320	ripe	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dɛta	nan	d ɛ t a	('ripe', 'fata1247', 'hita')	datasets/mkzmk20160112wordlist.tsv		
 321	rotten	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	bauku	nan	b au k u	('rotten', 'maka1316', 'bauku')	datasets/mkzmk20160112wordlist.tsv		
-322	bitter	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	'biɁiki	nan	'b - - i Ɂ i k i	('bitter', 'lama1277-adona', 'ˈpait')	datasets/mkzmk20160112wordlist.tsv		
+322	bitter	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	'biɁiki	nan	'b - - i Ɂ i k i	('bitter', 'keda1252-leuba', 'pɛiʔ')	datasets/mkzmk20160112wordlist.tsv		
 323	sweet	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lɛma	nan	l ɛ m - - a	"('sweet', 'fata1247', ""lɛ'mɛsɛ"")"	datasets/mkzmk20160112wordlist.tsv		
 324	sour	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	a'gaɁa	nan	- a 'g a Ɂ a	"('sour', 'fata1247', ""a'kahɛ"")"	datasets/mkzmk20160112wordlist.tsv		
 325	salty	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mataɁa	nan	m a t a Ɂ a - -	"('salty', 'fata1247', ""ma'Ɂatɛ"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -458,7 +458,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 450	one	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	i'saku	nan	- - i 's a k u	('one', 'abui1241-fuime', 'nuku')	datasets/mkzmk20160112wordlist.tsv		
 451	two	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lo'laɁe	nan	l o 'l a Ɂ e	"('two', 'buna1278-malia', ""hili'ʔo"")"	datasets/mkzmk20160112wordlist.tsv		
 452	three	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lo'litu	nan	l o 'l i t u	"('three', 'maka1316', ""lo'litu"")"	datasets/mkzmk20160112wordlist.tsv		
-453	four	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fara	nan	- - - - f a r a	('four', 'amar1273-kotos', 'ha:')	datasets/mkzmk20160112wordlist.tsv		
+453	four	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fara	nan	- - - - f a r a	('four', 'fata1247', 'fa:tɛ')	datasets/mkzmk20160112wordlist.tsv		
 454	five	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lima	nan	- - l i m a	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/mkzmk20160112wordlist.tsv		
 455	six	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dau	nan	- d au - - - - -	('six', 'abui1241-fuime', 'tala:ma')	datasets/mkzmk20160112wordlist.tsv		
 456	seven	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fitu	nan	- f i t - - u - -	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/mkzmk20160112wordlist.tsv		
@@ -525,7 +525,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 512	bed	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kama	nan	k a m - - a	('bed', 'fata1247', 'kama')	datasets/mkzmk20160112wordlist.tsv		
 513	chair	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ka'dera	nan	k a - 'd e r - a	"('chair', 'fata1247', ""ka'dɛra"")"	datasets/mkzmk20160112wordlist.tsv		
 514	lamp	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lambu	nan	l a m b u -	('lamp', 'fata1247', 'lampu')	datasets/mkzmk20160112wordlist.tsv		
-515	candle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	usu'badu	nan	u s u - 'b - a d u	('candle', 'adan1251-otvai', 'pa:n')	datasets/mkzmk20160112wordlist.tsv		
+515	candle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	usu'badu	nan	u s u - 'b - a d u	"('candle', 'fata1247', ""ucu 'pacu"")"	datasets/mkzmk20160112wordlist.tsv		
 516	to weave	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	seru	nan	s e r u	('to weave', 'maka1316', 'seru')	datasets/mkzmk20160112wordlist.tsv		
 517	shirt	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ropa	nan	r o p a -	('shirt', 'lama1277-adona', 'ˈlabu')	datasets/mkzmk20160112wordlist.tsv		
 518	necklace	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mani'mani	nan	m a n i 'm a n i	"('necklace', 'fata1247', ""mani-'mani"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -540,8 +540,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 527	God	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gau'wa:	gauwa = owner, uru=moon, watu=sun	- g au 'w a: - - -	"('God', 'fata1247', ""'ɔcawa"")"	datasets/mkzmk20160112wordlist.tsv		
 527	God	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	uru'watu	gauwa = owner, uru=moon, watu=sun	u r u 'w a t - u	"('God', 'fata1247', ""'ɔcawa"")"	datasets/mkzmk20160112wordlist.tsv		
 528	to pray	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	rɛ:za	nan	r ɛ: z a	('to pray', 'buna1278-bobon', 'reza')	datasets/mkzmk20160112wordlist.tsv		
-529	church	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	igreza	igreza (Port.)	- - i - g - r e - z a	('church', 'adan1251-otvai', 'gareʤa')	datasets/mkzmk20160112wordlist.tsv		
-530	mosque	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mezid	nan	- m e z - - - i d	('mosque', 'adan1251-otvai', 'umasigi')	datasets/mkzmk20160112wordlist.tsv		
+529	church	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	igreza	igreza (Port.)	- - i - g - r e - z a	"('church', 'alor1247-munas', ""gər'dʒa"")"	datasets/mkzmk20160112wordlist.tsv		
+530	mosque	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mezid	nan	- m e z - - - i d	('mosque', 'buna1278-bobon', 'mɛdZit')	datasets/mkzmk20160112wordlist.tsv		
 531	to curse	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ta'ili	nan	t a - 'i l i	"('to curse', 'maka1316', ""ta'ili"")"	datasets/mkzmk20160112wordlist.tsv		
 532	priest (modern)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	badre	badre (Port.)	b a d r e	"('priest (modern)', 'fata1247', ""'padrɛ"")"	datasets/mkzmk20160112wordlist.tsv		
 533	sorcerer; witch	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	mutu si'siri	mutu=inside; sisiri=hurt	m u t u _ s i 's i r i	"('sorcerer; witch', 'maka1316', ""mutu si'siri"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -554,7 +554,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 540	treaty	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	jura'mɛntu	nan	j u r a 'm ɛ n t u	"('treaty', 'fata1247', ""ɟura'mɛntu"")"	datasets/mkzmk20160112wordlist.tsv		
 541	marriage	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ka'wene	nan	k a 'w e n e	('marriage', 'fata1247', 'kawe')	datasets/mkzmk20160112wordlist.tsv		
 542	friend	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	bada	asi bada=possess friend 'my friend'	b a d a	('friend', 'maka1316', 'bada')	datasets/mkzmk20160112wordlist.tsv		
-543	enemy	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	soli	nan	s o l i	('enemy', 'kelo1247-hopte', 'ele')	datasets/mkzmk20160112wordlist.tsv		
+543	enemy	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	soli	nan	s o l i	('enemy', 'maka1316', 'soli')	datasets/mkzmk20160112wordlist.tsv		
 544	king; ruler	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	dai	nan	d ai	('king; ruler', 'lama1277-adona', 'ˈraja')	datasets/mkzmk20160112wordlist.tsv		
 545	stranger	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	anu'laɁa	anu=person; laɁa=go 	a n u 'l a Ɂ a	"('stranger', 'maka1316', ""anu'laɁa"")"	datasets/mkzmk20160112wordlist.tsv		
 546	to invite	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gau'lolo	gau=untuk, lɔlɔ=say, talk	g au 'l o l o	"('to invite', 'maka1316', ""gau'lolo"")"	datasets/mkzmk20160112wordlist.tsv		
@@ -569,18 +569,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 555	penalty	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	multa	nan	m u l t a	"('penalty', 'fata1247', ""'multa"")"	datasets/mkzmk20160112wordlist.tsv		
 556	fishnet	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	redi	nan	r e d i	('fishnet', 'buna1278-suai', 'rɛnɛ')	datasets/mkzmk20160112wordlist.tsv		
 557	to surrender	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ni isi 'zuma	isi zuma=reveal, let know	n i _ i s i _ 'z u m a	"('to surrender', 'maka1316', ""ni isi 'zuma"")"	datasets/mkzmk20160112wordlist.tsv		
-558	to defend	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	isi'da:	nan	i s i 'd a:	('to defend', 'adan1251-otvai', 'eita')	datasets/mkzmk20160112wordlist.tsv		
+558	to defend	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	isi'da:	nan	i s i 'd a:	"('to defend', 'maka1316', ""isi'da:"")"	datasets/mkzmk20160112wordlist.tsv		
 559	the war or battle	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	funu	nan	- - f u n u	('the war or battle', 'lama1277-adona', 'pɜˈwuno')	datasets/mkzmk20160112wordlist.tsv		
 560	poor	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lɛsa	nan	l ɛ s a	('poor', 'maka1316', 'lɛsa')	datasets/mkzmk20160112wordlist.tsv		
-560	poor	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kasiana	nan	k a s ia n a	('poor', 'adan1251-otvai', 'lahal')	datasets/mkzmk20160112wordlist.tsv		
+560	poor	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	kasiana	nan	k a s ia n a	('poor', 'maka1316', 'kasiana')	datasets/mkzmk20160112wordlist.tsv		
 561	rich	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	riku	nan	r i k u	('rich', 'fata1247', 'riku')	datasets/mkzmk20160112wordlist.tsv		
 562	money	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	lawa	nan	l a w a -	('money', 'fata1247', 'lawan')	datasets/mkzmk20160112wordlist.tsv		
 563	market	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ba'sara	nan	b a 's a r a	('market', 'buna1278-bobon', 'basal')	datasets/mkzmk20160112wordlist.tsv		
-564	price	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	'gi:ra	nan	'g i: r a	('price', 'kula1280-lanto', 'giali')	datasets/mkzmk20160112wordlist.tsv		
+564	price	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	'gi:ra	nan	'g i: r a	"('price', 'maka1316', ""'gi:ra"")"	datasets/mkzmk20160112wordlist.tsv		
 565	to own	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	geɁe	nan	g e Ɂ e	('to own', 'maka1316', 'geɁe')	datasets/mkzmk20160112wordlist.tsv		
 566	to borrow	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	isi'dane	isi dane=lit. touch	i s i 'd a n e	"('to borrow', 'maka1316', ""isi'dane"")"	datasets/mkzmk20160112wordlist.tsv		
 567	to trade or barter	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	bura'gini	bura=buy and sell; gini=to do, to carry out	b u r a 'g i n i	"('to trade or barter', 'maka1316', ""bura'gini"")"	datasets/mkzmk20160112wordlist.tsv		
-568	expensive	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ira'misa	ira=price, misa=go.up	- i r a 'm i s a	('expensive', 'adan1251-otvai', 'falimate')	datasets/mkzmk20160112wordlist.tsv		
+568	expensive	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ira'misa	ira=price, misa=go.up	- i r a 'm i s a	"('expensive', 'maka1316', ""ira'misa"")"	datasets/mkzmk20160112wordlist.tsv		
 569	cheap	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	baratu	baratu=cheap; ira=price, isi=go.down	b a r a - - t u	('cheap', 'maka1316', 'baratu')	datasets/mkzmk20160112wordlist.tsv		
 569	cheap	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ira'Ɂisi	baratu=cheap; ira=price, isi=go.down	- i r a 'Ɂ i s i	('cheap', 'maka1316', 'baratu')	datasets/mkzmk20160112wordlist.tsv		
 570	to grasp	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	gedʒifa	gedʒifa=also 'to hold'	g e d ʒ i f a	('to grasp', 'maka1316', 'gedʒifa')	datasets/mkzmk20160112wordlist.tsv		
@@ -596,13 +596,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 579	to learn	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	is'tuda	nan	i s 't u d a	('to learn', 'fata1247', 'ɛstuda')	datasets/mkzmk20160112wordlist.tsv		
 580	to teach	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	fana	nan	f a n a - -	('to teach', 'fata1247', 'fanawɛ')	datasets/mkzmk20160112wordlist.tsv		
 581	easy	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ra'guru	nan	r a 'g u r u	"('easy', 'maka1316', ""ra'guru"")"	datasets/mkzmk20160112wordlist.tsv		
-582	difficult	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	sɛgɛ	nan	s ɛ g ɛ -	('difficult', 'kelo1247-hopte', 'təkɔr')	datasets/mkzmk20160112wordlist.tsv		
+582	difficult	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	sɛgɛ	nan	s ɛ g ɛ -	('difficult', 'maka1316', 'sɛgɛ')	datasets/mkzmk20160112wordlist.tsv		
 583	finished	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	saɁi	nan	s a Ɂ - - - i -	('finished', 'buna1278-bobon', 'haɁal')	datasets/mkzmk20160112wordlist.tsv		
 584	now	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	rianeɁe	nan	r ia n e Ɂ e	('now', 'maka1316', 'rianeɁe')	datasets/mkzmk20160112wordlist.tsv		
 585	hour	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	orasa	nan	o r a s a	('hour', 'buna1278-bobon', 'oras')	datasets/mkzmk20160112wordlist.tsv		
 586	same	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	tadede	nan	t a d e d e	('same', 'maka1316', 'tadede')	datasets/mkzmk20160112wordlist.tsv		
 588	flower (in e.g. mangga tree)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ate'fuɁ	nan	a t e 'f - - - - u Ɂ - - -	('flower (in e.g. mangga tree)', 'buna1278-bobon', 'ɔtɛl gubuk')	datasets/mkzmk20160112wordlist.tsv		
-589	vein	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ura	nan	- - - u r a -	('vein', 'alor1249-sar-a', 'ta̯ráw')	datasets/mkzmk20160112wordlist.tsv		
+589	vein	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	ura	nan	- - - u r a -	"('vein', 'alor1249-sar-a', ""ta̯'raw"")"	datasets/mkzmk20160112wordlist.tsv		
 590	long (stick)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	(ate) a'sana	nan	( a t e ) _ a 's a n a	"('long (stick)', 'maka1316', ""(ate) a'sana"")"	datasets/mkzmk20160112wordlist.tsv		
 591	tall (person)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	(anu(n)) a'sana	utterance with or without /n/ 	( a n u ( n )) _ a 's a n a	('tall (person)', 'kula1280-lanto', 'ayanana')	datasets/mkzmk20160112wordlist.tsv		
 592	short (stick)	maka1316	Makasae	Timor-Alor-Pantar	4Timor, 3East	(ete) di'gara	nan	( e t e ) _ d i 'g a r a	('short (stick)', 'fata1247', '(ɛtɛ) kawa')	datasets/mkzmk20160112wordlist.tsv		

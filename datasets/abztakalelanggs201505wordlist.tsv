@@ -10,7 +10,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8	yesterday	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.fe̞j.dä	nan	ä . fe ̞ j .	('yesterday', 'abui1241-takal', 'ä.fe̞j.dä')	datasets/abztakalelanggs201505wordlist.tsv		
 9	day before yesterday	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.tä.de̞äŋ  wä.hä	nan	h e̞ . t ä .d e ̞ äŋ _ _ w ä	('day before yesterday', 'abui1241-takal', 'he̞.tä.de̞äŋ  wä.hä')	datasets/abztakalelanggs201505wordlist.tsv		
 10	tomorrow	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'qun	nan	ä .' q u -	('tomorrow', 'abui1241-fuime', 'akuni')	datasets/abztakalelanggs201505wordlist.tsv		
-11	day after tomorrow	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.tä.de̞äŋ  ä.jo.'qu	nan	h e̞ . t ä .d e ̞ äŋ _ _ ä .j o - -	('day after tomorrow', 'abui1241-fuime', 'ayoku')	datasets/abztakalelanggs201505wordlist.tsv		
+11	day after tomorrow	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.tä.de̞äŋ  ä.jo.'qu	nan	h e̞ . t ä .d e ̞ äŋ _ _ ä .j o - -	('day after tomorrow', 'abui1241-fuime', 'ajoku')	datasets/abztakalelanggs201505wordlist.tsv		
 12	twilight; dawn	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.ri.dä.pe̞	nan	ä . r - i . - d - - ä.	('twilight; dawn', 'abui1241-fuime', 'arida pe')	datasets/abztakalelanggs201505wordlist.tsv		
 13	cloud	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.be̞ä.'kil	nan	t ä . be ̞ ä. ' k	"('cloud', 'abui1241-takal', ""tä.be̞ä.'kil"")"	datasets/abztakalelanggs201505wordlist.tsv		
 14	wind	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tʰi.'mɔ.i	nan	tʰ i .' m ɔ	('wind', 'abui1241-fuime', 'timoi')	datasets/abztakalelanggs201505wordlist.tsv		
@@ -20,7 +20,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18	thunder	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'di dä.mui.'dä	nan	ä .' d i _ d ä - - .m - ui .	"('thunder', 'abui1241-takal', ""ä.'di dä.mui.'dä"")"	datasets/abztakalelanggs201505wordlist.tsv		
 19	lightning	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.fäl.je̞.läk	nan	- h e̞ - - . f ä l .j e ̞ . - - -	('lightning', 'abui1241-fuime', 'falielai')	datasets/abztakalelanggs201505wordlist.tsv		
 19	lightning	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.diŋ fäl.je̞.läk di	nan	ä . d i ŋ _ f ä l .j e ̞ . l ä k	('lightning', 'abui1241-fuime', 'falielai')	datasets/abztakalelanggs201505wordlist.tsv		
-20	earthquake	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'jɔ.kä	nan	- t ä .' j ɔ . -	('earthquake', 'abui1241-fuime', 'taiyoka')	datasets/abztakalelanggs201505wordlist.tsv		
+20	earthquake	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'jɔ.kä	nan	- t ä .' j ɔ . -	('earthquake', 'abui1241-fuime', 'taijoka')	datasets/abztakalelanggs201505wordlist.tsv		
 21	fog	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'bɔ	nan	t ä .' b - - -	('fog', 'abui1241-fuime', 'tabo')	datasets/abztakalelanggs201505wordlist.tsv		
 22	river; stream	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jɔi	nan	j ɔi	('river; stream', 'abui1241-takal', 'jɔi')	datasets/abztakalelanggs201505wordlist.tsv		
 23	ice	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	pä.'lä.tä	nan	p ä .' l ä .	"('ice', 'abui1241-takal', ""pä.'lä.tä"")"	datasets/abztakalelanggs201505wordlist.tsv		
@@ -268,7 +268,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 241	rat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	rui	nan	- - - r ui	('rat', 'abui1241-fuime', 'rui')	datasets/abztakalelanggs201505wordlist.tsv		
 242	lizard	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞qɔq	nan	#NAME?	('lizard', 'abui1241-fuime', 'tekok')	datasets/abztakalelanggs201505wordlist.tsv		
 242	lizard	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞̞qɔɁ	nan	- t - e̞̞ q - - ɔ Ɂ	('lizard', 'abui1241-fuime', 'tekok')	datasets/abztakalelanggs201505wordlist.tsv		
-243	civet cat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'jc	nan	ä .' - j	('civet cat', 'abui1241-fuime', 'ayo')	datasets/abztakalelanggs201505wordlist.tsv		
+243	civet cat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.'jc	nan	ä .' - j	('civet cat', 'abui1241-fuime', 'ajo')	datasets/abztakalelanggs201505wordlist.tsv		
 244	deer	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.jut	nan	- - - ä . j u - - - - - -	('deer', 'abui1241-fuime', 'aijuti')	datasets/abztakalelanggs201505wordlist.tsv		
 245	frog	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jä.qc.'rä qc.'rä	nan	j ä . q - c. ' r ä _ - qc .	"('frog', 'abui1241-takal', ""jä.qc.'rä qc.'rä"")"	datasets/abztakalelanggs201505wordlist.tsv		
 246	bat	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	mä.'re̞l	nan	- m ä .' re - - ̞ - -	"('bat', 'abui1241-takal', ""mä.'re̞l"")"	datasets/abztakalelanggs201505wordlist.tsv		
@@ -281,7 +281,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 254	crocodile	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fä.häi	nan	- - f ä - . - - h - ä - - - - - -	('crocodile', 'abui1241-fuime', 'fahai')	datasets/abztakalelanggs201505wordlist.tsv		
 255	monitor lizard	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.le̞.'sä	nan	- ä . le ̞. ' -	"('monitor lizard', 'abui1241-takal', ""ä.le̞.'sä"")"	datasets/abztakalelanggs201505wordlist.tsv		
 256	starfish	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	fä.'häi	nan	f ä .' h ä	"('starfish', 'abui1241-takal', ""fä.'häi"")"	datasets/abztakalelanggs201505wordlist.tsv		
-257	turtle	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jɜɪ.'kɔi	strange diphtong	- j ɜɪ - - - - .' kɔ - - - -	('turtle', 'abui1241-fuime', 'youko')	datasets/abztakalelanggs201505wordlist.tsv		
+257	turtle	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jɜɪ.'kɔi	strange diphtong	- j ɜɪ - - - - .' kɔ - - - -	('turtle', 'abui1241-fuime', 'jouko')	datasets/abztakalelanggs201505wordlist.tsv		
 258	turtle (saltwater)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jɜɪ.'kɔi	nan	- j ɜɪ - - - - - .' - kɔ - - -	"('turtle (saltwater)', 'abui1241-takal', ""jɜɪ.'kɔi"")"	datasets/abztakalelanggs201505wordlist.tsv		
 259	bird	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'ku.jä	nan	- 'k u . j	"('bird', 'abui1241-takal', ""'ku.jä"")"	datasets/abztakalelanggs201505wordlist.tsv		
 260	wing	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	hä.'bä.qɑi	nan	h ä .' b ä .q	"('wing', 'abui1241-takal', ""hä.'bä.qɑi"")"	datasets/abztakalelanggs201505wordlist.tsv		
@@ -366,7 +366,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 335	sick; painful	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.'rik	nan	- t ä .' r i	('sick; painful', 'abui1241-fuime', 'na-rik')	datasets/abztakalelanggs201505wordlist.tsv		
 336	shy; ashamed	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tä.mje̞.'lɐi	nan	t ä . - m je ̞. 'l -	"('shy; ashamed', 'abui1241-takal', ""tä.mje̞.'lɐi"")"	datasets/abztakalelanggs201505wordlist.tsv		
 337	thirsty	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	te̞.'re̞k.nä	nan	t e̞ .' - - re ̞ k .	('thirsty', 'abui1241-fuime', 'neretda')	datasets/abztakalelanggs201505wordlist.tsv		
-338	hungry	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nato:k mä.'räi	lit.: my stomach rises	m ä .' r - ä -	"('hungry', 'abui1241-takal', ""mä.'räi"")"	datasets/abztakalelanggs201505wordlist.tsv		
+338	hungry	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	nato:k mä.'räi	lit.: my stomach rises	m ä .' r - ä -	"('hungry', 'abui1241-takal', ""nato:k mä.'räi"")"	datasets/abztakalelanggs201505wordlist.tsv		
 339	blind	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.qu.'tä	nan	- ä - - - . q u. ' -	('blind', 'abui1241-fuime', 'akuta')	datasets/abztakalelanggs201505wordlist.tsv		
 340	deaf	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	hä.'ʋe̞i 'be̞ä.qä	nan	- h ä .' ʋe̞ - - i _' be - ̞ ä .	('deaf', 'abui1241-fuime', 'tawei beaka')	datasets/abztakalelanggs201505wordlist.tsv		
 341	scared	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	'mje̞.lã	nan	'm j e̞ . l - -	('scared', 'abui1241-fuime', 'mielaŋ')	datasets/abztakalelanggs201505wordlist.tsv		
@@ -414,7 +414,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 381	to cry	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	e̞n.rä	nan	e̞ n . r	('to cry', 'abui1241-takal', 'e̞n.rä')	datasets/abztakalelanggs201505wordlist.tsv		
 382	to dance	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	lu:q	nan	l u: q	('to dance', 'abui1241-takal', 'lu:q')	datasets/abztakalelanggs201505wordlist.tsv		
 382	to dance	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	tɔ.'hä.jɔq	nan	t ɔ .' h ä . j - -	('to dance', 'abui1241-fuime', 'tohaijok')	datasets/abztakalelanggs201505wordlist.tsv		
-383	to sing	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jäi päne̞äŋ	nan	y - ä i _ - - p ä n e̞ ä ŋ	('to sing', 'abui1241-fuime', 'yai wefaŋa')	datasets/abztakalelanggs201505wordlist.tsv		
+383	to sing	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	jäi päne̞äŋ	nan	y - ä i _ - - p ä n e̞ ä ŋ	('to sing', 'abui1241-fuime', 'jai wefaŋa')	datasets/abztakalelanggs201505wordlist.tsv		
 384	to burn (clear land)	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä'räl	nan	- - - - - - ä 'r - - - - ä l - - -	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	datasets/abztakalelanggs201505wordlist.tsv		
 385	to burn; to shine	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	he̞.tu.'luŋ	nan	- - - - h e̞ . t u. ' l	"('to burn; to shine', 'abui1241-takal', ""he̞.tu.'luŋ"")"	datasets/abztakalelanggs201505wordlist.tsv		
 385	to burn; to shine	abui1241-takal	Abui-Takalelang	Timor-Alor-Pantar	3Alor, 2Central	ä.rä he̞.tu.'luŋ	nan	ä . r ä _ he ̞ . tu . '	"('to burn; to shine', 'abui1241-takal', ""he̞.tu.'luŋ"")"	datasets/abztakalelanggs201505wordlist.tsv		

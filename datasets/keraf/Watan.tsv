@@ -10,7 +10,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 15	rain	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	urã	nan	- - u - r ã - - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/keraf/Watan.tsv	138. Hujan 
 22	river; stream	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	suŋe	nan	s u - - - - ŋ - - e - - -	('river; stream', 'lama1277-watan', 'suŋe')	datasets/keraf/Watan.tsv	130. Sungai 
 25	lake	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	liwo	nan	l i w o - - -	"('lake', 'lama1277-adona', ""'liwo"")"	datasets/keraf/Watan.tsv	129. Danau 
-26	mountain	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ile	nan	- - - i l e - -	('mountain', 'alor1249-sar-n', 'yihil')	datasets/keraf/Watan.tsv	131. Gunung 
+26	mountain	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ile	nan	- - - i l e - -	('mountain', 'alor1249-sar-n', 'jihil')	datasets/keraf/Watan.tsv	131. Gunung 
 30	Earth	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	tana	nan	t a n - a -	('Earth', 'lama1277-watan', 'tana')	datasets/keraf/Watan.tsv	119. Tanah 
 32	stone	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Watan.tsv	120. Batu 
 35	water (fresh)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Watan.tsv	122. Air 
@@ -36,7 +36,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 131	flesh; meat	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'lama1277-watan', 'ihik')	datasets/keraf/Watan.tsv	103. Daging 
 132	bone	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	riʔũ	nan	- - - r i ʔ ũ - - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Watan.tsv	19. Tulang
 136	blood	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Watan.tsv	26. Darah
-138	heart	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	('heart', 'amar1273-kotos', 'bua-f')	datasets/keraf/Watan.tsv	22. Jantung
+138	heart	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Watan.tsv	22. Jantung
 139	liver	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	hati	nan	- - h - - - - - a t i -	"('liver', 'alor1247-baran', ""'hati"")"	datasets/keraf/Watan.tsv	21. Hati
 144	stomach; belly	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	taĩ	nan	- t a - ĩ - - -	"('stomach; belly', 'alor1247-baran', ""'teiŋ"")"	datasets/keraf/Watan.tsv	18. Perut
 145	head	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	kotʔã	nan	- - - k o t ʔ ã - - -	"('head', 'alor1247-baran', ""'kɔtɔŋ"")"	datasets/keraf/Watan.tsv	27. Kepala
@@ -61,7 +61,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 197	mother	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	əma	nan	- ə m a -	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Watan.tsv	59. Ibu
 198	father	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	bapa	nan	- b a p a -	('father', 'lama1277-lewoi', 'ˈbapaʔ')	datasets/keraf/Watan.tsv	60. Bapak
 199	older sibling	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Watan.tsv	61. Kakak
-200	younger sibling	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	arik	nan	- a r i - - - - - - k - - -	('younger sibling', 'adan1251-otvai', 'di')	datasets/keraf/Watan.tsv	62. Adik
+200	younger sibling	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	arik	nan	- a r i - - - - - - k - - -	"('younger sibling', 'alor1247-besar', ""'ariŋ"")"	datasets/keraf/Watan.tsv	62. Adik
 203	1sg	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	goʔe	nan	- - g o ʔ e	('1sg', 'alor1247-baran', 'go:')	datasets/keraf/Watan.tsv	184. Saya 
 204	2sg (informal)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	mo	nan	m o - -	('2sg (informal)', 'lama1277-watan', 'mio')	datasets/keraf/Watan.tsv	185. Engkau/ kamu 
 204	2sg (informal)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	mio	nan	m io - -	('2sg (informal)', 'lama1277-watan', 'mio')	datasets/keraf/Watan.tsv	185. Engkau/ kamu 
@@ -82,7 +82,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 227	here	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	dipi	nan	- - d i p i	('here', 'lama1277-watan', 'dipi')	datasets/keraf/Watan.tsv	177. Di sini 
 228	there	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	pəwəli	nan	p ə - w ə l i	('there', 'abui1241-petle', 'we')	datasets/keraf/Watan.tsv	178. Di situ 
 231	left (side)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	nekĩ	nan	- - n e k - - ĩ -	('left (side)', 'abui1241-fuime', 'teibika')	datasets/keraf/Watan.tsv	2. Kiri
-232	right (side)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wanã	nan	w a n ã -	('right (side)', 'adan1251-otvai', 'taniŋ')	datasets/keraf/Watan.tsv	3. Kanan
+232	right (side)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wanã	nan	w a n ã -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Watan.tsv	3. Kanan
 233	a few	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	əsi	nan	- - - ə s i - -	('a few', 'lama1277-watan', 'əsi')	datasets/keraf/Watan.tsv	195. Sedikit 
 234	all	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wahaŋkae	nan	w a h a - ŋ k ae - - -	('all', 'lama1277-adona', 'ˈwahã ˈkaeʔ')	datasets/keraf/Watan.tsv	196. Semua 
 235	many	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ajaʔ	nan	- a j a ʔ -	('many', 'lama1277-adona', 'ˈʔaːjʔa')	datasets/keraf/Watan.tsv	194. Banyak 
@@ -123,7 +123,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 329	black	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	mitã	nan	- - m i - t ã - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Watan.tsv	152. Hitam 
 330	white	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	burʔã	nan	- - - b u r - - - - - ʔ ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Watan.tsv	153. Putih 
 331	red	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Watan.tsv	154. Merah 
-332	green	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ijõ	nan	- i - j õ - -	"('green', 'alor1247-besar', ""'idʒɔŋ"")"	datasets/keraf/Watan.tsv	156. Hijau 
+332	green	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ijõ	nan	- i - j õ - -	"('green', 'alor1247-besar', ""'iʤɔŋ"")"	datasets/keraf/Watan.tsv	156. Hijau 
 334	yellow	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	kumã	nan	k u m - - - - - ã - -	"('yellow', 'alor1247-besar', ""'kumɔŋ"")"	datasets/keraf/Watan.tsv	155. Kuning 
 341	scared	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	soʔo	nan	s o ʔ o -	('scared', 'lama1277-adona', 'ˈsoʔot')	datasets/keraf/Watan.tsv	25. Takut
 343	to see	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	tədaʔ	nan	t ə d a ʔ	('to see', 'lama1277-lewoi', 'ˈtəŋə')	datasets/keraf/Watan.tsv	48. Melihat
@@ -141,9 +141,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 364	to fly	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	bəka	nan	- - - - b ə - - - k a -	"('to fly', 'alor1247-baran', ""'bak:aŋ"")"	datasets/keraf/Watan.tsv	101. Terbang 
 365	to fall (from above)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	goka	nan	g o k a - - -	('to fall (from above)', 'lama1277-watan', 'goka')	datasets/keraf/Watan.tsv	95. Jatuh 
 368	to drink	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	menu	nan	- - - - - - m e n - u - - -	('to drink', 'adan1251-lawah', 'naʔ')	datasets/keraf/Watan.tsv	42. Minum
-369	to eat	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	go	nan	- - g o	('to eat', 'lama1277-kalik', 'ka')	datasets/keraf/Watan.tsv	40. Makan
+369	to eat	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	go	nan	- - g o	('to eat', 'lama1277-watan', 'go')	datasets/keraf/Watan.tsv	40. Makan
 370	to cook	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	dena	nan	d e n a	('to cook', 'lama1277-adona', 'ˈdena')	datasets/keraf/Watan.tsv	41. Masak
-371	to wash	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	baha	nan	b a h a - -	('to wash', 'amar1273-kotos', 'n-safe')	datasets/keraf/Watan.tsv	11. Mencuci
+371	to wash	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	baha	nan	b a h a - -	('to wash', 'fata1247', 'pahalɛ')	datasets/keraf/Watan.tsv	11. Mencuci
 372	to sew	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	hau	nan	- h au - - - - - - - -	"('to sew', 'alor1247-baran', ""'haur"")"	datasets/keraf/Watan.tsv	67. Menjahit 
 373	to live; be alive; living	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	morʔĩ	nan	- m - - o r ʔ ĩ - - -	"('to live; be alive; living', 'alor1247-baran', ""'mɔri"")"	datasets/keraf/Watan.tsv	76. Hidup 
 374	to breathe	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	nəri nahiŋ	nan	- n ə r i _ n a h i ŋ	('to breathe', 'lama1277-watan', 'nəri nahiŋ')	datasets/keraf/Watan.tsv	31. Bernapas
@@ -164,16 +164,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 393	to rub	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	oso	nan	- - - o s o - - -	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	datasets/keraf/Watan.tsv	13. Gosok
 394	to scratch	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	garu	nan	- g a - - r u - - -	"('to scratch', 'abui1241-takal', ""kä.'fiä"")"	datasets/keraf/Watan.tsv	77. Menggaruk 
 399	to bite	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	gike	nan	- - - - - g i k e - - - - -	"('to bite', 'alor1247-besar', ""'gaki"")"	datasets/keraf/Watan.tsv	43. Gigit
-400	to cut	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	belo	nan	b e l - - o -	('to cut', 'keda1252-leuwa', 'bεl baʔ')	datasets/keraf/Watan.tsv	78. Memotong
+400	to cut	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	belo	nan	b e l - - o -	('to cut', 'lama1277-adona', 'ˈporoʔ')	datasets/keraf/Watan.tsv	78. Memotong
 402	to split	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ləka	nan	- - - l ə k a - -	"('to split', 'alor1247-baran', ""'bat:a"")"	datasets/keraf/Watan.tsv	80. Membelah 
 404	to stab	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	tubak	nan	- - t u b a k -	('to stab', 'alor1249-sar-a', 'tatap')	datasets/keraf/Watan.tsv	71. Menikam 
 406	to fight	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	pəwuno	nan	p ə w u n - - - - - - o - - -	('to fight', 'lama1277-adona', 'pɜˈwuno')	datasets/keraf/Watan.tsv	73. berkelahi 
 408	to throw	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	gahak	nan	- - g a h a k	('to throw', 'lama1277-watan', 'gahak')	datasets/keraf/Watan.tsv	94. Melempar 
 409	to hunt	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	batʔ	nan	- - - - b a t - - - ʔ	('to hunt', 'lama1277-adona', 'ˈbatĩ')	datasets/keraf/Watan.tsv	69. Berburu
-410	to kill	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	belo	nan	b e l o - - - - - - -	('to kill', 'keda1252-leuwa', 'bælɔʔ baʔ')	datasets/keraf/Watan.tsv	74. Membunuh 
+410	to kill	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	belo	nan	b e l o - - - - - - -	('to kill', 'lama1277-adona', 'ˈbelo')	datasets/keraf/Watan.tsv	74. Membunuh 
 414	to dig	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	baʔe	nan	b a ʔ e	('to dig', 'lama1277-adona', 'ˈbaʔe')	datasets/keraf/Watan.tsv	90. Menggali 
 416	to flow	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ba’ʔ	nan	b - - a - ’ ʔ	"('to flow', 'alor1247-baran', ""'pana"")"	datasets/keraf/Watan.tsv	125. Mengalir 
-417	to float	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	bao	nan	- - b ao - - - - -	('to float', 'keda1252-leuwa', 'baɔ tata')	datasets/keraf/Watan.tsv	126. Terapung 
+417	to float	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	bao	nan	- - b ao - - - - -	('to float', 'lama1277-adona', 'ˈbaɔʔ')	datasets/keraf/Watan.tsv	126. Terapung 
 419	to hold	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	pehẽ	nan	p e h ẽ - - -	"('to hold', 'alor1247-baran', ""pa'ha:"")"	datasets/keraf/Watan.tsv	89. Memegang
 420	to tie	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wido	nan	w i d o	('to tie', 'lama1277-watan', 'wido')	datasets/keraf/Watan.tsv	66. Mengikat 
 421	to play	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	gəlaha	nan	g - ə - l a h a -	"('to play', 'alor1247-baran', ""ka'nɔku"")"	datasets/keraf/Watan.tsv	84. Bermain 

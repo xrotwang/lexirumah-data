@@ -7,7 +7,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	p-east2519	proto-TIM	Timor-Alor-Pantar		*war	nan	w a r -	('stone', 'abui1241-fuime', 'vi')	datasets/greenbook/proto-TIM.tsv		
 35	water (fresh)	p-east2519	proto-TIM	Timor-Alor-Pantar		*ira	nan	- i r - a	('water (fresh)', 'abui1241-fuime', 'je')	datasets/greenbook/proto-TIM.tsv		
 36	sea; sea water	p-east2519	proto-TIM	Timor-Alor-Pantar		*mata	nan	m a t a	('sea; sea water', 'maka1316', 'meti')	datasets/greenbook/proto-TIM.tsv		
-43	garden	p-east2519	proto-TIM	Timor-Alor-Pantar		*(u, a)mar	nan	m a r	('garden', 'p-east2519', '*(u,_a)mar')	datasets/greenbook/proto-TIM.tsv		
+43	garden	p-east2519	proto-TIM	Timor-Alor-Pantar		*(u, a)mar	nan	m a r	('garden', 'p-east2519', '*(u, a)mar')	datasets/greenbook/proto-TIM.tsv		
 45	road; path; way	p-east2519	proto-TIM	Timor-Alor-Pantar		*jiga	nan	j i g a -	('road; path; way', 'blag1240-bama', 'iga')	datasets/greenbook/proto-TIM.tsv		
 63	mat	p-east2519	proto-TIM	Timor-Alor-Pantar		*biti	nan	b i t i -	('mat', 'adan1251-lawah', 'bahu')	datasets/greenbook/proto-TIM.tsv		
 67	fire	p-east2519	proto-TIM	Timor-Alor-Pantar		*haTa	nan	h a T a	('fire', 'abui1241-fuime', 'ara')	datasets/greenbook/proto-TIM.tsv		
@@ -19,22 +19,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 131	flesh; meat	p-east2519	proto-TIM	Timor-Alor-Pantar		*seor	nan	- s e o r	('flesh; meat', 'amar1273-kotos', 'sisi')	datasets/greenbook/proto-TIM.tsv		
 132	bone	p-east2519	proto-TIM	Timor-Alor-Pantar		*(se)sa(r, R)	nan	nan	('bone', 'buna1278-bobon', 'sisal')	datasets/greenbook/proto-TIM.tsv		
 136	blood	p-east2519	proto-TIM	Timor-Alor-Pantar		*waj	nan	nan	('blood', 'abui1241-fuime', 'we')	datasets/greenbook/proto-TIM.tsv		
-142	excrement	p-east2519	proto-TIM	Timor-Alor-Pantar		*a(t, D)u	nan	a u	('excrement', 'p-east2519', '*a(t,_D)u')	datasets/greenbook/proto-TIM.tsv		
-149	ear	p-east2519	proto-TIM	Timor-Alor-Pantar		*-wali	nan	#NAME?	('ear', 'abui1241-fuime', 'tawei_ata')	datasets/greenbook/proto-TIM.tsv		
-150	nose	p-east2519	proto-TIM	Timor-Alor-Pantar		*-muni	nan	m u n i -	('nose', 'fata1247', 'mini')	datasets/greenbook/proto-TIM.tsv		
+142	excrement	p-east2519	proto-TIM	Timor-Alor-Pantar		*a(t, D)u	nan	a u	('excrement', 'p-east2519', '*a(t, D)u')	datasets/greenbook/proto-TIM.tsv		
+149	ear	p-east2519	proto-TIM	Timor-Alor-Pantar		*-wali	nan	#NAME?	('ear', 'adan1251-lawah', 'awɛbɛhɛ')	datasets/greenbook/proto-TIM.tsv		
+150	nose	p-east2519	proto-TIM	Timor-Alor-Pantar		*-muni	nan	m u n i -	('nose', 'p-east2519', '*-muni')	datasets/greenbook/proto-TIM.tsv		
 154	teeth	p-east2519	proto-TIM	Timor-Alor-Pantar		*-wasin	'tooth'	w a - s i n -	('teeth', 'abui1241-fuime', 'taweiti')	datasets/greenbook/proto-TIM.tsv		
-155	tongue	p-east2519	proto-TIM	Timor-Alor-Pantar		*-ipul	nan	- i p u l - - -	"('tongue', 'abui1241-takal', ""tä.'li.fi"")"	datasets/greenbook/proto-TIM.tsv		
-164	hand	p-east2519	proto-TIM	Timor-Alor-Pantar		*-tana	nan	- - t a n - - - a - - -	"('hand', 'abui1241-takal', ""tä.'täŋ_pääkä"")"	datasets/greenbook/proto-TIM.tsv		
+155	tongue	p-east2519	proto-TIM	Timor-Alor-Pantar		*-ipul	nan	- i p u l - - -	('tongue', 'adan1251-lawah', 'nalɛb')	datasets/greenbook/proto-TIM.tsv		
+164	hand	p-east2519	proto-TIM	Timor-Alor-Pantar		*-tana	nan	- - t a n - - - a - - -	('hand', 'hama1240', 'nataŋ')	datasets/greenbook/proto-TIM.tsv		
 168	breast	p-east2519	proto-TIM	Timor-Alor-Pantar		*hami	nan	nan	('breast', 'alor1249-sar-a', 'haŋ')	datasets/greenbook/proto-TIM.tsv		
-172	vagina	p-east2519	proto-TIM	Timor-Alor-Pantar		*-aru	Kemaluan perempuan, same as above.	nan	('vagina', 'adan1251-otvai', 'a:l')	datasets/greenbook/proto-TIM.tsv		
+172	vagina	p-east2519	proto-TIM	Timor-Alor-Pantar		*-aru	Kemaluan perempuan, same as above.	nan	('vagina', 'alor1249-sar-a', 'ga:r')	datasets/greenbook/proto-TIM.tsv		
 174	leg	p-east2519	proto-TIM	Timor-Alor-Pantar		*-buta	nan	#NAME?	('leg', 'adan1251-lawah', 'nɛʔɛw')	datasets/greenbook/proto-TIM.tsv		
 190	person	p-east2519	proto-TIM	Timor-Alor-Pantar		*anu	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	- - a n - - u - -	('person', 'blag1240-nule', 'ne:nu')	datasets/greenbook/proto-TIM.tsv		
 191	name	p-east2519	proto-TIM	Timor-Alor-Pantar		*-nej	nan	n e j - -	('name', 'abui1241-fuime', 'na-ne')	datasets/greenbook/proto-TIM.tsv		
 192	child	p-east2519	proto-TIM	Timor-Alor-Pantar		*-al	nan	nan	('child', 'abui1241-takal', 'ʋil')	datasets/greenbook/proto-TIM.tsv		
 203	1sg	p-east2519	proto-TIM	Timor-Alor-Pantar		*n-	nan	nan	"('1sg', 'abui1241-takal', ""'ne̞̞.dɔ"")"	datasets/greenbook/proto-TIM.tsv		
-206	3sg	p-east2519	proto-TIM	Timor-Alor-Pantar		*gie	3 (not specifically SG or PL)	g i - e - -	('3sg', 'kaer1234-obsol', 'ga:ŋ')	datasets/greenbook/proto-TIM.tsv		
+206	3sg	p-east2519	proto-TIM	Timor-Alor-Pantar		*gie	3 (not specifically SG or PL)	g i - e - -	('3sg', 'p-alor1249', '*ga-')	datasets/greenbook/proto-TIM.tsv		
 208	1pl incl	p-east2519	proto-TIM	Timor-Alor-Pantar		*fi	nan	- f i - - - -	"('1pl incl', 'abui1241-takal', ""'pi.dɔ"")"	datasets/greenbook/proto-TIM.tsv		
-210	3pl	p-east2519	proto-TIM	Timor-Alor-Pantar		*gie	3 (not specifically SG or PL)	g i e - - - - - - - - -	('3pl', 'kaer1234-obsol', 'giŋ')	datasets/greenbook/proto-TIM.tsv		
+210	3pl	p-east2519	proto-TIM	Timor-Alor-Pantar		*gie	3 (not specifically SG or PL)	g i e - - - - - - - - -	('3pl', 'p-alor1249', '*gi-')	datasets/greenbook/proto-TIM.tsv		
 226	in; inside	p-east2519	proto-TIM	Timor-Alor-Pantar		*mi	nan	- m i - -	('in; inside', 'buna1278-bobon', 'mil')	datasets/greenbook/proto-TIM.tsv		
 230	below	p-east2519	proto-TIM	Timor-Alor-Pantar		*ufe	refers to any location down(ward) of the deictic centre	u f e	('below', 'p-east2519', '*ufe')	datasets/greenbook/proto-TIM.tsv		
 238	dog	p-east2519	proto-TIM	Timor-Alor-Pantar		*Depar	nan	nan	('dog', 'adan1251-lawah', 'bɛl')	datasets/greenbook/proto-TIM.tsv		
@@ -43,7 +43,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 246	bat	p-east2519	proto-TIM	Timor-Alor-Pantar		*maTa	nan	nan	"('bat', 'abui1241-takal', ""mä.'re̞l"")"	datasets/greenbook/proto-TIM.tsv		
 249	tail	p-east2519	proto-TIM	Timor-Alor-Pantar		*-ula(ʔ)	nan	- u l a -	('tail', 'adan1251-lawah', 'oloʔ')	datasets/greenbook/proto-TIM.tsv		
 250	fish	p-east2519	proto-TIM	Timor-Alor-Pantar		*hapi	nan	h a p i	('fish', 'abui1241-fuime', 'afu')	datasets/greenbook/proto-TIM.tsv		
-251	shark	p-east2519	proto-TIM	Timor-Alor-Pantar		*supor	nan	s u p o r	('shark', 'adan1251-otvai', 'tabɛi')	datasets/greenbook/proto-TIM.tsv		
+251	shark	p-east2519	proto-TIM	Timor-Alor-Pantar		*supor	nan	s u p o r	"('shark', 'alor1249-sar-a', ""si'fir"")"	datasets/greenbook/proto-TIM.tsv		
 259	bird	p-east2519	proto-TIM	Timor-Alor-Pantar		*haDa	nan	h a D a	('bird', 'p-east2519', '*haDa')	datasets/greenbook/proto-TIM.tsv		
 265	scorpion	p-east2519	proto-TIM	Timor-Alor-Pantar		*fe(r, R)e	nan	nan	('scorpion', 'abui1241-fuime', 'pei')	datasets/greenbook/proto-TIM.tsv		
 284	new (house)	p-east2519	proto-TIM	Timor-Alor-Pantar		*(t, s)ipa(r)	*lan = 'new place'	- i p - - a -	('new (house)', 'abui1241-fuime', 'fija')	datasets/greenbook/proto-TIM.tsv		
@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 344	to hear	p-east2519	proto-TIM	Timor-Alor-Pantar		*mage(n)	nan	m a g e -	('to hear', 'atim1239', 'mahia')	datasets/greenbook/proto-TIM.tsv		
 353	to sleep	p-east2519	proto-TIM	Timor-Alor-Pantar		*tia(r)	nan	t i - - - a -	('to sleep', 'abui1241-fuime', 'ta')	datasets/greenbook/proto-TIM.tsv		
 354	to wake up	p-east2519	proto-TIM	Timor-Alor-Pantar		*Tani	nan	T a n i	"('to wake up', 'alor1247-baran', ""'baũ"")"	datasets/greenbook/proto-TIM.tsv		
-355	to wake someone up	p-east2519	proto-TIM	Timor-Alor-Pantar		*Tani	Just 'wake'. Unsure if this is also 'to wake someone up'	T a n i	('to wake someone up', 'adan1251-otvai', 'aden_to')	datasets/greenbook/proto-TIM.tsv		
+355	to wake someone up	p-east2519	proto-TIM	Timor-Alor-Pantar		*Tani	Just 'wake'. Unsure if this is also 'to wake someone up'	T a n i	"('to wake someone up', 'alor1249-sar-a', ""ga'tan"")"	datasets/greenbook/proto-TIM.tsv		
 356	to bathe	p-east2519	proto-TIM	Timor-Alor-Pantar		*weru	nan	- - w e r u	('to bathe', 'abui1241-fuime', 'tawel')	datasets/greenbook/proto-TIM.tsv		
 358	to sit	p-east2519	proto-TIM	Timor-Alor-Pantar		*mit	nan	- - m i t - - - -	"('to sit', 'abui1241-petle', ""mi.'ti"")"	datasets/greenbook/proto-TIM.tsv		
 359	to stand	p-east2519	proto-TIM	Timor-Alor-Pantar		*nat	nan	nan	('to stand', 'abui1241-fuime', 'nate')	datasets/greenbook/proto-TIM.tsv		

@@ -8,7 +8,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 14	wind	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*haŋin	nan	h a ŋ i n - - - - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 15	rain	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*quzan	nan	q u z a n	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 18	thunder	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*gugur	bunyinya	g u - - g u r -	('thunder', 'p-cent2245-abvd', '*gugur')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-19	lightning	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kilat	kilatan, cahaya	k i - - l a t	"('lightning', 'alor1247-besar', ""'hila_bi'ba"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+19	lightning	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kilat	kilatan, cahaya	k i - - l a t	('lightning', 'p-aust1307-abvd', '*likaC')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 21	fog	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kabut	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	k a b u t	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 25	lake	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*danaw	nan	d a n a w -	"('lake', 'alor1247-baran', ""'danɑu"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 26	mountain	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*halas	nan	h a l a s	('mountain', 'p-cent2245-abvd', '*halas')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -21,7 +21,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 51	rope	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*waʀəj	nan	w a ʀ ə j	('rope', 'p-cent2245-abvd', '*waʀəj')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 64	needle	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zaʀum	nan	z a - ʀ u m - ( - - - - )	('needle', 'buna1278-bobon', 'daun')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 67	fire	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hapuy	nan	h a p u y -	"('fire', 'alor1247-baran', ""a'pe:"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-68	smoke	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*masu	nan	m a s u	('smoke', 'amar1273-kotos', 'masuʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+68	smoke	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*masu	nan	m a s u	"('smoke', 'mamb1306', ""'masu"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 70	dust; fine earth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qabu	nan	q a b u -	"('dust; fine earth', 'alor1247-baran', ""a'fo:"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 75	sand	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qənay	nan	q ə n a y	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 76	grass; brush	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*udu	nan	- u d u -	('grass; brush', 'blag1240-bama', 'ut')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -31,7 +31,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 87	leaf	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*daun	nan	#NAME?	('leaf', 'buna1278-bobon', 'nɔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 88	branch	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*daqan	*saŋan; cabang pohon	d a q a n	('branch', 'p-cent2245-abvd', '*daqan')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 91	root	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*wakaʀ	nan	w a k a ʀ	('root', 'p-cent2245-abvd', '*wakaʀ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-92	fruit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buaq	nan	b u a q	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+92	fruit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'keda1252-leuwa', 'u̘an')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 100	to plant (yam)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tanəm	CHECK if 'to plant (yam)' or 'to plant (rice)'	t a n ə m	('to plant (yam)', 'p-cent2245-abvd', '*tanəm')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 105	chew betel	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mamaq	nan	m a m a q	('chew betel', 'amar1273-kotos', 'n-mama')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 129	salt	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qasiʀa	nan	q a - s i ʀ a	('salt', 'p-aust1307-abvd', '*qasiʀa')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -46,8 +46,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 144	stomach; belly	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tian	(belly)	t i - a n	"('stomach; belly', 'alor1247-baran', ""'teiŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 145	head	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('head', 'p-aust1307-abvd', '*quluh')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 146	hair	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buk	nan	b u k - -	('hair', 'p-aust1307-abvd', '*bukeS')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-146	hair	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*daun ni qulu	nan	d a u n _ n i _ q u l u	('hair', 'p-cent2245-abvd', '*daun_ni_qulu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-146	hair	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('body hair', 'sika1262-hewa', 'ʋulu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+146	hair	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*daun ni qulu	nan	d a u n _ n i _ q u l u	('hair', 'p-cent2245-abvd', '*daun ni qulu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+146	hair	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('hair', 'p-cent2245-abvd', '*qulu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 148	eye	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mata	nan	- - - m a t a -	"('eye', 'alor1247-baran', ""'mataŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 149	ear	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taliŋa	nan	t a l i ŋ a	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 150	nose	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ijuŋ	nan	#NAME?	('nose', 'p-aust1307-abvd', '*mujiŋ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -56,14 +56,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 154	teeth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*nipən	nan	n i p ə n	"('teeth', 'kema1243', ""'nipɑr"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 155	tongue	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*lama	nan	l a m a -	"('tongue', 'kema1243', ""la'mɑr"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 155	tongue	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ləma	nan	l ə m a -	"('tongue', 'kema1243', ""la'mɑr"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-155	tongue	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*maya	nan	m a - y a	('tongue', 'amar1273-kotos', 'ma:-f')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+155	tongue	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*maya	nan	m a - y a	('tongue', 'p-cent2245-abvd', '*maya')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 157	shoulder	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qabaʀa	nan	q a b a ʀ a - - - - - -	('shoulder', 'p-aust1307-abvd', '*qabaʀa')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-164	hand	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*lima	nan	l i m a -	('arm', 'keda1252', 'liŋ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+164	hand	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*lima	nan	l i m a -	('five', 'keda1252-leuwa', 'lεmε')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 168	breast	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251-lawah', 'toʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 174	leg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*wai	(leg/foot)	w a i -	('leg', 'amar1273-kotos', 'hae-f')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 175	foot	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*wai	(leg/foot)	w a i	('foot', 'fata1247', 'ɟia')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-179	back	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mudi	nan	#NAME?	('back', 'adan1251-otvai', 'amɔt')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-182	skin	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kulit	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+179	back	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mudi	nan	#NAME?	('back', 'baka1276', 'mota')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+182	skin	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kulit	nan	nan	('skin', 'adan1251-lawah', 'ʔui')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 190	person	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u	('person', 'p-aust1307-abvd', '*Cau')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 190	person	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taumataq	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u m a t a q	('person', 'p-cent2245-abvd', '*taumataq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 191	name	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ŋajan	nan	ŋ a j a n	"('name', 'alor1247-baran', ""'naraŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -72,21 +72,21 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma-ɾuqanay	nan	m a ɾ u q a n a y	('man', 'p-aust1307-abvd', '*ma-ʀuqanay')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 194	woman	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*b-in-ay	nan	b i n a - y	"('woman', 'idat1237', ""mahi'nak"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 194	woman	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*bai	nan	#NAME?	('woman', 'p-aust1307-abvd', '*bahi')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-195	husband	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qasawa	nan	q a s a w a	('husband', 'lama1277-kalik', 'awan')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+195	husband	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qasawa	nan	q a s a w a	('husband', 'p-cent2245-abvd', '*qasawa')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 196	wife	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qasawa	Not 'married woman'.	q a s a w a	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 197	mother	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ina	nan	- i n a -	('mother', 'lama1277-belan', 'ina')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-198	father	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ama	nan	- a m a - -	"('father', 'alor1247-baran', ""'ʔama"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+198	father	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ama	nan	- a m a - -	"('father', 'buna1278-malia', ""'ʔamɑ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 203	1sg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*i-aku	nan	nan	('1sg', 'amar1273-kotos', 'au')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 204	2sg (informal)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*imi	nan	i - - m i - - - - - -	('2sg (informal)', 'p-aust1307-abvd', '*i-kaSu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 204	2sg (informal)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*miu	nan	- - - m i u - - - - -	('2sg (informal)', 'p-aust1307-abvd', '*i-kaSu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-206	3sg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*s-ia	nan	s i - a	('3sg', 'adan1251-otvai', 'sari')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+206	3sg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*s-ia	nan	s i - a	('3sg', 'p-aust1307-abvd', '*si-ia')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 207	1pl excl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*k-ami	nan	k a m i	"('1pl excl', 'alor1247-baran', ""'kame"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 208	1pl incl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*k-ita	nan	- k i t a - - - - - -	"('1pl incl', 'alor1247-baran', "",ʔi'tɛ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 210	3pl	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sida	nan	( - - ) - - s i d a - - - -	"('3pl', 'fata1247', ""ta'wari"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 211	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*diaq	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	"('no; not', 'kema1243', ""'tai"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 211	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ta	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	"('no; not', 'kema1243', ""'tai"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 211	no; not	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ta-i	Negation of verbal/adjectival predicate, e.g. Saya tidak suka minum bir; Saya tidak sakit. (Not 'bukan').	nan	"('no; not', 'kema1243', ""'tai"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-212	and	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma	nan	m a - -	('and', 'amar1273-kotos', 'ma')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+212	and	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma	nan	m a - -	('and', 'amar1273-kotos', '=ma')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 214	if	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma	nan	m a - -	('if', 'p-cent2245-abvd', '*ma')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 216	what?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*apa	nan	- a p - a - -	('what?', 'keda1252-leuwa', 'a̘pε')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 216	what?	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sapa	nan	s a p - a - -	('what?', 'keda1252-leuwa', 'a̘pε')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -98,25 +98,25 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 223	this	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*-ni	nan	- - - - - - - n i -	"('this', 'fata1247', ""ɛ'niɁi"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 224	that	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*-na	nan	- n a -	('that', 'amar1273-kotos', '=an')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 225	at	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*di	General locative preposition, e.g. Ibu di mana? Saya di jalan.	nan	('at', 'idat1237', 'he:')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-229	above	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*atas	nan	nan	('above', 'p-aust1307-abvd', '*i_taqas')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+229	above	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*atas	nan	nan	('above', 'p-aust1307-abvd', '*i taqas')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 230	below	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*babaq	nan	nan	('below', 'p-cent2245-abvd', '*babaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-231	left (side)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ka-wiʀi	nan	k a w i ʀ - - i	('left (side)', 'amar1273-kotos', 'ʔri:')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+231	left (side)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ka-wiʀi	nan	k a w i ʀ - - i	"('left (side)', 'fata1247', ""'welika"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 232	right (side)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ka-wanan	nan	k a w a n a n -	('right (side)', 'keda1252-leuwa', 'vana')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 238	dog	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*asu	nan	- a s u - - - - - - -	"('dog', 'alor1247-baran', ""a'ho"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 241	rat	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*labaw	nan	l a b a w	('rat', 'p-aust1307-abvd', '*labaw')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 249	tail	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ikuʀ	nan	i k u ʀ - - - - -	('tail', 'adan1251-lawah', 'oloʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 250	fish	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hikan	nan	h i k a n	"('fish', 'alor1247-baran', ""'ikɑŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-259	bird	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*manuk	nan	nan	"('bird', 'idat1237', ""'manu_ɑhu'ʔin"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+259	bird	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*manuk	nan	nan	('bird', 'lama1277-horow', 'manuk utã')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 260	wing	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kapak	nan	k a p a k - -	('wing', 'p-cent2245-abvd', '*kapak')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 260	wing	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panij	nan	p a n i j	('wing', 'p-aust1307-abvd', '*paNid')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-262	feather	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*bulu	nan	b u l u - - - - - -	('feather', 'adan1251-lawah', 'hiu_wolo_(folo)')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+262	feather	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*bulu	nan	b u l u - - - - - -	('feather', 'adan1251-lawah', 'hiu wolo (folo)')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 264	snake	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ulaɾ	nan	#NAME?	"('snake', 'alor1247-baran', ""ʔu'la"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 266	egg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qatəluʀ	nan	q a - t ə l u ʀ	"('egg', 'alor1247-baran', ""'taluk"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-267	earthworm	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kalati	nan	k a l - - a t i	"('earthworm', 'alor1247-baran', "",ʔula_'fale"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+267	earthworm	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kalati	nan	k a l - - a t i	('earthworm', 'keda1252-leuwa', 'hala mukεl')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 270	mosquito	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ñamuk	nan	ñ a m u k	('mosquito', 'p-cent2245-abvd', '*ñamuk')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 274	spider	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*lawaq	nan	l a w a q	('spider', 'p-cent2245-abvd', '*lawaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 279	louse (clothing)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kutu	nan	k u t - - u -	('louse (clothing)', 'keda1252-leuwa', 'utu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-281	big	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ɾaya	nan	nan	('big', 'keda1252-leuwa', 'ria_baraʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+281	big	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ɾaya	nan	nan	('big', 'keda1252-leuwa', 'ria baraʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 282	small	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*dikiq	nan	d i k i q - -	('small', 'p-cent2245-abvd', '*dikiq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 282	small	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kdiŋ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 284	new (house)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*baqəʀu	nan	#NAME?	('new (house)', 'p-aust1307-abvd', '*ma-baqeʀu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -144,19 +144,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 329	black	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma-qetəm	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 330	white	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*burak	nan	b u r a k - - - - - - - - - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 331	red	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*meʀaq	nan	m e - - ʀ a q -	('red', 'p-cent2245-abvd', '*meʀaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-332	green	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mataq	nan	m a t a q	('green', 'amar1273-kotos', 'mamateʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+332	green	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mataq	nan	m a t a q	"('green', 'kema1243', ""'mɔ'sɔk"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 334	yellow	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kunij	nan	#NAME?	('yellow', 'p-cent2245-abvd', '*kunij')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 335	sick; painful	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sakit	There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	#NAME?	('sick; painful', 'p-cent2245-abvd', '*sakit')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 336	shy; ashamed	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mayaq	nan	m a - y a q -	('shy; ashamed', 'p-aust1307-abvd', '*ma-Siaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-343	to see	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'amar1273-kotos', 'n-kisu')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+343	to see	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kita	nan	k i t a - -	('to see', 'p-aust1307-abvd', '*kita')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 344	to hear	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*dəŋəʀ	nan	d ə ŋ ə ʀ - - - - -	"('to hear', 'alor1247-baran', ""'daŋ:a"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 345	to smell	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hajək	(sniff/smell)	h a j ə k	('to smell', 'p-aust1307-abvd', '*Sajek')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 348	to say	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tutur	nan	- - t u t u r	('to say', 'p-cent2245-abvd', '*tutur')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 352	to lie down	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qenəp	nan	q e n ə p	('to lie down', 'p-cent2245-abvd', '*qenəp')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 352	to lie down	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qinəp	nan	q i n ə p	('to lie down', 'p-cent2245-abvd', '*qenəp')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-353	to sleep	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tuduʀ	nan	t u d u ʀ -	"('to sleep', 'alor1247-baran', ""'tur:u"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+353	to sleep	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tuduʀ	nan	t u d u ʀ -	('to sleep', 'p-aust1307-abvd', '*tuduʀ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 358	to sit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*todan	nan	t o d a n	('to sit', 'p-cent2245-abvd', '*todan')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-359	to stand	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*diʀi	nan	- d i ʀ i -	"('to stand', 'keda1252', ""'madɛr"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+359	to stand	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*diʀi	nan	- d i ʀ i -	('to stand', 'keda1252-leuwa', 'madεr hεdaŋ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 360	to walk	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*lakaw	nan	l a k a w	('to walk', 'abui1241-fuime', 'lak')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 360	to walk	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panaw	nan	p a n a w	"('to walk', 'alor1247-baran', ""'pana"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 363	to swim	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*naŋuy	nan	n a ŋ u - y	"('to swim', 'alor1247-baran', ""'naŋgɛ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -172,7 +172,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 376	to die	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*matay	nan	m a - t a y -	"('to die', 'alor1247-baran', ""'matɛ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 379	to come	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mai	nan	- - - m a i - -	('to come', 'abui1241-fuime', 'me')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 380	to laugh	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*malip	nan	#NAME?	"('to laugh', 'idat1237', ""'mɑli"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-380	to laugh	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tawa	nan	t a w a	"('to laugh', 'keda1252', ""'tawe"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+380	to laugh	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tawa	nan	t a w a	('to laugh', 'keda1252', 'tawe')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 381	to cry	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taŋis	nan	t a ŋ i s	"('to cry', 'alor1247-baran', ""'tanĩ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 384	to burn (clear land)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tunu	nan	t u n u	"('to burn (clear land)', 'alor1247-baran', ""'tun:ɔ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 387	to chew	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mamaq	(also chew betel)	m a - m a q	"('to chew', 'alor1247-besar', ""'mamɛ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -181,10 +181,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 389	to suck	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*susu	nan	s u s u -	('to suck', 'amar1273-kotos', 'n-musi')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 390	to blow	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*upi	nan	- - - - u p - i - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 391	to spit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*zulaq	nan	z u l a q - - - - -	('to spit', 'p-cent2245-abvd', '*zulaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-392	to vomit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mutaq	nan	m u - t a q -	"('to vomit', 'alor1247-baran', ""'mut:a"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+392	to vomit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mutaq	nan	m u - t a q -	('to vomit', 'keda1252-leuwa', 'mutε ɔ̘kaʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 394	to scratch	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kaʀaw	nan	k a - ʀ a w - -	('to scratch', 'alor1249-sar-a', 'kəra:b')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 396	to swell	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*baʀəq	nan	b a - - - - ʀ ə q	('to swell', 'p-aust1307-abvd', '*baʀeq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-397	to hit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*palu	nan	- - p a l u -	"('to hit', 'keda1252', ""pa'luʔ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+397	to hit	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*palu	nan	- - p a l u -	('to hit', 'keda1252-leuwa', 'paluʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 399	to bite	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kaʀat	nan	k a ʀ a t	('to bite', 'p-aust1307-abvd', '*kaʀat')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 400	to cut	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*taʀaq	(cut wood)	t a - - - ʀ a q	('to cut', 'p-aust1307-abvd', '*taʀaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 400	to cut	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tətək	(cut wood)	t ə - t - - ə k	('to cut', 'p-aust1307-abvd', '*taʀaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -198,7 +198,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 420	to tie	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*hikət	nan	h i k ə t -	('to tie', 'p-cent2245-abvd', '*hikət')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 424	to turn	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*putər	nan	p - u t ə r	('to turn', 'p-cent2245-abvd', '*putər')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 425	to dream	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*nipi	nan	n i p i -	('to dream', 'p-aust1307-abvd', '*Sepi')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-428	to choose	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*piliq	nan	p i l i q	('to choose', 'keda1252', 'pil')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+428	to choose	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*piliq	nan	p i l i q	('to choose', 'p-aust1307-abvd', '*piliq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 429	to grow	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*tumbuq	nan	#NAME?	('to grow', 'p-cent2245-abvd', '*tumbuq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 430	to squeeze	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*pəʀəs	(as in juice from fruit, for both)	p ə ʀ ə s	('to squeeze', 'keda1252-leuwa', 'ε̘rεʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 430	to squeeze	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ʀaməs	(as in juice from fruit, for both)	ʀ a m ə s -	('to squeeze', 'p-cent2245-abvd', '*ʀaməs')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -208,15 +208,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 436	to climb	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panaik	nan	p a n a - i k	('to climb', 'p-cent2245-abvd', '*panaik')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 436	to climb	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*sakay	nan	s a k a y -	('to climb', 'p-cent2245-abvd', '*sakay')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 437	to hide	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buni	nan	b u n i	('to hide', 'abui1241-fuime', 'tabuŋ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-442	to shoot	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panaq	(an arrow)	p a n a q	"('to shoot', 'keda1252', ""pa'nɛ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+442	to shoot	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*panaq	(an arrow)	p a n a q	('to shoot', 'p-aust1307-abvd', '*panaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 449	to count	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*iap	nan	i - a p	('to count', 'p-cent2245-abvd', '*iap')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-450	one	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*isa	nan	#NAME?	('one', 'amar1273-kotos', 'meseʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-450	one	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*əsa	nan	#NAME?	('one', 'amar1273-kotos', 'meseʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+450	one	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*isa	nan	#NAME?	"('one', 'keda1252-leuba', ""ʔu'deʔ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+450	one	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*əsa	nan	#NAME?	"('one', 'keda1252-leuba', ""ʔu'deʔ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 451	two	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*dua	nan	d u - a	('two', 'keda1252-leuwa', 'suε')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 452	three	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*təlu	nan	t ə l - u - - - - - -	"('three', 'alor1247-baran', ""'tal:au"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-453	four	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*[ə]pat	nan	- - p a t - -	('four', 'alor1247-baran', 'pa:')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-453	four	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*pani	nan	- - p a n i -	('four', 'alor1247-baran', 'pa:')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-453	four	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*pati	nan	- - p a t i -	('four', 'alor1247-baran', 'pa:')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-588	flower (in e.g. mangga tree)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	('flower (in e.g. mangga tree)', 'adan1251-otvai', 'ti_buŋ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+453	four	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*[ə]pat	nan	- - p a t - -	('four', 'keda1252-leuwa', 'a̘paʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+453	four	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*pani	nan	- - p a n i -	('four', 'keda1252-leuwa', 'a̘paʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+453	four	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*pati	nan	- - p a t i -	('four', 'keda1252-leuwa', 'a̘paʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+588	flower (in e.g. mangga tree)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	('flower (in e.g. mangga tree)', 'baka1276', 'buma')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 590	long (stick)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*anaduq	nan	a n a d u q	('long (stick)', 'p-aust1307-abvd', '*inaduq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-592	short (stick)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*babaq	nan	- - b a b a q -	('short (stick)', 'amar1273-kotos', 'paraʔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+592	short (stick)	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*babaq	nan	- - b a b a q -	('short (stick)', 'buna1278-bobon', 'barak')	datasets/ABVD/proto-Central-MP-ABVD.tsv		

@@ -14,7 +14,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 12	twilight; dawn	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'kifata'hara	nan	'k i f a t a 'h a r a	"('twilight; dawn', 'fata1247', ""'kifata'hara"")"	datasets/ddgmk20160112wordlist.tsv		
 13	cloud	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'mɔuku	nan	'm ɔu k u	"('cloud', 'fata1247', ""'mɔuku"")"	datasets/ddgmk20160112wordlist.tsv		
 14	wind	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pari	nan	- - p a r i	('wind', 'buna1278-bobon', 'bɛl')	datasets/ddgmk20160112wordlist.tsv		
-15	rain	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aija	nan	- - ai - - - j a -	('rain', 'alor1249-sar-a', 'ál')	datasets/ddgmk20160112wordlist.tsv		
+15	rain	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aija	nan	- - ai - - - j a -	"('rain', 'alor1249-sar-a', ""'al"")"	datasets/ddgmk20160112wordlist.tsv		
 16	drizzle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aija liri-'liri	nan	ai j a _ l i r i -' l i r	"('drizzle', 'fata1247', ""aija liri-'liri"")"	datasets/ddgmk20160112wordlist.tsv		
 17	rainbow	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ara'wɛi	nan	a r a 'w ɛi	"('rainbow', 'fata1247', ""ara'wɛi"")"	datasets/ddgmk20160112wordlist.tsv		
 18	thunder	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɕi	nan	t ɕ i	('thunder', 'fata1247', 'tɕi')	datasets/ddgmk20160112wordlist.tsv		
@@ -25,10 +25,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 23	ice	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɟɛlu	nan	ɟ ɛ l - - - - - u	('ice', 'buna1278-bobon', 'zelu')	datasets/ddgmk20160112wordlist.tsv		
 24	snow	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɟɛlu	nan	ɟ ɛ l - - u	('snow', 'alor1247-baran', 'salʤu')	datasets/ddgmk20160112wordlist.tsv		
 25	lake	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ira leu 'lafai	ira=water, leu=large hole, lafai=big	i r a _ l eu _ 'l a f ai	"('lake', 'fata1247', ""ira leu 'lafai"")"	datasets/ddgmk20160112wordlist.tsv		
-26	mountain	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ili	nan	- - - i l i - -	('mountain', 'alor1249-sar-n', 'yihil')	datasets/ddgmk20160112wordlist.tsv		
+26	mountain	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ili	nan	- - - i l i - -	('mountain', 'alor1249-sar-n', 'jihil')	datasets/ddgmk20160112wordlist.tsv		
 27	hill; ridge	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	apa	nan	a p a	('hill; ridge', 'fata1247', 'apa')	datasets/ddgmk20160112wordlist.tsv		
 28	village	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	kampu	nan	k a m p u	('village', 'fata1247', 'kampu')	datasets/ddgmk20160112wordlist.tsv		
-29	land; soil	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mu.a	nan	m u - - . -	('land; soil', 'alor1249-sar-a', 'maxáʔ')	datasets/ddgmk20160112wordlist.tsv		
+29	land; soil	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mu.a	nan	m u - - . -	"('land; soil', 'alor1249-sar-a', ""ma'xaʔ"")"	datasets/ddgmk20160112wordlist.tsv		
 30	Earth	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mu.a	nan	m u - .	('Earth', 'buna1278-bobon', 'mug')	datasets/ddgmk20160112wordlist.tsv		
 31	hole	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	kuru	kuru=hole in e.g. nose, or in the ground (e.g. a well), papane=small hole in e.g. a tyre	k u r u	('hole', 'fata1247', 'kuru')	datasets/ddgmk20160112wordlist.tsv		
 31	hole	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	papanɛ	kuru=hole in e.g. nose, or in the ground (e.g. a well), papane=small hole in e.g. a tyre	p a p a n ɛ	('hole', 'fata1247', 'papanɛ')	datasets/ddgmk20160112wordlist.tsv		
@@ -84,7 +84,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 84	tree	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ɛtɛ	nan	- - 'ɛ t ɛ - - - - -	('tree', 'adan1251-lawah', 'ti')	datasets/ddgmk20160112wordlist.tsv		
 85	wood	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aca	aca=wood, ɛtɛ=tree	a c a -	('wood', 'buna1278-bobon', 'ɔtɛl')	datasets/ddgmk20160112wordlist.tsv		
 85	wood	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	c	aca=wood, ɛtɛ=tree	c	('wood', 'fata1247', 'c')	datasets/ddgmk20160112wordlist.tsv		
-86	bark (of tree)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛtɛ wɛlɛ	wɛlɛ=skin	ɛ t ɛ _ - - w ɛ l ɛ	('bark (of tree)', 'alor1249-sar-a', 'tai qəfiyaq')	datasets/ddgmk20160112wordlist.tsv		
+86	bark (of tree)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛtɛ wɛlɛ	wɛlɛ=skin	ɛ t ɛ _ - - w ɛ l ɛ	('bark (of tree)', 'fata1247', 'ɛtɛ wɛlɛ')	datasets/ddgmk20160112wordlist.tsv		
 87	leaf	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɛtɛ asa	asa=leaf	ɛ t ɛ _ a s a	('leaf', 'fata1247', 'ɛtɛ asa')	datasets/ddgmk20160112wordlist.tsv		
 88	branch	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	kɛtɛ	nan	- - - - k ɛ t ɛ - - - -	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	datasets/ddgmk20160112wordlist.tsv		
 89	firewood	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aca	Beginning of third clip: discussion of minimal pair aca=wood vs atɕa (tara leu) =chicken. 	- a c - - - - a - - - - -	('firewood', 'abui1241-fuime', 'ara wa:siŋ')	datasets/ddgmk20160112wordlist.tsv		
@@ -121,7 +121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 121	banana	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	muɁu	nan	- m u Ɂ u - -	('banana', 'abui1241-fuime', 'musa')	datasets/ddgmk20160112wordlist.tsv		
 122	mango	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	paja	nan	p a j a	('mango', 'adan1251-lawah', 'be')	datasets/ddgmk20160112wordlist.tsv		
 123	papaya	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	muɁu ma'laj	muɁu=pisang, malaj=strange	m u Ɂ u _ m a 'l a j	"('papaya', 'fata1247', ""muɁu ma'laj"")"	datasets/ddgmk20160112wordlist.tsv		
-124	jackfruit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ulur	nan	- - 'u l u r	('jackfruit', 'alor1249-sar-a', 'kulár')	datasets/ddgmk20160112wordlist.tsv		
+124	jackfruit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ulur	nan	- - 'u l u r	"('jackfruit', 'alor1249-sar-a', ""ku'lar"")"	datasets/ddgmk20160112wordlist.tsv		
 125	breadfruit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ulur	nan	- - - - - - u - - l u r	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	datasets/ddgmk20160112wordlist.tsv		
 126	bean	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɔtɛ	nan	- - - ɔ t ɛ -	('bean', 'adan1251-lawah', 'ʔutuŋ')	datasets/ddgmk20160112wordlist.tsv		
 127	honey	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	wani	nan	- - w a n - - - - - i -	('honey', 'abui1241-fuime', 'nawa:ŋ')	datasets/ddgmk20160112wordlist.tsv		
@@ -134,11 +134,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 134	sweat	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	hɛru	nan	h ɛ r u	('sweat', 'fata1247', 'hɛru')	datasets/ddgmk20160112wordlist.tsv		
 135	tear	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ina 'waja	ina=eye, waja=sap	i n a _ 'w a j a	"('tear', 'fata1247', ""ina 'waja"")"	datasets/ddgmk20160112wordlist.tsv		
 136	blood	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	wɛhɛ	nan	- w - ɛ h ɛ	('blood', 'abui1241-fuime', 'we')	datasets/ddgmk20160112wordlist.tsv		
-138	heart	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	uan	nan	- - ua - - n - - - -	('heart', 'amar1273-kotos', 'bua-f')	datasets/ddgmk20160112wordlist.tsv		
+138	heart	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	uan	nan	- - ua - - n - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/ddgmk20160112wordlist.tsv		
 139	liver	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ari	nan	- - - - - - - - a r i -	"('liver', 'alor1247-baran', ""'hati"")"	datasets/ddgmk20160112wordlist.tsv		
 140	kidney	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɔlɔ	nan	t ɔ l ɔ	('kidney', 'fata1247', 'tɔlɔ')	datasets/ddgmk20160112wordlist.tsv		
 141	guts	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aku 'mɔkɔr	aku=intestines; moko-r=small-PL	a k u _ 'm ɔ k ɔ r	"('guts', 'fata1247', ""aku 'mɔkɔr"")"	datasets/ddgmk20160112wordlist.tsv		
-142	excrement	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aku	sapi aku=cow shit, arapɔu aku=buffalo shit, pipi aku=goat shit	a k u -	('excrement', 'alor1249-sar-a', 'aqús')	datasets/ddgmk20160112wordlist.tsv		
+142	excrement	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aku	sapi aku=cow shit, arapɔu aku=buffalo shit, pipi aku=goat shit	a k u -	"('excrement', 'alor1249-sar-a', ""a'qus"")"	datasets/ddgmk20160112wordlist.tsv		
 143	lungs	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	sapun	nan	s a p u n	('lungs', 'fata1247', 'sapun')	datasets/ddgmk20160112wordlist.tsv		
 144	stomach; belly	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	atu	nan	- - a t u - - - - - -	('stomach; belly', 'abui1241-fuime', 'tatok foko')	datasets/ddgmk20160112wordlist.tsv		
 145	head	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	caɁu 'tapun	tapun=bowl	c a Ɂ u _ 't a p u n	"('head', 'fata1247', ""caɁu 'tapun"")"	datasets/ddgmk20160112wordlist.tsv		
@@ -170,7 +170,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 170	navel	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ulu kuru	ulu=navel, kuru=hole	u l u _ k u r u	('navel', 'fata1247', 'ulu kuru')	datasets/ddgmk20160112wordlist.tsv		
 171	penis	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ava	ava=penis (human), fula=penis (animal), eg. kuca fula = horse penis	- a v a - -	('penis', 'fata1247', 'ava')	datasets/ddgmk20160112wordlist.tsv		
 171	penis	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fula	ava=penis (human), fula=penis (animal), eg. kuca fula = horse penis	- - f u l a	('penis', 'fata1247', 'ava')	datasets/ddgmk20160112wordlist.tsv		
-172	vagina	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aru	nan	- a r - u -	('vagina', 'adan1251-otvai', 'a:l')	datasets/ddgmk20160112wordlist.tsv		
+172	vagina	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	aru	nan	- a r - u -	('vagina', 'alor1249-sar-a', 'ga:r')	datasets/ddgmk20160112wordlist.tsv		
 173	testicles	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ava kafu	ava=penis, kafu=seed	a v a _ k a f u	('testicles', 'fata1247', 'ava kafu')	datasets/ddgmk20160112wordlist.tsv		
 174	leg	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɟia	nan	- ɟ ia - -	('leg', 'baka1276', 'ijá')	datasets/ddgmk20160112wordlist.tsv		
 175	foot	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɟia	nan	ɟ i - a - - - - - - - - -	('foot', 'fata1247', 'ɟia')	datasets/ddgmk20160112wordlist.tsv		
@@ -233,8 +233,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 228	there	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	inaɁɛ	nan	- i - - - n a Ɂ ɛ	('there', 'fata1247', 'inaɁɛ')	datasets/ddgmk20160112wordlist.tsv		
 229	above	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	puhunɛ	nan	p u h u n ɛ	('above', 'fata1247', 'puhunɛ')	datasets/ddgmk20160112wordlist.tsv		
 230	below	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	uanɛ	nan	ua n ɛ	('below', 'fata1247', 'uanɛ')	datasets/ddgmk20160112wordlist.tsv		
-231	left (side)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'welika	nan	- - - 'w e l i k a	('left (side)', 'amar1273-kotos', 'ʔri:')	datasets/ddgmk20160112wordlist.tsv		
-232	right (side)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛ'nɛni	nan	t ɛ 'n ɛ n i	('right (side)', 'blag1240-bama', 'tene')	datasets/ddgmk20160112wordlist.tsv		
+231	left (side)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'welika	nan	- - - 'w e l i k a	"('left (side)', 'fata1247', ""'welika"")"	datasets/ddgmk20160112wordlist.tsv		
+232	right (side)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tɛ'nɛni	nan	t ɛ 'n ɛ n i	"('right (side)', 'fata1247', ""tɛ'nɛni"")"	datasets/ddgmk20160112wordlist.tsv		
 233	a few	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	sɛrika	adapted Indonesian loan.	s ɛ r i k a	('a few', 'fata1247', 'sɛrika')	datasets/ddgmk20160112wordlist.tsv		
 234	all	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	na.'uku	nan	n a .' u k	"('all', 'fata1247', ""na.'uku"")"	datasets/ddgmk20160112wordlist.tsv		
 235	many	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	lafanɛ	nan	l a f a n ɛ	"('many', 'alor1247-besar', ""'mafa"")"	datasets/ddgmk20160112wordlist.tsv		
@@ -253,7 +253,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 248	cuscus	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	acur	nan	a c u r	('cuscus', 'fata1247', 'acur')	datasets/ddgmk20160112wordlist.tsv		
 249	tail	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	u'lafuka	ula=tail, fuka=stalk, stem	u 'l a f u k a	"('tail', 'fata1247', ""u'lafuka"")"	datasets/ddgmk20160112wordlist.tsv		
 250	fish	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	api	nan	- - a p i	('fish', 'abui1241-fuime', 'afu')	datasets/ddgmk20160112wordlist.tsv		
-251	shark	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'api	nan	- - 'a p - - - - i - -	('shark', 'adan1251-otvai', 'tabɛi')	datasets/ddgmk20160112wordlist.tsv		
+251	shark	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'api	nan	- - 'a p - - - - i - -	"('shark', 'alor1249-sar-a', ""si'fir"")"	datasets/ddgmk20160112wordlist.tsv		
 252	whale	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	a'pi la'fai	api=fish; lafai=big	a 'p i _ l a 'f ai	"('whale', 'fata1247', ""a'pi la'fai"")"	datasets/ddgmk20160112wordlist.tsv		
 253	dolphin	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	api	nan	a p i	('dolphin', 'fata1247', 'api')	datasets/ddgmk20160112wordlist.tsv		
 254	crocodile	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'lavɛi	nan	'l a v ɛi - - - - - - - - - - - - -	('crocodile', 'abui1241-fuime', 'fahai')	datasets/ddgmk20160112wordlist.tsv		
@@ -268,7 +268,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 263	horn	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	hɔru	pipi horu=goat horns	h ɔ r u -	('horn', 'fata1247', 'hɔru')	datasets/ddgmk20160112wordlist.tsv		
 264	snake	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nana	nan	- n a n a	('snake', 'fata1247', 'nana')	datasets/ddgmk20160112wordlist.tsv		
 265	scorpion	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	sa'warika	nan	s a 'w a r i k a	"('scorpion', 'fata1247', ""sa'warika"")"	datasets/ddgmk20160112wordlist.tsv		
-266	egg	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ucu	atxa ucu= chicken egg	- - - - - - - - u c u - - -	('egg', 'alor1249-sar-a', 'toxól')	datasets/ddgmk20160112wordlist.tsv		
+266	egg	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ucu	atxa ucu= chicken egg	- - - - - - - - u c u - - -	"('egg', 'alor1249-sar-a', ""to'xol"")"	datasets/ddgmk20160112wordlist.tsv		
 267	earthworm	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ifi	nan	- i - f - - i	('earthworm', 'adan1251-lawah', 'i:b')	datasets/ddgmk20160112wordlist.tsv		
 268	butterfly	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	maca-maca	nan	m a c a - m a c	('butterfly', 'fata1247', 'maca-maca')	datasets/ddgmk20160112wordlist.tsv		
 269	fly (n.)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	u'pur	nan	- u 'p u r	"('fly (n.)', 'fata1247', ""u'pur"")"	datasets/ddgmk20160112wordlist.tsv		
@@ -291,7 +291,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 285	old (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	laite	katuasi=old man; laite=old woman	l ai t e	('old (people)', 'fata1247', 'laite')	datasets/ddgmk20160112wordlist.tsv		
 286	young (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nami mɔkɔ	nami mɔkɔ=young man, fanarɛ=young woman	n a m i _ m ɔ k ɔ	('young (people)', 'fata1247', 'nami mɔkɔ')	datasets/ddgmk20160112wordlist.tsv		
 286	young (people)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fanarɛ	nami mɔkɔ=young man, fanarɛ=young woman	f a n a r ɛ	('young (people)', 'fata1247', 'fanarɛ')	datasets/ddgmk20160112wordlist.tsv		
-287	lazy	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	culɛ	mautule = lazy person; mau=not want, tule/cule=lazy	c u l ɛ - - - - - - - -	('lazy', 'blag1240-warsa', 'darabun jasi')	datasets/ddgmk20160112wordlist.tsv		
+287	lazy	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	culɛ	mautule = lazy person; mau=not want, tule/cule=lazy	c u l ɛ - - - - - - - -	('lazy', 'fata1247', 'culɛ')	datasets/ddgmk20160112wordlist.tsv		
 288	hot	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	timi'nɛ:	nan	t - i m i 'n ɛ: -	('hot', 'buna1278-bobon', 'tʃinɔɁ')	datasets/ddgmk20160112wordlist.tsv		
 289	cold	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ɛlɛwɛ	nan	'ɛ l ɛ w ɛ	"('cold', 'fata1247', ""'ɛlɛwɛ"")"	datasets/ddgmk20160112wordlist.tsv		
 290	good	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ra.u	nan	r a .	('good', 'fata1247', 'ra.u')	datasets/ddgmk20160112wordlist.tsv		
@@ -360,7 +360,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 352	to lie down	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tajamai	nan	- - - - - t a j a m ai	('to lie down', 'abui1241-fuime', 'ta')	datasets/ddgmk20160112wordlist.tsv		
 353	to sleep	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	taja	nan	- - t a - - - - - - j a - -	('to sleep', 'abui1241-fuime', 'ta')	datasets/ddgmk20160112wordlist.tsv		
 354	to wake up	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	curɛ	nan	- - c u - r ɛ - -	('to wake up', 'adan1251-lawah', 'tohø')	datasets/ddgmk20160112wordlist.tsv		
-355	to wake someone up	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tani	nan	- - t a - - n - - - - - - - - - - - - - - - i -	('to wake someone up', 'adan1251-otvai', 'aden to')	datasets/ddgmk20160112wordlist.tsv		
+355	to wake someone up	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tani	nan	- - t a - - n - - - - - - - - - - - - - - - i -	('to wake someone up', 'buna1278-bobon', 'gɔtin')	datasets/ddgmk20160112wordlist.tsv		
 356	to bathe	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'nucɛcɛ	nan	'n u c ɛ c ɛ	"('to bathe', 'fata1247', ""'nucɛcɛ"")"	datasets/ddgmk20160112wordlist.tsv		
 357	to bathe (a child)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'unu'cɛcɛ	nan	'u n u 'c ɛ c ɛ	"('to bathe (a child)', 'fata1247', ""'unu'cɛcɛ"")"	datasets/ddgmk20160112wordlist.tsv		
 358	to sit	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	imi'rɛ:	nan	i m i 'r ɛ:	"('to sit', 'fata1247', ""imi'rɛ:"")"	datasets/ddgmk20160112wordlist.tsv		
@@ -376,8 +376,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 368	to drink	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	tutu	ira tutu=drink water	t u t u	('to drink', 'fata1247', 'tutu')	datasets/ddgmk20160112wordlist.tsv		
 369	to eat	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	macɛ	nan	- - - - m a c ɛ - -	('to eat', 'fata1247', 'macɛ')	datasets/ddgmk20160112wordlist.tsv		
 370	to cook	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pɔ'hɛ-pɔ'hɛ	nan	p ɔ 'h ɛ - p ɔ' h	"('to cook', 'fata1247', ""pɔ'hɛ-pɔ'hɛ"")"	datasets/ddgmk20160112wordlist.tsv		
-371	to wash	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pahalɛ	raɁu wahu=wash dishes, lau pahale=wash clothes 	p a h a l ɛ	('to wash', 'amar1273-kotos', 'n-safe')	datasets/ddgmk20160112wordlist.tsv		
-371	to wash	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	wahu	raɁu wahu=wash dishes, lau pahale=wash clothes 	w a h u - -	('to wash', 'amar1273-kotos', 'n-safe')	datasets/ddgmk20160112wordlist.tsv		
+371	to wash	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	pahalɛ	raɁu wahu=wash dishes, lau pahale=wash clothes 	p a h a l ɛ	('to wash', 'fata1247', 'pahalɛ')	datasets/ddgmk20160112wordlist.tsv		
+371	to wash	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	wahu	raɁu wahu=wash dishes, lau pahale=wash clothes 	w a h u - -	('to wash', 'fata1247', 'pahalɛ')	datasets/ddgmk20160112wordlist.tsv		
 372	to sew	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ɔɁɔ'te:	nan	- - - ɔ Ɂ - - ɔ 't e: -	('to sew', 'adan1251-lawah', 'narotoʔ')	datasets/ddgmk20160112wordlist.tsv		
 373	to live; be alive; living	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'lauhɛ	nan	'l au - - h ɛ	('to live; be alive; living', 'buna1278-bobon', 'u:')	datasets/ddgmk20160112wordlist.tsv		
 374	to breathe	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'naɁɛ	nan	- - 'n a Ɂ ɛ	"('to breathe', 'fata1247', ""'naɁɛ"")"	datasets/ddgmk20160112wordlist.tsv		
@@ -434,7 +434,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 419	to hold	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	u'falɛ	nan	u 'f a l ɛ	"('to hold', 'fata1247', ""u'falɛ"")"	datasets/ddgmk20160112wordlist.tsv		
 420	to tie	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	isi'lɛ	nan	- i s i 'l ɛ	"('to tie', 'fata1247', ""isi'lɛ"")"	datasets/ddgmk20160112wordlist.tsv		
 421	to play	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	cici'raɁi	nan	c i c i 'r a Ɂ i	"('to play', 'fata1247', ""cici'raɁi"")"	datasets/ddgmk20160112wordlist.tsv		
-422	to pull	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	sei'lɛ:	nan	- - s - - - - ei 'l ɛ:	"('to pull', 'buna1278-malia', ""'dɔsil 'tɑʧi"")"	datasets/ddgmk20160112wordlist.tsv		
+422	to pull	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	sei'lɛ:	nan	- - s - - - - ei 'l ɛ:	"('to pull', 'fata1247', ""sei'lɛ:"")"	datasets/ddgmk20160112wordlist.tsv		
 423	to push	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'tuturɛ	nan	- - - - - 't u t u r ɛ	('to push', 'adan1251-lawah', 'adoʔo')	datasets/ddgmk20160112wordlist.tsv		
 424	to turn	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'kailɛ	nan	- - 'k ai - - - l ɛ - - - -	('to turn', 'blag1240-tuntu', 'gogóleŋ')	datasets/ddgmk20160112wordlist.tsv		
 425	to dream	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	hu'farana	nan	h u 'f a r a n a	"('to dream', 'fata1247', ""hu'farana"")"	datasets/ddgmk20160112wordlist.tsv		
@@ -467,7 +467,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 450	one	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	u'kani	nan	u 'k a n i - -	('one', 'abui1241-fuime', 'nuku')	datasets/ddgmk20160112wordlist.tsv		
 451	two	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ɛcɛ	nan	'ɛ c ɛ	"('two', 'fata1247', ""'ɛcɛ"")"	datasets/ddgmk20160112wordlist.tsv		
 452	three	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	utuɁɛ	nan	u t u Ɂ ɛ	('three', 'fata1247', 'utuɁɛ')	datasets/ddgmk20160112wordlist.tsv		
-453	four	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fa:tɛ	nan	- - - - f a: t ɛ	('four', 'amar1273-kotos', 'ha:')	datasets/ddgmk20160112wordlist.tsv		
+453	four	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fa:tɛ	nan	- - - - f a: t ɛ	('four', 'fata1247', 'fa:tɛ')	datasets/ddgmk20160112wordlist.tsv		
 454	five	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	limɛ	nan	- - l i m ɛ	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/ddgmk20160112wordlist.tsv		
 455	six	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	nɛmɛ	nan	- - - n ɛ m ɛ -	"('six', 'alor1247-baran', ""'nam:u"")"	datasets/ddgmk20160112wordlist.tsv		
 456	seven	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	fitu	nan	- f i t - - u - -	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/ddgmk20160112wordlist.tsv		
@@ -531,7 +531,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 512	bed	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	kama	nan	k a m - - a	('bed', 'fata1247', 'kama')	datasets/ddgmk20160112wordlist.tsv		
 513	chair	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ka'dɛra	nan	k a - 'd ɛ r - a	"('chair', 'fata1247', ""ka'dɛra"")"	datasets/ddgmk20160112wordlist.tsv		
 514	lamp	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	lampu	nan	l a m p u -	('lamp', 'fata1247', 'lampu')	datasets/ddgmk20160112wordlist.tsv		
-515	candle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ucu 'pacu	ucu=bee's wax, pacu=oil lamp	u c u _ 'p - a c u	('candle', 'adan1251-otvai', 'pa:n')	datasets/ddgmk20160112wordlist.tsv		
+515	candle	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ucu 'pacu	ucu=bee's wax, pacu=oil lamp	u c u _ 'p - a c u	"('candle', 'fata1247', ""ucu 'pacu"")"	datasets/ddgmk20160112wordlist.tsv		
 516	to weave	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'uta	uta=hit/pull strings (?), also used for playing guitar	- - - - - 'u t a - - - - - - -	"('to weave', 'abui1241-takal', ""ti.'ne̞i"")"	datasets/ddgmk20160112wordlist.tsv		
 517	shirt	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	faru	nan	f a r u	('shirt', 'fata1247', 'faru')	datasets/ddgmk20160112wordlist.tsv		
 518	necklace	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mani-'mani	nan	m a n i -' m a n	"('necklace', 'fata1247', ""mani-'mani"")"	datasets/ddgmk20160112wordlist.tsv		
@@ -546,8 +546,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 527	God	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'ɔcawa	'ɔcawa=the owner/creator, uru'watɕu= the one who is above everything	'ɔ c a w a - - -	"('God', 'fata1247', ""'ɔcawa"")"	datasets/ddgmk20160112wordlist.tsv		
 527	God	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	uru'watɕu	'ɔcawa=the owner/creator, uru'watɕu= the one who is above everything	u r u 'w a t ɕ u	"('God', 'fata1247', ""'ɔcawa"")"	datasets/ddgmk20160112wordlist.tsv		
 528	to pray	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'rɛza	nan	'r ɛ z a	('to pray', 'buna1278-bobon', 'reza')	datasets/ddgmk20160112wordlist.tsv		
-529	church	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	igrɛɟa	nan	- - i - g - r ɛ - ɟ a	('church', 'adan1251-otvai', 'gareʤa')	datasets/ddgmk20160112wordlist.tsv		
-530	mosque	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mɛsɟid	nan	- m ɛ s - ɟ - i d	('mosque', 'adan1251-otvai', 'umasigi')	datasets/ddgmk20160112wordlist.tsv		
+529	church	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	igrɛɟa	nan	- - i - g - r ɛ - ɟ a	"('church', 'alor1247-munas', ""gər'dʒa"")"	datasets/ddgmk20160112wordlist.tsv		
+530	mosque	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mɛsɟid	nan	- m ɛ s - ɟ - i d	('mosque', 'buna1278-bobon', 'mɛdZit')	datasets/ddgmk20160112wordlist.tsv		
 531	to curse	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	ina'cia	nan	i n a 'c ia	"('to curse', 'fata1247', ""ina'cia"")"	datasets/ddgmk20160112wordlist.tsv		
 532	priest (modern)	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	'padrɛ	nan	'p a d r ɛ	"('priest (modern)', 'fata1247', ""'padrɛ"")"	datasets/ddgmk20160112wordlist.tsv		
 533	sorcerer; witch	fata1247	Fataluku	Timor-Alor-Pantar	4Timor, 3East	mucu'panakɛ	nan	m u c u 'p a n a k ɛ	"('sorcerer; witch', 'fata1247', ""mucu'panakɛ"")"	datasets/ddgmk20160112wordlist.tsv		

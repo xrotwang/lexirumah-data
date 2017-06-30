@@ -1,5 +1,5 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fulɑŋ	nan	f u l ɑ ŋ - - -	('sky', 'adan1251-otvai', 'buraŋ')	datasets/Kafoa-Probur.tsv		
+0	sky	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fulɑŋ	nan	f u l ɑ ŋ - - -	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	datasets/Kafoa-Probur.tsv		
 1	sun	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	uru	nan	- u r u - - -	('sun', 'abui1241-fuime', 'wari')	datasets/Kafoa-Probur.tsv		
 2	moon	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ʔu.a	nan	ʔ u - a - - ( - - - - - - - - )	('moon', 'adan1251-lawah', 'hu:l')	datasets/Kafoa-Probur.tsv		
 3	star	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fʊrfɑl	nan	f ʊ r f ɑ l	('star', 'abui1241-fuime', 'fɪri')	datasets/Kafoa-Probur.tsv		
@@ -8,9 +8,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13	cloud	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑbɛkɛl	nan	t ɑ b ɛ - - - k ɛ l	"('cloud', 'abui1241-takal', ""tä.be̞ä.'kil"")"	datasets/Kafoa-Probur.tsv		
 14	wind	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hɪmɔr	nan	nan	('wind', 'abui1241-fuime', 'timoi')	datasets/Kafoa-Probur.tsv		
 21	fog	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑbɛkɛl	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	t ɑ b ɛ k ɛ l	('fog', 'abui1241-fuime', 'tabo')	datasets/Kafoa-Probur.tsv		
-22	river; stream	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kulɑ	nan	k u l ɑ - - - - -	"('river; stream', 'alor1247-baran', ""'kali"")"	datasets/Kafoa-Probur.tsv		
-25	lake	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ijɑpɑrɑ	nan	i j ɑ p ɑ r ɑ	('lake', 'abui1241-takal', 'ijä_ʋäl')	datasets/Kafoa-Probur.tsv		
-26	mountain	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	rol	nan	r o - l	('mountain', 'adan1251-otvai', 'dɔi')	datasets/Kafoa-Probur.tsv		
+22	river; stream	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kulɑ	nan	k u l ɑ - - - - -	('river; stream', 'kafo1240', 'kulɑ')	datasets/Kafoa-Probur.tsv		
+25	lake	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ijɑpɑrɑ	nan	i j ɑ p ɑ r ɑ	('lake', 'kafo1240', 'ijɑpɑrɑ')	datasets/Kafoa-Probur.tsv		
+26	mountain	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	rol	nan	r o - l	"('mountain', 'alor1247-besar', ""'dɔla balɔ'lɔkɔŋ"")"	datasets/Kafoa-Probur.tsv		
 29	land; soil	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	anɑi	nan	- a n ɑ i -	('land; soil', 'abui1241-fuime', 'anei')	datasets/Kafoa-Probur.tsv		
 32	stone	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	woi	nan	nan	('stone', 'abui1241-fuime', 'vi')	datasets/Kafoa-Probur.tsv		
 35	water (fresh)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ija	nan	- i j a - -	('water (fresh)', 'abui1241-fuime', 'je')	datasets/Kafoa-Probur.tsv		
@@ -27,60 +27,60 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 63	mat	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fuhu	nan	f - u h u -	('mat', 'adan1251-lawah', 'bahu')	datasets/Kafoa-Probur.tsv		
 65	clothing	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ʔɑlɑl	nan	ʔ ɑ l - - ɑ l	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/Kafoa-Probur.tsv		
 67	fire	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑrɑ	nan	- - - ɑ - r ɑ - - -	('fire', 'abui1241-fuime', 'ara')	datasets/Kafoa-Probur.tsv		
-68	smoke	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fonɑ	nan	- - - - - f o n ɑ - - -	('smoke', 'adan1251-lawah', 'awai_banoʔo')	datasets/Kafoa-Probur.tsv		
+68	smoke	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fonɑ	nan	- - - - - f o n ɑ - - -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/Kafoa-Probur.tsv		
 70	dust; fine earth	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑrʊi	nan	- ɑ r ʊ - i	('dust; fine earth', 'adan1251-lawah', 'malu')	datasets/Kafoa-Probur.tsv		
 71	fireplace ash	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	aruj	NOT 'debu' (dust, after you have been sweeping)	a r u j -	('fireplace ash', 'kafo1240', 'aruj')	datasets/Kafoa-Probur.tsv		
 75	sand	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mɑlɑtɑj	nan	nan	('sand', 'abui1241-fuime', 'malatai')	datasets/Kafoa-Probur.tsv		
 76	grass; brush	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	bɑloko	nan	b ɑ l o k o	('grass; brush', 'abui1241-takal', 'bä.lo.qu')	datasets/Kafoa-Probur.tsv		
 77	house	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ʔɑwi	nan	nan	('house', 'abui1241-fuime', 'fala')	datasets/Kafoa-Probur.tsv		
 84	tree	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑtɛi	nan	nan	('tree', 'adan1251-lawah', 'ti')	datasets/Kafoa-Probur.tsv		
-86	bark (of tree)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑtɛkul	nan	nan	('bark (of tree)', 'adan1251-lawah', 'ti_ʔui')	datasets/Kafoa-Probur.tsv		
+86	bark (of tree)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑtɛkul	nan	nan	('bark (of tree)', 'adan1251-lawah', 'ti ʔui')	datasets/Kafoa-Probur.tsv		
 87	leaf	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	aiyɛ	nan	- - - - - a i y ɛ -	('leaf', 'abui1241-fuime', 'watala')	datasets/Kafoa-Probur.tsv		
 91	root	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɪli:kɑŋ	nan	#NAME?	('root', 'kabo1247', 'haliʔiŋ')	datasets/Kafoa-Probur.tsv		
 92	fruit	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ʊpʊ	nan	ʊ p ʊ	('fruit', 'abui1241-petle', 'upu')	datasets/Kafoa-Probur.tsv		
 93	seed	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɑwɑl	nan	#NAME?	('seed', 'adan1251-lawah', 'awai')	datasets/Kafoa-Probur.tsv		
 96	husked rice; uncooked rice	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑiyɑkɑ	nan	ɑ i y ɑ k ɑ	('husked rice; uncooked rice', 'abui1241-fuime', 'ajak')	datasets/Kafoa-Probur.tsv		
-98	cooked rice	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑiyɑkɑ lʊm	nan	nan	('cooked rice', 'abui1241-fuime', 'ajak_ma')	datasets/Kafoa-Probur.tsv		
+98	cooked rice	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑiyɑkɑ lʊm	nan	nan	('cooked rice', 'adan1251-lawah', 'a:la meʤe')	datasets/Kafoa-Probur.tsv		
 102	betel nut; areca	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fʊi	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	datasets/Kafoa-Probur.tsv		
 103	betel vine	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mɛhɛl	nan	nan	('betel vine', 'abui1241-fuime', 'me:tiŋ')	datasets/Kafoa-Probur.tsv		
 104	lime	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	awɑi	nan	nan	('lime', 'abui1241-fuime', 'awai')	datasets/Kafoa-Probur.tsv		
-105	chew betel	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fʊihɑɑ	nan	f ʊ i h ɑɑ - - - - -	('chew betel', 'alor1249-sar-a', 'bui_si')	datasets/Kafoa-Probur.tsv		
+105	chew betel	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fʊihɑɑ	nan	f ʊ i h ɑɑ - - - - -	('chew betel', 'alor1249-sar-a', 'bui si')	datasets/Kafoa-Probur.tsv		
 106	sweet potato	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	wɑlɑn	nan	nan	('sweet potato', 'adan1251-lawah', 'falaj')	datasets/Kafoa-Probur.tsv		
 107	cassava	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑtoko	nan	nan	('cassava', 'abui1241-fuime', 'bata:ko')	datasets/Kafoa-Probur.tsv		
 108	taro	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑn.ɑhɑ	nan	ɑ n ɑ h ɑ	('taro', 'kafo1240', 'ɑn.ɑhɑ')	datasets/Kafoa-Probur.tsv		
 121	banana	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mijal	nan	nan	('banana', 'abui1241-fuime', 'musa')	datasets/Kafoa-Probur.tsv		
 128	milk	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tu:t	not 'breast'	t uu t	('milk', 'adan1251-lawah', 'toʔ')	datasets/Kafoa-Probur.tsv		
-129	salt	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑhɛl	nan	nan	('salt', 'atim1239', 'ati')	datasets/Kafoa-Probur.tsv		
+129	salt	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑhɛl	nan	nan	('salt', 'kafo1240', 'ɑhɛl')	datasets/Kafoa-Probur.tsv		
 130	fat	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑmɑdɑ	nan	t ɑ m ɑ d ɑ	('fat', 'hama1240', 'tamar')	datasets/Kafoa-Probur.tsv		
 131	flesh; meat	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mɑhɛ:l	nan	m ɑ h ɛɛ l	('flesh; meat', 'hama1240', 'mahil')	datasets/Kafoa-Probur.tsv		
 132	bone	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hiopɑ	nan	nan	('bone', 'abui1241-takal', 'te̞̞i.pä')	datasets/Kafoa-Probur.tsv		
 136	blood	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	wɛ	nan	nan	('blood', 'abui1241-fuime', 'we')	datasets/Kafoa-Probur.tsv		
 138	heart	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	rɑmoi	nan	r ɑ m o i	('heart', 'kafo1240', 'rɑmoi')	datasets/Kafoa-Probur.tsv		
-139	liver	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	to:m	nan	- - - - - - t oo m -	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	datasets/Kafoa-Probur.tsv		
-141	guts	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑtoko ir	nan	nan	('guts', 'abui1241-fuime', 'tatok_falala')	datasets/Kafoa-Probur.tsv		
-144	stomach; belly	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑtoko	nan	nan	('stomach; belly', 'abui1241-fuime', 'tatok_foko')	datasets/Kafoa-Probur.tsv		
+139	liver	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	to:m	nan	- - - - - - t oo m -	('liver', 'adan1251-lawah', 'om')	datasets/Kafoa-Probur.tsv		
+141	guts	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑtoko ir	nan	nan	('guts', 'adan1251-lawah', 'atohi')	datasets/Kafoa-Probur.tsv		
+144	stomach; belly	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑtoko	nan	nan	('stomach; belly', 'adan1251-lawah', 'atuʔu')	datasets/Kafoa-Probur.tsv		
 145	head	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	nɪnapukuj	nan	n ɪ n a p u k u j -	('head', 'kafo1240', 'nɪnapukuj')	datasets/Kafoa-Probur.tsv		
 145	head	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tapukʊi	nan	#NAME?	('head', 'kafo1240', 'nɪnapukuj')	datasets/Kafoa-Probur.tsv		
 146	hair	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑmor	nan	ɑ m o r	('hair', 'kafo1240', 'ɑmor')	datasets/Kafoa-Probur.tsv		
-148	eye	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛŋ	nan	t ɛ ŋ - - - - -	('eye', 'abui1241-fuime', 'tieŋ_bilka')	datasets/Kafoa-Probur.tsv		
-149	ear	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɛi	nan	nan	('ear', 'abui1241-fuime', 'tawei_ata')	datasets/Kafoa-Probur.tsv		
-150	nose	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑmi:ŋ	nan	nan	('nose', 'atim1239', 'taminfa')	datasets/Kafoa-Probur.tsv		
-151	mouth	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɑɑ	nan	nan	"('mouth', 'alor1247-pandai', ""wə'waŋ"")"	datasets/Kafoa-Probur.tsv		
+148	eye	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛŋ	nan	t ɛ ŋ - - - - -	('eye', 'adan1251-lawah', 'ʔɛŋwai')	datasets/Kafoa-Probur.tsv		
+149	ear	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɛi	nan	nan	('ear', 'adan1251-lawah', 'awɛbɛhɛ')	datasets/Kafoa-Probur.tsv		
+150	nose	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑmi:ŋ	nan	nan	('nose', 'hama1240', 'namiŋ')	datasets/Kafoa-Probur.tsv		
+151	mouth	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɑɑ	nan	nan	('mouth', 'kafo1240', 'tɑwɑɑ')	datasets/Kafoa-Probur.tsv		
 153	lips	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑbibɑi	nan	t ɑ b i b ɑ i	"('lips', 'alor1247-baran', ""'fifiŋ"")"	datasets/Kafoa-Probur.tsv		
 154	teeth	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɛhɛŋ	nan	nan	('teeth', 'abui1241-fuime', 'taweiti')	datasets/Kafoa-Probur.tsv		
-155	tongue	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑlip	nan	nan	"('tongue', 'abui1241-takal', ""tä.'li.fi"")"	datasets/Kafoa-Probur.tsv		
+155	tongue	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑlip	nan	nan	('tongue', 'adan1251-lawah', 'nalɛb')	datasets/Kafoa-Probur.tsv		
 156	neck	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɑt	nan	t ɑ w ɑ t - - - - - -	('neck', 'kafo1240', 'tɑwɑt')	datasets/Kafoa-Probur.tsv		
 157	shoulder	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	nɪkafɛlej	nan	n ɪ k a f ɛ l e j	('shoulder', 'abui1241-fuime', 'tabaŋ')	datasets/Kafoa-Probur.tsv		
 163	arm	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑtɑŋ	nan	nan	('arm', 'abui1241-fuime', 'tataŋ')	datasets/Kafoa-Probur.tsv		
-164	hand	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑtɑŋ	nan	t ɑ t ɑ ŋ - - - - - - -	"('hand', 'abui1241-takal', ""tä.'täŋ_pääkä"")"	datasets/Kafoa-Probur.tsv		
-167	fingernail	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kuhuŋ	nan	k u h u ŋ	('fingernail', 'abui1241-fuime', 'tataŋ_kusiŋ')	datasets/Kafoa-Probur.tsv		
+164	hand	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑtɑŋ	nan	t ɑ t ɑ ŋ - - - - - - -	('hand', 'hama1240', 'nataŋ')	datasets/Kafoa-Probur.tsv		
+167	fingernail	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kuhuŋ	nan	k u h u ŋ	('fingernail', 'adan1251-lawah', 'ʔataŋ uhuŋ')	datasets/Kafoa-Probur.tsv		
 168	breast	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tʊt	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	datasets/Kafoa-Probur.tsv		
 170	navel	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑpuhɑi	nan	t ɑ p u h - ɑ i - - - - -	('navel', 'abui1241-fuime', 'tabike')	datasets/Kafoa-Probur.tsv		
 174	leg	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛ	nan	nan	('leg', 'abui1241-fuime', 'tetuku')	datasets/Kafoa-Probur.tsv		
-175	foot	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛ	nan	nan	"('foot', 'abui1241-takal', ""ne̞̞.to.'qu_ti.'le̞i"")"	datasets/Kafoa-Probur.tsv		
-178	knee	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛbʊkʊ	nan	#NAME?	('knee', 'abui1241-fuime', 'tabala_buku')	datasets/Kafoa-Probur.tsv		
+175	foot	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛ	nan	nan	('foot', 'dein1238', 'taq')	datasets/Kafoa-Probur.tsv		
+178	knee	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛbʊkʊ	nan	#NAME?	"('knee', 'alor1249-sar-a', ""gə'fat ku"")"	datasets/Kafoa-Probur.tsv		
 179	back	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑhɑkɑŋ	nan	nan	('back', 'hama1240', 'tahɛŋ')	datasets/Kafoa-Probur.tsv		
-182	skin	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kʊ:l	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	datasets/Kafoa-Probur.tsv		
+182	skin	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kʊ:l	nan	nan	('skin', 'adan1251-lawah', 'ʔui')	datasets/Kafoa-Probur.tsv		
 190	person	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑmɑ	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	- - - - - - ɑ m ɑ - - -	('person', 'buna1278-bobon', 'ɛn')	datasets/Kafoa-Probur.tsv		
 191	name	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑnɛi	nan	nan	('name', 'abui1241-fuime', 'na-ne')	datasets/Kafoa-Probur.tsv		
 192	child	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	wɛl	nan	w ɛ l - - -	('child', 'kafo1240', 'wɛl')	datasets/Kafoa-Probur.tsv		
@@ -102,13 +102,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 249	tail	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɑwɑikɑi	nan	g ɑ w ɑ i k ɑ i	('tail', 'abui1241-fuime', 'ha-wai')	datasets/Kafoa-Probur.tsv		
 250	fish	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑfʊi	nan	nan	('fish', 'abui1241-fuime', 'afu')	datasets/Kafoa-Probur.tsv		
 254	crocodile	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fɑɰɑi	nan	- - f ɑ ɰ ɑ i - - - - - - - - - - - -	('crocodile', 'abui1241-fuime', 'fahai')	datasets/Kafoa-Probur.tsv		
-259	bird	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hitɛnɑ	nan	nan	('bird', 'adan1251-lawah', 'hiu_walɛwɛŋ')	datasets/Kafoa-Probur.tsv		
+259	bird	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hitɛnɑ	nan	nan	('bird', 'adan1251-lawah', 'hiu walɛwɛŋ')	datasets/Kafoa-Probur.tsv		
 260	wing	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɑbɑki	nan	g ɑ b ɑ k i - -	('wing', 'kafo1240', 'gɑbɑki')	datasets/Kafoa-Probur.tsv		
 261	claw	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hipɑr	nan	h i p ɑ r	('claw', 'kafo1240', 'hipɑr')	datasets/Kafoa-Probur.tsv		
 262	feather	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hiɑmʊr	nan	h i ɑ m ʊ r	('feather', 'kafo1240', 'hiɑmʊr')	datasets/Kafoa-Probur.tsv		
 263	horn	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɰɑmuku	nan	nan	('horn', 'abui1241-fuime', 'ha-muk')	datasets/Kafoa-Probur.tsv		
 264	snake	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mʊn	nan	nan	('snake', 'abui1241-fuime', 'mon')	datasets/Kafoa-Probur.tsv		
-266	egg	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	irʊ	nan	- i - r ʊ	('egg', 'adan1251-lawah', '(hiu)_do')	datasets/Kafoa-Probur.tsv		
+266	egg	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	irʊ	nan	- i - r ʊ	('egg', 'adan1251-lawah', '(hiu) do')	datasets/Kafoa-Probur.tsv		
 267	earthworm	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	burɛl	nan	b u r ɛ l	('earthworm', 'kafo1240', 'burɛl')	datasets/Kafoa-Probur.tsv		
 275	headlice	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ʔikoŋ	nan	ʔ i k - o ŋ	('headlice', 'abui1241-fuime', 'bikeŋ')	datasets/Kafoa-Probur.tsv		
 281	big	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	lɛi.ɑ	nan	nan	('big', 'baka1276', 'le')	datasets/Kafoa-Probur.tsv		
@@ -127,12 +127,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 298	dry in sun	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	upoi	nan	- - - - u p o i - - - -	('dry', 'keda1252-leuwa', 'pariʔ')	datasets/Kafoa-Probur.tsv		
 304	skinny (human)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑkɑtɑ	nan	t ɑ k ɑ t ɑ	('skinny (human)', 'adan1251-lawah', 'taʔata')	datasets/Kafoa-Probur.tsv		
 305	thick	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑpɑhɑ	nan	t ɑ p ɑ h ɑ	('thick', 'abui1241-fuime', 'ta:pati')	datasets/Kafoa-Probur.tsv		
-306	round	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kupul	nan	k u p u l	"('round', 'kaer1234-obsol', ""ko'pol"")"	datasets/Kafoa-Probur.tsv		
+306	round	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kupul	nan	k u p u l	('round', 'kafo1240', 'kupul')	datasets/Kafoa-Probur.tsv		
 307	dark	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	pɑnɑu	nan	p ɑ n ɑ u	('dark', 'kafo1240', 'pɑnɑu')	datasets/Kafoa-Probur.tsv		
 309	dirty	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	binɑu	nan	b i n ɑ - u	('dirty', 'kafo1240', 'binɑu')	datasets/Kafoa-Probur.tsv		
 311	sharp	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	bulɑ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	b u l ɑ	('sharp', 'kafo1240', 'bulɑ')	datasets/Kafoa-Probur.tsv		
 312	blunt; dull	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tupɑi	nan	nan	('blunt; dull', 'abui1241-fuime', 'topiŋ')	datasets/Kafoa-Probur.tsv		
-313	heavy	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hiforɑ	nan	nan	('heavy', 'alor1249-sar-a', 'səfúr')	datasets/Kafoa-Probur.tsv		
+313	heavy	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hiforɑ	nan	nan	"('heavy', 'alor1249-sar-a', ""sə'fur"")"	datasets/Kafoa-Probur.tsv		
 315	straight	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɑfurɑ	nan	k ɑ f u r ɑ	('straight', 'adan1251-lawah', 'abuluʔ')	datasets/Kafoa-Probur.tsv		
 316	wide	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tukɑ	nan	t u k ɑ	('wide', 'kafo1240', 'tukɑ')	datasets/Kafoa-Probur.tsv		
 318	correct	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fɛŋ	nan	f ɛ ŋ	('correct', 'kafo1240', 'fɛŋ')	datasets/Kafoa-Probur.tsv		
@@ -146,7 +146,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 333	blue	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	biluɑi	nan	b i l u ɑ i	"('blue', 'alor1247-baran', ""ba'lapã"")"	datasets/Kafoa-Probur.tsv		
 334	yellow	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fijʊi	nan	f i j ʊ i	('yellow', 'kafo1240', 'fijʊi')	datasets/Kafoa-Probur.tsv		
 339	blind	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɛŋ.ɑrʊi	nan	t ɛ ŋ ɑ r ʊ i	('blind', 'kafo1240', 'tɛŋ.ɑrʊi')	datasets/Kafoa-Probur.tsv		
-340	deaf	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	pɑlɑkɑ	nan	#NAME?	('deaf', 'abui1241-fuime', 'tawei_beaka')	datasets/Kafoa-Probur.tsv		
+340	deaf	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	pɑlɑkɑ	nan	#NAME?	('deaf', 'hama1240', 'afɛʔ')	datasets/Kafoa-Probur.tsv		
 341	scared	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mʊrɑ	nan	m ʊ r ɑ	('scared', 'kafo1240', 'mʊrɑ')	datasets/Kafoa-Probur.tsv		
 343	to see	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ʊrʊi	nan	nan	('to see', 'abui1241-fuime', 'he-rei')	datasets/Kafoa-Probur.tsv		
 344	to hear	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ʊjɛpɛŋ	nan	ʊ j ɛ p ɛ ŋ	('to hear', 'adan1251-lawah', 'ʔalɛpɛŋ')	datasets/Kafoa-Probur.tsv		
@@ -159,9 +159,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 352	to lie down	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑ	nan	nan	('to lie down', 'abui1241-fuime', 'ta')	datasets/Kafoa-Probur.tsv		
 353	to sleep	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑ	nan	t ɑ - - -	('to sleep', 'abui1241-fuime', 'ta')	datasets/Kafoa-Probur.tsv		
 354	to wake up	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	nɑtɛi	nan	n ɑ t ɛ i	('to wake up', 'adan1251-lawah', 'tohø')	datasets/Kafoa-Probur.tsv		
-355	to wake someone up	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɰɑmɑhonɑtɛi	nan	ɰ ɑ m ɑ h o n ɑ t ɛ i	('to wake someone up', 'adan1251-otvai', 'aden_to')	datasets/Kafoa-Probur.tsv		
+355	to wake someone up	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɰɑmɑhonɑtɛi	nan	ɰ ɑ m ɑ h o n ɑ t ɛ i	"('to wake someone up', 'alor1249-sar-a', ""ga'tan"")"	datasets/Kafoa-Probur.tsv		
 356	to bathe	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	wɛlɑ	nan	nan	('to bathe', 'abui1241-fuime', 'tawel')	datasets/Kafoa-Probur.tsv		
-357	to bathe (a child)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɑwɛlɑ	nan	nan	('to bathe (a child)', 'abui1241-takal', 'di_hä.ʋe̞l')	datasets/Kafoa-Probur.tsv		
+357	to bathe (a child)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɑwɛlɑ	nan	nan	('to bathe (a child)', 'adan1251-lawah', 'ʔei awili')	datasets/Kafoa-Probur.tsv		
 358	to sit	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mi	nan	nan	('to sit', 'atim1239', 'miti')	datasets/Kafoa-Probur.tsv		
 359	to stand	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	nɑtɛi	nan	nan	('to stand', 'abui1241-fuime', 'nate')	datasets/Kafoa-Probur.tsv		
 360	to walk	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	lɑɑkɑ	nan	l ɑɑ k ɑ -	('to walk', 'abui1241-fuime', 'lak')	datasets/Kafoa-Probur.tsv		
@@ -170,13 +170,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 364	to fly	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	li.ɑ	nan	nan	('to fly', 'abui1241-fuime', 'li')	datasets/Kafoa-Probur.tsv		
 365	to fall (from above)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mʊ	nan	m ʊ - - - - - - - -	"('to fall (from above)', 'idat1237', ""mɑ'nahu"")"	datasets/Kafoa-Probur.tsv		
 367	to drop	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	nɑɰɑmʊ	nan	n ɑ ɰ ɑ m ʊ	('to drop', 'alor1249-sar-a', 'məhud')	datasets/Kafoa-Probur.tsv		
-368	to drink	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	uhu	nan	u h u	('clothing', 'keda1252', 'ulialen')	datasets/Kafoa-Probur.tsv		
+368	to drink	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	uhu	nan	u h u	('to drink', 'kafo1240', 'uhu')	datasets/Kafoa-Probur.tsv		
 369	to eat	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɑrɑi	nan	k ɑ r ɑ i	('to eat', 'kafo1240', 'kɑrɑi')	datasets/Kafoa-Probur.tsv		
 370	to cook	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑlum	nan	ɑ l u m	('to cook', 'kafo1240', 'ɑlum')	datasets/Kafoa-Probur.tsv		
 371	to wash	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ulɑm	nan	- u l ɑ m - - -	('to wash', 'adan1251-lawah', 'la:m')	datasets/Kafoa-Probur.tsv		
 372	to sew	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hi.otɑ	nan	- - - h i - - o t ɑ - - - - - - -	('to sew', 'adan1251-lawah', 'narotoʔ')	datasets/Kafoa-Probur.tsv		
-373	to live; be alive; living	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	dobirɑŋ	nan	d o b i r ɑ ŋ	('to live; be alive; living', 'adan1251-lawah', 'wɛcɛŋ')	datasets/Kafoa-Probur.tsv		
-374	to breathe	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑkɛŋfɑl	nan	ɑ k ɛ ŋ f ɑ l	('to breathe', 'adan1251-otvai', 'aʔeŋ_baliŋ')	datasets/Kafoa-Probur.tsv		
+373	to live; be alive; living	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	dobirɑŋ	nan	d o b i r ɑ ŋ	('to live; be alive; living', 'adan1251-lawah', 'wɛʧɛŋ')	datasets/Kafoa-Probur.tsv		
+374	to breathe	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑkɛŋfɑl	nan	ɑ k ɛ ŋ f ɑ l	('to breathe', 'hama1240', 'aʔ.ɛŋbariŋ')	datasets/Kafoa-Probur.tsv		
 376	to die	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	imon	nan	nan	('to die', 'abui1241-fuime', 'moŋ')	datasets/Kafoa-Probur.tsv		
 377	to give	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɛn.ɑ	nan	#NAME?	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	datasets/Kafoa-Probur.tsv		
 378	to wipe	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ut.ɑmʊhʊ	nan	u t ɑ m ʊ h ʊ	('to wipe', 'kafo1240', 'ut.ɑmʊhʊ')	datasets/Kafoa-Probur.tsv		
@@ -186,15 +186,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 382	to dance	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	sʊjɑŋ	nan	s ʊ j ɑ ŋ	('to dance', 'abui1241-fuime', 'tohaijok')	datasets/Kafoa-Probur.tsv		
 383	to sing	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɪrɪn	nan	ɪ r ɪ n	('to sing', 'kafo1240', 'ɪrɪn')	datasets/Kafoa-Probur.tsv		
 385	to burn; to shine	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɛijɑ	nan	g ɛ i j ɑ	('to burn; to shine', 'kafo1240', 'gɛijɑ')	datasets/Kafoa-Probur.tsv		
-389	to suck	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	dumɑ	nan	- - d u m ɑ - - - -	"('to suck', 'alor1247-baran', ""'dum:ɔ"")"	datasets/Kafoa-Probur.tsv		
+389	to suck	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	dumɑ	nan	- - d u m ɑ - - - -	('to suck', 'baka1276', 'kədúmu')	datasets/Kafoa-Probur.tsv		
 390	to blow	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɰɑpuɑ	nan	- - - ɰ ɑ p u ɑ - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	datasets/Kafoa-Probur.tsv		
 391	to spit	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mɑlɛipun	nan	m ɑ l ɛ i p u - n	('to spit', 'hama1240', 'maripʊid')	datasets/Kafoa-Probur.tsv		
 392	to vomit	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	i:	nan	nan	('to vomit', 'abui1241-fuime', 'iu')	datasets/Kafoa-Probur.tsv		
 393	to rub	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	goluhu	nan	g o l u h u -	('to rub', 'abui1241-fuime', 'we-lu:ke')	datasets/Kafoa-Probur.tsv		
 394	to scratch	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ukɑfi	nan	#NAME?	('to scratch', 'abui1241-fuime', 'kafie')	datasets/Kafoa-Probur.tsv		
-396	to swell	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	wɑlɑ	nan	- - - - w ɑ l ɑ -	('to swell', 'alor1249-sar-a', 'wará')	datasets/Kafoa-Probur.tsv		
+396	to swell	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	wɑlɑ	nan	- - - - w ɑ l ɑ -	"('to swell', 'alor1249-sar-a', ""wa'ra"")"	datasets/Kafoa-Probur.tsv		
 397	to hit	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	bɑlɑi	nan	#NAME?	('to hit', 'abui1241-fuime', 'tebol')	datasets/Kafoa-Probur.tsv		
-399	to bite	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɛhɛ	nan	g ɛ - - h ɛ	('to bite', 'adan1251-lawah', '(bɛl)_ʔihi')	datasets/Kafoa-Probur.tsv		
+399	to bite	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɛhɛ	nan	g ɛ - - h ɛ	('to bite', 'adan1251-lawah', '(bɛl) ʔihi')	datasets/Kafoa-Probur.tsv		
 400	to cut	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tokon	nan	t o k o n	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Kafoa-Probur.tsv		
 402	to split	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	holɑ	nan	h o l ɑ	('to split', 'blag1240-warsa', 'soli')	datasets/Kafoa-Probur.tsv		
 404	to stab	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑkɑ	nan	t ɑ k ɑ	('to stab', 'blag1240-bama', 'taqiŋ')	datasets/Kafoa-Probur.tsv		
@@ -202,22 +202,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 406	to fight	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑŋgɛnɑ	nan	t ɑ ŋ g ɛ n ɑ	('to fight', 'kafo1240', 'tɑŋgɛnɑ')	datasets/Kafoa-Probur.tsv		
 408	to throw	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gurɑ	nan	nan	('to throw', 'atim1239', 'huor')	datasets/Kafoa-Probur.tsv		
 409	to hunt	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kʊigɛtɑŋ	nan	k ʊ i g ɛ t ɑ ŋ	"('to hunt', 'abui1241-takal', ""hä.'tä:ŋ"")"	datasets/Kafoa-Probur.tsv		
-410	to kill	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɟɑimon	nan	nan	('to kill', 'abui1241-petle', 'bol_moŋ')	datasets/Kafoa-Probur.tsv		
+410	to kill	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɟɑimon	nan	nan	('to kill', 'adan1251-lawah', 'aminiʔ')	datasets/Kafoa-Probur.tsv		
 413	to search for; to hunt for	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	jɑɑp	nan	j ɑɑ p	('to search for; to hunt for', 'adan1251-lawah', 'la:p')	datasets/Kafoa-Probur.tsv		
 414	to dig	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	jumɑ	nan	j u m ɑ	('to dig', 'kafo1240', 'jumɑ')	datasets/Kafoa-Probur.tsv		
-416	to flow	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɛl	nan	t ɑ w - ɛ l -	('to flow', 'abui1241-fuime', 'ije_tawele')	datasets/Kafoa-Probur.tsv		
-417	to float	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑulʊl	nan	t ɑ u - - - l ʊ l - - - - -	('to float', 'abui1241-fuime', 'ije_fauiti')	datasets/Kafoa-Probur.tsv		
+416	to flow	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑwɛl	nan	t ɑ w - ɛ l -	('to flow', 'adan1251-lawah', 'tawoi')	datasets/Kafoa-Probur.tsv		
+417	to float	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑulʊl	nan	t ɑ u - - - l ʊ l - - - - -	('to float', 'adan1251-lawah', 'tɛdɛʔ')	datasets/Kafoa-Probur.tsv		
 419	to hold	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gopun	nan	nan	('to hold', 'abui1241-fuime', 'ho-puna')	datasets/Kafoa-Probur.tsv		
-420	to tie	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	pɑsɑ	nan	p ɑ s ɑ - -	('to tie', 'adan1251-lawah', 'ʔapeceʔ')	datasets/Kafoa-Probur.tsv		
+420	to tie	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	pɑsɑ	nan	p ɑ s ɑ - -	('to tie', 'adan1251-lawah', 'ʔapeʧeʔ')	datasets/Kafoa-Probur.tsv		
 421	to play	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɪrɑ	nan	k ɪ r ɑ	('to play', 'buna1278-bobon', 'kisaɁ')	datasets/Kafoa-Probur.tsv		
 422	to pull	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɑfɪki	nan	g ɑ f ɪ k i -	('to pull', 'abui1241-fuime', 'ha-fik')	datasets/Kafoa-Probur.tsv		
 423	to push	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɑrubɑŋ	nan	g ɑ r u b ɑ ŋ	"('to push', 'alor1247-baran', ""'tɔbaŋ"")"	datasets/Kafoa-Probur.tsv		
 424	to turn	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	migɑwɑi	nan	nan	('to turn', 'abui1241-fuime', 'awai')	datasets/Kafoa-Probur.tsv		
 424	to turn	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	miɰɑwɑi	nan	nan	('to turn', 'abui1241-fuime', 'awai')	datasets/Kafoa-Probur.tsv		
-442	to shoot	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mɑsɑŋ	nan	m ɑ s ɑ ŋ	('to shoot', 'adan1251-otvai', 'masaŋ')	datasets/Kafoa-Probur.tsv		
+442	to shoot	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	mɑsɑŋ	nan	m ɑ s ɑ ŋ	"('to shoot', 'alor1247-baran', ""'pasa"")"	datasets/Kafoa-Probur.tsv		
 449	to count	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	gɑlɛkɛi	nan	g ɑ l ɛ k ɛ i	"('to count', 'abui1241-takal', ""hä.läq.'dä"")"	datasets/Kafoa-Probur.tsv		
 450	one	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	nuku	nan	nan	('one', 'abui1241-fuime', 'nuku')	datasets/Kafoa-Probur.tsv		
-451	two	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	a:ku	nan	nan	('two', 'atim1239', 'ayoku')	datasets/Kafoa-Probur.tsv		
+451	two	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	a:ku	nan	nan	('two', 'atim1239', 'ajoku')	datasets/Kafoa-Probur.tsv		
 452	three	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	su.ɑi	nan	s u - ɑ i	('three', 'abui1241-fuime', 'sua')	datasets/Kafoa-Probur.tsv		
 453	four	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	butɑi	nan	nan	('four', 'abui1241-fuime', 'buti')	datasets/Kafoa-Probur.tsv		
 454	five	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	iwɛhɛŋ	nan	nan	('five', 'abui1241-fuime', 'jetiŋ')	datasets/Kafoa-Probur.tsv		
@@ -225,12 +225,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 456	seven	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	bisʊ	nan	#NAME?	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/Kafoa-Probur.tsv		
 457	eight	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tudɑroko	nan	t u d ɑ r o k o	('eight', 'adan1251-lawah', 'turloʔ')	datasets/Kafoa-Probur.tsv		
 458	nine	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tikɑinuku	nan	t i k ɑ i n u k u	('nine', 'adan1251-lawah', 'tiʔinu')	datasets/Kafoa-Probur.tsv		
-459	ten	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɑrnuku	nan	nan	('ten', 'abui1241-fuime', 'kar_nuku')	datasets/Kafoa-Probur.tsv		
-469	twenty	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɑr.ijɑk.u	nan	- - - - - k ɑ r - i j ɑ k u	('twenty', 'abui1241-fuime', 'kar_ajoku')	datasets/Kafoa-Probur.tsv		
-482	one hundred	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑsɑɰɑnuku	nan	ɑ s ɑ ɰ ɑ n u k u - - - - -	('one hundred', 'abui1241-fuime', 'aisa:_nuku')	datasets/Kafoa-Probur.tsv		
+459	ten	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɑrnuku	nan	nan	('ten', 'adan1251-lawah', 'airnu')	datasets/Kafoa-Probur.tsv		
+469	twenty	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	kɑr.ijɑk.u	nan	- - - - - k ɑ r - i j ɑ k u	('twenty', 'adan1251-lawah', 'airialu')	datasets/Kafoa-Probur.tsv		
+482	one hundred	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	ɑsɑɰɑnuku	nan	ɑ s ɑ ɰ ɑ n u k u - - - - -	('one hundred', 'kafo1240', 'ɑsɑɰɑnuku')	datasets/Kafoa-Probur.tsv		
 487	grandmother	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	bɑpɑ	The kinship task also asks for this term	b ɑ p ɑ - - - -	('grandmother', 'adan1251-lawah', 'bapa')	datasets/Kafoa-Probur.tsv		
 489	grandchild	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	hilʊwɑŋ	The kinship task also asks for this term	h i l ʊ w ɑ ŋ	"('grandchild', 'fata1247', ""ca'luwɛ"")"	datasets/Kafoa-Probur.tsv		
-588	flower (in e.g. mangga tree)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fumɑ	nan	- - - f u - m ɑ -	('flower (in e.g. mangga tree)', 'adan1251-otvai', 'ti_buŋ')	datasets/Kafoa-Probur.tsv		
-590	long (stick)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	lʊi	nan	#NAME?	('long (stick)', 'adan1251-otvai', 'tilai')	datasets/Kafoa-Probur.tsv		
+588	flower (in e.g. mangga tree)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	fumɑ	nan	- - - f u - m ɑ -	('flower (in e.g. mangga tree)', 'baka1276', 'buma')	datasets/Kafoa-Probur.tsv		
+590	long (stick)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	lʊi	nan	#NAME?	('long (stick)', 'hama1240', 'lai')	datasets/Kafoa-Probur.tsv		
 592	short (stick)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tukɑ	nan	- - - t u k ɑ -	('short (stick)', 'alor1249-sar-a', 'tuk')	datasets/Kafoa-Probur.tsv		
-593	narrow (road)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑpʊhi	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	t ɑ p ʊ h i	('narrow (road)', 'adan1251-otvai', 'kapuh')	datasets/Kafoa-Probur.tsv		
+593	narrow (road)	kafo1240	Kafoa-Probur	Timor-Alor-Pantar	3Alor, 1West	tɑpʊhi	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	t ɑ p ʊ h i	"('narrow (road)', 'alor1247-baran', ""ki'p:ɛ"")"	datasets/Kafoa-Probur.tsv		

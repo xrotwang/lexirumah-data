@@ -1,33 +1,33 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	buluŋ	nan	b u l u ŋ - - -	('sky', 'adan1251-otvai', 'buraŋ')	datasets/Kabola-Monbang.tsv		
+0	sky	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	buluŋ	nan	b u l u ŋ - - -	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	datasets/Kabola-Monbang.tsv		
 1	sun	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wer	(also day)	w e r - - - -	('sun', 'abui1241-fuime', 'wari')	datasets/Kabola-Monbang.tsv		
 2	moon	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wul	nan	nan	('moon', 'abui1241-fuime', 'ije')	datasets/Kabola-Monbang.tsv		
 3	star	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ib	nan	nan	('star', 'abui1241-fuime', 'fɪri')	datasets/Kabola-Monbang.tsv		
-4	night	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dilku	nan	d i l k u - - - - - -	('night', 'adan1251-lawah', 'dil_ʔuʔu')	datasets/Kabola-Monbang.tsv		
-5	day	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wer	(also sun)	w e r -	('day', 'adan1251-lawah', 'wɛd_saha')	datasets/Kabola-Monbang.tsv		
+4	night	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dilku	nan	d i l k u - - - - - -	('night', 'adan1251-lawah', 'dil ʔuʔu')	datasets/Kabola-Monbang.tsv		
+5	day	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wer	(also sun)	w e r -	('day', 'adan1251-lawah', 'wɛd saha')	datasets/Kabola-Monbang.tsv		
 7	morning	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lalami	nan	l a l a m i	('morning', 'adan1251-lawah', 'lalami')	datasets/Kabola-Monbang.tsv		
 8	yesterday	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kumi	nan	#NAME?	('yesterday', 'kabo1247', 'kumi')	datasets/Kabola-Monbang.tsv		
-9	day before yesterday	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	otoriŋ olomi	nan	- o t o r i ŋ - _ - o - - l o m i	('day before yesterday', 'adan1251-lawah', 'ʔotariŋ_alumi')	datasets/Kabola-Monbang.tsv		
+9	day before yesterday	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	otoriŋ olomi	nan	- o t o r i ŋ - _ - o - - l o m i	('day before yesterday', 'adan1251-lawah', 'ʔotariŋ alumi')	datasets/Kabola-Monbang.tsv		
 10	tomorrow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dilele	nan	d i l e l e	('tomorrow', 'adan1251-lawah', 'dilɛlɛ')	datasets/Kabola-Monbang.tsv		
-11	day after tomorrow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	holo	nan	- - - - - - - h o l o - - - - - -	('day after tomorrow', 'abui1241-fuime', 'ayoku')	datasets/Kabola-Monbang.tsv		
+11	day after tomorrow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	holo	nan	- - - - - - - h o l o - - - - - -	('day after tomorrow', 'abui1241-fuime', 'ajoku')	datasets/Kabola-Monbang.tsv		
 13	cloud	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	la:b	(also fog)	- - l aː b - -	('cloud', 'adan1251-lawah', 'la:b')	datasets/Kabola-Monbang.tsv		
 14	wind	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	so:mi	nan	nan	('wind', 'abui1241-fuime', 'timoi')	datasets/Kabola-Monbang.tsv		
 15	rain	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nui	nan	#NAME?	('rain', 'abui1241-fuime', 'anui')	datasets/Kabola-Monbang.tsv		
 17	rainbow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	la:b	(?? same as fog and cloud?)	l aː b	('rainbow', 'kabo1247', 'la:b')	datasets/Kabola-Monbang.tsv		
 18	thunder	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	harib	bunyinya	h a r i b - - - - - -	('thunder', 'adan1251-lawah', 'harib')	datasets/Kabola-Monbang.tsv		
-19	lightning	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	méreʔ	kilatan, cahaya	m é r e ʔ	('lightning', 'baka1276', 'bil_məlélak')	datasets/Kabola-Monbang.tsv		
-20	earthquake	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tiyoko	nan	- t i y o k o -	('earthquake', 'abui1241-fuime', 'taiyoka')	datasets/Kabola-Monbang.tsv		
+19	lightning	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	méreʔ	kilatan, cahaya	m é r e ʔ	('lightning', 'baka1276', 'bil məlélak')	datasets/Kabola-Monbang.tsv		
+20	earthquake	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tiyoko	nan	- t i y o k o -	('earthquake', 'abui1241-fuime', 'taijoka')	datasets/Kabola-Monbang.tsv		
 21	fog	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	la:b	(same as cloud); kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	l aː b	('fog', 'kabo1247', 'la:b')	datasets/Kabola-Monbang.tsv		
 22	river; stream	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mɔl	nan	m ɔ - - l	('river; stream', 'adan1251-lawah', 'møl')	datasets/Kabola-Monbang.tsv		
-26	mountain	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bini	nan	b i n i	('mountain', 'adan1251-lawah', 'bIni')	datasets/Kabola-Monbang.tsv		
+26	mountain	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bini	nan	b i n i	('mountain', 'adan1251-lawah', 'bini')	datasets/Kabola-Monbang.tsv		
 27	hill; ridge	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bini	nan	b i n i	('hill; ridge', 'kabo1247', 'bini')	datasets/Kabola-Monbang.tsv		
-28	village	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baŋ eme	nan	b a ŋ _ e m e	('village', 'adan1251-lawah', 'baŋ_ʔɛme')	datasets/Kabola-Monbang.tsv		
+28	village	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baŋ eme	nan	b a ŋ _ e m e	('village', 'adan1251-lawah', 'baŋ ʔɛme')	datasets/Kabola-Monbang.tsv		
 29	land; soil	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	waʔai	nan	w a ʔ a i	('land; soil', 'adan1251-lawah', 'faʔai')	datasets/Kabola-Monbang.tsv		
 30	Earth	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	peliʔi	nan	p e l i ʔ i	('Earth', 'kabo1247', 'peliʔi')	datasets/Kabola-Monbang.tsv		
 31	hole	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lówo	nan	l ów o	('hole', 'kabo1247', 'lówo')	datasets/Kabola-Monbang.tsv		
 32	stone	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wi	nan	nan	('stone', 'abui1241-fuime', 'vi')	datasets/Kabola-Monbang.tsv		
-33	coral (rock)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	koʔoi	batu (rock) di pantai	k o ʔ o i - - - -	('coral (rock)', 'adan1251-lawah', 'ʔoʔoi_fui')	datasets/Kabola-Monbang.tsv		
-34	(coral) reef	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tonkar	karang (reef) di dasar laut	nan	('(coral) reef', 'alor1249-sar-a', 'tómi')	datasets/Kabola-Monbang.tsv		
+33	coral (rock)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	koʔoi	batu (rock) di pantai	k o ʔ o i - - - -	('coral (rock)', 'adan1251-lawah', 'ʔoʔoi fui')	datasets/Kabola-Monbang.tsv		
+34	(coral) reef	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tonkar	karang (reef) di dasar laut	nan	"('(coral) reef', 'alor1249-sar-a', ""'tomi"")"	datasets/Kabola-Monbang.tsv		
 35	water (fresh)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	jiʔ	nan	- - j i ʔ -	('water (fresh)', 'abui1241-fuime', 'je')	datasets/Kabola-Monbang.tsv		
 36	sea; sea water	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	taŋ	nan	t a ŋ -	('sea; sea water', 'abui1241-fuime', 'tama')	datasets/Kabola-Monbang.tsv		
 37	wave	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bobo	nan	b o b o	('wave', 'abui1241-fuime', 'fou')	datasets/Kabola-Monbang.tsv		
@@ -43,8 +43,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 53	axe	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baliŋ boʔoboy	nan	nan	('axe', 'abui1241-fuime', 'faliŋ')	datasets/Kabola-Monbang.tsv		
 54	spear	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kába	nan	k á b a - -	"('spear', 'abui1241-takal', ""kä.'fäk"")"	datasets/Kabola-Monbang.tsv		
 55	burden stick	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	peheʔ	(there was much confusion between ‘burden stick’, ‘bow’ and ‘arrow’; these could be mixed up)	p e h e ʔ	('burden stick', 'kabo1247', 'peheʔ')	datasets/Kabola-Monbang.tsv		
-56	stick; pole	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti bo	(= tree stalk)	t i _ b o	('stick; pole', 'kabo1247', 'ti_bo')	datasets/Kabola-Monbang.tsv		
-57	digging stick	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baliŋ	nan	b a l i ŋ	('digging stick', 'buna1278-bobon', 'bɛsi_bulu')	datasets/Kabola-Monbang.tsv		
+56	stick; pole	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti bo	(= tree stalk)	t i _ b o	('stick; pole', 'kabo1247', 'ti bo')	datasets/Kabola-Monbang.tsv		
+57	digging stick	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baliŋ	nan	b a l i ŋ	('digging stick', 'kabo1247', 'baliŋ')	datasets/Kabola-Monbang.tsv		
 59	bow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	koboriŋ	nan	k o b o r i ŋ	('bow', 'kabo1247', 'koboriŋ')	datasets/Kabola-Monbang.tsv		
 60	arrow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	u:l	nan	nan	"('arrow', 'abui1241-takal', ""kä.'fuq"")"	datasets/Kabola-Monbang.tsv		
 61	knife	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dur	nan	d u - - - r	('knife', 'abui1241-fuime', 'lui')	datasets/Kabola-Monbang.tsv		
@@ -52,12 +52,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 63	mat	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bloni	nan	b l o n i -	('mat', 'kabo1247', 'bloni')	datasets/Kabola-Monbang.tsv		
 64	needle	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bátaŋ	nan	b á t a ŋ	('needle', 'adan1251-lawah', 'bátuŋ')	datasets/Kabola-Monbang.tsv		
 67	fire	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awal	nan	a - w a - l - - - -	('fire', 'abui1241-fuime', 'ara')	datasets/Kabola-Monbang.tsv		
-68	smoke	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	a:b bəneʔo	nan	aa b - - _ b ə n e ʔ o -	('smoke', 'adan1251-lawah', 'awai_banoʔo')	datasets/Kabola-Monbang.tsv		
-68	smoke	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awal bəneʔo	nan	a w a l _ b ə n e ʔ o -	('smoke', 'adan1251-lawah', 'awai_banoʔo')	datasets/Kabola-Monbang.tsv		
+68	smoke	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	a:b bəneʔo	nan	aa b - - _ b ə n e ʔ o -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/Kabola-Monbang.tsv		
+68	smoke	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awal bəneʔo	nan	a w a l _ b ə n e ʔ o -	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/Kabola-Monbang.tsv		
 71	fireplace ash	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mɔl	(same as river???); NOT 'debu' (dust, after you have been sweeping)	m ɔ l - - -	('fireplace ash', 'adan1251-lawah', 'ma:lu')	datasets/Kabola-Monbang.tsv		
 72	mud	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	pára	nan	p á r a	('mud', 'adan1251-lawah', 'parah')	datasets/Kabola-Monbang.tsv		
-73	clay	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	waʔay	nan	w a ʔ a y	('clay', 'adan1251-lawah', 'faʔai_fiu')	datasets/Kabola-Monbang.tsv		
-74	gravel	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(w)uy kawál	nan	u y _ k a - - w á l	('gravel', 'kabo1247', '(w)uy_kawál')	datasets/Kabola-Monbang.tsv		
+73	clay	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	waʔay	nan	w a ʔ a y	('clay', 'adan1251-lawah', 'faʔai fiu')	datasets/Kabola-Monbang.tsv		
+74	gravel	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(w)uy kawál	nan	u y _ k a - - w á l	('gravel', 'kabo1247', '(w)uy kawál')	datasets/Kabola-Monbang.tsv		
 75	sand	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	woitjo	nan	w o i t j o	('sand', 'kabo1247', 'woitjo')	datasets/Kabola-Monbang.tsv		
 76	grass; brush	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lúyu	nan	l ú y u	('grass; brush', 'kabo1247', 'lúyu')	datasets/Kabola-Monbang.tsv		
 77	house	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baŋ	nan	b a ŋ	('house', 'abui1241-fuime', 'fala')	datasets/Kabola-Monbang.tsv		
@@ -68,18 +68,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 82	(thatch) roof	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	uwaʔ	nan	nan	"('(thatch) roof', 'abui1241-takal', ""'wäj"")"	datasets/Kabola-Monbang.tsv		
 83	roof thatch	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	men	nan	#NAME?	('roof thatch', 'abui1241-fuime', 'ameŋ')	datasets/Kabola-Monbang.tsv		
 84	tree	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tiʔ	nan	nan	('tree', 'adan1251-lawah', 'ti')	datasets/Kabola-Monbang.tsv		
-86	bark (of tree)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti baʔai	nan	nan	('bark (of tree)', 'adan1251-otvai', 'ti_fah')	datasets/Kabola-Monbang.tsv		
+86	bark (of tree)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti baʔai	nan	nan	('bark (of tree)', 'kabo1247', 'ti baʔai')	datasets/Kabola-Monbang.tsv		
 87	leaf	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti beheʔ	nan	t i - _ b e h - e ʔ	('leaf', 'abui1241-fuime', 'watala')	datasets/Kabola-Monbang.tsv		
 88	branch	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ataŋ	(also arm/hand); cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	datasets/Kabola-Monbang.tsv		
-89	firewood	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ha:	nan	#NAME?	('firewood', 'abui1241-fuime', 'ara_wa:siŋ')	datasets/Kabola-Monbang.tsv		
+89	firewood	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ha:	nan	#NAME?	('firewood', 'adan1251-lawah', 'a: taʔata')	datasets/Kabola-Monbang.tsv		
 90	rattan	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	loyoʔ	nan	l o y - o ʔ	('rattan', 'adan1251-lawah', 'lɛʔ')	datasets/Kabola-Monbang.tsv		
 91	root	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	haliʔiŋ	nan	h a l i ʔ i ŋ	('root', 'kabo1247', 'haliʔiŋ')	datasets/Kabola-Monbang.tsv		
 92	fruit	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti piri	nan	t i _ p i r i	('fruit', 'adan1251-lawah', 'piri')	datasets/Kabola-Monbang.tsv		
 93	seed	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	okowal	nan	o k o w a - l	('seed', 'adan1251-lawah', 'awai')	datasets/Kabola-Monbang.tsv		
 96	husked rice; uncooked rice	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	h̥a:la (meme)	([h] very short and quiet)	h̥ aː l a	('husked rice; uncooked rice', 'abui1241-fuime', 'ajak')	datasets/Kabola-Monbang.tsv		
-98	cooked rice	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	h̥a:la me:	nan	nan	('cooked rice', 'abui1241-fuime', 'ajak_ma')	datasets/Kabola-Monbang.tsv		
-99	rice plant	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ha:laʔ	nan	- - - - h aː l a ʔ -	('rice plant', 'abui1241-fuime', 'ajak_kai')	datasets/Kabola-Monbang.tsv		
-100	to plant (yam)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teʔe	nan	#NAME?	('to plant (yam)', 'adan1251-lawah', '(outi)_tɛʔɛ')	datasets/Kabola-Monbang.tsv		
+98	cooked rice	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	h̥a:la me:	nan	nan	('cooked rice', 'adan1251-lawah', 'a:la meʤe')	datasets/Kabola-Monbang.tsv		
+99	rice plant	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ha:laʔ	nan	- - - - h aː l a ʔ -	('rice plant', 'adan1251-lawah', 'a:la')	datasets/Kabola-Monbang.tsv		
+100	to plant (yam)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teʔe	nan	#NAME?	('to plant (yam)', 'adan1251-lawah', '(outi) tɛʔɛ')	datasets/Kabola-Monbang.tsv		
 101	to plant (rice)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teʔe	nan	t e ʔ e	('to plant (rice)', 'abui1241-fuime', 'ta:kda')	datasets/Kabola-Monbang.tsv		
 102	betel nut; areca	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	buʔ	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	datasets/Kabola-Monbang.tsv		
 103	betel vine	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mocoʔ	nan	nan	('betel vine', 'abui1241-fuime', 'me:tiŋ')	datasets/Kabola-Monbang.tsv		
@@ -90,19 +90,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 108	taro	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mol	(minimal pair with ‘river’??)	nan	('taro', 'adan1251-lawah', 'ma:lu')	datasets/Kabola-Monbang.tsv		
 111	sugarcane	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	job	nan	j o b - -	('sugarcane', 'abui1241-fuime', 'fa')	datasets/Kabola-Monbang.tsv		
 112	corn; maize	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	botiʔ	nan	b o t i ʔ	('corn; maize', 'abui1241-fuime', 'fa:ti')	datasets/Kabola-Monbang.tsv		
-113	cooked corn	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	boti̥ kawal	nan	b o t i̥ _ k a w a - l	('cooked corn', 'abui1241-takal', 'fä:t_mä')	datasets/Kabola-Monbang.tsv		
+113	cooked corn	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	boti̥ kawal	nan	b o t i̥ _ k a w a - l	('cooked corn', 'adan1251-lawah', 'bati awai')	datasets/Kabola-Monbang.tsv		
 114	coconut	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	waʔ	nan	w a ʔ - -	('coconut', 'abui1241-fuime', 'wata')	datasets/Kabola-Monbang.tsv		
 115	gwang	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ol kuil	nan	- - o l _ k u i l -	"('gwang', 'abui1241-takal', ""ä:.'qäl"")"	datasets/Kabola-Monbang.tsv		
 116	lontar palm	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	haʔai	nan	h a ʔ a i	('lontar palm', 'kabo1247', 'haʔai')	datasets/Kabola-Monbang.tsv		
 117	sugar palm	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	now	nan	n o w - - - - - -	('sugar palm', 'abui1241-takal', 'näj')	datasets/Kabola-Monbang.tsv		
 118	marungga	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	motoŋ behe	nan	m o t o - - ŋ - _ b e h e	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	datasets/Kabola-Monbang.tsv		
 119	gum tree; eucalyptus	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	puʔ	nan	p u ʔ -	('gum tree; eucalyptus', 'adan1251-lawah', 'pu')	datasets/Kabola-Monbang.tsv		
-120	bamboo	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	peteŋ	nan	nan	('bamboo', 'alor1249-sar-a', 'biŋmaliŋ_')	datasets/Kabola-Monbang.tsv		
+120	bamboo	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	peteŋ	nan	nan	"('bamboo', 'alor1249-sar-a', ""'ʤa"")"	datasets/Kabola-Monbang.tsv		
 121	banana	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	moʔoi	nan	nan	('banana', 'abui1241-fuime', 'musa')	datasets/Kabola-Monbang.tsv		
 122	mango	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	beʔ	nan	b e ʔ	('mango', 'kabo1247', 'beʔ')	datasets/Kabola-Monbang.tsv		
 123	papaya	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	takele	nan	t a k - - - e l - e	('papaya', 'adan1251-lawah', 'kahatɛlɛ')	datasets/Kabola-Monbang.tsv		
 124	jackfruit	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	toŋ	nan	- - - - t o ŋ - -	('jackfruit', 'abui1241-fuime', 'soŋ')	datasets/Kabola-Monbang.tsv		
-125	breadfruit	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	toŋ bal	nan	nan	('breadfruit', 'abui1241-fuime', 'bata:_soŋ')	datasets/Kabola-Monbang.tsv		
+125	breadfruit	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	toŋ bal	nan	nan	('breadfruit', 'adan1251-lawah', 'tombai')	datasets/Kabola-Monbang.tsv		
 126	bean	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(h)utu	nan	- u t u -	('bean', 'adan1251-lawah', 'ʔutuŋ')	datasets/Kabola-Monbang.tsv		
 127	honey	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	maʔai	nan	m a ʔ a i	('honey', 'kabo1247', 'maʔai')	datasets/Kabola-Monbang.tsv		
 128	milk	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tɔʔ	(cf., oto ‘breast’); not 'breast'	t ɔ ʔ	('milk', 'adan1251-lawah', 'toʔ')	datasets/Kabola-Monbang.tsv		
@@ -111,50 +111,50 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 132	bone	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tlopoʔ	nan	nan	('bone', 'abui1241-takal', 'te̞̞i.pä')	datasets/Kabola-Monbang.tsv		
 133	rib	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	keneme	nan	k e n - - e m e	('rib', 'kabo1247', 'keneme')	datasets/Kabola-Monbang.tsv		
 134	sweat	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	latutoŋ (sele)	nan	l a t u t o ŋ	('sweat', 'abui1241-fuime', 'tamuriŋ')	datasets/Kabola-Monbang.tsv		
-135	tear	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teŋ nui	(teŋ ‘eye’)	t e - ŋ - - - - _ n u i	('tear', 'abui1241-takal', 'ti.äŋ_nɐj')	datasets/Kabola-Monbang.tsv		
+135	tear	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teŋ nui	(teŋ ‘eye’)	t e - ŋ - - - - _ n u i	('tear', 'adan1251-lawah', 'ʔɛŋui')	datasets/Kabola-Monbang.tsv		
 136	blood	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	u̥wí	nan	nan	('blood', 'abui1241-fuime', 'we')	datasets/Kabola-Monbang.tsv		
 138	heart	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	demúlu	nan	d e m ú l u	('heart', 'adan1251-lawah', 'damulu')	datasets/Kabola-Monbang.tsv		
-139	liver	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔom atoʔo	(ʔom ‘inside’)	ʔ o m _ - a t o ʔ o	"('liver', 'abui1241-takal', ""tɔ.mi_tä.'te̞̞.bäq"")"	datasets/Kabola-Monbang.tsv		
-141	guts	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	atoʔo kenewe	(lit., ‘stomach small’)	nan	('guts', 'abui1241-fuime', 'tatok_falala')	datasets/Kabola-Monbang.tsv		
+139	liver	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔom atoʔo	(ʔom ‘inside’)	ʔ o m _ - a t o ʔ o	('liver', 'adan1251-lawah', 'om')	datasets/Kabola-Monbang.tsv		
+141	guts	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	atoʔo kenewe	(lit., ‘stomach small’)	nan	('guts', 'adan1251-lawah', 'atohi')	datasets/Kabola-Monbang.tsv		
 142	excrement	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ahaʔ	nan	a h a ʔ -	('excrement', 'kabo1247', 'ahaʔ')	datasets/Kabola-Monbang.tsv		
-143	lungs	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	owaʔ kʊri	nan	o w a ʔ _ k ʊ r i	('lungs', 'kabo1247', 'owaʔ_kʊri')	datasets/Kabola-Monbang.tsv		
-144	stomach; belly	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	atoʔo	nan	#NAME?	('stomach; belly', 'abui1241-fuime', 'tatok_foko')	datasets/Kabola-Monbang.tsv		
+143	lungs	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	owaʔ kʊri	nan	o w a ʔ _ k ʊ r i	('lungs', 'kabo1247', 'owaʔ kʊri')	datasets/Kabola-Monbang.tsv		
+144	stomach; belly	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	atoʔo	nan	#NAME?	('stomach; belly', 'adan1251-lawah', 'atuʔu')	datasets/Kabola-Monbang.tsv		
 145	head	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lo:ŋ	nan	l oː - - ŋ - - -	('head', 'kabo1247', 'lo:ŋ')	datasets/Kabola-Monbang.tsv		
-146	hair	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	loŋ kəriʔi kenewe	(? kenewe ‘small’)	l o ŋ _ k ə r i ʔ i _ k e n e w e	('hair', 'kabo1247', 'loŋ_kəriʔi_kenewe')	datasets/Kabola-Monbang.tsv		
+146	hair	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	loŋ kəriʔi kenewe	(? kenewe ‘small’)	l o ŋ _ k ə r i ʔ i _ k e n e w e	('hair', 'kabo1247', 'loŋ kəriʔi kenewe')	datasets/Kabola-Monbang.tsv		
 147	body hair	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	omúru	nan	nan	('body hair', 'abui1241-fuime', 'teamur')	datasets/Kabola-Monbang.tsv		
-148	eye	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teŋ	nan	t e ŋ - - - - -	('eye', 'abui1241-fuime', 'tieŋ_bilka')	datasets/Kabola-Monbang.tsv		
-149	ear	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awel	nan	nan	('ear', 'abui1241-fuime', 'tawei_ata')	datasets/Kabola-Monbang.tsv		
+148	eye	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teŋ	nan	t e ŋ - - - - -	('eye', 'adan1251-lawah', 'ʔɛŋwai')	datasets/Kabola-Monbang.tsv		
+149	ear	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awel	nan	nan	('ear', 'adan1251-lawah', 'awɛbɛhɛ')	datasets/Kabola-Monbang.tsv		
 150	nose	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tomboy	nan	t o m b o y -	('nose', 'kabo1247', 'tomboy')	datasets/Kabola-Monbang.tsv		
 151	mouth	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	táta	nan	t á t a	('mouth', 'baka1276', 'taibor')	datasets/Kabola-Monbang.tsv		
 152	chin	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	harawahá	nan	h a r a w a h á	('chin', 'kabo1247', 'harawahá')	datasets/Kabola-Monbang.tsv		
-153	lips	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ómi taporo	nan	ó m i _ - - - - - t a p o r o	('lips', 'adan1251-otvai', 'amiŋtapo')	datasets/Kabola-Monbang.tsv		
+153	lips	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ómi taporo	nan	ó m i _ - - - - - t a p o r o	('lips', 'hama1240', 'namintapo')	datasets/Kabola-Monbang.tsv		
 154	teeth	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tawehẽ(ŋ)	nan	nan	('teeth', 'abui1241-fuime', 'taweiti')	datasets/Kabola-Monbang.tsv		
-155	tongue	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	taléb	nan	nan	"('tongue', 'abui1241-takal', ""tä.'li.fi"")"	datasets/Kabola-Monbang.tsv		
+155	tongue	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	taléb	nan	nan	('tongue', 'adan1251-lawah', 'nalɛb')	datasets/Kabola-Monbang.tsv		
 156	neck	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔodolo	nan	ʔ o d o l o	('neck', 'atim1239', 'rola')	datasets/Kabola-Monbang.tsv		
 157	shoulder	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tabelé	nan	- - t a b e l é -	('shoulder', 'abui1241-fuime', 'tabaŋ')	datasets/Kabola-Monbang.tsv		
 163	arm	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(h)ataŋ	nan	nan	('arm', 'abui1241-fuime', 'tataŋ')	datasets/Kabola-Monbang.tsv		
-166	finger	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tataŋ paʔa	nan	t a t a ŋ - _ p a ʔ a - - -	('finger', 'abui1241-fuime', 'tataŋ_pa:ka')	datasets/Kabola-Monbang.tsv		
-167	fingernail	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hataŋ kusiŋ	nan	nan	('fingernail', 'abui1241-fuime', 'tataŋ_kusiŋ')	datasets/Kabola-Monbang.tsv		
+166	finger	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tataŋ paʔa	nan	t a t a ŋ - _ p a ʔ a - - -	('finger', 'adan1251-lawah', 'nataŋ paʔa')	datasets/Kabola-Monbang.tsv		
+167	fingernail	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hataŋ kusiŋ	nan	nan	('fingernail', 'adan1251-lawah', 'ʔataŋ uhuŋ')	datasets/Kabola-Monbang.tsv		
 168	breast	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	otoʔ	(cf., tɔʔ ‘milk’)	nan	('breast', 'adan1251-lawah', 'toʔ')	datasets/Kabola-Monbang.tsv		
 170	navel	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	təpúsu	nan	t ə p ú s u - - - - - - -	('navel', 'abui1241-fuime', 'tabike')	datasets/Kabola-Monbang.tsv		
 171	penis	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	to:t	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	nan	"('penis', 'abui1241-takal', ""tä.'tɔ"")"	datasets/Kabola-Monbang.tsv		
-172	vagina	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ha:l	Kemaluan perempuan, same as above.	nan	('vagina', 'adan1251-otvai', 'a:l')	datasets/Kabola-Monbang.tsv		
-173	testicles	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	to:t kowai	nan	t oː t _ k o w a i - -	"('testicles', 'abui1241-takal', ""tä.'tɔ_bi.'rä"")"	datasets/Kabola-Monbang.tsv		
+172	vagina	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ha:l	Kemaluan perempuan, same as above.	nan	('vagina', 'alor1249-sar-a', 'ga:r')	datasets/Kabola-Monbang.tsv		
+173	testicles	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	to:t kowai	nan	t oː t _ k o w a i - -	('testicles', 'blag1240-nule', 'toto kulu')	datasets/Kabola-Monbang.tsv		
 174	leg	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	heʔawa	nan	h e ʔ a w a	('leg', 'adan1251-lawah', 'nɛʔɛw')	datasets/Kabola-Monbang.tsv		
 176	heel of foot	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ekukar	nan	e k u k a r	('heel of foot', 'kabo1247', 'ekukar')	datasets/Kabola-Monbang.tsv		
 178	knee	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	he wúru	nan	h e _ w ú r u	('knee', 'adan1251-lawah', 'ʔewudu')	datasets/Kabola-Monbang.tsv		
-179	back	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tamóto	nan	nan	('back', 'adan1251-otvai', 'amɔt')	datasets/Kabola-Monbang.tsv		
-182	skin	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	pikul	nan	nan	('skin', 'abui1241-takal', 'te̞̞:.qul')	datasets/Kabola-Monbang.tsv		
-183	sore; wound	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tebaha	nan	t e b a h a	('sore; wound', 'adan1251-otvai', 'bah')	datasets/Kabola-Monbang.tsv		
+179	back	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tamóto	nan	nan	('back', 'baka1276', 'mota')	datasets/Kabola-Monbang.tsv		
+182	skin	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	pikul	nan	nan	('skin', 'adan1251-lawah', 'ʔui')	datasets/Kabola-Monbang.tsv		
+183	sore; wound	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tebaha	nan	t e b a h a	"('sore; wound', 'alor1249-sar-a', ""be'tis"")"	datasets/Kabola-Monbang.tsv		
 184	ringworm	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kac	nan	- k a c - -	('ringworm', 'kabo1247', 'kac')	datasets/Kabola-Monbang.tsv		
 185	scabies	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ko:t	nan	#NAME?	('scabies', 'adan1251-lawah', 'at')	datasets/Kabola-Monbang.tsv		
 186	tinea	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	pálaŋ	nan	p á l a ŋ	('tinea', 'abui1241-takal', 'pä.lä.rä')	datasets/Kabola-Monbang.tsv		
-187	feverish	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	towahati teyoʔo	nan	t o w a h a t i _ t e y o ʔ o	('feverish', 'kabo1247', 'towahati_teyoʔo')	datasets/Kabola-Monbang.tsv		
-188	conjunctivitis	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teŋ maʔala	(teŋ ‘eye’ maʔala ‘sick/hurt’); Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	t e ŋ _ m a ʔ a l a	('conjunctivitis', 'kabo1247', 'teŋ_maʔala')	datasets/Kabola-Monbang.tsv		
+187	feverish	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	towahati teyoʔo	nan	t o w a h a t i _ t e y o ʔ o	('feverish', 'kabo1247', 'towahati teyoʔo')	datasets/Kabola-Monbang.tsv		
+188	conjunctivitis	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teŋ maʔala	(teŋ ‘eye’ maʔala ‘sick/hurt’); Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.	t e ŋ _ m a ʔ a l a	('conjunctivitis', 'kabo1247', 'teŋ maʔala')	datasets/Kabola-Monbang.tsv		
 189	cold; influenza	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	suyahaʔ	nan	s u y a h a ʔ	('cold; influenza', 'kabo1247', 'suyahaʔ')	datasets/Kabola-Monbang.tsv		
 190	person	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nom noʔo	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	n o m _ - n o ʔ o - - -	('person', 'buna1278-bobon', 'ɛn')	datasets/Kabola-Monbang.tsv		
 191	name	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	toni	nan	nan	('name', 'abui1241-fuime', 'na-ne')	datasets/Kabola-Monbang.tsv		
-192	child	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	koi kaʔai	(kaʔai ‘small’)	k o i _ k a ʔ a i	('child', 'kabo1247', 'koi_kaʔai')	datasets/Kabola-Monbang.tsv		
+192	child	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	koi kaʔai	(kaʔai ‘small’)	k o i _ k a ʔ a i	('child', 'kabo1247', 'koi kaʔai')	datasets/Kabola-Monbang.tsv		
 193	man	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	loti sini	nan	l o t - i _ s i n i	('man', 'adan1251-lawah', 'loti')	datasets/Kabola-Monbang.tsv		
 194	woman	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kobo sini	nan	k o b o _ s i n i	('woman', 'adan1251-lawah', 'oboʔ')	datasets/Kabola-Monbang.tsv		
 195	husband	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	noloti	nan	n o l o t i -	('husband', 'adan1251-lawah', 'noloti')	datasets/Kabola-Monbang.tsv		
@@ -162,44 +162,44 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 197	mother	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	niwi	nan	nan	('mother', 'adan1251-lawah', 'niwi')	datasets/Kabola-Monbang.tsv		
 197	mother	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	niwi koy	nan	nan	('mother', 'adan1251-lawah', 'niwi')	datasets/Kabola-Monbang.tsv		
 198	father	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nimiŋ koy	nan	nan	('father', 'abui1241-fuime', 'mama')	datasets/Kabola-Monbang.tsv		
-199	older sibling	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nokoy mot	nan	n o k o y _ m o t	('older sibling', 'kabo1247', 'nokoy_mot')	datasets/Kabola-Monbang.tsv		
+199	older sibling	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nokoy mot	nan	n o k o y _ m o t	('older sibling', 'kabo1247', 'nokoy mot')	datasets/Kabola-Monbang.tsv		
 200	younger sibling	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nokoy diʔi	nan	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	datasets/Kabola-Monbang.tsv		
 201	bride price	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔowol	nan	ʔ o w o l	('bride price', 'abui1241-fuime', 'he-bel')	datasets/Kabola-Monbang.tsv		
-202	slave	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nomi ʔasówo	(nomi ‘person’)	n o m i _ ʔ a s ów o	('slave', 'kabo1247', 'nomi_ʔasówo')	datasets/Kabola-Monbang.tsv		
-231	left (side)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	weʔeŋ	nan	w e ʔ e ŋ	('left (side)', 'adan1251-otvai', 'fiʔiŋ')	datasets/Kabola-Monbang.tsv		
+202	slave	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nomi ʔasówo	(nomi ‘person’)	n o m i _ ʔ a s ów o	('slave', 'kabo1247', 'nomi ʔasówo')	datasets/Kabola-Monbang.tsv		
+231	left (side)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	weʔeŋ	nan	w e ʔ e ŋ	('left (side)', 'hama1240', 'fiʔ.iŋ')	datasets/Kabola-Monbang.tsv		
 232	right (side)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	toiɲ	nan	#NAME?	('right (side)', 'buna1278-bobon', 'ɛthɛn')	datasets/Kabola-Monbang.tsv		
-236	animal	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bináŋta	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	('animal', 'adan1251-otvai', 'binanta')	datasets/Kabola-Monbang.tsv		
+236	animal	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bináŋta	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	"('animal', 'alor1247-besar', ""bi'nataŋ"")"	datasets/Kabola-Monbang.tsv		
 238	dog	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bel	nan	nan	('dog', 'adan1251-lawah', 'bɛl')	datasets/Kabola-Monbang.tsv		
 239	pig	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	biʔ	nan	b i ʔ -	('pig', 'abui1241-fuime', 'fe')	datasets/Kabola-Monbang.tsv		
 240	chicken	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	siu	(also bird)	nan	('chicken', 'adan1251-lawah', 'hiu')	datasets/Kabola-Monbang.tsv		
 241	rat	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dul	nan	nan	('rat', 'atim1239', 'rui')	datasets/Kabola-Monbang.tsv		
 242	lizard	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	téko	nan	t é k o -	('lizard', 'abui1241-fuime', 'tekok')	datasets/Kabola-Monbang.tsv		
-243	civet cat	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hol meneme	nan	h o l - _ m e n e m e	('civet cat', 'kabo1247', 'hol_meneme')	datasets/Kabola-Monbang.tsv		
+243	civet cat	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hol meneme	nan	h o l - _ m e n e m e	('civet cat', 'kabo1247', 'hol meneme')	datasets/Kabola-Monbang.tsv		
 244	deer	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(h)ol	nan	- o l - - -	('deer', 'kabo1247', '(h)ol')	datasets/Kabola-Monbang.tsv		
-245	frog	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	jikuy paʔa	nan	j i k u y _ p a ʔ a	('frog', 'kabo1247', 'jikuy_paʔa')	datasets/Kabola-Monbang.tsv		
+245	frog	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	jikuy paʔa	nan	j i k u y _ p a ʔ a	('frog', 'kabo1247', 'jikuy paʔa')	datasets/Kabola-Monbang.tsv		
 246	bat	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	meréreŋ	nan	nan	"('bat', 'abui1241-takal', ""mä.'re̞l"")"	datasets/Kabola-Monbang.tsv		
 249	tail	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔol paʔa	(minimal pair with ʔor ‘throw’)	ʔ o l - - _ p a ʔ a	('tail', 'adan1251-lawah', 'oloʔ')	datasets/Kabola-Monbang.tsv		
 250	fish	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hab	nan	nan	('fish', 'abui1241-fuime', 'afu')	datasets/Kabola-Monbang.tsv		
-251	shark	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ab moti	(lit., ‘big fish’?)	a b _ m o t i	('shark', 'kabo1247', 'ab_moti')	datasets/Kabola-Monbang.tsv		
+251	shark	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ab moti	(lit., ‘big fish’?)	a b _ m o t i	('shark', 'kabo1247', 'ab moti')	datasets/Kabola-Monbang.tsv		
 252	whale	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	to:b	nan	t oː b	('whale', 'kabo1247', 'to:b')	datasets/Kabola-Monbang.tsv		
 254	crocodile	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baʔai	nan	- - b a ʔ a i - - - - - - - - - - - -	('crocodile', 'abui1241-fuime', 'fahai')	datasets/Kabola-Monbang.tsv		
 255	monitor lizard	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	halése	nan	h a l és - e	('monitor lizard', 'kabo1247', 'halése')	datasets/Kabola-Monbang.tsv		
-257	turtle	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	jiku	nan	- - - - - j i k - u -	('turtle', 'abui1241-fuime', 'youko')	datasets/Kabola-Monbang.tsv		
+257	turtle	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	jiku	nan	- - - - - j i k - u -	('turtle', 'abui1241-fuime', 'jouko')	datasets/Kabola-Monbang.tsv		
 258	turtle (saltwater)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	jiku	nan	j i - - k u	"('turtle (saltwater)', 'abui1241-takal', ""jɜɪ.'kɔi"")"	datasets/Kabola-Monbang.tsv		
-259	bird	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	siu	 (also chicken)	nan	('bird', 'adan1251-lawah', 'hiu_walɛwɛŋ')	datasets/Kabola-Monbang.tsv		
+259	bird	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	siu	 (also chicken)	nan	('bird', 'adan1251-lawah', 'hiu walɛwɛŋ')	datasets/Kabola-Monbang.tsv		
 260	wing	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awitiŋ	nan	#NAME?	('wing', 'hama1240', 'afɛtaŋ')	datasets/Kabola-Monbang.tsv		
 263	horn	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	amʊʔu	nan	nan	('horn', 'abui1241-fuime', 'ha-muk')	datasets/Kabola-Monbang.tsv		
 264	snake	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mon	nan	nan	('snake', 'abui1241-fuime', 'mon')	datasets/Kabola-Monbang.tsv		
 265	scorpion	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	pali	nan	nan	('scorpion', 'abui1241-fuime', 'pei')	datasets/Kabola-Monbang.tsv		
 265	scorpion	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	palj	nan	nan	('scorpion', 'abui1241-fuime', 'pei')	datasets/Kabola-Monbang.tsv		
-266	egg	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(siu) doʔ	nan	d o - ʔ -	('egg', 'adan1251-lawah', '(hiu)_do')	datasets/Kabola-Monbang.tsv		
+266	egg	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(siu) doʔ	nan	d o - ʔ -	('egg', 'adan1251-lawah', '(hiu) do')	datasets/Kabola-Monbang.tsv		
 267	earthworm	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karéʔe	nan	k a r é ʔ e	('earthworm', 'kabo1247', 'karéʔe')	datasets/Kabola-Monbang.tsv		
 268	butterfly	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	popoʔo	nan	p o p o ʔ o	('butterfly', 'adan1251-lawah', 'popou')	datasets/Kabola-Monbang.tsv		
 269	fly (n.)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lebeŋ	nan	l e b e ŋ	('fly (n.)', 'adan1251-lawah', 'liboŋ')	datasets/Kabola-Monbang.tsv		
 270	mosquito	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kiʔin	nan	k i ʔ i n -	('mosquito', 'adan1251-lawah', 'ʔin')	datasets/Kabola-Monbang.tsv		
-271	ant	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	leʔiliŋ	nan	nan	('ant', 'alor1249-sar-a', 'jeríh')	datasets/Kabola-Monbang.tsv		
+271	ant	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	leʔiliŋ	nan	nan	"('ant', 'alor1249-sar-a', ""ʤe'rih"")"	datasets/Kabola-Monbang.tsv		
 272	grasshopper	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	sóno	nan	s ó n o	('grasshopper', 'adan1251-lawah', 'ha:nu')	datasets/Kabola-Monbang.tsv		
-274	spider	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	keléleŋ baŋbaŋ	nan	k e l é l e ŋ _ b a ŋ b a ŋ	('spider', 'adan1251-otvai', 'alɛlaŋ_bɔbɔ')	datasets/Kabola-Monbang.tsv		
+274	spider	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	keléleŋ baŋbaŋ	nan	k e l é l e ŋ _ b a ŋ b a ŋ	('spider', 'kabo1247', 'keléleŋ baŋbaŋ')	datasets/Kabola-Monbang.tsv		
 275	headlice	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	koiɲ	nan	#NAME?	('headlice', 'abui1241-fuime', 'bikeŋ')	datasets/Kabola-Monbang.tsv		
 276	louse eggs	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	weríŋ	nan	w e r í ŋ -	('louse eggs', 'kabo1247', 'weríŋ')	datasets/Kabola-Monbang.tsv		
 278	flea	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	temelé	nan	t e m e l é	('flea', 'blag1240-bama', 'tepela')	datasets/Kabola-Monbang.tsv		
@@ -217,7 +217,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 288	hot	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wer buni	(wer ‘sun’)	w e r _ b u n i	('hot', 'baka1276', 'bára')	datasets/Kabola-Monbang.tsv		
 289	cold	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	maʔab	nan	m a ʔ a b -	('cold', 'adan1251-lawah', 'maʔab')	datasets/Kabola-Monbang.tsv		
 290	good	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	noʔo	nan	#NAME?	('good', 'adan1251-lawah', 'noʔo')	datasets/Kabola-Monbang.tsv		
-291	bad	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	yahaʔ	nan	nan	('bad', 'adan1251-otvai', 'sah')	datasets/Kabola-Monbang.tsv		
+291	bad	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	yahaʔ	nan	nan	('bad', 'alor1249-sar-a', 'ja:t')	datasets/Kabola-Monbang.tsv		
 292	full	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	utulu	nan	u t u l u	('full', 'kabo1247', 'utulu')	datasets/Kabola-Monbang.tsv		
 293	empty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dokoho	nan	d o k o h o	('empty', 'kabo1247', 'dokoho')	datasets/Kabola-Monbang.tsv		
 296	wet	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	breʔe	nan	b r e ʔ e	('wet', 'kabo1247', 'breʔe')	datasets/Kabola-Monbang.tsv		
@@ -225,9 +225,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 298	dry in sun	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wer poilj	(wer ‘sun’)	w e r _ - p o i l - - j	('dry', 'keda1252-leuwa', 'pariʔ')	datasets/Kabola-Monbang.tsv		
 302	short (people)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	la:ma	nan	l aː m a - - - - - -	('short (people)', 'adan1251-lawah', 'lama')	datasets/Kabola-Monbang.tsv		
 303	thin (non-human)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teʔey	nan	t e ʔ e - y -	('thin (non-human)', 'adan1251-lawah', 'tiʔi')	datasets/Kabola-Monbang.tsv		
-307	dark	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dil kuʔu	(also ‘night’)	d i l _ k u ʔ u	('dark', 'kabo1247', 'dil_kuʔu')	datasets/Kabola-Monbang.tsv		
+307	dark	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dil kuʔu	(also ‘night’)	d i l _ k u ʔ u	('dark', 'kabo1247', 'dil kuʔu')	datasets/Kabola-Monbang.tsv		
 308	light	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	diyéle	nan	d i y é l e	('light', 'kabo1247', 'diyéle')	datasets/Kabola-Monbang.tsv		
-309	dirty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nakaroʔo	nan	n a k a r o ʔ o	('dirty', 'adan1251-otvai', 'karɔ')	datasets/Kabola-Monbang.tsv		
+309	dirty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nakaroʔo	nan	n a k a r o ʔ o	('dirty', 'kabo1247', 'nakaroʔo')	datasets/Kabola-Monbang.tsv		
 310	clean	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mədúluŋ	nan	m ə d ú l u ŋ	('clean', 'kabo1247', 'mədúluŋ')	datasets/Kabola-Monbang.tsv		
 311	sharp	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	namaŋ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	n a - m a ŋ -	('sharp', 'kabo1247', 'namaŋ')	datasets/Kabola-Monbang.tsv		
 312	blunt; dull	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kúmu	nan	nan	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/Kabola-Monbang.tsv		
@@ -235,7 +235,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 314	light (weight)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wéleŋ	nan	w é l e ŋ	('light (weight)', 'adan1251-lawah', 'filiŋ')	datasets/Kabola-Monbang.tsv		
 315	straight	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kəbúlu	(also ‘correct’)	k ə b ú l u	('straight', 'adan1251-lawah', 'abuluʔ')	datasets/Kabola-Monbang.tsv		
 316	wide	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	peʔereŋ	nan	p e ʔ e r e ŋ	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/Kabola-Monbang.tsv		
-318	correct	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kabulu	 (also ‘straight’)	k a b u l u	('correct', 'adan1251-otvai', 'abul')	datasets/Kabola-Monbang.tsv		
+318	correct	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kabulu	 (also ‘straight’)	k a b u l u	('correct', 'hama1240', 'abur')	datasets/Kabola-Monbang.tsv		
 319	wrong	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	asala	nan	#NAME?	('wrong', 'abui1241-fuime', 'hasala')	datasets/Kabola-Monbang.tsv		
 320	ripe	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ténaŋ	nan	t é n a ŋ -	('ripe', 'buna1278-bobon', 'za:')	datasets/Kabola-Monbang.tsv		
 321	rotten	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bo:ni	nan	nan	('rotten', 'atim1239', 'hamuni')	datasets/Kabola-Monbang.tsv		
@@ -252,26 +252,26 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 332	green	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	molmol	nan	m o l m o l	('green', 'kabo1247', 'molmol')	datasets/Kabola-Monbang.tsv		
 334	yellow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baʔoil	nan	b a ʔ o i l -	('yellow', 'hama1240', 'baʔ.oil')	datasets/Kabola-Monbang.tsv		
 335	sick; painful	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	maróri	maʔala (same as ‘salty, bitter’); There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	m a r ó r i	('sick; painful', 'kabo1247', 'maróri')	datasets/Kabola-Monbang.tsv		
-335	sick; painful	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	maʔala	maʔala (same as ‘salty, bitter’); There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	m a ʔ a l a	('sick; painful', 'adan1251-otvai', 'maʔar')	datasets/Kabola-Monbang.tsv		
+335	sick; painful	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	maʔala	maʔala (same as ‘salty, bitter’); There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	m a ʔ a l a	('sick; painful', 'kabo1247', 'maʔala')	datasets/Kabola-Monbang.tsv		
 336	shy; ashamed	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	málaʔ	nan	m á l a ʔ	('shy; ashamed', 'abui1241-fuime', 'na-mielai')	datasets/Kabola-Monbang.tsv		
-337	thirsty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dol(o) taʔata	(taʔata ‘dry’)	#NAME?	('thirsty', 'adan1251-lawah', 'dolo_taʔata')	datasets/Kabola-Monbang.tsv		
-338	hungry	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	om sili	(om ‘inside’)	o m _ s i l i	('hungry', 'kabo1247', 'om_sili')	datasets/Kabola-Monbang.tsv		
-339	blind	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	eɲjaháʔ	nan	nan	('blind', 'alor1249-sar-a', 'pet_ya:t')	datasets/Kabola-Monbang.tsv		
-340	deaf	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awel pəlaʔa	nan	a w e l _ p ə l a ʔ a	('deaf', 'abui1241-fuime', 'tawei_beaka')	datasets/Kabola-Monbang.tsv		
-341	scared	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baroitj	nan	b a r o i t j	('scared', 'adan1251-lawah', 'baruc')	datasets/Kabola-Monbang.tsv		
+337	thirsty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dol(o) taʔata	(taʔata ‘dry’)	#NAME?	('thirsty', 'adan1251-lawah', 'dolo taʔata')	datasets/Kabola-Monbang.tsv		
+338	hungry	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	om sili	(om ‘inside’)	o m _ s i l i	('hungry', 'kabo1247', 'om sili')	datasets/Kabola-Monbang.tsv		
+339	blind	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	eɲjaháʔ	nan	nan	('blind', 'alor1249-sar-a', 'pet ja:t')	datasets/Kabola-Monbang.tsv		
+340	deaf	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awel pəlaʔa	nan	a w e l _ p ə l a ʔ a	('deaf', 'hama1240', 'afɛʔ')	datasets/Kabola-Monbang.tsv		
+341	scared	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baroitj	nan	b a r o i t j	('scared', 'adan1251-lawah', 'baruʧ')	datasets/Kabola-Monbang.tsv		
 342	angry	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ekeriʔiŋ	nan	nan	('angry', 'adan1251-lawah', 'ariʔiŋ')	datasets/Kabola-Monbang.tsv		
-343	to see	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	edunu	nan	e d u n u	('to see', 'adan1251-otvai', 'ɛdun')	datasets/Kabola-Monbang.tsv		
+343	to see	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	edunu	nan	e d u n u	('to see', 'hama1240', 'dun')	datasets/Kabola-Monbang.tsv		
 344	to hear	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	meʔéhe	nan	#NAME?	('to hear', 'atim1239', 'mahia')	datasets/Kabola-Monbang.tsv		
 345	to smell	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	amúniŋ	nan	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Kabola-Monbang.tsv		
 346	to think	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	utunut	nan	u t u n u t	('to think', 'adan1251-lawah', 'tanut')	datasets/Kabola-Monbang.tsv		
-347	to know	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔel (we)	nan	- - ʔ e l - - -	('to know', 'alor1249-sar-a', 'kalál')	datasets/Kabola-Monbang.tsv		
+347	to know	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔel (we)	nan	- - ʔ e l - - -	"('to know', 'alor1249-sar-a', ""ka'lal"")"	datasets/Kabola-Monbang.tsv		
 349	to speak	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	motiŋ	nan	m o t i ŋ	('to speak', 'adan1251-lawah', 'matiŋ')	datasets/Kabola-Monbang.tsv		
 352	to lie down	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	taʔara	nan	nan	('to lie down', 'abui1241-fuime', 'ta')	datasets/Kabola-Monbang.tsv		
-353	to sleep	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mopo	nan	m o p o	('to sleep', 'adan1251-otvai', 'mɔp')	datasets/Kabola-Monbang.tsv		
+353	to sleep	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mopo	nan	m o p o	('to sleep', 'kabo1247', 'mopo')	datasets/Kabola-Monbang.tsv		
 354	to wake up	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tohóʔ	nan	t o h ó ʔ	('to wake up', 'adan1251-lawah', 'tohø')	datasets/Kabola-Monbang.tsv		
-355	to wake someone up	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	aren tʊho	nan	a r e n _ t ʊ h o	('to wake someone up', 'adan1251-lawah', 'ahowo_tuhu')	datasets/Kabola-Monbang.tsv		
+355	to wake someone up	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	aren tʊho	nan	a r e n _ t ʊ h o	('to wake someone up', 'adan1251-lawah', 'ahowo tuhu')	datasets/Kabola-Monbang.tsv		
 356	to bathe	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tewili	nan	nan	('to bathe', 'abui1241-fuime', 'tawel')	datasets/Kabola-Monbang.tsv		
-357	to bathe (a child)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awíli	nan	nan	('to bathe (a child)', 'abui1241-takal', 'di_hä.ʋe̞l')	datasets/Kabola-Monbang.tsv		
+357	to bathe (a child)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	awíli	nan	nan	('to bathe (a child)', 'adan1251-lawah', 'ʔei awili')	datasets/Kabola-Monbang.tsv		
 358	to sit	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mihi	nan	nan	('to sit', 'atim1239', 'miti')	datasets/Kabola-Monbang.tsv		
 359	to stand	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	toho mi	nan	nan	('to stand', 'abui1241-fuime', 'nate')	datasets/Kabola-Monbang.tsv		
 360	to walk	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	laʔaw	nan	l a ʔ a w	('to walk', 'abui1241-fuime', 'lak')	datasets/Kabola-Monbang.tsv		
@@ -287,17 +287,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 370	to cook	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nadowo	nan	#NAME?	('to cook', 'adan1251-lawah', 'dowoʔ')	datasets/Kabola-Monbang.tsv		
 371	to wash	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(na)lam	nan	- - l a m - - -	('to wash', 'adan1251-lawah', 'la:m')	datasets/Kabola-Monbang.tsv		
 372	to sew	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nasaróto	nan	- n a s a - r ó t o - - - - - - -	('to sew', 'adan1251-lawah', 'narotoʔ')	datasets/Kabola-Monbang.tsv		
-373	to live; be alive; living	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wocoŋ	nan	w o c o ŋ	('to live; be alive; living', 'adan1251-lawah', 'wɛcɛŋ')	datasets/Kabola-Monbang.tsv		
+373	to live; be alive; living	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wocoŋ	nan	w o c o ŋ	('to live; be alive; living', 'adan1251-lawah', 'wɛʧɛŋ')	datasets/Kabola-Monbang.tsv		
 374	to breathe	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	noʔoiɲ	nan	n o ʔ o i ɲ	('to breathe', 'kabo1247', 'noʔoiɲ')	datasets/Kabola-Monbang.tsv		
 376	to die	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	míni	nan	nan	('to die', 'abui1241-fuime', 'moŋ')	datasets/Kabola-Monbang.tsv		
 377	to give	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	merʔene	nan	- - - - m e r ʔ e n - e	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	datasets/Kabola-Monbang.tsv		
-378	to wipe	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	luhúʔ	nan	#NAME?	('to wipe', 'abui1241-takal', 'miŋ_luq')	datasets/Kabola-Monbang.tsv		
+378	to wipe	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	luhúʔ	nan	#NAME?	('to wipe', 'hama1240', 'luh')	datasets/Kabola-Monbang.tsv		
 379	to come	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	maʔ	nan	nan	('to come', 'abui1241-fuime', 'me')	datasets/Kabola-Monbang.tsv		
 380	to laugh	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ya:la	nan	#NAME?	('to laugh', 'abui1241-petle', 'jei')	datasets/Kabola-Monbang.tsv		
 381	to cry	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kəwéye	nan	k ə w é y e	('to cry', 'kabo1247', 'kəwéye')	datasets/Kabola-Monbang.tsv		
-382	to dance	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mayal	(lego-lego dance)	m a y a l	('to dance', 'adan1251-lawah', 'masay')	datasets/Kabola-Monbang.tsv		
+382	to dance	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	mayal	(lego-lego dance)	m a y a l	('to dance', 'adan1251-lawah', 'masaj')	datasets/Kabola-Monbang.tsv		
 383	to sing	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	da:laʔ	nan	d aː l a ʔ	('to sing', 'adan1251-lawah', 'da:la')	datasets/Kabola-Monbang.tsv		
-384	to burn (clear land)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(dil) tub	(dil ‘garden’)	t u b	('to burn (clear land)', 'kabo1247', '(dil)_tub')	datasets/Kabola-Monbang.tsv		
+384	to burn (clear land)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(dil) tub	(dil ‘garden’)	t u b	('to burn (clear land)', 'kabo1247', '(dil) tub')	datasets/Kabola-Monbang.tsv		
 385	to burn; to shine	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	daŋ	nan	d a - ŋ	('to burn; to shine', 'alor1249-sar-a', 'de')	datasets/Kabola-Monbang.tsv		
 386	to shine	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lébeŋ	nan	l é b e ŋ	"('to shine', 'alor1247-munas', ""'ɔbaŋ"")"	datasets/Kabola-Monbang.tsv		
 387	to chew	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nasaŋ	nan	n a s a ŋ	('to chew', 'kabo1247', 'nasaŋ')	datasets/Kabola-Monbang.tsv		
@@ -311,59 +311,59 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 394	to scratch	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tu:	nan	t uː - -	('to scratch', 'adan1251-lawah', 'tuʔuʔ')	datasets/Kabola-Monbang.tsv		
 394	to scratch	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tuwu	nan	t u w u	('to scratch', 'adan1251-lawah', 'tuʔuʔ')	datasets/Kabola-Monbang.tsv		
 395	itchy	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	aléme	nan	a l é m e	('itchy', 'kabo1247', 'aléme')	datasets/Kabola-Monbang.tsv		
-396	to swell	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wála	nan	- - - - w á l a -	('to swell', 'alor1249-sar-a', 'wará')	datasets/Kabola-Monbang.tsv		
-397	to hit	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bisíʔ	nan	b i s í ʔ	('to hit', 'adan1251-otvai', 'bɛh')	datasets/Kabola-Monbang.tsv		
-399	to bite	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔeheʔ	nan	ʔ e h e ʔ	('to bite', 'adan1251-lawah', '(bɛl)_ʔihi')	datasets/Kabola-Monbang.tsv		
+396	to swell	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wála	nan	- - - - w á l a -	"('to swell', 'alor1249-sar-a', ""wa'ra"")"	datasets/Kabola-Monbang.tsv		
+397	to hit	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	bisíʔ	nan	b i s í ʔ	"('to hit', 'alor1247-besar', ""'bɛhɛ"")"	datasets/Kabola-Monbang.tsv		
+399	to bite	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔeheʔ	nan	ʔ e h e ʔ	('to bite', 'adan1251-lawah', '(bɛl) ʔihi')	datasets/Kabola-Monbang.tsv		
 400	to cut	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	taʔai	nan	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Kabola-Monbang.tsv		
 401	to cut down	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	aboʔoi	nan	a b o ʔ o i	('to cut down', 'adan1251-lawah', 'ʔaboʔoi')	datasets/Kabola-Monbang.tsv		
 402	to split	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kápiŋ	nan	k á p i ŋ	('to split', 'abui1241-fuime', 'kadel')	datasets/Kabola-Monbang.tsv		
 403	to divide	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	abaʔaŋ	nan	a b a ʔ a ŋ	('to divide', 'kabo1247', 'abaʔaŋ')	datasets/Kabola-Monbang.tsv		
-403	to divide	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	delám	nan	#NAME?	('to divide', 'adan1251-otvai', 'dala:m')	datasets/Kabola-Monbang.tsv		
+403	to divide	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	delám	nan	#NAME?	('to divide', 'kabo1247', 'delám')	datasets/Kabola-Monbang.tsv		
 404	to stab	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teʔé	nan	t e ʔ é	('to stab', 'blag1240-bama', 'taqiŋ')	datasets/Kabola-Monbang.tsv		
 406	to fight	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	damuliŋ	nan	d a m - u l i ŋ	('to fight', 'hama1240', 'taburaŋ')	datasets/Kabola-Monbang.tsv		
 407	to guard	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hubuʔuŋ	nan	#NAME?	"('to guard', 'abui1241-takal', ""ho:.'fi.kä:ng"")"	datasets/Kabola-Monbang.tsv		
 408	to throw	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔor	(cf., ʔol ‘tail’)	nan	('to throw', 'atim1239', 'huor')	datasets/Kabola-Monbang.tsv		
 409	to hunt	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	dilap	nan	d i l a p	('to hunt', 'kabo1247', 'dilap')	datasets/Kabola-Monbang.tsv		
-410	to kill	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	amíni	nan	nan	('to kill', 'abui1241-petle', 'bol_moŋ')	datasets/Kabola-Monbang.tsv		
+410	to kill	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	amíni	nan	nan	('to kill', 'adan1251-lawah', 'aminiʔ')	datasets/Kabola-Monbang.tsv		
 411	to chase away; to run after	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	arlili	nan	a r l i l i	"('to chase away; to run after', 'abui1241-takal', ""tä.'pä:.tiŋ"")"	datasets/Kabola-Monbang.tsv		
 413	to search for; to hunt for	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	yaŋ lap	nan	y a ŋ _ l a p	('to search for; to hunt for', 'adan1251-lawah', 'la:p')	datasets/Kabola-Monbang.tsv		
 414	to dig	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wóloŋ	nan	w ó l o ŋ	('to dig', 'adan1251-lawah', 'aluŋ')	datasets/Kabola-Monbang.tsv		
 415	to bury	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	apót	nan	a p ó t	('to bury', 'adan1251-lawah', 'ʔapat')	datasets/Kabola-Monbang.tsv		
-416	to flow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tawoilj	nan	t a w o i l j	('to flow', 'abui1241-fuime', 'ije_tawele')	datasets/Kabola-Monbang.tsv		
-417	to float	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	natéleʔ mára	nan	n a - - t é l e ʔ _ m á r a	('to float', 'abui1241-fuime', 'ije_fauiti')	datasets/Kabola-Monbang.tsv		
+416	to flow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tawoilj	nan	t a w o i l j	('to flow', 'adan1251-lawah', 'tawoi')	datasets/Kabola-Monbang.tsv		
+417	to float	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	natéleʔ mára	nan	n a - - t é l e ʔ _ m á r a	('to float', 'adan1251-lawah', 'tɛdɛʔ')	datasets/Kabola-Monbang.tsv		
 419	to hold	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	oʔopuiɲ	nan	nan	('to hold', 'abui1241-fuime', 'ho-puna')	datasets/Kabola-Monbang.tsv		
-420	to tie	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	apoco	nan	- a p o c o	('to tie', 'adan1251-lawah', 'ʔapeceʔ')	datasets/Kabola-Monbang.tsv		
+420	to tie	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	apoco	nan	- a p o c o	('to tie', 'adan1251-lawah', 'ʔapeʧeʔ')	datasets/Kabola-Monbang.tsv		
 421	to play	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	soʔor	nan	s o ʔ o r	('to play', 'adan1251-lawah', 'haʔor')	datasets/Kabola-Monbang.tsv		
 422	to pull	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	apiʔiŋ	nan	#NAME?	('to pull', 'abui1241-fuime', 'ha-fik')	datasets/Kabola-Monbang.tsv		
 423	to push	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	odoʔo	nan	#NAME?	('to push', 'adan1251-lawah', 'adoʔo')	datasets/Kabola-Monbang.tsv		
 424	to turn	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ariŋ miʔi	nan	- a r i - - ŋ _ m i ʔ i	('to turn', 'adan1251-lawah', 'ʔdimiŋ')	datasets/Kabola-Monbang.tsv		
 425	to dream	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	poy	nan	#NAME?	('to dream', 'adan1251-lawah', 'pei')	datasets/Kabola-Monbang.tsv		
-426	to crouch; to bend over	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	doiɲdoiɲ (mihí)	To crouch as on an Indonesian toilet, NOT: to kneel	d o i ɲ d o i ɲ	('to crouch; to bend over', 'kabo1247', 'doiɲdoiɲ_(mihí)')	datasets/Kabola-Monbang.tsv		
+426	to crouch; to bend over	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	doiɲdoiɲ (mihí)	To crouch as on an Indonesian toilet, NOT: to kneel	d o i ɲ d o i ɲ	('to crouch; to bend over', 'kabo1247', 'doiɲdoiɲ (mihí)')	datasets/Kabola-Monbang.tsv		
 426	to crouch; to bend over	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	liʔiw	To crouch as on an Indonesian toilet, NOT: to kneel	l i ʔ i w	('to crouch; to bend over', 'abui1241-fuime', 'luke')	datasets/Kabola-Monbang.tsv		
-428	to choose	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teraʔai	nan	t e r a - ʔ a i	('to choose', 'adan1251-otvai', 'taraʔ')	datasets/Kabola-Monbang.tsv		
+428	to choose	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	teraʔai	nan	t e r a - ʔ a i	('to choose', 'alor1249-sar-a', 'wantraj')	datasets/Kabola-Monbang.tsv		
 429	to grow	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kabówo	nan	k a b ów o	('to grow', 'adan1251-lawah', 'abowoʔ')	datasets/Kabola-Monbang.tsv		
-430	to squeeze	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	apapaʔ	nan	a p a p a ʔ	('to squeeze', 'adan1251-otvai', 'apap')	datasets/Kabola-Monbang.tsv		
+430	to squeeze	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	apapaʔ	nan	a p a p a ʔ	('to squeeze', 'kabo1247', 'apapaʔ')	datasets/Kabola-Monbang.tsv		
 431	to buy	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	we:l	nan	w eː l -	('to buy', 'abui1241-fuime', 'bele')	datasets/Kabola-Monbang.tsv		
 432	to sell	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wail	nan	- w a i l - -	('to sell', 'abui1241-fuime', 'balik')	datasets/Kabola-Monbang.tsv		
 433	to steal	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nataʔaw	nan	n a t a ʔ a - w	('to steal', 'abui1241-fuime', 'takau')	datasets/Kabola-Monbang.tsv		
-434	to open	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(na) doliŋ	nan	d o l i ŋ	('to open', 'kabo1247', '(na)_doliŋ')	datasets/Kabola-Monbang.tsv		
+434	to open	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(na) doliŋ	nan	d o l i ŋ	('to open', 'kabo1247', '(na) doliŋ')	datasets/Kabola-Monbang.tsv		
 435	to close	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	whutéle	nan	wh u t - é l e - -	('to close', 'adan1251-lawah', 'watɛlɛ')	datasets/Kabola-Monbang.tsv		
-436	to climb	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(na) lolo	nan	l o l o	('to climb', 'kabo1247', '(na)_lolo')	datasets/Kabola-Monbang.tsv		
+436	to climb	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	(na) lolo	nan	l o l o	('to climb', 'kabo1247', '(na) lolo')	datasets/Kabola-Monbang.tsv		
 437	to hide	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	təwúni	nan	t ə w ú n i - -	('to hide', 'abui1241-fuime', 'tabuŋ')	datasets/Kabola-Monbang.tsv		
-438	to wait	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	anána	nan	#NAME?	('to wait', 'adan1251-otvai', 'adanaŋ')	datasets/Kabola-Monbang.tsv		
+438	to wait	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	anána	nan	#NAME?	('to wait', 'kabo1247', 'anána')	datasets/Kabola-Monbang.tsv		
 439	to fold	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	napalíʔi	NOT: lipat tikar	n a p a l í ʔ i	('to fold', 'adan1251-lawah', 'paliʔi')	datasets/Kabola-Monbang.tsv		
 440	to help	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔokreyeŋ	nan	- - - ʔ o k r e y e ŋ	('to help', 'kabo1247', 'ʔokreyeŋ')	datasets/Kabola-Monbang.tsv		
 441	to bark	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	olówo	nan	#NAME?	('to bark', 'abui1241-takal', 'lɔi')	datasets/Kabola-Monbang.tsv		
-442	to shoot	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	másaŋ	nan	m á s a ŋ	('to shoot', 'adan1251-otvai', 'masaŋ')	datasets/Kabola-Monbang.tsv		
+442	to shoot	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	másaŋ	nan	m á s a ŋ	"('to shoot', 'alor1247-baran', ""'pasa"")"	datasets/Kabola-Monbang.tsv		
 444	to pound; to beat	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	natapaŋ	nan	n a t a p a n g	('to pound; to beat', 'abui1241-fuime', 'tape')	datasets/Kabola-Monbang.tsv		
 445	to hit (drum)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔor	(minimal pair with ‘tail’?)	- - - - - - - ʔ o - - r	('to hit (drum)', 'adan1251-lawah', 'ød')	datasets/Kabola-Monbang.tsv		
 446	to call out	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	huʔuiɲ	nan	h u ʔ u i ɲ	('to call out', 'kabo1247', 'huʔuiɲ')	datasets/Kabola-Monbang.tsv		
-447	to lie (tell untruth)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baʔa (akuli)	nan	#NAME?	('to lie (tell untruth)', 'kabo1247', 'baʔa_(akuli)')	datasets/Kabola-Monbang.tsv		
+447	to lie (tell untruth)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	baʔa (akuli)	nan	#NAME?	('to lie (tell untruth)', 'kabo1247', 'baʔa (akuli)')	datasets/Kabola-Monbang.tsv		
 448	to ask (question)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hutaʔaiɲ	nan	nan	('to ask (question)', 'abui1241-fuime', 'na:tahaŋ')	datasets/Kabola-Monbang.tsv		
 449	to count	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	taʔána	nan	nan	('to count', 'adan1251-lawah', 'taʔana')	datasets/Kabola-Monbang.tsv		
 450	one	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	nu	nan	nan	('one', 'abui1241-fuime', 'nuku')	datasets/Kabola-Monbang.tsv		
-451	two	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ho:lo	nan	nan	('two', 'atim1239', 'ayoku')	datasets/Kabola-Monbang.tsv		
-451	two	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hoʔolo	nan	nan	('two', 'atim1239', 'ayoku')	datasets/Kabola-Monbang.tsv		
+451	two	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ho:lo	nan	nan	('two', 'atim1239', 'ajoku')	datasets/Kabola-Monbang.tsv		
+451	two	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	hoʔolo	nan	nan	('two', 'atim1239', 'ajoku')	datasets/Kabola-Monbang.tsv		
 452	three	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tówo	nan	- t ów o -	('three', 'abui1241-fuime', 'sua')	datasets/Kabola-Monbang.tsv		
 453	four	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	u:t	nan	nan	('four', 'abui1241-fuime', 'buti')	datasets/Kabola-Monbang.tsv		
 454	five	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	weheŋ	nan	nan	('five', 'abui1241-fuime', 'jetiŋ')	datasets/Kabola-Monbang.tsv		
@@ -371,23 +371,23 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 456	seven	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	wuitto	nan	w u - i tt o	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/Kabola-Monbang.tsv		
 457	eight	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	turlo	nan	t u r - l o	('eight', 'adan1251-lawah', 'turloʔ')	datasets/Kabola-Monbang.tsv		
 458	nine	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tiʔinu	nan	#NAME?	('nine', 'adan1251-lawah', 'tiʔinu')	datasets/Kabola-Monbang.tsv		
-459	ten	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu	nan	nan	('ten', 'abui1241-fuime', 'kar_nuku')	datasets/Kabola-Monbang.tsv		
-460	eleven	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu woliŋ nu	nan	k a r - n - - u _ - - w o - l i ŋ _ - n u - -	"('eleven', 'abui1241-takal', ""kär.'nu.qu._wäl_'nu.qu"")"	datasets/Kabola-Monbang.tsv		
-461	twelve	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu woliŋ olo	nan	k a r - n - - u _ - w o - l i ŋ - _ o l - - - o	('twelve', 'abui1241-fuime', 'wal_ajoku')	datasets/Kabola-Monbang.tsv		
-462	thirteen	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu woliŋ towo	nan	k a - r - n - - u _ - - w o - l - i ŋ _ - - t o w o	"('thirteen', 'abui1241-takal', ""kär.'nu.qu._wäl_'su.ä"")"	datasets/Kabola-Monbang.tsv		
-469	twenty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kar jolo	nan	k a - r _ j - - - - - o l o	('twenty', 'abui1241-fuime', 'kar_ajoku')	datasets/Kabola-Monbang.tsv		
-470	twenty one	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kar jolo nu	nan	nan	('twenty one', 'abui1241-fuime', 'kar_ajoku_wal_nuku')	datasets/Kabola-Monbang.tsv		
-475	thirty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kar tówo	nan	k a r - - - _ t ów o	('thirty', 'adan1251-lawah', 'air_towoʔ')	datasets/Kabola-Monbang.tsv		
+459	ten	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu	nan	nan	('ten', 'adan1251-lawah', 'airnu')	datasets/Kabola-Monbang.tsv		
+460	eleven	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu woliŋ nu	nan	k a r - n - - u _ - - w o - l i ŋ _ - n u - -	('eleven', 'dein1238', 'qarnuk aunu nuk')	datasets/Kabola-Monbang.tsv		
+461	twelve	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu woliŋ olo	nan	k a r - n - - u _ - w o - l i ŋ - _ o l - - - o	('twelve', 'alor1249-sar-a', 'qar nuk unraq')	datasets/Kabola-Monbang.tsv		
+462	thirteen	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	karnu woliŋ towo	nan	k a - r - n - - u _ - - w o - l - i ŋ _ - - t o w o	('thirteen', 'adan1251-lawah', 'airnu waliŋ towo')	datasets/Kabola-Monbang.tsv		
+469	twenty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kar jolo	nan	k a - r _ j - - - - - o l o	('twenty', 'adan1251-lawah', 'airialu')	datasets/Kabola-Monbang.tsv		
+470	twenty one	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kar jolo nu	nan	nan	('twenty one', 'adan1251-lawah', 'airalu waliŋ nu')	datasets/Kabola-Monbang.tsv		
+475	thirty	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kar tówo	nan	k a r - - - _ t ów o	('thirty', 'adan1251-lawah', 'air towoʔ')	datasets/Kabola-Monbang.tsv		
 482	one hundred	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	rat nu	nan	r a t - - _ n u - -	('one hundred', 'adan1251-lawah', 'ratnu')	datasets/Kabola-Monbang.tsv		
-483	one hundred and twenty three	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ratnu karjolo woliŋ tówo	nan	r a t - n u _ - - - - k a - r j o l o - - _ w o l - i ŋ _ - t ów - o	('one hundred and twenty three', 'adan1251-lawah', 'ratnu_airalu_waliŋ_towo')	datasets/Kabola-Monbang.tsv		
+483	one hundred and twenty three	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ratnu karjolo woliŋ tówo	nan	r a t - n u _ - - - - k a - r j o l o - - _ w o l - i ŋ _ - t ów - o	('one hundred and twenty three', 'adan1251-lawah', 'ratnu airalu waliŋ towo')	datasets/Kabola-Monbang.tsv		
 484	two hundred	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	rattolo	nan	r a tt - o l o	('two hundred', 'adan1251-lawah', 'ratalu')	datasets/Kabola-Monbang.tsv		
-485	thousand	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ribnu	nan	r i b n - - u - - - - -	('thousand', 'abui1241-fuime', 'rifi_nuku')	datasets/Kabola-Monbang.tsv		
-489	grandchild	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔor(o) kala	The kinship task also asks for this term	- - ʔ o r _ k a l a -	('grandchild', 'kabo1247', 'ʔor(o)_kala')	datasets/Kabola-Monbang.tsv		
-587	oven/cooking place	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	seʔewuy	nan	s e ʔ e w u y	('oven/cooking place', 'adan1251-otvai', 'eʔfɔi')	datasets/Kabola-Monbang.tsv		
-588	flower (in e.g. mangga tree)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti buŋ	nan	t i _ b u - - - ŋ	('flower (in e.g. mangga tree)', 'adan1251-otvai', 'ti_buŋ')	datasets/Kabola-Monbang.tsv		
-589	vein	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tərú	nan	t ə - r - - ú	('vein', 'adan1251-otvai', 'taru')	datasets/Kabola-Monbang.tsv		
-590	long (stick)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lou	nan	#NAME?	('long (stick)', 'adan1251-otvai', 'tilai')	datasets/Kabola-Monbang.tsv		
-591	tall (person)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lewen	nan	#NAME?	('tall (person)', 'adan1251-otvai', 'namɛ_lɛbaŋ')	datasets/Kabola-Monbang.tsv		
+485	thousand	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ribnu	nan	r i b n - - u - - - - -	('thousand', 'adan1251-lawah', 'ribnu')	datasets/Kabola-Monbang.tsv		
+489	grandchild	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ʔor(o) kala	The kinship task also asks for this term	- - ʔ o r _ k a l a -	('grandchild', 'kabo1247', 'ʔor(o) kala')	datasets/Kabola-Monbang.tsv		
+587	oven/cooking place	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	seʔewuy	nan	s e ʔ e w u y	('oven/cooking place', 'kabo1247', 'seʔewuy')	datasets/Kabola-Monbang.tsv		
+588	flower (in e.g. mangga tree)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	ti buŋ	nan	t i _ b u - - - ŋ	('flower (in e.g. mangga tree)', 'baka1276', 'buma')	datasets/Kabola-Monbang.tsv		
+589	vein	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	tərú	nan	t ə - r - - ú	('vein', 'kabo1247', 'tərú')	datasets/Kabola-Monbang.tsv		
+590	long (stick)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lou	nan	#NAME?	('long (stick)', 'hama1240', 'lai')	datasets/Kabola-Monbang.tsv		
+591	tall (person)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	lewen	nan	#NAME?	('tall (person)', 'kabo1247', 'lewen')	datasets/Kabola-Monbang.tsv		
 592	short (stick)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	toʔoŋ	nan	#NAME?	('short (stick)', 'adan1251-lawah', 'toʔoŋ')	datasets/Kabola-Monbang.tsv		
-593	narrow (road)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kepúhu	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	k e p ú h u	('narrow (road)', 'adan1251-otvai', 'kapuh')	datasets/Kabola-Monbang.tsv		
+593	narrow (road)	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	kepúhu	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	k e p ú h u	"('narrow (road)', 'alor1247-baran', ""ki'p:ɛ"")"	datasets/Kabola-Monbang.tsv		
 598	to chase away; to expel	kabo1247	Kabola-Monbang	Timor-Alor-Pantar	3Alor, 1West	aloloʔ	nan	a - l o l o ʔ	('to chase away; to expel', 'adan1251-lawah', 'arlili')	datasets/Kabola-Monbang.tsv		
