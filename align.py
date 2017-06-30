@@ -61,9 +61,25 @@ if __name__ == "__main__":
         if args.only_necessary and len(set([
                 len(r.split()) for r in cognateclass["Alignment"]])) == 1:
             continue
+
+        # Convert the data from a dataframe into a dict that
+        # multi_align can work with. NOTE: By its current API,
+        # infomapcog expects (L,C,V) tuples as keys.
         as_dict = [
-            {(c, l, tuple(row[args.tokens].split()))
+            {(l, c, tuple(row[args.tokens].split()))
                 for (c, l, t), row in cognateclass.iterrows()}]
+
+        if len(as_dict[0]) == 1:
+            language, concept, alg = as_dict[0].pop()
+            data.set_value(
+                (concept, language, ''.join(alg)),
+                "Alignment",
+                " ".join([a or '-' for a in alg]))
+            continue
+
+        # Run the multi-alignment algorithm. Because it manipulates
+        # the tree internally, putting the forms on its nodes, we pass
+        # a copy of the tree so different groups don't come in conflict.
         for group, (languages, concepts, algs) in dataio.multi_align(
                 as_dict, copy.deepcopy(tree),
                 lodict=dataio.MaxPairDict(lodict),
@@ -71,15 +87,10 @@ if __name__ == "__main__":
             for language, concept, alg in zip(
                     languages, concepts, zip(*algs)):
                 print(alg)
-                try:
-                    data.set_value(
-                        (language, concept, ''.join(alg)),
-                        "Alignment",
-                        " ".join([a or '-' for a in alg]))
-                except Exception:
-                    import pdb
-                    pdb.set_trace()
-                    raise
+                data.set_value(
+                    (concept, language, ''.join(alg)),
+                    "Alignment",
+                    " ".join([a or '-' for a in alg]))
 
     data.to_csv(args.output,
                 index=True,
