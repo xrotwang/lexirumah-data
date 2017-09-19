@@ -3,6 +3,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 1	sun	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	war	nan	w a r - - - -	"('sun', 'abui1241-fuime', 'wari')"	datasets/Deing.tsv		
 2	moon	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	wur	nan	nan	"('moon', 'abui1241-fuime', 'ije')"	datasets/Deing.tsv		
 3	star	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jif	nan	j i f -	"('star', 'abui1241-fuime', 'fɪri')"	datasets/Deing.tsv		
+3	star	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤif	nan	j i f -	"('star', 'abui1241-fuime', 'fɪri')"	datasets/Deing.tsv		
 4	night	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	i bes	nan	i _ b e s	"('night', 'alor1249-sar-a', 'ibes')"	datasets/Deing.tsv		
 5	day	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	war	nan	w a r -	"('day', 'adan1251-lawah', 'wɛd saha')"	datasets/Deing.tsv		
 7	morning	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	bes tik:aŋ	nan	b e s _ t i kk a n g	"('morning', 'alor1249-sar-a', 'bes iwaŋ')"	datasets/Deing.tsv		
@@ -25,7 +26,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 26	mountain	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	qoq	nan	q o q	"('mountain', 'dein1238', 'qoq')"	datasets/Deing.tsv		
 27	hill; ridge	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	mu:g	nan	m uu - - - g	"('hill; ridge', 'alor1249-sar-n', 'mu:g lewa')"	datasets/Deing.tsv		
 28	village	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	habaŋ	nan	h a b a n g	"('village', 'adan1251-lawah', 'baŋ ʔɛme')"	datasets/Deing.tsv		
-28	village	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jet	nan	j e t	"('village', 'dein1238', 'jet')"	datasets/Deing.tsv		
+28	village	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤet	nan	j e t	"('village', 'dein1238', 'jet')"	datasets/Deing.tsv		
 29	land; soil	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	mux	nan	m u x - - -	"('land; soil', 'alor1249-sar-a', ""ma'xaʔ"")"	datasets/Deing.tsv		
 30	Earth	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	por	nan	p o r	"('Earth', 'alor1249-sar-a', 'por')"	datasets/Deing.tsv		
 31	hole	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ba:q	(yag:ang ba:q  'lubang tanah')	- - b aa q -	"('hole', 'blag1240-bama', 'ilbaxa')"	datasets/Deing.tsv		
@@ -59,7 +60,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 59	bow	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	axmut:aŋ	nan	nan	"('bow', 'alor1249-sar-a', ""ʔa'mutan"")"	datasets/Deing.tsv		
 60	arrow	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	qawu:t	nan	nan	"('arrow', 'abui1241-takal', ""kä.'fuq"")"	datasets/Deing.tsv		
 61	knife	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	siʔar	nan	s i - ˈa r	"('knife', 'alor1249-sar-a', 'siar')"	datasets/Deing.tsv		
-62	comb	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jime	"kir ('sisir kasar'), jime ('sisir untuk kutu')"	j i m e - -	"('comb', 'alor1249-sar-n', 'jimaj')"	datasets/Deing.tsv		
+62	comb	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤime	"kir ('sisir kasar'), jime ('sisir untuk kutu')"	j i m e - -	"('comb', 'alor1249-sar-n', 'jimaj')"	datasets/Deing.tsv		
 62	comb	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	kir	"kir ('sisir kasar'), jime ('sisir untuk kutu')"	k i - - - r -	"('comb', 'abui1241-fuime', 'ke:ti')"	datasets/Deing.tsv		
 63	mat	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	bis	nan	b i s - -	"('mat', 'adan1251-lawah', 'bahu')"	datasets/Deing.tsv		
 64	needle	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	pare	nan	p a r e	"('needle', 'dein1238', 'pare')"	datasets/Deing.tsv		
@@ -88,7 +89,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 90	rattan	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	tar-tar	nan	t a r t a r	"('rattan', 'dein1238', 'tar-tar')"	datasets/Deing.tsv		
 91	root	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ga-rak	nan	g a r a - k	"('root', 'alor1249-sar-a', ""a'rak"")"	datasets/Deing.tsv		
 92	fruit	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jis	jis  (cf. ji:s 'pondok')	j i s - - - - - - -	"('fruit', 'alor1249-sar-a', 'ʤit')"	datasets/Deing.tsv		
-92	fruit	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jis	jis  (cf. ji:s 'pondok')	- j - i s - - - - -	"('fruit', 'alor1249-sar-a', 'ʤit')"	datasets/Deing.tsv		
+92	fruit	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤis	jis  (cf. ji:s 'pondok')	- j - i s - - - - -	"('fruit', 'alor1249-sar-a', 'ʤit')"	datasets/Deing.tsv		
 93	seed	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	bax	nan	b a x -	"('seed', 'alor1249-sar-a', 'bah')"	datasets/Deing.tsv		
 96	husked rice; uncooked rice	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	rax bax	nan	r a x _ b a x	"('husked rice; uncooked rice', 'abui1241-fuime', 'ajak')"	datasets/Deing.tsv		
 98	cooked rice	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	waʔ	nan	nan	"('cooked rice', 'alor1247-baran', ""'fata"")"	datasets/Deing.tsv		
@@ -119,7 +120,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 124	jackfruit	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	tuan	nan	- t u a n -	"('jackfruit', 'abui1241-fuime', 'soŋ')"	datasets/Deing.tsv		
 125	breadfruit	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	kulur	nan	nan	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	datasets/Deing.tsv		
 126	bean	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	qa:s	nan	nan	"('bean', 'alor1249-sar-a', 'qa:s')"	datasets/Deing.tsv		
-127	honey	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jahaʔaŋ	nan	j a h a ˈa n g	"('honey', 'dein1238', ""jaha'aŋ"")"	datasets/Deing.tsv		
+127	honey	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤahaʔaŋ	nan	j a h a ˈa n g	"('honey', 'dein1238', ""jaha'aŋ"")"	datasets/Deing.tsv		
 128	milk	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	aŋ	not 'breast'	#NAME?	"('milk', 'alor1249-sar-a', 'haŋ')"	datasets/Deing.tsv		
 129	salt	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jas:ir	nan	j a ss i r -	"('salt', 'alor1249-sar-a', 'ʤisar')"	datasets/Deing.tsv		
 130	fat	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	qaut	nan	q a u t -	"('fat', 'alor1249-sar-a', 'qout')"	datasets/Deing.tsv		
@@ -164,7 +165,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 178	knee	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	nawat gaum	nan	n a w a t _ - g a u m	"('knee', 'alor1249-sar-a', ""gə'fat ku"")"	datasets/Deing.tsv		
 179	back	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	nataŋ gaum	nan	n a t a n g _ g a u m	"('back', 'dein1238', 'nataŋ gaum')"	datasets/Deing.tsv		
 182	skin	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	nawat kuʔ	nan	nan	"('skin', 'alor1249-sar-a', 'piŋ kuwal')"	datasets/Deing.tsv		
-183	sore; wound	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jwat	nan	nan	"('sore; wound', 'alor1249-sar-a', ""be'tis"")"	datasets/Deing.tsv		
+183	sore; wound	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤwat	nan	nan	"('sore; wound', 'alor1249-sar-a', ""be'tis"")"	datasets/Deing.tsv		
 184	ringworm	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	qu:s	nan	q uu s -	"('ringworm', 'dein1238', 'qu:s')"	datasets/Deing.tsv		
 186	tinea	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	mna:s	nan	m - n aa s	"('tinea', 'alor1249-sar-a', ""mə'nas"")"	datasets/Deing.tsv		
 187	feverish	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	wu luwe	nan	w u _ l u w e	"('feverish', 'dein1238', 'wu luwe')"	datasets/Deing.tsv		
@@ -235,7 +236,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 291	bad	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ja:s	nan	nan	"('bad', 'alor1249-sar-a', 'ja:t')"	datasets/Deing.tsv		
 292	full	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	wal	nan	w a l -	"('full', 'adan1251-lawah', 'wutulu')"	datasets/Deing.tsv		
 293	empty	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	asaq	nan	#NAME?	"('empty', 'alor1249-sar-a', ""ji'sak"")"	datasets/Deing.tsv		
-296	wet	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jiriʔ	nan	j i r i ˈ	"('wet', 'adan1251-lawah', 'har')"	datasets/Deing.tsv		
+296	wet	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤiriʔ	nan	j i r i ˈ	"('wet', 'adan1251-lawah', 'har')"	datasets/Deing.tsv		
 297	dry	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	si:s	nan	s ii s - - -	"('dry', 'alor1249-sar-a', 'si:d')"	datasets/Deing.tsv		
 298	dry in sun	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	wad:aŋ	nan	- - w a dd a n g -	"('dry in sun', 'abui1241-fuime', 'waritek')"	datasets/Deing.tsv		
 302	short (people)	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	noum si:s	nan	n o u m _ s ii s	"('short (people)', 'adan1251-lawah', 'lama')"	datasets/Deing.tsv		
@@ -309,7 +310,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 377	to give	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	me giaŋ	nan	m e _ g i a n - g	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	datasets/Deing.tsv		
 378	to wipe	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	briʔ	nan	- b - r i ˈ	"('to wipe', 'dein1238', ""bri'"")"	datasets/Deing.tsv		
 379	to come	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ma	nan	- - - m a - - -	"('to come', 'abui1241-fuime', 'me')"	datasets/Deing.tsv		
-380	to laugh	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jaxar	nan	j a x a r -	"('to laugh', 'abui1241-petle', 'jei')"	datasets/Deing.tsv		
+380	to laugh	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤaxar	nan	j a x a r -	"('to laugh', 'abui1241-petle', 'jei')"	datasets/Deing.tsv		
 381	to cry	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ba:g	nan	b aa - g - - -	"('to cry', 'abui1241-fuime', 'biakda')"	datasets/Deing.tsv		
 382	to dance	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	seipis	nan	nan	"('to dance', 'adan1251-lawah', 'sɛbɛʔɛ')"	datasets/Deing.tsv		
 383	to sing	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	emaq magai wir	nan	e m a q _ m a g a i _ w i r	"('to sing', 'dein1238', 'emaq magai wir')"	datasets/Deing.tsv		
@@ -352,7 +353,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 422	to pull	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ker	nan	k e - r -	"('to pull', 'alor1249-sar-a', 'kejr')"	datasets/Deing.tsv		
 423	to push	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	tum	nan	t u m	"('to push', 'alor1247-baran', ""'tɔbaŋ"")"	datasets/Deing.tsv		
 424	to turn	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	wan qilaŋ	nan	w a n - _ q i l a n g	"('to turn', 'dein1238', 'wan qilaŋ')"	datasets/Deing.tsv		
-425	to dream	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	jip:ir	nan	j i - pp i r	"('to dream', 'adan1251-lawah', 'pei')"	datasets/Deing.tsv		
+425	to dream	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	ʤip:ir	nan	j i - pp i r	"('to dream', 'adan1251-lawah', 'pei')"	datasets/Deing.tsv		
 426	to crouch; to bend over	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	sa:ʔ	"To crouch as on an Indonesian toilet, NOT: to kneel"	s aa ˈ -	"('to crouch; to bend over', 'alor1249-sar-a', ""'saʔ"")"	datasets/Deing.tsv		
 428	to choose	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	trai	nan	t - r a - i	"('to choose', 'adan1251-lawah', 'taraʔa')"	datasets/Deing.tsv		
 429	to grow	dein1238	Deing	Timor-Alor-Pantar	"1Pantar, 1West"	i:l	nan	ii l	"('to grow', 'alor1249-sar-a', ""I'la"")"	datasets/Deing.tsv		
