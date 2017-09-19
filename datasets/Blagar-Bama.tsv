@@ -49,8 +49,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 59	bow	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	umat	nan	nan	"('bow', 'alor1249-sar-a', ""ʔa'mutan"")"	datasets/Blagar-Bama.tsv		
 60	arrow	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	kubulit	nan	nan	"('arrow', 'abui1241-takal', ""kä.'fuq"")"	datasets/Blagar-Bama.tsv		
 61	knife	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	semeriŋ	nan	s e m e r i ŋ -	"('knife', 'blag1240-bama', 'semeriŋ')"	datasets/Blagar-Bama.tsv		
-62	comb	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	'kiri	"kíri ‘large comb’, ímil ‘small comb’"	k í - - - r i	"('comb', 'abui1241-fuime', 'ke:ti')"	datasets/Blagar-Bama.tsv		
-62	comb	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	'imil	"kíri ‘large comb’, ímil ‘small comb’"	#NAME?	"('comb', 'alor1249-sar-n', 'jimaj')"	datasets/Blagar-Bama.tsv		
+62	comb	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	'kiri	'large comb'.	k í - - - r i	"('comb', 'abui1241-fuime', 'ke:ti')"	datasets/Blagar-Bama.tsv		
+62	comb	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	'imil	'small comb'.	#NAME?	"('comb', 'alor1249-sar-n', 'jimaj')"	datasets/Blagar-Bama.tsv		
 63	mat	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	bex	nan	b e x - -	"('mat', 'adan1251-lawah', 'bahu')"	datasets/Blagar-Bama.tsv		
 64	needle	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	batul	nan	b a t u l	"('needle', 'adan1251-lawah', 'bátuŋ')"	datasets/Blagar-Bama.tsv		
 67	fire	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ad	nan	- a d -	"('fire', 'abui1241-fuime', 'ara')"	datasets/Blagar-Bama.tsv		
@@ -157,8 +157,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 196	wife	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	tepras	Not 'married woman'.	( t ) e p - r a s -	"('wife', 'baka1276', 'epraha')"	datasets/Blagar-Bama.tsv		
 197	mother	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	niwa	nan	nan	"('mother', 'adan1251-lawah', 'niwi')"	datasets/Blagar-Bama.tsv		
 198	father	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	nimaŋ	nan	nan	"('father', 'abui1241-fuime', 'mama')"	datasets/Blagar-Bama.tsv		
-199	older sibling	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	nekaw ika	"nekaw mutu ‘older sibling’, nekaw ika ‘younger sibling’"	nan	"('older sibling', 'alor1249-sar-n', 'nənaʔ mətú')"	datasets/Blagar-Bama.tsv		
-199	older sibling	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	nekaw mutu	"nekaw mutu ‘older sibling’, nekaw ika ‘younger sibling’"	nan	"('older sibling', 'alor1249-sar-n', 'nənaʔ mətú')"	datasets/Blagar-Bama.tsv		
+199	older sibling	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	nekaw ika	'younger sibling'.	nan	"('older sibling', 'alor1249-sar-n', 'nənaʔ mətú')"	datasets/Blagar-Bama.tsv		
+199	older sibling	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	nekaw mutu	'older sibling'.	nan	"('older sibling', 'alor1249-sar-n', 'nənaʔ mətú')"	datasets/Blagar-Bama.tsv		
 200	younger sibling	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	nikuŋ	nan	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	datasets/Blagar-Bama.tsv		
 201	bride price	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	wili pala	nan	nan	"('bride price', 'abui1241-fuime', 'he-bel')"	datasets/Blagar-Bama.tsv		
 202	slave	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	gaiŋ wala	nan	nan	"('slave', 'alor1249-sar-a', 'gahiŋwal')"	datasets/Blagar-Bama.tsv		
@@ -190,8 +190,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 266	egg	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	godok	nan	g o d o k -	"('egg', 'alor1249-sar-a', ""to'xol"")"	datasets/Blagar-Bama.tsv		
 267	earthworm	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	dumiŋ kalaliŋ	nan	- d u m i ŋ - _ k a l a l i ŋ -	"('earthworm', 'baka1276', 'dukalaliŋ')"	datasets/Blagar-Bama.tsv		
 268	butterfly	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	qaqil	nan	nan	"('butterfly', 'blag1240-bama', 'qaqil')"	datasets/Blagar-Bama.tsv		
-269	fly (n.)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	a:soŋ	"wawar ‘large fly’, a:soŋ ‘fruit fly’"	aa s o ŋ	"('fly (n.)', 'blag1240-bama', 'a:soŋ')"	datasets/Blagar-Bama.tsv		
-269	fly (n.)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	wawar	"wawar ‘large fly’, a:soŋ ‘fruit fly’"	w a w a r	"('fly (n.)', 'alor1249-sar-a', ""ʤə'fur"")"	datasets/Blagar-Bama.tsv		
+269	fly (n.)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	a:soŋ	'fruit fly'.	aa s o ŋ	"('fly (n.)', 'blag1240-bama', 'a:soŋ')"	datasets/Blagar-Bama.tsv		
+269	fly (n.)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	wawar	'large fly'.	w a w a r	"('fly (n.)', 'alor1249-sar-a', ""ʤə'fur"")"	datasets/Blagar-Bama.tsv		
 270	mosquito	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	kinit	‘mosquito’	k i n i t _ ‘ m o s q u i t o ’	"('mosquito', 'adan1251-lawah', 'ʔin')"	datasets/Blagar-Bama.tsv		
 270	mosquito	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	bedar 	‘gnat’	k i n i t _ ‘ m o s q u i t o ’	"('mosquito', 'adan1251-lawah', 'ʔin')"	datasets/Blagar-Bama.tsv		
 271	ant	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	irikiŋ	nan	nan	"('ant', 'alor1249-sar-a', ""ʤe'rih"")"	datasets/Blagar-Bama.tsv		
@@ -199,18 +199,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 274	spider	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	kaka'raŋa	nan	k a k a r á ŋ - a	"('spider', 'alor1247-besar', ""ka'raŋga"")"	datasets/Blagar-Bama.tsv		
 275	headlice	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ku'waŋ	nan	#NAME?	"('headlice', 'abui1241-fuime', 'bikeŋ')"	datasets/Blagar-Bama.tsv		
 276	louse eggs	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	diliŋ	nan	- - - d i l i ŋ -	"('louse eggs', 'alor1249-sar-a', ""de'liŋ"")"	datasets/Blagar-Bama.tsv		
-278	flea	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	atuk	atuk ‘small flea’ tepela ‘large flea’	a t u k - -	"('flea', 'atim1239', 'tukota')"	datasets/Blagar-Bama.tsv		
-278	flea	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	tepela	atuk ‘small flea’ tepela ‘large flea’	t e p e l a -	"('flea', 'blag1240-bama', 'tepela')"	datasets/Blagar-Bama.tsv		
+278	flea	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	atuk	'small flea'.	a t u k - -	"('flea', 'atim1239', 'tukota')"	datasets/Blagar-Bama.tsv		
+278	flea	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	tepela	'large flea'.	t e p e l a -	"('flea', 'blag1240-bama', 'tepela')"	datasets/Blagar-Bama.tsv		
 279	louse (clothing)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	we	nan	#NAME?	"('louse (clothing)', 'abui1241-fuime', 'be')"	datasets/Blagar-Bama.tsv		
 280	bedbug	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	temek	nan	nan	"('bedbug', 'abui1241-fuime', 'ta:mek')"	datasets/Blagar-Bama.tsv		
 281	big	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ele	nan	nan	"('big', 'baka1276', 'le')"	datasets/Blagar-Bama.tsv		
 282	small	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	kiki	nan	k i k - - i -	"('small', 'blag1240-bama', 'kiki')"	datasets/Blagar-Bama.tsv		
 283	old; worn (house)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	tunaŋge	nan	#NAME?	"('old; worn (house)', 'alor1247-pandai', ""'tua"")"	datasets/Blagar-Bama.tsv		
 284	new (house)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ugui	nan	u g u - i	"('new (house)', 'blag1240-bama', 'ugui')"	datasets/Blagar-Bama.tsv		
-285	old (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	boma	"boma ‘old man’, memet ‘old woman’"	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Bama.tsv		
-285	old (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	memet	"boma ‘old man’, memet ‘old woman’"	m e m - e t - -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Bama.tsv		
-286	young (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	kuar	"kuar ‘young man’, yaquŋ qeneŋ ‘young woman’"	k u - a r	"('young (people)', 'baka1276', 'kuwár')"	datasets/Blagar-Bama.tsv		
-286	young (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ʤaquŋ qeneŋ	"kuar ‘young man’, yaquŋ qeneŋ ‘young woman’"	- j - a q u ŋ _ q e n e - - ŋ -	"('young (people)', 'baka1276', 'jauŋ kəneiŋ')"	datasets/Blagar-Bama.tsv		
+285	old (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	boma	'old man'.	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Bama.tsv		
+285	old (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	memet	'old woman'.	m e m - e t - -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Bama.tsv		
+286	young (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	kuar	'young man’.	k u - a r	"('young (people)', 'baka1276', 'kuwár')"	datasets/Blagar-Bama.tsv		
+286	young (people)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ʤaquŋ qeneŋ	'young woman'.	- j - a q u ŋ _ q e n e - - ŋ -	"('young (people)', 'baka1276', 'jauŋ kəneiŋ')"	datasets/Blagar-Bama.tsv		
 287	lazy	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	mut ʤasi	nan	#NAME?	"('lazy', 'blag1240-bama', 'mut jasi')"	datasets/Blagar-Bama.tsv		
 288	hot	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	vara	nan	v a r a -	"('hot', 'baka1276', 'bára')"	datasets/Blagar-Bama.tsv		
 288	hot	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	wara	nan	w a r a -	"('hot', 'baka1276', 'bára')"	datasets/Blagar-Bama.tsv		
@@ -227,8 +227,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 305	thick	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	'pusi	nan	p ú s i	"('thick', 'baka1276', 'pusi')"	datasets/Blagar-Bama.tsv		
 307	dark	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	qana	nan	#NAME?	"('dark', 'abui1241-takal', ""ä.'qun"")"	datasets/Blagar-Bama.tsv		
 308	light	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	lera	nan	- l e - - r a	"('light', 'alor1249-sar-a', ""I'har"")"	datasets/Blagar-Bama.tsv		
-309	dirty	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	pari	"pusi ‘dirty around the house’, pari ‘dirty, as of clothes’"	p a r i	"('dirty', 'blag1240-bama', 'pari')"	datasets/Blagar-Bama.tsv		
-309	dirty	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	pusi	"pusi ‘dirty around the house’, pari ‘dirty, as of clothes’"	p u s i	"('dirty', 'blag1240-bama', 'pari')"	datasets/Blagar-Bama.tsv		
+309	dirty	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	pari	"'dirty, as of clothes'."	p a r i	"('dirty', 'blag1240-bama', 'pari')"	datasets/Blagar-Bama.tsv		
+309	dirty	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	pusi	'dirty around the house'.	p u s i	"('dirty', 'blag1240-bama', 'pari')"	datasets/Blagar-Bama.tsv		
 310	clean	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	mosolaŋ	nan	m o s o l a ŋ -	"('clean', 'adan1251-lawah', 'maduluŋ')"	datasets/Blagar-Bama.tsv		
 311	sharp	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	magaŋ	"Of spear (tombak) or machete (parang); if there are two different words, elicit both."	m a g a ŋ -	"('sharp', 'baka1276', 'maŋ')"	datasets/Blagar-Bama.tsv		
 312	blunt; dull	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	kumal	nan	nan	"('blunt; dull', 'adan1251-lawah', 'kumuŋ')"	datasets/Blagar-Bama.tsv		
@@ -264,8 +264,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 343	to see	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	lala	nan	l a l a	"('to see', 'alor1247-besar', ""ka'lalaŋ"")"	datasets/Blagar-Bama.tsv		
 344	to hear	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	waqara	nan	w a q a r a	"('to hear', 'alor1249-sar-a', ""wu'raqar"")"	datasets/Blagar-Bama.tsv		
 344	to hear	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	wa'xara	nan	w a x á r a	"('to hear', 'alor1249-sar-a', ""wu'raqar"")"	datasets/Blagar-Bama.tsv		
-345	to smell	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	baiŋ	"baiŋ ‘smell’, timiku ‘kiss’"	b a i ŋ	"('to smell', 'blag1240-bama', 'baiŋ')"	datasets/Blagar-Bama.tsv		
-345	to smell	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	timiku	"baiŋ ‘smell’, timiku ‘kiss’"	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Bama.tsv		
+345	to smell	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	baiŋ	'smell'.	b a i ŋ	"('to smell', 'blag1240-bama', 'baiŋ')"	datasets/Blagar-Bama.tsv		
+345	to smell	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	timiku	'kiss'.	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Bama.tsv		
 346	to think	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	veŋani	nan	v e ŋ - a n - - i -	"('to think', 'blag1240-bama', 'veŋani')"	datasets/Blagar-Bama.tsv		
 347	to know	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	gadaŋ	nan	g a d a - ŋ -	"('to know', 'baka1276', 'teiŋ')"	datasets/Blagar-Bama.tsv		
 349	to speak	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	tutuk	nan	- - - - - t u t u k - - - - - -	"('to speak', 'alor1247-baran', ""'tut:u"")"	datasets/Blagar-Bama.tsv		
@@ -298,8 +298,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 379	to come	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ma	nan	- - - m a - - -	"('to come', 'abui1241-fuime', 'me')"	datasets/Blagar-Bama.tsv		
 380	to laugh	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ige'ra	nan	- i g e r á	"('to laugh', 'abui1241-petle', 'jei')"	datasets/Blagar-Bama.tsv		
 381	to cry	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	'bagu	nan	b á - g - u -	"('to cry', 'abui1241-fuime', 'biakda')"	datasets/Blagar-Bama.tsv		
-382	to dance	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	dari	"dari ‘slow lego-lego’, sokil ‘fast lego-lego’"	d a r i -	"('to dance', 'baka1276', 'dari')"	datasets/Blagar-Bama.tsv		
-382	to dance	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	sokil	"dari ‘slow lego-lego’, sokil ‘fast lego-lego’"	nan	"('to dance', 'abui1241-fuime', 'tohaijok')"	datasets/Blagar-Bama.tsv		
+382	to dance	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	dari	'slow lego-lego'.	d a r i -	"('to dance', 'baka1276', 'dari')"	datasets/Blagar-Bama.tsv		
+382	to dance	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	sokil	'fast lego-lego'.	nan	"('to dance', 'abui1241-fuime', 'tohaijok')"	datasets/Blagar-Bama.tsv		
 383	to sing	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	dar geniŋ	nan	d a r _ g e n i ŋ	"('to sing', 'adan1251-lawah', 'da:la')"	datasets/Blagar-Bama.tsv		
 384	to burn (clear land)	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	il gede	nan	- i l _ g e d e -	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	datasets/Blagar-Bama.tsv		
 385	to burn; to shine	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	gede	nan	g - e d e	"('to burn; to shine', 'baka1276', 'ede')"	datasets/Blagar-Bama.tsv		
@@ -346,9 +346,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 431	to buy	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	weli	nan	#NAME?	"('to buy', 'abui1241-fuime', 'bele')"	datasets/Blagar-Bama.tsv		
 432	to sell	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	awali	nan	- a w a l i -	"('to sell', 'abui1241-fuime', 'balik')"	datasets/Blagar-Bama.tsv		
 433	to steal	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	taxawi	nan	t a x a w i -	"('to steal', 'abui1241-fuime', 'takau')"	datasets/Blagar-Bama.tsv		
-434	to open	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	(tuni) medi	(tuni) medi ‘open door’	m e d i	"('to open', 'blag1240-bama', '(tuni) medi')"	datasets/Blagar-Bama.tsv		
-434	to open	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ebaŋ	(tuni) medi ‘open door’	e b a ŋ	"('to open', 'blag1240-bama', 'ebaŋ')"	datasets/Blagar-Bama.tsv		
-435	to close	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	(tuni) venteriŋ 	‘close door’	v e n t e r i ŋ _ ‘ c l o s e _ d oo r ’	"('to close', 'adan1251-lawah', 'watɛlɛ')"	datasets/Blagar-Bama.tsv		
+434	to open	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	(tuni) medi	'open door'.	m e d i	"('to open', 'blag1240-bama', '(tuni) medi')"	datasets/Blagar-Bama.tsv		
+434	to open	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	ebaŋ	nan	e b a ŋ	"('to open', 'blag1240-bama', 'ebaŋ')"	datasets/Blagar-Bama.tsv		
+435	to close	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	(tuni) venteriŋ 	'close door'.	v e n t e r i ŋ _ ‘ c l o s e _ d oo r ’	"('to close', 'adan1251-lawah', 'watɛlɛ')"	datasets/Blagar-Bama.tsv		
 436	to climb	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	gua	nan	g u a -	"('to climb', 'blag1240-bama', 'gua')"	datasets/Blagar-Bama.tsv		
 437	to hide	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	amaŋ	nan	- a m a ŋ -	"('to hide', 'alor1249-sar-a', ""pi-'maj"")"	datasets/Blagar-Bama.tsv		
 438	to wait	blag1240-bama	Blagar-Bama	Timor-Alor-Pantar	"1Pantar, 2East"	gadiŋ	nan	g a d i ŋ - -	"('to wait', 'adan1251-lawah', 'ʔadana')"	datasets/Blagar-Bama.tsv		

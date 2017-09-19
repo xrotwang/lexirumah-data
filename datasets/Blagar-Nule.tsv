@@ -73,8 +73,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 87	leaf	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	te va	nan	- t e - _ v a - - -	"('leaf', 'abui1241-fuime', 'watala')"	datasets/Blagar-Nule.tsv		
 88	branch	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	te kə'raŋa	cabang pohon	nan	"('branch', 'blag1240-kulij', 'tei kraŋga')"	datasets/Blagar-Nule.tsv		
 89	firewood	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	a:d dera	nan	aa d _ d e r - - a	"('firewood', 'adan1251-lawah', 'a: taʔata')"	datasets/Blagar-Nule.tsv		
-90	rattan	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'lija	"'lija ‘long rattan’, nəvár ‘short rattan’"	l í y a - -	"('rattan', 'adan1251-lawah', 'lɛʔ')"	datasets/Blagar-Nule.tsv		
-90	rattan	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	nə'var	"'lija ‘long rattan’, nəvár ‘short rattan’"	n ə v á r	"('rattan', 'blag1240-nule', 'nəvár')"	datasets/Blagar-Nule.tsv		
+90	rattan	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'lija	'long rattan'.	l í y a - -	"('rattan', 'adan1251-lawah', 'lɛʔ')"	datasets/Blagar-Nule.tsv		
+90	rattan	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	nə'var	'short rattan'.	n ə v á r	"('rattan', 'blag1240-nule', 'nəvár')"	datasets/Blagar-Nule.tsv		
 91	root	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	te brigiŋ	nan	t e _ b - r i g i ŋ -	"('root', 'baka1276', 'te briŋ')"	datasets/Blagar-Nule.tsv		
 92	fruit	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	te hi	nan	t e - - _ h i - - -	"('fruit', 'alor1249-sar-a', 'ʤit')"	datasets/Blagar-Nule.tsv		
 93	seed	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	te kulu	nan	#NAME?	"('seed', 'adan1251-lawah', 'awai')"	datasets/Blagar-Nule.tsv		
@@ -156,8 +156,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 178	knee	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ti'ʤa kuku	nan	t i j á - _ k u k u	"('knee', 'alor1249-sar-a', ""gə'fat ku"")"	datasets/Blagar-Nule.tsv		
 179	back	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	təmota era	nan	nan	"('back', 'baka1276', 'mota')"	datasets/Blagar-Nule.tsv		
 182	skin	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	piʔulit	nan	nan	"('skin', 'adan1251-lawah', 'ʔui')"	datasets/Blagar-Nule.tsv		
-183	sore; wound	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'bata	‘old wound’	nan	"('sore; wound', 'alor1249-sar-a', 'ʤifat')"	datasets/Blagar-Nule.tsv		
-183	sore; wound	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'ibat	‘new wound’	nan	"('sore; wound', 'alor1249-sar-a', ""be'tis"")"	datasets/Blagar-Nule.tsv		
+183	sore; wound	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'bata	'old wound'.	nan	"('sore; wound', 'alor1249-sar-a', 'ʤifat')"	datasets/Blagar-Nule.tsv		
+183	sore; wound	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'ibat	'new wound'.	nan	"('sore; wound', 'alor1249-sar-a', ""be'tis"")"	datasets/Blagar-Nule.tsv		
 185	scabies	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ko:t	nan	k oo t	"('scabies', 'adan1251-lawah', 'at')"	datasets/Blagar-Nule.tsv		
 186	tinea	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	mə'naw	nan	m ə n á w	"('tinea', 'alor1249-sar-a', ""mə'nas"")"	datasets/Blagar-Nule.tsv		
 187	feverish	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	viviriŋ	nan	v i v i r i ŋ -	"('feverish', 'alor1247-besar', ""ta'fefa"")"	datasets/Blagar-Nule.tsv		
@@ -220,10 +220,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 282	small	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	kod:uk	nan	k o dd u - k	"('small', 'abui1241-fuime', 'kdiŋ')"	datasets/Blagar-Nule.tsv		
 283	old; worn (house)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	luŋ	nan	l u ŋ	"('old; worn (house)', 'baka1276', 'luŋ')"	datasets/Blagar-Nule.tsv		
 284	new (house)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ahe	nan	a h e	"('new (house)', 'blag1240-nule', 'ahe')"	datasets/Blagar-Nule.tsv		
-285	old (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	boma	"boma ‘old man’, meet ‘old woman’"	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Nule.tsv		
-285	old (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	me:t	"boma ‘old man’, meet ‘old woman’"	m ee - - - t - -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Nule.tsv		
-286	young (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ʤauŋ kenewiŋ	"kuar ‘young man’, ʤauŋ kenewiŋ ‘young woman’"	- - j a - u ŋ _ k e n e w i ŋ -	"('young (people)', 'baka1276', 'jauŋ kəneiŋ')"	datasets/Blagar-Nule.tsv		
-286	young (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	kuar	"kuar ‘young man’, ʤauŋ kenewiŋ ‘young woman’"	k u - a r	"('young (people)', 'baka1276', 'kuwár')"	datasets/Blagar-Nule.tsv		
+285	old (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	boma	'old man'.	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Nule.tsv		
+285	old (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	me:t	'old woman'.	m ee - - - t - -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Nule.tsv		
+286	young (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ʤauŋ kenewiŋ	'young woman'.	- - j a - u ŋ _ k e n e w i ŋ -	"('young (people)', 'baka1276', 'jauŋ kəneiŋ')"	datasets/Blagar-Nule.tsv		
+286	young (people)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	kuar	'young man'.	k u - a r	"('young (people)', 'baka1276', 'kuwár')"	datasets/Blagar-Nule.tsv		
 287	lazy	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	pəloit	nan	p ə l o i t	"('lazy', 'blag1240-nule', 'pəloit')"	datasets/Blagar-Nule.tsv		
 288	hot	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'bara	nan	b á r a -	"('hot', 'baka1276', 'bára')"	datasets/Blagar-Nule.tsv		
 289	cold	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ʤevi	nan	j e v i -	"('cold', 'baka1276', 'jevi')"	datasets/Blagar-Nule.tsv		
@@ -269,16 +269,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 336	shy; ashamed	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	tawabilil	nan	t a w a b i l i l	"('shy; ashamed', 'blag1240-bama', 'tawaq ejeruŋ')"	datasets/Blagar-Nule.tsv		
 337	thirsty	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	təme:n tata	nan	t ə m ee n - _ t a - - t a	"('thirsty', 'adan1251-lawah', 'dolo taʔata')"	datasets/Blagar-Nule.tsv		
 338	hungry	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	tawan mə'napal	nan	t a w a n _ m ə n á p a l	"('hungry', 'baka1276', 'manápal')"	datasets/Blagar-Nule.tsv		
-339	blind	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	eʔeŋ ʤasi	"eʔeŋ ʤasi (lit., ‘bad eyes’), neʔeŋ moró (lit., ‘foggy eyes’)"	nan	"('blind', 'alor1249-sar-a', 'pet ja:t')"	datasets/Blagar-Nule.tsv		
-339	blind	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	neʔeŋ mo'ro	"eʔeŋ ʤasi (lit., ‘bad eyes’), neʔeŋ moró (lit., ‘foggy eyes’)"	n e ʔ e ŋ _ m o r ó	"('blind', 'blag1240-nule', 'neʔeŋ moró')"	datasets/Blagar-Nule.tsv		
+339	blind	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	eʔeŋ ʤasi	"(lit., ‘bad eyes’)."	nan	"('blind', 'alor1249-sar-a', 'pet ja:t')"	datasets/Blagar-Nule.tsv		
+339	blind	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	neʔeŋ mo'ro	"(lit., ‘foggy eyes’)."	n e ʔ e ŋ _ m o r ó	"('blind', 'blag1240-nule', 'neʔeŋ moró')"	datasets/Blagar-Nule.tsv		
 340	deaf	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	kmuke	nan	#NAME?	"('deaf', 'alor1247-baran', ""ka'muk:ɛ"")"	datasets/Blagar-Nule.tsv		
 340	deaf	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	kəmuke	nan	#NAME?	"('deaf', 'alor1247-baran', ""ka'muk:ɛ"")"	datasets/Blagar-Nule.tsv		
 341	scared	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'dadi	nan	d á d i - -	"('scared', 'baka1276', 'dádi')"	datasets/Blagar-Nule.tsv		
 342	angry	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	tomilil	nan	t o m i l i l	"('angry', 'alor1249-sar-a', 'om kaka')"	datasets/Blagar-Nule.tsv		
 343	to see	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	teiŋ	nan	#NAME?	"('to see', 'baka1276', 'teiŋ')"	datasets/Blagar-Nule.tsv		
 344	to hear	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	veŋme	nan	v e ŋ m e	"('to hear', 'baka1276', 'veŋme')"	datasets/Blagar-Nule.tsv		
-345	to smell	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	miku	"mimiŋ ‘smell’, miku ‘kiss’"	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Nule.tsv		
-345	to smell	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	mimiŋ	"mimiŋ ‘smell’, miku ‘kiss’"	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Nule.tsv		
+345	to smell	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	miku	'kiss'.	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Nule.tsv		
+345	to smell	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	mimiŋ	'smell'.	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Nule.tsv		
 346	to think	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ukur	nan	- u - - - k u r	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	datasets/Blagar-Nule.tsv		
 347	to know	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	veŋkruaŋ	nan	v e ŋ k r u a ŋ	"('to know', 'blag1240-nule', 'veŋkruaŋ')"	datasets/Blagar-Nule.tsv		
 348	to say	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	tutuktutuk	‘chat’	t u t u k t u t u k	"('to say', 'blag1240-nule', 'tutuktutuk')"	datasets/Blagar-Nule.tsv		
@@ -313,8 +313,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 379	to come	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ma	nan	- - - m a - - -	"('to come', 'abui1241-fuime', 'me')"	datasets/Blagar-Nule.tsv		
 380	to laugh	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ja:r	nan	- y - aa r -	"('to laugh', 'abui1241-petle', 'jei')"	datasets/Blagar-Nule.tsv		
 381	to cry	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	bow	nan	b o w	"('to cry', 'baka1276', 'bow')"	datasets/Blagar-Nule.tsv		
-382	to dance	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'dari	"dári ‘lego-lego’, sarsumba ‘dance’"	d á r i -	"('to dance', 'baka1276', 'dari')"	datasets/Blagar-Nule.tsv		
-382	to dance	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	sarsumba	"dári ‘lego-lego’, sarsumba ‘dance’"	nan	"('to dance', 'alor1247-besar', ""sar'sumba"")"	datasets/Blagar-Nule.tsv		
+382	to dance	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'dari	'lego-lego'.	d á r i -	"('to dance', 'baka1276', 'dari')"	datasets/Blagar-Nule.tsv		
+382	to dance	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	sarsumba	'dance'.	nan	"('to dance', 'alor1247-besar', ""sar'sumba"")"	datasets/Blagar-Nule.tsv		
 383	to sing	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	dar 'hoj	nan	d a r _ h ó - y -	"('to sing', 'adan1251-lawah', 'da:la')"	datasets/Blagar-Nule.tsv		
 384	to burn (clear land)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	bil ede	nan	b i l _ - e d e -	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	datasets/Blagar-Nule.tsv		
 385	to burn; to shine	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	ade	nan	#NAME?	"('to burn; to shine', 'baka1276', 'ede')"	datasets/Blagar-Nule.tsv		
@@ -331,8 +331,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 396	to swell	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	'vara	nan	- v á r a -	"('to swell', 'alor1249-sar-a', ""wa'ra"")"	datasets/Blagar-Nule.tsv		
 397	to hit	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	meaŋ	nan	m e a ŋ	"('to hit', 'baka1276', 'meaŋ')"	datasets/Blagar-Nule.tsv		
 399	to bite	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	gaki	nan	g a k - - i	"('to bite', 'baka1276', 'ga:kik')"	datasets/Blagar-Nule.tsv		
-400	to cut	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	pa'ras	"parás ‘cut’, toniŋ ‘slice’"	p a r á s	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Blagar-Nule.tsv		
-400	to cut	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	toniŋ	"parás ‘cut’, toniŋ ‘slice’"	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Blagar-Nule.tsv		
+400	to cut	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	pa'ras	'cut'.	p a r á s	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Blagar-Nule.tsv		
+400	to cut	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	toniŋ	'slice'.	nan	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Blagar-Nule.tsv		
 401	to cut down	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	hi'ba	nan	h i b á -	"('to cut down', 'baka1276', 'híba')"	datasets/Blagar-Nule.tsv		
 402	to split	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	kaj	nan	k a - y	"('to split', 'abui1241-fuime', 'kadel')"	datasets/Blagar-Nule.tsv		
 403	to divide	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	hurak	nan	h u r a k	"('to divide', 'blag1240-nule', 'hurak')"	datasets/Blagar-Nule.tsv		
@@ -410,6 +410,6 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 591	tall (person)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	məlolu	nan	m ə l o l u -	"('tall (person)', 'baka1276', 'blolu')"	datasets/Blagar-Nule.tsv		
 592	short (stick)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	tukaŋ	nan	t u - - k a ŋ - -	"('short (stick)', 'alor1249-sar-a', 'tuk')"	datasets/Blagar-Nule.tsv		
 593	narrow (road)	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	kə'rubo	"Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight)."	k ə r ú b o	"('narrow (road)', 'baka1276', 'krobok')"	datasets/Blagar-Nule.tsv		
-598	to chase away; to expel	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	bura	"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’"	b u r a -	"('to chase away; to expel', 'alor1249-sar-a', ""bu'rah"")"	datasets/Blagar-Nule.tsv		
-598	to chase away; to expel	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	sambe	"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’"	s a m b e	"('to chase away; to expel', 'blag1240-nule', 'sambe')"	datasets/Blagar-Nule.tsv		
-598	to chase away; to expel	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	sika	"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’"	s i k a -	"('to chase away; to expel', 'alor1249-sar-a', ""si'kah"")"	datasets/Blagar-Nule.tsv		
+598	to chase away; to expel	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	bura	'sound to shoo a chicken'.	b u r a -	"('to chase away; to expel', 'alor1249-sar-a', ""bu'rah"")"	datasets/Blagar-Nule.tsv		
+598	to chase away; to expel	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	sambe	'sound to shoo a goat'.	s a m b e	"('to chase away; to expel', 'blag1240-nule', 'sambe')"	datasets/Blagar-Nule.tsv		
+598	to chase away; to expel	blag1240-nule	Blagar-Nule	Timor-Alor-Pantar	"1Pantar,2East"	sika	'sound to shoo a dog'.	s i k a -	"('to chase away; to expel', 'alor1249-sar-a', ""si'kah"")"	datasets/Blagar-Nule.tsv		

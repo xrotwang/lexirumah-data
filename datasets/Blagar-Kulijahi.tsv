@@ -55,9 +55,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 62	comb	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	kiri	nan	k i - - - r i	"('comb', 'abui1241-fuime', 'ke:ti')"	datasets/Blagar-Kulijahi.tsv		
 63	mat	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	bihi	nan	b i h i -	"('mat', 'adan1251-lawah', 'bahu')"	datasets/Blagar-Kulijahi.tsv		
 64	needle	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	batul	nan	b a t u l	"('needle', 'adan1251-lawah', 'bátuŋ')"	datasets/Blagar-Kulijahi.tsv		
-65	clothing	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	deko	"kondo 'shirt', deko/leko 'pants'"	d e k o	"('clothing', 'blag1240-kulij', 'deko')"	datasets/Blagar-Kulijahi.tsv		
-65	clothing	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	kondo	"kondo 'shirt', deko/leko 'pants'"	k o n d o	"('clothing', 'alor1247-baran', ""'konʤo"")"	datasets/Blagar-Kulijahi.tsv		
-65	clothing	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	leko	"kondo 'shirt', deko/leko 'pants'"	l e k o	"('clothing', 'blag1240-kulij', 'deko')"	datasets/Blagar-Kulijahi.tsv		
+65	clothing	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	deko	'pants'.	d e k o	"('clothing', 'blag1240-kulij', 'deko')"	datasets/Blagar-Kulijahi.tsv		
+65	clothing	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	kondo	'shirt'.	k o n d o	"('clothing', 'alor1247-baran', ""'konʤo"")"	datasets/Blagar-Kulijahi.tsv		
+65	clothing	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	leko	'pants'.	l e k o	"('clothing', 'blag1240-kulij', 'deko')"	datasets/Blagar-Kulijahi.tsv		
 67	fire	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	a:d beta	nan	aa d - _ b e t a - -	"('fire', 'abui1241-fuime', 'ara')"	datasets/Blagar-Kulijahi.tsv		
 68	smoke	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	bə'naŋka	nan	b ə n á n g k a	"('smoke', 'adan1251-lawah', 'awai banoʔo')"	datasets/Blagar-Kulijahi.tsv		
 70	dust; fine earth	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	mor:o	nan	m o rr o - -	"('dust; fine earth', 'adan1251-lawah', 'malu')"	datasets/Blagar-Kulijahi.tsv		
@@ -214,8 +214,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 282	small	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	kud:u	nan	k u dd u - -	"('small', 'abui1241-fuime', 'kdiŋ')"	datasets/Blagar-Kulijahi.tsv		
 283	old; worn (house)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	pari	nan	p a r i	"('old; worn (house)', 'blag1240-kulij', 'pari')"	datasets/Blagar-Kulijahi.tsv		
 284	new (house)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	hiba	nan	h i b - - a -	"('new (house)', 'abui1241-fuime', 'fija')"	datasets/Blagar-Kulijahi.tsv		
-285	old (people)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	boma	"medʤasi 'old woman', boma 'old man'"	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Kulijahi.tsv		
-285	old (people)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	medʤasi	"medʤasi 'old woman', boma 'old man'"	m e d j a s i -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Kulijahi.tsv		
+285	old (people)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	boma	'old man'.	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Kulijahi.tsv		
+285	old (people)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	medʤasi	'old woman'.	m e d j a s i -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Kulijahi.tsv		
 286	young (people)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	ʤahu keneŋ kuwar	nan	j a h u _ k e n e n g _ k u w a r	"('young (people)', 'blag1240-kulij', 'jahu keneŋ kuwar')"	datasets/Blagar-Kulijahi.tsv		
 287	lazy	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	moleŋ	nan	m o l e n g -	"('lazy', 'adan1251-lawah', 'maraʔan')"	datasets/Blagar-Kulijahi.tsv		
 288	hot	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	baraʔ	nan	b a r a ˈ	"('hot', 'baka1276', 'bára')"	datasets/Blagar-Kulijahi.tsv		
@@ -269,8 +269,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 346	to think	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	ukur	nan	- u - - - k u r	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	datasets/Blagar-Kulijahi.tsv		
 347	to know	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tei	(also 'to see')	#NAME?	"('to know', 'baka1276', 'teiŋ')"	datasets/Blagar-Kulijahi.tsv		
 349	to speak	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tutuk	nan	- - - - - t u t u k - - - - - -	"('to speak', 'alor1247-baran', ""'tut:u"")"	datasets/Blagar-Kulijahi.tsv		
-352	to lie down	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	bena	bena 'be sleepy'	b e n a	"('to lie down', 'alor1247-besar', ""'pɔna-'pɔna"")"	datasets/Blagar-Kulijahi.tsv		
-352	to lie down	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tijaʔ	bena 'be sleepy'	nan	"('to lie down', 'abui1241-fuime', 'ta')"	datasets/Blagar-Kulijahi.tsv		
+352	to lie down	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	bena	'be sleepy'.	b e n a	"('to lie down', 'alor1247-besar', ""'pɔna-'pɔna"")"	datasets/Blagar-Kulijahi.tsv		
+352	to lie down	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tijaʔ	nan	nan	"('to lie down', 'abui1241-fuime', 'ta')"	datasets/Blagar-Kulijahi.tsv		
 353	to sleep	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tijaʔ	nan	t i y a ˈ - -	"('to sleep', 'abui1241-fuime', 'ta')"	datasets/Blagar-Kulijahi.tsv		
 354	to wake up	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tahi	nan	t a h - - i	"('to wake up', 'adan1251-lawah', 'tohø')"	datasets/Blagar-Kulijahi.tsv		
 355	to wake someone up	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	aiŋ meha	nan	a i n g _ m e h a -	"('to wake someone up', 'baka1276', 'mehar')"	datasets/Blagar-Kulijahi.tsv		
@@ -356,8 +356,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 441	to bark	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	lotiʔ	nan	- - - l o t i ˈ	"('to bark', 'baka1276', 'loti')"	datasets/Blagar-Kulijahi.tsv		
 442	to shoot	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	masaŋ	nan	m a s a n g	"('to shoot', 'alor1247-baran', ""'pasa"")"	datasets/Blagar-Kulijahi.tsv		
 443	to shoot with slingshot	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tenimpil	nan	t e n i m p i l	"('to shoot with slingshot', 'blag1240-kulij', 'tenimpil')"	datasets/Blagar-Kulijahi.tsv		
-444	to pound; to beat	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	nombo	tapa' 'pound rice' nombo 'hit with fist'	#NAME?	"('to pound; to beat', 'baka1276', 'tunumuk')"	datasets/Blagar-Kulijahi.tsv		
-444	to pound; to beat	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tapaʔ	tapa' 'pound rice' nombo 'hit with fist'	nan	"('to pound; to beat', 'abui1241-fuime', 'tape')"	datasets/Blagar-Kulijahi.tsv		
+444	to pound; to beat	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	nombo	'hit with fist'.	#NAME?	"('to pound; to beat', 'baka1276', 'tunumuk')"	datasets/Blagar-Kulijahi.tsv		
+444	to pound; to beat	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	tapaʔ	'pound rice'.	nan	"('to pound; to beat', 'abui1241-fuime', 'tape')"	datasets/Blagar-Kulijahi.tsv		
 445	to hit (drum)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	peiŋ oda	nan	p e - i n g _ - o d a	"('to hit (drum)', 'adan1251-lawah', 'ød')"	datasets/Blagar-Kulijahi.tsv		
 446	to call out	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	gadeŋ	nan	g a d - - e n g	"('to call out', 'baka1276', 'gáreŋ')"	datasets/Blagar-Kulijahi.tsv		
 447	to lie (tell untruth)	blag1240-kulij	Blagar-Kulijahi	Timor-Alor-Pantar	"1Pantar, 2East"	leko	nan	l e k o	"('to lie (tell untruth)', 'baka1276', 'léko')"	datasets/Blagar-Kulijahi.tsv		

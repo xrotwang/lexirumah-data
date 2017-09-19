@@ -151,10 +151,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 189	cold; influenza	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	imiŋ omi pi:	nan	#NAME?	"('cold; influenza', 'baka1276', 'imiŋ omi pi:')"	datasets/Blagar-Bakalang.tsv		
 190	person	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	iŋ	"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'"	- i - ŋ -	"('person', 'baka1276', 'iŋ')"	datasets/Blagar-Bakalang.tsv		
 191	name	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'ene	nan	- - é - n e - -	"('name', 'abui1241-fuime', 'na-ne')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ioal	"oal (3sg), noal (1sg), ioal (3pl), toal (1pl)"	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	noal	"oal (3sg), noal (1sg), ioal (3pl), toal (1pl)"	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	oal	"oal (3sg), noal (1sg), ioal (3pl), toal (1pl)"	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	toal	"oal (3sg), noal (1sg), ioal (3pl), toal (1pl)"	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ioal	(3pl).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	noal	(1sg).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	oal	(3sg).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	toal	(1pl).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
 193	man	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mehal	nan	m e h - - - - a l	"('man', 'alor1249-sar-a', 'mase:r')"	datasets/Blagar-Bakalang.tsv		
 194	woman	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤahuŋ	nan	j a h u ŋ - - -	"('woman', 'baka1276', 'jahuŋ')"	datasets/Blagar-Bakalang.tsv		
 195	husband	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	eniŋ	nan	( - ) e - - n i - ŋ -	"('husband', 'abui1241-takal', 'te̞̞.ne̞äŋ')"	datasets/Blagar-Bakalang.tsv		
@@ -208,10 +208,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 282	small	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kuduk	nan	k u d u - k	"('small', 'abui1241-fuime', 'kdiŋ')"	datasets/Blagar-Bakalang.tsv		
 283	old; worn (house)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	luŋ	nan	l u ŋ	"('old; worn (house)', 'baka1276', 'luŋ')"	datasets/Blagar-Bakalang.tsv		
 284	new (house)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'vede	nan	v é d e - - -	"('new (house)', 'alor1247-baran', 'funɔ')"	datasets/Blagar-Bakalang.tsv		
-285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	boma	"boma ‘old man’, met ‘old woman’"	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Bakalang.tsv		
-285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	met	"boma ‘old man’, met ‘old woman’"	m e - - - t - -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Bakalang.tsv		
-286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤauŋ kəneiŋ	"kuwár ‘young man’, ʤauŋ kəneiŋ ‘young woman’"	- - j a - u ŋ _ k ə n e - i ŋ -	"('young (people)', 'baka1276', 'jauŋ kəneiŋ')"	datasets/Blagar-Bakalang.tsv		
-286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ku'war	"kuwár ‘young man’, ʤauŋ kəneiŋ ‘young woman’"	k u w á r	"('young (people)', 'baka1276', 'kuwár')"	datasets/Blagar-Bakalang.tsv		
+285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	boma	'old man'.	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Bakalang.tsv		
+285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	met	'old woman'.	m e - - - t - -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Bakalang.tsv		
+286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤauŋ kəneiŋ	'young woman'.	- - j a - u ŋ _ k ə n e - i ŋ -	"('young (people)', 'baka1276', 'jauŋ kəneiŋ')"	datasets/Blagar-Bakalang.tsv		
+286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ku'war	'young man'.	k u w á r	"('young (people)', 'baka1276', 'kuwár')"	datasets/Blagar-Bakalang.tsv		
 288	hot	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'bara	nan	b á r a -	"('hot', 'baka1276', 'bára')"	datasets/Blagar-Bakalang.tsv		
 289	cold	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤevi	nan	j e v i -	"('cold', 'baka1276', 'jevi')"	datasets/Blagar-Bakalang.tsv		
 290	good	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	auŋ	nan	#NAME?	"('good', 'abui1241-fuime', 'kaŋ')"	datasets/Blagar-Bakalang.tsv		
