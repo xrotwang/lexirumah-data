@@ -7,7 +7,8 @@ import pandas
 import sys
 import argparse
 
-from infomapcog.ipa2asjp import ipa2asjp, tokenize_word_reversibly
+from lingpy import ipa2tokens
+from infomapcog.ipa2asjp import ipa2asjp
 
 clean = {" ": "_",
          "ä": "a",
@@ -23,6 +24,41 @@ clean = {" ": "_",
          'dʒ͡': 'd͡ʒ',
          'ʤ': 'd͡ʒ'}
 
+
+def tokenize_word_reversibly(ipa):
+    """Reversibly convert an IPA string into a list of tokens.
+
+    In contrast to LingPy's tokenize_word, do this without removing
+    symbols. This means that the original IPA string can be recovered
+    from the tokens.
+
+    """
+    tokenized_word = ipa2tokens(
+        ipa, merge_vowels=False, merge_geminates=False)
+    token = 0
+    index = 0
+    for i in ipa:
+        try:
+            tokenized_word[token][index]
+        except IndexError:
+            token += 1
+            index = 0
+        try:
+            if i != tokenized_word[token][index]:
+                if index == 0:
+                    tokenized_word.insert(token, i)
+                else:
+                    tokenized_word[token] = (
+                        tokenized_word[token][:index] +
+                        i +
+                        tokenized_word[token][index:])
+        except IndexError:
+            tokenized_word.append(i)
+        index += 1
+    assert ''.join(tokenized_word) == ipa
+    return tokenized_word
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("input", default="all_data.tsv", nargs="?",
@@ -35,7 +71,7 @@ if __name__ == "__main__":
                         help="Do not remove orthographic variants")
     args = parser.parse_args()
 
-    data = pandas.io.parsers.read_csv(
+    data = pandas.read_csv(
         args.input,
         sep="\t",
         na_values=[""],
@@ -62,7 +98,7 @@ if __name__ == "__main__":
 
     # Clean up NaN values in cognate sets
     data["Cognate Set"] = [
-        float("nan") if (i=='nan' or pandas.isnull(i) or not i) else i
+        float("nan") if (i == 'nan' or pandas.isnull(i) or bool(i) == False) else i
         for i in data["Cognate Set"]]
 
     # Remove line breaks from comments
