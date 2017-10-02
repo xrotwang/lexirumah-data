@@ -8,7 +8,6 @@ import sys
 import argparse
 
 from lingpy import ipa2tokens
-from infomapcog.ipa2asjp import ipa2asjp
 
 clean = {" ": "_",
          "ä": "a",
@@ -31,6 +30,9 @@ def tokenize_word_reversibly(ipa):
     In contrast to LingPy's tokenize_word, do this without removing
     symbols. This means that the original IPA string can be recovered
     from the tokens.
+
+    >>> tokenize_word_reversibly("kə'tːi  'lɔlɔŋ")
+    ["k", "ə", "'tː", "i", "  ", "'l", "ɔ", "l", "ɔ", "ŋ"]
 
     """
     tokenized_word = ipa2tokens(
@@ -93,6 +95,9 @@ if __name__ == "__main__":
     # Tokenize IPA, also to ASJP
     data["Tokens"] = [" ".join(tokenize_word_reversibly(x))
                       for x in data["IPA"]]
+
+    from infomapcog.ipa2asjp import ipa2asjp
+
     data["ASJP"] = [" ".join(ipa2asjp(x))
                     for x in data["IPA"]]
 
