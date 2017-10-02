@@ -57,7 +57,7 @@ def tokenize_word_reversibly(ipa):
         except IndexError:
             tokenized_word.append(i)
         index += 1
-    assert ''.join(tokenized_word) == ipa
+    # assert ''.join(tokenized_word) == ipa
     return tokenized_word
 
 
