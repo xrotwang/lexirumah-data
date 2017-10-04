@@ -24,7 +24,7 @@ clean = {" ": "_",
          'ʤ': 'd͡ʒ'}
 
 
-def tokenize_word_reversibly(ipa):
+def tokenize_word_reversibly(ipa, clean=False):
     """Reversibly convert an IPA string into a list of tokens.
 
     In contrast to LingPy's tokenize_word, do this without removing
@@ -35,6 +35,9 @@ def tokenize_word_reversibly(ipa):
     ["k", "ə", "'tː", "i", "  ", "'l", "ɔ", "l", "ɔ", "ŋ"]
 
     """
+    if clean:
+        for before, after in clean.items():
+            ipa = ipa.replace(before, after)
     tokenized_word = ipa2tokens(
         ipa, merge_vowels=False, merge_geminates=False)
     token = 0
