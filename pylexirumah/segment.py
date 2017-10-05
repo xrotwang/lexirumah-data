@@ -43,6 +43,8 @@ def tokenize_word_reversibly(ipa, clean=False):
         ipa, merge_vowels=False, merge_geminates=False)
     token = 0
     index = 0
+    # For each character in the original IPA string, check the corresponding
+    # character in the newly created list of tokens.
     for i in ipa:
         try:
             tokenized_word[token][index]
@@ -50,6 +52,8 @@ def tokenize_word_reversibly(ipa, clean=False):
             token += 1
             index = 0
         try:
+            # If the characters do not match...
+            # TODO: Finish comments
             if i != tokenized_word[token][index]:
                 if index == 0:
                     tokenized_word.insert(token, i)
@@ -63,6 +67,20 @@ def tokenize_word_reversibly(ipa, clean=False):
         index += 1
     # assert ''.join(tokenized_word) == ipa
     return tokenized_word
+
+
+def tokenize_and_enforce_clpa(form, ignore_clpa_errors=True):
+    """Return the CLPA sequence of a word form.
+
+    If ignore_clpa_errors, return the sequence even if it contains unknown segments;
+    otherwise (ignore_clpa_errors==False), raise an exception for invalid CLPA.
+    """
+    tokenized_word = ipa2tokens(form, merge_vowels=False, merge_geminates=False)
+    for character in form:
+        pass
+    # TODO: Finish the definition of this function.
+    # Think of a way to properly tokenize a form so it can be used as input for the CLPA check.
+    # ipa2tokens() does need the forms to be clean, which I want to avoid.
 
 
 if __name__ == "__main__":
@@ -107,7 +125,7 @@ if __name__ == "__main__":
 
     # Clean up NaN values in cognate sets
     data["Cognate Set"] = [
-        float("nan") if (i == 'nan' or pandas.isnull(i) or bool(i) == False) else i
+        float("nan") if (i == 'nan' or pandas.isnull(i) or not i) else i
         for i in data["Cognate Set"]]
 
     # Remove line breaks from comments
