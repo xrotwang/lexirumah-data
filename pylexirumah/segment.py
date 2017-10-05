@@ -9,19 +9,20 @@ import argparse
 
 from lingpy import ipa2tokens
 
-clean = {" ": "_",
-         "ä": "a",
-         "ε": "ɛ",
-         "é": "e",
-         "á": "a",
-         "í": "i",
-         "Ɂ": "ʔ",
-         "ˈ": "'",
-         ":": "ː",
-         "ɡ": "g",
-         "R": "ʀ",
-         'dʒ͡': 'd͡ʒ',
-         'ʤ': 'd͡ʒ'}
+WHITELIST = {
+    " ": "_",
+    "ä": "a",
+    "ε": "ɛ",
+    "é": "e",
+    "á": "a",
+    "í": "i",
+    "Ɂ": "ʔ",
+    "ˈ": "'",
+    ":": "ː",
+    "ɡ": "g",
+    "R": "ʀ",
+    'dʒ͡': 'd͡ʒ',
+    'ʤ': 'd͡ʒ'}
 
 
 def tokenize_word_reversibly(ipa, clean=False):
@@ -36,7 +37,7 @@ def tokenize_word_reversibly(ipa, clean=False):
 
     """
     if clean:
-        for before, after in clean.items():
+        for before, after in WHITELIST.items():
             ipa = ipa.replace(before, after)
     tokenized_word = ipa2tokens(
         ipa, merge_vowels=False, merge_geminates=False)
