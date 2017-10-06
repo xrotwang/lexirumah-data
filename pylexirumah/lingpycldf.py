@@ -35,7 +35,7 @@ def lingpy_to_cldf(columns, replacement={
     return columns
 
 
-def no_separators_or_newlines(string, separator=","):
+def no_separators_or_newlines(string, separator="\t"):
     if separator == "\t":
         string = string.replace("\n", " ")
         return string.replace("\t", " ")
