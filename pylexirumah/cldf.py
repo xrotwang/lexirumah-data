@@ -1,3 +1,4 @@
+import re
 import math
 
 import csv
@@ -12,6 +13,10 @@ from clldutils.csvw.metadata import Column, Table, Schema, ForeignKey
 from segment import tokenize_word_reversibly
 
 dataset = Wordlist.in_dir(Path(__file__).parent.parent.joinpath("cldf"))
+
+
+def identifier(string):
+    return re.sub('(\W|^(?=\d))+','_', string).strip("_")
 
 # Add cognate set and alignment columns to forms table
 forms_table = dataset.tables[0]
@@ -73,7 +78,7 @@ for l, line in enumerate(csv.DictReader(
         Path(__file__).parent.parent.joinpath("concepts.tsv").open(),
         delimiter="\t")):
     ParameterTable[line["English"]] = {
-        "ID": l,
+        "ID": identifier(line["English"]),
         "Name": line["CONCEPTICON_GLOSS"],
         "English": line["English"].strip(),
         "Indonesian": line["Indonesian"].strip(),
@@ -95,7 +100,7 @@ for item in Path(__file__).parent.parent.joinpath("datasets").iterdir():
             source_data = json.load(metadata.open())
             bib = {}
             for key in source_data:
-                bib[key.replace(" ", "").replace(":", "")] = str(source_data[key])
+                bib[identifier(key)] = str(source_data[key])
             dataset.sources.add(Source(genre='misc', id_=source_id, **bib))
         except FileNotFoundError:
             pass
@@ -106,11 +111,15 @@ for item in Path(__file__).parent.parent.joinpath("datasets").iterdir():
             loan = line["Loan"]
             value = line["Value"]
             if line["Reference"]:
-                name = line["Reference"].replace(";", "").replace(" ", "_").replace("?", "XXX")
-                additional_sources[name] = {}
-                source = [name]
+                name = identifier(line["Reference"])
+                if name:
+                    additional_sources[name] = {}
+                    source = [name]
+                else:
+                    source = []
             else:
                 source = []
+
             FormTable.append({
                 'ID': l,
                 'Language_ID': line["Language_ID"],
@@ -122,7 +131,7 @@ for item in Path(__file__).parent.parent.joinpath("datasets").iterdir():
                     # cm != cm is a cheap test for cm being NaN
                     else cm),
                 'Source': [source_id] + source,
-                'Cognate_Set': line["Cognate Set"],
+                'Cognate_Set': identifier(line["Cognate Set"]),
                 'Alignment': line["Alignment"].split(" ")})
             if line["Loan"]:
                 LoanTable.append({
