@@ -1,5 +1,5 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kəleŋ	nan	k ə l - e ŋ - - - - -	('sky', 'keda1252-leuwa', 'ælæŋ')	datasets/hwamk20150514wordlist.tsv		
+0	sky	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kəleŋ	nan	k ə l - e ŋ - - - - -	('sky', 'kama1365', 'deliŋ')	datasets/hwamk20150514wordlist.tsv		
 1	sun	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ləro	nan	- - - - - - - - - - - l ə r o - - - - - - - -	"('sun', 'alor1247-baran', ""la'ra"")"	datasets/hwamk20150514wordlist.tsv		
 2	moon	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋulan	nan	- - ʋ u l - - - - - - - - - a n -	('moon', 'adan1251-lawah', 'hu:l')	datasets/hwamk20150514wordlist.tsv		
 3	star	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dala	nan	d a - - l a	"('star', 'alor1247-baran', ""ta'mala"")"	datasets/hwamk20150514wordlist.tsv		
@@ -292,7 +292,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 265	scorpion	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mekot	nan	- - m e k o t	('scorpion', 'lama1277-adona', 'ˈmɛkɔt')	datasets/hwamk20150514wordlist.tsv		
 266	egg	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təlon	nan	- - - - - - - t ə l o - - n	"('egg', 'alor1247-baran', ""'taluk"")"	datasets/hwamk20150514wordlist.tsv		
 267	earthworm	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	doho	worm (earthworm)	d o h o	('earthworm', 'sika1262-hewa', 'doho')	datasets/hwamk20150514wordlist.tsv		
-268	butterfly	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mata bulak	nan	m a t a _ b u l a k	('butterfly', 'sika1262-hewa', 'mata bulak')	datasets/hwamk20150514wordlist.tsv		
+268	butterfly	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mata bulak	nan	m a t a _ b u l a k	"('butterfly', 'keda1252-leuba', ""'ʔebal"")"	datasets/hwamk20150514wordlist.tsv		
 269	fly (n.)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lale	nan	- l a l e - -	('fly (n.)', 'kama1365', 'bilewei')	datasets/hwamk20150514wordlist.tsv		
 270	mosquito	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mur	nan	m - - u r	('mosquito', 'kula1280-lanto', 'masir')	datasets/hwamk20150514wordlist.tsv		
 271	ant	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mihe	nan	- - m i h - - e - - -	"('ant', 'fata1247', ""ka'mini"")"	datasets/hwamk20150514wordlist.tsv		
@@ -372,7 +372,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 337	thirsty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	maraʔ	nan	- - - - - m a r a ʔ	"('thirsty', 'alor1247-besar', ""'onɔŋ 'mara"")"	datasets/hwamk20150514wordlist.tsv		
 338	hungry	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	morun	nan	m o r - - u n	"('hungry', 'abui1241-takal', ""nato:k mä.'räi"")"	datasets/hwamk20150514wordlist.tsv		
 339	blind	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	goʔit	nan	g o ʔ i t	('blind', 'sika1262-hewa', 'goʔit')	datasets/hwamk20150514wordlist.tsv		
-340	deaf	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pəke?	nan	- - - - p ə - - - - k - - e ?	('deaf', 'lama1277-adona', 'kɜˈbekʔẽ')	datasets/hwamk20150514wordlist.tsv		
+340	deaf	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pəke?	nan	- - - - p ə - - - - k - - e ?	"('deaf', 'keda1252-leuba', ""'ʔɛbuʔ"")"	datasets/hwamk20150514wordlist.tsv		
 341	scared	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	blauʔ	to fear	b - l au ʔ	('scared', 'sika1262-hewa', 'blauʔ')	datasets/hwamk20150514wordlist.tsv		
 342	angry	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	həpuk	nan	h ə p u k	('angry', 'sika1262-hewa', 'həpuk')	datasets/hwamk20150514wordlist.tsv		
 343	to see	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	papaŋ	/ʔitaʔ/ 1SG, 1PL.IN, 3PL: ʔitaʔ; all others: /ɡitaʔ/ 	p a p a ŋ	('to see', 'sika1262-hewa', 'papaŋ')	datasets/hwamk20150514wordlist.tsv		

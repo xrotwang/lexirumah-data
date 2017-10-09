@@ -1,6 +1,6 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkələm ˈleva	nan	ˈk ə l - ə m _ ˈl e v a	('sky', 'kama1365', 'deliŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
-0	sky	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkələm ˈleva	nan	ˈk ə l - ə m _ ˈl e v a	('sky', 'kama1365', 'deliŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
+0	sky	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkələm ˈleva	nan	ˈk ə l - ə m _ ˈl e v a	('sky', 'lama1277-lerek', 'ˈkələm ˈleva')	datasets/lhhf2016lerek2016222wordlist.tsv		
+0	sky	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkələm ˈleva	nan	ˈk ə l - ə m _ ˈl e v a	('sky', 'lama1277-lerek', 'ˈkələm ˈleva')	datasets/lhhf2016lerek2016222wordlist.tsv		
 1	sun	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈluvak ləˈd͡ʒau	nan	ˈl - - u v a k _ l ə ˈd͡ʒ a u	('sun', 'lama1277-kalik', 'luˈvak')	datasets/lhhf2016lerek2016222wordlist.tsv		
 1	sun	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈluvak ləˈd͡ʒau	nan	ˈl - - u v a k _ l ə ˈd͡ʒ a u	('sun', 'lama1277-kalik', 'luˈvak')	datasets/lhhf2016lerek2016222wordlist.tsv		
 2	moon	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈvulan dʒ͡e kəˈləm	nan	- - ˈv u l a n _ d ʒ͡e _ k ə ˈl ə m -	('moon', 'adan1251-lawah', 'hu:l')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -168,7 +168,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 166	finger	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kiˈkil	nan	k i ˈk i l	('finger', 'lama1277-kalik', 'kiˈkil')	datasets/lhhf2016lerek2016222wordlist.tsv		
 167	fingernail	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kaˈtau	nan	k a ˈt au	('fingernail', 'lama1277-lerek', 'kaˈtau')	datasets/lhhf2016lerek2016222wordlist.tsv		
 168	breast	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	tuˈhor	nan	- t u ˈh o r -	('breast', 'adan1251-lawah', 'toʔ')	datasets/lhhf2016lerek2016222wordlist.tsv		
-169	chest	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	koˈrok	nan	k o ˈr o k	('chest', 'lama1277-lerek', 'koˈrok')	datasets/lhhf2016lerek2016222wordlist.tsv		
+169	chest	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	koˈrok	nan	k o ˈr o k	"('chest', 'keda1252-leuba', ""ɔ'rɔʔ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 170	navel	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəpuˈhər	nan	- - k ə p u ˈh ə r - - -	('navel', 'abui1241-fuime', 'tabike')	datasets/lhhf2016lerek2016222wordlist.tsv		
 171	penis	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	uˈti	nan	- u ˈt i -	('penis', 'lama1277-adona', 'ˈute')	datasets/lhhf2016lerek2016222wordlist.tsv		
 172	vagina	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	puˈki	nan	- p u ˈk i -	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -349,7 +349,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 337	thirsty	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	oremai	nan	o r e m ai	('thirsty', 'lama1277-lerek', 'oremai')	datasets/lhhf2016lerek2016222wordlist.tsv		
 338	hungry	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈtei ˈmaluv	nan	ˈt - - ei - _ ˈm a l u v	"('hungry', 'alor1247-besar', ""'tukaŋ 'malu"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 339	blind	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	maˈta kiˈpɛk	nan	m a ˈt a _ k i ˈp ɛ k	('blind', 'lama1277-lerek', 'maˈta kiˈpɛk')	datasets/lhhf2016lerek2016222wordlist.tsv		
-340	deaf	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəˈlebitən	nan	k ə ˈl e b i - - - - - - t ə n	('deaf', 'lama1277-adona', 'kɜˈbekʔẽ')	datasets/lhhf2016lerek2016222wordlist.tsv		
+340	deaf	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəˈlebitən	nan	k ə ˈl e b i - - - - - - t ə n	"('deaf', 'keda1252-leuba', ""'ʔɛbuʔ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 341	scared	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	təˈnakutən	nan	t ə ˈn a k u t ə n	('scared', 'lama1277-lerek', 'təˈnakutən')	datasets/lhhf2016lerek2016222wordlist.tsv		
 342	angry	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈunor	nan	ˈu n o r	('angry', 'lama1277-lerek', 'ˈunor')	datasets/lhhf2016lerek2016222wordlist.tsv		
 343	to see	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈtulu	nan	ˈt u l u	('to see', 'lama1277-lerek', 'ˈtulu')	datasets/lhhf2016lerek2016222wordlist.tsv		
