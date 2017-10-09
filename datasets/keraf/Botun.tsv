@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Botun.tsv	120. Batu 
 35	water (fresh)	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Botun.tsv	122. Air 
 36	sea; sea water	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	tahik	nan	t a h i k -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Botun.tsv	127. Laut 
-39	forest	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	rukʔã	nan	r u k - - - ʔ ã	('forest', 'lama1277-botun', 'rukʔã')	datasets/keraf/Botun.tsv	132. Hutan
+39	forest	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	rukʔã	nan	r u k - - - ʔ ã	"('forest', 'lama1277-adona', ""'ruːkʔãː"")"	datasets/keraf/Botun.tsv	132. Hutan
 45	road; path; way	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	rarã	nan	- r a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Botun.tsv	7. Jalan
 51	rope	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Botun.tsv	65. Tali
 65	clothing	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Botun.tsv	68. Pakaian 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Botun.tsv	116. Bunga 
 129	salt	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Botun.tsv	128. Garam 
 130	fat	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	worʔã	nan	w o r - - - - ʔ ã - -	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Botun.tsv	104. Lemak 
-131	flesh; meat	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	umã	nan	- u m - ã	('flesh; meat', 'lama1277-botun', 'umã')	datasets/keraf/Botun.tsv	103. Daging 
+131	flesh; meat	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	umã	nan	- u m - ã	('flesh; meat', 'lama1277-adona', 'ˈʔumɜ̃')	datasets/keraf/Botun.tsv	103. Daging 
 132	bone	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	riʔũ	nan	- - - r i ʔ ũ - - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Botun.tsv	19. Tulang
 136	blood	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Botun.tsv	26. Darah
 138	heart	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Botun.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	wewã	nan	w e w ã - - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Botun.tsv	33. Mulut
 155	tongue	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	wewe	nan	w e w e - - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Botun.tsv	35. Lidah
 156	neck	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	wuli	nan	w u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Botun.tsv	28. Leher
-164	hand	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Botun.tsv	1. Tangan
-175	foot	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Botun.tsv	4. Kaki
+164	hand	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Botun.tsv	1. Tangan
+175	foot	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Botun.tsv	4. Kaki
 179	back	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	kolak	nan	k o l a k	('back', 'lama1277-botun', 'kolak')	datasets/keraf/Botun.tsv	17. Punggung
 182	skin	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	kamʔã	nan	k a m - - ʔ ã -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Botun.tsv	16. Kulit
 190	person	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	atadikə	nan	a t a d i k ə - -	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Botun.tsv	53. Orang
@@ -187,7 +187,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	tue	nan	- - t ue - - - - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Botun.tsv	9. Balik
 606	stomach	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	taik lorã	nan	t a - i k - _ l o r ã - - - - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Botun.tsv	20. Isi perut
 607	tooth	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	ipə	nan	i - p ə - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Botun.tsv	34. Gigi
-609	fist	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Botun.tsv	72. Bertinju 
+609	fist	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Botun.tsv	72. Bertinju 
 612	stem	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	pukã	nan	- - p u k ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Botun.tsv	79. Batang 
 614	swollen	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Botun.tsv	87. Bengkak
 618	worm	lama1277-botun	Lamaholot-Botun	Austronesian	8Lembata	kəbeŋə	nan	k ə b e ŋ ə - - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Botun.tsv	107. Cacing 

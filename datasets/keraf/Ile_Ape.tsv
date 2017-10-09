@@ -30,10 +30,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 91	root	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	ramut	nan	r a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Ile_Ape.tsv	114. Akar 
 92	fruit	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	wuan	nan	- - - - - w - u - a - - n	('fruit', 'keda1252', 'wuan')	datasets/keraf/Ile_Ape.tsv	117. Buah 
 93	seed	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	kuluk	nan	k u l u k - -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/keraf/Ile_Ape.tsv	115. Biji 
-95	flower	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	puhun	nan	p u h u n -	('flower', 'lama1277-belan', 'puŋa')	datasets/keraf/Ile_Ape.tsv	116. Bunga 
+95	flower	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	puhun	nan	p u h u n -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Ile_Ape.tsv	116. Bunga 
 129	salt	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	sia	nan	s i - a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Ile_Ape.tsv	128. Garam 
 130	fat	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	worak	nan	w o r - - a k - -	('fat', 'lama1277-baipi', 'wora')	datasets/keraf/Ile_Ape.tsv	104. Lemak 
-131	flesh; meat	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	ihin	nan	- - - i h i n	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Ile_Ape.tsv	103. Daging 
+131	flesh; meat	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	ihin	nan	- - - i h i n	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Ile_Ape.tsv	103. Daging 
 132	bone	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	riuk	nan	- - - r iu - - k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Ile_Ape.tsv	19. Tulang
 136	blood	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Ile_Ape.tsv	26. Darah
 138	heart	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Ile_Ape.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	wəwak	nan	w ə w a k - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Ile_Ape.tsv	33. Mulut
 155	tongue	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	ewel	nan	- e w e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Ile_Ape.tsv	35. Lidah
 156	neck	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	wuli	nan	w u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Ile_Ape.tsv	28. Leher
-164	hand	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Ile_Ape.tsv	1. Tangan
-175	foot	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Ile_Ape.tsv	4. Kaki
+164	hand	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Ile_Ape.tsv	1. Tangan
+175	foot	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Ile_Ape.tsv	4. Kaki
 179	back	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	uhuk	nan	u h u k - -	('back', 'keda1252-leuwa', 'u̘hur')	datasets/keraf/Ile_Ape.tsv	17. Punggung
 182	skin	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	kamak	nan	k a m a k - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Ile_Ape.tsv	16. Kulit
 190	person	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	atadikən	nan	a t a d i k ə n -	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Ile_Ape.tsv	53. Orang
@@ -117,7 +117,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 316	wide	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	pəloen	nan	p - - ə l oe n - - - - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Ile_Ape.tsv	164. Luas 
 317	narrow	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	təkəl	nan	- - - - - - t ə k ə l	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Ile_Ape.tsv	163. Sempit 
 321	rotten	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	waun	nan	w au n - -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Ile_Ape.tsv	111. Busuk 
-326	flat	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	nəpa	nan	- - n - ə - - p a -	('flat', 'lama1277-belan', 'lere')	datasets/keraf/Ile_Ape.tsv	146. Rata 
+326	flat	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	nəpa	nan	- - n - ə - - p a -	('flat', 'keda1252', 'napoʔ')	datasets/keraf/Ile_Ape.tsv	146. Rata 
 329	black	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	mitəm	nan	- - m i - t ə m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Ile_Ape.tsv	152. Hitam 
 330	white	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	burakən	nan	- - - b u r a - - - - k ə n -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Ile_Ape.tsv	153. Putih 
 331	red	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	mean	nan	m ea - - n - -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Ile_Ape.tsv	154. Merah 
@@ -181,11 +181,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	piuk	nan	p iu k - -	('to squeeze', 'lama1277-adona', 'ˈpiʔuk')	datasets/keraf/Ile_Ape.tsv	88. Memeras 
 441	to bark	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	kayo kamakən	nan	k ayo - - - _ k a - m - a k ə n	('to bark', 'lama1277-baipi', 'kajo kulit')	datasets/keraf/Ile_Ape.tsv	113. Kulit kayu
 442	to shoot	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	pasak	nan	p a s a k	('to shoot', 'keda1252', 'pasaʔ')	datasets/keraf/Ile_Ape.tsv	70. Menembak 
-601	footprint	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	əpakən	nan	- - - - - - - - ə p a k ə n	('footprint', 'lama1277-bama', 'makat')	datasets/keraf/Ile_Ape.tsv	5. Kaki
+601	footprint	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	əpakən	nan	- - - - - - - - ə p a k ə n	('footprint', 'lama1277-baipi', 'lei əpã')	datasets/keraf/Ile_Ape.tsv	5. Kaki
 603	return	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	balik	nan	- - b a l i k - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Ile_Ape.tsv	9. Balik
 606	stomach	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	tain onən	nan	t a - i n - _ - o n ə n - - - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Ile_Ape.tsv	20. Isi perut
 607	tooth	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	ipək	nan	i - p ə - k - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Ile_Ape.tsv	34. Gigi
-609	fist	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Ile_Ape.tsv	72. Bertinju 
+609	fist	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Ile_Ape.tsv	72. Bertinju 
 612	stem	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	pukən	nan	p u - - k ə n	('stem', 'lama1277-baipi', 'pukən')	datasets/keraf/Ile_Ape.tsv	79. Batang 
 614	swollen	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	bā	nan	- - - - - - b - - ā - -	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Ile_Ape.tsv	87. Bengkak
 618	worm	lama1277-ileap	Lamaholot-Ile Ape	Austronesian	8Lembata	keləwalo	nan	k e l ə w a l o - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Ile_Ape.tsv	107. Cacing 

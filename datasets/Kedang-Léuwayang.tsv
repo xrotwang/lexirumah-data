@@ -13,7 +13,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 6	year	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tun	nan	t u n - -	('year', 'abui1241-petle', 'tuŋ')	datasets/Kedang-Léuwayang.tsv		
 14	wind	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘ŋin vεŋin	nan	#NAME?	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/Kedang-Léuwayang.tsv		
 15	rain	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘ja	nan	u̘ - j a	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/Kedang-Léuwayang.tsv		
-21	fog	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	habɔʔ	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	h a b ɔ ʔ -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/Kedang-Léuwayang.tsv		
+21	fog	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	habɔʔ	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	h a b ɔ ʔ -	('clothing', 'lama1277-kalik', 'məˈkaŋ-a')	datasets/Kedang-Léuwayang.tsv		
 22	river; stream	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘bεʔ	nan	u̘ b ε ʔ - -	('river; stream', 'keda1252-leuwa', 'u̘bεʔ')	datasets/Kedang-Léuwayang.tsv		
 22	river; stream	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ævæŋ	nan	#NAME?	('river; stream', 'keda1252-leuwa', 'ævæŋ')	datasets/Kedang-Léuwayang.tsv		
 26	mountain	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	i̘li	nan	- i̘ l i -	('mountain', 'alor1249-sar-n', 'jihil')	datasets/Kedang-Léuwayang.tsv		
@@ -30,7 +30,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 36	sea; sea water	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tahiʔ a̘ŋin	nan	t a h i ʔ _ a̘ ŋ i n	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	datasets/Kedang-Léuwayang.tsv		
 39	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kain laraŋ	nan	nan	('forest', 'keda1252-leuwa', 'kain laraŋ')	datasets/Kedang-Léuwayang.tsv		
 39	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘taŋ	nan	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	datasets/Kedang-Léuwayang.tsv		
-39	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɛ̘ʔa kain	nan	ɛ̘ ʔ a _ k a i n	('forest', 'keda1252-leuwa', 'ɛ̘ʔa kain')	datasets/Kedang-Léuwayang.tsv		
+39	forest	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɛ̘ʔa kain	nan	ɛ̘ ʔ a _ k a i n	('forest', 'keda1252-leuwa', 'kain laraŋ')	datasets/Kedang-Léuwayang.tsv		
 51	rope	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	vadεʔ	nan	v a d ε ʔ	('rope', 'keda1252-leuwa', 'vadεʔ')	datasets/Kedang-Léuwayang.tsv		
 67	fire	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘pi padu	nan	a̘ p i _ p a d u	"('fire', 'alor1247-baran', ""a'pe:"")"	datasets/Kedang-Léuwayang.tsv		
 67	fire	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	himaʔ	nan	h i m a ʔ	('fire', 'keda1252-leuwa', 'himaʔ')	datasets/Kedang-Léuwayang.tsv		
@@ -51,7 +51,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 87	leaf	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lɔlɔn	nan	#NAME?	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/Kedang-Léuwayang.tsv		
 87	leaf	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lεpaʔ	nan	l ε p a ʔ	('leaf', 'keda1252-leuwa', 'lεpaʔ')	datasets/Kedang-Léuwayang.tsv		
 91	root	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ramuʔ	nan	- - - - - r a m u ʔ	('root', 'keda1252-leuwa', 'ramuʔ')	datasets/Kedang-Léuwayang.tsv		
-92	fruit	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘an	nan	#NAME?	('fruit', 'keda1252-leuwa', 'u̘an')	datasets/Kedang-Léuwayang.tsv		
+92	fruit	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘an	nan	#NAME?	('fruit', 'keda1252', 'wuan')	datasets/Kedang-Léuwayang.tsv		
 93	seed	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tavan	nan	t a v a n	('seed', 'keda1252-leuwa', 'tavan')	datasets/Kedang-Léuwayang.tsv		
 93	seed	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	uluʔ	nan	u l u ʔ	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/Kedang-Léuwayang.tsv		
 129	salt	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tæʔu a̘pur	nan	t æ ʔ u _ a̘ p u r	('salt', 'keda1252-leuwa', 'tæʔu a̘pur')	datasets/Kedang-Léuwayang.tsv		
@@ -75,9 +75,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 156	neck	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	aduŋ bɔkɔ	nan	a d u ŋ _ b ɔ k ɔ	('neck', 'keda1252-leuwa', 'aduŋ bɔkɔ')	datasets/Kedang-Léuwayang.tsv		
 156	neck	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bɔŋan aduŋ	nan	b ɔ ŋ a n _ a d u ŋ	('neck', 'keda1252-leuwa', 'aduŋ bɔkɔ')	datasets/Kedang-Léuwayang.tsv		
 156	neck	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘li	nan	- u̘ l - i -	('neck', 'keda1252-leuwa', 'u̘li')	datasets/Kedang-Léuwayang.tsv		
-164	hand	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	liŋ	nan	l i - - ŋ	('five', 'keda1252-leuwa', 'lεmε')	datasets/Kedang-Léuwayang.tsv		
+164	hand	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	liŋ	nan	l i - - ŋ	('arm', 'keda1252-leuba', 'liŋ')	datasets/Kedang-Léuwayang.tsv		
 167	fingernail	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	liŋ urun	nan	l i ŋ _ u r u n	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/Kedang-Léuwayang.tsv		
-175	foot	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	læi	nan	l æ i	('foot', 'keda1252-leuwa', 'læi')	datasets/Kedang-Léuwayang.tsv		
+175	foot	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	læi	nan	l æ i	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Kedang-Léuwayang.tsv		
 178	knee	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	udul	nan	#NAME?	('knee', 'keda1252-leuwa', 'udul')	datasets/Kedang-Léuwayang.tsv		
 179	back	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	u̘hur	nan	nan	('back', 'keda1252-leuwa', 'u̘hur')	datasets/Kedang-Léuwayang.tsv		
 179	back	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔbi	nan	#NAME?	('back', 'keda1252-leuwa', 'ɔbi')	datasets/Kedang-Léuwayang.tsv		
@@ -312,7 +312,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 451	two	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	suε	nan	s u - ε	('two', 'keda1252-leuwa', 'suε')	datasets/Kedang-Léuwayang.tsv		
 452	three	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tælu	nan	t æ l - u - - - - - -	"('three', 'alor1247-baran', ""'tal:au"")"	datasets/Kedang-Léuwayang.tsv		
 453	four	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘paʔ	nan	a̘ p a ʔ	('four', 'keda1252-leuwa', 'a̘paʔ')	datasets/Kedang-Léuwayang.tsv		
-454	five	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lεmε	nan	#NAME?	('five', 'keda1252-leuwa', 'lεmε')	datasets/Kedang-Léuwayang.tsv		
+454	five	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lεmε	nan	#NAME?	('arm', 'keda1252-leuba', 'liŋ')	datasets/Kedang-Léuwayang.tsv		
 588	flower (in e.g. mangga tree)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	puhun	nan	p u h - u n	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/Kedang-Léuwayang.tsv		
 590	long (stick)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lava dεkar	lava dεkar (distance); lεla dɔaʔ (time)	l a v a _ d ε k a r	('long (stick)', 'adan1251-lawah', 'low')	datasets/Kedang-Léuwayang.tsv		
 590	long (stick)	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	lεla dɔaʔ	lava dεkar (distance); lεla dɔaʔ (time)	l ε l a _ d ɔ - a ʔ	('long (stick)', 'adan1251-lawah', 'low')	datasets/Kedang-Léuwayang.tsv		

@@ -20,7 +20,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18	thunder	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	pələˈdə	bunyinya	p ə l ə ˈd ə	('thunder', 'lama1277-lewoi', 'pələˈdə')	datasets/lmhlimk20150524wordlist.tsv		
 19	lightning	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kələˈka kəˈhila	kilatan, cahaya	- ( k - - ə l ə ˈk a ) - _ k ə ˈh i l a -	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/lmhlimk20150524wordlist.tsv		
 20	earthquake	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	bəˈlero ˈredɔʔ	nan	b ə ˈl e r o _ ˈr e d ɔ ʔ	"('earthquake', 'lama1277-adona', ""'brero"")"	datasets/lmhlimk20150524wordlist.tsv		
-21	fog	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kɔwa lɔdɔʔ	awan turun; kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	k ɔ w a _ l ɔ - d ɔ ʔ	"('fog', 'lama1277-adona', ""'kowa koː(k)"")"	datasets/lmhlimk20150524wordlist.tsv		
+21	fog	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kɔwa lɔdɔʔ	awan turun; kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	k ɔ w a _ l ɔ - d ɔ ʔ	('cloud', 'abui1241-fuime', 'kabuti')	datasets/lmhlimk20150524wordlist.tsv		
 22	river; stream	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈluŋuŋ	nan	ˈl u ŋ u ŋ	('river; stream', 'lama1277-lewoi', 'ˈluŋuŋ')	datasets/lmhlimk20150524wordlist.tsv		
 25	lake	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	danau	nan	- d a n au -	"('lake', 'alor1247-baran', ""'danɑu"")"	datasets/lmhlimk20150524wordlist.tsv		
 26	mountain	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ile	nan	- - - i l e - -	('mountain', 'alor1249-sar-n', 'jihil')	datasets/lmhlimk20150524wordlist.tsv		
@@ -71,7 +71,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 73	clay	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	tana ˈmɛʔɑŋ	nan	t a n a _ ˈm ɛ ʔ ɑ ŋ	('clay', 'lama1277-lewoi', 'tana ˈmɛʔɑŋ')	datasets/lmhlimk20150524wordlist.tsv		
 74	gravel	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kəˈlɛka	nan	k ə ˈl - - ɛ k a	('gravel', 'lama1277-adona', 'kəˈlɛhɛk')	datasets/lmhlimk20150524wordlist.tsv		
 75	sand	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwəra	nan	ˈw ə r a - -	('sand', 'lama1277-adona', 'ˈwɜra')	datasets/lmhlimk20150524wordlist.tsv		
-76	grass; brush	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kərəmə	nan	k ə r ə m ə	('grass; brush', 'lama1277-lewoi', 'kərəmə')	datasets/lmhlimk20150524wordlist.tsv		
+76	grass; brush	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kərəmə	nan	k ə r ə m ə	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/lmhlimk20150524wordlist.tsv		
 77	house	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlaŋɔʔ	nan	ˈl a ŋ ɔ ʔ	('house', 'lama1277-adona', 'ˈlaŋɔ')	datasets/lmhlimk20150524wordlist.tsv		
 78	traditional house	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈkɔrkɛ	the first is for all lewoinɡu, the second for a villaɡe	ˈk ɔ r k ɛ	('traditional house', 'lama1277-lewoi', 'ˈkɔrkɛ')	datasets/lmhlimk20150524wordlist.tsv		
 78	traditional house	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlaŋɔ ˈbeləŋ	the first is for all lewoinɡu, the second for a villaɡe	ˈl a ŋ ɔ _ ˈb e l ə ŋ	('traditional house', 'lama1277-lewoi', 'ˈlaŋɔ ˈbeləŋ')	datasets/lmhlimk20150524wordlist.tsv		
@@ -90,7 +90,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89	firewood	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kajo ˈape	nan	k a j o _ - ˈa p e	"('firewood', 'alor1247-besar', ""'kaʤɔ 'ape"")"	datasets/lmhlimk20150524wordlist.tsv		
 90	rattan	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	uˈwajəŋ	nan	u ˈw a j ə ŋ	"('rattan', 'alor1247-pandai', ""'ue"")"	datasets/lmhlimk20150524wordlist.tsv		
 91	root	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈramu	nan	ˈr a m u -	('root', 'lama1277-adona', 'ˈʔamut')	datasets/lmhlimk20150524wordlist.tsv		
-92	fruit	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwuaŋ	nan	- - - - - ˈw - u - a - - ŋ	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/lmhlimk20150524wordlist.tsv		
+92	fruit	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwuaŋ	nan	- - - - - ˈw - u - a - - ŋ	('fruit', 'keda1252', 'wuan')	datasets/lmhlimk20150524wordlist.tsv		
 93	seed	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈkuluŋ	nan	ˈk u l u ŋ - -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
 94	grain; cereal	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈtahaŋ	nan	ˈt a h a ŋ	('grain; cereal', 'lama1277-lewoi', 'ˈtahaŋ')	datasets/lmhlimk20150524wordlist.tsv		
 96	husked rice; uncooked rice	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈtahaŋ ˈlɔhɔŋ	tahaŋ is rice	ˈt a h a ŋ _ ˈl ɔ h ɔ ŋ	('husked rice; uncooked rice', 'lama1277-lewoi', 'ˈtahaŋ ˈlɔhɔŋ')	datasets/lmhlimk20150524wordlist.tsv		
@@ -99,7 +99,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 99	rice plant	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈtahaʔɑŋ	tahaʔaŋ is rice	ˈt a h a ʔ ɑ ŋ	('rice plant', 'lama1277-lewoi', 'ˈtahaʔɑŋ')	datasets/lmhlimk20150524wordlist.tsv		
 100	to plant (yam)	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	mula ˈuwe	nan	- m u l a _ - ˈu w e - - - - -	('to plant (yam)', 'abui1241-fuime', 'murua')	datasets/lmhlimk20150524wordlist.tsv		
 101	to plant (rice)	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	mula ˈtahaʔɑŋ	nan	m u l a _ ˈt a h a ʔ ɑ ŋ	('to plant (rice)', 'lama1277-adona', 'ˈtubak')	datasets/lmhlimk20150524wordlist.tsv		
-102	betel nut; areca	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwua	nan	- - - - - ˈw - u - a - - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/lmhlimk20150524wordlist.tsv		
+102	betel nut; areca	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwua	nan	- - - - - ˈw - u - a - - -	('betel nut; areca', 'abui1241-fuime', 'fu')	datasets/lmhlimk20150524wordlist.tsv		
 103	betel vine	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlɔlɔŋ	nan	ˈl ɔ l ɔ ŋ	('betel vine', 'lama1277-lewoi', 'ˈlɔlɔŋ')	datasets/lmhlimk20150524wordlist.tsv		
 104	lime	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈapuʔ	nan	- - ˈa p u ʔ	"('lime', 'alor1247-baran', ""'ʔapu"")"	datasets/lmhlimk20150524wordlist.tsv		
 105	chew betel	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈtəkɑŋ wua ˈmalu	nan	ˈt ə k ɑ ŋ _ - w ua _ ˈm a - - l u - - -	"('chew betel', 'alor1247-besar', ""ta'kːa 'ua 'malu"")"	datasets/lmhlimk20150524wordlist.tsv		
@@ -154,14 +154,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 155	tongue	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈweweˈləŋ	nan	ˈw e w e ˈl ə ŋ	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/lmhlimk20150524wordlist.tsv		
 156	neck	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwuliŋ	nan	ˈw u l i ŋ -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
 157	shoulder	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈhanaŋ	nan	ˈh a n a ŋ - -	('shoulder', 'lama1277-adona', 'ˈhanaˈnɜt')	datasets/lmhlimk20150524wordlist.tsv		
-158	body	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwəkiŋ	nan	- - ˈw ə k i - - ŋ	('body', 'lama1277-adona', 'ˈwɜkiˈkɜt')	datasets/lmhlimk20150524wordlist.tsv		
+158	body	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈwəkiŋ	nan	- - ˈw ə k i - - ŋ	"('body', 'keda1252-leuba', ""'wɛʔ"")"	datasets/lmhlimk20150524wordlist.tsv		
 159	forehead	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kəniˈtɔʔ	nan	k ə n i ˈt ɔ - - ʔ	('forehead', 'lama1277-adona', 'kɜˈniːtoˈkɜt')	datasets/lmhlimk20150524wordlist.tsv		
 160	nostril	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	iruŋ uˈmaŋ	umaŋ is hole	i r u ŋ _ u ˈm a ŋ	('nostril', 'lama1277-lewoi', 'iruŋ uˈmaŋ')	datasets/lmhlimk20150524wordlist.tsv		
 161	mucus	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈneʔu	nan	ˈn e ʔ u	('mucus', 'lama1277-lewoi', 'ˈneʔu')	datasets/lmhlimk20150524wordlist.tsv		
 162	cheek	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kəˈlipi	nan	k ə ˈl i p i - - -	('cheek', 'lama1277-adona', 'ˈpipiˈkɜt')	datasets/lmhlimk20150524wordlist.tsv		
-163	arm	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlimaŋ	nan	- ˈl i m a - - - - ŋ	"('arm', 'alor1247-baran', ""'limaŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
-164	hand	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlimaŋ	nan	- - - - - ˈl i m a - - ŋ - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/lmhlimk20150524wordlist.tsv		
-165	palm of hand	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	limaŋ ˈɔnəʔəŋ	nan	l i m a - - ŋ _ - ˈɔ n ə ʔ ə ŋ	('palm of hand', 'lama1277-adona', 'ˈlimakɜt ˈʔonʔeʔ')	datasets/lmhlimk20150524wordlist.tsv		
+163	arm	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlimaŋ	nan	- ˈl i m a - - - - ŋ	('arm', 'keda1252-leuba', 'liŋ')	datasets/lmhlimk20150524wordlist.tsv		
+164	hand	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlimaŋ	nan	- - - - - ˈl i m a - - ŋ - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/lmhlimk20150524wordlist.tsv		
+165	palm of hand	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	limaŋ ˈɔnəʔəŋ	nan	l i m a - - ŋ _ - ˈɔ n ə ʔ ə ŋ	('footprint', 'lama1277-mulan', 'lei onã')	datasets/lmhlimk20150524wordlist.tsv		
 166	finger	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	limaŋ ˈanaŋ	nan	l i m a - - ŋ _ - ˈa n - a ŋ	('finger', 'lama1277-adona', 'ˈlimakɜt ˈʔaːnʔa')	datasets/lmhlimk20150524wordlist.tsv		
 167	fingernail	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	tənuˈʔi	nan	- - t ə n - u - ˈʔ i - - -	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/lmhlimk20150524wordlist.tsv		
 168	breast	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈtuho	nan	- ˈt u h o - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/lmhlimk20150524wordlist.tsv		
@@ -170,8 +170,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 171	penis	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlaha	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	ˈl a h a - - -	"('penis', 'alor1247-besar', ""la'hakaŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
 172	vagina	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈmena	Kemaluan perempuan, same as above.	ˈm e n a	('vagina', 'lama1277-adona', 'ˈmɜna')	datasets/lmhlimk20150524wordlist.tsv		
 173	testicles	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kuluˈʔuŋ	nan	k u l u ˈʔ u ŋ	('testicles', 'lama1277-lewoi', 'kuluˈʔuŋ')	datasets/lmhlimk20150524wordlist.tsv		
-174	leg	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈleiŋ	nan	ˈl - - ei ŋ -	"('leg', 'alor1247-baran', ""'leiŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
-175	foot	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kɔan ˈleiŋ	kɔan is upper leɡ	k ɔa n _ ˈl ei ŋ -	('foot', 'lama1277-lewoi', 'kɔan ˈleiŋ')	datasets/lmhlimk20150524wordlist.tsv		
+174	leg	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈleiŋ	nan	ˈl - - ei ŋ -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/lmhlimk20150524wordlist.tsv		
+175	foot	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kɔan ˈleiŋ	kɔan is upper leɡ	k ɔa n _ ˈl ei ŋ -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/lmhlimk20150524wordlist.tsv		
 176	heel of foot	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈude	nan	ˈu d e	('heel of foot', 'lama1277-lewoi', 'ˈude')	datasets/lmhlimk20150524wordlist.tsv		
 177	sole of foot	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈmakɑk	nan	ˈm a k ɑ k	('sole of foot', 'lama1277-lewoi', 'ˈmakɑk')	datasets/lmhlimk20150524wordlist.tsv		
 178	knee	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlɔtɔr	nan	- - ˈl ɔ - - - - t - - ɔ r - - -	"('knee', 'alor1247-baran', "",leiŋ 'kudul"")"	datasets/lmhlimk20150524wordlist.tsv		
@@ -285,7 +285,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 287	lazy	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kəˈmoɡə	nan	k ə ˈm o ɡ ə	('lazy', 'lama1277-lewoi', 'kəˈmoɡə')	datasets/lmhlimk20150524wordlist.tsv		
 288	hot	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈpəlate	nan	ˈp ə l a t e -	"('hot', 'alor1247-baran', ""pa'latiŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
 289	cold	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈɡələtə	nan	- ˈɡ ə - l ə t - - - - - - - ə - - -	('cold', 'abui1241-fuime', 'palata')	datasets/lmhlimk20150524wordlist.tsv		
-290	good	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	əˈrɛŋ	nan	ə ˈr ɛ ŋ	('good', 'lama1277-lewoi', 'əˈrɛŋ')	datasets/lmhlimk20150524wordlist.tsv		
+290	good	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	əˈrɛŋ	nan	ə ˈr ɛ ŋ	('good', 'lama1277-bama', 'əre')	datasets/lmhlimk20150524wordlist.tsv		
 291	bad	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈməkɔʔ	nan	ˈm ə k ɔ ʔ	('bad', 'lama1277-lewoi', 'ˈməkɔʔ')	datasets/lmhlimk20150524wordlist.tsv		
 292	full	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈmənuŋ	nan	- - ˈm ə n u - - - ŋ -	"('full', 'alor1247-baran', ""'pan:ɔŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
 293	empty	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	aˈmuʔuŋ	nan	a ˈm u ʔ u ŋ	('empty', 'lama1277-lewoi', 'aˈmuʔuŋ')	datasets/lmhlimk20150524wordlist.tsv		
@@ -318,7 +318,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 323	sweet	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈhərə	nan	ˈh ə r ə	('sweet', 'lama1277-lewoi', 'ˈhərə')	datasets/lmhlimk20150524wordlist.tsv		
 324	sour	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈɡilo	nan	ˈɡ i l - - o -	"('sour', 'alor1247-besar', ""'gilo"")"	datasets/lmhlimk20150524wordlist.tsv		
 325	salty	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈpəro	nan	ˈp ə r - o	"('salty', 'alor1247-besar', ""'parɔ"")"	datasets/lmhlimk20150524wordlist.tsv		
-326	flat	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈəbaʔaŋ	nan	ˈə b a ʔ a ŋ	('flat', 'lama1277-lewoi', 'ˈəbaʔaŋ')	datasets/lmhlimk20150524wordlist.tsv		
+326	flat	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈəbaʔaŋ	nan	ˈə b a ʔ a ŋ	('flat', 'lama1277-baipi', 'əbʔã')	datasets/lmhlimk20150524wordlist.tsv		
 327	smooth	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	kəˈlɔhɔ	nan	k ə ˈl ɔ h ɔ	('smooth', 'lama1277-lewoi', 'kəˈlɔhɔ')	datasets/lmhlimk20150524wordlist.tsv		
 328	rough	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	podoˈrodo	nan	p o d o ˈr o d o	('rough', 'kola1287', 'potor')	datasets/lmhlimk20150524wordlist.tsv		
 329	black	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈmitəŋ	nan	- - ˈm i - t ə - - ŋ - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
@@ -458,7 +458,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 451	two	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈrua	nan	- ˈr u - a	('two', 'lama1277-adona', 'ˈrua')	datasets/lmhlimk20150524wordlist.tsv		
 452	three	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈtɛlːo	nan	- ˈt ɛ lː o	"('three', 'alor1247-besar', ""'talːɔ"")"	datasets/lmhlimk20150524wordlist.tsv		
 453	four	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	paː	nan	- - - - p aː - -	('four', 'fata1247', 'fa:tɛ')	datasets/lmhlimk20150524wordlist.tsv		
-454	five	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlɛma	nan	- - ˈl ɛ m a	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/lmhlimk20150524wordlist.tsv		
+454	five	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlɛma	nan	- - ˈl ɛ m a	('arm', 'keda1252-leuba', 'liŋ')	datasets/lmhlimk20150524wordlist.tsv		
 455	six	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈnəmuŋ	nan	- - - ˈn ə m u ŋ	"('six', 'alor1247-baran', ""'nam:u"")"	datasets/lmhlimk20150524wordlist.tsv		
 456	seven	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈpitɔ	nan	- ˈp i t - - ɔ - -	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/lmhlimk20150524wordlist.tsv		
 457	eight	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈbutɔ	nan	ˈb u t - - - ɔ	"('eight', 'alor1247-baran', ""'but:ɔ"")"	datasets/lmhlimk20150524wordlist.tsv		
@@ -551,7 +551,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 539	to rule or govern	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	pəˈrinta	nan	p ə ˈr i n t a - - -	"('to rule or govern', 'keda1252-leuba', ""pa'rɛnta"")"	datasets/lmhlimk20150524wordlist.tsv		
 540	treaty	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈɡɑhiŋ (ˈɡire)	E.g. perjanjian antara dua suku untuk tidak berperang	ˈɡ ɑ h i ŋ _ ( ˈɡ i r e )	('treaty', 'lama1277-lewoi', 'ˈɡɑhiŋ (ˈɡire)')	datasets/lmhlimk20150524wordlist.tsv		
 541	marriage	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈkawɛn	nan	ˈk a w ɛ n -	('marriage', 'fata1247', 'kawe')	datasets/lmhlimk20150524wordlist.tsv		
-542	friend	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈbreuŋ	mothers brothers child in adonara	- - - - ˈb r eu ŋ	('friend', 'lama1277-lerek', 'kəneˈbreuŋ')	datasets/lmhlimk20150524wordlist.tsv		
+542	friend	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈbreuŋ	mothers brothers child in adonara	- - - - ˈb r eu ŋ	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/lmhlimk20150524wordlist.tsv		
 543	enemy	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	bəˈliwɑŋ	nan	b ə ˈl i w ɑ ŋ	('enemy', 'lama1277-lewoi', 'bəˈliwɑŋ')	datasets/lmhlimk20150524wordlist.tsv		
 544	king; ruler	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈraʤa	nan	ˈr a d ʒ a	('king; ruler', 'lama1277-adona', 'ˈraja')	datasets/lmhlimk20150524wordlist.tsv		
 545	stranger	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈata bəʔaˈhɑŋ	nan	ˈa t a _ b ə ʔ a ˈh ɑ ŋ	('stranger', 'lama1277-lerek', 'ˈata ɡehaˈkən')	datasets/lmhlimk20150524wordlist.tsv		
@@ -598,7 +598,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 585	hour	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈʤam	nan	ˈd ʒ a m	('hour', 'lama1277-lewoi', 'ˈʤam')	datasets/lmhlimk20150524wordlist.tsv		
 586	same	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈhama	nan	- ˈh a m a -	('same', 'abui1241-takal', 'sä.mä')	datasets/lmhlimk20150524wordlist.tsv		
 587	oven/cooking place	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈlika	nan	ˈl i k a -	('oven/cooking place', 'lama1277-adona', 'ˈlikat')	datasets/lmhlimk20150524wordlist.tsv		
-588	flower (in e.g. mangga tree)	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈpuhuŋ	nan	- - - - - ˈp u h u ŋ - - - - - - - -	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/lmhlimk20150524wordlist.tsv		
+588	flower (in e.g. mangga tree)	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	ˈpuhuŋ	nan	- - - - - ˈp u h u ŋ - - - - - - - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/lmhlimk20150524wordlist.tsv		
 589	vein	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	aliˈhiŋ	nan	- a l i ˈh i ŋ	('vein', 'kabo1247', 'tərú')	datasets/lmhlimk20150524wordlist.tsv		
 590	long (stick)	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	bəˈlaha	nan	b ə ˈl a h - a -	"('long (stick)', 'alor1247-baran', ""ba'lah:a"")"	datasets/lmhlimk20150524wordlist.tsv		
 591	tall (person)	lama1277-lewoi	Lamaholot-Lewoingu	Austronesian	5Flores, 1East	bəˈlola	nan	b ə ˈl o - l a	('tall (person)', 'lama1277-adona', 'blɔʔˈlɔ̃')	datasets/lmhlimk20150524wordlist.tsv		

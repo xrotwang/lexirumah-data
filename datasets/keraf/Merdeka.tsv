@@ -30,10 +30,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 91	root	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	amut	nan	- a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Merdeka.tsv	114. Akar 
 92	fruit	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	wuã	nan	- - - - - w - u - ã - - -	('fruit', 'keda1252', 'wuan')	datasets/keraf/Merdeka.tsv	117. Buah 
 93	seed	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kulʔũ	nan	k u l - ʔ ũ -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/keraf/Merdeka.tsv	115. Biji 
-95	flower	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	('flower', 'lama1277-belan', 'puŋa')	datasets/keraf/Merdeka.tsv	116. Bunga 
+95	flower	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Merdeka.tsv	116. Bunga 
 129	salt	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Merdeka.tsv	128. Garam 
 130	fat	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	worã	nan	w o r - - ã - - -	('fat', 'lama1277-baipi', 'wora')	datasets/keraf/Merdeka.tsv	104. Lemak 
-131	flesh; meat	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	elã	nan	- - - e l ã -	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Merdeka.tsv	103. Daging 
+131	flesh; meat	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	elã	nan	- - - e l ã -	('flesh; meat', 'lama1277-imulo', 'elam')	datasets/keraf/Merdeka.tsv	103. Daging 
 132	bone	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	riuk	nan	- - - r iu - - k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Merdeka.tsv	19. Tulang
 136	blood	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Merdeka.tsv	26. Darah
 138	heart	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Merdeka.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	nuhu	nan	- n u h u - - - - - -	('mouth', 'keda1252', 'nunu')	datasets/keraf/Merdeka.tsv	33. Mulut
 155	tongue	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	ewelə	nan	- e w e l ə -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Merdeka.tsv	35. Lidah
 156	neck	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	wulik	nan	w u l i k -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Merdeka.tsv	28. Leher
-164	hand	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Merdeka.tsv	1. Tangan
-175	foot	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Merdeka.tsv	4. Kaki
+164	hand	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Merdeka.tsv	1. Tangan
+175	foot	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Merdeka.tsv	4. Kaki
 179	back	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	uhukət	nan	u h u k ə t	('back', 'keda1252-leuwa', 'u̘hur')	datasets/keraf/Merdeka.tsv	17. Punggung
 182	skin	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kama	nan	k a m a - - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Merdeka.tsv	16. Kulit
 190	person	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	ədikã	nan	- - ə d i k ã - -	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Merdeka.tsv	53. Orang
@@ -120,7 +120,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 316	wide	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	belã	nan	b - - e l - - - ã - - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Merdeka.tsv	164. Luas 
 317	narrow	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kənipo	nan	k ə n - - i p o - - -	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Merdeka.tsv	163. Sempit 
 321	rotten	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	wãu	nan	w ãu - - -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Merdeka.tsv	111. Busuk 
-326	flat	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	lere	nan	l e r - e - - - - -	('flat', 'lama1277-belan', 'lere')	datasets/keraf/Merdeka.tsv	146. Rata 
+326	flat	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	lere	nan	l e r - e - - - - -	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Merdeka.tsv	146. Rata 
 329	black	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	mitəm	nan	- m i - - t ə m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Merdeka.tsv	152. Hitam 
 330	white	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	burʔa	nan	- - - b u r - - - - - ʔ a - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Merdeka.tsv	153. Putih 
 331	red	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	meʔã	nan	m e - - ʔ ã -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Merdeka.tsv	154. Merah 
@@ -184,11 +184,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	piuk	nan	p iu k - -	('to squeeze', 'lama1277-adona', 'ˈpiʔuk')	datasets/keraf/Merdeka.tsv	88. Memeras 
 441	to bark	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kayo kamʔã	nan	k ayo - - - _ k a - m ʔ ã - - -	('to bark', 'lama1277-baipi', 'kajo kulit')	datasets/keraf/Merdeka.tsv	113. Kulit kayu
 442	to shoot	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	pasak	nan	p a s a k	('to shoot', 'keda1252', 'pasaʔ')	datasets/keraf/Merdeka.tsv	70. Menembak 
-601	footprint	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	leik əpã	nan	l ei k - - - - _ ə p ã - - -	('footprint', 'lama1277-bama', 'makat')	datasets/keraf/Merdeka.tsv	5. Kaki
+601	footprint	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	leik əpã	nan	l ei k - - - - _ ə p ã - - -	('footprint', 'lama1277-baipi', 'lei əpã')	datasets/keraf/Merdeka.tsv	5. Kaki
 603	return	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	tue	nan	- - t ue - - - - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Merdeka.tsv	9. Balik
 606	stomach	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	taik kalunã	nan	t a - i k - _ k a l u n - ã - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Merdeka.tsv	20. Isi perut
 607	tooth	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	ipək	nan	i - p ə - k - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Merdeka.tsv	34. Gigi
-609	fist	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	sadok	nan	s a d o k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Merdeka.tsv	72. Bertinju 
+609	fist	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	sadok	nan	s a d o k -	('fist', 'lama1277-bama', 'sadok')	datasets/keraf/Merdeka.tsv	72. Bertinju 
 612	stem	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	pukã	nan	p u - - k ã -	('stem', 'lama1277-baipi', 'pukən')	datasets/keraf/Merdeka.tsv	79. Batang 
 614	swollen	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	nogor	nan	- - n - - o g o r - - -	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Merdeka.tsv	87. Bengkak
 618	worm	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kodəl	nan	k - - o d ə l - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Merdeka.tsv	107. Cacing 

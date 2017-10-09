@@ -20,7 +20,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18	thunder	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kleka liar	nan	k - l e k a _ l ia r	('thunder', 'alor1249-sar-a', 'gragar')	datasets/hwamk20150514wordlist.tsv		
 19	lightning	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dəɡu	nan	d ə ɡ u	('lightning', 'sika1262-hewa', 'dəɡu')	datasets/hwamk20150514wordlist.tsv		
 20	earthquake	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	edɔ	nan	e d ɔ	('earthquake', 'sika1262-hewa', 'edɔ')	datasets/hwamk20150514wordlist.tsv		
-21	fog	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	apun	also 'deʋ'	a p u n - - - - - - - -	('fog', 'lamm1241-westp', 'bun:e')	datasets/hwamk20150514wordlist.tsv		
+21	fog	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	apun	also 'deʋ'	a p u n - - - - - - - -	('clothing', 'lama1277-kalik', 'məˈkaŋ-a')	datasets/hwamk20150514wordlist.tsv		
 22	river; stream	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	napun	nan	n a p u n	('river; stream', 'sika1262-hewa', 'napun')	datasets/hwamk20150514wordlist.tsv		
 25	lake	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	se	This is probably a German loan; there are no lakes in the area.	s e	('lake', 'sika1262-hewa', 'se')	datasets/hwamk20150514wordlist.tsv		
 26	mountain	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ilin	nan	- - - i l i n -	('mountain', 'alor1249-sar-n', 'jihil')	datasets/hwamk20150514wordlist.tsv		
@@ -38,8 +38,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 36	sea; sea water	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tahi	nan	- t a - h i - - - - - -	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	datasets/hwamk20150514wordlist.tsv		
 37	wave	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ɔlɔʔ	nan	ɔ - l ɔ ʔ	"('wave', 'alor1247-besar', ""'ɔʤɔ"")"	datasets/hwamk20150514wordlist.tsv		
 38	foam	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋuran	nan	- - ʋ u r a - - n - - -	('foam', 'adan1251-lawah', 'wara-wara')	datasets/hwamk20150514wordlist.tsv		
-39	forest	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	heri unen	/heri unen/: forest in general; /tuʔan/: ʋery old forest	h e r i _ u n e n	('forest', 'baka1276', 'rehe')	datasets/hwamk20150514wordlist.tsv		
-39	forest	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tuʔan	/heri unen/: forest in general; /tuʔan/: ʋery old forest	- - - t u - - - - ʔ a n	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	datasets/hwamk20150514wordlist.tsv		
+39	forest	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	heri unen	/heri unen/: forest in general; /tuʔan/: ʋery old forest	h e r i _ u n e n	('forest', 'lama1277-baipi', 'newa onã')	datasets/hwamk20150514wordlist.tsv		
+39	forest	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tuʔan	/heri unen/: forest in general; /tuʔan/: ʋery old forest	- - - t u - - - - ʔ a n	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/hwamk20150514wordlist.tsv		
 41	island	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulau	nan	p u l au	('island', 'amar1273-kotos', 'puru')	datasets/hwamk20150514wordlist.tsv		
 42	rice field	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uma	nan	u m a	"('rice field', 'lama1277-adona', ""'mãː"")"	datasets/hwamk20150514wordlist.tsv		
 43	garden	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uma	nan	- - u m - - - a - -	('garden', 'buna1278-bobon', 'maɁ')	datasets/hwamk20150514wordlist.tsv		
@@ -81,7 +81,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 74	gravel	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋatu blutuk	blutuk=very small	ʋ a t u _ b l u t u k	('gravel', 'sika1262-hewa', 'ʋatu blutuk')	datasets/hwamk20150514wordlist.tsv		
 75	sand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	nen	 /nen/: on the beach; /ʔəda/: building sand	- - - n e - - - n -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/hwamk20150514wordlist.tsv		
 75	sand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔəda	 /nen/: on the beach; /ʔəda/: building sand	ʔ ə d a - -	('sand', 'lama1277-adona', 'ˈwɜra')	datasets/hwamk20150514wordlist.tsv		
-76	grass; brush	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʔan	nan	ʋ a ʔ a n	('grass; brush', 'sika1262-hewa', 'ʋaʔan')	datasets/hwamk20150514wordlist.tsv		
+76	grass; brush	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʔan	nan	ʋ a ʔ a n	('grass; brush', 'lama1277-lerek', 'ˈmevau')	datasets/hwamk20150514wordlist.tsv		
 77	house	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ləpo	nan	l ə p o	('house', 'fata1247', 'lɛ:')	datasets/hwamk20150514wordlist.tsv		
 78	traditional house	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ləpɔ puʔan	nan	l ə p ɔ _ p u ʔ a n	('traditional house', 'sika1262-hewa', 'ləpɔ puʔan')	datasets/hwamk20150514wordlist.tsv		
 79	barn; storage house	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	orin	nan	- o r i n	('barn; storage house', 'abui1241-fuime', 'kadaŋ')	datasets/hwamk20150514wordlist.tsv		
@@ -98,7 +98,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89	firewood	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔai aur	nan	ʔ ai _ au r	('firewood', 'sika1262-hewa', 'ʔai aur')	datasets/hwamk20150514wordlist.tsv		
 90	rattan	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ue	nan	- - - - ue -	"('rattan', 'alor1247-pandai', ""'ue"")"	datasets/hwamk20150514wordlist.tsv		
 91	root	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ramut	nan	nan	('root', 'sika1262-hewa', 'ramut')	datasets/hwamk20150514wordlist.tsv		
-92	fruit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋuan	nan	- - - - - ʋ - u - a - - n	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/hwamk20150514wordlist.tsv		
+92	fruit	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋuan	nan	- - - - - ʋ - u - a - - n	('fruit', 'keda1252', 'wuan')	datasets/hwamk20150514wordlist.tsv		
 93	seed	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	une	nan	- - - - - u n e - - -	('seed', 'amar1273-kotos', 'fini')	datasets/hwamk20150514wordlist.tsv		
 94	grain; cereal	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	nalu	nan	n a l u - -	('grain; cereal', 'adan1251-lawah', 'a:la')	datasets/hwamk20150514wordlist.tsv		
 95	flower	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	puhun	nan	- - - - - p u h u n - - - - - - - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/hwamk20150514wordlist.tsv		
@@ -110,7 +110,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 100	to plant (yam)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pahe	nan	p a h e -	('to plant (yam)', 'lama1277-adona', 'ˈpahaʔ')	datasets/hwamk20150514wordlist.tsv		
 100	to plant (yam)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	paʔat	nan	p a ʔ a t	('to plant (yam)', 'lama1277-adona', 'ˈpahaʔ')	datasets/hwamk20150514wordlist.tsv		
 101	to plant (rice)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	paheʔ nalu	nan	p a h e ʔ _ n a l u	('to plant (rice)', 'sika1262-hewa', 'paheʔ nalu')	datasets/hwamk20150514wordlist.tsv		
-102	betel nut; areca	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋua	nan	- - - - - ʋ - u - a - - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/hwamk20150514wordlist.tsv		
+102	betel nut; areca	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋua	nan	- - - - - ʋ - u - a - - -	('betel nut; areca', 'abui1241-fuime', 'fu')	datasets/hwamk20150514wordlist.tsv		
 103	betel vine	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	taʔa	nan	t a ʔ a	"('betel vine', 'kema1243', ""'daʔa"")"	datasets/hwamk20150514wordlist.tsv		
 104	lime	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʔapur	nan	- ʔ a p u r	"('lime', 'alor1247-baran', ""'ʔapu"")"	datasets/hwamk20150514wordlist.tsv		
 105	chew betel	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ea ʋua	lit. eat sirih	- - - ea - _ - ʋ - - - - - - - ua - - -	"('chew betel', 'alor1247-besar', ""ta'kːa 'ua 'malu"")"	datasets/hwamk20150514wordlist.tsv		
@@ -141,7 +141,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 128	milk	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	susu	uhu 'breast'	- s u s u - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/hwamk20150514wordlist.tsv		
 129	salt	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hini	nan	h i n i	"('salt', 'buna1278-malia', ""'ʔi:"")"	datasets/hwamk20150514wordlist.tsv		
 130	fat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋura	fat/grease	ʋ u r a	('fat', 'sika1262-hewa', 'ʋura')	datasets/hwamk20150514wordlist.tsv		
-131	flesh; meat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ətan	nan	ə t a n	('flesh; meat', 'sika1262-hewa', 'ətan')	datasets/hwamk20150514wordlist.tsv		
+131	flesh; meat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ətan	nan	ə t a n	('flesh; meat', 'lama1277-lewob', 'mətã')	datasets/hwamk20150514wordlist.tsv		
 132	bone	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lurin	nan	nan	"('bone', 'idat1237', ""lu:'rik"")"	datasets/hwamk20150514wordlist.tsv		
 133	rib	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	korok	nan	- k o r o k	('rib', 'pmpacd', '*Rusuk')	datasets/hwamk20150514wordlist.tsv		
 134	sweat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rəʋu	this is (also?) a verb	- - r ə ʋ u -	('sweat', 'lama1277-adona', 'ˈʔɜwũ')	datasets/hwamk20150514wordlist.tsv		
@@ -170,14 +170,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 156	neck	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əru	nan	- ə - - r u -	('neck', 'adan1251-lawah', 'dolo')	datasets/hwamk20150514wordlist.tsv		
 157	shoulder	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	palik	nan	- p a l i k	('shoulder', 'lama1277-kalik', 'kvaˈlɛk')	datasets/hwamk20150514wordlist.tsv		
 158	body	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təbo	nan	t ə b o	('body', 'sika1262-hewa', 'təbo')	datasets/hwamk20150514wordlist.tsv		
-158	body	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋiʔin	nan	- - ʋ i ʔ i - - n	('body', 'lama1277-adona', 'ˈwɜkiˈkɜt')	datasets/hwamk20150514wordlist.tsv		
+158	body	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋiʔin	nan	- - ʋ i ʔ i - - n	"('body', 'keda1252-leuba', ""'wɛʔ"")"	datasets/hwamk20150514wordlist.tsv		
 159	forehead	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	alaʔ	nan	- - a l a ʔ - -	('forehead', 'sika1262-hewa', 'alaʔ')	datasets/hwamk20150514wordlist.tsv		
 160	nostril	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	iru boaŋ	lit. nose hole	i r u _ b oa ŋ	('nostril', 'sika1262-hewa', 'iru boaŋ')	datasets/hwamk20150514wordlist.tsv		
 161	mucus	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	iru kləkak	nan	i r u _ k l ə k a k	('mucus', 'sika1262-hewa', 'iru kləkak')	datasets/hwamk20150514wordlist.tsv		
 162	cheek	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pipi	nan	p i p i	('cheek', 'sika1262-hewa', 'pipi')	datasets/hwamk20150514wordlist.tsv		
-163	arm	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	- l i m a - - - - -	"('arm', 'alor1247-baran', ""'limaŋ"")"	datasets/hwamk20150514wordlist.tsv		
-164	hand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	nan	('hand', 'lama1277-baipi', 'lima')	datasets/hwamk20150514wordlist.tsv		
-165	palm of hand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima əpak	nan	l i m a _ ə p a k	('palm of hand', 'lama1277-kalik', 'liˈma əˈpak')	datasets/hwamk20150514wordlist.tsv		
+163	arm	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	- l i m a - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/hwamk20150514wordlist.tsv		
+164	hand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	nan	('arm', 'keda1252-leuba', 'liŋ')	datasets/hwamk20150514wordlist.tsv		
+165	palm of hand	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima əpak	nan	l i m a _ ə p a k	('footprint', 'lama1277-baipi', 'lei əpã')	datasets/hwamk20150514wordlist.tsv		
 166	finger	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kikir	nan	k i k i r	('finger', 'lama1277-kalik', 'kiˈkil')	datasets/hwamk20150514wordlist.tsv		
 167	fingernail	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	unur	nan	- - - u n - - - - u r - -	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/hwamk20150514wordlist.tsv		
 168	breast	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uhu	nan	- - u h u - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/hwamk20150514wordlist.tsv		
@@ -187,7 +187,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 172	vagina	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	era	nan	- e r - a -	('vagina', 'alor1249-sar-a', 'ga:r')	datasets/hwamk20150514wordlist.tsv		
 173	testicles	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tɛlɔ	nan	t ɛ l ɔ	('testicles', 'sika1262-hewa', 'tɛlɔ')	datasets/hwamk20150514wordlist.tsv		
 173	testicles	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	uti	nan	u t i	('testicles', 'sika1262-hewa', 'uti')	datasets/hwamk20150514wordlist.tsv		
-174	leg	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʔi	leg/foot	- - ʋ a ʔ i -	('leg', 'amar1273-kotos', 'hae-f')	datasets/hwamk20150514wordlist.tsv		
+174	leg	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʔi	leg/foot	- - ʋ a ʔ i -	('foot', 'fata1247', 'ɟia')	datasets/hwamk20150514wordlist.tsv		
 175	foot	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʔi	leg/foot	ʋ a - ʔ - - - i - - - - -	('foot', 'fata1247', 'ɟia')	datasets/hwamk20150514wordlist.tsv		
 176	heel of foot	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dimun	nan	- d i m u n -	"('heel of foot', 'maka1316', ""iti'masu"")"	datasets/hwamk20150514wordlist.tsv		
 177	sole of foot	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋaʔi əpak	nan	ʋ a ʔ i _ ə p a k	('sole of foot', 'lama1277-kalik', 'li əˈpak')	datasets/hwamk20150514wordlist.tsv		
@@ -268,7 +268,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 244	deer	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ruha	nan	- - - - - r u h a - - - -	('deer', 'abui1241-fuime', 'aijuti')	datasets/hwamk20150514wordlist.tsv		
 245	frog	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	blaʔur	nan	b l a ʔ u r	('frog', 'sika1262-hewa', 'blaʔur')	datasets/hwamk20150514wordlist.tsv		
 246	bat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niʔi	nan	- - n i ʔ i	('bat', 'lama1277-adona', 'pɜˈnike')	datasets/hwamk20150514wordlist.tsv		
-247	flying fox; fruit bat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niʔi	nan	- - - n i ʔ i	('flying fox; fruit bat', 'pmpacd', '*paniki')	datasets/hwamk20150514wordlist.tsv		
+247	flying fox; fruit bat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niʔi	nan	- - - n i ʔ i	"('flying fox; fruit bat', 'alor1247-munas', ""mi'hua"")"	datasets/hwamk20150514wordlist.tsv		
 248	cuscus	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	behar	nan	- - b e h a r	('cuscus', 'lama1277-lewoi', 'kəbeˈheʔ')	datasets/hwamk20150514wordlist.tsv		
 249	tail	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	iʔur	/iʔur/: tail of four legged animals; /kekor/: tail of two leɡɡed animals	- i - - - - - - - - - - ʔ u r	('tail', 'adan1251-lawah', 'oloʔ')	datasets/hwamk20150514wordlist.tsv		
 249	tail	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	kekor	/iʔur/: tail of four legged animals; /kekor/: tail of two leɡɡed animals	k e k - - o - r - - - - - - -	('tail', 'adan1251-lawah', 'oloʔ')	datasets/hwamk20150514wordlist.tsv		
@@ -358,7 +358,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 323	sweet	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hureʔ	nan	h u r e ʔ	('sweet', 'sika1262-hewa', 'hureʔ')	datasets/hwamk20150514wordlist.tsv		
 324	sour	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	niluk	nan	n i l u k	('sour', 'sika1262-hewa', 'niluk')	datasets/hwamk20150514wordlist.tsv		
 325	salty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bəru	nan	b ə r - u	"('salty', 'alor1247-besar', ""'parɔ"")"	datasets/hwamk20150514wordlist.tsv		
-326	flat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dətu	nan	- d ə t u - -	('flat', 'kama1365', 'tatok')	datasets/hwamk20150514wordlist.tsv		
+326	flat	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dətu	nan	- d ə t u - -	('flat', 'sika1262-hewa', 'dətu')	datasets/hwamk20150514wordlist.tsv		
 327	smooth	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mɛlur	nan	- - m ɛ l - - - u r	"('smooth', 'alor1247-besar', ""ha'melu"")"	datasets/hwamk20150514wordlist.tsv		
 328	rough	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mogɔr	nan	m o g ɔ r	('rough', 'sika1262-hewa', 'mogɔr')	datasets/hwamk20150514wordlist.tsv		
 329	black	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mitan	nan	- - m i - t a - - n - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/hwamk20150514wordlist.tsv		
@@ -501,8 +501,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 450	one	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ha	nan	- - h a -	"('one', 'keda1252-leuba', ""ʔu'deʔ"")"	datasets/hwamk20150514wordlist.tsv		
 451	two	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rua	nan	- r u - a	('two', 'lama1277-adona', 'ˈrua')	datasets/hwamk20150514wordlist.tsv		
 452	three	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	təlu	nan	- t ə l u	"('three', 'alor1247-besar', ""'talːɔ"")"	datasets/hwamk20150514wordlist.tsv		
-453	four	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hutu	nan	- - h u t u -	('four', 'abui1241-fuime', 'buti')	datasets/hwamk20150514wordlist.tsv		
-454	five	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	- - l i m a	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/hwamk20150514wordlist.tsv		
+453	four	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	hutu	nan	- - h u t u -	('forty', 'sika1262-hewa', 'pulu hutu')	datasets/hwamk20150514wordlist.tsv		
+454	five	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	lima	nan	- - l i m a	('arm', 'keda1252-leuba', 'liŋ')	datasets/hwamk20150514wordlist.tsv		
 455	six	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	əna	nan	- ə - n a - - -	"('six', 'alor1247-baran', ""'nam:u"")"	datasets/hwamk20150514wordlist.tsv		
 456	seven	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pitu	nan	- p i t - - u - -	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/hwamk20150514wordlist.tsv		
 457	eight	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ʋalu	nan	ʋ a l u	('eight', 'buna1278-bobon', 'alu')	datasets/hwamk20150514wordlist.tsv		
@@ -511,7 +511,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 460	eleven	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot ha	nan	- - p u l u - _ - - ʋ o - - t - _ h a	('eleven', 'lama1277-adona', 'pulok ˈtoʔu')	datasets/hwamk20150514wordlist.tsv		
 461	twelve	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot rua	nan	- - p u l u _ - - ʋ o t _ r ua - -	('twelve', 'lama1277-adona', 'pulok rua')	datasets/hwamk20150514wordlist.tsv		
 462	thirteen	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot təlu	nan	- - p u l u _ - - ʋ o t _ t ə l u	('thirteen', 'lama1277-adona', 'pulok tɜlo')	datasets/hwamk20150514wordlist.tsv		
-463	fourteen	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot hutu	nan	- - p u l u _ - - ʋ o t _ h u t u	('fourteen', 'lama1277-lerek', 'heˈpulo no ˈpatə')	datasets/hwamk20150514wordlist.tsv		
+463	fourteen	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot hutu	nan	- - p u l u _ - - ʋ o t _ h u t u	('forty', 'sika1262-hewa', 'pulu hutu')	datasets/hwamk20150514wordlist.tsv		
 464	fifteen	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot lima	nan	- - p u l u _ - - ʋ o t _ l i m a	('fifteen', 'lama1277-adona', 'pulok lɛma')	datasets/hwamk20150514wordlist.tsv		
 465	sixteen	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot əna	nan	- - p u l u _ ʋ o t _ ə n a -	('sixteen', 'lama1277-lerek', 'heˈpulo no əˈnam')	datasets/hwamk20150514wordlist.tsv		
 466	seventeen	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu ʋot pitu	nan	- - p u l u _ - - ʋ o t _ p i t u	('seventeen', 'lama1277-adona', 'pulok pito')	datasets/hwamk20150514wordlist.tsv		
@@ -524,7 +524,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 473	twenty four	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu rua ʋot hutu	nan	p u l u _ - r ua _ - - ʋ o t _ h u t u	('twenty four', 'lama1277-adona', 'pulu rua nɔ ˈpaːt')	datasets/hwamk20150514wordlist.tsv		
 474	twenty five	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu rua ʋot lima	nan	p u l u _ - r ua _ - - ʋ o t _ l i m a	('twenty five', 'lama1277-adona', 'pulu rua nɔ ˈlɛma')	datasets/hwamk20150514wordlist.tsv		
 475	thirty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu təlu	nan	p u l u - _ t ə l u	('thirty', 'keda1252-leuba', 'purun tɛlu')	datasets/hwamk20150514wordlist.tsv		
-476	forty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu hutu	nan	p u l u _ h u t u	('forty', 'lama1277-adona', 'pulu paːt')	datasets/hwamk20150514wordlist.tsv		
+476	forty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu hutu	nan	p u l u _ h u t u	('forty', 'sika1262-hewa', 'pulu hutu')	datasets/hwamk20150514wordlist.tsv		
 477	fifty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu lima	nan	p u l u - _ l i m a	('fifty', 'fata1247', 'taɁan limɛ')	datasets/hwamk20150514wordlist.tsv		
 478	sixty	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu əna	nan	p u l u _ ə n a - - -	('sixty', 'lama1277-adona', 'pulu nɜmu')	datasets/hwamk20150514wordlist.tsv		
 479	seventy	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pulu pitu	nan	p u l u - _ p i t u	('seventy', 'fata1247', 'taɁan fitu')	datasets/hwamk20150514wordlist.tsv		
@@ -591,7 +591,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 538	chieftain	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	pala suku	nan	- - p a l a - _ s u k u	('chieftain', 'sika1262-hewa', 'pala suku')	datasets/hwamk20150514wordlist.tsv		
 539	to rule or govern	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	plɛta	nan	p - l ɛ - t a - - -	"('to rule or govern', 'keda1252-leuba', ""pa'rɛnta"")"	datasets/hwamk20150514wordlist.tsv		
 541	marriage	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bɛrkɑt	nan	b ɛ r k ɑ t	('marriage', 'lama1277-adona', 'bɜrˈkaːt')	datasets/hwamk20150514wordlist.tsv		
-542	friend	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	deuŋ	nan	d eu ŋ	"('friend', 'buna1278-malia', ""'mɔɛn"")"	datasets/hwamk20150514wordlist.tsv		
+542	friend	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	deuŋ	nan	d eu ŋ	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/hwamk20150514wordlist.tsv		
 543	enemy	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	musuh	nan	m u s u h	('enemy', 'lama1277-adona', 'ˈmusu')	datasets/hwamk20150514wordlist.tsv		
 544	king; ruler	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	raʤa	nan	r a - ʤ a	('king; ruler', 'lama1277-adona', 'ˈraja')	datasets/hwamk20150514wordlist.tsv		
 545	stranger	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	bian məŋɑn	nan	b ia n _ m ə ŋ ɑ n	('stranger', 'sika1262-hewa', 'bian məŋɑn')	datasets/hwamk20150514wordlist.tsv		

@@ -22,7 +22,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18	thunder	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkləkə	nan	ˈk - l ə k ə - - - -	('thunder', 'alor1249-sar-a', 'gragar')	datasets/lhhf2016lerek2016222wordlist.tsv		
 19	lightning	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkhilap	nan	- ˈk - h i l a - - p - - - - - - - -	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 20	earthquake	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈbredoŋ	nan	ˈb r e d o ŋ	('earthquake', 'lama1277-lerek', 'ˈbredoŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
-21	fog	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkəkan ˈkova	nan	ˈk ə k a n _ ˈk o v a	('fog', 'lama1277-lerek', 'ˈkəkan ˈkova')	datasets/lhhf2016lerek2016222wordlist.tsv		
+21	fog	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkəkan ˈkova	nan	ˈk ə k a n _ ˈk o v a	('cloud', 'abui1241-fuime', 'kabuti')	datasets/lhhf2016lerek2016222wordlist.tsv		
 22	river; stream	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈwei raˈjan	nan	ˈw ei _ r a ˈj a n	('river; stream', 'lama1277-lerek', 'ˈwei raˈjan')	datasets/lhhf2016lerek2016222wordlist.tsv		
 25	lake	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈwai liˈvunan	nan	ˈw ai _ l i ˈv u n a n	"('lake', 'alor1247-munas', ""'wai 'nɛbɔk"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 26	mountain	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈiler	nan	- - - ˈi l e r -	('mountain', 'alor1249-sar-n', 'jihil')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -93,7 +93,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89	firewood	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kaj ˈapi	nan	k a j - _ - ˈa p i	"('firewood', 'alor1247-besar', ""'kaʤɔ 'ape"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 90	rattan	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈuar	nan	- - - - ˈua r	"('rattan', 'alor1247-pandai', ""'ue"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 91	root	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈramut	nan	- - - ˈr a m u t	"('root', 'alor1247-baran', ""'ramuk"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
-92	fruit	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈvuak	nan	- - - - - ˈv - u - a k - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/lhhf2016lerek2016222wordlist.tsv		
+92	fruit	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈvuak	nan	- - - - - ˈv - u - a k - -	('fruit', 'keda1252', 'wuan')	datasets/lhhf2016lerek2016222wordlist.tsv		
 93	seed	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈriuk	nan	ˈr iu - k	('seed', 'lama1277-kalik', 'riˈuk')	datasets/lhhf2016lerek2016222wordlist.tsv		
 94	grain; cereal	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkəluok	nan	ˈk ə l uo k	('grain; cereal', 'lama1277-lerek', 'ˈkəluok')	datasets/lhhf2016lerek2016222wordlist.tsv		
 96	husked rice; uncooked rice	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəˈluok	nan	k ə ˈl uo k	('husked rice; uncooked rice', 'lama1277-lerek', 'kəˈluok')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -131,7 +131,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 128	milk	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈsusu	nan	- ˈs u s u - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 129	salt	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	iˈrar	nan	- i ˈr a r -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 130	fat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	woˈjak	nan	w o ˈj a k	('fat', 'lama1277-lerek', 'woˈjak')	datasets/lhhf2016lerek2016222wordlist.tsv		
-131	flesh; meat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	eˈlam	nan	e ˈl a m	('flesh; meat', 'lama1277-kalik', 'eˈlam')	datasets/lhhf2016lerek2016222wordlist.tsv		
+131	flesh; meat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	eˈlam	nan	e ˈl a m	('flesh; meat', 'lama1277-imulo', 'elam')	datasets/lhhf2016lerek2016222wordlist.tsv		
 132	bone	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈriuk	nan	- - - ˈr iu - - k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 133	rib	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	hake riuk	nan	h a k e _ r iu k	('rib', 'lama1277-lerek', 'hake riuk')	datasets/lhhf2016lerek2016222wordlist.tsv		
 134	sweat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kərəˈwun	nan	k ə r ə ˈw u n	('sweat', 'lama1277-adona', 'ˈʔɜwũ')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -157,14 +157,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 155	tongue	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	eˈwel	nan	- e ˈw e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 156	neck	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈwule	nan	ˈw u l e - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 157	shoulder	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkwalek	nan	ˈk w a l e k	('shoulder', 'lama1277-kalik', 'kvaˈlɛk')	datasets/lhhf2016lerek2016222wordlist.tsv		
-158	body	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	naˈwak	nan	n a ˈw a k - - - -	('body', 'lama1277-adona', 'ˈwɜkiˈkɜt')	datasets/lhhf2016lerek2016222wordlist.tsv		
-159	forehead	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəniˈto	nan	k ə n i ˈt o	('forehead', 'lama1277-lerek', 'kəniˈto')	datasets/lhhf2016lerek2016222wordlist.tsv		
+158	body	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	naˈwak	nan	n a ˈw a k - - - -	('body', 'lama1277-kalik', 'vəˈki naˈvak')	datasets/lhhf2016lerek2016222wordlist.tsv		
+159	forehead	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəniˈto	nan	k ə n i ˈt o	('forehead', 'lama1277-adona', 'kɜˈniːtoˈkɜt')	datasets/lhhf2016lerek2016222wordlist.tsv		
 160	nostril	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	nidʒ͡u roˈboŋ	nan	n i d ʒ͡u _ r o ˈb o ŋ	('nostril', 'lama1277-lerek', 'nidʒ͡u roˈboŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 161	mucus	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	nidʒ͡u koˈtol	nan	n i d ʒ͡u _ k o ˈt o l	('mucus', 'lama1277-lerek', 'nidʒ͡u koˈtol')	datasets/lhhf2016lerek2016222wordlist.tsv		
 162	cheek	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kliˈpi	nan	k l i ˈp i	('cheek', 'lama1277-lerek', 'kliˈpi')	datasets/lhhf2016lerek2016222wordlist.tsv		
-163	arm	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	liˈma	nan	- l i ˈm a - - - - -	"('arm', 'alor1247-baran', ""'limaŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
-164	hand	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	liˈma	nan	- - - - - l i ˈm a - - - - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
-165	palm of hand	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	liˈma koˈnok	nan	l i ˈm a _ k o ˈn o k	('palm of hand', 'lama1277-lerek', 'liˈma koˈnok')	datasets/lhhf2016lerek2016222wordlist.tsv		
+163	arm	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	liˈma	nan	- l i ˈm a - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
+164	hand	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	liˈma	nan	- - - - - l i ˈm a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
+165	palm of hand	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	liˈma koˈnok	nan	l i ˈm a _ k o ˈn o k	('footprint', 'lama1277-mulan', 'lei onã')	datasets/lhhf2016lerek2016222wordlist.tsv		
 166	finger	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kiˈkil	nan	k i ˈk i l	('finger', 'lama1277-kalik', 'kiˈkil')	datasets/lhhf2016lerek2016222wordlist.tsv		
 167	fingernail	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kaˈtau	nan	k a ˈt au	('fingernail', 'lama1277-lerek', 'kaˈtau')	datasets/lhhf2016lerek2016222wordlist.tsv		
 168	breast	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	tuˈhor	nan	- t u ˈh o r -	('breast', 'adan1251-lawah', 'toʔ')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -173,7 +173,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 171	penis	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	uˈti	nan	- u ˈt i -	('penis', 'lama1277-adona', 'ˈute')	datasets/lhhf2016lerek2016222wordlist.tsv		
 172	vagina	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	puˈki	nan	- p u ˈk i -	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 173	testicles	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈleke ˈteluk	nan	ˈl e k e _ ˈt e l u k	('testicles', 'lama1277-kalik', 'lɛk')	datasets/lhhf2016lerek2016222wordlist.tsv		
-174	leg	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	li	nan	l - - i - -	"('leg', 'alor1247-baran', ""'leiŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
+174	leg	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	li	nan	l - - i - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 175	foot	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	li	nan	l i - - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 176	heel of foot	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈudəm	nan	ˈu d ə m	('heel of foot', 'lama1277-lerek', 'ˈudəm')	datasets/lhhf2016lerek2016222wordlist.tsv		
 177	sole of foot	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	əˈpak	nan	- - - - - ə ˈp a k	('sole of foot', 'lama1277-kalik', 'li əˈpak')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -243,7 +243,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 233	a few	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ətˈhi	nan	ə t ˈh i	('a few', 'lama1277-lerek', 'ətˈhi')	datasets/lhhf2016lerek2016222wordlist.tsv		
 234	all	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	vaˈɔl	nan	- - v a ˈɔ l	('all', 'lama1277-kalik', 'svaˈɔl')	datasets/lhhf2016lerek2016222wordlist.tsv		
 235	many	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈrɔi	nan	ˈr - - - ɔi - - -	('many', 'lama1277-kalik', 'ˈraik')	datasets/lhhf2016lerek2016222wordlist.tsv		
-236	animal	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	əˈvaŋ ˈlakut	nan	- ə ˈv a ŋ _ ˈl a k u t	('animal', 'lama1277-adona', 'ˈʔɜˈwã')	datasets/lhhf2016lerek2016222wordlist.tsv		
+236	animal	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	əˈvaŋ ˈlakut	nan	- ə ˈv a ŋ _ ˈl a k u t	('animal', 'keda1252', 'ewaŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 238	dog	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	aˈor	nan	- - a - ˈo r - - - - -	"('dog', 'alor1247-baran', ""a'ho"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 239	pig	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	vaˈver	nan	- v a ˈv e r	"('pig', 'alor1247-besar', ""'fafe"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 240	chicken	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	maˈnuk	nan	m a ˈn u - - - k - -	('chicken', 'lama1277-adona', 'ˈmanuk')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -253,7 +253,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 244	deer	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ruˈhar	nan	- - - - - r u ˈh a r - - -	('deer', 'abui1241-fuime', 'aijuti')	datasets/lhhf2016lerek2016222wordlist.tsv		
 245	frog	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ɡurˈɡeŋ	nan	ɡ u r ˈɡ e ŋ	('frog', 'lama1277-lerek', 'ɡurˈɡeŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 246	bat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəreˈbeŋ	nan	k ə r e ˈb e ŋ	('bat', 'lama1277-kalik', 'krɛˈbɛŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
-247	flying fox; fruit bat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	miˈker	nan	m i ˈk e r	('flying fox; fruit bat', 'lama1277-lerek', 'miˈker')	datasets/lhhf2016lerek2016222wordlist.tsv		
+247	flying fox; fruit bat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	miˈker	nan	m i ˈk e r	"('flying fox; fruit bat', 'alor1247-munas', ""mi'hua"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 249	tail	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	iˈkur	nan	- i ˈk - - u - r - - - - - - -	('tail', 'adan1251-lawah', 'oloʔ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 250	fish	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	iˈkan	nan	- - - i - - - - ˈk a n -	"('fish', 'alor1247-baran', ""'ikɑŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 251	shark	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈiɔr	nan	- - ˈiɔ - - - r	"('shark', 'alor1247-besar', ""'iʤo"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -296,7 +296,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 287	lazy	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	pemalˈha	nan	p e m a l ˈh a	('lazy', 'lama1277-lerek', 'pemalˈha')	datasets/lhhf2016lerek2016222wordlist.tsv		
 288	hot	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kənatiˈŋan	nan	k ə n a t i ˈŋ a n	('hot', 'lama1277-kalik', 'kaˈti')	datasets/lhhf2016lerek2016222wordlist.tsv		
 289	cold	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	lətəˈhən	nan	- - - - l ə t ə - - - - - ˈh ə - - n	('cold', 'abui1241-fuime', 'palata')	datasets/lhhf2016lerek2016222wordlist.tsv		
-290	good	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	aluˈhən	nan	a l u ˈh ə n	('good', 'lama1277-kalik', 'aˈlus')	datasets/lhhf2016lerek2016222wordlist.tsv		
+290	good	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	aluˈhən	nan	a l u ˈh ə n	('good', 'lama1277-kalik', 'alus')	datasets/lhhf2016lerek2016222wordlist.tsv		
 291	bad	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ɡuˈtun	nan	ɡ u ˈt u n	('bad', 'lama1277-lerek', 'ɡuˈtun')	datasets/lhhf2016lerek2016222wordlist.tsv		
 292	full	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	mənuˈkən	nan	- - m ə n u - ˈk ə n -	"('full', 'alor1247-baran', ""'pan:ɔŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 293	empty	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	amuˈkən	nan	a m u ˈk ə n	('empty', 'lama1277-lerek', 'amuˈkən')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -334,7 +334,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 325	salty	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	mədʒ͡uˈkən	nan	m ə d - ʒ͡u - ˈk ə n	('salty', 'lama1277-kalik', 'pənɛˈʤʊk')	datasets/lhhf2016lerek2016222wordlist.tsv		
 325	salty	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	pɔi-pɔi	nan	p ɔi - pɔ	('salty', 'lama1277-lerek', 'pɔi-pɔi')	datasets/lhhf2016lerek2016222wordlist.tsv		
 326	flat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ɡənəˈkən	nan	ɡ ə n ə ˈk ə n	('flat', 'lama1277-lerek', 'ɡənəˈkən')	datasets/lhhf2016lerek2016222wordlist.tsv		
-326	flat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	lereˈkən	nan	l e r e ˈk ə n	('flat', 'lama1277-kalik', 'leˈrɛk')	datasets/lhhf2016lerek2016222wordlist.tsv		
+326	flat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	lereˈkən	nan	l e r e ˈk ə n	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 327	smooth	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəmeluˈtən	nan	k ə m e l u ˈt ə n	('smooth', 'lama1277-lerek', 'kəmeluˈtən')	datasets/lhhf2016lerek2016222wordlist.tsv		
 327	smooth	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəˈmel-kəˈmel	nan	k ə ˈm e l - k əˈ m e	"('smooth', 'alor1247-besar', ""ha'melu"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 329	black	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	mitəˈman	nan	- m i - - t ə ˈm a n - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -383,7 +383,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 368	to drink	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	mɛn	nan	- - - - - - m ɛ n - - - - -	('to drink', 'adan1251-lawah', 'naʔ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 369	to eat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ɡa	nan	ɡ a	('to eat', 'lama1277-lerek', 'ɡa')	datasets/lhhf2016lerek2016222wordlist.tsv		
 369	to eat	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ka	nan	k a	('to eat', 'lama1277-lerek', 'ka')	datasets/lhhf2016lerek2016222wordlist.tsv		
-370	to cook	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈlolu	nan	ˈl o l u -	('to cook', 'lama1277-kalik', 'loˈlu')	datasets/lhhf2016lerek2016222wordlist.tsv		
+370	to cook	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈlolu	nan	ˈl o l u -	('grass; brush', 'lama1277-tanju', 'hokə̃')	datasets/lhhf2016lerek2016222wordlist.tsv		
 371	to wash	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈbahaŋ	nan	ˈb a h a ŋ -	('to wash', 'fata1247', 'pahalɛ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 372	to sew	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	hauˈrəŋ	nan	- h au - - ˈr - - ə ŋ -	"('to sew', 'alor1247-baran', ""'haur"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 373	to live; be alive; living	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	modʒ͡iˈpən	nan	- m - - o dʒ - i ˈp ə n	"('to live; be alive; living', 'alor1247-baran', ""'mɔri"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -474,7 +474,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 451	two	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈdʒ͡ua	nan	- ˈdʒ͡ u - a	('two', 'lama1277-adona', 'ˈrua')	datasets/lhhf2016lerek2016222wordlist.tsv		
 452	three	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	təl	nan	- t ə l -	"('three', 'alor1247-besar', ""'talːɔ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 453	four	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈpatə	nan	- - - - ˈp a t ə	('four', 'fata1247', 'fa:tɛ')	datasets/lhhf2016lerek2016222wordlist.tsv		
-454	five	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈlɛma	nan	- - ˈl ɛ m a	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
+454	five	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈlɛma	nan	- - ˈl ɛ m a	('arm', 'keda1252-leuba', 'liŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 455	six	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	əˈnam	nan	- ə - ˈn a m - -	"('six', 'alor1247-baran', ""'nam:u"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 456	seven	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈpito	nan	- ˈp i t - - o - -	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 457	eight	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈbuto	nan	ˈb u t - - - o	"('eight', 'alor1247-baran', ""'but:ɔ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -543,7 +543,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 538	chieftain	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈata kaˈbelan	nan	ˈa t a _ k a ˈb e l - - a n	('chieftain', 'lama1277-lerek', 'ˈata kaˈbelan')	datasets/lhhf2016lerek2016222wordlist.tsv		
 539	to rule or govern	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈprinta	nan	ˈp - r i n t a - - -	"('to rule or govern', 'keda1252-leuba', ""pa'rɛnta"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 541	marriage	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkavɛn	nan	ˈk a v ɛ n -	('marriage', 'fata1247', 'kawe')	datasets/lhhf2016lerek2016222wordlist.tsv		
-542	friend	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəneˈbreuŋ	nan	k ə n e ˈb r eu ŋ	('friend', 'lama1277-lerek', 'kəneˈbreuŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
+542	friend	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəneˈbreuŋ	nan	k ə n e ˈb r eu ŋ	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
 544	king; ruler	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈkordes	nan	ˈk o r d e s	('king; ruler', 'lama1277-lerek', 'ˈkordes')	datasets/lhhf2016lerek2016222wordlist.tsv		
 545	stranger	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈata ɡehaˈkən	nan	ˈa t a _ ɡ e h a ˈk ə n	('stranger', 'lama1277-lerek', 'ˈata ɡehaˈkən')	datasets/lhhf2016lerek2016222wordlist.tsv		
 546	to invite	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈundaŋ	nan	- ˈu n d a ŋ	"('to invite', 'alor1247-munas', ""'ɔndaŋ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -555,7 +555,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 552	innocent	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	tək no salahi	nan	t ə k _ n o _ s a l a h i	('innocent', 'lama1277-lerek', 'tək no salahi')	datasets/lhhf2016lerek2016222wordlist.tsv		
 553	the murder	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	bel ˈvaki	nan	b e l - _ ˈv a k i - -	('the murder', 'lama1277-adona', 'belo ˈwɜkika')	datasets/lhhf2016lerek2016222wordlist.tsv		
 554	the adultery	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈmitə ˈvakim	nan	ˈm i t ə _ ˈv a k i m	('the adultery', 'lama1277-lerek', 'ˈmitə ˈvakim')	datasets/lhhf2016lerek2016222wordlist.tsv		
-556	fishnet	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈpukat	nan	ˈp u k a t	"('fishnet', 'alor1247-besar', ""'pukɔ"")"	datasets/lhhf2016lerek2016222wordlist.tsv		
+556	fishnet	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈpukat	nan	ˈp u k a t	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/lhhf2016lerek2016222wordlist.tsv		
 557	to surrender	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈnotoŋ	nan	ˈn o t o ŋ - - - - - -	('to surrender', 'lama1277-lerek', 'ˈnotoŋ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 560	poor	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəˈhian	nan	k ə ˈh ia n -	('poor', 'fata1247', 'kasianɛ')	datasets/lhhf2016lerek2016222wordlist.tsv		
 561	rich	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	kəvaˈhan	nan	- - k ə v a ˈh a n	('rich', 'kama1365', 'kawasa')	datasets/lhhf2016lerek2016222wordlist.tsv		
@@ -586,7 +586,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 584	now	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	tea naˈbe	nan	t ea _ n a ˈb e	('now', 'lama1277-lerek', 'tea naˈbe')	datasets/lhhf2016lerek2016222wordlist.tsv		
 586	same	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈhama	nan	- ˈh a m a -	('same', 'abui1241-takal', 'sä.mä')	datasets/lhhf2016lerek2016222wordlist.tsv		
 587	oven/cooking place	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈlikat	nan	ˈl i k a t	('oven/cooking place', 'lama1277-lerek', 'ˈlikat')	datasets/lhhf2016lerek2016222wordlist.tsv		
-588	flower (in e.g. mangga tree)	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈbuŋa	nan	- - - - - ˈb u ŋ a - - - - - - - - -	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/lhhf2016lerek2016222wordlist.tsv		
+588	flower (in e.g. mangga tree)	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ˈbuŋa	nan	- - - - - ˈb u ŋ a - - - - - - - - -	('flower', 'abui1241-fuime', 'kiki')	datasets/lhhf2016lerek2016222wordlist.tsv		
 589	vein	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	alhin	nan	- a l - h i n	('vein', 'kabo1247', 'tərú')	datasets/lhhf2016lerek2016222wordlist.tsv		
 590	long (stick)	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	doˈak	nan	d o ˈa k	('long (stick)', 'lama1277-lerek', 'doˈak')	datasets/lhhf2016lerek2016222wordlist.tsv		
 591	tall (person)	lama1277-lerek	Lamaholot-Lerek	Austronesian	8Lembata	ataˈdikə ɡoloˈkən	nan	a t a ˈd i k ə _ ɡ o l o ˈk ə n	('tall (person)', 'lama1277-lerek', 'ataˈdikə ɡoloˈkən')	datasets/lhhf2016lerek2016222wordlist.tsv		

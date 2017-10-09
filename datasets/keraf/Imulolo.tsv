@@ -24,16 +24,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	əmut	nan	- - - ə m u t -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Imulolo.tsv	15. Debu
 70	dust; fine earth	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kafok	nan	k - - a f o k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Imulolo.tsv	151. Abu 
 75	sand	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	fərar	nan	f ə r a r -	('sand', 'lama1277-baipi', 'wəra')	datasets/keraf/Imulolo.tsv	121. Pasir 
-76	grass; brush	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kərəkasa	nan	k ə r ə k a s a	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/keraf/Imulolo.tsv	118. Rumput 
+76	grass; brush	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kərəkasa	nan	k ə r ə k a s a	('grass; brush', 'lama1277-belan', 'kərəkak')	datasets/keraf/Imulolo.tsv	118. Rumput 
 84	tree	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kajor	nan	- k a - - j o r - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Imulolo.tsv	110. Pohon 
 87	leaf	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	lolo	nan	- - - - - l o l o -	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/keraf/Imulolo.tsv	112. Daun 
 91	root	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	ramut	nan	r a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Imulolo.tsv	114. Akar 
 92	fruit	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	fuak	nan	- - - - - f - u - a k - -	('fruit', 'keda1252', 'wuan')	datasets/keraf/Imulolo.tsv	117. Buah 
 93	seed	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kuluk	nan	k u l u k - -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/keraf/Imulolo.tsv	115. Biji 
-95	flower	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	puŋan	nan	p u ŋ a n -	('flower', 'lama1277-belan', 'puŋa')	datasets/keraf/Imulolo.tsv	116. Bunga 
+95	flower	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	puŋan	nan	p u ŋ a n -	('flower', 'abui1241-fuime', 'kiki')	datasets/keraf/Imulolo.tsv	116. Bunga 
 129	salt	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	irar	nan	- i r a r -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Imulolo.tsv	128. Garam 
 130	fat	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	fojakən	nan	f o - - j a k ə n	('fat', 'lama1277-baipi', 'wora')	datasets/keraf/Imulolo.tsv	104. Lemak 
-131	flesh; meat	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	elam	nan	- - - e l a m	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Imulolo.tsv	103. Daging 
+131	flesh; meat	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	elam	nan	- - - e l a m	('flesh; meat', 'lama1277-imulo', 'elam')	datasets/keraf/Imulolo.tsv	103. Daging 
 132	bone	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	riukəs	nan	- - - r iu - - k ə s -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Imulolo.tsv	19. Tulang
 136	blood	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	səmeisa	nan	s ə m ei s a	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Imulolo.tsv	26. Darah
 138	heart	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	puosa	nan	- p uo s a - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Imulolo.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	fəfasa	nan	f ə f a s a	"('mouth', 'alor1247-besar', ""fa'faŋ"")"	datasets/keraf/Imulolo.tsv	33. Mulut
 155	tongue	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	efeləs	nan	- e f e l ə s	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Imulolo.tsv	35. Lidah
 156	neck	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	fulesa	nan	f u l e s a	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Imulolo.tsv	28. Leher
-164	hand	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	limasa	nan	- - - - - l i m a - - s a - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Imulolo.tsv	1. Tangan
-175	foot	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	linəsa	nan	l i - - - n ə s a - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Imulolo.tsv	4. Kaki
+164	hand	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	limasa	nan	- - - - - l i m a - - s a - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Imulolo.tsv	1. Tangan
+175	foot	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	linəsa	nan	l i - - - n ə s a - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Imulolo.tsv	4. Kaki
 179	back	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kətubəŋəs	nan	k ə t u b ə ŋ ə s -	('back', 'lama1277-horow', 'kənuwənək')	datasets/keraf/Imulolo.tsv	17. Punggung
 182	skin	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kamakəs	nan	k a m a k - ə s	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Imulolo.tsv	16. Kulit
 190	person	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	atadikəja	nan	a t a d i k ə j a	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Imulolo.tsv	53. Orang
@@ -119,7 +119,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 316	wide	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	pəlafat	nan	p - - ə l a - f a t - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Imulolo.tsv	164. Luas 
 317	narrow	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kənipotən	nan	k ə n - - i p o t ə n	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Imulolo.tsv	163. Sempit 
 321	rotten	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	fuk	nan	f u k - -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Imulolo.tsv	111. Busuk 
-326	flat	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	lerekən	nan	l e r - e - - k ə n	('flat', 'lama1277-belan', 'lere')	datasets/keraf/Imulolo.tsv	146. Rata 
+326	flat	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	lerekən	nan	l e r - e - - k ə n	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Imulolo.tsv	146. Rata 
 329	black	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	mitəm	nan	- m i - - t ə m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Imulolo.tsv	152. Hitam 
 330	white	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	bijakən	nan	- - - b i j a - - - - k ə n -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Imulolo.tsv	153. Putih 
 331	red	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	meraŋən	nan	m e r a ŋ ə n	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Imulolo.tsv	154. Merah 
@@ -185,11 +185,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	piuka	nan	p iu k a -	('to squeeze', 'lama1277-adona', 'ˈpiʔuk')	datasets/keraf/Imulolo.tsv	88. Memeras 
 441	to bark	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kajokamak	nan	k a j o - - k a - m - a k - -	('to bark', 'lama1277-baipi', 'kajo kulit')	datasets/keraf/Imulolo.tsv	113. Kulit kayu
 442	to shoot	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	pasak	nan	p a s a k	('to shoot', 'keda1252', 'pasaʔ')	datasets/keraf/Imulolo.tsv	70. Menembak 
-601	footprint	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	linəsa or	 	l i n ə s a - _ - - o r - -	('footprint', 'lama1277-bama', 'makat')	datasets/keraf/Imulolo.tsv	5. Kaki
+601	footprint	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	linəsa or	 	l i n ə s a - _ - - o r - -	('footprint', 'lama1277-imulo', 'linəsa or')	datasets/keraf/Imulolo.tsv	5. Kaki
 603	return	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	tue	nan	- - t ue - - - - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Imulolo.tsv	9. Balik
 606	stomach	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	tukasa usər	nan	t u k a s a _ - u s ə r - - - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Imulolo.tsv	20. Isi perut
 607	tooth	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kiakəs	nan	- - k ia - k ə s -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Imulolo.tsv	34. Gigi
-609	fist	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	tad	nan	t a d - - -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Imulolo.tsv	72. Bertinju 
+609	fist	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	tad	nan	t a d - - -	('fist', 'lama1277-bama', 'sadok')	datasets/keraf/Imulolo.tsv	72. Bertinju 
 612	stem	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	puka	nan	p u - - k a -	('stem', 'lama1277-baipi', 'pukən')	datasets/keraf/Imulolo.tsv	79. Batang 
 614	swollen	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	kəbarasa	nan	k - - - - ə b a r a s a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Imulolo.tsv	87. Bengkak
 618	worm	lama1277-imulo	Lamaholot-Imulolo	Austronesian	8Lembata	salafalak	nan	s a l a f a l a k -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Imulolo.tsv	107. Cacing 

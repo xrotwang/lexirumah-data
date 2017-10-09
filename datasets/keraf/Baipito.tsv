@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Baipito.tsv	116. Bunga 
 129	salt	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Baipito.tsv	128. Garam 
 130	fat	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	wora	nan	w o r - - a - - -	('fat', 'lama1277-baipi', 'wora')	datasets/keraf/Baipito.tsv	104. Lemak 
-131	flesh; meat	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	mənakẽ	nan	m ə n a k ẽ	('flesh; meat', 'lama1277-baipi', 'mənakẽ')	datasets/keraf/Baipito.tsv	103. Daging 
+131	flesh; meat	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	mənakẽ	nan	m ə n a k ẽ	"('flesh; meat', 'keda1252-leuba', ""na'ʔɛn"")"	datasets/keraf/Baipito.tsv	103. Daging 
 132	bone	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	riʔuk	nan	- - - r i ʔ u k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Baipito.tsv	19. Tulang
 136	blood	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Baipito.tsv	26. Darah
 138	heart	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	pəwuã	nan	- p ə w uã - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Baipito.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	wəwat	nan	w ə w a - - t	('mouth', 'atim1239', 'tawa')	datasets/keraf/Baipito.tsv	33. Mulut
 155	tongue	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	wewe	nan	w e w e - - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Baipito.tsv	35. Lidah
 156	neck	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	wuli	nan	w u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Baipito.tsv	28. Leher
-164	hand	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Baipito.tsv	1. Tangan
-175	foot	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Baipito.tsv	4. Kaki
+164	hand	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Baipito.tsv	1. Tangan
+175	foot	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Baipito.tsv	4. Kaki
 179	back	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	hurut	nan	- h u r u t	('back', 'lama1277-baipi', 'hurut')	datasets/keraf/Baipito.tsv	17. Punggung
 182	skin	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	kulit	nan	- - - - - - k u l i t - - - -	('skin', 'abui1241-fuime', 'tekul')	datasets/keraf/Baipito.tsv	16. Kulit
 190	person	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	atadikə	nan	a t a d i k ə - -	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Baipito.tsv	53. Orang

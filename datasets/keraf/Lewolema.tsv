@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Lewolema.tsv	116. Bunga 
 129	salt	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Lewolema.tsv	128. Garam 
 130	fat	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	worã	nan	w o r - - - ã - - - -	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Lewolema.tsv	104. Lemak 
-131	flesh; meat	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Lewolema.tsv	103. Daging 
+131	flesh; meat	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Lewolema.tsv	103. Daging 
 132	bone	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	riʔuk	nan	- - - r i ʔ u k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Lewolema.tsv	19. Tulang
 136	blood	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Lewolema.tsv	26. Darah
 138	heart	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	wuak	nan	- w ua - - k - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Lewolema.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	wewa	nan	w e w a - - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Lewolema.tsv	33. Mulut
 155	tongue	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	wewe	nan	w e w e - - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Lewolema.tsv	35. Lidah
 156	neck	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	wuli	nan	w u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Lewolema.tsv	28. Leher
-164	hand	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Lewolema.tsv	1. Tangan
-175	foot	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Lewolema.tsv	4. Kaki
+164	hand	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Lewolema.tsv	1. Tangan
+175	foot	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Lewolema.tsv	4. Kaki
 179	back	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	kolaʔ	nan	k o l a ʔ	('back', 'lama1277-botun', 'kolak')	datasets/keraf/Lewolema.tsv	17. Punggung
 182	skin	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	kamaʔ	nan	k a m a - ʔ - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Lewolema.tsv	16. Kulit
 190	person	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	atadikẽ	nan	a - t a d i k - ẽ -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Lewolema.tsv	53. Orang
@@ -186,7 +186,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	tuse	nan	- - t u s e - - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Lewolema.tsv	9. Balik
 606	stomach	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	taikəboti	nan	t a - i - - - k ə b o t - i - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Lewolema.tsv	20. Isi perut
 607	tooth	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	ipə	nan	i - p ə - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Lewolema.tsv	34. Gigi
-609	fist	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	sadok	nan	s a d o k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Lewolema.tsv	72. Bertinju 
+609	fist	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	sadok	nan	s a d o k -	('fist', 'lama1277-bama', 'sadok')	datasets/keraf/Lewolema.tsv	72. Bertinju 
 612	stem	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	pukẽ	nan	- - p u k ẽ	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Lewolema.tsv	79. Batang 
 614	swollen	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Lewolema.tsv	87. Bengkak
 618	worm	lama1277-lewom	Lamaholot-Lewolema	Austronesian	8Lembata	kəbeŋer	nan	k ə b e ŋ e r - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Lewolema.tsv	107. Cacing 

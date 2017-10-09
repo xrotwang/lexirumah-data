@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	keda1252	Kedang	Austronesian	8Lembata	waʔ	nan	- w a ʔ - - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Kedang.tsv	120. Batu 
 35	water (fresh)	keda1252	Kedang	Austronesian	8Lembata	wei	nan	w ei	('water (fresh)', 'keda1252', 'wei')	datasets/keraf/Kedang.tsv	122. Air 
 36	sea; sea water	keda1252	Kedang	Austronesian	8Lembata	tahi	nan	t a h i	('sea; sea water', 'keda1252', 'tahi')	datasets/keraf/Kedang.tsv	127. Laut 
-39	forest	keda1252	Kedang	Austronesian	8Lembata	tuen	nan	- - - t - - - - - - ue n	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	datasets/keraf/Kedang.tsv	132. Hutan
+39	forest	keda1252	Kedang	Austronesian	8Lembata	tuen	nan	- - - t - - - - - - ue n	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/keraf/Kedang.tsv	132. Hutan
 45	road; path; way	keda1252	Kedang	Austronesian	8Lembata	lala	nan	l a l a	('road; path; way', 'keda1252', 'lala')	datasets/keraf/Kedang.tsv	7. Jalan
 51	rope	keda1252	Kedang	Austronesian	8Lembata	wade	nan	w a d - - e -	('rope', 'abui1241-fuime', 'tila')	datasets/keraf/Kedang.tsv	65. Tali
 65	clothing	keda1252	Kedang	Austronesian	8Lembata	ulialen	nan	- u l ia - l e - - n -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Kedang.tsv	68. Pakaian 
@@ -30,7 +30,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 91	root	keda1252	Kedang	Austronesian	8Lembata	ramuʔ	nan	r a m u ʔ	('root', 'keda1252', 'ramuʔ')	datasets/keraf/Kedang.tsv	114. Akar 
 92	fruit	keda1252	Kedang	Austronesian	8Lembata	wuan	nan	- - - - - w - u - a - - n	('fruit', 'keda1252', 'wuan')	datasets/keraf/Kedang.tsv	117. Buah 
 93	seed	keda1252	Kedang	Austronesian	8Lembata	ulu?	nan	- u l u ? - -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/keraf/Kedang.tsv	115. Biji 
-95	flower	keda1252	Kedang	Austronesian	8Lembata	puhun	nan	- - - - - p u h u n - - - - - - - -	('flower', 'keda1252', 'puhun')	datasets/keraf/Kedang.tsv	116. Bunga 
+95	flower	keda1252	Kedang	Austronesian	8Lembata	puhun	nan	- - - - - p u h u n - - - - - - - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Kedang.tsv	116. Bunga 
 129	salt	keda1252	Kedang	Austronesian	8Lembata	teʔu	nan	t e ʔ u -	('salt', 'keda1252', 'teʔu')	datasets/keraf/Kedang.tsv	128. Garam 
 130	fat	keda1252	Kedang	Austronesian	8Lembata	woyaʔ	nan	- w oya ʔ - - - - -	('fat', 'abui1241-fuime', 'hetamada')	datasets/keraf/Kedang.tsv	104. Lemak 
 131	flesh; meat	keda1252	Kedang	Austronesian	8Lembata	ihin	nan	i h i n	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Kedang.tsv	103. Daging 
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	keda1252	Kedang	Austronesian	8Lembata	nunu	nan	- n u n u - - - - - -	('mouth', 'keda1252', 'nunu')	datasets/keraf/Kedang.tsv	33. Mulut
 155	tongue	keda1252	Kedang	Austronesian	8Lembata	ebel	nan	- e b e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Kedang.tsv	35. Lidah
 156	neck	keda1252	Kedang	Austronesian	8Lembata	aduŋ	nan	a d u ŋ	('neck', 'keda1252', 'aduŋ')	datasets/keraf/Kedang.tsv	28. Leher
-164	hand	keda1252	Kedang	Austronesian	8Lembata	liŋ	nan	l i ŋ	('hand', 'keda1252', 'liŋ')	datasets/keraf/Kedang.tsv	1. Tangan
-175	foot	keda1252	Kedang	Austronesian	8Lembata	lei	nan	nan	('foot', 'keda1252', 'lei')	datasets/keraf/Kedang.tsv	4. Kaki
+164	hand	keda1252	Kedang	Austronesian	8Lembata	liŋ	nan	l i ŋ	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Kedang.tsv	1. Tangan
+175	foot	keda1252	Kedang	Austronesian	8Lembata	lei	nan	nan	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Kedang.tsv	4. Kaki
 179	back	keda1252	Kedang	Austronesian	8Lembata	obi	nan	o b i	('back', 'keda1252', 'obi')	datasets/keraf/Kedang.tsv	17. Punggung
 182	skin	keda1252	Kedang	Austronesian	8Lembata	ama	nan	- a m a - - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Kedang.tsv	16. Kulit
 190	person	keda1252	Kedang	Austronesian	8Lembata	atadiʔen	nan	a t a - d i ʔ e n	('person', 'abui1241-fuime', 'ama')	datasets/keraf/Kedang.tsv	53. Orang
@@ -89,7 +89,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 236	animal	keda1252	Kedang	Austronesian	8Lembata	ewaŋ	nan	- e w a - - ŋ - - - -	('animal', 'keda1252', 'ewaŋ')	datasets/keraf/Kedang.tsv	102. Binatang 
 238	dog	keda1252	Kedang	Austronesian	8Lembata	au	nan	nan	"('dog', 'alor1247-baran', ""a'ho"")"	datasets/keraf/Kedang.tsv	96. Anjing 
 249	tail	keda1252	Kedang	Austronesian	8Lembata	ebo	nan	- e b o	('tail', 'keda1252', 'ebo')	datasets/keraf/Kedang.tsv	105. Ekor 
-250	fish	keda1252	Kedang	Austronesian	8Lembata	iʔa	nan	- - - i - - - - ʔ a - -	('fish', 'keda1252', 'iʔa')	datasets/keraf/Kedang.tsv	109. Ikan 
+250	fish	keda1252	Kedang	Austronesian	8Lembata	iʔa	nan	- - - i - - - - ʔ a - -	"('fish', 'alor1247-baran', ""'ikɑŋ"")"	datasets/keraf/Kedang.tsv	109. Ikan 
 259	bird	keda1252	Kedang	Austronesian	8Lembata	udaŋ oloŋ	nan	u d a ŋ - _ - o l o ŋ -	"('bird', 'alor1247-baran', ""'koloŋ"")"	datasets/keraf/Kedang.tsv	97. Burung 
 260	wing	keda1252	Kedang	Austronesian	8Lembata	apiʔ	nan	- a p i ʔ -	('wing', 'abui1241-fuime', 'ha-bakai')	datasets/keraf/Kedang.tsv	100. Sayap 
 262	feather	keda1252	Kedang	Austronesian	8Lembata	beriŋ	nan	b e r i ŋ	('feather', 'keda1252', 'beriŋ')	datasets/keraf/Kedang.tsv	99. Bulu 

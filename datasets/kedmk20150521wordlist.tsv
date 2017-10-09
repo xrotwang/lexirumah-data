@@ -22,7 +22,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 19	lightning	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'nilaʔ	kilatan, cahaya	- - - - - - - - - ˈn i l a ʔ	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/kedmk20150521wordlist.tsv		
 19	lightning	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'kilaʔ	kilatan, cahaya	- - - - - - - - - ˈn i l a ʔ	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/kedmk20150521wordlist.tsv		
 20	earthquake	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	nɛju	nan	n ɛ j u	('earthquake', 'keda1252-leuba', 'nɛju')	datasets/kedmk20150521wordlist.tsv		
-21	fog	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔɔwa	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	ʔ ɔ w a - - - - - -	('fog', 'keda1252-leuba', 'ʔɔwa')	datasets/kedmk20150521wordlist.tsv		
+21	fog	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔɔwa	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	ʔ ɔ w a - - - - - -	('cloud', 'abui1241-fuime', 'kabuti')	datasets/kedmk20150521wordlist.tsv		
 22	river; stream	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	wɛi	nan	w ɛ - i	('river; stream', 'keda1252-leuba', 'wɛi')	datasets/kedmk20150521wordlist.tsv		
 25	lake	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	da'nɑu	nan	d a ˈn ɑ u	"('lake', 'alor1247-baran', ""'danɑu"")"	datasets/kedmk20150521wordlist.tsv		
 26	mountain	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	(j)ili	nan	#NAME?	('mountain', 'alor1249-sar-n', 'jihil')	datasets/kedmk20150521wordlist.tsv		
@@ -38,7 +38,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 36	sea; sea water	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ta'hiʔ	nan	nan	"('sea; sea water', 'alor1247-besar', ""'tahi"")"	datasets/kedmk20150521wordlist.tsv		
 37	wave	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ɔ'jɔʔ	nan	nan	"('wave', 'alor1247-besar', ""'ɔʤɔ"")"	datasets/kedmk20150521wordlist.tsv		
 38	foam	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	wuran	nan	nan	('foam', 'adan1251-lawah', 'wara-wara')	datasets/kedmk20150521wordlist.tsv		
-39	forest	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	tu'wɛn	nan	nan	"('forest', 'keda1252-leuba', ""tu'wɛn"")"	datasets/kedmk20150521wordlist.tsv		
+39	forest	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	tu'wɛn	nan	nan	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/kedmk20150521wordlist.tsv		
 40	field	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'wuru	nan	nan	"('field', 'keda1252-leuba', ""'wuru"")"	datasets/kedmk20150521wordlist.tsv		
 41	island	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔauʔ	nan	nan	('island', 'keda1252-leuba', 'ʔauʔ')	datasets/kedmk20150521wordlist.tsv		
 42	rice field	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'lumɑr	nan	nan	"('rice field', 'abui1241-takal', ""'sä.wä"")"	datasets/kedmk20150521wordlist.tsv		
@@ -90,7 +90,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 90	rattan	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	wua'wɛi	nan	nan	"('rattan', 'keda1252-leuba', ""wua'wɛi"")"	datasets/kedmk20150521wordlist.tsv		
 90	rattan	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'wɛi	nan	nan	"('rattan', 'keda1252-leuba', ""'wɛi"")"	datasets/kedmk20150521wordlist.tsv		
 91	root	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ramuʔ	nan	nan	('root', 'keda1252-leuba', 'ramuʔ')	datasets/kedmk20150521wordlist.tsv		
-92	fruit	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	uan	nan	nan	('fruit', 'keda1252-leuba', 'uan')	datasets/kedmk20150521wordlist.tsv		
+92	fruit	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	uan	nan	nan	('fruit', 'keda1252', 'wuan')	datasets/kedmk20150521wordlist.tsv		
 93	seed	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔu'luʔ	nan	nan	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/kedmk20150521wordlist.tsv		
 94	grain; cereal	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔa'nɛn	nan	nan	"('grain; cereal', 'keda1252-leuba', ""ʔa'nɛn"")"	datasets/kedmk20150521wordlist.tsv		
 96	husked rice; uncooked rice	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔa'nɛn	nan	nan	"('husked rice; uncooked rice', 'keda1252-leuba', ""ʔa'nɛn"")"	datasets/kedmk20150521wordlist.tsv		
@@ -162,8 +162,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 161	mucus	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	niŋ 'tein	nan	nan	"('mucus', 'keda1252-leuba', ""niŋ 'tein"")"	datasets/kedmk20150521wordlist.tsv		
 162	cheek	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'pipin	nan	nan	"('cheek', 'keda1252-leuba', ""'pipin"")"	datasets/kedmk20150521wordlist.tsv		
 163	arm	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	liŋ	nan	nan	('arm', 'keda1252-leuba', 'liŋ')	datasets/kedmk20150521wordlist.tsv		
-164	hand	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	liŋ	nan	nan	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/kedmk20150521wordlist.tsv		
-165	palm of hand	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	liŋ 'lɑlɛŋ	lɑlɛŋ=inside	nan	"('palm of hand', 'keda1252-leuba', ""liŋ 'lɑlɛŋ"")"	datasets/kedmk20150521wordlist.tsv		
+164	hand	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	liŋ	nan	nan	('arm', 'keda1252-leuba', 'liŋ')	datasets/kedmk20150521wordlist.tsv		
+165	palm of hand	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	liŋ 'lɑlɛŋ	lɑlɛŋ=inside	nan	('footprint', 'keda1252', 'lei laleŋ')	datasets/kedmk20150521wordlist.tsv		
 166	finger	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	liŋ 'utun	utun=small	nan	"('finger', 'keda1252-leuba', ""liŋ 'utun"")"	datasets/kedmk20150521wordlist.tsv		
 167	fingernail	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'uruŋ	nan	nan	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/kedmk20150521wordlist.tsv		
 168	breast	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'tuʔu	nan	nan	('breast', 'adan1251-lawah', 'toʔ')	datasets/kedmk20150521wordlist.tsv		
@@ -235,7 +235,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 233	a few	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔite	nan	ʔ i t e - -	('a few', 'keda1252-leuba', 'ʔite')	datasets/kedmk20150521wordlist.tsv		
 234	all	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'rɛiʔ	nan	ˈr ɛ i ʔ	"('all', 'keda1252-leuba', ""'rɛiʔ"")"	datasets/kedmk20150521wordlist.tsv		
 235	many	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'rai	nan	ˈr a i	"('many', 'keda1252-leuba', ""'rai"")"	datasets/kedmk20150521wordlist.tsv		
-236	animal	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'ʔewaŋ	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	"('animal', 'keda1252-leuba', ""'ʔewaŋ"")"	datasets/kedmk20150521wordlist.tsv		
+236	animal	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'ʔewaŋ	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	nan	('animal', 'keda1252', 'ewaŋ')	datasets/kedmk20150521wordlist.tsv		
 238	dog	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	au	nan	nan	('dog', 'keda1252-leuba', 'au')	datasets/kedmk20150521wordlist.tsv		
 239	pig	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'wawi	nan	nan	('pig', 'abui1241-fuime', 'fe')	datasets/kedmk20150521wordlist.tsv		
 240	chicken	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ma'nuʔ	nan	nan	"('chicken', 'keda1252-leuba', ""ma'nuʔ"")"	datasets/kedmk20150521wordlist.tsv		
@@ -246,7 +246,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 245	frog	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	tepatu'le	nan	nan	"('frog', 'keda1252-leuba', ""tepatu'le"")"	datasets/kedmk20150521wordlist.tsv		
 246	bat	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	mi'ʔi	nan	nan	"('bat', 'keda1252-leuba', ""mi'ʔi"")"	datasets/kedmk20150521wordlist.tsv		
 249	tail	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔebɔ	nan	nan	('tail', 'keda1252-leuba', 'ʔebɔ')	datasets/kedmk20150521wordlist.tsv		
-250	fish	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	iʔa	nan	nan	('fish', 'keda1252-leuba', 'iʔa')	datasets/kedmk20150521wordlist.tsv		
+250	fish	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	iʔa	nan	nan	"('fish', 'alor1247-baran', ""'ikɑŋ"")"	datasets/kedmk20150521wordlist.tsv		
 251	shark	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	iʔa hiu	nan	nan	"('shark', 'alor1247-besar', ""'iʤo"")"	datasets/kedmk20150521wordlist.tsv		
 252	whale	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	iʔa paus	nan	nan	('whale', 'keda1252-leuba', 'iʔa paus')	datasets/kedmk20150521wordlist.tsv		
 253	dolphin	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	iʔa lumba lumba	nan	nan	('dolphin', 'keda1252-leuba', 'iʔa lumba lumba')	datasets/kedmk20150521wordlist.tsv		
@@ -319,7 +319,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 323	sweet	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ɛ'ru	nan	nan	"('sweet', 'keda1252-leuba', ""ɛ'ru"")"	datasets/kedmk20150521wordlist.tsv		
 324	sour	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ki'ru	nan	nan	"('sour', 'keda1252-leuba', ""ki'ru"")"	datasets/kedmk20150521wordlist.tsv		
 325	salty	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	pɛ'ju	nan	nan	"('salty', 'alor1247-besar', ""'parɔ"")"	datasets/kedmk20150521wordlist.tsv		
-326	flat	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	na'poʔ	nan	n a ˈp o ʔ	"('flat', 'keda1252-leuba', ""na'poʔ"")"	datasets/kedmk20150521wordlist.tsv		
+326	flat	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	na'poʔ	nan	n a ˈp o ʔ	('flat', 'keda1252', 'napoʔ')	datasets/kedmk20150521wordlist.tsv		
 327	smooth	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	mɛ'luʔ	nan	- - m ɛ ˈl u ʔ	"('smooth', 'alor1247-besar', ""ha'melu"")"	datasets/kedmk20150521wordlist.tsv		
 328	rough	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ka'raŋ	nan	k a ˈr a ŋ	('rough', 'blag1240-tuntu', 'karátaŋ')	datasets/kedmk20150521wordlist.tsv		
 329	black	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'mitɛŋ	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/kedmk20150521wordlist.tsv		
@@ -537,7 +537,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 539	to rule or govern	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	pa'rɛnta	nan	p a ˈr ɛ n t a - - - -	"('to rule or govern', 'keda1252-leuba', ""pa'rɛnta"")"	datasets/kedmk20150521wordlist.tsv		
 540	treaty	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	bɛlɑn bajɑn	Alliance between Kedang-Marica: Uwa raya=Marica + Alor; Pitang raya= Kedang. It is a brotherhood (kakak/adik) relation.; E.g. perjanjian antara dua suku untuk tidak berperang	b ɛ l ɑ n _ b a j ɑ n	('treaty', 'keda1252-leuba', 'bɛlɑn bajɑn')	datasets/kedmk20150521wordlist.tsv		
 541	marriage	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	kuʔ'wɛʔ	nan	k u ʔ ˈw ɛ ʔ	"('marriage', 'keda1252-leuba', ""kuʔ'wɛʔ"")"	datasets/kedmk20150521wordlist.tsv		
-542	friend	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'niruŋ	nan	ˈn i - - r u ŋ -	"('friend', 'keda1252-leuba', ""'niruŋ"")"	datasets/kedmk20150521wordlist.tsv		
+542	friend	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'niruŋ	nan	ˈn i - - r u ŋ -	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/kedmk20150521wordlist.tsv		
 543	enemy	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'musuh	nan	ˈm u s u h	"('enemy', 'keda1252-leuba', ""'musuh"")"	datasets/kedmk20150521wordlist.tsv		
 544	king; ruler	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'radʒa	nan	ˈr a dʒ a	"('king; ruler', 'keda1252-leuba', ""'radʒa"")"	datasets/kedmk20150521wordlist.tsv		
 545	stranger	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'tamu	nan	ˈt a m u	"('stranger', 'keda1252-leuba', ""'tamu"")"	datasets/kedmk20150521wordlist.tsv		
@@ -550,7 +550,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 552	innocent	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ɔhaʔ 'kehe	nan	nan	"('innocent', 'keda1252-leuba', ""ɔhaʔ 'kehe"")"	datasets/kedmk20150521wordlist.tsv		
 553	the murder	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	bɛ'lɔʔ	nan	nan	"('the murder', 'keda1252-leuba', ""bɛ'lɔʔ"")"	datasets/kedmk20150521wordlist.tsv		
 555	penalty	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ale	nan	nan	('penalty', 'keda1252-leuba', 'ale')	datasets/kedmk20150521wordlist.tsv		
-556	fishnet	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	pueʔ	nan	nan	('fishnet', 'keda1252-leuba', 'pueʔ')	datasets/kedmk20150521wordlist.tsv		
+556	fishnet	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	pueʔ	nan	nan	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/kedmk20150521wordlist.tsv		
 558	to defend	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	li'kɔʔ	nan	nan	"('to defend', 'keda1252-leuba', ""li'kɔʔ"")"	datasets/kedmk20150521wordlist.tsv		
 559	the war or battle	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	ʔawe'wɛʔ	nan	nan	"('the war or battle', 'keda1252-leuba', ""ʔawe'wɛʔ"")"	datasets/kedmk20150521wordlist.tsv		
 560	poor	keda1252-leuba	Kedang-Leubatang	Austronesian	8Lembata	'tɔkɔŋ	nan	nan	"('poor', 'keda1252-leuba', ""'tɔkɔŋ"")"	datasets/kedmk20150521wordlist.tsv		

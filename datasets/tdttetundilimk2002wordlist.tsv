@@ -9,7 +9,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13	cloud	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	kalɔ'hɑn	nan	k a l ɔ 'h ɑ n	"('cloud', 'idat1237', ""alɔ'hɑn"")"	datasets/tdttetundilimk2002wordlist.tsv		
 14	wind	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɑnin	nan	- 'ʔ ɑ n - - i n - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/tdttetundilimk2002wordlist.tsv		
 15	rain	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	ʔudɑn	nan	- ʔ u d - ɑ n - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/tdttetundilimk2002wordlist.tsv		
-21	fog	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔabu 'ʔabu	nan	- 'ʔ a - b u _ 'ʔ a b u -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/tdttetundilimk2002wordlist.tsv		
+21	fog	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔabu 'ʔabu	nan	- 'ʔ a - b u _ 'ʔ a b u -	('fog', 'kama1365', 'safuː')	datasets/tdttetundilimk2002wordlist.tsv		
 22	river; stream	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mɔta	nan	'm ɔ t a	('river; stream', 'tetu1245-suai', 'mota')	datasets/tdttetundilimk2002wordlist.tsv		
 23	ice	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɛs	nan	'ʔ ɛ s -	"('ice', 'alor1247-baran', ""'ɛs"")"	datasets/tdttetundilimk2002wordlist.tsv		
 23	ice	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʤelu	nan	'ʤ e l u	"('ice', 'alor1247-baran', ""'ɛs"")"	datasets/tdttetundilimk2002wordlist.tsv		
@@ -40,7 +40,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86	bark (of tree)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɑi 'kulit	nan	- 'ʔ ɑi - _ 'k u l i t - -	"('bark (of tree)', 'idat1237', ""ɑili'tɑ:k"")"	datasets/tdttetundilimk2002wordlist.tsv		
 87	leaf	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'tɑhɑn	nan	- - - 't ɑ h ɑ n	"('leaf', 'kema1243', ""'ʔɑi tɑhɑn"")"	datasets/tdttetundilimk2002wordlist.tsv		
 91	root	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔabut	nan	- - - - - 'ʔ a b u t	"('root', 'idat1237', ""ra'put"")"	datasets/tdttetundilimk2002wordlist.tsv		
-92	fruit	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fuɑn	nan	- - - - - 'f - u - ɑ - - n	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/tdttetundilimk2002wordlist.tsv		
+92	fruit	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fuɑn	nan	- - - - - 'f - u - ɑ - - n	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/tdttetundilimk2002wordlist.tsv		
 93	seed	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fini	nan	- - - - 'f i n i - - -	('seed', 'amar1273-kotos', 'fini')	datasets/tdttetundilimk2002wordlist.tsv		
 97	rice grains (unhusked) (raw from field)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	ha're:	nan	h a 'r e: - - - - - -	('rice grains (unhusked) (raw from field)', 'fata1247', 'alɛ kafu')	datasets/tdttetundilimk2002wordlist.tsv		
 98	cooked rice	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔetu	nan	'ʔ e t - - - u - - -	"('cooked rice', 'idat1237', ""'ʔetu"")"	datasets/tdttetundilimk2002wordlist.tsv		
@@ -261,7 +261,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 542	friend	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	kolega	nan	k - o l e g a	"('friend', 'idat1237', ""'maluk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 542	friend	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	mɑ'luk	nan	- m ɑ 'l u k -	"('friend', 'idat1237', ""'maluk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 548	dowry	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	hɑfo'lin	nan	h ɑ f o 'l i n	"('dowry', 'abui1241-takal', ""he̞.'be̞l"")"	datasets/tdttetundilimk2002wordlist.tsv		
-588	flower (in e.g. mangga tree)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'funɑn	nan	- - - - - 'f u n ɑ n - - - - - - - -	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/tdttetundilimk2002wordlist.tsv		
+588	flower (in e.g. mangga tree)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'funɑn	nan	- - - - - 'f u n ɑ n - - - - - - - -	"('flower (in e.g. mangga tree)', 'idat1237', ""hu'na:n"")"	datasets/tdttetundilimk2002wordlist.tsv		
 590	long (stick)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	na'ruk	nan	- - - - n a 'r u k	"('long (stick)', 'idat1237', ""mɑ'naruk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 592	short (stick)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	ba'dak	nan	- - - - b a 'd - a k -	('short (stick)', 'buna1278-bobon', 'barak')	datasets/tdttetundilimk2002wordlist.tsv		
 593	narrow (road)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'klɔ:t	nan	'k - l ɔ: t - -	"('narrow (road)', 'idat1237', ""ku'lɔt"")"	datasets/tdttetundilimk2002wordlist.tsv		

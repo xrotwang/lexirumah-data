@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Lewolaga.tsv	120. Batu 
 35	water (fresh)	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Lewolaga.tsv	122. Air 
 36	sea; sea water	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	tahik	nan	t a h i k -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Lewolaga.tsv	127. Laut 
-39	forest	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	nəwoʔona	nan	- - n ə w o - ʔ o n a -	('forest', 'lama1277-belan', 'eka maŋan')	datasets/keraf/Lewolaga.tsv	132. Hutan
+39	forest	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	nəwoʔona	nan	- - n ə w o - ʔ o n a -	('forest', 'lama1277-lewog', 'nəwoʔona')	datasets/keraf/Lewolaga.tsv	132. Hutan
 45	road; path; way	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	laran	nan	l a r a n -	('road; path; way', 'lama1277-belan', 'lara')	datasets/keraf/Lewolaga.tsv	7. Jalan
 51	rope	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Lewolaga.tsv	65. Tali
 65	clothing	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	akəpake	nan	a k ə p a k e	('clothing', 'lama1277-baipi', 'agopake')	datasets/keraf/Lewolaga.tsv	68. Pakaian 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Lewolaga.tsv	116. Bunga 
 129	salt	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Lewolaga.tsv	128. Garam 
 130	fat	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	worʔã	nan	w o r - - - - ʔ ã - -	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Lewolaga.tsv	104. Lemak 
-131	flesh; meat	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Lewolaga.tsv	103. Daging 
+131	flesh; meat	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Lewolaga.tsv	103. Daging 
 132	bone	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	riʔu	nan	- - - r i ʔ u - - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Lewolaga.tsv	19. Tulang
 136	blood	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	meiʔ	nan	- - m ei ʔ -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Lewolaga.tsv	26. Darah
 138	heart	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	puhũ	nan	- p u h ũ - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Lewolaga.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	wəwat	nan	w ə w a - - t	('mouth', 'atim1239', 'tawa')	datasets/keraf/Lewolaga.tsv	33. Mulut
 155	tongue	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	wewel	nan	w e w e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Lewolaga.tsv	35. Lidah
 156	neck	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	wulĩ	nan	w u l ĩ - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Lewolaga.tsv	28. Leher
-164	hand	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Lewolaga.tsv	1. Tangan
-175	foot	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Lewolaga.tsv	4. Kaki
+164	hand	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Lewolaga.tsv	1. Tangan
+175	foot	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Lewolaga.tsv	4. Kaki
 179	back	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	uhuk	nan	u h u k - -	('back', 'keda1252-leuwa', 'u̘hur')	datasets/keraf/Lewolaga.tsv	17. Punggung
 182	skin	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	kama	nan	k a m a - - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Lewolaga.tsv	16. Kulit
 190	person	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	atadikã	nan	a - t a d i k - ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Lewolaga.tsv	53. Orang
@@ -187,7 +187,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	pekot	nan	- - p - - e k o t	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Lewolaga.tsv	9. Balik
 606	stomach	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	tãi	nan	t ã - i - - - - - - - - - - - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Lewolaga.tsv	20. Isi perut
 607	tooth	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	ipə	nan	i - p ə - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Lewolaga.tsv	34. Gigi
-609	fist	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	sadoʔ	nan	s a d o ʔ -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Lewolaga.tsv	72. Bertinju 
+609	fist	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	sadoʔ	nan	s a d o ʔ -	('fist', 'lama1277-bama', 'sadok')	datasets/keraf/Lewolaga.tsv	72. Bertinju 
 612	stem	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	pukã	nan	- - p u k ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Lewolaga.tsv	79. Batang 
 614	swollen	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Lewolaga.tsv	87. Bengkak
 618	worm	lama1277-lewog	Lamaholot-Lewolaga	Austronesian	8Lembata	kəbeŋə̃	nan	k ə b e ŋ ə̃ - - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Lewolaga.tsv	107. Cacing 

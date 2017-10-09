@@ -5,7 +5,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 4	night	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	rəmã	nan	r ə m ã - - -	('day after tomorrow', 'lama1277-kalik', 'ˈʤəma ˈʤua')	datasets/keraf/Horowura.tsv	171. Malam 
 5	day	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	rərõ	nan	- - - - - - - - - - - r ə r õ - - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/keraf/Horowura.tsv	173. Hari 
 6	year	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	tuŋ	nan	- t u - ŋ - - - -	('year', 'abui1241-petle', 'tuŋ')	datasets/keraf/Horowura.tsv	172. Tahun 
-13	cloud	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	abak	nan	- a b a k -	('cloud', 'lama1277-horow', 'abak')	datasets/keraf/Horowura.tsv	136. Awan 
+13	cloud	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	abak	nan	- a b a k -	"('cloud', 'alor1247-munas', ""'nabaʔ"")"	datasets/keraf/Horowura.tsv	136. Awan 
 14	wind	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	aŋi	nan	- - a ŋ - - i - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/keraf/Horowura.tsv	140. Angin 
 15	rain	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	urã	nan	- - u - r ã - - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/keraf/Horowura.tsv	138. Hujan 
 22	river; stream	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	wai	nan	w ai - - - - - - - - - - -	('river; stream', 'lama1277-baipi', 'wai ba')	datasets/keraf/Horowura.tsv	130. Sungai 
@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Horowura.tsv	120. Batu 
 35	water (fresh)	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Horowura.tsv	122. Air 
 36	sea; sea water	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	tahik	nan	t a h i k -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Horowura.tsv	127. Laut 
-39	forest	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	məgã	nan	m ə g ã	('forest', 'lama1277-horow', 'məgã')	datasets/keraf/Horowura.tsv	132. Hutan
+39	forest	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	məgã	nan	m ə g ã	('forest', 'lama1277-belan', 'eka maŋan')	datasets/keraf/Horowura.tsv	132. Hutan
 45	road; path; way	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	rarã	nan	- r a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Horowura.tsv	7. Jalan
 51	rope	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Horowura.tsv	65. Tali
 65	clothing	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Horowura.tsv	68. Pakaian 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Horowura.tsv	116. Bunga 
 129	salt	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Horowura.tsv	128. Garam 
 130	fat	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kənaharə	nan	k ə n a h a r ə -	('fat', 'lama1277-baipi', 'wora')	datasets/keraf/Horowura.tsv	104. Lemak 
-131	flesh; meat	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	umã	nan	- u m - ã	('flesh; meat', 'lama1277-botun', 'umã')	datasets/keraf/Horowura.tsv	103. Daging 
+131	flesh; meat	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	umã	nan	- u m - ã	('flesh; meat', 'lama1277-adona', 'ˈʔumɜ̃')	datasets/keraf/Horowura.tsv	103. Daging 
 132	bone	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	riʔuk	nan	- - - r i ʔ u k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Horowura.tsv	19. Tulang
 136	blood	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Horowura.tsv	26. Darah
 138	heart	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Horowura.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	wəwal	nan	w ə w a - - l	('mouth', 'atim1239', 'tawa')	datasets/keraf/Horowura.tsv	33. Mulut
 155	tongue	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	wewer	nan	w e w e r - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Horowura.tsv	35. Lidah
 156	neck	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	wulĩ	nan	w u l ĩ - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Horowura.tsv	28. Leher
-164	hand	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Horowura.tsv	1. Tangan
-175	foot	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Horowura.tsv	4. Kaki
+164	hand	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Horowura.tsv	1. Tangan
+175	foot	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Horowura.tsv	4. Kaki
 179	back	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kənuwənək	nan	k ə n u w ə n ə k -	('back', 'lama1277-horow', 'kənuwənək')	datasets/keraf/Horowura.tsv	17. Punggung
 182	skin	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kamakət	nan	k a m a k - ə t	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Horowura.tsv	16. Kulit
 190	person	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	atadikã	nan	a - t a d i k - ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Horowura.tsv	53. Orang
@@ -187,7 +187,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	tuẽ	nan	- - t uẽ	('return', 'lama1277-bama', 'peʔũ')	datasets/keraf/Horowura.tsv	9. Balik
 606	stomach	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	lorã	nan	l o r ã - - - - - - - - - - - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Horowura.tsv	20. Isi perut
 607	tooth	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	ipək	nan	i - p ə - k - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Horowura.tsv	34. Gigi
-609	fist	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Horowura.tsv	72. Bertinju 
+609	fist	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Horowura.tsv	72. Bertinju 
 612	stem	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	əpã	nan	- ə p - - ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Horowura.tsv	79. Batang 
 614	swollen	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Horowura.tsv	87. Bengkak
 618	worm	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kəbeŋə	nan	k ə b e ŋ ə - - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Horowura.tsv	107. Cacing 

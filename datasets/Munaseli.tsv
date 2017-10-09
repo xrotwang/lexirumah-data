@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 10.0	tomorrow	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'bouʔ 	nan	'b ou - ʔ _	('morning', 'lama1277-kalik', 'baˈɛn')	datasets/Munaseli.tsv		
 11.0	day after tomorrow	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'ɛrua 	nan	- 'ɛ r ua _ - -	"('day after tomorrow', 'alor1247-besar', ""'ɛrua "")"	datasets/Munaseli.tsv		
 12.0	twilight; dawn	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'ɛkaŋ 'dahɛk	nan	- 'ɛ k a ŋ _ 'd a h ɛ - - - - - - - k	"('twilight; dawn', 'alor1247-besar', ""'ɛkaŋ 'dahɛ ta'ranaŋ"")"	datasets/Munaseli.tsv		
-13.0	cloud	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'nabaʔ	nan	'n a b a ʔ -	('cloud', 'abui1241-fuime', 'kabuti')	datasets/Munaseli.tsv		
+13.0	cloud	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'nabaʔ	nan	'n a b a ʔ -	"('cloud', 'alor1247-munas', ""'nabaʔ"")"	datasets/Munaseli.tsv		
 14.0	wind	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'aŋiŋ	nan	- - 'a ŋ - - i ŋ - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/Munaseli.tsv		
 15.0	rain	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'uraŋ	nan	- - 'u - r a ŋ - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/Munaseli.tsv		
 15.0	rain	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'uraŋ 'tuŋ	to rain (lit. rain falls)	- - 'u - r a ŋ _ 't u ŋ	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/Munaseli.tsv		
@@ -25,7 +25,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18.0	thunder	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'hilaʔ brə'kaŋ	nan	'h i l a ʔ _ b r ə 'k a ŋ	('thunder', 'adan1251-lawah', 'harib')	datasets/Munaseli.tsv		
 19.0	lightning	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'hilaʔ	nan	'h i l a ʔ	"('lightning', 'alor1247-munas', ""'hilaʔ"")"	datasets/Munaseli.tsv		
 20.0	earthquake	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'ɛkaŋ 'ɔtaŋ	lit. place/garden shake	'ɛ k a ŋ - _ 'ɔ t - a ŋ	"('earthquake', 'alor1247-besar', ""'tana 'ɔʤaŋ"")"	datasets/Munaseli.tsv		
-21.0	fog	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	sə'pu	nan	- s ə - 'p u - - - - - -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/Munaseli.tsv		
+21.0	fog	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	sə'pu	nan	- s ə - 'p u - - - - - -	('clothing', 'lama1277-kalik', 'məˈkaŋ-a')	datasets/Munaseli.tsv		
 22.0	river; stream	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'aluk	nan	- 'a l u k	('river; stream', 'abui1241-fuime', 'lu')	datasets/Munaseli.tsv		
 23.0	ice	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'ɛs	nan	'ɛ s	"('ice', 'alor1247-besar', ""'ɛs"")"	datasets/Munaseli.tsv		
 24.0	snow	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'salʤu	nan	's a l ʤ - u	('snow', 'alor1247-baran', 'salʤu')	datasets/Munaseli.tsv		
@@ -52,7 +52,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 37.0	wave	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'tahi k'lakɔl	wave (big long wave)	't a h i _ k 'l a k ɔ l	"('wave', 'alor1247-munas', ""'tahi k'lakɔl"")"	datasets/Munaseli.tsv		
 38.0	foam	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'buraŋ 	nan	- - 'b u r a - - ŋ _ - -	('foam', 'adan1251-lawah', 'wara-wara')	datasets/Munaseli.tsv		
 39.0	forest	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'dɛhɛk	nan	'd ɛ h ɛ k	"('forest', 'alor1247-munas', ""'dɛhɛk"")"	datasets/Munaseli.tsv		
-39.0	forest	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'duaŋ	nan	- - - 'd - - - - - - ua ŋ	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	datasets/Munaseli.tsv		
+39.0	forest	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'duaŋ	nan	- - - 'd - - - - - - ua ŋ	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/Munaseli.tsv		
 40.0	field	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'ɛkaŋ 'lata	nan	'ɛ k a ŋ _ 'l a t a	"('field', 'alor1247-munas', ""'ɛkaŋ 'lata"")"	datasets/Munaseli.tsv		
 41.0	island	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'nuha	nan	- 'n u h a	"('island', 'alor1247-besar', ""nu'ha"")"	datasets/Munaseli.tsv		
 42.0	rice field	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'sawa 'alɛr	nan	's a w a _ - 'a l ɛ r	"('rice field', 'abui1241-takal', ""'sä.wä"")"	datasets/Munaseli.tsv		
@@ -214,8 +214,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 163.0	arm	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	limaʔ	arm (1SG)	- l i m a - - - - ʔ	"('arm', 'alor1247-baran', ""'limaŋ"")"	datasets/Munaseli.tsv		
 164.0	hand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'limaŋ	nan	- - - - - 'l i m a - - ŋ - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/Munaseli.tsv		
 164.0	hand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	limaʔ	hand (1SG)	- - - - - l i m a - - ʔ - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/Munaseli.tsv		
-165.0	palm of hand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'limaŋ 'ɔnɔŋ	nan	'l i m a ŋ - - - - - - - _ - 'ɔ n ɔ ŋ	"('palm of hand', 'alor1247-besar', ""'limaŋ 'ɔnɔŋ"")"	datasets/Munaseli.tsv		
-165.0	palm of hand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'lima 'ɔnɔŋ	palm of hand (1SG)	'l i m a - - - - - - - - _ - 'ɔ n ɔ ŋ	"('palm of hand', 'alor1247-besar', ""'limaŋ 'ɔnɔŋ"")"	datasets/Munaseli.tsv		
+165.0	palm of hand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'limaŋ 'ɔnɔŋ	nan	'l i m a ŋ - - - - - - - _ - 'ɔ n ɔ ŋ	('footprint', 'lama1277-mulan', 'lei onã')	datasets/Munaseli.tsv		
+165.0	palm of hand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'lima 'ɔnɔŋ	palm of hand (1SG)	'l i m a - - - - - - - - _ - 'ɔ n ɔ ŋ	('footprint', 'lama1277-mulan', 'lei onã')	datasets/Munaseli.tsv		
 166.0	finger	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'numak	nan	- - - - - - - - 'n u m a k - -	"('finger', 'alor1247-besar', ""kalu'makaŋ"")"	datasets/Munaseli.tsv		
 167.0	fingernail	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'nugul	nan	- - - - 'n - u - g u l - -	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/Munaseli.tsv		
 168.0	breast	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'tuho	nan	- 't u h o - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/Munaseli.tsv		
@@ -228,8 +228,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 172.0	vagina	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'pukiʔ	vagina (1SG)	- 'p u k i ʔ	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	datasets/Munaseli.tsv		
 173.0	testicles	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'lahak	testicles (1SG)	- 'l a h a - - - - k - - - - - -	"('testicles', 'alor1247-besar', ""la'hakaŋ ku'lukuŋ"")"	datasets/Munaseli.tsv		
 173.0	testicles	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'lahak 'kuluŋ	testicles (1SG)	- 'l a h a k - - _ 'k u l - - u ŋ	"('testicles', 'alor1247-besar', ""la'hakaŋ ku'lukuŋ"")"	datasets/Munaseli.tsv		
-174.0	leg	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'leiŋ	nan	'l - - ei ŋ -	"('leg', 'alor1247-baran', ""'leiŋ"")"	datasets/Munaseli.tsv		
-174.0	leg	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'leiʔ 	leg (1SG)	'l - - ei ʔ _	"('leg', 'alor1247-baran', ""'leiŋ"")"	datasets/Munaseli.tsv		
+174.0	leg	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'leiŋ	nan	'l - - ei ŋ -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Munaseli.tsv		
+174.0	leg	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'leiʔ 	leg (1SG)	'l - - ei ʔ _	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Munaseli.tsv		
 175.0	foot	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'leiŋ	nan	'l e i ŋ - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Munaseli.tsv		
 175.0	foot	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'leiʔ 	foot (1SG)	'l e i ʔ - - _ - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Munaseli.tsv		
 176.0	heel of foot	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'leiŋ 'udɛk	nan	'l ei ŋ _ 'u d ɛ k	"('heel of foot', 'alor1247-besar', ""'leiŋ 'ubɔŋ"")"	datasets/Munaseli.tsv		
@@ -702,7 +702,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 539.0	to rule or govern	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'sɔrak 'sɔgaŋ	"to rule or govern (""sogang"": to support, to obey)"	's ɔ r a k _ 's ɔ g a ŋ	"('to rule or govern', 'alor1247-munas', ""'sɔrak 'sɔgaŋ"")"	datasets/Munaseli.tsv		
 540.0	treaty	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'bela 'badʒa	nan	'b e l a _ 'b a d - - ʒ a -	"('treaty', 'alor1247-besar', ""'bela 'baʤa"")"	datasets/Munaseli.tsv		
 541.0	marriage	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'rale 'gute	nan	'r a l e _ 'g u t e	"('marriage', 'alor1247-munas', ""'rale 'gute"")"	datasets/Munaseli.tsv		
-542.0	friend	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'niru	nan	'n i r u -	"('friend', 'alor1247-munas', ""'niru"")"	datasets/Munaseli.tsv		
+542.0	friend	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'niru	nan	'n i r u -	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/Munaseli.tsv		
 543.0	enemy	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'nɛgɔŋ	nan	'n ɛ g ɔ ŋ	"('enemy', 'alor1247-munas', ""'nɛgɔŋ"")"	datasets/Munaseli.tsv		
 544.0	king; ruler	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'peiŋ 'beaʔ	nan	'p e i ŋ _ 'b e a ʔ	"('king; ruler', 'alor1247-munas', ""'peiŋ 'beaʔ"")"	datasets/Munaseli.tsv		
 545.0	stranger	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'ata 'laraŋ 'doaŋ	lit. person road far	- 'a - t a _ 'l a r a ŋ _ 'd oa ŋ -	"('stranger', 'alor1247-besar', ""'ata mata'puna"")"	datasets/Munaseli.tsv		
@@ -716,7 +716,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 553.0	the murder	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	bunɔ wə'ki	lit. kill each other	b u n ɔ _ w ə 'k i - -	"('the murder', 'alor1247-munas', ""bunɔ wə'ki"")"	datasets/Munaseli.tsv		
 554.0	the adultery	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'buha	nan	'b u h - - - a - - - -	"('the adultery', 'alor1247-besar', ""'buha ma'leku"")"	datasets/Munaseli.tsv		
 555.0	penalty	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'pate 'hala	nan	'p a t e _ 'h a l a	"('penalty', 'alor1247-besar', ""'pate 'hala"")"	datasets/Munaseli.tsv		
-556.0	fishnet	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'pukɔʔ	nan	'p u k ɔ ʔ	"('fishnet', 'alor1247-besar', ""'pukɔ"")"	datasets/Munaseli.tsv		
+556.0	fishnet	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'pukɔʔ	nan	'p u k ɔ ʔ	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/Munaseli.tsv		
 557.0	to surrender	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'sɔmba	nan	's ɔ - - m - b a -	"('to surrender', 'alor1247-besar', ""'ampɔ"")"	datasets/Munaseli.tsv		
 558.0	to defend	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'rɛmba	nan	'r ɛ m b a	"('to defend', 'alor1247-munas', ""'rɛmba"")"	datasets/Munaseli.tsv		
 559.0	the war or battle	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'nuhɔ 'kataŋ	lit. enemy compete	'n u h ɔ _ 'k a t a ŋ	"('the war or battle', 'alor1247-munas', ""'nuhɔ 'kataŋ"")"	datasets/Munaseli.tsv		

@@ -9,7 +9,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13	cloud	tuku1254	Tokodede	Austronesian	4Timor, 2Central	sɑ'bɑi 'tɛʔ	nan	s ɑ 'b ɑi _ 't ɛ ʔ	"('cloud', 'laka1255', ""sa'bɑi"")"	datasets/tkdmk2002wordlist.tsv		
 14	wind	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'gɛlu	nan	- - 'g ɛ l u	('wind', 'buna1278-bobon', 'bɛl')	datasets/tkdmk2002wordlist.tsv		
 15	rain	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔura	nan	- 'ʔ u - r a - - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/tkdmk2002wordlist.tsv		
-21	fog	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'rɑe 'ʔabur	dust ?	- 'r ɑe - - - _ 'ʔ a b u r	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/tkdmk2002wordlist.tsv		
+21	fog	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'rɑe 'ʔabur	dust ?	- 'r ɑe - - - _ 'ʔ a b u r	('fog', 'kama1365', 'safuː')	datasets/tkdmk2002wordlist.tsv		
 22	river; stream	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔɛ: 'lɔa	nan	'ʔ ɛ: _ 'l ɔa	"('river; stream', 'tuku1254', ""'ʔɛ: 'lɔa"")"	datasets/tkdmk2002wordlist.tsv		
 23	ice	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'zelu 'hatu	become stone	'z e l u _ 'h a t u	('ice', 'buna1278-bobon', 'zelu')	datasets/tkdmk2002wordlist.tsv		
 25	lake	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔɛ: 'lihu	nan	'ʔ ɛ: _ 'l i h u	('lake', 'idat1237', 'lihu')	datasets/tkdmk2002wordlist.tsv		
@@ -40,7 +40,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86	bark (of tree)	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi ku'luta	Generic bark; bark of tree 	- 'k ɑi - _ k u 'l u t a -	"('bark (of tree)', 'idat1237', ""ɑili'tɑ:k"")"	datasets/tkdmk2002wordlist.tsv		
 87	leaf	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'rɔa	Generic leaf	- 'k ɑi - _ 'r ɔa - -	('leaf', 'buna1278-bobon', 'nɔ')	datasets/tkdmk2002wordlist.tsv		
 91	root	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'rɑmut	Generic root	'k ɑi _ 'r ɑ m u t	"('root', 'alor1247-baran', ""'ramuk"")"	datasets/tkdmk2002wordlist.tsv		
-92	fruit	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'hu:	Generic fruit	'k ɑ i - _ 'h - u: - - - - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/tkdmk2002wordlist.tsv		
+92	fruit	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'kɑi 'hu:	Generic fruit	'k ɑ i - _ 'h - u: - - - - -	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/tkdmk2002wordlist.tsv		
 93	seed	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'hi:ni	nan	- - - - 'h i: n i - - -	('seed', 'amar1273-kotos', 'fini')	datasets/tkdmk2002wordlist.tsv		
 97	rice grains (unhusked) (raw from field)	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'rɛsa ku'luta	rice bark; unpeeled rice; rice seed	'r ɛ s a _ k u 'l u t a	"('rice grains (unhusked) (raw from field)', 'tuku1254', ""'rɛsa ku'luta"")"	datasets/tkdmk2002wordlist.tsv		
 98	cooked rice	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'ʔaʔa	cooked.rice; cooked rice	'ʔ a ʔ a	"('cooked rice', 'tuku1254', ""'ʔaʔa"")"	datasets/tkdmk2002wordlist.tsv		
@@ -80,8 +80,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 168	breast	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'susu	nan	- 's u s u - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/tkdmk2002wordlist.tsv		
 170	navel	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'pusa	nan	- - k u 'p u s a - - - -	('navel', 'abui1241-fuime', 'tabike')	datasets/tkdmk2002wordlist.tsv		
 174	leg	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'koe	nan	'k oe - -	"('leg', 'kema1243', ""ɔ'ɛr"")"	datasets/tkdmk2002wordlist.tsv		
-175	foot	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'koe 'tɛtɛ	foot ?; foot sole; bridge of foot; sole of foot	'k oe - _ 't ɛ t ɛ	('foot', 'lama1277-lewoi', 'kɔan ˈleiŋ')	datasets/tkdmk2002wordlist.tsv		
-175	foot	tuku1254	Tokodede	Austronesian	4Timor, 2Central	koe tane	foot ?; foot sole; bridge of foot; sole of foot	k oe - _ t a n e	('foot', 'lama1277-lewoi', 'kɔan ˈleiŋ')	datasets/tkdmk2002wordlist.tsv		
+175	foot	tuku1254	Tokodede	Austronesian	4Timor, 2Central	'koe 'tɛtɛ	foot ?; foot sole; bridge of foot; sole of foot	'k oe - _ 't ɛ t ɛ	"('foot', 'mamb1306', ""ʔɔɛ 'tane"")"	datasets/tkdmk2002wordlist.tsv		
+175	foot	tuku1254	Tokodede	Austronesian	4Timor, 2Central	koe tane	foot ?; foot sole; bridge of foot; sole of foot	k oe - _ t a n e	"('foot', 'mamb1306', ""ʔɔɛ 'tane"")"	datasets/tkdmk2002wordlist.tsv		
 178	knee	tuku1254	Tokodede	Austronesian	4Timor, 2Central	tu'nuru	nan	- - - - - - - - t u 'n u r u - -	"('knee', 'alor1247-baran', "",leiŋ 'kudul"")"	datasets/tkdmk2002wordlist.tsv		
 179	back	tuku1254	Tokodede	Austronesian	4Timor, 2Central	ku'tɛtɛ	lower back; upper back	k u 't ɛ t ɛ	"('back', 'tetu1245-suai', ""'kɔtuk"")"	datasets/tkdmk2002wordlist.tsv		
 179	back	tuku1254	Tokodede	Austronesian	4Timor, 2Central	tete rui	lower back; upper back	t e t e _ r ui	('back', 'tuku1254', 'tete rui')	datasets/tkdmk2002wordlist.tsv		

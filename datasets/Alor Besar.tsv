@@ -166,7 +166,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 162	cheek	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'pipiŋ	nan	- 'p i p i ŋ	"('cheek', 'alor1247-besar', ""'pipiŋ"")"	datasets/Alor Besar.tsv		
 163	arm	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'limaŋ	nan	- 'l i m a - - - - ŋ	"('arm', 'alor1247-baran', ""'limaŋ"")"	datasets/Alor Besar.tsv		
 164	hand	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'limaŋ	nan	- - - - - 'l i m a - - ŋ - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/Alor Besar.tsv		
-165	palm of hand	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'limaŋ 'ɔnɔŋ	nan	'l i m a ŋ - - - - - - - _ - 'ɔ n ɔ ŋ	"('palm of hand', 'alor1247-besar', ""'limaŋ 'ɔnɔŋ"")"	datasets/Alor Besar.tsv		
+165	palm of hand	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'limaŋ 'ɔnɔŋ	nan	'l i m a ŋ - - - - - - - _ - 'ɔ n ɔ ŋ	('footprint', 'lama1277-mulan', 'lei onã')	datasets/Alor Besar.tsv		
 166	finger	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	kalu'makaŋ	nan	k a l - - - - - - u 'm a k a ŋ	"('finger', 'alor1247-besar', ""kalu'makaŋ"")"	datasets/Alor Besar.tsv		
 167	fingernail	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	tanaŋ'guluŋ	nan	- - t a n - a ŋ 'g u l u ŋ	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/Alor Besar.tsv		
 168	breast	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'tuhũ	nan	- 't u h ũ - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/Alor Besar.tsv		
@@ -175,7 +175,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 171	penis	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	la'hakaŋ	nan	l a 'h a k a ŋ	"('penis', 'alor1247-besar', ""la'hakaŋ"")"	datasets/Alor Besar.tsv		
 172	vagina	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'pukiŋ	nan	- 'p u k i ŋ	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	datasets/Alor Besar.tsv		
 173	testicles	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	la'hakaŋ ku'lukuŋ	nan	- l a 'h a k a ŋ _ k u 'l u k u ŋ	"('testicles', 'alor1247-besar', ""la'hakaŋ ku'lukuŋ"")"	datasets/Alor Besar.tsv		
-174	leg	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'leiŋ	nan	'l - - ei ŋ -	"('leg', 'alor1247-baran', ""'leiŋ"")"	datasets/Alor Besar.tsv		
+174	leg	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'leiŋ	nan	'l - - ei ŋ -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Alor Besar.tsv		
 175	foot	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'leiŋ	nan	'l e i ŋ - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Alor Besar.tsv		
 176	heel of foot	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'leiŋ 'ubɔŋ	nan	'l ei ŋ _ 'u b ɔ ŋ	"('heel of foot', 'alor1247-besar', ""'leiŋ 'ubɔŋ"")"	datasets/Alor Besar.tsv		
 177	sole of foot	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'leiŋ 'ɔnɔŋ	nan	'l - - ei ŋ _ - 'ɔ n - ɔ ŋ	"('sole of foot', 'alor1247-besar', ""'leiŋ 'ɔnɔŋ"")"	datasets/Alor Besar.tsv		
@@ -586,7 +586,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 553	the murder	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'bunɔ	nan	- - 'b u n ɔ	"('the murder', 'alor1247-besar', ""'bunɔ"")"	datasets/Alor Besar.tsv		
 554	the adultery	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'buha ma'leku	nan	'b u h a _ m a 'l e k u	"('the adultery', 'alor1247-besar', ""'buha ma'leku"")"	datasets/Alor Besar.tsv		
 555	penalty	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'pate 'hala	literally 'pay the penalty'	'p a t e _ 'h a l a	"('penalty', 'alor1247-besar', ""'pate 'hala"")"	datasets/Alor Besar.tsv		
-556	fishnet	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'pukɔ	nan	'p u k ɔ -	"('fishnet', 'alor1247-besar', ""'pukɔ"")"	datasets/Alor Besar.tsv		
+556	fishnet	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'pukɔ	nan	'p u k ɔ -	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/Alor Besar.tsv		
 557	to surrender	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'ampɔ	nan	- 'a - - m - p ɔ -	"('to surrender', 'alor1247-besar', ""'ampɔ"")"	datasets/Alor Besar.tsv		
 558	to defend	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'ʤaga	nan	'd - - - ʒ a g a - -	"('to defend', 'alor1247-besar', ""'ʤaga"")"	datasets/Alor Besar.tsv		
 559	the war or battle	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	pə'raŋ	nan	p ə 'r a ŋ	"('the war or battle', 'alor1247-besar', ""pə'raŋ"")"	datasets/Alor Besar.tsv		

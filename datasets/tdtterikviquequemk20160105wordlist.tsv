@@ -21,7 +21,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18	thunder	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	(kilat) laku	nan	( k i l a t ) _ l a k u	('thunder', 'tetu1245-suai', '(kilat) laku')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 19	lightning	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	kilat	nan	- k - - i l a - - t - - - - - - - -	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
 20	earthquake	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	rai nak'doko	rai= earth, nakdoko = shake	r ai _ n a k 'd o k o	"('earthquake', 'tetu1245-suai', ""rai nak'doko"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
-21	fog	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	abu-abu	nan	a b u - a b - - - - - -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
+21	fog	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	abu-abu	nan	a b u - a b - - - - - -	('fog', 'kama1365', 'safuː')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 22	river; stream	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	mota	nan	m o t a	('river; stream', 'tetu1245-suai', 'mota')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 23	ice	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	zelu	nan	z e l - - - - - u	('ice', 'buna1278-bobon', 'zelu')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 24	snow	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	salʤu	nan	s a l d Z u	('snow', 'alor1247-baran', 'salʤu')	datasets/tdtterikviquequemk20160105wordlist.tsv		
@@ -40,7 +40,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 37	wave	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	lalɔraŋ	ombak=wave, gelombang=waves	l a l ɔ r a ŋ	('wave', 'tetu1245-suai', 'arus')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 37	wave	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	arus	ombak=wave, gelombang=waves	- a - - r u s	('wave', 'tetu1245-suai', 'arus')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 38	foam	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	furiŋ	nan	- - f u r i - - ŋ - - -	('foam', 'adan1251-lawah', 'wara-wara')	datasets/tdtterikviquequemk20160105wordlist.tsv		
-39	forest	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	rahuŋ	nan	- - r - - a h u ŋ	('forest', 'baka1276', 'rehe')	datasets/tdtterikviquequemk20160105wordlist.tsv		
+39	forest	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	rahuŋ	nan	- - r - - a h u ŋ	"('forest', 'alor1247-munas', ""'dɛhɛk"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
 40	field	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	duɁut barak	borak=field	d u Ɂ u t _ b a r a k	('field', 'tetu1245-suai', 'duɁut barak')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 41	island	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	luaŋ	nan	l ua ŋ	('island', 'tetu1245-suai', 'luaŋ')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 42	rice field	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	kintal	nan	k i n t a l	('rice field', 'tetu1245-suai', 'kintal')	datasets/tdtterikviquequemk20160105wordlist.tsv		
@@ -90,7 +90,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89	firewood	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	ai sunu	maran= dry, sunun = burn	ai _ s u n u	('firewood', 'tetu1245-vique', 'ai sunu')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 90	rattan	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	oe	nan	- - - - oe -	"('rattan', 'alor1247-pandai', ""'ue"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
 91	root	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	abut	nan	#NAME?	"('root', 'idat1237', ""ra'put"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
-92	fruit	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	Ɂaifuaŋ	nan	Ɂ a i - - f - u - a - - ŋ	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/tdtterikviquequemk20160105wordlist.tsv		
+92	fruit	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	Ɂaifuaŋ	nan	Ɂ a i - - f - u - a - - ŋ	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
 93	seed	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	musan	nan	m u s a n	('seed', 'tetu1245-suai', 'musan')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 94	grain; cereal	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	hare	nan	h a r e	('grain; cereal', 'tetu1245-suai', 'hare')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 96	husked rice; uncooked rice	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	fɔɁɔs	nan	f ɔ Ɂ ɔ s	('husked rice; uncooked rice', 'tetu1245-suai', 'fɔɁɔs')	datasets/tdtterikviquequemk20160105wordlist.tsv		
@@ -598,7 +598,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 585	hour	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	ɔras	nan	ɔ r a s -	('hour', 'buna1278-bobon', 'oras')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 585	hour	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	tuku	nan	#NAME?	('hour', 'buna1278-bobon', 'oras')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 586	same	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	ha'nɛ:san	nan	h a 'n ɛ: s a n -	"('same', 'fata1247', ""'waɁanɛ"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
-588	flower (in e.g. mangga tree)	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	funan nosi ai	nan	#NAME?	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/tdtterikviquequemk20160105wordlist.tsv		
+588	flower (in e.g. mangga tree)	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	funan nosi ai	nan	#NAME?	"('flower (in e.g. mangga tree)', 'idat1237', ""hu'na:n"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
 589	vein	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	uat	nan	#NAME?	('vein', 'mamb1306', 'hua')	datasets/tdtterikviquequemk20160105wordlist.tsv		
 590	long (stick)	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	(ai) naruk	nan	( ai ) _ n a r u k	"('long (stick)', 'idat1237', ""mɑ'naruk"")"	datasets/tdtterikviquequemk20160105wordlist.tsv		
 591	tall (person)	tetu1245-vique	Tetun Terik-Viqueque	Austronesian	4Timor, 2Central	(ema) naruk	nan	( e m a ) _ n a r u k	('tall (person)', 'tetu1245-suai', '(ema) naruk')	datasets/tdtterikviquequemk20160105wordlist.tsv		

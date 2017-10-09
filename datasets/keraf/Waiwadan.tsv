@@ -5,7 +5,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 4	night	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	rəmã	nan	r ə m ã - - -	('day after tomorrow', 'lama1277-kalik', 'ˈʤəma ˈʤua')	datasets/keraf/Waiwadan.tsv	171. Malam 
 5	day	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	rərõ	nan	- - - - - - - - - - - r ə r õ - - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/keraf/Waiwadan.tsv	173. Hari 
 6	year	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	tũ	nan	- t - - - ũ - - -	('year', 'abui1241-petle', 'tuŋ')	datasets/keraf/Waiwadan.tsv	172. Tahun 
-13	cloud	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	abak	nan	- a b a k -	('cloud', 'lama1277-horow', 'abak')	datasets/keraf/Waiwadan.tsv	136. Awan 
+13	cloud	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	abak	nan	- a b a k -	"('cloud', 'alor1247-munas', ""'nabaʔ"")"	datasets/keraf/Waiwadan.tsv	136. Awan 
 14	wind	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	aŋi	nan	- - a ŋ - - i - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/keraf/Waiwadan.tsv	140. Angin 
 15	rain	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	urã	nan	- - u - r ã - - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/keraf/Waiwadan.tsv	138. Hujan 
 22	river; stream	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	wai	nan	w ai - - - - - - - - - - -	('river; stream', 'lama1277-baipi', 'wai ba')	datasets/keraf/Waiwadan.tsv	130. Sungai 
@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Waiwadan.tsv	120. Batu 
 35	water (fresh)	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Waiwadan.tsv	122. Air 
 36	sea; sea water	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	tahik	nan	t a h i k -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Waiwadan.tsv	127. Laut 
-39	forest	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	rukã	nan	r u k - - - - ã	('forest', 'lama1277-botun', 'rukʔã')	datasets/keraf/Waiwadan.tsv	132. Hutan
+39	forest	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	rukã	nan	r u k - - - - ã	"('forest', 'lama1277-adona', ""'ruːkʔãː"")"	datasets/keraf/Waiwadan.tsv	132. Hutan
 45	road; path; way	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	larã	nan	- l a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Waiwadan.tsv	7. Jalan
 51	rope	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Waiwadan.tsv	65. Tali
 65	clothing	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Waiwadan.tsv	68. Pakaian 
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	wəwak	nan	w ə w a k - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Waiwadan.tsv	33. Mulut
 155	tongue	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	wewer	nan	w e w e r - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Waiwadan.tsv	35. Lidah
 156	neck	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	wuli	nan	w u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Waiwadan.tsv	28. Leher
-164	hand	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Waiwadan.tsv	1. Tangan
-175	foot	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	lẽi	nan	l ẽ i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Waiwadan.tsv	4. Kaki
+164	hand	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Waiwadan.tsv	1. Tangan
+175	foot	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	lẽi	nan	l ẽ i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Waiwadan.tsv	4. Kaki
 179	back	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	uhuk	nan	u h u k - -	('back', 'keda1252-leuwa', 'u̘hur')	datasets/keraf/Waiwadan.tsv	17. Punggung
 182	skin	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	kamʔa	nan	k a m - - ʔ a -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Waiwadan.tsv	16. Kulit
 190	person	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	atadike	nan	a t a d i k e - -	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Waiwadan.tsv	53. Orang
@@ -188,7 +188,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	balok	nan	- - b a l o k - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Waiwadan.tsv	9. Balik
 606	stomach	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	tãikəboti	nan	t ã - i - - - k ə b o t - i - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Waiwadan.tsv	20. Isi perut
 607	tooth	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	ipə	nan	i - p ə - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Waiwadan.tsv	34. Gigi
-609	fist	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Waiwadan.tsv	72. Bertinju 
+609	fist	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Waiwadan.tsv	72. Bertinju 
 612	stem	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	pukã	nan	- - p u k ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Waiwadan.tsv	79. Batang 
 614	swollen	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	baʔ	nan	- - - - - - b - - a ʔ -	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Waiwadan.tsv	87. Bengkak
 618	worm	lama1277-waiwa	Lamaholot-Waiwadan	Austronesian	8Lembata	kəbeŋe	nan	k ə b e ŋ e - - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Waiwadan.tsv	107. Cacing 

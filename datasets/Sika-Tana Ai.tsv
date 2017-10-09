@@ -9,10 +9,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 6	year	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔliβa-ŋ	nan	nan	('year', 'sika1262-hewa', 'liwan')	datasets/Sika-Tana Ai.tsv		
 14	wind	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ani-n	nan	- a n i n - - - - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/Sika-Tana Ai.tsv		
 15	rain	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ura-n	nan	- u r a n	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/Sika-Tana Ai.tsv		
-21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	koβa	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	k o β a -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/Sika-Tana Ai.tsv		
-21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	səbu sak	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	s ə b - u _ s a k -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/Sika-Tana Ai.tsv		
-21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	səbur	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	s ə b u r -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/Sika-Tana Ai.tsv		
-21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡəbu ɡon	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	ɡ ə b u - _ ɡ o n -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/Sika-Tana Ai.tsv		
+21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	koβa	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	k o β a -	('cloud', 'abui1241-fuime', 'kabuti')	datasets/Sika-Tana Ai.tsv		
+21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	səbu sak	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	s ə b - u _ s a k -	('clothing', 'lama1277-kalik', 'məˈkaŋ-a')	datasets/Sika-Tana Ai.tsv		
+21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	səbur	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	s ə b u r -	('clothing', 'lama1277-kalik', 'məˈkaŋ-a')	datasets/Sika-Tana Ai.tsv		
+21	fog	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡəbu ɡon	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	ɡ ə b u - _ ɡ o n -	('fog', 'kama1365', 'safuː')	datasets/Sika-Tana Ai.tsv		
 22	river; stream	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	naŋa ba	βair ba ( means river, stream, brook)	n a ŋ a _ b a	('river; stream', 'sika1262-tanai', 'naŋa ba')	datasets/Sika-Tana Ai.tsv		
 22	river; stream	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βair ba	βair ba ( means river, stream, brook)	β a i r _ b a - -	('river; stream', 'sika1262-tanai', 'βair ba')	datasets/Sika-Tana Ai.tsv		
 25	lake	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	liβu-n	nan	l i β u n	"('lake', 'lama1277-adona', ""'liwo"")"	datasets/Sika-Tana Ai.tsv		
@@ -33,18 +33,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 75	sand	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ne βura	nan	- n e _ β u r a	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/Sika-Tana Ai.tsv		
 76	grass; brush	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	riʔi	nan	- - r i ʔ i -	('grass; brush', 'blag1240-bama', 'ut')	datasets/Sika-Tana Ai.tsv		
 76	grass; brush	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	uru-ŋ	nan	u r u ŋ -	('grass; brush', 'alor1249-sar-a', 'raŋ')	datasets/Sika-Tana Ai.tsv		
-76	grass; brush	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βaʔa-ŋ	nan	β a ʔ a ŋ	('grass; brush', 'sika1262-hewa', 'ʋaʔan')	datasets/Sika-Tana Ai.tsv		
+76	grass; brush	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βaʔa-ŋ	nan	β a ʔ a ŋ	('grass; brush', 'lama1277-lerek', 'ˈmevau')	datasets/Sika-Tana Ai.tsv		
 84	tree	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔai	nan	ʔ a - i -	('tree', 'keda1252-leuwa', 'ai vaʔ')	datasets/Sika-Tana Ai.tsv		
 86	bark (of tree)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔai ʔuli-t	nan	nan	('1pl excl', 'keda1252', 'e')	datasets/Sika-Tana Ai.tsv		
 87	leaf	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔrou	nan	ʔ r o u -	('leaf', 'buna1278-bobon', 'nɔ')	datasets/Sika-Tana Ai.tsv		
 87	leaf	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔrou-ŋ	nan	ʔ r o u ŋ	('leaf', 'buna1278-bobon', 'nɔ')	datasets/Sika-Tana Ai.tsv		
 91	root	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔramut	nan	- - - - ʔ r a m u t	('root', 'keda1252-leuwa', 'ramuʔ')	datasets/Sika-Tana Ai.tsv		
-92	fruit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βua-ŋ	nan	#NAME?	('fruit', 'keda1252-leuwa', 'u̘an')	datasets/Sika-Tana Ai.tsv		
+92	fruit	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βua-ŋ	nan	#NAME?	('fruit', 'keda1252', 'wuan')	datasets/Sika-Tana Ai.tsv		
 93	seed	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βini	nan	β i n i	('seed', 'amar1273-kotos', 'fini')	datasets/Sika-Tana Ai.tsv		
 129	salt	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	hini	nan	h i n i - - - -	('salt', 'sika1262-tanai', 'hini')	datasets/Sika-Tana Ai.tsv		
 129	salt	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	hini bru	nan	h i n i _ b r u	('salt', 'sika1262-tanai', 'hini')	datasets/Sika-Tana Ai.tsv		
 131	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ihi-ŋ	(flesh)	#NAME?	('flesh; meat', 'keda1252', 'ihin')	datasets/Sika-Tana Ai.tsv		
-131	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mei-ŋ ʔəta-ŋ	(flesh)	m e i ŋ _ ʔ ə t a ŋ -	('empty', 'abui1241-fuime', 'taka')	datasets/Sika-Tana Ai.tsv		
+131	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mei-ŋ ʔəta-ŋ	(flesh)	m e i ŋ _ ʔ ə t a ŋ -	('flesh; meat', 'lama1277-lewob', 'mətã')	datasets/Sika-Tana Ai.tsv		
 131	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔlui-ŋ	(flesh)	ʔ l u i ŋ - - - - - - -	('flesh; meat', 'sika1262-tanai', 'ʔlui-ŋ')	datasets/Sika-Tana Ai.tsv		
 131	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔlui-ŋ klama-ŋ	(flesh)	ʔ l u i ŋ _ k l a m a ŋ	('flesh; meat', 'sika1262-tanai', 'ʔlui-ŋ')	datasets/Sika-Tana Ai.tsv		
 131	flesh; meat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔlui-ŋ roto-ŋ	(flesh)	ʔ l u i ŋ _ - r o t o ŋ	('flesh; meat', 'sika1262-tanai', 'ʔlui-ŋ')	datasets/Sika-Tana Ai.tsv		
@@ -70,7 +70,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 155	tongue	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	maŋ	nan	m a ŋ - -	('tongue', 'p-cent2245-abvd', '*maya')	datasets/Sika-Tana Ai.tsv		
 156	neck	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	boʔir	nan	b - o - - - ʔ i r - - -	('neck', 'sika1262-maume', 'boʔir')	datasets/Sika-Tana Ai.tsv		
 156	neck	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔəru-ŋ	nan	ʔ ə r u ŋ	('neck', 'sika1262-tanai', 'ʔəru-ŋ')	datasets/Sika-Tana Ai.tsv		
-164	hand	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	lima-ŋ	nan	l i m a ŋ	('five', 'keda1252-leuwa', 'lεmε')	datasets/Sika-Tana Ai.tsv		
+164	hand	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	lima-ŋ	nan	l i m a ŋ	('arm', 'keda1252-leuba', 'liŋ')	datasets/Sika-Tana Ai.tsv		
 167	fingernail	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔunur	nan	ʔ u n u r	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/Sika-Tana Ai.tsv		
 168	breast	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	uhu-ŋ	nan	u h u ŋ	('breast', 'adan1251-lawah', 'toʔ')	datasets/Sika-Tana Ai.tsv		
 174	leg	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βaʔi	nan	β a ʔ i -	('foot', 'fata1247', 'ɟia')	datasets/Sika-Tana Ai.tsv		
@@ -169,8 +169,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 318	correct	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	akə-t	nan	a k ə t	('correct', 'lamm1241-westp', 'gaiŋ')	datasets/Sika-Tana Ai.tsv		
 321	rotten	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βau-ŋ	nan	β a u ŋ	('rotten', 'sika1262-tanai', 'βau-ŋ')	datasets/Sika-Tana Ai.tsv		
 321	rotten	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βauk	nan	β a u k -	('rotten', 'sika1262-tanai', 'βauk')	datasets/Sika-Tana Ai.tsv		
-326	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	desak	nan	d e s a k -	('flat', 'sika1262-tanai', 'desak')	datasets/Sika-Tana Ai.tsv		
-326	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	dətu-ŋ	nan	d ə t u ŋ -	('flat', 'sika1262-tanai', 'desak')	datasets/Sika-Tana Ai.tsv		
+326	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	desak	nan	d e s a k -	('flat', 'sika1262-hewa', 'dətu')	datasets/Sika-Tana Ai.tsv		
+326	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	dətu-ŋ	nan	d ə t u ŋ -	('flat', 'sika1262-hewa', 'dətu')	datasets/Sika-Tana Ai.tsv		
 326	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔalus	nan	ʔ a l u s -	('flat', 'sika1262-tanai', 'ʔalus')	datasets/Sika-Tana Ai.tsv		
 329	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mita-ŋ	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Sika-Tana Ai.tsv		
 329	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mitak	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Sika-Tana Ai.tsv		
@@ -276,8 +276,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 450	one	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ha	nan	h a - -	"('one', 'keda1252-leuba', ""ʔu'deʔ"")"	datasets/Sika-Tana Ai.tsv		
 451	two	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rua	nan	- - r u a	('two', 'sika1262-tanai', 'rua')	datasets/Sika-Tana Ai.tsv		
 452	three	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	təlu	nan	t ə l - u - - - - - -	"('three', 'alor1247-baran', ""'tal:au"")"	datasets/Sika-Tana Ai.tsv		
-453	four	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	hutu	nan	h u t u	('four', 'abui1241-fuime', 'buti')	datasets/Sika-Tana Ai.tsv		
-454	five	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	lima	nan	#NAME?	('five', 'keda1252-leuwa', 'lεmε')	datasets/Sika-Tana Ai.tsv		
+453	four	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	hutu	nan	h u t u	('forty', 'sika1262-hewa', 'pulu hutu')	datasets/Sika-Tana Ai.tsv		
+454	five	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	lima	nan	#NAME?	('arm', 'keda1252-leuba', 'liŋ')	datasets/Sika-Tana Ai.tsv		
 588	flower (in e.g. mangga tree)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	puhu-ŋ	nan	p u h - u ŋ	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/Sika-Tana Ai.tsv		
 590	long (stick)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bloŋ	nan	b l o ŋ	"('long (stick)', 'alor1247-baran', ""ba'lah:a"")"	datasets/Sika-Tana Ai.tsv		
 592	short (stick)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	buluk	nan	- - b u l u k -	('short (stick)', 'buna1278-bobon', 'barak')	datasets/Sika-Tana Ai.tsv		

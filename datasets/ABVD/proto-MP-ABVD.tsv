@@ -11,7 +11,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18	thunder	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kudug	bunyinya	#NAME?	('thunder', 'p-mala1545-abvd', '*kudug')	datasets/ABVD/proto-MP-ABVD.tsv		
 19	lightning	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kilat	kilatan, cahaya	k i - - l a t	('lightning', 'p-aust1307-abvd', '*likaC')	datasets/ABVD/proto-MP-ABVD.tsv		
 19	lightning	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qusilaq	kilatan, cahaya	q u s i l a q	('lightning', 'p-aust1307-abvd', '*likaC')	datasets/ABVD/proto-MP-ABVD.tsv		
-21	fog	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kabut	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	k a b u t	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/ABVD/proto-MP-ABVD.tsv		
+21	fog	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kabut	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	k a b u t	('fog', 'kama1365', 'safuː')	datasets/ABVD/proto-MP-ABVD.tsv		
 25	lake	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*danaw	nan	d a n a w -	"('lake', 'alor1247-baran', ""'danɑu"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 30	Earth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tanaq	nan	t a n a q -	('Earth', 'p-mala1545-abvd', '*tanaq')	datasets/ABVD/proto-MP-ABVD.tsv		
 30	Earth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*taneq	nan	t a n e q -	('Earth', 'p-mala1545-abvd', '*tanaq')	datasets/ABVD/proto-MP-ABVD.tsv		
@@ -36,7 +36,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 87	leaf	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*dahun	nan	#NAME?	('leaf', 'buna1278-bobon', 'nɔ')	datasets/ABVD/proto-MP-ABVD.tsv		
 88	branch	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*daqan	cabang pohon	d a q a n	('branch', 'p-cent2245-abvd', '*daqan')	datasets/ABVD/proto-MP-ABVD.tsv		
 91	root	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*uɾat	nan	- u ɾ a t -	('root', 'p-mala1545-abvd', '*uɾat')	datasets/ABVD/proto-MP-ABVD.tsv		
-92	fruit	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'keda1252-leuwa', 'u̘an')	datasets/ABVD/proto-MP-ABVD.tsv		
+92	fruit	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'keda1252', 'wuan')	datasets/ABVD/proto-MP-ABVD.tsv		
 100	to plant (yam)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mula	CHECK if 'to plant (yam)' or 'to plant (rice)'	m u l - a	('to plant (yam)', 'abui1241-fuime', 'murua')	datasets/ABVD/proto-MP-ABVD.tsv		
 105	chew betel	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mamaq	nan	m a m a q	('chew betel', 'amar1273-kotos', 'n-mama')	datasets/ABVD/proto-MP-ABVD.tsv		
 129	salt	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qasiɾa	nan	q a - s i ɾ a	('salt', 'p-aust1307-abvd', '*qasiʀa')	datasets/ABVD/proto-MP-ABVD.tsv		
@@ -64,10 +64,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 155	tongue	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*hema	nan	h e m a -	"('tongue', 'kema1243', ""la'mɑr"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 156	neck	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*liqeɾ	nan	l i q e ɾ	('neck', 'p-aust1307-abvd', '*liqeʀ')	datasets/ABVD/proto-MP-ABVD.tsv		
 157	shoulder	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qabaʀa	nan	q a b a ʀ a - - - - - -	('shoulder', 'p-aust1307-abvd', '*qabaʀa')	datasets/ABVD/proto-MP-ABVD.tsv		
-164	hand	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*[qa]lima	nan	l i m a -	('five', 'keda1252-leuwa', 'lεmε')	datasets/ABVD/proto-MP-ABVD.tsv		
+164	hand	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*[qa]lima	nan	l i m a -	('arm', 'keda1252-leuba', 'liŋ')	datasets/ABVD/proto-MP-ABVD.tsv		
 168	breast	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251-lawah', 'toʔ')	datasets/ABVD/proto-MP-ABVD.tsv		
-174	leg	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qaqay	(leg/foot)	q a q a - y	('foot', 'p-mala1545-abvd', '*qaqay')	datasets/ABVD/proto-MP-ABVD.tsv		
-175	foot	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qaqay	(leg/foot)	q a q a - y	('foot', 'p-mala1545-abvd', '*qaqay')	datasets/ABVD/proto-MP-ABVD.tsv		
+174	leg	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qaqay	(leg/foot)	q a q a - y	('foot', 'fata1247', 'ɟia')	datasets/ABVD/proto-MP-ABVD.tsv		
+175	foot	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qaqay	(leg/foot)	q a q a - y	('foot', 'fata1247', 'ɟia')	datasets/ABVD/proto-MP-ABVD.tsv		
 179	back	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*likud	nan	nan	('back', 'maka1316', 'laikoru')	datasets/ABVD/proto-MP-ABVD.tsv		
 182	skin	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kulit	nan	nan	('skin', 'adan1251-lawah', 'ʔui')	datasets/ABVD/proto-MP-ABVD.tsv		
 190	person	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	t a u	('person', 'p-aust1307-abvd', '*Cau')	datasets/ABVD/proto-MP-ABVD.tsv		
@@ -238,7 +238,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 451	two	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*duha	nan	d u h a	('two', 'keda1252-leuwa', 'suε')	datasets/ABVD/proto-MP-ABVD.tsv		
 452	three	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*telu	nan	t e l - u - - - - - -	"('three', 'alor1247-baran', ""'tal:au"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 453	four	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*epat	nan	- e p a t - -	('four', 'keda1252-leuwa', 'a̘paʔ')	datasets/ABVD/proto-MP-ABVD.tsv		
-588	flower (in e.g. mangga tree)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
+588	flower (in e.g. mangga tree)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buŋa	nan	b u ŋ - a -	('flower', 'abui1241-fuime', 'kiki')	datasets/ABVD/proto-MP-ABVD.tsv		
 590	long (stick)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*anaduq	nan	a n a d u q	('long (stick)', 'p-aust1307-abvd', '*inaduq')	datasets/ABVD/proto-MP-ABVD.tsv		
 592	short (stick)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-babaq	nan	m a b a b a q -	('short (stick)', 'buna1278-bobon', 'barak')	datasets/ABVD/proto-MP-ABVD.tsv		
 593	narrow (road)	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kepit	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	k - e p i t - -	('narrow (road)', 'p-mala1545-abvd', '*kepit')	datasets/ABVD/proto-MP-ABVD.tsv		

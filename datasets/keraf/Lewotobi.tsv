@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Lewotobi.tsv	120. Batu 
 35	water (fresh)	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	waiʔ	nan	- w ai ʔ - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Lewotobi.tsv	122. Air 
 36	sea; sea water	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	tahi	nan	t a h i	('sea; sea water', 'keda1252', 'tahi')	datasets/keraf/Lewotobi.tsv	127. Laut 
-39	forest	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kərawo	nan	- - - - k ə - r a w o -	('forest', 'lama1277-belan', 'eka maŋan')	datasets/keraf/Lewotobi.tsv	132. Hutan
+39	forest	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kərawo	nan	- - - - k ə - r a w o -	('forest', 'lama1277-lewob', 'kərawo')	datasets/keraf/Lewotobi.tsv	132. Hutan
 45	road; path; way	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	larã	nan	- l a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Lewotobi.tsv	7. Jalan
 51	rope	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	tale	nan	- - t a l e -	('rope', 'abui1241-fuime', 'tila')	datasets/keraf/Lewotobi.tsv	65. Tali
 65	clothing	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	pakaian	nan	p a k - - aia n	"('clothing', 'alor1247-besar', ""pa'kiãŋ"")"	datasets/keraf/Lewotobi.tsv	68. Pakaian 
@@ -24,7 +24,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	əwu	nan	- - - - ə w u -	('dust; fine earth', 'keda1252', 'ewol')	datasets/keraf/Lewotobi.tsv	15. Debu
 70	dust; fine earth	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kəwu	nan	- - - k ə w u -	('dust; fine earth', 'keda1252', 'ewol')	datasets/keraf/Lewotobi.tsv	151. Abu 
 75	sand	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	wəra	nan	w ə r a - -	('sand', 'lama1277-baipi', 'wəra')	datasets/keraf/Lewotobi.tsv	121. Pasir 
-76	grass; brush	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	luʔo	nan	- - l u ʔ o -	('grass; brush', 'lama1277-lamal', 'kərəmet')	datasets/keraf/Lewotobi.tsv	118. Rumput 
+76	grass; brush	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	luʔo	nan	- - l u ʔ o -	('grass; brush', 'lama1277-bama', 'luʔo')	datasets/keraf/Lewotobi.tsv	118. Rumput 
 84	tree	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kajopukã	nan	- k a - - j o - - p u k ã - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Lewotobi.tsv	110. Pohon 
 87	leaf	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	ləpã	nan	l ə p ã - -	('leaf', 'keda1252-leuwa', 'lεpaʔ')	datasets/keraf/Lewotobi.tsv	112. Daun 
 91	root	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	ramu	nan	- - r a m - u - -	('root', 'lama1277-lamal', 'ramut')	datasets/keraf/Lewotobi.tsv	114. Akar 
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	wəwa	nan	w ə w a - - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Lewotobi.tsv	33. Mulut
 155	tongue	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	wewe	nan	w e w e - - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Lewotobi.tsv	35. Lidah
 156	neck	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	wuli	nan	w u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Lewotobi.tsv	28. Leher
-164	hand	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Lewotobi.tsv	1. Tangan
-175	foot	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Lewotobi.tsv	4. Kaki
+164	hand	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Lewotobi.tsv	1. Tangan
+175	foot	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Lewotobi.tsv	4. Kaki
 179	back	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	keko	nan	k e k o - -	('back', 'lama1277-kalik', 'kənaˈru')	datasets/keraf/Lewotobi.tsv	17. Punggung
 182	skin	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kuli	nan	- - - - - - k u l i - - - - -	('skin', 'abui1241-fuime', 'tekul')	datasets/keraf/Lewotobi.tsv	16. Kulit
 190	person	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	atadikã	nan	a - t a d i k - ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Lewotobi.tsv	53. Orang
@@ -119,7 +119,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 316	wide	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	luas	nan	l ua s	('wide', 'lama1277-lewob', 'luas')	datasets/keraf/Lewotobi.tsv	164. Luas 
 317	narrow	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kətəkə	nan	k - ə t ə k ə	('narrow', 'abui1241-fuime', 'karie')	datasets/keraf/Lewotobi.tsv	163. Sempit 
 321	rotten	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	wuhu	nan	w - - u h u -	('rotten', 'abui1241-fuime', 'hamuni')	datasets/keraf/Lewotobi.tsv	111. Busuk 
-326	flat	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	rata	nan	r a t a -	('flat', 'keda1252', 'napoʔ')	datasets/keraf/Lewotobi.tsv	146. Rata 
+326	flat	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	rata	nan	r a t a -	('flat', 'kama1365', 'tatok')	datasets/keraf/Lewotobi.tsv	146. Rata 
 329	black	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	mitã	nan	- - m i - t ã - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Lewotobi.tsv	152. Hitam 
 330	white	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	burã	nan	- - - b u r - - - - - - ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Lewotobi.tsv	153. Putih 
 331	red	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Lewotobi.tsv	154. Merah 
@@ -183,11 +183,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	piʔu	nan	p i ʔ u -	('to squeeze', 'lama1277-adona', 'ˈpiʔuk')	datasets/keraf/Lewotobi.tsv	88. Memeras 
 441	to bark	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kajokəloka	nan	k a j o k ə l o k a	('to bark', 'lama1277-lewob', 'kajokəloka')	datasets/keraf/Lewotobi.tsv	113. Kulit kayu
 442	to shoot	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	pasa	nan	p a s a -	('to shoot', 'keda1252', 'pasaʔ')	datasets/keraf/Lewotobi.tsv	70. Menembak 
-601	footprint	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	maka	nan	- - - m a k a -	('footprint', 'keda1252', 'lei laleŋ')	datasets/keraf/Lewotobi.tsv	5. Kaki
+601	footprint	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	maka	nan	- - - m a k a -	('footprint', 'lama1277-bama', 'makat')	datasets/keraf/Lewotobi.tsv	5. Kaki
 603	return	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	gəwali	nan	g ə w a l i	('return', 'keda1252', 'puer')	datasets/keraf/Lewotobi.tsv	9. Balik
 606	stomach	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	tãi kənaluŋ	nan	t ã - i - - _ k ə n a l - u ŋ -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Lewotobi.tsv	20. Isi perut
 607	tooth	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	ipə	nan	i p ə -	('tooth', 'keda1252', 'awar')	datasets/keraf/Lewotobi.tsv	34. Gigi
-609	fist	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	tubuk	nan	t u b u k	('fist', 'keda1252', 'bajuʔ')	datasets/keraf/Lewotobi.tsv	72. Bertinju 
+609	fist	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	tubuk	nan	t u b u k	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Lewotobi.tsv	72. Bertinju 
 612	stem	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	pukã	nan	- - p u k ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Lewotobi.tsv	79. Batang 
 614	swollen	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	baʔa	nan	- - b a ʔ a -	('swollen', 'keda1252', 'babaŋ')	datasets/keraf/Lewotobi.tsv	87. Bengkak
 618	worm	lama1277-lewob	Lamaholot-Lewotobi	Austronesian	5Flores, 3East	kəbeŋə̃	nan	k ə b e ŋ ə̃	('worm', 'keda1252', 'todaŋ')	datasets/keraf/Lewotobi.tsv	107. Cacing 

@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	fato	nan	- f a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Lamalera.tsv	120. Batu 
 35	water (fresh)	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	fai	nan	- f ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Lamalera.tsv	122. Air 
 36	sea; sea water	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	lefa	nan	l e f a	('sea; sea water', 'keda1252', 'tahi')	datasets/keraf/Lamalera.tsv	127. Laut 
-39	forest	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	eka pənət	nan	- - - e k a _ p ə n ə t	('forest', 'lama1277-belan', 'eka maŋan')	datasets/keraf/Lamalera.tsv	132. Hutan
+39	forest	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	eka pənət	nan	- - - e k a _ p ə n ə t	('forest', 'lama1277-lamal', 'eka pənət')	datasets/keraf/Lamalera.tsv	132. Hutan
 45	road; path; way	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	larã	nan	- l a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Lamalera.tsv	7. Jalan
 51	rope	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'abui1241-fuime', 'tila')	datasets/keraf/Lamalera.tsv	65. Tali
 65	clothing	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Lamalera.tsv	68. Pakaian 
@@ -24,17 +24,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	əmut	nan	- - - - ə m u t	('dust; fine earth', 'keda1252', 'ewol')	datasets/keraf/Lamalera.tsv	15. Debu
 70	dust; fine earth	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kafu	nan	- - - k a f u -	('dust; fine earth', 'keda1252', 'ewol')	datasets/keraf/Lamalera.tsv	151. Abu 
 75	sand	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	botã	nan	b o t ã -	('sand', 'keda1252-leuwa', 'buta')	datasets/keraf/Lamalera.tsv	121. Pasir 
-76	grass; brush	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kərəmet	nan	k ə r ə m e t	('grass; brush', 'lama1277-lamal', 'kərəmet')	datasets/keraf/Lamalera.tsv	118. Rumput 
+76	grass; brush	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kərəmet	nan	k ə r ə m e t	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/keraf/Lamalera.tsv	118. Rumput 
 84	tree	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kajo	nan	- k a - - j o - - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Lamalera.tsv	110. Pohon 
 87	leaf	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	lolo	nan	- - - - - l o l o -	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/keraf/Lamalera.tsv	112. Daun 
 91	root	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	ramut	nan	- - r a m - u t -	('root', 'lama1277-lamal', 'ramut')	datasets/keraf/Lamalera.tsv	114. Akar 
 92	fruit	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	fuã	nan	- - - - - f - u - ã - - -	('fruit', 'keda1252', 'wuan')	datasets/keraf/Lamalera.tsv	117. Buah 
 93	seed	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	upu	nan	u p u	('seed', 'lama1277-lamal', 'upu')	datasets/keraf/Lamalera.tsv	115. Biji 
-95	flower	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	pu	nan	p - - u - -	('flower', 'abui1241-fuime', 'kiki')	datasets/keraf/Lamalera.tsv	116. Bunga 
+95	flower	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	pu	nan	p - - u - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Lamalera.tsv	116. Bunga 
 129	salt	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	sia	nan	s ia - - - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Lamalera.tsv	128. Garam 
 130	fat	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	forã	nan	f o r - - - ã - - - -	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Lamalera.tsv	104. Lemak 
 131	flesh; meat	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	hik	nan	- h i k	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Lamalera.tsv	103. Daging 
-131	flesh; meat	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	elã	nan	e l ã	('flesh; meat', 'lama1277-dulhi', 'əwã')	datasets/keraf/Lamalera.tsv	
+131	flesh; meat	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	elã	nan	e l ã	('flesh; meat', 'lama1277-imulo', 'elam')	datasets/keraf/Lamalera.tsv	
 132	bone	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	riuk	nan	- - - r iu - - k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Lamalera.tsv	19. Tulang
 136	blood	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Lamalera.tsv	26. Darah
 138	heart	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	puo	nan	- p uo - - - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Lamalera.tsv	22. Jantung
@@ -48,8 +48,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	fəfã	nan	f ə f ã - -	"('mouth', 'alor1247-besar', ""fa'faŋ"")"	datasets/keraf/Lamalera.tsv	33. Mulut
 155	tongue	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	efel	nan	- e f e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Lamalera.tsv	35. Lidah
 156	neck	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	fuli	nan	f u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Lamalera.tsv	28. Leher
-164	hand	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	limate	nan	- - - - - l i m a - - t e - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Lamalera.tsv	1. Tangan
-175	foot	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	leite	nan	l e i - - t e - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Lamalera.tsv	4. Kaki
+164	hand	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	limate	nan	- - - - - l i m a - - t e - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Lamalera.tsv	1. Tangan
+175	foot	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	leite	nan	l e i - - t e - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Lamalera.tsv	4. Kaki
 179	back	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kətubəŋ	nan	k ə t u b ə ŋ - - -	('back', 'lama1277-horow', 'kənuwənək')	datasets/keraf/Lamalera.tsv	17. Punggung
 182	skin	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kãmã	nan	k ã m ã - - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Lamalera.tsv	16. Kulit
 190	person	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	atadikã	nan	a - t a d i k - ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Lamalera.tsv	53. Orang
@@ -120,7 +120,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 316	wide	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	pelafat	nan	p e l a f a t	('wide', 'lama1277-lamal', 'pelafat')	datasets/keraf/Lamalera.tsv	164. Luas 
 317	narrow	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	hipet	nan	- h i p e t -	('narrow', 'abui1241-fuime', 'karie')	datasets/keraf/Lamalera.tsv	163. Sempit 
 321	rotten	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	fãu	nan	- - - - f ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Lamalera.tsv	111. Busuk 
-326	flat	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	lere	nan	l e r e -	('flat', 'keda1252', 'napoʔ')	datasets/keraf/Lamalera.tsv	146. Rata 
+326	flat	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	lere	nan	l e r e -	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Lamalera.tsv	146. Rata 
 329	black	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	mitãŋ	nan	- m i - - t ã - - ŋ - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Lamalera.tsv	152. Hitam 
 330	white	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	burã	nan	- - - b u r - - - - - - ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Lamalera.tsv	153. Putih 
 331	red	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	meã	nan	m eã - -	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Lamalera.tsv	154. Merah 
@@ -186,11 +186,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	piuk	nan	p iu k - -	('to squeeze', 'lama1277-adona', 'ˈpiʔuk')	datasets/keraf/Lamalera.tsv	88. Memeras 
 441	to bark	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kajo kãmã	nan	k a j o - _ k ã - m - ã - - -	('to bark', 'lama1277-baipi', 'kajo kulit')	datasets/keraf/Lamalera.tsv	113. Kulit kayu
 442	to shoot	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	pasa	nan	p a s a -	('to shoot', 'keda1252', 'pasaʔ')	datasets/keraf/Lamalera.tsv	70. Menembak 
-601	footprint	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	səmədã tana	nan	s ə m ə d ã _ t a n - - - - a -	('footprint', 'lama1277-baipi', 'lei əpã')	datasets/keraf/Lamalera.tsv	5. Kaki
+601	footprint	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	səmədã tana	nan	s ə m ə d ã _ t a n - - - - a -	('footprint', 'lama1277-lamal', 'səmədã tana')	datasets/keraf/Lamalera.tsv	5. Kaki
 603	return	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	tue	nan	- - t ue - -	('return', 'keda1252', 'puer')	datasets/keraf/Lamalera.tsv	9. Balik
 606	stomach	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kəboti	nan	k ə b o t i - -	('stomach', 'lama1277-lamal', 'kəboti')	datasets/keraf/Lamalera.tsv	20. Isi perut
 607	tooth	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	ipã	nan	i p - ã	('tooth', 'lama1277-lamak', 'ipã')	datasets/keraf/Lamalera.tsv	34. Gigi
-609	fist	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	tado	nan	t a d o -	('fist', 'keda1252', 'bajuʔ')	datasets/keraf/Lamalera.tsv	72. Bertinju 
+609	fist	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	tado	nan	t a d o -	('fist', 'lama1277-bama', 'sadok')	datasets/keraf/Lamalera.tsv	72. Bertinju 
 612	stem	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	pukã	nan	- - p u k ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Lamalera.tsv	79. Batang 
 614	swollen	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	kəbaras	nan	k ə b a r a s	('swollen', 'keda1252', 'babaŋ')	datasets/keraf/Lamalera.tsv	87. Bengkak
 618	worm	lama1277-lamal	Lamaholot-Lamalera	Austronesian	8Lembata	salafalã	nan	s a l a f a l ã	('worm', 'lama1277-kiwan', 'kəbeŋã')	datasets/keraf/Lamalera.tsv	107. Cacing 

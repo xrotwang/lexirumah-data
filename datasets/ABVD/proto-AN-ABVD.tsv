@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 87	leaf	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*biʀaq	nan	b i ʀ a q	('leaf', 'p-aust1307-abvd', '*biʀaq')	datasets/ABVD/proto-AN-ABVD.tsv		
 91	root	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ʀameC	nan	- - - - - ʀ a m e C	('root', 'keda1252-leuwa', 'ramuʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
 91	root	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ʀamiS	nan	#NAME?	('root', 'keda1252-leuwa', 'ramuʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
-92	fruit	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'keda1252-leuwa', 'u̘an')	datasets/ABVD/proto-AN-ABVD.tsv		
+92	fruit	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'p-aust1307-abvd', '*buaq')	datasets/ABVD/proto-AN-ABVD.tsv		
 100	to plant (yam)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*mula	CHECK if 'to plant (yam)' or 'to plant (rice)'	m u l - a	('to plant (yam)', 'abui1241-fuime', 'murua')	datasets/ABVD/proto-AN-ABVD.tsv		
 129	salt	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qasiʀa	nan	q a - s i ʀ a	('salt', 'p-aust1307-abvd', '*qasiʀa')	datasets/ABVD/proto-AN-ABVD.tsv		
 130	fat	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Simaʀ	nan	#NAME?	('fat', 'p-aust1307-abvd', '*Simaʀ')	datasets/ABVD/proto-AN-ABVD.tsv		
@@ -53,7 +53,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 155	tongue	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Sema	nan	S e m a -	"('tongue', 'kema1243', ""la'mɑr"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 156	neck	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*liqeʀ	nan	l i q e ʀ	('neck', 'p-aust1307-abvd', '*liqeʀ')	datasets/ABVD/proto-AN-ABVD.tsv		
 157	shoulder	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qabaʀa	nan	q a b a ʀ a - - - - - -	('shoulder', 'p-aust1307-abvd', '*qabaʀa')	datasets/ABVD/proto-AN-ABVD.tsv		
-164	hand	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*(qa)lima	nan	l i m a -	('five', 'keda1252-leuwa', 'lεmε')	datasets/ABVD/proto-AN-ABVD.tsv		
+164	hand	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*(qa)lima	nan	l i m a -	('hand', 'p-aust1307-abvd', '*(qa)lima')	datasets/ABVD/proto-AN-ABVD.tsv		
 168	breast	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251-lawah', 'toʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
 174	leg	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qaqay	nan	q a q a - y	('leg', 'nede1245', 'gaja')	datasets/ABVD/proto-AN-ABVD.tsv		
 179	back	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*likud	nan	nan	('back', 'maka1316', 'laikoru')	datasets/ABVD/proto-AN-ABVD.tsv		

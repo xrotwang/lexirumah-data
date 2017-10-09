@@ -9,7 +9,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13	cloud	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'bɑi	nan	s ɑ 'b ɑi - - - -	"('cloud', 'laka1255', ""sa'bɑi"")"	datasets/mgmmk2002wordlist.tsv		
 14	wind	mamb1306	Mambai	Austronesian	4Timor, 2Central	'gel	nan	- - 'g e l -	('wind', 'buna1278-bobon', 'bɛl')	datasets/mgmmk2002wordlist.tsv		
 15	rain	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔus	nan	- 'ʔ u - s - - - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/mgmmk2002wordlist.tsv		
-21	fog	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'bɑi 'hɔsa	? closed	- s ɑ - 'b ɑi _ 'h ɔ s a -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/mgmmk2002wordlist.tsv		
+21	fog	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑ'bɑi 'hɔsa	? closed	- s ɑ - 'b ɑi _ 'h ɔ s a -	('fog', 'kama1365', 'safuː')	datasets/mgmmk2002wordlist.tsv		
 22	river; stream	mamb1306	Mambai	Austronesian	4Timor, 2Central	'slɔg	nan	's l ɔ g	"('river; stream', 'mamb1306', ""'slɔg"")"	datasets/mgmmk2002wordlist.tsv		
 24	snow	mamb1306	Mambai	Austronesian	4Timor, 2Central	hu'nɑi	hail, snow	h u 'n ɑi	"('snow', 'mamb1306', ""hu'nɑi"")"	datasets/mgmmk2002wordlist.tsv		
 25	lake	mamb1306	Mambai	Austronesian	4Timor, 2Central	'le:b	nan	'l e: b	"('lake', 'mamb1306', ""'le:b"")"	datasets/mgmmk2002wordlist.tsv		
@@ -41,7 +41,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 86	bark (of tree)	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɑi 'tia	nan	- 'ʔ ɑi - _ - - - - 't ia -	"('bark (of tree)', 'idat1237', ""ɑili'tɑ:k"")"	datasets/mgmmk2002wordlist.tsv		
 87	leaf	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nɔra	nan	- - - - - 'n ɔ r a	"('leaf', 'buna1278-malia', ""'nɔʔ"")"	datasets/mgmmk2002wordlist.tsv		
 91	root	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ha	nan	'h - a -	"('root', 'abui1241-takal', ""he̞.'äj"")"	datasets/mgmmk2002wordlist.tsv		
-92	fruit	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hua	nan	- - - - - - 'h u - a - - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/mgmmk2002wordlist.tsv		
+92	fruit	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hua	nan	- - - - - - 'h u - a - - -	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/mgmmk2002wordlist.tsv		
 93	seed	mamb1306	Mambai	Austronesian	4Timor, 2Central	'nam 'hin	nan	'n a m _ 'h i n - - - -	('seed', 'amar1273-kotos', 'fini')	datasets/mgmmk2002wordlist.tsv		
 97	rice grains (unhusked) (raw from field)	mamb1306	Mambai	Austronesian	4Timor, 2Central	sɑn	nan	s ɑ n	('rice grains (unhusked) (raw from field)', 'mamb1306', 'sɑn')	datasets/mgmmk2002wordlist.tsv		
 98	cooked rice	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔe:t	nasi, rice cook; nasi, cooked rice	'ʔ e: t - - - - - - -	"('cooked rice', 'idat1237', ""'ʔetu"")"	datasets/mgmmk2002wordlist.tsv		
@@ -81,7 +81,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 168	breast	mamb1306	Mambai	Austronesian	4Timor, 2Central	'susu	nan	- 's u s u - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/mgmmk2002wordlist.tsv		
 170	navel	mamb1306	Mambai	Austronesian	4Timor, 2Central	'pusaʔ	nan	- - - - 'p u s a - - - ʔ	('navel', 'abui1241-fuime', 'tabike')	datasets/mgmmk2002wordlist.tsv		
 174	leg	mamb1306	Mambai	Austronesian	4Timor, 2Central	'ʔɔɛ	nan	- - - - 'ʔ ɔɛ -	('leg', 'amar1273-kotos', 'hae-f')	datasets/mgmmk2002wordlist.tsv		
-175	foot	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɔɛ 'tane	leg ground	ʔ ɔɛ - _ 't a n e	('foot', 'lama1277-lewoi', 'kɔan ˈleiŋ')	datasets/mgmmk2002wordlist.tsv		
+175	foot	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɔɛ 'tane	leg ground	ʔ ɔɛ - _ 't a n e	"('foot', 'mamb1306', ""ʔɔɛ 'tane"")"	datasets/mgmmk2002wordlist.tsv		
 178	knee	mamb1306	Mambai	Austronesian	4Timor, 2Central	ʔɔɛ 'tunur	nan	- - ʔ ɔɛ - _ - - 't u n u r - - -	"('knee', 'alor1247-baran', "",leiŋ 'kudul"")"	datasets/mgmmk2002wordlist.tsv		
 179	back	mamb1306	Mambai	Austronesian	4Timor, 2Central	'hɔhɔ	nan	'h ɔ h ɔ	"('back', 'mamb1306', ""'hɔhɔ"")"	datasets/mgmmk2002wordlist.tsv		
 182	skin	mamb1306	Mambai	Austronesian	4Timor, 2Central	'litɑ	nan	- - - - - - - - 'l i t ɑ - - -	('skin', 'abui1241-fuime', 'tekul')	datasets/mgmmk2002wordlist.tsv		

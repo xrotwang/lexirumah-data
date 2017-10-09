@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Kiwangona.tsv	120. Batu 
 35	water (fresh)	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Kiwangona.tsv	122. Air 
 36	sea; sea water	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	tahi	nan	t a h i - -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Kiwangona.tsv	127. Laut 
-39	forest	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	dua	nan	d ua - - - - - -	('forest', 'lama1277-botun', 'rukʔã')	datasets/keraf/Kiwangona.tsv	132. Hutan
+39	forest	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	dua	nan	d ua - - - - - -	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/keraf/Kiwangona.tsv	132. Hutan
 45	road; path; way	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	rarã	nan	- r a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Kiwangona.tsv	7. Jalan
 51	rope	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	taleʔ	nan	- - t a l e ʔ	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Kiwangona.tsv	65. Tali
 65	clothing	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Kiwangona.tsv	68. Pakaian 
@@ -24,7 +24,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	əmut	nan	- - - ə m u t -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Kiwangona.tsv	15. Debu
 70	dust; fine earth	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kəʔawuk	nan	k ə ʔ a w u k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Kiwangona.tsv	151. Abu 
 75	sand	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	wəra	nan	w ə r a - -	('sand', 'lama1277-baipi', 'wəra')	datasets/keraf/Kiwangona.tsv	121. Pasir 
-76	grass; brush	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kəduku	nan	k ə d u k u - -	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/keraf/Kiwangona.tsv	118. Rumput 
+76	grass; brush	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kəduku	nan	k ə d u k u - -	('grass; brush', 'lama1277-adona', 'kəˈdəku')	datasets/keraf/Kiwangona.tsv	118. Rumput 
 84	tree	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kayo	nan	- k a - - y o - - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Kiwangona.tsv	110. Pohon 
 87	leaf	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	lolo	nan	- - - - - l o l o -	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/keraf/Kiwangona.tsv	112. Daun 
 91	root	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	amut	nan	- a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Kiwangona.tsv	114. Akar 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Kiwangona.tsv	116. Bunga 
 129	salt	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Kiwangona.tsv	128. Garam 
 130	fat	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	worʔã	nan	w o r - - - - ʔ ã - -	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Kiwangona.tsv	104. Lemak 
-131	flesh; meat	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Kiwangona.tsv	103. Daging 
+131	flesh; meat	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Kiwangona.tsv	103. Daging 
 132	bone	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	riʔũ	nan	- - - r i ʔ ũ - - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Kiwangona.tsv	19. Tulang
 136	blood	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Kiwangona.tsv	26. Darah
 138	heart	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Kiwangona.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	wəwak	nan	w ə w a k - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Kiwangona.tsv	33. Mulut
 155	tongue	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	weweyək	nan	w e w eyə k - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Kiwangona.tsv	35. Lidah
 156	neck	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	wulik	nan	w u l i k -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Kiwangona.tsv	28. Leher
-164	hand	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Kiwangona.tsv	1. Tangan
-175	foot	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Kiwangona.tsv	4. Kaki
+164	hand	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	limak	nan	- - - - - l i m a - - k - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Kiwangona.tsv	1. Tangan
+175	foot	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	leik	nan	l e i k - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Kiwangona.tsv	4. Kaki
 179	back	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	woho	nan	w o - h o - - -	('back', 'lama1277-adona', 'ˈwohʔoˈkɜt')	datasets/keraf/Kiwangona.tsv	17. Punggung
 182	skin	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kamʔa	nan	k a m - - ʔ a -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Kiwangona.tsv	16. Kulit
 190	person	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	atadikʔã	nan	a - t a d i k ʔ ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Kiwangona.tsv	53. Orang
@@ -187,7 +187,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	pekot	nan	- - p - - e k o t	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Kiwangona.tsv	9. Balik
 606	stomach	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kəbotik	nan	- - k ə - - - - - b o t - i k -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Kiwangona.tsv	20. Isi perut
 607	tooth	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	ipək	nan	i - p ə - k - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Kiwangona.tsv	34. Gigi
-609	fist	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Kiwangona.tsv	72. Bertinju 
+609	fist	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Kiwangona.tsv	72. Bertinju 
 612	stem	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	əpʔã	nan	- ə p - ʔ ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Kiwangona.tsv	79. Batang 
 614	swollen	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Kiwangona.tsv	87. Bengkak
 618	worm	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kəbeŋã	nan	k - - ə b e ŋ ã	('worm', 'lama1277-kiwan', 'kəbeŋã')	datasets/keraf/Kiwangona.tsv	107. Cacing 
