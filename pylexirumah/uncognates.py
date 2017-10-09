@@ -93,7 +93,7 @@ word_lists = {}
 # Cache opened word list data frames
 
 changes = {}
-
+problems = []
 for i, line in cognates.iterrows():
     i = i[0], i[1], i[2]
     original_file = line["SOURCE"]
@@ -111,6 +111,13 @@ for i, line in cognates.iterrows():
                 sep="\t")
         except OSError:
             continue
+        except ValueError:
+            if pandas.isnull(original_file):
+                problems.append((i, line))
+                continue
+            else:
+                raise ValueError("Row {:} contained absent 'SOURCE' pointer {:}".format(
+                    i, original_file), line)
         word_list["Cognate Set"] = word_list["Cognate Set"].astype('str')
         word_lists[original_file] = word_list
     
