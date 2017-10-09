@@ -1,8 +1,8 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0	sky	pmpacd	proto-MP-ACD 2	Austronesian		*laŋit	nan	* l a ŋ i t	"('sky', 'alor1247-munas', ""'laŋi"")"	datasets/ACD/pmpacd.tsv		
 1	sun	pmpacd	proto-MP-ACD 2	Austronesian		*mata nu qalejaw	*mata nu qalejaw 'sun ('eye of the day')'	* m a t a _ n u _ q a l e j a w - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/ACD/pmpacd.tsv		
-2	moon	pmpacd	proto-MP-ACD 2	Austronesian		*bulan	nan	* b u l a n	('moon', 'pmpacd', '*bulan')	datasets/ACD/pmpacd.tsv		
-3	star	pmpacd	proto-MP-ACD 2	Austronesian		*bituqen	*talaq, *mantalaq 'the morning (evening) star: Venus'	* b i t u q e n - - -	('star', 'lama1277-kalik', 'toˈna')	datasets/ACD/pmpacd.tsv		
+2	moon	pmpacd	proto-MP-ACD 2	Austronesian		*bulan	nan	* b u l a n	('moon', 'adan1251-lawah', 'hu:l')	datasets/ACD/pmpacd.tsv		
+3	star	pmpacd	proto-MP-ACD 2	Austronesian		*bituqen	*talaq, *mantalaq 'the morning (evening) star: Venus'	* b i t u q e n - - -	('star', 'p-aust1307-abvd', '*bituqen')	datasets/ACD/pmpacd.tsv		
 3	star	pmpacd	proto-MP-ACD 2	Austronesian		*mantalaq	*talaq, *mantalaq 'the morning (evening) star: Venus'	* m a n t - - - a l a q	"('star', 'alor1247-baran', ""ta'mala"")"	datasets/ACD/pmpacd.tsv		
 3	star	pmpacd	proto-MP-ACD 2	Austronesian		*talaq	*talaq, *mantalaq 'the morning (evening) star: Venus'	- - * - t - - - a l a q	"('star', 'alor1247-baran', ""ta'mala"")"	datasets/ACD/pmpacd.tsv		
 4	night	pmpacd	proto-MP-ACD 2	Austronesian		*beRŋi	*halem 'night, dark'	* b e R ŋ i	('night', 'pmpacd', '*beRŋi')	datasets/ACD/pmpacd.tsv		
