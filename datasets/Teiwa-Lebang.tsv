@@ -38,8 +38,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 36	sea; sea water	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	taɁ	nan	t a ʔ - - - - - -	('sea; sea water', 'abui1241-fuime', 'tama')	datasets/Teiwa-Lebang.tsv		
 37	wave	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	bo:f	nan	b oː f -	('wave', 'abui1241-fuime', 'fou')	datasets/Teiwa-Lebang.tsv		
 38	foam	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	(taɁ) kau	nan	k a u	('foam', 'alor1249-sar-a', 'ul')	datasets/Teiwa-Lebang.tsv		
-39	forest	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	hut	Madar: wut, Lebang: hut	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	datasets/Teiwa-Lebang.tsv		
-39	forest	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	wut	Madar: wut, Lebang: hut	nan	"('forest', 'alor1247-baran', ""u'tɑŋ"")"	datasets/Teiwa-Lebang.tsv		
+39	forest	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	hut	Madar: wut, Lebang: hut	nan	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/Teiwa-Lebang.tsv		
+39	forest	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	wut	Madar: wut, Lebang: hut	nan	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/Teiwa-Lebang.tsv		
 40	field	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	hawan 'bi:n	'flat place'	h a w a n _ ˈb iː n	"('field', 'teiw1235', ""hawan 'bi:n"")"	datasets/Teiwa-Lebang.tsv		
 41	island	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	por	nan	p o r	('island', 'amar1273-kotos', 'puru')	datasets/Teiwa-Lebang.tsv		
 42	rice field	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	ma'xa:r	nan	m a ˈx aː r	"('rice field', 'teiw1235', ""ma'xa:r"")"	datasets/Teiwa-Lebang.tsv		
@@ -111,7 +111,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 108	taro	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	neɁei	nan	n e ʔ e - i	('taro', 'teiw1235', 'neɁei')	datasets/Teiwa-Lebang.tsv		
 110	millet	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	nat	nan	nan	('millet', 'alor1249-sar-a', 'nat')	datasets/Teiwa-Lebang.tsv		
 111	sugarcane	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	wux	nan	#NAME?	('sugarcane', 'alor1249-sar-n', 'wuh')	datasets/Teiwa-Lebang.tsv		
-112	corn; maize	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	ba'tar	nan	b a ˈt a r	('corn; maize', 'abui1241-fuime', 'fa:ti')	datasets/Teiwa-Lebang.tsv		
+112	corn; maize	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	ba'tar	nan	b a ˈt a r	('cooked rice', 'lama1277-adona', 'wata mɜˈnihũ')	datasets/Teiwa-Lebang.tsv		
 113	cooked corn	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	ba'tar jib	nan	b a ˈt a r _ j i b	('cooked corn', 'adan1251-lawah', 'bati awai')	datasets/Teiwa-Lebang.tsv		
 114	coconut	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	wat	nan	w a t - -	('coconut', 'abui1241-fuime', 'wata')	datasets/Teiwa-Lebang.tsv		
 115	gwang	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	duwai	nan	d u w a i	('gwang', 'teiw1235', 'duwai')	datasets/Teiwa-Lebang.tsv		
@@ -608,7 +608,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 554	the adultery	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	wan ga'sai	wan gasai=polite form, bu:s= coarse form	w a n _ g a ˈs a i	"('the adultery', 'teiw1235', ""wan ga'sai"")"	datasets/Teiwa-Lebang.tsv		
 555	penalty	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	den'daɁ	nan	d e n ˈd a ʔ	('penalty', 'lama1277-lewoi', 'ˈdɛnda')	datasets/Teiwa-Lebang.tsv		
 555	penalty	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	glu'ni	nan	g l u ˈn i	"('penalty', 'teiw1235', ""glu'ni"")"	datasets/Teiwa-Lebang.tsv		
-556	fishnet	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	pu'kat	nan	p u ˈk a t	"('fishnet', 'alor1247-besar', ""'pukɔ"")"	datasets/Teiwa-Lebang.tsv		
+556	fishnet	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	pu'kat	nan	p u ˈk a t	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/Teiwa-Lebang.tsv		
 557	to surrender	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	'ax qap	nan	ˈa x _ q a p	"('to surrender', 'teiw1235', ""'ax qap"")"	datasets/Teiwa-Lebang.tsv		
 558	to defend	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	'tamulax	nan	ˈt a m u l a x	"('to defend', 'teiw1235', ""'tamulax"")"	datasets/Teiwa-Lebang.tsv		
 559	the war or battle	teiw1235	Teiwa-Lebang	Timor-Alor-Pantar	1Pantar, 1West	ji'aɁ	nan	j i ˈa ʔ	"('the war or battle', 'teiw1235', ""ji'aɁ"")"	datasets/Teiwa-Lebang.tsv		

@@ -1,6 +1,6 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0	sky	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*laŋiC	nan	l a ŋ i C - ( - - - - - - - - )	"('sky', 'alor1247-munas', ""'laŋi"")"	datasets/ABVD/proto-AN-ABVD.tsv		
-2	moon	p-aust1307-abvd	proto-AN-ABVD	Austronesian		* bulaN	nan	b u l a N - ( - - - - - - - - )	('moon', 'adan1251-lawah', 'hu:l')	datasets/ABVD/proto-AN-ABVD.tsv		
+2	moon	p-aust1307-abvd	proto-AN-ABVD	Austronesian		* bulaN	nan	b u l a N - ( - - - - - - - - )	('market', 'keda1252-leuba', 'ul')	datasets/ABVD/proto-AN-ABVD.tsv		
 2	moon	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qiNas	nan	q i N a s	('moon', 'p-aust1307-abvd', '*qiNas')	datasets/ABVD/proto-AN-ABVD.tsv		
 3	star	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*bituqen	nan	b i t u q e n	('star', 'p-aust1307-abvd', '*bituqen')	datasets/ABVD/proto-AN-ABVD.tsv		
 4	night	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*beʀŋi	nan	b e ʀ - ŋ i -	('night', 'p-aust1307-abvd', '*beʀŋi')	datasets/ABVD/proto-AN-ABVD.tsv		
@@ -26,14 +26,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 75	sand	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*bunaj	nan	b u n a j	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 75	sand	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qenay	nan	q e n a y	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 76	grass; brush	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Cemel	nan	C e m e l	('grass; brush', 'p-aust1307-abvd', '*Cemel')	datasets/ABVD/proto-AN-ABVD.tsv		
-77	house	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ʀumaq	nan	ʀ u m a q	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/ABVD/proto-AN-ABVD.tsv		
+77	house	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ʀumaq	nan	ʀ u m a q	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 82	(thatch) roof	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Cawali	nan	C a w a l i	"('(thatch) roof', 'abui1241-takal', ""'wäj"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 84	tree	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*(kayu)	Source Aone?	?	('tree', 'keda1252-leuwa', 'ai vaʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
 85	wood	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kaSiw	nan	k a S i w -	('wood', 'p-aust1307-abvd', '*kaSiw')	datasets/ABVD/proto-AN-ABVD.tsv		
 87	leaf	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*biʀaq	nan	b i ʀ a q	('leaf', 'p-aust1307-abvd', '*biʀaq')	datasets/ABVD/proto-AN-ABVD.tsv		
 91	root	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ʀameC	nan	- - - - - ʀ a m e C	('root', 'keda1252-leuwa', 'ramuʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
 91	root	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ʀamiS	nan	#NAME?	('root', 'keda1252-leuwa', 'ramuʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
-92	fruit	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'keda1252-leuwa', 'u̘an')	datasets/ABVD/proto-AN-ABVD.tsv		
+92	fruit	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*buaq	nan	b u a q	('fruit', 'p-aust1307-abvd', '*buaq')	datasets/ABVD/proto-AN-ABVD.tsv		
 100	to plant (yam)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*mula	CHECK if 'to plant (yam)' or 'to plant (rice)'	m u l - a	('to plant (yam)', 'abui1241-fuime', 'murua')	datasets/ABVD/proto-AN-ABVD.tsv		
 129	salt	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qasiʀa	nan	q a - s i ʀ a	('salt', 'p-aust1307-abvd', '*qasiʀa')	datasets/ABVD/proto-AN-ABVD.tsv		
 130	fat	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Simaʀ	nan	#NAME?	('fat', 'p-aust1307-abvd', '*Simaʀ')	datasets/ABVD/proto-AN-ABVD.tsv		
@@ -53,7 +53,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 155	tongue	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*Sema	nan	S e m a -	"('tongue', 'kema1243', ""la'mɑr"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 156	neck	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*liqeʀ	nan	l i q e ʀ	('neck', 'p-aust1307-abvd', '*liqeʀ')	datasets/ABVD/proto-AN-ABVD.tsv		
 157	shoulder	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qabaʀa	nan	q a b a ʀ a - - - - - -	('shoulder', 'p-aust1307-abvd', '*qabaʀa')	datasets/ABVD/proto-AN-ABVD.tsv		
-164	hand	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*(qa)lima	nan	l i m a -	('five', 'keda1252-leuwa', 'lεmε')	datasets/ABVD/proto-AN-ABVD.tsv		
+164	hand	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*(qa)lima	nan	l i m a -	('hand', 'p-aust1307-abvd', '*(qa)lima')	datasets/ABVD/proto-AN-ABVD.tsv		
 168	breast	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*susu	nan	s u s u -	('breast', 'adan1251-lawah', 'toʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
 174	leg	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*qaqay	nan	q a q a - y	('leg', 'nede1245', 'gaja')	datasets/ABVD/proto-AN-ABVD.tsv		
 179	back	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*likud	nan	nan	('back', 'maka1316', 'laikoru')	datasets/ABVD/proto-AN-ABVD.tsv		
@@ -63,7 +63,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192	child	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*aNak	nan	- - - - - - a N a k - -	('child', 'alor1247-baran', 'ʔanaŋ')	datasets/ABVD/proto-AN-ABVD.tsv		
 193	man	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-ʀuqanay	nan	m a ʀ u q a n a y	('man', 'p-aust1307-abvd', '*ma-ʀuqanay')	datasets/ABVD/proto-AN-ABVD.tsv		
 194	woman	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*bahi	nan	#NAME?	('woman', 'p-aust1307-abvd', '*bahi')	datasets/ABVD/proto-AN-ABVD.tsv		
-197	mother	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*t-ina	nan	t i n a -	('mother', 'lama1277-belan', 'ina')	datasets/ABVD/proto-AN-ABVD.tsv		
+197	mother	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*t-ina	nan	t i n a -	('mother', 'keda1252', 'ine')	datasets/ABVD/proto-AN-ABVD.tsv		
 198	father	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*t-ama	nan	t a m a - -	"('father', 'buna1278-malia', ""'ʔamɑ"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 203	1sg	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i-aku	nan	nan	('1sg', 'amar1273-kotos', 'au')	datasets/ABVD/proto-AN-ABVD.tsv		
 204	2sg (informal)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*i-kaSu	nan	i k a S - u - - - - -	('2sg (informal)', 'p-aust1307-abvd', '*i-kaSu')	datasets/ABVD/proto-AN-ABVD.tsv		
@@ -102,7 +102,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 267	earthworm	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kulay	nan	k u l - - a - y	('earthworm', 'keda1252-leuwa', 'hala mukεl')	datasets/ABVD/proto-AN-ABVD.tsv		
 270	mosquito	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*likeS	nan	l i k e S -	('mosquito', 'p-aust1307-abvd', '*likeS')	datasets/ABVD/proto-AN-ABVD.tsv		
 274	spider	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kakaCu	nan	k a k - - a C - u	('spider', 'p-aust1307-abvd', '*kakaCu')	datasets/ABVD/proto-AN-ABVD.tsv		
-279	louse (clothing)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kuCu	nan	k u C - - u -	('louse (clothing)', 'keda1252-leuwa', 'utu')	datasets/ABVD/proto-AN-ABVD.tsv		
+279	louse (clothing)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kuCu	nan	k u C - - u -	('louse (clothing)', 'lama1277-adona', 'keˈtumã')	datasets/ABVD/proto-AN-ABVD.tsv		
 281	big	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-ʀaya	nan	nan	('big', 'keda1252-leuwa', 'ria baraʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
 282	small	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*kedi	nan	k e d i - -	('small', 'abui1241-fuime', 'kdiŋ')	datasets/ABVD/proto-AN-ABVD.tsv		
 284	new (house)	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-baqeʀu	nan	m a b a q e ʀ u	('new (house)', 'p-aust1307-abvd', '*ma-baqeʀu')	datasets/ABVD/proto-AN-ABVD.tsv		
@@ -117,7 +117,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 316	wide	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-lawas	nan	- - m a l - a w a s - - -	('wide', 'p-aust1307-abvd', '*ma-lawas')	datasets/ABVD/proto-AN-ABVD.tsv		
 321	rotten	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-buʀaq	nan	m a b u ʀ a q	('rotten', 'p-aust1307-abvd', '*ma-buʀaq')	datasets/ABVD/proto-AN-ABVD.tsv		
 329	black	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*CeŋeN	nan	- - - C e ŋ - e N	('black', 'p-aust1307-abvd', '*CeŋeN')	datasets/ABVD/proto-AN-ABVD.tsv		
-330	white	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-puNi	nan	m a p u N i -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/ABVD/proto-AN-ABVD.tsv		
+330	white	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-puNi	nan	m a p u N i -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 331	red	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-taNah	nan	m a t a N a h	('red', 'keda1252-leuwa', 'putuʔ')	datasets/ABVD/proto-AN-ABVD.tsv		
 332	green	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*mataq	nan	m a t a q	"('green', 'kema1243', ""'mɔ'sɔk"")"	datasets/ABVD/proto-AN-ABVD.tsv		
 336	shy; ashamed	p-aust1307-abvd	proto-AN-ABVD	Austronesian		*ma-Siaq	nan	m a S i a q -	('shy; ashamed', 'p-aust1307-abvd', '*ma-Siaq')	datasets/ABVD/proto-AN-ABVD.tsv		

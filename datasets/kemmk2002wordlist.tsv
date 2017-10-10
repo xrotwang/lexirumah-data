@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0.0	sky	kema1243	Kemak	Austronesian	4Timor, 2Central	'baʔe'mɔ:	nan	'b a ʔ e 'm ɔ:	"('sky', 'kema1243', ""'baʔe'mɔ:"")"	datasets/kemmk2002wordlist.tsv		
 1.0	sun	kema1243	Kemak	Austronesian	4Timor, 2Central	'lɛlɔ 'mɑtɑn	sun day	'l ɛ l ɔ _ 'm ɑ t ɑ n	"('sun', 'alor1247-baran', ""la'ra"")"	datasets/kemmk2002wordlist.tsv		
-2.0	moon	kema1243	Kemak	Austronesian	4Timor, 2Central	'hula	nan	- - 'h u l - - - - - - - - - a - -	('moon', 'adan1251-lawah', 'hu:l')	datasets/kemmk2002wordlist.tsv		
+2.0	moon	kema1243	Kemak	Austronesian	4Timor, 2Central	'hula	nan	- - 'h u l - - - - - - - - - a - -	('market', 'keda1252-leuba', 'ul')	datasets/kemmk2002wordlist.tsv		
 3.0	star	kema1243	Kemak	Austronesian	4Timor, 2Central	'hitu	nan	'h i t u	('star', 'baka1276', 'id')	datasets/kemmk2002wordlist.tsv		
 4.0	night	kema1243	Kemak	Austronesian	4Timor, 2Central	'lɛlə 'bɔ:	night; dark	'l ɛ l ə _ 'b ɔ:	"('night', 'kema1243', ""'lɛlə 'bɔ:"")"	datasets/kemmk2002wordlist.tsv		
 4.0	night	kema1243	Kemak	Austronesian	4Timor, 2Central	'rɑe meta'ma:	night; dark	- 'r ɑe _ m e t a 'm a:	"('night', 'kema1243', ""'rɑe meta'ma:"")"	datasets/kemmk2002wordlist.tsv		
@@ -12,7 +12,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 14.0	wind	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑgi	nan	- 'ʔ ɑ g - - i - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/kemmk2002wordlist.tsv		
 15.0	rain	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔusa	nan	- 'ʔ u - s a - - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/kemmk2002wordlist.tsv		
 21.0	fog	kema1243	Kemak	Austronesian	4Timor, 2Central	'tahɔ	mist; mist closed	't a h ɔ	('fog', 'buna1278-bobon', 'taho')	datasets/kemmk2002wordlist.tsv		
-21.0	fog	kema1243	Kemak	Austronesian	4Timor, 2Central	'tahɔ 'ʔupu	mist; mist closed	- 't a - h ɔ _ 'ʔ u p u -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/kemmk2002wordlist.tsv		
+21.0	fog	kema1243	Kemak	Austronesian	4Timor, 2Central	'tahɔ 'ʔupu	mist; mist closed	- 't a - h ɔ _ 'ʔ u p u -	('fog', 'kama1365', 'safuː')	datasets/kemmk2002wordlist.tsv		
 22.0	river; stream	kema1243	Kemak	Austronesian	4Timor, 2Central	'hɔlan	nan	'h ɔ l a n	"('river; stream', 'kema1243', ""'hɔlan"")"	datasets/kemmk2002wordlist.tsv		
 23.0	ice	kema1243	Kemak	Austronesian	4Timor, 2Central	'bia 'ʔisin	water stone	'b ia _ 'ʔ i s i n	"('ice', 'kema1243', ""'bia 'ʔisin"")"	datasets/kemmk2002wordlist.tsv		
 25.0	lake	kema1243	Kemak	Austronesian	4Timor, 2Central	'tapo 'biɑ 'lihun	mud water lay.still	't a p o _ 'b iɑ _ 'l i h u n	"('lake', 'kema1243', ""'tapo 'biɑ 'lihun"")"	datasets/kemmk2002wordlist.tsv		
@@ -39,14 +39,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 71.0	fireplace ash	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔapi 'rapɔ	nan	'ʔ a p i _ 'r a p ɔ	"('fireplace ash', 'kema1243', ""'ʔapi 'rapɔ"")"	datasets/kemmk2002wordlist.tsv		
 75.0	sand	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɛgɔr	identical meaning	'ʔ ɛ g ɔ r	"('sand', 'kema1243', ""'ʔɛgɔr"")"	datasets/kemmk2002wordlist.tsv		
 75.0	sand	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɛnɛ	identical meaning	- 'ʔ ɛ n ɛ - - - - -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/kemmk2002wordlist.tsv		
-77.0	house	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔuma	nan	- 'ʔ u m a -	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/kemmk2002wordlist.tsv		
+77.0	house	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔuma	nan	- 'ʔ u m a -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/kemmk2002wordlist.tsv		
 83.0	roof thatch	kema1243	Kemak	Austronesian	4Timor, 2Central	'lei	nan	'l ei -	"('roof thatch', 'kema1243', ""'lei"")"	datasets/kemmk2002wordlist.tsv		
 84.0	tree	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi	nan	- 'ʔ ɑ - i - - - - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/kemmk2002wordlist.tsv		
 84.0	tree	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi 'pu:n	nan	- 'ʔ ɑ - i - - - _ 'p u: - - n - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/kemmk2002wordlist.tsv		
 86.0	bark (of tree)	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi uli'ti:n	nan	- 'ʔ ɑi - _ - u l i 't i: n	"('bark (of tree)', 'idat1237', ""ɑili'tɑ:k"")"	datasets/kemmk2002wordlist.tsv		
 87.0	leaf	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi tɑhɑn	nan	'ʔ ɑi _ t ɑ h ɑ n	"('leaf', 'kema1243', ""'ʔɑi tɑhɑn"")"	datasets/kemmk2002wordlist.tsv		
 91.0	root	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi ha'ʔɑn	nan	'ʔ ɑi _ h a 'ʔ ɑ n	"('root', 'kema1243', ""'ʔɑi ha'ʔɑn"")"	datasets/kemmk2002wordlist.tsv		
-92.0	fruit	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi 'hũãn	nan	'ʔ ɑ i - _ - 'h ũ - ã - - n	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/kemmk2002wordlist.tsv		
+92.0	fruit	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔɑi 'hũãn	nan	'ʔ ɑ i - _ - 'h ũ - ã - - n	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/kemmk2002wordlist.tsv		
 93.0	seed	kema1243	Kemak	Austronesian	4Timor, 2Central	'hini	seed; stock of seed	- - - - 'h i n i - - -	('seed', 'amar1273-kotos', 'fini')	datasets/kemmk2002wordlist.tsv		
 93.0	seed	kema1243	Kemak	Austronesian	4Timor, 2Central	'raba	seed; stock of seed	'r a b a	"('seed', 'kema1243', ""'raba"")"	datasets/kemmk2002wordlist.tsv		
 97.0	rice grains (unhusked) (raw from field)	kema1243	Kemak	Austronesian	4Timor, 2Central	'ʔetu	nan	'ʔ e t u	"('rice grains (unhusked) (raw from field)', 'kema1243', ""'ʔetu"")"	datasets/kemmk2002wordlist.tsv		
@@ -191,7 +191,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321.0	rotten	kema1243	Kemak	Austronesian	4Timor, 2Central	'busu	nan	- 'b u s u -	('rotten', 'adan1251-lawah', 'boni')	datasets/kemmk2002wordlist.tsv		
 326.0	flat	kema1243	Kemak	Austronesian	4Timor, 2Central	mə'gɛsɑn	nan	m ə 'g ɛ s ɑ n	"('flat', 'kema1243', ""mə'gɛsɑn"")"	datasets/kemmk2002wordlist.tsv		
 329.0	black	kema1243	Kemak	Austronesian	4Timor, 2Central	'mɛtɑm	nan	- - 'm ɛ - t ɑ m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/kemmk2002wordlist.tsv		
-330.0	white	kema1243	Kemak	Austronesian	4Timor, 2Central	'buti	nan	- - - 'b u t i - - - - - - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/kemmk2002wordlist.tsv		
+330.0	white	kema1243	Kemak	Austronesian	4Timor, 2Central	'buti	nan	- - - 'b u t i - - - - - - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/kemmk2002wordlist.tsv		
 331.0	red	kema1243	Kemak	Austronesian	4Timor, 2Central	'miɑk	nan	- 'm iɑ - - k	"('red', 'alor1247-baran', ""'mɛã"")"	datasets/kemmk2002wordlist.tsv		
 332.0	green	kema1243	Kemak	Austronesian	4Timor, 2Central	'mɔ'sɔk	nan	- - - - - - - - - - 'm ɔ 's ɔ k	"('green', 'kema1243', ""'mɔ'sɔk"")"	datasets/kemmk2002wordlist.tsv		
 334.0	yellow	kema1243	Kemak	Austronesian	4Timor, 2Central	mə'gɛ:	nan	m - - ə 'g ɛ:	"('yellow', 'kema1243', ""mə'gɛ:"")"	datasets/kemmk2002wordlist.tsv		

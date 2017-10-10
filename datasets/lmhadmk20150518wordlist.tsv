@@ -1,27 +1,27 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0	sky	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkɜlɜ	nan	ˈk ɜ l - ɜ - - - - - -	('sky', 'kama1365', 'deliŋ')	datasets/lmhadmk20150518wordlist.tsv		
 1	sun	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈrɜra	nan	- - - - - - - - - - - ˈr ɜ r a - - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/lmhadmk20150518wordlist.tsv		
-2	moon	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwulɑ̃	nan	- - ˈw u l - - - - - - - - - ɑ̃ - -	('moon', 'adan1251-lawah', 'hu:l')	datasets/lmhadmk20150518wordlist.tsv		
-3	star	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔetɜp	nan	ʔ e t ɜ - p -	('star', 'kama1365', 'ɑtɛjbɑ')	datasets/lmhadmk20150518wordlist.tsv		
-4	night	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈrɜmaʔ	nan	ˈr ɜ m a ʔ - -	('night', 'lama1277-adona', 'ˈrɜmaʔ')	datasets/lmhadmk20150518wordlist.tsv		
+2	moon	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwulɑ̃	nan	- - ˈw u l - - - - - - - - - ɑ̃ - -	('market', 'keda1252-leuba', 'ul')	datasets/lmhadmk20150518wordlist.tsv		
+3	star	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔetɜp	nan	ʔ e t ɜ - p -	"('star', 'alor1247-baran', ""ta'mala"")"	datasets/lmhadmk20150518wordlist.tsv		
+4	night	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈrɜmaʔ	nan	ˈr ɜ m a ʔ - -	('day after tomorrow', 'lama1277-kalik', 'ˈʤəma ˈʤua')	datasets/lmhadmk20150518wordlist.tsv		
 5	day	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	rɜ' rɔ̃	nan	- - - - - - - - - - - r ɜ 'r ɔ̃ - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/lmhadmk20150518wordlist.tsv		
 6	year	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	tũː	nan	- t - - - ũː - - -	('year', 'abui1241-petle', 'tuŋ')	datasets/lmhadmk20150518wordlist.tsv		
-7	morning	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡ(ə)'hula	nan	ɡ ( ə ) 'h u l a -	"('morning', 'lama1277-adona', ""ɡ(ə)'hula"")"	datasets/lmhadmk20150518wordlist.tsv		
+7	morning	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡ(ə)'hula	nan	ɡ ( ə ) 'h u l a -	"('morning', 'lama1277-adona', ""hə'ɡula"")"	datasets/lmhadmk20150518wordlist.tsv		
 7	morning	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	hə'ɡula	nan	h ə 'ɡ u l a	"('morning', 'lama1277-adona', ""hə'ɡula"")"	datasets/lmhadmk20150518wordlist.tsv		
 8	yesterday	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwia	nan	- - ˈw ia -	"('yesterday', 'alor1247-besar', ""'fiaŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
-9	day before yesterday	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔɜrɜ rua 'ʔi	nan	ʔ ɜ r ɜ _ r ua _ 'ʔ i	"('day before yesterday', 'lama1277-adona', ""ʔɜrɜ rua 'ʔi"")"	datasets/lmhadmk20150518wordlist.tsv		
-10	tomorrow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbauk	nan	ˈb au - k -	"('tomorrow', 'alor1247-besar', ""'bou"")"	datasets/lmhadmk20150518wordlist.tsv		
+9	day before yesterday	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔɜrɜ rua 'ʔi	nan	ʔ ɜ r ɜ _ r ua _ 'ʔ i	"('day after tomorrow', 'alor1247-besar', ""'ɛrua "")"	datasets/lmhadmk20150518wordlist.tsv		
+10	tomorrow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbauk	nan	ˈb au - k -	('morning', 'lama1277-kalik', 'baˈɛn')	datasets/lmhadmk20150518wordlist.tsv		
 11	day after tomorrow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔɜrɜ 'rua	nan	ʔ ɜ r ɜ _ 'r ua	"('day after tomorrow', 'alor1247-besar', ""'ɛrua "")"	datasets/lmhadmk20150518wordlist.tsv		
 12	twilight; dawn	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔekã 'dahe	nan	ʔ e k ã - _ 'd a h e - - - - - - - -	"('twilight; dawn', 'alor1247-besar', ""'ɛkaŋ 'dahɛ ta'ranaŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 13	cloud	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkɔːwa	nan	ˈk ɔː w a - -	('cloud', 'abui1241-fuime', 'kabuti')	datasets/lmhadmk20150518wordlist.tsv		
 14	wind	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔaŋĩ	nan	- ˈʔ a ŋ - - ĩ - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/lmhadmk20150518wordlist.tsv		
 15	rain	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔurɑŋ	nan	- ˈʔ u - r ɑ ŋ - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
-16	drizzle	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡri'ʔɛna	nan	ɡ - - - r i 'ʔ ɛ n a	"('drizzle', 'lama1277-adona', ""ɡri'ʔɛna"")"	datasets/lmhadmk20150518wordlist.tsv		
+16	drizzle	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡri'ʔɛna	nan	ɡ - - - r i 'ʔ ɛ n a	"('drizzle', 'alor1247-besar', ""'uraŋ fa'rɛha-fa'rɛha"")"	datasets/lmhadmk20150518wordlist.tsv		
 17	rainbow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpatũ	nan	ˈp a t ũ	('rainbow', 'lama1277-adona', 'ˈpatũ')	datasets/lmhadmk20150518wordlist.tsv		
 18	thunder	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜ'lɜka	bunyinya	k ɜ 'l ɜ k a - - - -	('thunder', 'alor1249-sar-a', 'gragar')	datasets/lmhadmk20150518wordlist.tsv		
 19	lightning	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜ'hilat	kilatan, cahaya	- k ɜ 'h i l a - - t - - - - - - - - 	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/lmhadmk20150518wordlist.tsv		
 20	earthquake	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'brero	nan	'b - - - r e - r - - o -	"('earthquake', 'lama1277-adona', ""'brero"")"	datasets/lmhadmk20150518wordlist.tsv		
-21	fog	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'kowa koː(k)	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	'k o w a _ k oː ( k - )	"('fog', 'lama1277-adona', ""'kowa koː(k)"")"	datasets/lmhadmk20150518wordlist.tsv		
+21	fog	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'kowa koː(k)	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	'k o w a _ k oː ( k - )	('cloud', 'abui1241-fuime', 'kabuti')	datasets/lmhadmk20150518wordlist.tsv		
 22	river; stream	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'suŋe	nan	's u ŋ e	"('river; stream', 'lama1277-adona', ""'suŋe"")"	datasets/lmhadmk20150518wordlist.tsv		
 25	lake	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'liwo	nan	'l i w o - - -	"('lake', 'lama1277-adona', ""'liwo"")"	datasets/lmhadmk20150518wordlist.tsv		
 26	mountain	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'ʔile	nan	- - 'ʔ i l e - -	('mountain', 'alor1249-sar-n', 'jihil')	datasets/lmhadmk20150518wordlist.tsv		
@@ -32,7 +32,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 31	hole	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'rɔɑ̃	nan	'r ɔɑ̃	"('hole', 'lama1277-adona', ""'rɔɑ̃"")"	datasets/lmhadmk20150518wordlist.tsv		
 32	stone	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'watɔ	nan	- 'w a t ɔ - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/lmhadmk20150518wordlist.tsv		
 33	coral (rock)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'ʔaʔɔ	batu (rock) di pantai	'ʔ a ʔ ɔ	"('coral (rock)', 'lama1277-adona', ""'ʔaʔɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
-34	(coral) reef	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'rubu	karang (reef) di dasar laut	'r u b u	"('(coral) reef', 'lama1277-adona', ""'rubu"")"	datasets/lmhadmk20150518wordlist.tsv		
+34	(coral) reef	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'rubu	karang (reef) di dasar laut	'r u b u	"('(coral) reef', 'keda1252-leuba', ""'ruhu"")"	datasets/lmhadmk20150518wordlist.tsv		
 35	water (fresh)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'wɑi	nan	- 'w ɑi - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/lmhadmk20150518wordlist.tsv		
 36	sea; sea water	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'lewaʔ	nan	- 'l e w a ʔ	('sea; sea water', 'keda1252-leuwa', 'lεva')	datasets/lmhadmk20150518wordlist.tsv		
 37	wave	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	mɜ'naʔlũː	nan	m ɜ 'n a ʔ l ũː	"('wave', 'lama1277-adona', ""mɜ'naʔlũː"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -41,7 +41,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 40	field	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'nɜphã	nan	'n ɜ p h ã	"('field', 'lama1277-adona', ""'nɜphã"")"	datasets/lmhadmk20150518wordlist.tsv		
 41	island	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'nuha	nan	- 'n u h a	"('island', 'alor1247-besar', ""nu'ha"")"	datasets/lmhadmk20150518wordlist.tsv		
 42	rice field	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'mãː	nan	- 'm ãː	"('rice field', 'lama1277-adona', ""'mãː"")"	datasets/lmhadmk20150518wordlist.tsv		
-43	garden	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'mãː	nan	- - - 'm - - - ãː - -	('garden', 'buna1278-bobon', 'maɁ')	datasets/lmhadmk20150518wordlist.tsv		
+43	garden	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'mãː	nan	- - - 'm - - - ãː - -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/lmhadmk20150518wordlist.tsv		
 44	fence	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'niha	nan	'n i h a	"('fence', 'lama1277-adona', ""'niha"")"	datasets/lmhadmk20150518wordlist.tsv		
 45	road; path; way	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'rarã	nan	'r a r - ã -	('road; path; way', 'kama1365', 'geːlbaːl')	datasets/lmhadmk20150518wordlist.tsv		
 46	canoe	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'tɛna	nan	't ɛ n a	"('canoe', 'lama1277-adona', ""'tɛna"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 56	stick; pole	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	brɜ'dɔ̃	nan	b r ɜ 'd ɔ̃	"('stick; pole', 'lama1277-adona', ""brɜ'dɔ̃"")"	datasets/lmhadmk20150518wordlist.tsv		
 57	digging stick	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	nu'bɑk	nan	n u 'b ɑ k	"('digging stick', 'lama1277-adona', ""nu'bɑk"")"	datasets/lmhadmk20150518wordlist.tsv		
 59	bow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'wuhuʔ	nan	- - 'w u h u ʔ	"('bow', 'alor1247-besar', ""'fuhu"")"	datasets/lmhadmk20150518wordlist.tsv		
-60	arrow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'ʔamɜt	nan	'ʔ a m ɜ t	"('arrow', 'lama1277-adona', ""'ʔamɜt"")"	datasets/lmhadmk20150518wordlist.tsv		
+60	arrow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'ʔamɜt	nan	'ʔ a m ɜ t	"('arrow', 'keda1252-leuba', ""na'mɛʔ"")"	datasets/lmhadmk20150518wordlist.tsv		
 61	knife	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	'hɛpɛʔ	nan	'h ɛ p ɛ ʔ	"('knife', 'lama1277-adona', ""'hɛpɛʔ"")"	datasets/lmhadmk20150518wordlist.tsv		
 62	comb	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ki'riʔ	nan	- - - k i 'r - - i ʔ	('comb', 'abui1241-fuime', 'ke:ti')	datasets/lmhadmk20150518wordlist.tsv		
 63	mat	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɔhãː	nan	ˈʔ - ɔ h ãː - - -	"('mat', 'alor1247-besar', ""ɔ'haŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -68,7 +68,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔɜˈmut	nan	ʔ ɜ ˈm u t	('dust; fine earth', 'lama1277-adona', 'ʔɜˈmut')	datasets/lmhadmk20150518wordlist.tsv		
 71	fireplace ash	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈʔawuk	NOT 'debu' (dust, after you have been sweeping)	- - - k ɜ ˈʔ a w u k	"('fireplace ash', 'alor1247-besar', ""'afɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
 72	mud	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwalã	nan	ˈw a l ã - - -	('mud', 'blag1240-tuntu', 'walása')	datasets/lmhadmk20150518wordlist.tsv		
-74	gravel	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɛkɛk	nan	k ə ˈl ɛ k ɛ k	('gravel', 'lama1277-adona', 'kəˈlɛkɛk')	datasets/lmhadmk20150518wordlist.tsv		
+74	gravel	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɛkɛk	nan	k ə ˈl ɛ k ɛ k	('gravel', 'lama1277-adona', 'kəˈlɛhɛk')	datasets/lmhadmk20150518wordlist.tsv		
 74	gravel	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɛhɛk	nan	k ə ˈl ɛ h ɛ k -	('gravel', 'lama1277-adona', 'kəˈlɛhɛk')	datasets/lmhadmk20150518wordlist.tsv		
 75	sand	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwɜra	nan	ˈw ɜ r a - -	('sand', 'lama1277-adona', 'ˈwɜra')	datasets/lmhadmk20150518wordlist.tsv		
 76	grass; brush	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kəˈdəku	nan	k ə ˈd ə k u	('grass; brush', 'lama1277-adona', 'kəˈdəku')	datasets/lmhadmk20150518wordlist.tsv		
@@ -87,17 +87,17 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 89	firewood	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kajo ˈʔape	nan	k a j o _ ˈʔ a p e	"('firewood', 'alor1247-besar', ""'kaʤɔ 'ape"")"	datasets/lmhadmk20150518wordlist.tsv		
 90	rattan	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔua	nan	- - - ˈʔ ua -	"('rattan', 'alor1247-pandai', ""'ue"")"	datasets/lmhadmk20150518wordlist.tsv		
 91	root	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔamut	nan	ˈʔ a m u t	('root', 'lama1277-adona', 'ˈʔamut')	datasets/lmhadmk20150518wordlist.tsv		
-92	fruit	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kajo ˈwuã	nan	( k a j o ) _ ˈw - u - ã - - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/lmhadmk20150518wordlist.tsv		
+92	fruit	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kajo ˈwuã	nan	( k a j o ) _ ˈw - u - ã - - -	('fruit', 'keda1252', 'wuan')	datasets/lmhadmk20150518wordlist.tsv		
 93	seed	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkulʔũ	nan	ˈk u l - ʔ ũ -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 94	grain; cereal	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahaʔ	nan	ˈw a h a ʔ	('grain; cereal', 'lama1277-adona', 'ˈwahaʔ')	datasets/lmhadmk20150518wordlist.tsv		
 96	husked rice; uncooked rice	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahaʔ	nan	- ˈw a h a ʔ	('husked rice; uncooked rice', 'lama1277-adona', 'ˈwahaʔ')	datasets/lmhadmk20150518wordlist.tsv		
-97	rice grains (unhusked) (raw from field)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahaʔ	nan	ˈw a h a ʔ	('rice grains (unhusked) (raw from field)', 'lama1277-adona', 'ˈwahaʔ')	datasets/lmhadmk20150518wordlist.tsv		
-98	cooked rice	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	wata mɜˈnihũ	nan	w a t a _ m ɜ ˈn i h ũ -	"('cooked rice', 'alor1247-baran', ""'fata"")"	datasets/lmhadmk20150518wordlist.tsv		
-99	rice plant	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahaʔ	nan	ˈw a h a ʔ	('rice plant', 'lama1277-adona', 'ˈwahaʔ')	datasets/lmhadmk20150518wordlist.tsv		
+97	rice grains (unhusked) (raw from field)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahaʔ	nan	ˈw a h a ʔ	('husked rice; uncooked rice', 'lama1277-adona', 'ˈwahaʔ')	datasets/lmhadmk20150518wordlist.tsv		
+98	cooked rice	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	wata mɜˈnihũ	nan	w a t a _ m ɜ ˈn i h ũ -	('cooked rice', 'lama1277-adona', 'wata mɜˈnihũ')	datasets/lmhadmk20150518wordlist.tsv		
+99	rice plant	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahaʔ	nan	ˈw a h a ʔ	('husked rice; uncooked rice', 'lama1277-adona', 'ˈwahaʔ')	datasets/lmhadmk20150518wordlist.tsv		
 100	to plant (yam)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpahaʔ	nan	ˈp a h a ʔ	('to plant (yam)', 'lama1277-adona', 'ˈpahaʔ')	datasets/lmhadmk20150518wordlist.tsv		
 101	to plant (rice)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtubak	nan	- - - - - ˈt u b a k - -	('to plant (rice)', 'lama1277-adona', 'ˈtubak')	datasets/lmhadmk20150518wordlist.tsv		
 101	to plant (rice)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmula	nan	ˈm u l a	('to plant (rice)', 'lama1277-adona', 'ˈmula')	datasets/lmhadmk20150518wordlist.tsv		
-102	betel nut; areca	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwuaʔ	nan	- - - - - ˈw - u - a ʔ - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/lmhadmk20150518wordlist.tsv		
+102	betel nut; areca	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwuaʔ	nan	- - - - - ˈw - u - a ʔ - -	('betel nut; areca', 'abui1241-fuime', 'fu')	datasets/lmhadmk20150518wordlist.tsv		
 103	betel vine	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmaluʔ	nan	ˈm a l u ʔ	"('betel vine', 'alor1247-besar', ""'malu"")"	datasets/lmhadmk20150518wordlist.tsv		
 104	lime	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔapuʔ	nan	- ˈʔ a p u ʔ	"('lime', 'alor1247-baran', ""'ʔapu"")"	datasets/lmhadmk20150518wordlist.tsv		
 105	chew betel	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡãːˈwuaʔ	nan	- - ɡ ãː - - - ˈw - - - - - - - ua - ʔ -	"('chew betel', 'alor1247-besar', ""ta'kːa 'ua 'malu"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -105,7 +105,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 107	cassava	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	uwe ˈkaju	nan	- u w e - _ ˈk a j u -	('cassava', 'lama1277-adona', 'uwe ˈkaju')	datasets/lmhadmk20150518wordlist.tsv		
 108	taro	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kəˈlɑdi	nan	k ə ˈl ɑ d i	"('taro', 'fata1247', ""ka'lahi"")"	datasets/lmhadmk20150518wordlist.tsv		
 111	sugarcane	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtɜwɔ	nan	- ˈt ɜ w ɔ -	"('sugarcane', 'alor1247-besar', ""ta'fɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
-112	corn; maize	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwataʔ	nan	ˈw a t a ʔ	"('corn; maize', 'alor1247-besar', ""'fata"")"	datasets/lmhadmk20150518wordlist.tsv		
+112	corn; maize	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwataʔ	nan	ˈw a t a ʔ	('cooked rice', 'lama1277-adona', 'wata mɜˈnihũ')	datasets/lmhadmk20150518wordlist.tsv		
 113	cooked corn	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	wataʔ ˈmalune	nan	w a t a ʔ _ ˈm a - - l u n e	"('cooked corn', 'alor1247-besar', ""'fata pu'nakaŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 114	coconut	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtapo	nan	ˈt a p o -	"('coconut', 'alor1247-besar', ""'tapo"")"	datasets/lmhadmk20150518wordlist.tsv		
 116	lontar palm	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtuak	nan	ˈt ua k - - - - - - - -	('lontar palm', 'alor1249-sar-a', 'tuax')	datasets/lmhadmk20150518wordlist.tsv		
@@ -122,7 +122,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 128	milk	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtuhɔ	not 'breast'	- ˈt u h ɔ - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/lmhadmk20150518wordlist.tsv		
 129	salt	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈsiʔa	nan	ˈs i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/lmhadmk20150518wordlist.tsv		
 130	fat	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkahare	nan	ˈk a h a r e	('fat', 'lama1277-adona', 'ˈkahare')	datasets/lmhadmk20150518wordlist.tsv		
-131	flesh; meat	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔumɜ̃	nan	ˈʔ u m ɜ̃ -	('flesh; meat', 'blag1240-warsa', 'umuŋ')	datasets/lmhadmk20150518wordlist.tsv		
+131	flesh; meat	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔumɜ̃	nan	ˈʔ u m ɜ̃ -	('flesh; meat', 'lama1277-adona', 'ˈʔumɜ̃')	datasets/lmhadmk20150518wordlist.tsv		
 132	bone	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈriʔũː	nan	- - - ˈr i ʔ ũː - - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 133	rib	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈnawaˈne	suffix ne 3sg, um 1sg	k ɜ ˈn a w a ˈn e	('rib', 'lama1277-adona', 'kɜˈnawaˈne')	datasets/lmhadmk20150518wordlist.tsv		
 134	sweat	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜwũ	nan	- - ˈʔ ɜ w ũ -	('sweat', 'lama1277-adona', 'ˈʔɜwũ')	datasets/lmhadmk20150518wordlist.tsv		
@@ -143,22 +143,22 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 148	eye	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmatak	nan	ˈm a t a k	('eye', 'lama1277-adona', 'ˈmatak')	datasets/lmhadmk20150518wordlist.tsv		
 148	eye	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	matakɜt	nan	- - m a t a k ɜ t	"('eye', 'alor1247-baran', ""'mataŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 149	ear	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtiluˈkɜt	nan	- ˈt i l u ˈk ɜ - t -	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
-150	nose	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈiruˈnɜt	nan	- - ˈi r u ˈn ɜ t	('nose', 'lama1277-adona', 'ˈiruˈnɜt')	datasets/lmhadmk20150518wordlist.tsv		
+150	nose	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈiruˈnɜt	nan	- - ˈi r u ˈn ɜ t	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 151	mouth	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwɜwaˈkɜt	nan	ˈw ɜ w a ˈk ɜ t	('mouth', 'atim1239', 'tawa')	datasets/lmhadmk20150518wordlist.tsv		
 152	chin	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈsaroˈnɜt	nan	ˈs a r o ˈn ɜ t	('chin', 'lama1277-adona', 'ˈsaroˈnɜt')	datasets/lmhadmk20150518wordlist.tsv		
 153	lips	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnuhuˈkɜt	nan	- - - ˈn - - u h u - ˈk ɜ - - t	('lips', 'lama1277-adona', 'ˈnuhuˈkɜt')	datasets/lmhadmk20150518wordlist.tsv		
 154	teeth	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈipɜʔ	nan	- - ˈi p - ɜ ʔ	"('teeth', 'kema1243', ""'nipɑr"")"	datasets/lmhadmk20150518wordlist.tsv		
 155	tongue	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈɜwɜˈrɜt	nan	- ˈɜ w ɜ ˈr ɜ t	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/lmhadmk20150518wordlist.tsv		
-156	neck	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwuliˈkɜt	nan	ˈw u l i ˈk ɜ t	('neck', 'lama1277-adona', 'ˈwuliˈkɜt')	datasets/lmhadmk20150518wordlist.tsv		
+156	neck	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwuliˈkɜt	nan	ˈw u l i ˈk ɜ t	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 157	shoulder	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈhanaˈnɜt	nan	ˈh a n a ˈn ɜ t	('shoulder', 'lama1277-adona', 'ˈhanaˈnɜt')	datasets/lmhadmk20150518wordlist.tsv		
-158	body	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwɜkiˈkɜt	nan	- - ˈw ɜ k i ˈk ɜ t	('body', 'lama1277-adona', 'ˈwɜkiˈkɜt')	datasets/lmhadmk20150518wordlist.tsv		
+158	body	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwɜkiˈkɜt	nan	- - ˈw ɜ k i ˈk ɜ t	"('body', 'keda1252-leuba', ""'wɛʔ"")"	datasets/lmhadmk20150518wordlist.tsv		
 159	forehead	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈniːtoˈkɜt	nan	k ɜ ˈn iː t o ˈk ɜ t	('forehead', 'lama1277-adona', 'kɜˈniːtoˈkɜt')	datasets/lmhadmk20150518wordlist.tsv		
 160	nostril	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	iruˈnɜt kɜˈlɜŋũ	nan	- i r u ˈn ɜ t _ k ɜ ˈl ɜ ŋ - - - ũ -	"('nostril', 'alor1247-besar', ""'niruŋ faŋ'gɔkɔŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 161	mucus	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈehuˈkɜt	nan	ˈe h u ˈk ɜ t	('mucus', 'lama1277-adona', 'ˈehuˈkɜt')	datasets/lmhadmk20150518wordlist.tsv		
 162	cheek	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpipiˈkɜt	nan	- - ˈp i p i ˈk ɜ t	('cheek', 'lama1277-adona', 'ˈpipiˈkɜt')	datasets/lmhadmk20150518wordlist.tsv		
-163	arm	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlimaˈkɜt	nan	- ˈl i m a ˈk - - ɜ t	"('arm', 'alor1247-baran', ""'limaŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
+163	arm	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlimaˈkɜt	nan	- ˈl i m a ˈk - - ɜ t	('arm', 'keda1252-leuba', 'liŋ')	datasets/lmhadmk20150518wordlist.tsv		
 164	hand	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnaiʔjũ	nan	ˈn ai ʔ j ũ	('hand', 'lama1277-adona', 'ˈnaiʔjũ')	datasets/lmhadmk20150518wordlist.tsv		
-165	palm of hand	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlimakɜt ˈʔonʔeʔ	nan	ˈl i m a k ɜ t _ ˈʔ o n - ʔ e ʔ	('palm of hand', 'lama1277-adona', 'ˈlimakɜt ˈʔonʔeʔ')	datasets/lmhadmk20150518wordlist.tsv		
+165	palm of hand	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlimakɜt ˈʔonʔeʔ	nan	ˈl i m a k ɜ t _ ˈʔ o n - ʔ e ʔ	('footprint', 'lama1277-mulan', 'lei onã')	datasets/lmhadmk20150518wordlist.tsv		
 166	finger	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlimakɜt ˈʔaːnʔa	nan	ˈl i m a k ɜ t _ ˈʔ aː n ʔ a -	('finger', 'lama1277-adona', 'ˈlimakɜt ˈʔaːnʔa')	datasets/lmhadmk20150518wordlist.tsv		
 167	fingernail	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈmukurɜt	nan	- k - ɜ ˈm - u - k u r ɜ t	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/lmhadmk20150518wordlist.tsv		
 168	breast	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtuho	nan	- ˈt u h o - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/lmhadmk20150518wordlist.tsv		
@@ -167,7 +167,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 171	penis	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈute	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	- ˈu t e -	('penis', 'lama1277-adona', 'ˈute')	datasets/lmhadmk20150518wordlist.tsv		
 172	vagina	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmɜna	Kemaluan perempuan, same as above.	ˈm ɜ n a	('vagina', 'lama1277-adona', 'ˈmɜna')	datasets/lmhadmk20150518wordlist.tsv		
 173	testicles	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlahak	nan	- ˈl a h a - - - - k - - - - - -	"('testicles', 'alor1247-besar', ""la'hakaŋ ku'lukuŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
-174	leg	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈleikɜt	nan	ˈl ei k ɜ t -	"('leg', 'alor1247-baran', ""'leiŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
+174	leg	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈleikɜt	nan	ˈl ei k ɜ t -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/lmhadmk20150518wordlist.tsv		
 175	foot	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈleikɜt tɜˈnɑpʔã	nan	ˈl e i k ɜ t _ t ɜ ˈn ɑ p ʔ ã -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/lmhadmk20150518wordlist.tsv		
 176	heel of foot	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnudɜrɜt	nan	ˈn u d ɜ r ɜ t	('heel of foot', 'lama1277-adona', 'ˈnudɜrɜt')	datasets/lmhadmk20150518wordlist.tsv		
 177	sole of foot	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	leikɜt ˈʔonʔɜ	nan	l ei k ɜ t _ ˈʔ o n ʔ ɜ -	"('sole of foot', 'alor1247-besar', ""'leiŋ 'ɔnɔŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -189,8 +189,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔama lake	nan	ˈʔ a m a _ - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/lmhadmk20150518wordlist.tsv		
 194	woman	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔina wae	nan	ˈʔ i n a _ w ae	('woman', 'lama1277-adona', 'ˈʔina wae')	datasets/lmhadmk20150518wordlist.tsv		
 195	husband	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlakhẽ	nan	- - - - - - - - ˈl a k - - h ẽ - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/lmhadmk20150518wordlist.tsv		
-196	wife	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	hãː	kɜˈwahẽ married woman; Not 'married woman'.	- - h - - - - - ãː - - -	"('wife', 'buna1278-malia', ""'phanɑ"")"	datasets/lmhadmk20150518wordlist.tsv		
-197	mother	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔina	nan	ˈʔ i n a -	"('mother', 'alor1247-besar', ""'inaŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
+196	wife	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	hãː	kɜˈwahẽ married woman; Not 'married woman'.	- - h - - - - - ãː - - -	('husband', 'lama1277-belan', 'ha')	datasets/lmhadmk20150518wordlist.tsv		
+197	mother	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔina	nan	ˈʔ i n a -	('mother', 'keda1252', 'ine')	datasets/lmhadmk20150518wordlist.tsv		
 198	father	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔama	nan	- ˈʔ a m a - -	"('father', 'alor1247-besar', ""'amã"")"	datasets/lmhadmk20150518wordlist.tsv		
 199	older sibling	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kakãm	suffix m 2sg	k a k ã m	('older sibling', 'lama1277-adona', 'kakãm')	datasets/lmhadmk20150518wordlist.tsv		
 199	older sibling	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kaka	suffix m 2sg	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -217,19 +217,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜrɜˈpira	nan	- ˈʔ ɜ r ɜ - - - ˈp i r a	('when?', 'lama1277-adona', 'ˈʔɜrɜˈpira')	datasets/lmhadmk20150518wordlist.tsv		
 220	why?	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	pukɜ ˈʔaku	nan	p u k ɜ - _ ˈʔ a k u -	('why?', 'lama1277-adona', 'pukɜ ˈʔaku')	datasets/lmhadmk20150518wordlist.tsv		
 221	how much; how many?	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpira	nan	- ˈp i r a	('how much; how many?', 'alor1247-baran', 'pir:a')	datasets/lmhadmk20150518wordlist.tsv		
-222	how?	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	nɜˈɡaku	nan	n ɜ - - - - ˈɡ a - k - u - -	('how?', 'lama1277-adona', 'nɜˈɡaku')	datasets/lmhadmk20150518wordlist.tsv		
+222	how?	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	nɜˈɡaku	nan	n ɜ - - - - ˈɡ a - k - u - -	"('how?', 'keda1252-leuba', ""nara 'bɔnɛ"")"	datasets/lmhadmk20150518wordlist.tsv		
 223	this	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnhiː	nan	- - - - - - - ˈn - h iː	"('this', 'fata1247', ""ɛ'niɁi"")"	datasets/lmhadmk20150518wordlist.tsv		
 224	that	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnhẽː	nan	ˈn h ẽː	('that', 'lama1277-adona', 'ˈnhẽː')	datasets/lmhadmk20150518wordlist.tsv		
-225	at	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhi	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	- - d ɜ - - ˈh - - i -	('at', 'idat1237', 'he:')	datasets/lmhadmk20150518wordlist.tsv		
-225	at	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	dɜ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	d ɜ	('at', 'lama1277-adona', 'dɜ')	datasets/lmhadmk20150518wordlist.tsv		
-225	at	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	pi	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	p i	('at', 'lama1277-adona', 'dɜ')	datasets/lmhadmk20150518wordlist.tsv		
+225	at	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhi	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	- - d ɜ - - ˈh - - i -	('at', 'keda1252-leuba', 'diʔ')	datasets/lmhadmk20150518wordlist.tsv		
+225	at	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	dɜ	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	d ɜ	('at', 'keda1252-leuba', 'diʔ')	datasets/lmhadmk20150518wordlist.tsv		
+225	at	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	pi	General locative preposition, e.g. Ibu di mana? Saya di jalan. 	p i	('at', 'lama1277-adona', 'pi')	datasets/lmhadmk20150518wordlist.tsv		
 226	in; inside	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɔnʔeʔ	nan	ˈʔ ɔ n ʔ e ʔ	('in; inside', 'lama1277-adona', 'ˈʔɔnʔeʔ')	datasets/lmhadmk20150518wordlist.tsv		
-227	here	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhirɜ	nan	d ɜ ˈh i r ɜ	('here', 'lama1277-adona', 'dɜˈhirɜ')	datasets/lmhadmk20150518wordlist.tsv		
+227	here	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhirɜ	nan	d ɜ ˈh i r ɜ	('at', 'lama1277-adona', 'pi')	datasets/lmhadmk20150518wordlist.tsv		
 228	there	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	dɜˈhɛrɜ	nan	d ɜ ˈh ɛ r ɜ	('there', 'lama1277-adona', 'dɜˈhɛrɜ')	datasets/lmhadmk20150518wordlist.tsv		
 229	above	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbloʔlõ	blolõ=above, lolõ=on	- - ˈb - - l o ʔ l õ -	"('above', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 229	above	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	lolõ	blolõ=above, lolõ=on	l o l õ	('above', 'lama1277-adona', 'lolõ')	datasets/lmhadmk20150518wordlist.tsv		
 230	below	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	leˈrerˈʔẽ	 lali laŋũ=di bawah	l e ˈr e r ˈʔ ẽ	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/lmhadmk20150518wordlist.tsv		
-230	below	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	lali laŋũ	 lali laŋũ=di bawah	l a l i _ l a ŋ ũ	('below', 'lama1277-adona', 'lali laŋũ')	datasets/lmhadmk20150518wordlist.tsv		
+230	below	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	lali laŋũ	 lali laŋũ=di bawah	l a l i _ l a ŋ ũ	('at', 'lama1277-kalik', 'la')	datasets/lmhadmk20150518wordlist.tsv		
 231	left (side)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɛkĩ	nan	ˈn ɛ k ĩ	('left (side)', 'lama1277-adona', 'ˈnɛkĩ')	datasets/lmhadmk20150518wordlist.tsv		
 231	left (side)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	nekeʔ	nan	n e - k e ʔ - - - -	"('left (side)', 'alor1247-besar', ""'hɛkɛ̃"")"	datasets/lmhadmk20150518wordlist.tsv		
 232	right (side)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwana	nan	ˈw a n a -	('right (side)', 'lama1277-adona', 'ˈwana')	datasets/lmhadmk20150518wordlist.tsv		
@@ -237,7 +237,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 233	a few	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kuluk	nan	k u l u k	('a few', 'lama1277-adona', 'kuluk')	datasets/lmhadmk20150518wordlist.tsv		
 234	all	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahã ˈkaeʔ	nan	ˈw a h ã _ - ˈk ae ʔ - -	('all', 'lama1277-adona', 'ˈwahã ˈkaeʔ')	datasets/lmhadmk20150518wordlist.tsv		
 235	many	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔaːjʔa	nan	ˈʔ aː j - ʔ a	('many', 'lama1277-adona', 'ˈʔaːjʔa')	datasets/lmhadmk20150518wordlist.tsv		
-236	animal	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜˈwã	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	ˈʔ ɜ ˈw ã - - - - - - -	('animal', 'lama1277-adona', 'ˈʔɜˈwã')	datasets/lmhadmk20150518wordlist.tsv		
+236	animal	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜˈwã	If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) 	ˈʔ ɜ ˈw ã - - - - - - -	('animal', 'keda1252', 'ewaŋ')	datasets/lmhadmk20150518wordlist.tsv		
 237	fowl	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔɜˈwã	nan	ˈʔ ɜ ˈw ã	('fowl', 'lama1277-adona', 'ˈʔɜˈwã')	datasets/lmhadmk20150518wordlist.tsv		
 238	dog	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔaho	nan	- ˈʔ a h o - - - - - -	"('dog', 'alor1247-baran', ""a'ho"")"	datasets/lmhadmk20150518wordlist.tsv		
 239	pig	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwawe	nan	- ˈw a w e -	"('pig', 'alor1247-besar', ""'fafe"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -272,19 +272,19 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 269	fly (n.)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈnɜpũ	nan	k ɜ ˈn ɜ p ũ -	"('fly (n.)', 'alor1247-besar', ""ka'namuŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 270	mosquito	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈraɡã	nan	k ɜ ˈr a ɡ ã	('mosquito', 'lama1277-adona', 'kɜˈraɡã')	datasets/lmhadmk20150518wordlist.tsv		
 271	ant	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈmɜrɜk	nan	k - - ɜ ˈm ɜ r ɜ k - -	"('ant', 'alor1247-besar', ""ka'rːe"")"	datasets/lmhadmk20150518wordlist.tsv		
-272	grasshopper	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈmaroʔ	nan	k ɜ ˈm a r o ʔ	"('grasshopper', 'alor1247-besar', ""ka'marɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
+272	grasshopper	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈmaroʔ	nan	k ɜ ˈm a r o ʔ	('grasshopper', 'lama1277-adona', 'kɜˈmaroʔ')	datasets/lmhadmk20150518wordlist.tsv		
 273	locust	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜmɛrũˈdate	nan	k ɜ m ɛ r ũ ˈd a t - - - - - e -	"('locust', 'abui1241-takal', ""kä.'me̞.liŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 274	spider	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kabaˈrabat	kɜˈposiˈwori is a tarantula	k a b a ˈr a b a t	('spider', 'lama1277-adona', 'kabaˈrabat')	datasets/lmhadmk20150518wordlist.tsv		
 275	headlice	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkutɔ	nan	- ˈk u t ɔ -	"('headlice', 'alor1247-besar', ""'kuto"")"	datasets/lmhadmk20150518wordlist.tsv		
 276	louse eggs	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈlɛhɛ̃	nan	k ɜ ˈl ɛ h ɛ̃ - - - - -	"('louse eggs', 'alor1247-munas', ""k'lɛhɛŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 277	mother louse	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kutɔ ˈʔinã	nan	k u t ɔ _ ˈʔ i n ã -	"('mother louse', 'alor1247-besar', ""'kuto 'inã"")"	datasets/lmhadmk20150518wordlist.tsv		
 278	flea	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	tɜˈmɜla	nan	t ɜ ˈm ɜ l a -	('flea', 'blag1240-bama', 'tepela')	datasets/lmhadmk20150518wordlist.tsv		
-279	louse (clothing)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	keˈtumã	nan	- k e ˈt u m ã	('louse (clothing)', 'keda1252-leuwa', 'utu')	datasets/lmhadmk20150518wordlist.tsv		
+279	louse (clothing)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	keˈtumã	nan	- k e ˈt u m ã	('louse (clothing)', 'lama1277-adona', 'keˈtumã')	datasets/lmhadmk20150518wordlist.tsv		
 280	bedbug	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	tɜˈmajũ	nan	- - t ɜ ˈm a - j ũ - -	('bedbug', 'abui1241-fuime', 'ta:mek')	datasets/lmhadmk20150518wordlist.tsv		
 281	big	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbele	nan	ˈb e l - - - e - -	"('big', 'alor1247-besar', ""'beiŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 282	small	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkɛni	nan	- ˈk ɛ n i - - - - -	('small', 'abui1241-fuime', 'kdiŋ')	datasets/lmhadmk20150518wordlist.tsv		
 283	old; worn (house)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	tɜˈnuʔe	nan	t ɜ - ˈn u ʔ e	('old; worn (house)', 'alor1249-sar-a', 'anaʔ')	datasets/lmhadmk20150518wordlist.tsv		
-284	new (house)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwuʔũ	nan	ˈw u ʔ ũ	('new (house)', 'lama1277-adona', 'ˈwuʔũ')	datasets/lmhadmk20150518wordlist.tsv		
+284	new (house)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwuʔũ	nan	ˈw u ʔ ũ	('new (house)', 'keda1252', 'werun')	datasets/lmhadmk20150518wordlist.tsv		
 285	old (people)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	tɜˈnuʔe	nan	- - - t ɜ - ˈn u ʔ e -	"('old (people)', 'alor1247-pandai', ""'tua"")"	datasets/lmhadmk20150518wordlist.tsv		
 286	young (people)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	muˈrine	nan	m - - u ˈr i n e	('young (people)', 'lama1277-adona', 'muˈrine')	datasets/lmhadmk20150518wordlist.tsv		
 287	lazy	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈhadɜ	nan	ˈh a d ɜ	('lazy', 'lama1277-adona', 'ˈhadɜ')	datasets/lmhadmk20150518wordlist.tsv		
@@ -316,7 +316,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 314	light (weight)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈliɛʔ	nan	k ɜ ˈl - - iɛ ʔ	('light (weight)', 'lama1277-adona', 'kɜˈliɛʔ')	datasets/lmhadmk20150518wordlist.tsv		
 315	straight	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈlɔhɔ	nan	k ɜ ˈl ɔ - h ɔ -	('straight', 'lama1277-adona', 'kɜˈlɔhɔ')	datasets/lmhadmk20150518wordlist.tsv		
 316	wide	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbeleʔ	nan	ˈb e l e - - ʔ	('wide', 'lama1277-adona', 'ˈbeleʔ')	datasets/lmhadmk20150518wordlist.tsv		
-318	correct	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	muʔˈrɜ̃	nan	- - m u ʔ ˈr ɜ̃ -	"('correct', 'alor1247-besar', ""'muro"")"	datasets/lmhadmk20150518wordlist.tsv		
+318	correct	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	muʔˈrɜ̃	nan	- - m u ʔ ˈr ɜ̃ -	"('correct', 'keda1252-leuba', ""'muar"")"	datasets/lmhadmk20150518wordlist.tsv		
 319	wrong	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnalã	nan	ˈn a l ã -	('wrong', 'lama1277-adona', 'ˈnalã')	datasets/lmhadmk20150518wordlist.tsv		
 320	ripe	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtahak	nan	ˈt a h a k	('ripe', 'lama1277-adona', 'ˈtahak')	datasets/lmhadmk20150518wordlist.tsv		
 321	rotten	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈdatɜ	wau means stink	ˈd a t ɜ	('rotten', 'lama1277-adona', 'ˈdatɜ')	datasets/lmhadmk20150518wordlist.tsv		
@@ -324,13 +324,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 323	sweet	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈseʔe	nan	k ɜ ˈs e ʔ e	('sweet', 'lama1277-adona', 'kɜˈseʔe')	datasets/lmhadmk20150518wordlist.tsv		
 324	sour	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡilo	nan	ˈɡ i l - - o -	"('sour', 'alor1247-besar', ""'gilo"")"	datasets/lmhadmk20150518wordlist.tsv		
 325	salty	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpɜro	nan	ˈp ɜ r - o	"('salty', 'alor1247-besar', ""'parɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
-326	flat	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmepe	nan	ˈm e p e -	('flat', 'lama1277-adona', 'ˈmepe')	datasets/lmhadmk20150518wordlist.tsv		
+326	flat	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmepe	nan	ˈm e p e -	('flat', 'keda1252', 'napoʔ')	datasets/lmhadmk20150518wordlist.tsv		
 327	smooth	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈmelut	nan	k ɜ ˈm e l - - - u t	"('smooth', 'alor1247-besar', ""ha'melu"")"	datasets/lmhadmk20150518wordlist.tsv		
 328	rough	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈɡaʔak	nan	ˈɡ a ʔ a k	('rough', 'lama1277-adona', 'ˈɡaʔak')	datasets/lmhadmk20150518wordlist.tsv		
 329	black	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmitɜ	nan	- - ˈm i - t ɜ - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
-330	white	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈburaʔ	nan	- - - ˈb u r a - - - - ʔ - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/lmhadmk20150518wordlist.tsv		
+330	white	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈburaʔ	nan	- - - ˈb u r a - - - - ʔ - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/lmhadmk20150518wordlist.tsv		
 331	red	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmɜʔã	nan	ˈm ɜ ʔ ã	('red', 'lama1277-adona', 'ˈmɜʔã')	datasets/lmhadmk20150518wordlist.tsv		
-332	green	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkeorɛ	nan	ˈk eo r ɛ -	('green', 'lama1277-adona', 'ˈkeorɛ')	datasets/lmhadmk20150518wordlist.tsv		
+332	green	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkeorɛ	nan	ˈk eo r ɛ -	('blue', 'lama1277-adona', 'ˈkeorɛ')	datasets/lmhadmk20150518wordlist.tsv		
 333	blue	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkeorɛ	nan	ˈk eo r ɛ	('blue', 'lama1277-adona', 'ˈkeorɛ')	datasets/lmhadmk20150518wordlist.tsv		
 334	yellow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkumhã	nan	ˈk u m h ã	('yellow', 'lama1277-adona', 'ˈkumhã')	datasets/lmhadmk20150518wordlist.tsv		
 335	sick; painful	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbrara	pain from beinɡ hit, pain from beinɡ ill or wounded; There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	ˈb r a r a	('sick; painful', 'lama1277-adona', 'ˈbrara')	datasets/lmhadmk20150518wordlist.tsv		
@@ -340,7 +340,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 338	hungry	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmalu	nan	- - - - - - ˈm a l u -	"('hungry', 'alor1247-besar', ""'tukaŋ 'malu"")"	datasets/lmhadmk20150518wordlist.tsv		
 339	blind	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈnisũ	also swear word	k ɜ ˈn i s ũ	('blind', 'lama1277-adona', 'kɜˈnisũ')	datasets/lmhadmk20150518wordlist.tsv		
 339	blind	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈbuʔlɔ̃	also swear word	k ɜ ˈb u ʔ l ɔ̃	('blind', 'lama1277-adona', 'kɜˈbuʔlɔ̃')	datasets/lmhadmk20150518wordlist.tsv		
-340	deaf	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈbekʔẽ	also swear word	k - - ɜ ˈb e - - - - k - ʔ ẽ -	('deaf', 'lama1277-adona', 'kɜˈbekʔẽ')	datasets/lmhadmk20150518wordlist.tsv		
+340	deaf	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜˈbekʔẽ	also swear word	k - - ɜ ˈb e - - - - k - ʔ ẽ -	"('deaf', 'keda1252-leuba', ""'ʔɛbuʔ"")"	datasets/lmhadmk20150518wordlist.tsv		
 341	scared	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈsoʔot	nan	ˈs o ʔ o t	('scared', 'lama1277-adona', 'ˈsoʔot')	datasets/lmhadmk20150518wordlist.tsv		
 342	angry	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbɜkɜ	nan	ˈb ɜ k ɜ	('angry', 'lama1277-adona', 'ˈbɜkɜ')	datasets/lmhadmk20150518wordlist.tsv		
 343	to see	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈhulɜ	nan	ˈh u l ɜ	('to see', 'lama1277-adona', 'ˈhulɜ')	datasets/lmhadmk20150518wordlist.tsv		
@@ -468,7 +468,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 451	two	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈrua	nan	- ˈr u - a	('two', 'lama1277-adona', 'ˈrua')	datasets/lmhadmk20150518wordlist.tsv		
 452	three	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtɛlo	nan	- ˈt ɛ l o	"('three', 'alor1247-besar', ""'talːɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
 453	four	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpaːt	nan	- - - - ˈp aː t -	('four', 'fata1247', 'fa:tɛ')	datasets/lmhadmk20150518wordlist.tsv		
-454	five	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlema	nan	- - ˈl e m a	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/lmhadmk20150518wordlist.tsv		
+454	five	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlema	nan	- - ˈl e m a	('arm', 'keda1252-leuba', 'liŋ')	datasets/lmhadmk20150518wordlist.tsv		
 455	six	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnamu	nan	- - - ˈn a m u -	"('six', 'alor1247-baran', ""'nam:u"")"	datasets/lmhadmk20150518wordlist.tsv		
 456	seven	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpito	nan	- ˈp i t - - o - -	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/lmhadmk20150518wordlist.tsv		
 457	eight	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	butoː	nan	b u t - - - oː	"('eight', 'alor1247-baran', ""'but:ɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -504,7 +504,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 487	grandmother	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	wae	The kinship task also asks for this term	w ae	('grandmother', 'lama1277-adona', 'wae')	datasets/lmhadmk20150518wordlist.tsv		
 488	grandfather	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	opu	The kinship task also asks for this term	- o p u - - - - - - - - -	('grandfather', 'lama1277-adona', 'opu')	datasets/lmhadmk20150518wordlist.tsv		
 489	grandchild	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	tʃutʃu	The kinship task also asks for this term	t ʃ u t ʃ u	('grandchild', 'lama1277-adona', 'tʃutʃu')	datasets/lmhadmk20150518wordlist.tsv		
-490	mother's brother	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	opu	Mother's brother (opu lake) is most highly respected, as the provider of the mother (=life), and the person to whom belis is paid.  ; The kinship task also asks for this term	- o p u -	"(""mother's brother"", 'kola1287', 'gepar')"	datasets/lmhadmk20150518wordlist.tsv		
+490	mother's brother	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	opu	Mother's brother (opu lake) is most highly respected, as the provider of the mother (=life), and the person to whom belis is paid.  ; The kinship task also asks for this term	- o p u -	"(""mother's brother"", 'keda1252-leuba', 'epu')"	datasets/lmhadmk20150518wordlist.tsv		
 491	nephew; niece	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔanaʔ	opu (m), pɜraʔa (f) are wife's brother's children, bine? ?ana? (m) and wae (f) are husband's sister's children; The kinship task also asks for this term	ʔ a n a ʔ	('nephew; niece', 'lama1277-adona', 'ʔanaʔ')	datasets/lmhadmk20150518wordlist.tsv		
 492	older brother	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔariʔ	The kinship task also asks for this term	- - - ʔ a r - i ʔ -	('older brother', 'buna1278-bobon', 'khaɁa')	datasets/lmhadmk20150518wordlist.tsv		
 492	older brother	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kaka	The kinship task also asks for this term	k a k a	('older brother', 'lama1277-adona', 'kaka')	datasets/lmhadmk20150518wordlist.tsv		
@@ -561,7 +561,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 539	to rule or govern	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	pɜˈreta	nan	p ɜ ˈr e - t a - - -	"('to rule or govern', 'keda1252-leuba', ""pa'rɛnta"")"	datasets/lmhadmk20150518wordlist.tsv		
 540	treaty	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbaja	ɡlide; E.g. perjanjian antara dua suku untuk tidak berperang	ˈb a j a	('treaty', 'lama1277-adona', 'ˈbaja')	datasets/lmhadmk20150518wordlist.tsv		
 541	marriage	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	bɜrˈkaːt	nan	b ɜ r ˈk aː t	('marriage', 'lama1277-adona', 'bɜrˈkaːt')	datasets/lmhadmk20150518wordlist.tsv		
-542	friend	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈrɛu	nan	ˈr ɛu	('friend', 'lama1277-adona', 'ˈrɛu')	datasets/lmhadmk20150518wordlist.tsv		
+542	friend	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈrɛu	nan	ˈr ɛu	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/lmhadmk20150518wordlist.tsv		
 543	enemy	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈmusu	nan	ˈm u s u -	('enemy', 'lama1277-adona', 'ˈmusu')	datasets/lmhadmk20150518wordlist.tsv		
 544	king; ruler	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈraja	ɡlide	ˈr a - j a	('king; ruler', 'lama1277-adona', 'ˈraja')	datasets/lmhadmk20150518wordlist.tsv		
 545	stranger	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	muriˈke	nan	m u r i ˈk e	('stranger', 'lama1277-adona', 'muriˈke')	datasets/lmhadmk20150518wordlist.tsv		
@@ -570,12 +570,12 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 548	dowry	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈʔohɛ	nan	ˈʔ o h ɛ	('dowry', 'lama1277-adona', 'ˈʔohɛ')	datasets/lmhadmk20150518wordlist.tsv		
 549	the judge	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔolɛ̃ ˈkwadʒũ	nan	ʔ o l ɛ̃ _ ˈk w a d ʒ ũ	('the judge', 'lama1277-adona', 'ʔolɛ̃ ˈkwadʒũ')	datasets/lmhadmk20150518wordlist.tsv		
 550	accuse	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ʔɜˈwaʔ	nan	ʔ ɜ ˈw a ʔ	('accuse', 'lama1277-adona', 'ʔɜˈwaʔ')	datasets/lmhadmk20150518wordlist.tsv		
-551	guilty	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnalã	nan	- - ˈn a l ã -	"('guilty', 'alor1247-besar', ""'hala"")"	datasets/lmhadmk20150518wordlist.tsv		
+551	guilty	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnalã	nan	- - ˈn a l ã -	('guilty', 'lama1277-adona', 'ˈnalã')	datasets/lmhadmk20150518wordlist.tsv		
 552	innocent	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	nalã hɑlɑ	nan	n a l ã _ h ɑ l ɑ - -	"('innocent', 'alor1247-besar', ""'hala 'lahɛ"")"	datasets/lmhadmk20150518wordlist.tsv		
 553	the murder	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	belo ˈwɜkika	belo is to cut up	b e l o _ ˈw ɜ k i k a	('the murder', 'lama1277-adona', 'belo ˈwɜkika')	datasets/lmhadmk20150518wordlist.tsv		
 554	the adultery	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈbəluwo	Jika seseorang yg sudah menikah atau belum menikah berhubungan badan dengan orang yg bukan isteri/suaminya.	ˈb ə l u w o	('the adultery', 'lama1277-adona', 'ˈbəluwo')	datasets/lmhadmk20150518wordlist.tsv		
 555	penalty	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɜda	nan	ˈn ɜ d a	('penalty', 'lama1277-adona', 'ˈnɜda')	datasets/lmhadmk20150518wordlist.tsv		
-556	fishnet	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpukɜt	pukɜt is a lonɡ fish net, ala a small one	ˈp u k ɜ t	"('fishnet', 'alor1247-besar', ""'pukɔ"")"	datasets/lmhadmk20150518wordlist.tsv		
+556	fishnet	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpukɜt	pukɜt is a lonɡ fish net, ala a small one	ˈp u k ɜ t	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/lmhadmk20150518wordlist.tsv		
 556	fishnet	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ala	pukɜt is a lonɡ fish net, ala a small one	- a l a - - -	('fishnet', 'abui1241-takal', 'dälã')	datasets/lmhadmk20150518wordlist.tsv		
 557	to surrender	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	soʔoˈtaʔ	nan	s o ʔ o ˈt a ʔ	('to surrender', 'lama1277-adona', 'soʔoˈtaʔ')	datasets/lmhadmk20150518wordlist.tsv		
 558	to defend	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnɜtĩ	nan	- - - - - - ˈn ɜ t ĩ	"('to defend', 'alor1247-besar', ""'ʤaga"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -584,7 +584,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 560	poor	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡuru ˈɡipa	ɡuru ɡipa is old lanɡuaɡe	ɡ u r u _ ˈɡ i p a	('poor', 'lama1277-adona', 'ɡuru ˈɡipa')	datasets/lmhadmk20150518wordlist.tsv		
 561	rich	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kəˈwasa	nan	- - k ə ˈw a s a -	('rich', 'kama1365', 'kawasa')	datasets/lmhadmk20150518wordlist.tsv		
 562	money	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈdoi	nan	ˈd oi -	('money', 'lama1277-adona', 'ˈdoi')	datasets/lmhadmk20150518wordlist.tsv		
-563	market	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwulɜ	nan	ˈw u l ɜ -	('market', 'lama1277-adona', 'ˈwulɜ')	datasets/lmhadmk20150518wordlist.tsv		
+563	market	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwulɜ	nan	ˈw u l ɜ -	('market', 'keda1252-leuba', 'ul')	datasets/lmhadmk20150518wordlist.tsv		
 564	price	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwelĩ	nan	- ˈw e l ĩ -	"('price', 'alor1247-besar', ""'feliŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 565	to own	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡoˈʔẽ	nan	- - - - - - - ɡ o - ˈʔ ẽ -	"('to own', 'alor1247-besar', ""'go 'apa"")"	datasets/lmhadmk20150518wordlist.tsv		
 566	to borrow	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ɡɜˈnerĩː	nan	- ɡ ɜ ˈn - - e r ĩː	"('to borrow', 'alor1247-besar', ""'bihɛ"")"	datasets/lmhadmk20150518wordlist.tsv		
@@ -605,15 +605,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 580	to teach	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnuã	nan	- - - - - ˈn - - uã -	"('to teach', 'alor1247-besar', ""'aʤara"")"	datasets/lmhadmk20150518wordlist.tsv		
 581	easy	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpəlelɛt	nan	ˈp ə l e l ɛ t	('easy', 'lama1277-adona', 'ˈpəlelɛt')	datasets/lmhadmk20150518wordlist.tsv		
 582	difficult	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈtudak	nan	ˈt u d a k	('difficult', 'lama1277-adona', 'ˈtudak')	datasets/lmhadmk20150518wordlist.tsv		
-583	finished	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahak(a)	nan	ˈw a h a k ( a )	('finished', 'buna1278-bobon', 'haɁal')	datasets/lmhadmk20150518wordlist.tsv		
+583	finished	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈwahak(a)	nan	ˈw a h a k ( a )	('finished', 'lama1277-adona', 'ˈwahak(a)')	datasets/lmhadmk20150518wordlist.tsv		
 584	now	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈnhake ˈnhare	nan	ˈn h a k e _ ˈn h a r e	('now', 'lama1277-adona', 'ˈnhake ˈnhare')	datasets/lmhadmk20150518wordlist.tsv		
 585	hour	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈdahu	nan	ˈd a h u	('hour', 'lama1277-adona', 'ˈdahu')	datasets/lmhadmk20150518wordlist.tsv		
 586	same	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈhama	nan	- ˈh a m a -	('same', 'abui1241-takal', 'sä.mä')	datasets/lmhadmk20150518wordlist.tsv		
 587	oven/cooking place	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈlikat	nan	ˈl i k a t	('oven/cooking place', 'lama1277-adona', 'ˈlikat')	datasets/lmhadmk20150518wordlist.tsv		
-588	flower (in e.g. mangga tree)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpuhũ	nan	- - - - - ˈp u h ũ - - - - - - - - -	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/lmhadmk20150518wordlist.tsv		
+588	flower (in e.g. mangga tree)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈpuhũ	nan	- - - - - ˈp u h ũ - - - - - - - - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/lmhadmk20150518wordlist.tsv		
 589	vein	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	a:lˈhĩ	nan	- a: l - ˈh ĩ -	('vein', 'kabo1247', 'tərú')	datasets/lmhadmk20150518wordlist.tsv		
-590	long (stick)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈblaha	nan	ˈb l a h a	('long (stick)', 'lama1277-adona', 'ˈblaha')	datasets/lmhadmk20150518wordlist.tsv		
-590	long (stick)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	bɜlahɜˈa	nan	b ɜ l a h ɜ ˈa -	"('long (stick)', 'alor1247-baran', ""ba'lah:a"")"	datasets/lmhadmk20150518wordlist.tsv		
+590	long (stick)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈblaha	nan	ˈb l a h a	('far', 'sika1262-hewa', 'blaʋir')	datasets/lmhadmk20150518wordlist.tsv		
+590	long (stick)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	bɜlahɜˈa	nan	b ɜ l a h ɜ ˈa -	('far', 'sika1262-hewa', 'blaʋir')	datasets/lmhadmk20150518wordlist.tsv		
 591	tall (person)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	blɔʔˈlɔ̃	nan	b - l ɔ ʔ ˈl ɔ̃	('tall (person)', 'lama1277-adona', 'blɔʔˈlɔ̃')	datasets/lmhadmk20150518wordlist.tsv		
 592	short (stick)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	kɜʔˈrũ	nan	k ɜ ʔ - ˈr ũ	"('short (stick)', 'kema1243', ""'kɛtun"")"	datasets/lmhadmk20150518wordlist.tsv		
 593	narrow (road)	lama1277-adona	Lamaholot-Adonara	Austronesian	7Adonara	ˈkɛniʔ	kɜtɜke tiɡht (clothes); Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	- - ˈk ɛ n i ʔ - -	('narrow (road)', 'lama1277-adona', 'ˈkɛniʔ')	datasets/lmhadmk20150518wordlist.tsv		

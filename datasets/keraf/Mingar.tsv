@@ -14,7 +14,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Mingar.tsv	120. Batu 
 35	water (fresh)	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	waeru	nan	- w ae - - r u	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Mingar.tsv	122. Air 
 36	sea; sea water	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lewa	nan	l e w a - -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Mingar.tsv	127. Laut 
-39	forest	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ekapənət	nan	- - - e k a - p ə n ə t	('forest', 'lama1277-belan', 'eka maŋan')	datasets/keraf/Mingar.tsv	132. Hutan
+39	forest	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ekapənət	nan	- - - e k a - p ə n ə t	('forest', 'lama1277-lamal', 'eka pənət')	datasets/keraf/Mingar.tsv	132. Hutan
 45	road; path; way	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lalan	nan	l a l a n -	('road; path; way', 'lama1277-belan', 'lara')	datasets/keraf/Mingar.tsv	7. Jalan
 51	rope	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	fədak	nan	f ə d a k - -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Mingar.tsv	65. Tali
 65	clothing	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Mingar.tsv	68. Pakaian 
@@ -23,16 +23,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	əmutu	nan	- - - ə m u t u	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Mingar.tsv	15. Debu
 70	dust; fine earth	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kawok	nan	k - - a w o k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Mingar.tsv	151. Abu 
 75	sand	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bota	nan	b o t a -	('sand', 'keda1252-leuwa', 'buta')	datasets/keraf/Mingar.tsv	121. Pasir 
-76	grass; brush	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	rearu	nan	- - r ea r u - -	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/keraf/Mingar.tsv	118. Rumput 
+76	grass; brush	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	rearu	nan	- - r ea r u - -	('grass; brush', 'lama1277-minga', 'rearu')	datasets/keraf/Mingar.tsv	118. Rumput 
 84	tree	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kaju	nan	- k a - - j u - - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Mingar.tsv	110. Pohon 
 87	leaf	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lolo	nan	- - - - - l o l o -	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/keraf/Mingar.tsv	112. Daun 
 91	root	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ramut	nan	r a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Mingar.tsv	114. Akar 
 92	fruit	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	fuak	nan	- - - - - f - u - a k - -	('fruit', 'keda1252', 'wuan')	datasets/keraf/Mingar.tsv	117. Buah 
 93	seed	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kuluk	nan	k u l u k - -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/keraf/Mingar.tsv	115. Biji 
-95	flower	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	puŋa	nan	p u ŋ a - -	('flower', 'lama1277-belan', 'puŋa')	datasets/keraf/Mingar.tsv	116. Bunga 
+95	flower	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	puŋa	nan	p u ŋ a - -	('flower', 'abui1241-fuime', 'kiki')	datasets/keraf/Mingar.tsv	116. Bunga 
 129	salt	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	iraru	nan	- i r a r u	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Mingar.tsv	128. Garam 
 130	fat	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	fojak	nan	f o - - j a k - -	('fat', 'lama1277-baipi', 'wora')	datasets/keraf/Mingar.tsv	104. Lemak 
-131	flesh; meat	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	eləm	nan	- - - e l ə m	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Mingar.tsv	103. Daging 
+131	flesh; meat	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	eləm	nan	- - - e l ə m	('flesh; meat', 'lama1277-imulo', 'elam')	datasets/keraf/Mingar.tsv	103. Daging 
 132	bone	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	riuk	nan	- - - r iu - - k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Mingar.tsv	19. Tulang
 136	blood	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	səmei	nan	s ə m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Mingar.tsv	26. Darah
 138	heart	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	puo	nan	- p uo - - - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Mingar.tsv	22. Jantung
@@ -46,8 +46,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	nusa	nan	- n u s a - - - - - -	('mouth', 'keda1252', 'nunu')	datasets/keraf/Mingar.tsv	33. Mulut
 155	tongue	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	efel	nan	- e f e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Mingar.tsv	35. Lidah
 156	neck	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	fule	nan	f u l e - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Mingar.tsv	28. Leher
-164	hand	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	limasa	nan	- - - - - l i m a - - s a - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Mingar.tsv	1. Tangan
-175	foot	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lijesa	nan	l i - j e s a - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Mingar.tsv	4. Kaki
+164	hand	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	limasa	nan	- - - - - l i m a - - s a - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Mingar.tsv	1. Tangan
+175	foot	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lijesa	nan	l i - j e s a - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Mingar.tsv	4. Kaki
 179	back	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kətubəsa	nan	k ə t u b ə - - s a	('back', 'lama1277-horow', 'kənuwənək')	datasets/keraf/Mingar.tsv	17. Punggung
 182	skin	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kamak	nan	k a m a k - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Mingar.tsv	16. Kulit
 190	person	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	atadikə	nan	a t a d i k ə - -	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Mingar.tsv	53. Orang
@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 194	woman	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	gəraporu	nan	g ə r a p o r u	('woman', 'lama1277-imulo', 'gərapor')	datasets/keraf/Mingar.tsv	55. Wanita
 195	husband	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	analaki	nan	- - - - a n a - l a k - - - i - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Mingar.tsv	57. Suami
 196	wife	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	gərapu	nan	g ə r a p u	('wife', 'lama1277-lewop', 'gərapu')	datasets/keraf/Mingar.tsv	58. Isteri
-197	mother	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Mingar.tsv	59. Ibu
+197	mother	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'keda1252', 'ine')	datasets/keraf/Mingar.tsv	59. Ibu
 198	father	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ama	nan	- - a m a - -	('father', 'keda1252', 'ame')	datasets/keraf/Mingar.tsv	60. Bapak
 199	older sibling	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Mingar.tsv	61. Kakak
 200	younger sibling	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	waji	nan	w a j i - - - - - - - - - -	"('younger sibling', 'alor1247-besar', ""'ariŋ"")"	datasets/keraf/Mingar.tsv	62. Adik
@@ -93,10 +93,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 262	feather	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	rafuk	nan	- - - - r a - f u k - -	('feather', 'lama1277-adona', 'ˈrawuke')	datasets/keraf/Mingar.tsv	99. Bulu 
 264	snake	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ularu	nan	- - u l a r - - - - u -	"('snake', 'alor1247-baran', ""ʔu'la"")"	datasets/keraf/Mingar.tsv	106. Ular 
 266	egg	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	təluk	nan	- - - - - - - t ə l u k - -	"('egg', 'alor1247-baran', ""'taluk"")"	datasets/keraf/Mingar.tsv	98. Telur 
-279	louse (clothing)	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kutoru	nan	k u t o r u	('louse (clothing)', 'lama1277-baipi', 'kuto')	datasets/keraf/Mingar.tsv	108. Kutu 
+279	louse (clothing)	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kutoru	nan	k u t o r u	('louse (clothing)', 'keda1252', 'utuʔ')	datasets/keraf/Mingar.tsv	108. Kutu 
 281	big	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kedak	nan	k e d a - - k - - - -	('big', 'keda1252-leuwa', 'kεdεŋ kεnaʔ')	datasets/keraf/Mingar.tsv	158. Besar 
 282	small	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bəluit	nan	b ə l ui t	('small', 'lama1277-lewuk', 'bənut')	datasets/keraf/Mingar.tsv	157. Kecil 
-284	new (house)	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	wəru	nan	w ə r u - -	('new (house)', 'lama1277-belan', 'wu')	datasets/keraf/Mingar.tsv	167. Baru 
+284	new (house)	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	wəru	nan	w ə r u - -	('new (house)', 'keda1252', 'werun')	datasets/keraf/Mingar.tsv	167. Baru 
 288	hot	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kati	nan	k - - a t i - - -	('hot', 'lama1277-imulo', 'kat')	datasets/keraf/Mingar.tsv	142. Panas 
 289	cold	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lətəs	nan	- - - - l ə t ə - - - - - s - - - -	('cold', 'abui1241-fuime', 'palata')	datasets/keraf/Mingar.tsv	143. Dingin 
 290	good	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	məla	nan	m ə - l - - a	('good', 'lama1277-adona', 'ˈmɜʔlaʔ')	datasets/keraf/Mingar.tsv	168. Baik 
@@ -105,7 +105,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 295	far	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	doek	nan	- - - - d - - oe - - k	"('far', 'alor1247-baran', ""'ʤuaŋ"")"	datasets/keraf/Mingar.tsv	182. Jauh 
 296	wet	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	sənəbar	nan	s ə n ə b a r - -	('wet', 'lama1277-belan', 'səba')	datasets/keraf/Mingar.tsv	145. Basah 
 297	dry	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	majak	nan	- m a - - j a k - - - - -	"('dry', 'alor1247-baran', ""'mara"")"	datasets/keraf/Mingar.tsv	144. Kering 
-299	long	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bəlamik	nan	b ə l a m i k - -	('long', 'lama1277-bama', 'bəlaha')	datasets/keraf/Mingar.tsv	160. Panjang 
+299	long	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bəlamik	nan	b ə l a m i k - -	('far', 'sika1262-hewa', 'blaʋir')	datasets/keraf/Mingar.tsv	160. Panjang 
 301	short	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	pəjok	nan	p ə j o k - -	('short', 'lama1277-bama', 'lere')	datasets/keraf/Mingar.tsv	159. Pendek 
 303	thin (non-human)	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bəlitis	nan	b ə l i - - t i s	('thin (non-human)', 'lama1277-baipi', 'mənipi')	datasets/keraf/Mingar.tsv	161. Tipis 
 305	thick	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	pənəŋe	nan	p ə n - - ə ŋ e -	('thick', 'lama1277-belan', 'pəŋe')	datasets/keraf/Mingar.tsv	162. Tebal 
@@ -115,13 +115,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 313	heavy	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bəra	nan	- - - b - - ə r a - - - - - - -	('heavy', 'alor1247-baran', 'ba:')	datasets/keraf/Mingar.tsv	147. Berat 
 315	straight	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	mulur	nan	- - m u l u r - -	('straight', 'abui1241-fuime', 'mulaŋ')	datasets/keraf/Mingar.tsv	165. Lurus 
 316	wide	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	pəlawat	nan	p - - ə l a - w a t - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Mingar.tsv	164. Luas 
-317	narrow	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kipo	nan	k - - - - i p o - - -	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Mingar.tsv	163. Sempit 
+317	narrow	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kipo	nan	k - - - - i p o - - -	('narrow', 'keda1252', 'i̤pe')	datasets/keraf/Mingar.tsv	163. Sempit 
 321	rotten	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	fukɤ	nan	f u k ɤ -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Mingar.tsv	111. Busuk 
-326	flat	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lerek	nan	l e r - e - - k - -	('flat', 'lama1277-belan', 'lere')	datasets/keraf/Mingar.tsv	146. Rata 
+326	flat	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lerek	nan	l e r - e - - k - -	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Mingar.tsv	146. Rata 
 329	black	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	mitəmə	nan	- m i - - t ə m ə - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Mingar.tsv	152. Hitam 
-330	white	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bujakɤ	nan	- - - b u j a - - - - k ɤ - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Mingar.tsv	153. Putih 
+330	white	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bujakɤ	nan	- - - b u j a - - - - k ɤ - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Mingar.tsv	153. Putih 
 331	red	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	merau	nan	m e r au - - -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Mingar.tsv	154. Merah 
-332	green	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	pələm	nan	p ə l ə m	('green', 'lama1277-minga', 'pələm')	datasets/keraf/Mingar.tsv	156. Hijau 
+332	green	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	pələm	nan	p ə l ə m	"('blue', 'alor1247-besar', ""pa'helɛŋ"")"	datasets/keraf/Mingar.tsv	156. Hijau 
 334	yellow	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kumas	nan	k - - u m - - a s	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Mingar.tsv	155. Kuning 
 341	scared	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kərui	nan	k ə r ui - - -	('scared', 'lama1277-belan', 'kərui')	datasets/keraf/Mingar.tsv	25. Takut
 343	to see	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	bəlele	nan	b ə l - - e l e	('to see', 'alor1249-sar-a', 'bil')	datasets/keraf/Mingar.tsv	48. Melihat
@@ -180,18 +180,18 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 430	to squeeze	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	gəmikut	nan	g ə m i k u t	('to squeeze', 'lama1277-minga', 'gəmikut')	datasets/keraf/Mingar.tsv	88. Memeras 
 441	to bark	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kajukamak	nan	k a j u - - k a - m - a k - -	('to bark', 'lama1277-baipi', 'kajo kulit')	datasets/keraf/Mingar.tsv	113. Kulit kayu
 442	to shoot	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	pasak	nan	p a s a k	('to shoot', 'keda1252', 'pasaʔ')	datasets/keraf/Mingar.tsv	70. Menembak 
-601	footprint	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lijesa or	nan	l i j e s a - _ - - o r - -	('footprint', 'lama1277-bama', 'makat')	datasets/keraf/Mingar.tsv	5. Kaki
+601	footprint	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	lijesa or	nan	l i j e s a - _ - - o r - -	('footprint', 'lama1277-imulo', 'linəsa or')	datasets/keraf/Mingar.tsv	5. Kaki
 603	return	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	tue	nan	- - t ue - - - - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Mingar.tsv	9. Balik
 606	stomach	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kəbotisa	nan	- - k ə - - - - - b o t - i s a	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Mingar.tsv	20. Isi perut
 607	tooth	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	ipã	nan	i - p ã - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Mingar.tsv	34. Gigi
-609	fist	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	tadu	nan	t a d u - -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Mingar.tsv	72. Bertinju 
+609	fist	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	tadu	nan	t a d u - -	('fist', 'lama1277-bama', 'sadok')	datasets/keraf/Mingar.tsv	72. Bertinju 
 612	stem	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	puk	nan	p u - - k - -	('stem', 'lama1277-baipi', 'pukən')	datasets/keraf/Mingar.tsv	79. Batang 
 614	swollen	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	kəbetɤ	nan	k - - - - ə b e t ɤ - -	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Mingar.tsv	87. Bengkak
 618	worm	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	salafalak	nan	s a l a f a l a k -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Mingar.tsv	107. Cacing 
 625	dew	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	apu	nan	a p u - -	('dew', 'lama1277-baipi', 'apu')	datasets/keraf/Mingar.tsv	137. Embun 
 629	old	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	tənəras	nan	t ə n ə r a s - - -	('old', 'lama1277-baipi', 'tənue')	datasets/keraf/Mingar.tsv	166. Tua 
 631	right, correct	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	namui	nan	- n a - - - m ui - -	('right, correct', 'lama1277-baipi', 'mu')	datasets/keraf/Mingar.tsv	170. Betul 
-633	in	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	fəli	nan	f ə - - l i	('in', 'lama1277-baipi', 'di')	datasets/keraf/Mingar.tsv	175. Di 
+633	in	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	fəli	nan	f ə - - l i	('in', 'lama1277-lewoe', 'wəli')	datasets/keraf/Mingar.tsv	175. Di 
 634	inside	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	gomək	nan	- - g o m ə k - -	('inside', 'lama1277-baipi', 'bəlomə')	datasets/keraf/Mingar.tsv	176. Dalam 
 641	other	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	wisa	nan	w i s a - - -	('other', 'lama1277-baipi', 'geha')	datasets/keraf/Mingar.tsv	192. Lain
 642	some	lama1277-minga	Lamaholot-Mingar	Austronesian	8Lembata	pira	nan	- - - - p i r a	('some', 'lama1277-baipi', 'bopira')	datasets/keraf/Mingar.tsv	193. Beberapa 

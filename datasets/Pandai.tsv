@@ -10,13 +10,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 7	morning	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'wura	nan	'w u r a - - - -	"('morning', 'alor1247-besar', ""fu'ra-fu'ra"")"	datasets/Pandai.tsv		
 8	yesterday	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'wiaŋ	nan	- - 'w ia ŋ	"('yesterday', 'alor1247-besar', ""'fiaŋ"")"	datasets/Pandai.tsv		
 9	day before yesterday	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ɛrua 'hele	nan	'ɛ r ua _ 'h e l e	"('day before yesterday', 'alor1247-besar', ""'ɛrua 'neka"")"	datasets/Pandai.tsv		
-10	tomorrow	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'bau	nan	'b au - - -	"('tomorrow', 'alor1247-besar', ""'bou"")"	datasets/Pandai.tsv		
+10	tomorrow	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'bau	nan	'b au - - -	('morning', 'lama1277-kalik', 'baˈɛn')	datasets/Pandai.tsv		
 11	day after tomorrow	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ɛrua 	nan	- 'ɛ r ua _ - -	"('day after tomorrow', 'alor1247-besar', ""'ɛrua "")"	datasets/Pandai.tsv		
 12	twilight; dawn	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'subu	nan	's u b u	"('twilight; dawn', 'alor1247-pandai', ""'subu"")"	datasets/Pandai.tsv		
 12	twilight; dawn	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'manu 'kɔkɔŋ	literally 'chicken crows'	'm a n u _ 'k ɔ k ɔ ŋ	"('twilight; dawn', 'alor1247-pandai', ""'manu 'kɔkɔŋ"")"	datasets/Pandai.tsv		
 12	twilight; dawn	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ɛkaŋ 'dahek	nan	- 'ɛ k a ŋ _ 'd a h e - - - - - - - k	"('twilight; dawn', 'alor1247-besar', ""'ɛkaŋ 'dahɛ ta'ranaŋ"")"	datasets/Pandai.tsv		
 13	cloud	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'awaŋ	nan	'a w a ŋ	"('cloud', 'alor1247-pandai', ""'awaŋ"")"	datasets/Pandai.tsv		
-13	cloud	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'sapːu	I don't know what this word means, probably another word for cloud	's a pː u - -	('cloud', 'abui1241-fuime', 'kabuti')	datasets/Pandai.tsv		
+13	cloud	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'sapːu	I don't know what this word means, probably another word for cloud	's a pː u - -	('clothing', 'lama1277-kalik', 'məˈkaŋ-a')	datasets/Pandai.tsv		
 14	wind	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'aŋiŋ	nan	- - 'a ŋ - - i ŋ - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/Pandai.tsv		
 15	rain	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'uraŋ	nan	- - 'u - r a ŋ - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/Pandai.tsv		
 16	drizzle	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'uraŋ 'rɛrɛ	nan	'u r a ŋ _ 'r ɛ r ɛ - - -	"('drizzle', 'alor1247-munas', ""'uraŋ 'brɛhak"")"	datasets/Pandai.tsv		
@@ -26,7 +26,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 19	lightning	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'hila 'biloŋ	nan	- - - 'h i l a - - - _ 'b i - - l o ŋ	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/Pandai.tsv		
 20	earthquake	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'tana 'otaŋ	literally 'earth shake'	- 't a n a _ 'o t - a ŋ	"('earthquake', 'alor1247-besar', ""'tana 'ɔʤaŋ"")"	datasets/Pandai.tsv		
 20	earthquake	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ɛkaŋ 'otaŋ	literally 'place shake'	'ɛ k a ŋ - _ 'o t - a ŋ	"('earthquake', 'alor1247-besar', ""'tana 'ɔʤaŋ"")"	datasets/Pandai.tsv		
-21	fog	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ɛkaŋ 'lu	nan	'ɛ k a ŋ _ 'l u	"('fog', 'alor1247-pandai', ""'ɛkaŋ 'lu"")"	datasets/Pandai.tsv		
+21	fog	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ɛkaŋ 'lu	nan	'ɛ k a ŋ _ 'l u	('cloud', 'sika1262-maume', 'klu')	datasets/Pandai.tsv		
 22	river; stream	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'alu	nan	- 'a l u -	('river; stream', 'abui1241-fuime', 'lu')	datasets/Pandai.tsv		
 23	ice	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ɛs	nan	'ɛ s	"('ice', 'alor1247-pandai', ""'ɛs"")"	datasets/Pandai.tsv		
 24	snow	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'salʤu	nan	's a l ʤ - u	('snow', 'alor1247-baran', 'salʤu')	datasets/Pandai.tsv		
@@ -92,7 +92,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 75	sand	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ane	nan	- - 'a n e - - - - -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/Pandai.tsv		
 75	sand	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'anːe	nan	- - 'a nː e - - - - -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/Pandai.tsv		
 76	grass; brush	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'laduŋ	nan	- - - 'l a d u ŋ	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/Pandai.tsv		
-77	house	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'uma	nan	- - 'u m a -	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/Pandai.tsv		
+77	house	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'uma	nan	- - 'u m a -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/Pandai.tsv		
 78	traditional house	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'uma 'adat	nan	'u m a _ - 'a d a t -	"('traditional house', 'alor1247-besar', ""'uma 'hada"")"	datasets/Pandai.tsv		
 78	traditional house	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'kɔkɔr	nan	'k ɔ k ɔ r	"('traditional house', 'alor1247-pandai', ""'kɔkɔr"")"	datasets/Pandai.tsv		
 79	barn; storage house	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	mə'nɔhi	nan	m ə 'n ɔ h i	"('barn; storage house', 'alor1247-pandai', ""'nɔhi"")"	datasets/Pandai.tsv		
@@ -116,7 +116,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 90	rattan	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'lua	nan	'l ua - - - -	('rattan', 'adan1251-lawah', 'lɛʔ')	datasets/Pandai.tsv		
 91	root	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ramu	nan	- - - 'r a m u -	"('root', 'alor1247-baran', ""'ramuk"")"	datasets/Pandai.tsv		
 92	fruit	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'ihik	nan	'i h i k - -	"('fruit', 'alor1247-besar', ""i'hikiŋ"")"	datasets/Pandai.tsv		
-92	fruit	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'punak	nan	'p u n a k - - - - - - - -	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/Pandai.tsv		
+92	fruit	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'punak	nan	'p u n a k - - - - - - - -	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/Pandai.tsv		
 93	seed	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'kuluŋ	nan	'k u l u ŋ - -	"('seed', 'alor1247-baran', ""'kuluŋ"")"	datasets/Pandai.tsv		
 94	grain; cereal	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'parɛ	nan	- 'p a - - r ɛ - - -	"('grain; cereal', 'alor1247-besar', ""'pari"")"	datasets/Pandai.tsv		
 94	grain; cereal	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'apa	rice grains with skin	'a p a - - - - - - -	"('grain; cereal', 'alor1247-besar', ""'pari"")"	datasets/Pandai.tsv		
@@ -197,8 +197,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 162	cheek	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'pipiŋ	nan	- 'p i p i ŋ	"('cheek', 'alor1247-besar', ""'pipiŋ"")"	datasets/Pandai.tsv		
 163	arm	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'limaŋ	nan	- 'l i m a - - - - ŋ	"('arm', 'alor1247-baran', ""'limaŋ"")"	datasets/Pandai.tsv		
 164	hand	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'limaŋ	nan	- - - - - 'l i m a - - ŋ - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/Pandai.tsv		
-165	palm of hand	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'limaŋ 'ɔnɔŋ	nan	'l i m a ŋ - - - - - - - _ - 'ɔ n ɔ ŋ	"('palm of hand', 'alor1247-besar', ""'limaŋ 'ɔnɔŋ"")"	datasets/Pandai.tsv		
-165	palm of hand	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'limaŋ p'lawak 'lɔlɔŋ	nan	'l i m a ŋ _ p 'l a w a k _ 'l ɔ l ɔ ŋ	"('palm of hand', 'alor1247-besar', ""'limaŋ 'ɔnɔŋ"")"	datasets/Pandai.tsv		
+165	palm of hand	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'limaŋ 'ɔnɔŋ	nan	'l i m a ŋ - - - - - - - _ - 'ɔ n ɔ ŋ	('footprint', 'lama1277-mulan', 'lei onã')	datasets/Pandai.tsv		
+165	palm of hand	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'limaŋ p'lawak 'lɔlɔŋ	nan	'l i m a ŋ _ p 'l a w a k _ 'l ɔ l ɔ ŋ	('footprint', 'keda1252', 'lei laleŋ')	datasets/Pandai.tsv		
 166	finger	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'limaŋ numak	nan	- - 'l i m a ŋ _ n u m a k - -	"('finger', 'alor1247-besar', ""kalu'makaŋ"")"	datasets/Pandai.tsv		
 167	fingernail	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'nuŋgul	nan	- - - - 'n - u ŋ g u l - -	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/Pandai.tsv		
 168	breast	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'tuhɔ	nan	- 't u h ɔ - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/Pandai.tsv		
@@ -208,7 +208,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 171	penis	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'lahak	nan	'l a h a k - -	"('penis', 'alor1247-besar', ""la'hakaŋ"")"	datasets/Pandai.tsv		
 172	vagina	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'pukiŋ	nan	- 'p u k i ŋ	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	datasets/Pandai.tsv		
 173	testicles	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'lahak 'kuluŋ	nan	- 'l a h a k - - _ 'k u l - - u ŋ	"('testicles', 'alor1247-besar', ""la'hakaŋ ku'lukuŋ"")"	datasets/Pandai.tsv		
-174	leg	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'leiŋ	nan	'l - - ei ŋ -	"('leg', 'alor1247-baran', ""'leiŋ"")"	datasets/Pandai.tsv		
+174	leg	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'leiŋ	nan	'l - - ei ŋ -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Pandai.tsv		
 175	foot	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'leiŋ	nan	'l e i ŋ - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/Pandai.tsv		
 176	heel of foot	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'leiŋ 'udek	nan	'l ei ŋ _ 'u d e k	"('heel of foot', 'alor1247-besar', ""'leiŋ 'ubɔŋ"")"	datasets/Pandai.tsv		
 177	sole of foot	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'leiŋ 'ɔnɔŋ	nan	'l - - ei ŋ _ - 'ɔ n - ɔ ŋ	"('sole of foot', 'alor1247-besar', ""'leiŋ 'ɔnɔŋ"")"	datasets/Pandai.tsv		
@@ -235,7 +235,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	k'lake	nan	k - - - - - - 'l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/Pandai.tsv		
 194	woman	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	k'wae	nan	- k - - - - - - - 'w ae	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/Pandai.tsv		
 195	husband	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	k'lake	nan	- - k - - - - - 'l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/Pandai.tsv		
-196	wife	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	k'wae	nan	- - - k - - - 'w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/Pandai.tsv		
+196	wife	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	k'wae	nan	- - - k - - - 'w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/Pandai.tsv		
 197	mother	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'nina	nan	- 'n i n a	('mother', 'abui1241-fuime', 'nija')	datasets/Pandai.tsv		
 198	father	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'mama	nan	- - 'm a m a - - - -	('father', 'abui1241-fuime', 'mama')	datasets/Pandai.tsv		
 199	older sibling	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'tata	nan	- - 't - - a - - - - - t a -	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	datasets/Pandai.tsv		
@@ -413,7 +413,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 327	smooth	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'mɛmɛŋ	nan	- - 'm ɛ - - - m ɛ ŋ	"('smooth', 'alor1247-besar', ""ha'melu"")"	datasets/Pandai.tsv		
 328	rough	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'bɔgal	nan	'b ɔ g a l	"('rough', 'alor1247-munas', ""'bogal"")"	datasets/Pandai.tsv		
 329	black	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'mitɛŋ	nan	- - 'm i - t ɛ - - ŋ - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Pandai.tsv		
-330	white	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'burak	nan	- - - 'b u r a - - - - k - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/Pandai.tsv		
+330	white	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'burak	nan	- - - 'b u r a - - - - k - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/Pandai.tsv		
 331	red	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'meaŋ	nan	- 'm ea - - ŋ	"('red', 'alor1247-baran', ""'mɛã"")"	datasets/Pandai.tsv		
 332	green	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'idʒɔŋ	nan	- 'i d ʒ ɔ ŋ -	"('green', 'alor1247-besar', ""'iʤɔŋ"")"	datasets/Pandai.tsv		
 333	blue	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'taŋaŋ	nan	- 't a ŋ a ŋ	"('blue', 'alor1247-munas', ""'idʒɔŋ"")"	datasets/Pandai.tsv		
@@ -724,7 +724,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 554	the adultery	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'laka 'gawe	nan	'l a k a - - _ - - 'g a w e	"('the adultery', 'alor1247-pandai', ""'gawe 'laka"")"	datasets/Pandai.tsv		
 555	penalty	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'pate 	nan	'p a t e _ - - - -	"('penalty', 'alor1247-besar', ""'pate 'hala"")"	datasets/Pandai.tsv		
 555	penalty	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	dan'da	nan	d a n 'd a	"('penalty', 'alor1247-pandai', ""dan'da"")"	datasets/Pandai.tsv		
-556	fishnet	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'pukɔ	nan	'p u k ɔ -	"('fishnet', 'alor1247-besar', ""'pukɔ"")"	datasets/Pandai.tsv		
+556	fishnet	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'pukɔ	nan	'p u k ɔ -	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/Pandai.tsv		
 557	to surrender	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'sɔmba	nan	's ɔ - - m - b a -	"('to surrender', 'alor1247-besar', ""'ampɔ"")"	datasets/Pandai.tsv		
 558	to defend	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'likɔ	nan	- - - - 'l i k ɔ - -	"('to defend', 'alor1247-besar', ""'ʤaga"")"	datasets/Pandai.tsv		
 559	the war or battle	alor1247-pandai	Alorese-Pandai	Austronesian	1Pantar, 2East	'nuhɔ	nan	'n u h ɔ - - - - - -	"('the war or battle', 'alor1247-munas', ""'nuhɔ 'kataŋ"")"	datasets/Pandai.tsv		

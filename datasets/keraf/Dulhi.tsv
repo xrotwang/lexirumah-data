@@ -2,7 +2,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 0	sky	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kələŋ	nan	k ə l - ə ŋ - - - - -	('sky', 'kama1365', 'deliŋ')	datasets/keraf/Dulhi.tsv	133. Langit 
 1	sun	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ləra	nan	l ə r - - - - - a -	"('sun', 'alor1247-baran', ""la'ra"")"	datasets/keraf/Dulhi.tsv	134. Matahari 
 3	star	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	etəp	nan	- - e - t - - - ə p - -	"('star', 'alor1247-baran', ""ta'mala"")"	datasets/keraf/Dulhi.tsv	135. Bintang 
-4	night	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	rəmã	nan	r ə m ã - - -	('night', 'lama1277-adona', 'ˈrɜmaʔ')	datasets/keraf/Dulhi.tsv	171. Malam 
+4	night	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	rəmã	nan	r ə m ã - - -	('day after tomorrow', 'lama1277-kalik', 'ˈʤəma ˈʤua')	datasets/keraf/Dulhi.tsv	171. Malam 
 5	day	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	rərõ	nan	- - - - - - - - - - - r ə r õ - - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/keraf/Dulhi.tsv	173. Hari 
 6	year	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	tuŋ	nan	- t u - ŋ - - - -	('year', 'abui1241-petle', 'tuŋ')	datasets/keraf/Dulhi.tsv	172. Tahun 
 13	cloud	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kowa	nan	k o w a - -	('cloud', 'abui1241-fuime', 'kabuti')	datasets/keraf/Dulhi.tsv	136. Awan 
@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Dulhi.tsv	120. Batu 
 35	water (fresh)	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Dulhi.tsv	122. Air 
 36	sea; sea water	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	tahik	nan	t a h i k -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Dulhi.tsv	127. Laut 
-39	forest	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	rukʔã	nan	r u k - - - ʔ ã	('forest', 'lama1277-botun', 'rukʔã')	datasets/keraf/Dulhi.tsv	132. Hutan
+39	forest	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	rukʔã	nan	r u k - - - ʔ ã	"('forest', 'lama1277-adona', ""'ruːkʔãː"")"	datasets/keraf/Dulhi.tsv	132. Hutan
 45	road; path; way	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	rarã	nan	- r a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Dulhi.tsv	7. Jalan
 51	rope	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Dulhi.tsv	65. Tali
 65	clothing	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Dulhi.tsv	68. Pakaian 
@@ -24,7 +24,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	əmut	nan	- - - ə m u t -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Dulhi.tsv	15. Debu
 70	dust; fine earth	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kawuk	nan	k - - a w u k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Dulhi.tsv	151. Abu 
 75	sand	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wəra	nan	w ə r a - -	('sand', 'lama1277-baipi', 'wəra')	datasets/keraf/Dulhi.tsv	121. Pasir 
-76	grass; brush	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	luʔo	nan	- - l u ʔ o - -	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/keraf/Dulhi.tsv	118. Rumput 
+76	grass; brush	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	luʔo	nan	- - l u ʔ o - -	('grass; brush', 'lama1277-bama', 'luʔo')	datasets/keraf/Dulhi.tsv	118. Rumput 
 84	tree	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	karo	nan	- k a - - r o - - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Dulhi.tsv	110. Pohon 
 87	leaf	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	lolo	nan	- - - - - l o l o -	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/keraf/Dulhi.tsv	112. Daun 
 91	root	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ramut	nan	r a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Dulhi.tsv	114. Akar 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Dulhi.tsv	116. Bunga 
 129	salt	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Dulhi.tsv	128. Garam 
 130	fat	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kənaha	nan	k ə n a h a - - -	('fat', 'lama1277-baipi', 'wora')	datasets/keraf/Dulhi.tsv	104. Lemak 
-131	flesh; meat	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	əwã	nan	ə w ã	('flesh; meat', 'lama1277-dulhi', 'əwã')	datasets/keraf/Dulhi.tsv	103. Daging 
+131	flesh; meat	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	əwã	nan	ə w ã	('animal', 'keda1252', 'ewaŋ')	datasets/keraf/Dulhi.tsv	103. Daging 
 132	bone	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	riʔũ	nan	- - - r i ʔ ũ - - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Dulhi.tsv	19. Tulang
 136	blood	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Dulhi.tsv	26. Darah
 138	heart	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Dulhi.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wəwat	nan	w ə w a - - t	('mouth', 'atim1239', 'tawa')	datasets/keraf/Dulhi.tsv	33. Mulut
 155	tongue	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wewen	nan	w e w e n - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Dulhi.tsv	35. Lidah
 156	neck	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wuliŋ	nan	w u l i ŋ -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Dulhi.tsv	28. Leher
-164	hand	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Dulhi.tsv	1. Tangan
-175	foot	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	leĩ	nan	l e ĩ - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Dulhi.tsv	4. Kaki
+164	hand	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Dulhi.tsv	1. Tangan
+175	foot	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	leĩ	nan	l e ĩ - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Dulhi.tsv	4. Kaki
 179	back	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	uhuk	nan	u h u k - -	('back', 'keda1252-leuwa', 'u̘hur')	datasets/keraf/Dulhi.tsv	17. Punggung
 182	skin	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kamʔa	nan	k a m - - ʔ a -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Dulhi.tsv	16. Kulit
 190	person	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	atadikã	nan	a - t a d i k - ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Dulhi.tsv	53. Orang
@@ -57,8 +57,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	amalake	nan	- a m a - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Dulhi.tsv	54. Laki-laki
 194	woman	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	inawae	nan	- i n a - w ae	('woman', 'lama1277-bama', 'inawae')	datasets/keraf/Dulhi.tsv	55. Wanita
 195	husband	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kəlake	nan	- - k - - - ə - l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Dulhi.tsv	57. Suami
-196	wife	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Dulhi.tsv	58. Isteri
-197	mother	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Dulhi.tsv	59. Ibu
+196	wife	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Dulhi.tsv	58. Isteri
+197	mother	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'keda1252', 'ine')	datasets/keraf/Dulhi.tsv	59. Ibu
 198	father	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ama	nan	- - a m a - -	('father', 'keda1252', 'ame')	datasets/keraf/Dulhi.tsv	60. Bapak
 199	older sibling	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Dulhi.tsv	61. Kakak
 200	younger sibling	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	arik	nan	- a r i - - - - - - k - - -	"('younger sibling', 'alor1247-besar', ""'ariŋ"")"	datasets/keraf/Dulhi.tsv	62. Adik
@@ -94,10 +94,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 262	feather	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	rawuk	nan	- - - - r a - w u k - -	('feather', 'lama1277-adona', 'ˈrawuke')	datasets/keraf/Dulhi.tsv	99. Bulu 
 264	snake	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ulaʔ	nan	- - u l a ʔ - - - - - -	"('snake', 'alor1247-baran', ""ʔu'la"")"	datasets/keraf/Dulhi.tsv	106. Ular 
 266	egg	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	təlʔũ	nan	- - - - - - - t ə l - ʔ ũ -	"('egg', 'alor1247-baran', ""'taluk"")"	datasets/keraf/Dulhi.tsv	98. Telur 
-279	louse (clothing)	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'lama1277-baipi', 'kuto')	datasets/keraf/Dulhi.tsv	108. Kutu 
+279	louse (clothing)	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'keda1252', 'utuʔ')	datasets/keraf/Dulhi.tsv	108. Kutu 
 281	big	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	belã	nan	b e l - - - ã - -	"('big', 'alor1247-besar', ""'beiŋ"")"	datasets/keraf/Dulhi.tsv	158. Besar 
 282	small	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kusʔã	nan	- k u s - - - ʔ ã -	('small', 'abui1241-fuime', 'kdiŋ')	datasets/keraf/Dulhi.tsv	157. Kecil 
-284	new (house)	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'lama1277-baipi', 'wuʔũ')	datasets/keraf/Dulhi.tsv	167. Baru 
+284	new (house)	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'keda1252', 'werun')	datasets/keraf/Dulhi.tsv	167. Baru 
 288	hot	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	pəlate	nan	p ə l a t e -	"('hot', 'alor1247-baran', ""pa'latiŋ"")"	datasets/keraf/Dulhi.tsv	142. Panas 
 289	cold	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	gələtəŋ	nan	- g ə - l ə t - - - - - - - ə - - ŋ	('cold', 'abui1241-fuime', 'palata')	datasets/keraf/Dulhi.tsv	143. Dingin 
 290	good	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	məlaʔ	nan	m ə - l a ʔ -	('good', 'lama1277-adona', 'ˈmɜʔlaʔ')	datasets/keraf/Dulhi.tsv	168. Baik 
@@ -106,7 +106,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 295	far	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	doã	nan	- - - - d - - oã - - -	"('far', 'alor1247-baran', ""'ʤuaŋ"")"	datasets/keraf/Dulhi.tsv	182. Jauh 
 296	wet	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	nəme	nan	- - n ə m - e -	('wet', 'lama1277-baipi', 'kədəmu')	datasets/keraf/Dulhi.tsv	145. Basah 
 297	dry	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	mara	nan	- m a - - r - - - - a - -	"('dry', 'alor1247-baran', ""'mara"")"	datasets/keraf/Dulhi.tsv	144. Kering 
-299	long	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	bəlahã	nan	b ə l a - h - - ã -	"('long', 'alor1247-besar', ""bəla'hakaŋ"")"	datasets/keraf/Dulhi.tsv	160. Panjang 
+299	long	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	bəlahã	nan	b ə l a - h - - ã -	('far', 'sika1262-hewa', 'blaʋir')	datasets/keraf/Dulhi.tsv	160. Panjang 
 301	short	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kəsũ	nan	k ə s - ũ	"('short', 'alor1247-besar', ""'maku"")"	datasets/keraf/Dulhi.tsv	159. Pendek 
 303	thin (non-human)	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	mənipi	nan	m ə n i p - - i -	('thin (non-human)', 'lama1277-baipi', 'mənipi')	datasets/keraf/Dulhi.tsv	161. Tipis 
 305	thick	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	pəwərã	nan	p - - ə w ə r - ã -	('thick', 'lama1277-botun', 'pəwərã')	datasets/keraf/Dulhi.tsv	162. Tebal 
@@ -116,11 +116,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 313	heavy	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	baʔat	nan	- - - b - - a ʔ a - - - - t - -	('heavy', 'alor1247-baran', 'ba:')	datasets/keraf/Dulhi.tsv	147. Berat 
 315	straight	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kəloho	nan	k ə l o - h o -	('straight', 'lama1277-adona', 'kɜˈlɔhɔ')	datasets/keraf/Dulhi.tsv	165. Lurus 
 316	wide	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	belʔã	nan	b - - e l - - ʔ ã - - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Dulhi.tsv	164. Luas 
-317	narrow	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kipuʔ	nan	k - - - - i p u - - ʔ	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Dulhi.tsv	163. Sempit 
+317	narrow	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kipuʔ	nan	k - - - - i p u - - ʔ	('narrow', 'keda1252', 'i̤pe')	datasets/keraf/Dulhi.tsv	163. Sempit 
 321	rotten	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Dulhi.tsv	111. Busuk 
 326	flat	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	əbʔã	nan	ə b ʔ ã	('flat', 'lama1277-baipi', 'əbʔã')	datasets/keraf/Dulhi.tsv	146. Rata 
 329	black	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	mitã	nan	- - m i - t ã - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Dulhi.tsv	152. Hitam 
-330	white	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	burʔã	nan	- - - b u r - - - - - ʔ ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Dulhi.tsv	153. Putih 
+330	white	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	burʔã	nan	- - - b u r - - - - - ʔ ã - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Dulhi.tsv	153. Putih 
 331	red	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Dulhi.tsv	154. Merah 
 332	green	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	bətʔã	nan	b ə - t - ʔ ã - - - - - - -	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/keraf/Dulhi.tsv	156. Hijau 
 334	yellow	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kuma	nan	k - - u m - - a -	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Dulhi.tsv	155. Kuning 
@@ -186,14 +186,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	tuẽ	nan	- - t uẽ	('return', 'lama1277-bama', 'peʔũ')	datasets/keraf/Dulhi.tsv	9. Balik
 606	stomach	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kəboti	nan	- - k ə - - - - - b o t - i - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Dulhi.tsv	20. Isi perut
 607	tooth	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ipɤ (ɤ)	in the book it's written as ipö (ɤ)	i - p ɤ _ ( ɤ - )	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Dulhi.tsv	34. Gigi
-609	fist	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Dulhi.tsv	72. Bertinju 
+609	fist	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Dulhi.tsv	72. Bertinju 
 612	stem	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	əpʔã	nan	- ə p - ʔ ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Dulhi.tsv	79. Batang 
 614	swollen	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Dulhi.tsv	87. Bengkak
 618	worm	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	kəbeŋə	nan	k ə b e ŋ ə - - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Dulhi.tsv	107. Cacing 
 625	dew	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	apũ	nan	a p ũ	('dew', 'lama1277-botun', 'apũ')	datasets/keraf/Dulhi.tsv	137. Embun 
 629	old	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	tənue	nan	t ə n - - ue - - - -	('old', 'lama1277-baipi', 'tənue')	datasets/keraf/Dulhi.tsv	166. Tua 
 631	right, correct	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	murʔã	nan	- - - - - m - u r ʔ ã - -	('right, correct', 'lama1277-botun', 'murã')	datasets/keraf/Dulhi.tsv	170. Betul 
-633	in	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	si	nan	- - - - s i	('in', 'lama1277-baipi', 'di')	datasets/keraf/Dulhi.tsv	175. Di 
+633	in	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	si	nan	- - - - s i	('at', 'keda1252-leuba', 'diʔ')	datasets/keraf/Dulhi.tsv	175. Di 
 634	inside	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	onʔã	nan	- - - o n ʔ ã	('inside', 'lama1277-botun', 'bəlomã')	datasets/keraf/Dulhi.tsv	176. Dalam 
 641	other	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	ikən	nan	- i - - k ə n	('other', 'lama1277-baipi', 'geha')	datasets/keraf/Dulhi.tsv	192. Lain
 642	some	lama1277-dulhi	Lamaholot-Dulhi	Austronesian	8Lembata	bopira	nan	b - - o p i r a	('some', 'lama1277-baipi', 'bopira')	datasets/keraf/Dulhi.tsv	193. Beberapa 
