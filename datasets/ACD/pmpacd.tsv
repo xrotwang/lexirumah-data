@@ -46,7 +46,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*talun	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	* t a l u n	('forest', 'pmpacd', '*talun')	datasets/ACD/pmpacd.tsv		
 39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*tuqan	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	* t u q a n	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/ACD/pmpacd.tsv		
 41	island	pmpacd	proto-MP-ACD 2	Austronesian		*nusa	*nusa 'island'	* n u s a	('island', 'pmpacd', '*nusa')	datasets/ACD/pmpacd.tsv		
-43	garden	pmpacd	proto-MP-ACD 2	Austronesian		*q<in>uma	*q<in>uma 'cultivated field, garden'	* q < i n > u m a -	('garden', 'buna1278-bobon', 'maɁ')	datasets/ACD/pmpacd.tsv		
+43	garden	pmpacd	proto-MP-ACD 2	Austronesian		*q<in>uma	*q<in>uma 'cultivated field, garden'	* q < i n > u m a -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/ACD/pmpacd.tsv		
 44	fence	pmpacd	proto-MP-ACD 2	Austronesian		*pager	*pager 'enclosure; palisade around a village; fence around a planted tree or cultivated field'	* p a g e r	('fence', 'pmpacd', '*pager')	datasets/ACD/pmpacd.tsv		
 45	road; path; way	pmpacd	proto-MP-ACD 2	Austronesian		*zalan	nan	* z a l a n	('road; path; way', 'lama1277-watan', 'rarã')	datasets/ACD/pmpacd.tsv		
 46	canoe	pmpacd	proto-MP-ACD 2	Austronesian		*qabaŋ	nan	* q a b a ŋ	('canoe', 'pmpacd', '*qabaŋ')	datasets/ACD/pmpacd.tsv		
@@ -87,7 +87,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*dukut	nan	* d u k u t - -	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/ACD/pmpacd.tsv		
 76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*udu	nan	- - - * u d u -	('grass; brush', 'alor1249-sar-a', 'raŋ')	datasets/ACD/pmpacd.tsv		
 76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*zukut	nan	* z u k u t - -	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/ACD/pmpacd.tsv		
-77	house	pmpacd	proto-MP-ACD 2	Austronesian		*Rumaq	nan	* R u m a q	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/ACD/pmpacd.tsv		
+77	house	pmpacd	proto-MP-ACD 2	Austronesian		*Rumaq	nan	* R u m a q	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/ACD/pmpacd.tsv		
 81	door	pmpacd	proto-MP-ACD 2	Austronesian		*kataman	nan	* k a t a - m a - - n	('door', 'kira1248', 'damat')	datasets/ACD/pmpacd.tsv		
 81	door	pmpacd	proto-MP-ACD 2	Austronesian		*qiNeb	nan	* q i N e b	('door', 'pmpacd', '*qiNeb')	datasets/ACD/pmpacd.tsv		
 82	(thatch) roof	pmpacd	proto-MP-ACD 2	Austronesian		*qatep	nan	* q a t e p	('(thatch) roof', 'pmpacd', '*qatep')	datasets/ACD/pmpacd.tsv		
@@ -101,7 +101,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 91	root	pmpacd	proto-MP-ACD 2	Austronesian		*akaR	nan	- * a k a R	('root', 'pmpacd', '*akaR')	datasets/ACD/pmpacd.tsv		
 91	root	pmpacd	proto-MP-ACD 2	Austronesian		*wakaR	nan	* w a k a R	('root', 'pmpacd', '*akaR')	datasets/ACD/pmpacd.tsv		
 92	fruit	pmpacd	proto-MP-ACD 2	Austronesian		*buaq	nan	* b ua q	('fruit', 'keda1252', 'wuan')	datasets/ACD/pmpacd.tsv		
-96	husked rice; uncooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*beRas	nan	* b e R a s	('husked rice; uncooked rice', 'lama1277-adona', 'ˈwahaʔ')	datasets/ACD/pmpacd.tsv		
+96	husked rice; uncooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*beRas	nan	* b e R a s	('husked rice; uncooked rice', 'pmpacd', '*beRas')	datasets/ACD/pmpacd.tsv		
 97	rice grains (unhusked) (raw from field)	pmpacd	proto-MP-ACD 2	Austronesian		*binehiq	*binehiq 'seed rice, rice set aside for the next planting'	* b i n e h i q	('rice grains (unhusked) (raw from field)', 'pmpacd', '*binehiq')	datasets/ACD/pmpacd.tsv		
 98	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*hemay	*kaen-en 'be eaten by someone; cooked rice'	* h e m ay	('cooked rice', 'pmpacd', '*hemay')	datasets/ACD/pmpacd.tsv		
 98	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*kaen-en	*kaen-en 'be eaten by someone; cooked rice'	* k ae n - e	('cooked rice', 'pmpacd', '*kaen-en')	datasets/ACD/pmpacd.tsv		
@@ -143,7 +143,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 143	lungs	pmpacd	proto-MP-ACD 2	Austronesian		*baRaq	nan	* b a R a q	('lungs', 'kama1365', 'fusaː')	datasets/ACD/pmpacd.tsv		
 144	stomach; belly	pmpacd	proto-MP-ACD 2	Austronesian		*bituka	nan	* b i t u k - - a - -	('stomach; belly', 'abui1241-fuime', 'tatok foko')	datasets/ACD/pmpacd.tsv		
 145	head	pmpacd	proto-MP-ACD 2	Austronesian		*qulu	nan	* q u l u - - - - -	('head', 'adan1251-lawah', 'loŋ')	datasets/ACD/pmpacd.tsv		
-146	hair	pmpacd	proto-MP-ACD 2	Austronesian		*buhek	nan	* b u h e k	('hair', 'pmpacd', '*buhek')	datasets/ACD/pmpacd.tsv		
+146	hair	pmpacd	proto-MP-ACD 2	Austronesian		*buhek	nan	* b u h e k	('hair', 'keda1252', 'uha')	datasets/ACD/pmpacd.tsv		
 147	body hair	pmpacd	proto-MP-ACD 2	Austronesian		*bulu	nan	* b u l u - - -	"('body hair', 'alor1247-besar', ""fu'lukuŋ"")"	datasets/ACD/pmpacd.tsv		
 148	eye	pmpacd	proto-MP-ACD 2	Austronesian		*mata	nan	* m a t a	('eye', 'lamm1241-westp', '-iti')	datasets/ACD/pmpacd.tsv		
 149	ear	pmpacd	proto-MP-ACD 2	Austronesian		*taliŋa	nan	* t a l i ŋ a - - -	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/ACD/pmpacd.tsv		
@@ -215,8 +215,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-b<in>ahi	nan	* b a - b < i n > a h	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
 194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-bahi	nan	* b a - - - - - b a h	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
 194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	nan	- - * b - - - - a h i	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
-195	husband	pmpacd	proto-MP-ACD 2	Austronesian		*banah	nan	* b a - n - a h	('husband', 'abui1241-takal', 'te̞̞.ne̞äŋ')	datasets/ACD/pmpacd.tsv		
-196	wife	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	*bahi 'female, woman, wife; female of animals'; Not 'married woman'.	- - - - - - * b - - - - - a h i	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
+195	husband	pmpacd	proto-MP-ACD 2	Austronesian		*banah	nan	* b a - n - a h	('husband', 'p-mala1545-abvd', '*bana')	datasets/ACD/pmpacd.tsv		
+196	wife	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	*bahi 'female, woman, wife; female of animals'; Not 'married woman'.	- - - - - - * b - - - - - a h i	('husband', 'p-mala1545-abvd', '*bana')	datasets/ACD/pmpacd.tsv		
 197	mother	pmpacd	proto-MP-ACD 2	Austronesian		*ina	also *iná-I, *iná-ŋ, *iná-q, *ra-ina	* i n a	('mother', 'lamm1241-westp', '-iu')	datasets/ACD/pmpacd.tsv		
 198	father	pmpacd	proto-MP-ACD 2	Austronesian		*aba	also *da-ama, *t-ama 	- * a b a -	('father', 'lama1277-lewoi', 'ˈbapaʔ')	datasets/ACD/pmpacd.tsv		
 198	father	pmpacd	proto-MP-ACD 2	Austronesian		*ama	also *da-ama, *t-ama 	- - * a m a - - - -	('father', 'abui1241-fuime', 'mama')	datasets/ACD/pmpacd.tsv		
@@ -386,7 +386,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*dumpul	also *pudul, *tultul, *de(m)pul, *belbel	* d u m p u l -	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/ACD/pmpacd.tsv		
 312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpel	also *pudul, *tultul, *de(m)pul, *belbel	* t u m p e l -	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/ACD/pmpacd.tsv		
 312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpul	also *pudul, *tultul, *de(m)pul, *belbel	* t u m p u l -	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/ACD/pmpacd.tsv		
-313	heavy	pmpacd	proto-MP-ACD 2	Austronesian		*ma-beReqat	*beReqat 'weight, heaviness, weightiness; difficult; pregnant'	* m a - - b e R e q a	('heavy', 'pmpacd', '*ma-beReqat')	datasets/ACD/pmpacd.tsv		
+313	heavy	pmpacd	proto-MP-ACD 2	Austronesian		*ma-beReqat	*beReqat 'weight, heaviness, weightiness; difficult; pregnant'	* m a - - b e R e q a	('heavy', 'alor1247-baran', 'ba:')	datasets/ACD/pmpacd.tsv		
 314	light (weight)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-Raqan	*Raqan 'lightness (weight)'	* m a - R a - - q a	('light (weight)', 'pmpacd', '*ma-Raqan')	datasets/ACD/pmpacd.tsv		
 315	straight	pmpacd	proto-MP-ACD 2	Austronesian		*lurus	nan	- * l u - r u s	('straight', 'lama1277-adona', 'kɜˈlɔhɔ')	datasets/ACD/pmpacd.tsv		
 316	wide	pmpacd	proto-MP-ACD 2	Austronesian		*labeR	nan	- * l a b e R	('wide', 'amar1273-kotos', 'mainuan')	datasets/ACD/pmpacd.tsv		

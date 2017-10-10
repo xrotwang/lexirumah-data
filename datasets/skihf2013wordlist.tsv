@@ -30,8 +30,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 136	blood	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/skihf2013wordlist.tsv		
 139	liver	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	vat̪en	nan	- - v - - - - - a t̪ e n	"('liver', 'alor1247-baran', ""'hati"")"	datasets/skihf2013wordlist.tsv		
 144	stomach; belly	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	t̪aʔin	(belly)	- t̪ a ʔ i - n -	"('stomach; belly', 'alor1247-baran', ""'teiŋ"")"	datasets/skihf2013wordlist.tsv		
-145	head	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	alan	nan	- - a l a n - - - -	('head', 'adan1251-lawah', 'loŋ')	datasets/skihf2013wordlist.tsv		
-146	hair	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	alan roun	nan	a l a n _ - r ou n	('hair', 'sika1262-maume', 'alan roun')	datasets/skihf2013wordlist.tsv		
+145	head	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	alan	nan	- - a l a n - - - -	('head', 'p-aust1307-abvd', '*quluh')	datasets/skihf2013wordlist.tsv		
+146	hair	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	alan roun	nan	a l a n _ - r ou n	('hair', 'sika1262-hewa', 'loʔe')	datasets/skihf2013wordlist.tsv		
 148	eye	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	mat̪an	nan	- - m a t̪ a - - n	"('eye', 'alor1247-baran', ""'mataŋ"")"	datasets/skihf2013wordlist.tsv		
 149	ear	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	t̪ilun	nan	- t̪ i l u n - - - -	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/skihf2013wordlist.tsv		
 150	nose	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	irun	nan	- - i r u n - -	('nose', 'lama1277-adona', 'ˈiruˈnɜt')	datasets/skihf2013wordlist.tsv		
@@ -87,7 +87,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 282	small	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	kət̪ik	nan	- k ə t̪ i - - k - -	('small', 'abui1241-fuime', 'kdiŋ')	datasets/skihf2013wordlist.tsv		
 284	new (house)	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	vərun	nan	- - v - - ə - - - - r u n -	('new (house)', 'alor1247-baran', 'funɔ')	datasets/skihf2013wordlist.tsv		
 285	old (people)	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	blupur	nan	b l u p u r	('old (people)', 'sika1262-hewa', 'blupur')	datasets/skihf2013wordlist.tsv		
-288	hot	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	gahu	nan	g a h u -	('hot', 'sika1262-maume', 'gahu')	datasets/skihf2013wordlist.tsv		
+288	hot	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	gahu	nan	g a h u -	('hot', 'sika1262-hewa', 'gahu')	datasets/skihf2013wordlist.tsv		
 289	cold	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	blat̪an	nan	- b - - l a t̪ - - - - - - - a - - n	('cold', 'abui1241-fuime', 'palata')	datasets/skihf2013wordlist.tsv		
 290	good	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	mior	nan	m io r	('good', 'sika1262-maume', 'mior')	datasets/skihf2013wordlist.tsv		
 290	good	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	ʔəpan	nan	ʔ ə p a n	('good', 'sika1262-hewa', 'əpan')	datasets/skihf2013wordlist.tsv		
@@ -109,9 +109,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 318	correct	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	daʔa	(correct, true)	d a ʔ a	('correct', 'sika1262-maume', 'daʔa')	datasets/skihf2013wordlist.tsv		
 329	black	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	mit̪ak	nan	- - m i - t̪ a - - k - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/skihf2013wordlist.tsv		
 329	black	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	mit̪an	nan	- - m i - t̪ a - - n - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/skihf2013wordlist.tsv		
-330	white	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	bura	nan	- - - b u r - - - - - - a - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/skihf2013wordlist.tsv		
+330	white	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	bura	nan	- - - b u r - - - - - - a - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/skihf2013wordlist.tsv		
 331	red	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	meraʔ	nan	m e r a ʔ -	('red', 'lama1277-lewoi', 'ˈmɛʔa')	datasets/skihf2013wordlist.tsv		
-332	green	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	daʔan	nan	- - - d a ʔ a n - - - - - -	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/skihf2013wordlist.tsv		
+332	green	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	daʔan	nan	- - - d a ʔ a n - - - - - -	('blue', 'sika1262-hewa', 'daʔan')	datasets/skihf2013wordlist.tsv		
 334	yellow	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	heret̪	nan	h e r e t̪	('yellow', 'sika1262-maume', 'heret̪')	datasets/skihf2013wordlist.tsv		
 341	scared	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	blau	(to fear)	b - l au -	('scared', 'sika1262-hewa', 'blauʔ')	datasets/skihf2013wordlist.tsv		
 343	to see	sika1262-maume	Sika-Maumere	Austronesian	5Flores, 2Central	niʔa	nan	n - i ʔ a -	('to see', 'p-aust1307-abvd', '*kita')	datasets/skihf2013wordlist.tsv		

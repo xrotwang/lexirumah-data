@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	bəlaki	nan	- - b ə - - - l a k i -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Baipito.tsv	54. Laki-laki
 194	woman	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	bərwãi	nan	- - - b - ə r - - w ãi	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Baipito.tsv	55. Wanita
 195	husband	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	lakẽ	nan	- - - - - - - - l a k - - - ẽ - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Baipito.tsv	57. Suami
-196	wife	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Baipito.tsv	58. Isteri
+196	wife	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Baipito.tsv	58. Isteri
 197	mother	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	əmaʔ	nan	- ə m a ʔ	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Baipito.tsv	59. Ibu
 198	father	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	bapaʔ	nan	- b a p a ʔ	('father', 'lama1277-baipi', 'bapaʔ')	datasets/keraf/Baipito.tsv	60. Bapak
 199	older sibling	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	kakaʔ	nan	- k - a k - - a ʔ -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Baipito.tsv	61. Kakak
@@ -121,7 +121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Baipito.tsv	111. Busuk 
 326	flat	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	əbʔã	nan	ə b ʔ ã	('flat', 'lama1277-baipi', 'əbʔã')	datasets/keraf/Baipito.tsv	146. Rata 
 329	black	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	mitən	nan	- - m i - t ə - - n - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Baipito.tsv	152. Hitam 
-330	white	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	buraʔ	nan	- - - b u r a - - - - ʔ - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Baipito.tsv	153. Putih 
+330	white	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	buraʔ	nan	- - - b u r a - - - - ʔ - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Baipito.tsv	153. Putih 
 331	red	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	meʔa	nan	m e - - ʔ a -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Baipito.tsv	154. Merah 
 332	green	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	ijon	nan	- i - j o n -	"('green', 'alor1247-besar', ""'iʤɔŋ"")"	datasets/keraf/Baipito.tsv	156. Hijau 
 334	yellow	lama1277-baipi	Lamaholot-Baipito	Austronesian	8Lembata	kuniŋ	nan	k - - u n - - i ŋ	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Baipito.tsv	155. Kuning 

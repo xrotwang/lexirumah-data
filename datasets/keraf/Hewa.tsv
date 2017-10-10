@@ -39,7 +39,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 138	heart	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wuan	nan	- w ua - - n - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Hewa.tsv	22. Jantung
 139	liver	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	waten	nan	- - w - - - - - a t e n	"('liver', 'alor1247-baran', ""'hati"")"	datasets/keraf/Hewa.tsv	21. Hati
 144	stomach; belly	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	dula	nan	- - d u l a - -	('stomach; belly', 'lama1277-kalik', 'tai')	datasets/keraf/Hewa.tsv	18. Perut
-145	head	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	nan	- - - l o ʔ e - - -	('head', 'adan1251-lawah', 'loŋ')	datasets/keraf/Hewa.tsv	27. Kepala
+145	head	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	nan	- - - l o ʔ e - - -	('head', 'sika1262-hewa', 'loʔe')	datasets/keraf/Hewa.tsv	27. Kepala
 146	hair	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	loʔe	nan	l o ʔ e -	('hair', 'sika1262-hewa', 'loʔe')	datasets/keraf/Hewa.tsv	29. Rambut
 148	eye	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	mata	nan	- - m a t a - - -	('eye', 'sika1262-hewa', 'mata')	datasets/keraf/Hewa.tsv	47. Mata
 149	ear	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	tilu	nan	nan	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/keraf/Hewa.tsv	45. Telinga
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	rəmapira	nan	- r ə m a - p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Hewa.tsv	174. Bilamana 
 223	this	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ete	nan	- - - e - - t e	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Hewa.tsv	179. Ini 
 224	that	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ia	nan	- ia - - -	('that', 'p-mala1545-abvd', '*i na')	datasets/keraf/Hewa.tsv	180. Itu 
-227	here	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ete	nan	- e t e - -	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Hewa.tsv	177. Di sini 
+227	here	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ete	nan	- e t e - -	('here', 'sika1262-hewa', 'ete')	datasets/keraf/Hewa.tsv	177. Di sini 
 228	there	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	ia	nan	- - - - - - - - - ia - -	('there', 'sika1262-hewa', 'ia')	datasets/keraf/Hewa.tsv	178. Di situ 
 231	left (side)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wirin	nan	- - w i r i - - n	('left (side)', 'lama1277-belan', 'seki')	datasets/keraf/Hewa.tsv	2. Kiri
 232	right (side)	sika1262-hewa	Hewa	Austronesian	5Flores, 3East	wanan	nan	w a n a n	('right (side)', 'keda1252', 'wana')	datasets/keraf/Hewa.tsv	3. Kanan

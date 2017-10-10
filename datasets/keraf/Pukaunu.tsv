@@ -56,7 +56,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	kake	nan	k - - - - - - - a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Pukaunu.tsv	54. Laki-laki
 194	woman	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	vae	nan	- - - - - v ae	('woman', 'lama1277-bama', 'inawae')	datasets/keraf/Pukaunu.tsv	55. Wanita
 195	husband	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	kakehe	nan	- - k - - - - - - a k e - h e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Pukaunu.tsv	57. Suami
-196	wife	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	vahe	nan	- - - - - - - v - - - - - a h e	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Pukaunu.tsv	58. Isteri
+196	wife	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	vahe	nan	- - - - - - - v - - - - - a h e	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Pukaunu.tsv	58. Isteri
 197	mother	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	əmaʔ	nan	- ə m a ʔ	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Pukaunu.tsv	59. Ibu
 198	father	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	baʔ	nan	- b a ʔ - -	('father', 'lama1277-baipi', 'bapaʔ')	datasets/keraf/Pukaunu.tsv	60. Bapak
 199	older sibling	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	kakaʔ	nan	- k - a k - - a ʔ -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Pukaunu.tsv	61. Kakak
@@ -120,7 +120,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Pukaunu.tsv	111. Busuk 
 326	flat	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	rata	nan	- - r - a t - - a -	('flat', 'kama1365', 'tatok')	datasets/keraf/Pukaunu.tsv	146. Rata 
 329	black	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	mitã	nan	- - m i - t ã - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Pukaunu.tsv	152. Hitam 
-330	white	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	buraʔã	nan	- - - b u r a - - - - ʔ ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Pukaunu.tsv	153. Putih 
+330	white	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	buraʔã	nan	- - - b u r a - - - - ʔ ã - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Pukaunu.tsv	153. Putih 
 331	red	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Pukaunu.tsv	154. Merah 
 332	green	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	halaŋ	nan	h a l a ŋ	('green', 'lama1277-pukau', 'halaŋ')	datasets/keraf/Pukaunu.tsv	156. Hijau 
 334	yellow	lama1277-pukau	Lamaholot-Pukaunu	Austronesian	8Lembata	heret	nan	- - h e - - r e t	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Pukaunu.tsv	155. Kuning 

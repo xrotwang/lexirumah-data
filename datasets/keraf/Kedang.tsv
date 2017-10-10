@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	keda1252	Kedang	Austronesian	8Lembata	ebe ʔabe	nan	e b e _ ʔ a b e	('man', 'keda1252', 'ebe ʔabe')	datasets/keraf/Kedang.tsv	54. Laki-laki
 194	woman	keda1252	Kedang	Austronesian	8Lembata	are rian	nan	- a r e - _ r ia n	('woman', 'kama1365', 'mare')	datasets/keraf/Kedang.tsv	55. Wanita
 195	husband	keda1252	Kedang	Austronesian	8Lembata	ate rian	nan	a t e _ r ia n	('husband', 'keda1252', 'ate rian')	datasets/keraf/Kedang.tsv	57. Suami
-196	wife	keda1252	Kedang	Austronesian	8Lembata	weʔ rian	nan	- - - - - - - w e ʔ - _ r ia n -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Kedang.tsv	58. Isteri
+196	wife	keda1252	Kedang	Austronesian	8Lembata	weʔ rian	nan	- - - - - - - w e ʔ - _ r ia n -	('husband', 'keda1252', 'ate rian')	datasets/keraf/Kedang.tsv	58. Isteri
 197	mother	keda1252	Kedang	Austronesian	8Lembata	ine	nan	- i n e -	"('mother', 'alor1247-besar', ""'inaŋ"")"	datasets/keraf/Kedang.tsv	59. Ibu
 198	father	keda1252	Kedang	Austronesian	8Lembata	ame	nan	- - a m e - -	('father', 'keda1252', 'ame')	datasets/keraf/Kedang.tsv	60. Bapak
 199	older sibling	keda1252	Kedang	Austronesian	8Lembata	ʔaʔe	nan	ʔ a ʔ e	('older sibling', 'keda1252', 'ʔaʔe')	datasets/keraf/Kedang.tsv	61. Kakak
@@ -99,7 +99,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 281	big	keda1252	Kedang	Austronesian	8Lembata	rian	nan	- - - r - - - - - ia n	('big', 'keda1252', 'rian')	datasets/keraf/Kedang.tsv	158. Besar 
 282	small	keda1252	Kedang	Austronesian	8Lembata	ṳtun	nan	ṳ t u - - - - - n	('small', 'keda1252', 'ṳtun')	datasets/keraf/Kedang.tsv	157. Kecil 
 284	new (house)	keda1252	Kedang	Austronesian	8Lembata	werun	nan	w e r u n	('new (house)', 'keda1252', 'werun')	datasets/keraf/Kedang.tsv	167. Baru 
-288	hot	keda1252	Kedang	Austronesian	8Lembata	panaʔ	nan	p - - a n a ʔ	"('hot', 'alor1247-baran', ""pa'latiŋ"")"	datasets/keraf/Kedang.tsv	142. Panas 
+288	hot	keda1252	Kedang	Austronesian	8Lembata	panaʔ	nan	p - - a n a ʔ	('hot', 'adan1251-lawah', 'buniʔ')	datasets/keraf/Kedang.tsv	142. Panas 
 289	cold	keda1252	Kedang	Austronesian	8Lembata	emi	nan	- e m i - - - - - -	('cold', 'keda1252', 'emi')	datasets/keraf/Kedang.tsv	143. Dingin 
 290	good	keda1252	Kedang	Austronesian	8Lembata	diʔen	nan	- d i ʔ e - - - - - - n	"('good', 'alor1247-baran', ""'dik:ɛ"")"	datasets/keraf/Kedang.tsv	168. Baik 
 291	bad	keda1252	Kedang	Austronesian	8Lembata	daten	nan	- - - d a t - e - - n - - - - -	"('bad', 'alor1247-baran', ""'datɛ"")"	datasets/keraf/Kedang.tsv	169. Jelek
@@ -121,7 +121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	keda1252	Kedang	Austronesian	8Lembata	buruʔ	nan	b u r u ʔ - -	('rotten', 'abui1241-fuime', 'hamuni')	datasets/keraf/Kedang.tsv	111. Busuk 
 326	flat	keda1252	Kedang	Austronesian	8Lembata	napoʔ	nan	n a p o ʔ	('flat', 'keda1252', 'napoʔ')	datasets/keraf/Kedang.tsv	146. Rata 
 329	black	keda1252	Kedang	Austronesian	8Lembata	miteŋ	nan	- m i - - t e - - ŋ - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Kedang.tsv	152. Hitam 
-330	white	keda1252	Kedang	Austronesian	8Lembata	buyaʔ	nan	- - - b uya - - - - - - ʔ - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Kedang.tsv	153. Putih 
+330	white	keda1252	Kedang	Austronesian	8Lembata	buyaʔ	nan	- - - b uya - - - - - - ʔ - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Kedang.tsv	153. Putih 
 331	red	keda1252	Kedang	Austronesian	8Lembata	putu	nan	p u t u -	('red', 'abui1241-fuime', 'kika')	datasets/keraf/Kedang.tsv	154. Merah 
 332	green	keda1252	Kedang	Austronesian	8Lembata	taŋen	nan	- - - t a ŋ e n - - - - - -	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/keraf/Kedang.tsv	156. Hijau 
 334	yellow	keda1252	Kedang	Austronesian	8Lembata	uman	nan	- - u m a n	('yellow', 'abui1241-fuime', 'adesan')	datasets/keraf/Kedang.tsv	155. Kuning 

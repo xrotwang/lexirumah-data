@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	amalake	nan	- a m a - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Kiwangona.tsv	54. Laki-laki
 194	woman	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	inawae	nan	- i n a - w ae	('woman', 'lama1277-bama', 'inawae')	datasets/keraf/Kiwangona.tsv	55. Wanita
 195	husband	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	hak (kalake)	nan	h a k _ ( k a - l a k - - - e ) -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Kiwangona.tsv	57. Suami
-196	wife	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	hak (kawae)	nan	- - h a k _ ( k a w ae )	"('wife', 'buna1278-malia', ""'phanɑ"")"	datasets/keraf/Kiwangona.tsv	58. Isteri
+196	wife	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	hak (kawae)	nan	- - h a k _ ( k a w ae )	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Kiwangona.tsv	58. Isteri
 197	mother	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Kiwangona.tsv	59. Ibu
 198	father	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	ama	nan	- - a m a - -	('father', 'keda1252', 'ame')	datasets/keraf/Kiwangona.tsv	60. Bapak
 199	older sibling	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Kiwangona.tsv	61. Kakak
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	ər pira	nan	ə r - - - _ p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Kiwangona.tsv	174. Bilamana 
 223	this	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	ni	nan	- - n - - - - i	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Kiwangona.tsv	179. Ini 
 224	that	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	nəpe	nan	n ə p e - - -	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Kiwangona.tsv	180. Itu 
-227	here	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	pəhia	nan	- - p ə h ia	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Kiwangona.tsv	177. Di sini 
+227	here	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	pəhia	nan	- - p ə h ia	('here', 'lama1277-adona', 'dɜˈhirɜ')	datasets/keraf/Kiwangona.tsv	177. Di sini 
 228	there	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	dəpe	nan	d ə p e	('there', 'lama1277-baipi', 'tewe')	datasets/keraf/Kiwangona.tsv	178. Di situ 
 231	left (side)	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	nekin	nan	n - - e k i - - n	('left (side)', 'lama1277-belan', 'seki')	datasets/keraf/Kiwangona.tsv	2. Kiri
 232	right (side)	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	wana	nan	w a n a -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Kiwangona.tsv	3. Kanan
@@ -121,7 +121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Kiwangona.tsv	111. Busuk 
 326	flat	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	əbʔã	nan	ə b ʔ ã	('flat', 'lama1277-baipi', 'əbʔã')	datasets/keraf/Kiwangona.tsv	146. Rata 
 329	black	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	mitɤ	nan	- - m i - t ɤ - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Kiwangona.tsv	152. Hitam 
-330	white	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	burʔã	nan	- - - b u r - - - - - ʔ ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Kiwangona.tsv	153. Putih 
+330	white	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	burʔã	nan	- - - b u r - - - - - ʔ ã - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Kiwangona.tsv	153. Putih 
 331	red	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Kiwangona.tsv	154. Merah 
 332	green	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	bət’ã	nan	b ə - t - ’ ã - - - - - - -	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/keraf/Kiwangona.tsv	156. Hijau 
 334	yellow	lama1277-kiwan	Lamaholot-Kiwangona	Austronesian	8Lembata	kumha	nan	k - - u m - h a -	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Kiwangona.tsv	155. Kuning 

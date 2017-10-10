@@ -25,7 +25,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qabu	nan	q a b u -	"('dust; fine earth', 'alor1247-baran', ""a'fo:"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 75	sand	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qənay	nan	q ə n a y	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 76	grass; brush	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*udu	nan	- u d u -	('grass; brush', 'blag1240-bama', 'ut')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-77	house	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ʀumaq	nan	ʀ u m a q	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+77	house	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ʀumaq	nan	ʀ u m a q	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 82	(thatch) roof	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qatəp	(thatch/roof)	q a t ə p	('(thatch) roof', 'p-cent2245-abvd', '*qatəp')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 85	wood	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kayu	(stick/wood)	k a - y - u	('wood', 'p-aust1307-abvd', '*kaSiw')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 87	leaf	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*daun	nan	#NAME?	('leaf', 'buna1278-bobon', 'nɔ')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -73,7 +73,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 194	woman	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*b-in-ay	nan	b i n a - y	"('woman', 'idat1237', ""mahi'nak"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 194	woman	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*bai	nan	#NAME?	('woman', 'p-aust1307-abvd', '*bahi')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 195	husband	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qasawa	nan	q a s a w a	('husband', 'p-cent2245-abvd', '*qasawa')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-196	wife	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qasawa	Not 'married woman'.	q a s a w a	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+196	wife	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*qasawa	Not 'married woman'.	q a s a w a	('husband', 'lama1277-belan', 'ha')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 197	mother	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ina	nan	- i n a -	('mother', 'lama1277-belan', 'ina')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 198	father	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ama	nan	- a m a - -	"('father', 'buna1278-malia', ""'ʔamɑ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 203	1sg	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*i-aku	nan	nan	('1sg', 'amar1273-kotos', 'au')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
@@ -142,7 +142,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*busuk	nan	#NAME?	('rotten', 'p-cent2245-abvd', '*busuk')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 321	rotten	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*buʀuk	nan	b u ʀ u k - - - -	('rotten', 'p-cent2245-abvd', '*buʀuk')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 329	black	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*ma-qetəm	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
-330	white	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*burak	nan	b u r a k - - - - - - - - - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
+330	white	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*burak	nan	b u r a k - - - - - - - - - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 331	red	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*meʀaq	nan	m e - - ʀ a q -	('red', 'p-cent2245-abvd', '*meʀaq')	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 332	green	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*mataq	nan	m a t a q	"('green', 'kema1243', ""'mɔ'sɔk"")"	datasets/ABVD/proto-Central-MP-ABVD.tsv		
 334	yellow	p-cent2245-abvd	proto-Central-MP-ABVD	Austronesian		*kunij	nan	#NAME?	('yellow', 'p-cent2245-abvd', '*kunij')	datasets/ABVD/proto-Central-MP-ABVD.tsv		

@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	kəblake	nan	k ə b - - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Mulan.tsv	54. Laki-laki
 194	woman	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	kəbarawae	nan	- k ə b - a r - a w ae	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Mulan.tsv	55. Wanita
 195	husband	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	kəlake	nan	- - k - - - ə - l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Mulan.tsv	57. Suami
-196	wife	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Mulan.tsv	58. Isteri
+196	wife	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Mulan.tsv	58. Isteri
 197	mother	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Mulan.tsv	59. Ibu
 198	father	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	bapa	nan	- b a p a -	('father', 'lama1277-baipi', 'bapaʔ')	datasets/keraf/Mulan.tsv	60. Bapak
 199	older sibling	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Mulan.tsv	61. Kakak
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	arapira	nan	a r a - - - p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Mulan.tsv	174. Bilamana 
 223	this	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	nəpi	nan	- - n ə - - p i	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Mulan.tsv	179. Ini 
 224	that	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	nəpe	nan	n ə p e - - -	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Mulan.tsv	180. Itu 
-227	here	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	dipi	nan	- - d i p i	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Mulan.tsv	177. Di sini 
+227	here	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	dipi	nan	- - d i p i	('here', 'lama1277-adona', 'dɜˈhirɜ')	datasets/keraf/Mulan.tsv	177. Di sini 
 228	there	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	depe	nan	d e p e	('there', 'lama1277-baipi', 'tewe')	datasets/keraf/Mulan.tsv	178. Di situ 
 231	left (side)	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	neki	nan	n - - e k i - - -	('left (side)', 'lama1277-belan', 'seki')	datasets/keraf/Mulan.tsv	2. Kiri
 232	right (side)	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	wɤnɤ	in the handwritten version there are arches above the vowel	w ɤ n ɤ -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Mulan.tsv	3. Kanan
@@ -121,9 +121,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	wɤu	nan	w ɤu - - -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Mulan.tsv	111. Busuk 
 326	flat	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	lere	nan	l e r - e - - - - -	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Mulan.tsv	146. Rata 
 329	black	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	miten	nan	- m i - - t e - - n - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Mulan.tsv	152. Hitam 
-330	white	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	burɤ	nan	- - - b u r - - - - - - ɤ - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Mulan.tsv	153. Putih 
+330	white	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	burɤ	nan	- - - b u r - - - - - - ɤ - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Mulan.tsv	153. Putih 
 331	red	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	meɤ	nan	m eɤ - - - - -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Mulan.tsv	154. Merah 
-332	green	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	keor	nan	k eo r - -	('green', 'lama1277-adona', 'ˈkeorɛ')	datasets/keraf/Mulan.tsv	156. Hijau 
+332	green	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	keor	nan	k eo r - -	('blue', 'lama1277-adona', 'ˈkeorɛ')	datasets/keraf/Mulan.tsv	156. Hijau 
 334	yellow	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	kumɤ	nan	k - - u m - - ɤ -	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Mulan.tsv	155. Kuning 
 341	scared	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	taku	nan	- - - - t - - a k u - - -	"('scared', 'alor1247-baran', ""'taku"")"	datasets/keraf/Mulan.tsv	25. Takut
 343	to see	lama1277-mulan	Lamaholot-Mulan	Austronesian	8Lembata	bele	nan	b e l - - e - -	('to see', 'alor1249-sar-a', 'bil')	datasets/keraf/Mulan.tsv	48. Melihat

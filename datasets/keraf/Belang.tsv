@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	kəbailake	nan	k ə b ai - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Belang.tsv	54. Laki-laki
 194	woman	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	kəbarawae	nan	- k ə b - a r - a w ae	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Belang.tsv	55. Wanita
 195	husband	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	ha	nan	- - - h - - a - - - - - - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Belang.tsv	57. Suami
-196	wife	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	ha	nan	- - h - - - - - a - - -	"('wife', 'buna1278-malia', ""'phanɑ"")"	datasets/keraf/Belang.tsv	58. Isteri
+196	wife	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	ha	nan	- - h - - - - - a - - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Belang.tsv	58. Isteri
 197	mother	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Belang.tsv	59. Ibu
 198	father	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	ama	nan	- - a m a - -	('father', 'keda1252', 'ame')	datasets/keraf/Belang.tsv	60. Bapak
 199	older sibling	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Belang.tsv	61. Kakak
@@ -78,7 +78,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	arapira	nan	a r a - - - p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Belang.tsv	174. Bilamana 
 223	this	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	nəpi	nan	- - n ə - - p i	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Belang.tsv	179. Ini 
 224	that	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	pəpe	nan	- - p ə - p e	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Belang.tsv	180. Itu 
-227	here	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	nəpi	nan	- - n ə p i	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Belang.tsv	177. Di sini 
+227	here	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	nəpi	nan	- - n ə p i	('here', 'lama1277-adona', 'dɜˈhirɜ')	datasets/keraf/Belang.tsv	177. Di sini 
 228	there	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	nəpe	nan	n ə p e	('there', 'lama1277-baipi', 'tewe')	datasets/keraf/Belang.tsv	178. Di situ 
 231	left (side)	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	seki	nan	s - - e k i - - -	('left (side)', 'lama1277-belan', 'seki')	datasets/keraf/Belang.tsv	2. Kiri
 232	right (side)	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	wana	nan	w a n a -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Belang.tsv	3. Kanan
@@ -120,7 +120,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	wau	nan	w au - - -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Belang.tsv	111. Busuk 
 326	flat	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	lere	nan	l e r - e - - - - -	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Belang.tsv	146. Rata 
 329	black	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	mitəm	nan	- - m i - t ə m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Belang.tsv	152. Hitam 
-330	white	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	bura	nan	- - - b u r - - - - - - a - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Belang.tsv	153. Putih 
+330	white	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	bura	nan	- - - b u r - - - - - - a - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Belang.tsv	153. Putih 
 331	red	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	mea	nan	m ea - - - - -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Belang.tsv	154. Merah 
 332	green	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	pəntaŋəs	nan	p ə n t a ŋ ə - - - - - - s	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/keraf/Belang.tsv	156. Hijau 
 334	yellow	lama1277-belan	Lamaholot-Belang	Austronesian	8Lembata	kuma	nan	k - - u m - - a -	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Belang.tsv	155. Kuning 

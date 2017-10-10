@@ -56,8 +56,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192	child	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ana	nan	- - - - - - a n a - - - -	('child', 'alor1247-baran', 'ʔanaŋ')	datasets/keraf/Watan.tsv	56. Anak
 193	man	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	bəlake	nan	- - b ə - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Watan.tsv	54. Laki-laki
 194	woman	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	bərkəwae	nan	- - - b - ə r k ə w ae	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Watan.tsv	55. Wanita
-195	husband	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	hã	nan	- - - h - - ã - - - - - - -	('husband', 'lama1277-kalik', 'aˈvan laˈme')	datasets/keraf/Watan.tsv	57. Suami
-196	wife	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	hã	nan	- - h - - - - - ã - - -	"('wife', 'buna1278-malia', ""'phanɑ"")"	datasets/keraf/Watan.tsv	58. Isteri
+195	husband	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	hã	nan	- - - h - - ã - - - - - - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Watan.tsv	57. Suami
+196	wife	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	hã	nan	- - h - - - - - ã - - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Watan.tsv	58. Isteri
 197	mother	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	əma	nan	- ə m a -	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Watan.tsv	59. Ibu
 198	father	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	bapa	nan	- b a p a -	('father', 'lama1277-lewoi', 'ˈbapaʔ')	datasets/keraf/Watan.tsv	60. Bapak
 199	older sibling	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Watan.tsv	61. Kakak
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ərəm pira	nan	ə r ə m - _ p i r a	('when?', 'lama1277-watan', 'ərəm pira')	datasets/keraf/Watan.tsv	174. Bilamana 
 223	this	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	pi	nan	- - - - - - p i	('this', 'lama1277-watan', 'pi')	datasets/keraf/Watan.tsv	179. Ini 
 224	that	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	pe	nan	- - p e - - -	"('that', 'kema1243', ""'nua"")"	datasets/keraf/Watan.tsv	180. Itu 
-227	here	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	dipi	nan	- - d i p i	('here', 'lama1277-watan', 'dipi')	datasets/keraf/Watan.tsv	177. Di sini 
+227	here	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	dipi	nan	- - d i p i	('here', 'lama1277-adona', 'dɜˈhirɜ')	datasets/keraf/Watan.tsv	177. Di sini 
 228	there	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	pəwəli	nan	p ə - w ə l i	('there', 'abui1241-petle', 'we')	datasets/keraf/Watan.tsv	178. Di situ 
 231	left (side)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	nekĩ	nan	- - n e k - - ĩ -	('left (side)', 'abui1241-fuime', 'teibika')	datasets/keraf/Watan.tsv	2. Kiri
 232	right (side)	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wanã	nan	w a n ã -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Watan.tsv	3. Kanan
@@ -121,7 +121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Watan.tsv	111. Busuk 
 326	flat	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	rata	nan	- - r - a t - - a -	('flat', 'kama1365', 'tatok')	datasets/keraf/Watan.tsv	146. Rata 
 329	black	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	mitã	nan	- - m i - t ã - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Watan.tsv	152. Hitam 
-330	white	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	burʔã	nan	- - - b u r - - - - - ʔ ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Watan.tsv	153. Putih 
+330	white	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	burʔã	nan	- - - b u r - - - - - ʔ ã - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Watan.tsv	153. Putih 
 331	red	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Watan.tsv	154. Merah 
 332	green	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	ijõ	nan	- i - j õ - -	"('green', 'alor1247-besar', ""'iʤɔŋ"")"	datasets/keraf/Watan.tsv	156. Hijau 
 334	yellow	lama1277-watan	Lamaholot-Watan	Austronesian	8Lembata	kumã	nan	k u m - - - - - ã - -	"('yellow', 'alor1247-besar', ""'kumɔŋ"")"	datasets/keraf/Watan.tsv	155. Kuning 

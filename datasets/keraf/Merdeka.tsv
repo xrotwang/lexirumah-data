@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kəbəlake	nan	k ə b ə - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Merdeka.tsv	54. Laki-laki
 194	woman	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	bərwae	nan	- - - b - ə r - - w ae	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Merdeka.tsv	55. Wanita
 195	husband	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kəbəlake	nan	- - k - ə b ə - l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Merdeka.tsv	57. Suami
-196	wife	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Merdeka.tsv	58. Isteri
+196	wife	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Merdeka.tsv	58. Isteri
 197	mother	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Merdeka.tsv	59. Ibu
 198	father	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	ama	nan	- - a m a - -	('father', 'keda1252', 'ame')	datasets/keraf/Merdeka.tsv	60. Bapak
 199	older sibling	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Merdeka.tsv	61. Kakak
@@ -80,7 +80,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	ar-apira	nan	a r - - - - a p i r	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Merdeka.tsv	174. Bilamana 
 223	this	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	niʔi	nan	- - n i - - ʔ i	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Merdeka.tsv	179. Ini 
 224	that	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	nəpe	nan	n ə p e - - -	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Merdeka.tsv	180. Itu 
-227	here	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	təpi	nan	- - t ə p i	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Merdeka.tsv	177. Di sini 
+227	here	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	təpi	nan	- - t ə p i	('here', 'lama1277-adona', 'dɜˈhirɜ')	datasets/keraf/Merdeka.tsv	177. Di sini 
 228	there	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	na wəli	nan	n a _ w ə l i	('there', 'abui1241-petle', 'we')	datasets/keraf/Merdeka.tsv	178. Di situ 
 231	left (side)	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	meki	nan	m - - e k i - - -	('left (side)', 'lama1277-belan', 'seki')	datasets/keraf/Merdeka.tsv	2. Kiri
 232	right (side)	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	wanã	nan	w a n ã -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Merdeka.tsv	3. Kanan
@@ -122,7 +122,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	wãu	nan	w ãu - - -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Merdeka.tsv	111. Busuk 
 326	flat	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	lere	nan	l e r - e - - - - -	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Merdeka.tsv	146. Rata 
 329	black	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	mitəm	nan	- m i - - t ə m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Merdeka.tsv	152. Hitam 
-330	white	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	burʔa	nan	- - - b u r - - - - - ʔ a - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Merdeka.tsv	153. Putih 
+330	white	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	burʔa	nan	- - - b u r - - - - - ʔ a - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Merdeka.tsv	153. Putih 
 331	red	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	meʔã	nan	m e - - ʔ ã -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Merdeka.tsv	154. Merah 
 332	green	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	pətaŋənə	nan	p ə - t a ŋ ə n - - - - ə -	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/keraf/Merdeka.tsv	156. Hijau 
 334	yellow	lama1277-merde	Lamaholot-Merdeka	Austronesian	8Lembata	kumhã	nan	k u m - - - h - ã - -	"('yellow', 'alor1247-besar', ""'kumɔŋ"")"	datasets/keraf/Merdeka.tsv	155. Kuning 

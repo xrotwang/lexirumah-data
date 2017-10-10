@@ -61,7 +61,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 131	flesh; meat	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	i̘hiŋ	nan	#NAME?	('flesh; meat', 'keda1252', 'ihin')	datasets/Kedang-Léuwayang.tsv		
 132	bone	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	haraʔ lurin	nan	h a r a ʔ _ l u r i n	('bone', 'keda1252-leuwa', 'haraʔ lurin')	datasets/Kedang-Léuwayang.tsv		
 136	blood	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	væiʔ	nan	nan	('blood', 'abui1241-fuime', 'we')	datasets/Kedang-Léuwayang.tsv		
-138	heart	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mutiʔ	nan	m u t i ʔ	('heart', 'keda1252-leuwa', 'mutiʔ')	datasets/Kedang-Léuwayang.tsv		
+138	heart	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mutiʔ	nan	m u t i ʔ	('heart', 'keda1252', 'taeŋ')	datasets/Kedang-Léuwayang.tsv		
 138	heart	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ɔ̘nεʔ	nan	ɔ̘ n ε ʔ	('heart', 'keda1252-leuwa', 'ɔ̘nεʔ')	datasets/Kedang-Léuwayang.tsv		
 144	stomach; belly	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bɔtin	nan	#NAME?	('stomach; belly', 'keda1252-leuwa', 'bɔtin')	datasets/Kedang-Léuwayang.tsv		
 145	head	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	tubar	nan	t u b a r	('head', 'keda1252', 'tubar')	datasets/Kedang-Léuwayang.tsv		
@@ -92,7 +92,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 194	woman	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	inε	nan	- i n ε - -	"('woman', 'idat1237', ""mahi'nak"")"	datasets/Kedang-Léuwayang.tsv		
 194	woman	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	i̘nɔ	nan	- i̘ n ɔ - -	"('woman', 'idat1237', ""mahi'nak"")"	datasets/Kedang-Léuwayang.tsv		
 195	husband	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘tε rian	nan	a̘ t ε _ r i - a n	('husband', 'keda1252', 'ate rian')	datasets/Kedang-Léuwayang.tsv		
-196	wife	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	væʔ rian	Not 'married woman'.	v æ ʔ _ r i a n	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/Kedang-Léuwayang.tsv		
+196	wife	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	væʔ rian	Not 'married woman'.	v æ ʔ _ r i a n	('husband', 'keda1252', 'ate rian')	datasets/Kedang-Léuwayang.tsv		
 198	father	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	amε	nan	- a m ε - -	"('father', 'buna1278-malia', ""'ʔamɑ"")"	datasets/Kedang-Léuwayang.tsv		
 198	father	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	a̘mɔ	nan	- a̘ m ɔ - -	"('father', 'buna1278-malia', ""'ʔamɑ"")"	datasets/Kedang-Léuwayang.tsv		
 203	1sg	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	ε̘i	ε̘ʔi (obj); ε̘i (subj)	nan	('1sg', 'amar1273-kotos', 'au')	datasets/Kedang-Léuwayang.tsv		
@@ -116,11 +116,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 218	where?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	dεnita	nan	d ε n i t a - - - - - - - - ( - - - - - - - ) -	"('where?', 'abui1241-petle', ""'te(:).ha"")"	datasets/Kedang-Léuwayang.tsv		
 219	when?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	væŋ piε	nan	v æ ŋ _ p i ε	('when?', 'keda1252-leuwa', 'væŋ piε')	datasets/Kedang-Léuwayang.tsv		
 219	when?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	εrε	nan	ε r ε	('when?', 'keda1252-leuwa', 'εrε')	datasets/Kedang-Léuwayang.tsv		
-222	how?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nara bɔnε	nan	n a r a _ b ɔ n ε	('how?', 'keda1252-leuwa', 'nara bɔnε')	datasets/Kedang-Léuwayang.tsv		
+222	how?	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nara bɔnε	nan	n a r a _ b ɔ n ε	"('how?', 'keda1252-leuba', ""nara 'bɔnɛ"")"	datasets/Kedang-Léuwayang.tsv		
 223	this	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nɔʔ	nan	n ɔ - - - ʔ - - - -	"('this', 'fata1247', ""ɛ'niɁi"")"	datasets/Kedang-Léuwayang.tsv		
 224	that	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	sɔbε	nan	s ɔ b ε	('that', 'keda1252-leuwa', 'sɔbε')	datasets/Kedang-Léuwayang.tsv		
 227	here	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bæʔ	nan	b æ ʔ	"('above', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/Kedang-Léuwayang.tsv		
-227	here	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di nɔʔ	nan	d i _ - - n ɔ ʔ -	('here', 'keda1252-leuwa', 'di nɔʔ')	datasets/Kedang-Léuwayang.tsv		
+227	here	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di nɔʔ	nan	d i _ - - n ɔ ʔ -	('here', 'keda1252', 'dinoʔo')	datasets/Kedang-Léuwayang.tsv		
 228	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di mæ	nan	d i - _ - - m æ -	('there', 'keda1252-leuwa', 'di mæ')	datasets/Kedang-Léuwayang.tsv		
 228	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	di nɔbε	nan	d i - - _ n ɔ b ε	('there', 'keda1252', 'dinobeʔ')	datasets/Kedang-Léuwayang.tsv		
 228	there	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	nɔbε	nan	#NAME?	('there', 'keda1252', 'dinobeʔ')	datasets/Kedang-Léuwayang.tsv		
@@ -186,7 +186,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	buruʔ balaŋ	nan	b u r u ʔ _ b a l a ŋ	('rotten', 'keda1252-leuwa', 'buruʔ balaŋ')	datasets/Kedang-Léuwayang.tsv		
 321	rotten	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	iŋin bɔaŋ	nan	i ŋ i n _ b ɔ a ŋ	('rotten', 'keda1252-leuwa', 'iŋin bɔaŋ')	datasets/Kedang-Léuwayang.tsv		
 329	black	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	mitεŋ kajɔʔ	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Kedang-Léuwayang.tsv		
-330	white	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bujaʔ tapε	nan	b u j a ʔ _ t a p ε	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/Kedang-Léuwayang.tsv		
+330	white	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	bujaʔ tapε	nan	b u j a ʔ _ t a p ε	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/Kedang-Léuwayang.tsv		
 331	red	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	kɔrɔŋ	nan	k ɔ r ɔ ŋ	('red', 'keda1252-leuwa', 'kɔrɔŋ')	datasets/Kedang-Léuwayang.tsv		
 331	red	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	putuʔ	nan	p u t - - u ʔ	('red', 'keda1252-leuwa', 'putuʔ')	datasets/Kedang-Léuwayang.tsv		
 332	green	keda1252-leuwa	Kedang-Léuwayang	Austronesian	8Lembata	taŋε	nan	nan	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/Kedang-Léuwayang.tsv		

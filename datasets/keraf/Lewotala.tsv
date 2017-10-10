@@ -56,7 +56,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 192	child	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	anakja	nan	- - - - - - a n a k j a -	('child', 'alor1247-baran', 'ʔanaŋ')	datasets/keraf/Lewotala.tsv	56. Anak
 193	man	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	ata lamen	nan	a t a _ l a m e n	('man', 'lama1277-lewop', 'analame')	datasets/keraf/Lewotala.tsv	54. Laki-laki
 194	woman	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	gərapoja	nan	g ə r a p o j a	('woman', 'lama1277-imulo', 'gərapor')	datasets/keraf/Lewotala.tsv	55. Wanita
-195	husband	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	atan lame	nan	- - - - a t a n - _ l a m e	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Lewotala.tsv	57. Suami
+195	husband	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	atan lame	nan	- - - - a t a n - _ l a m e	('husband', 'lama1277-lewot', 'atan lame')	datasets/keraf/Lewotala.tsv	57. Suami
 196	wife	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	gerapu	nan	g e r a p u	('wife', 'lama1277-lewop', 'gərapu')	datasets/keraf/Lewotala.tsv	58. Isteri
 197	mother	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Lewotala.tsv	59. Ibu
 198	father	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	ama	nan	- - a m a - -	('father', 'keda1252', 'ame')	datasets/keraf/Lewotala.tsv	60. Bapak
@@ -121,9 +121,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	buru	nan	b u r u -	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Lewotala.tsv	111. Busuk 
 326	flat	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	lerekən	nan	l e r - e - - k ə n	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Lewotala.tsv	146. Rata 
 329	black	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	mitəm	nan	- m i - - t ə m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Lewotala.tsv	152. Hitam 
-330	white	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	buja	nan	- - - b u j a - - - - - - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Lewotala.tsv	153. Putih 
+330	white	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	buja	nan	- - - b u j a - - - - - - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Lewotala.tsv	153. Putih 
 331	red	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	meran	nan	m e r a n - -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Lewotala.tsv	154. Merah 
-332	green	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	keorən	nan	k eo r ə n	('green', 'lama1277-adona', 'ˈkeorɛ')	datasets/keraf/Lewotala.tsv	156. Hijau 
+332	green	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	keorən	nan	k eo r ə n	('blue', 'lama1277-adona', 'ˈkeorɛ')	datasets/keraf/Lewotala.tsv	156. Hijau 
 334	yellow	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	kuma	nan	k - - u m - - a -	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Lewotala.tsv	155. Kuning 
 341	scared	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	kəruit	nan	k ə r ui t - -	('scared', 'lama1277-belan', 'kərui')	datasets/keraf/Lewotala.tsv	25. Takut
 343	to see	lama1277-lewot	Lamaholot-Lewotala	Austronesian	8Lembata	tene	nan	t e n e -	('to see', 'lama1277-baipi', 'tədə')	datasets/keraf/Lewotala.tsv	48. Melihat

@@ -98,7 +98,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 75.0	sand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	tə'nːi	nan	- t ə 'nː i - - - - -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/Munaseli.tsv		
 75.0	sand	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	ə'nːi	nan	- - ə 'nː i - - - - -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/Munaseli.tsv		
 76.0	grass; brush	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	lə'duŋ	nan	- - - l ə 'd u ŋ	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/Munaseli.tsv		
-77.0	house	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'uma	nan	- - 'u m a -	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/Munaseli.tsv		
+77.0	house	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'uma	nan	- - 'u m a -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/Munaseli.tsv		
 78.0	traditional house	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'uma 'adat	nan	'u m a _ - 'a d a t -	"('traditional house', 'alor1247-besar', ""'uma 'hada"")"	datasets/Munaseli.tsv		
 78.0	traditional house	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'uma 'lɛlaŋ	nan	'u m a _ 'l ɛ l a ŋ -	"('traditional house', 'alor1247-besar', ""'uma 'hada"")"	datasets/Munaseli.tsv		
 79.0	barn; storage house	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	ladaʔ	nan	l a d a ʔ	('barn; storage house', 'alor1247-munas', 'ladaʔ')	datasets/Munaseli.tsv		
@@ -267,8 +267,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 194.0	woman	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	k'wae	nan	- k - - - - - - - 'w ae	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/Munaseli.tsv		
 195.0	husband	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	k'lake	nan	- - k - - - - - 'l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/Munaseli.tsv		
 195.0	husband	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	k'lake 'nara	nan	- - k - - - - - 'l a k e _ 'n a r a	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/Munaseli.tsv		
-196.0	wife	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	k'wae	nan	- - - k - - - 'w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/Munaseli.tsv		
-196.0	wife	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	k'wae 'nara	nan	- - - k - - - 'w ae - - _ 'n a r a	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/Munaseli.tsv		
+196.0	wife	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	k'wae	nan	- - - k - - - 'w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/Munaseli.tsv		
+196.0	wife	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	k'wae 'nara	nan	- - - k - - - 'w ae - - _ 'n a r a	('husband', 'lama1277-belan', 'ha')	datasets/Munaseli.tsv		
 197.0	mother	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'nina	nan	- 'n i n a	('mother', 'abui1241-fuime', 'nija')	datasets/Munaseli.tsv		
 197.0	mother	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'ina	nan	- - 'i n a	('mother', 'abui1241-fuime', 'nija')	datasets/Munaseli.tsv		
 197.0	mother	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'inaŋ	nan	'i n a ŋ -	('mother', 'abui1241-fuime', 'nija')	datasets/Munaseli.tsv		
@@ -440,7 +440,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 327.0	smooth	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	b'lɔhɔʔ	nan	b 'l ɔ h ɔ ʔ	"('smooth', 'alor1247-munas', ""b'lɔhɔʔ"")"	datasets/Munaseli.tsv		
 328.0	rough	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'bogal	nan	'b o g a l	"('rough', 'alor1247-munas', ""'bogal"")"	datasets/Munaseli.tsv		
 329.0	black	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'mitɛŋ	nan	- - 'm i - t ɛ - - ŋ - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Munaseli.tsv		
-330.0	white	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'burak	nan	- - - 'b u r a - - - - k - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/Munaseli.tsv		
+330.0	white	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'burak	nan	- - - 'b u r a - - - - k - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/Munaseli.tsv		
 331.0	red	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'meaŋ	nan	- 'm ea - - ŋ	"('red', 'alor1247-baran', ""'mɛã"")"	datasets/Munaseli.tsv		
 332.0	green	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'taŋaŋ	nan	- - - 't a ŋ a ŋ - - - - - -	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/Munaseli.tsv		
 333.0	blue	alor1247-munas	Alorese-Munaseli	Austronesian	1Pantar, 2East	'idʒɔŋ	nan	'i d - ʒ ɔ ŋ	"('blue', 'alor1247-munas', ""'idʒɔŋ"")"	datasets/Munaseli.tsv		

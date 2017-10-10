@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 74	gravel	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ba'lɔfa	nan	b a 'l ɔ f a	"('gravel', 'alor1247-besar', ""ba'lɔfa"")"	datasets/Alor Besar.tsv		
 75	sand	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ta'nːiŋ	nan	- t a 'nː i - - - ŋ -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/Alor Besar.tsv		
 76	grass; brush	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	la'duŋ	nan	- - - l a 'd u ŋ	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/Alor Besar.tsv		
-77	house	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'uma	nan	- - 'u m a -	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/Alor Besar.tsv		
+77	house	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'uma	nan	- - 'u m a -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/Alor Besar.tsv		
 78	traditional house	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'uma 'hada	nan	'u m a _ 'h a d a - -	"('traditional house', 'alor1247-besar', ""'uma 'hada"")"	datasets/Alor Besar.tsv		
 79	barn; storage house	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'uma 'lapuŋ	nan	'u m a _ 'l a p u ŋ	"('barn; storage house', 'alor1247-besar', ""'uma 'lapuŋ"")"	datasets/Alor Besar.tsv		
 80	raised platform	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'dɛki	nan	'd ɛ k i	"('raised platform', 'alor1247-besar', ""'dɛki"")"	datasets/Alor Besar.tsv		
@@ -198,7 +198,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ka'lake	nan	k a - - - - - 'l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/Alor Besar.tsv		
 194	woman	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ka'fae	nan	- k - - - a - - - 'f ae	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/Alor Besar.tsv		
 195	husband	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ka'lake	nan	- - k - - - a - 'l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/Alor Besar.tsv		
-196	wife	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ka'fae	nan	- - - k - - a 'f - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/Alor Besar.tsv		
+196	wife	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ka'fae	nan	- - - k - - a 'f - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/Alor Besar.tsv		
 197	mother	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'inaŋ	nan	- 'i n a ŋ	"('mother', 'alor1247-besar', ""'inaŋ"")"	datasets/Alor Besar.tsv		
 198	father	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'amã	nan	- - 'a m ã - -	"('father', 'alor1247-besar', ""'amã"")"	datasets/Alor Besar.tsv		
 199	older sibling	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'tata	nan	- - 't - - a - - - - - t a -	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	datasets/Alor Besar.tsv		
@@ -340,7 +340,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 327	smooth	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	ha'melu	nan	h a 'm e l - - - u -	"('smooth', 'alor1247-besar', ""ha'melu"")"	datasets/Alor Besar.tsv		
 328	rough	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'karɔ	nan	- 'k a r ɔ -	"('rough', 'alor1247-besar', ""'karɔ"")"	datasets/Alor Besar.tsv		
 329	black	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'mitɛŋ	nan	- - 'm i - t ɛ - - ŋ - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Alor Besar.tsv		
-330	white	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'bura	nan	- - - 'b u r - - - - - - a - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/Alor Besar.tsv		
+330	white	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'bura	nan	- - - 'b u r - - - - - - a - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/Alor Besar.tsv		
 331	red	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'meaŋ	nan	'm ea ŋ -	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/Alor Besar.tsv		
 332	green	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	'iʤɔŋ	nan	- 'i d ʒ ɔ ŋ -	"('green', 'alor1247-besar', ""'iʤɔŋ"")"	datasets/Alor Besar.tsv		
 333	blue	alor1247-besar	Alorese-Alor-Besar	Austronesian	3Alor, 1West	pa'helɛŋ	nan	p a 'h e l ɛ ŋ	"('blue', 'alor1247-besar', ""pa'helɛŋ"")"	datasets/Alor Besar.tsv		

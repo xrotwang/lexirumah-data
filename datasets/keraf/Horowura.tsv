@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	amalake	nan	- a m a - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Horowura.tsv	54. Laki-laki
 194	woman	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	inawae	nan	- i n a - w ae	('woman', 'lama1277-bama', 'inawae')	datasets/keraf/Horowura.tsv	55. Wanita
 195	husband	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	lake	nan	- - - - - - - - l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Horowura.tsv	57. Suami
-196	wife	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kəwahe	nan	- - - k - - ə w - - - - - a h e	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Horowura.tsv	58. Isteri
+196	wife	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kəwahe	nan	- - - k - - ə w - - - - - a h e	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Horowura.tsv	58. Isteri
 197	mother	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	ina	nan	- - i n a - -	('mother', 'lama1277-belan', 'ina')	datasets/keraf/Horowura.tsv	59. Ibu
 198	father	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	ama	nan	- - a m a - -	('father', 'keda1252', 'ame')	datasets/keraf/Horowura.tsv	60. Bapak
 199	older sibling	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Horowura.tsv	61. Kakak
@@ -78,7 +78,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	ərə̃m pira	nan	ə r ə̃ m - _ p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Horowura.tsv	174. Bilamana 
 223	this	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	ni	nan	- - n - - - - i	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Horowura.tsv	179. Ini 
 224	that	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	pe	nan	- - p e - - -	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Horowura.tsv	180. Itu 
-227	here	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	təpi	nan	- - t ə p i	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Horowura.tsv	177. Di sini 
+227	here	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	təpi	nan	- - t ə p i	('here', 'lama1277-adona', 'dɜˈhirɜ')	datasets/keraf/Horowura.tsv	177. Di sini 
 228	there	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	təpe	nan	t ə p e	('there', 'lama1277-baipi', 'tewe')	datasets/keraf/Horowura.tsv	178. Di situ 
 231	left (side)	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	nekiŋ	nan	n - - e k i - - ŋ	('left (side)', 'lama1277-belan', 'seki')	datasets/keraf/Horowura.tsv	2. Kiri
 232	right (side)	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	wanã	nan	w a n ã -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Horowura.tsv	3. Kanan
@@ -120,9 +120,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	mənutã	nan	m - - - - ə n - - - - u t ã	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Horowura.tsv	111. Busuk 
 326	flat	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	əbʔã	nan	ə b ʔ ã	('flat', 'lama1277-baipi', 'əbʔã')	datasets/keraf/Horowura.tsv	146. Rata 
 329	black	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	mitã	nan	- - m i - t ã - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Horowura.tsv	152. Hitam 
-330	white	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	burã	nan	- - - b u r - - - - - - ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Horowura.tsv	153. Putih 
+330	white	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	burã	nan	- - - b u r - - - - - - ã - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Horowura.tsv	153. Putih 
 331	red	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Horowura.tsv	154. Merah 
-332	green	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	keorã	nan	k eo r ã -	('green', 'lama1277-adona', 'ˈkeorɛ')	datasets/keraf/Horowura.tsv	156. Hijau 
+332	green	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	keorã	nan	k eo r ã -	('blue', 'lama1277-adona', 'ˈkeorɛ')	datasets/keraf/Horowura.tsv	156. Hijau 
 334	yellow	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	kumha	nan	k - - u m - h a -	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Horowura.tsv	155. Kuning 
 341	scared	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	soʔot	nan	s o ʔ o t	('scared', 'lama1277-adona', 'ˈsoʔot')	datasets/keraf/Horowura.tsv	25. Takut
 343	to see	lama1277-horow	Lamaholot-Horowura	Austronesian	8Lembata	hulã	nan	h u l ã	('to see', 'lama1277-adona', 'ˈhulɜ')	datasets/keraf/Horowura.tsv	48. Melihat

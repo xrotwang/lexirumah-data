@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	lameja	nan	l a m e j a	('man', 'fata1247', 'nami')	datasets/keraf/Lewuka.tsv	54. Laki-laki
 194	woman	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	bineja	nan	- - b i n e - - - j a	"('woman', 'idat1237', ""mahi'nak"")"	datasets/keraf/Lewuka.tsv	55. Wanita
 195	husband	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	awan	nan	- - - - a w a n - - - - - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Lewuka.tsv	57. Suami
-196	wife	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	awan	nan	- - - - - - a w - - - - - a n -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Lewuka.tsv	58. Isteri
+196	wife	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	awan	nan	- - - - - - a w - - - - - a n -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Lewuka.tsv	58. Isteri
 197	mother	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	əma	nan	- ə m a -	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Lewuka.tsv	59. Ibu
 198	father	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	bapa	nan	- b a p a -	('father', 'lama1277-baipi', 'bapaʔ')	datasets/keraf/Lewuka.tsv	60. Bapak
 199	older sibling	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	tata	nan	- - t - - a - - - - - t a -	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	datasets/keraf/Lewuka.tsv	61. Kakak
@@ -78,7 +78,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	jəm pira	nan	- j ə m - _ p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Lewuka.tsv	174. Bilamana 
 223	this	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	me	nan	- - m e - - - -	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Lewuka.tsv	179. Ini 
 224	that	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	məre	nan	m ə - - r e	('that', 'lama1277-imulo', 'nakre')	datasets/keraf/Lewuka.tsv	180. Itu 
-227	here	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	bene	nan	b e n e - -	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Lewuka.tsv	177. Di sini 
+227	here	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	bene	nan	b e n e - -	('here', 'lama1277-kalik', 're')	datasets/keraf/Lewuka.tsv	177. Di sini 
 228	there	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	bete	nan	b e t e	('there', 'lama1277-baipi', 'tewe')	datasets/keraf/Lewuka.tsv	178. Di situ 
 231	left (side)	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	seke	nan	s - - e k e - - -	('left (side)', 'lama1277-belan', 'seki')	datasets/keraf/Lewuka.tsv	2. Kiri
 232	right (side)	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	wana	nan	w a n a -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Lewuka.tsv	3. Kanan
@@ -120,9 +120,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	suŋaw	nan	s u ŋ a w	('rotten', 'lama1277-belan', 'wau')	datasets/keraf/Lewuka.tsv	111. Busuk 
 326	flat	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	lerek	nan	l e r - e - - k - -	('below', 'lama1277-adona', 'leˈrerˈʔẽ')	datasets/keraf/Lewuka.tsv	146. Rata 
 329	black	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	mitəm	nan	- m i - - t ə m - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Lewuka.tsv	152. Hitam 
-330	white	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	bujak	nan	- - - b u j a - - - - k - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Lewuka.tsv	153. Putih 
+330	white	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	bujak	nan	- - - b u j a - - - - k - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Lewuka.tsv	153. Putih 
 331	red	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	meran	nan	m e r a n - -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Lewuka.tsv	154. Merah 
-332	green	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	kəbəris	nan	k ə b ə r i s	('green', 'lama1277-lamah', 'kəpəri')	datasets/keraf/Lewuka.tsv	156. Hijau 
+332	green	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	kəbəris	nan	k ə b ə r i s	('blue', 'lama1277-kalik', 'kəbəˈris')	datasets/keraf/Lewuka.tsv	156. Hijau 
 334	yellow	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	kumas	nan	k - - u m - - a s	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Lewuka.tsv	155. Kuning 
 341	scared	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	takut	nan	- - - - t - - a k u t - -	"('scared', 'alor1247-baran', ""'taku"")"	datasets/keraf/Lewuka.tsv	25. Takut
 343	to see	lama1277-lewuk	Lamaholot-Lewuka	Austronesian	8Lembata	du	nan	d u	('to see', 'lama1277-kalik', 'du')	datasets/keraf/Lewuka.tsv	48. Melihat

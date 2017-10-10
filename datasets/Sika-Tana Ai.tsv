@@ -56,9 +56,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 141	guts	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	taʔi-ŋ	(stomach)	#NAME?	('guts', 'alor1249-sar-n', 'betar')	datasets/Sika-Tana Ai.tsv		
 144	stomach; belly	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	taʔi-ŋ	(stomach)	t a ʔ i ŋ	"('stomach; belly', 'alor1247-baran', ""'teiŋ"")"	datasets/Sika-Tana Ai.tsv		
 145	head	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ	nan	#NAME?	('head', 'p-aust1307-abvd', '*quluh')	datasets/Sika-Tana Ai.tsv		
-146	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala	nan	- a l a -	('hair', 'sika1262-tanai', 'ala')	datasets/Sika-Tana Ai.tsv		
-146	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ	nan	#NAME?	('hair', 'sika1262-tanai', 'ala')	datasets/Sika-Tana Ai.tsv		
-146	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ ʔrou-ŋ	nan	- a l a ŋ _ ʔ r o u ŋ	('hair', 'sika1262-tanai', 'ala')	datasets/Sika-Tana Ai.tsv		
+146	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala	nan	- a l a -	('hair', 'sika1262-hewa', 'loʔe')	datasets/Sika-Tana Ai.tsv		
+146	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ	nan	#NAME?	('hair', 'sika1262-hewa', 'loʔe')	datasets/Sika-Tana Ai.tsv		
+146	hair	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ala-ŋ ʔrou-ŋ	nan	- a l a ŋ _ ʔ r o u ŋ	('hair', 'sika1262-hewa', 'loʔe')	datasets/Sika-Tana Ai.tsv		
 148	eye	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mata	nan	- - - m a t a -	"('eye', 'alor1247-baran', ""'mataŋ"")"	datasets/Sika-Tana Ai.tsv		
 148	eye	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mata-ŋ	nan	#NAME?	"('eye', 'alor1247-baran', ""'mataŋ"")"	datasets/Sika-Tana Ai.tsv		
 149	ear	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	tilu	nan	t i l u - -	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/Sika-Tana Ai.tsv		
@@ -107,7 +107,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nora ləro-ŋ pae	/oras/ = from Portuguese	n o r a _ l ə r o ŋ _ p a e	('when?', 'sika1262-tanai', 'nora ləro-ŋ pae')	datasets/Sika-Tana Ai.tsv		
 219	when?	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nora oras	/oras/ = from Portuguese	n o r a _ - o r a s - - - -	('when?', 'sika1262-tanai', 'nora ləro-ŋ pae')	datasets/Sika-Tana Ai.tsv		
 219	when?	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	nora pae	/oras/ = from Portuguese	n o r a _ - - - - - - p a e	('when?', 'sika1262-tanai', 'nora ləro-ŋ pae')	datasets/Sika-Tana Ai.tsv		
-222	how?	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡanupae	nan	nan	('how?', 'sika1262-tanai', 'ɡanupae')	datasets/Sika-Tana Ai.tsv		
+222	how?	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡanupae	nan	nan	('how?', 'sika1262-hewa', 'ɡanu upan')	datasets/Sika-Tana Ai.tsv		
 231	left (side)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βiri	nan	- - β i r - - i	"('left (side)', 'fata1247', ""'welika"")"	datasets/Sika-Tana Ai.tsv		
 232	right (side)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βana	nan	#NAME?	('right (side)', 'keda1252-leuwa', 'vana')	datasets/Sika-Tana Ai.tsv		
 233	a few	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	kəsik ha	nan	k ə s i k _ h a - - - - -	('a few', 'sika1262-tanai', 'kəsik ha')	datasets/Sika-Tana Ai.tsv		
@@ -135,8 +135,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 284	new (house)	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	βəru	nan	β ə r u -	('new (house)', 'alor1247-baran', 'funɔ')	datasets/Sika-Tana Ai.tsv		
 288	hot	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rou	/ɡahu/ = warm	r o u	('hot', 'keda1252-leuwa', 'daja')	datasets/Sika-Tana Ai.tsv		
 288	hot	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	rou rada-ŋ	/ɡahu/ = warm	r o u _ r a d a ŋ	('hot', 'keda1252-leuwa', 'daja')	datasets/Sika-Tana Ai.tsv		
-288	hot	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡahu	/ɡahu/ = warm	ɡ a h u - -	('hot', 'sika1262-tanai', 'ɡahu')	datasets/Sika-Tana Ai.tsv		
-288	hot	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡoʔoŋ	/ɡahu/ = warm	ɡ o ʔ o ŋ -	('hot', 'sika1262-tanai', 'ɡahu')	datasets/Sika-Tana Ai.tsv		
+288	hot	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡahu	/ɡahu/ = warm	ɡ a h u - -	('hot', 'sika1262-hewa', 'gahu')	datasets/Sika-Tana Ai.tsv		
+288	hot	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ɡoʔoŋ	/ɡahu/ = warm	ɡ o ʔ o ŋ -	('hot', 'sika1262-hewa', 'gahu')	datasets/Sika-Tana Ai.tsv		
 289	cold	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	blata-ŋ	nan	b - l a t - - a ŋ	('cold', 'abui1241-fuime', 'palata')	datasets/Sika-Tana Ai.tsv		
 289	cold	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	blata-ŋ blaʔur	nan	b l a t a ŋ _ b l a ʔ u r	('cold', 'abui1241-fuime', 'palata')	datasets/Sika-Tana Ai.tsv		
 289	cold	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	blata-ŋ blira-ŋ	nan	b l a t a ŋ _ b l i r a ŋ	('cold', 'abui1241-fuime', 'palata')	datasets/Sika-Tana Ai.tsv		
@@ -174,13 +174,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 326	flat	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔalus	nan	ʔ a l u s -	('flat', 'sika1262-tanai', 'ʔalus')	datasets/Sika-Tana Ai.tsv		
 329	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mita-ŋ	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Sika-Tana Ai.tsv		
 329	black	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mitak	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/Sika-Tana Ai.tsv		
-330	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bura	nan	b u r a - - - - - - - - - - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/Sika-Tana Ai.tsv		
-330	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bura bara	nan	b u r a _ b a r a	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/Sika-Tana Ai.tsv		
-330	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ibok	nan	#NAME?	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/Sika-Tana Ai.tsv		
+330	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bura	nan	b u r a - - - - - - - - - - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/Sika-Tana Ai.tsv		
+330	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	bura bara	nan	b u r a _ b a r a	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/Sika-Tana Ai.tsv		
+330	white	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ibok	nan	#NAME?	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/Sika-Tana Ai.tsv		
 331	red	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	laka	nan	l a - k a - -	('red', 'sika1262-tanai', 'laka')	datasets/Sika-Tana Ai.tsv		
 331	red	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	mera-ŋ	nan	m e - - r a ŋ -	('red', 'p-cent2245-abvd', '*meʀaq')	datasets/Sika-Tana Ai.tsv		
 331	red	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	merak	nan	m e - - r a k -	('red', 'p-cent2245-abvd', '*meʀaq')	datasets/Sika-Tana Ai.tsv		
-332	green	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	daʔa-ŋ	nan	nan	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/Sika-Tana Ai.tsv		
+332	green	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	daʔa-ŋ	nan	nan	('blue', 'sika1262-hewa', 'daʔan')	datasets/Sika-Tana Ai.tsv		
 334	yellow	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	herə-t	nan	h e r ə t	('yellow', 'sika1262-tanai', 'herə-t')	datasets/Sika-Tana Ai.tsv		
 343	to see	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	niʔa	nan	n i ʔ a	('to see', 'p-aust1307-abvd', '*kita')	datasets/Sika-Tana Ai.tsv		
 343	to see	sika1262-tanai	Sika-Tana Ai	Austronesian	5Flores, 2Central	ʔita	nan	ʔ i t a -	('to see', 'p-aust1307-abvd', '*kita')	datasets/Sika-Tana Ai.tsv		

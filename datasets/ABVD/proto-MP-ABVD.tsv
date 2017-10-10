@@ -30,7 +30,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qapuk	nan	q a p u k	('dust; fine earth', 'p-mala1545-abvd', '*qapuk')	datasets/ABVD/proto-MP-ABVD.tsv		
 75	sand	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qenay	nan	q e n a y	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 76	grass; brush	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*baliji	nan	b a l i j i	('grass; brush', 'p-mala1545-abvd', '*baliji')	datasets/ABVD/proto-MP-ABVD.tsv		
-77	house	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ʀumaq	nan	ʀ u m a q	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/ABVD/proto-MP-ABVD.tsv		
+77	house	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ʀumaq	nan	ʀ u m a q	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 82	(thatch) roof	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qatep	(thatch/roof)	q a t e p	('(thatch) roof', 'p-cent2245-abvd', '*qatəp')	datasets/ABVD/proto-MP-ABVD.tsv		
 85	wood	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*kahiw	(stick/wood)	k a h i w -	('wood', 'p-aust1307-abvd', '*kaSiw')	datasets/ABVD/proto-MP-ABVD.tsv		
 87	leaf	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*dahun	nan	#NAME?	('leaf', 'buna1278-bobon', 'nɔ')	datasets/ABVD/proto-MP-ABVD.tsv		
@@ -51,7 +51,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 139	liver	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qatay	nan	q a t a - y	"('liver', 'alor1247-baran', ""'hati"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 141	guts	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tinaqi	(intestines)	t i n a q i	('guts', 'alor1249-sar-n', 'betar')	datasets/ABVD/proto-MP-ABVD.tsv		
 144	stomach; belly	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tian	(belly)	t i - a n	"('stomach; belly', 'alor1247-baran', ""'teiŋ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
-145	head	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('head', 'p-aust1307-abvd', '*quluh')	datasets/ABVD/proto-MP-ABVD.tsv		
+145	head	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qulu	nan	q u l u -	('head', 'adan1251-lawah', 'loŋ')	datasets/ABVD/proto-MP-ABVD.tsv		
 146	hair	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*buhek	nan	b u h e k	('hair', 'keda1252', 'uha')	datasets/ABVD/proto-MP-ABVD.tsv		
 148	eye	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mata	nan	- - - m a t a -	"('eye', 'alor1247-baran', ""'mataŋ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 149	ear	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*taliŋa	nan	t a l i ŋ a	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
@@ -77,8 +77,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-ɾuqanay	nan	m a ɾ u q a n a y	('man', 'p-aust1307-abvd', '*ma-ʀuqanay')	datasets/ABVD/proto-MP-ABVD.tsv		
 194	woman	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*bahi	nan	#NAME?	('woman', 'p-aust1307-abvd', '*bahi')	datasets/ABVD/proto-MP-ABVD.tsv		
 195	husband	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*bana	nan	b a n a	('husband', 'p-mala1545-abvd', '*bana')	datasets/ABVD/proto-MP-ABVD.tsv		
-195	husband	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qasawa	nan	q a s a w a	('husband', 'p-cent2245-abvd', '*qasawa')	datasets/ABVD/proto-MP-ABVD.tsv		
-196	wife	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qasawa	Not 'married woman'.	q a s a w a	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/ABVD/proto-MP-ABVD.tsv		
+195	husband	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qasawa	nan	q a s a w a	('husband', 'lama1277-belan', 'ha')	datasets/ABVD/proto-MP-ABVD.tsv		
+196	wife	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*qasawa	Not 'married woman'.	q a s a w a	('husband', 'lama1277-belan', 'ha')	datasets/ABVD/proto-MP-ABVD.tsv		
 197	mother	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*t-ina	nan	t i n a -	('mother', 'lama1277-belan', 'ina')	datasets/ABVD/proto-MP-ABVD.tsv		
 198	father	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*t-ama	nan	t a m a - -	"('father', 'buna1278-malia', ""'ʔamɑ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 203	1sg	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*i-aku	nan	nan	('1sg', 'amar1273-kotos', 'au')	datasets/ABVD/proto-MP-ABVD.tsv		
@@ -149,13 +149,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 311	sharp	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*tazim	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	#NAME?	('sharp', 'p-aust1307-abvd', '*Cazem')	datasets/ABVD/proto-MP-ABVD.tsv		
 312	blunt; dull	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*dumpul	nan	d u m p u l	('blunt; dull', 'p-cent2245-abvd', '*dumpul')	datasets/ABVD/proto-MP-ABVD.tsv		
 312	blunt; dull	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*pundul	nan	p u n d u l	('blunt; dull', 'p-cent2245-abvd', '*dumpul')	datasets/ABVD/proto-MP-ABVD.tsv		
-313	heavy	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-baseq	nan	m a b a s e q	('heavy', 'alor1247-baran', 'ba:')	datasets/ABVD/proto-MP-ABVD.tsv		
+313	heavy	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-baseq	nan	m a b a s e q	('heavy', 'amar1273-kotos', 'maʔfenaʔ')	datasets/ABVD/proto-MP-ABVD.tsv		
 316	wide	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-labeɾ	nan	m a l a b e ɾ -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/ABVD/proto-MP-ABVD.tsv		
 318	correct	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-bener	nan	m a b e n e r	('correct', 'p-mala1545-abvd', '*ma-bener')	datasets/ABVD/proto-MP-ABVD.tsv		
 321	rotten	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-busuk	nan	m a b u s u k	('rotten', 'p-aust1307-abvd', '*ma-buʀaq')	datasets/ABVD/proto-MP-ABVD.tsv		
 321	rotten	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-buɾuk	nan	m a b u ɾ u k	('rotten', 'p-aust1307-abvd', '*ma-buʀaq')	datasets/ABVD/proto-MP-ABVD.tsv		
 329	black	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-qitem	nan	nan	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
-330	white	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-putiq	nan	m a p u t i q	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/ABVD/proto-MP-ABVD.tsv		
+330	white	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-putiq	nan	m a p u t i q	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 331	red	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-iʀaq	nan	m a - i ʀ a q -	('red', 'p-cent2245-abvd', '*meʀaq')	datasets/ABVD/proto-MP-ABVD.tsv		
 332	green	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*mataq	nan	m a t a q	"('green', 'kema1243', ""'mɔ'sɔk"")"	datasets/ABVD/proto-MP-ABVD.tsv		
 334	yellow	p-mala1545-abvd	proto-MP-ABVD	Austronesian		*ma-kunij	nan	m a k u n i j	('yellow', 'p-cent2245-abvd', '*kunij')	datasets/ABVD/proto-MP-ABVD.tsv		
