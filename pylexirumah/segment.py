@@ -91,19 +91,14 @@ if __name__ == "__main__":
     # Drop empty entries
     data = data[~pandas.isnull(data["Value"])]
 
-    # Clean up IPA slightly
-    data["IPA"] = data["Value"].str.strip()
-    for key, value in clean.items():
-        data["IPA"] = data["IPA"].str.replace(key, value)
-
     # Tokenize IPA, also to ASJP
-    data["Tokens"] = [" ".join(tokenize_word_reversibly(x))
-                      for x in data["IPA"]]
+    data["Tokens"] = [" ".join(tokenize_word_reversibly(x, clean=True))
+                      for x in data["Value"]]
 
     from infomapcog.ipa2asjp import ipa2asjp
 
     data["ASJP"] = [" ".join(ipa2asjp(x))
-                    for x in data["IPA"]]
+                    for x in data["Value"]]
 
     # Clean up NaN values in cognate sets
     data["Cognate Set"] = [

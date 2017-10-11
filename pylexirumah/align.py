@@ -4,14 +4,60 @@
 
 import copy
 
+import numpy
 import newick
 import pandas
 import pickle
+import itertools
 
 import sys
 import argparse
 
+from newick import Node
+
 import infomapcog.dataio as dataio
+
+def upgma(distance_matrix, names=None):
+    """Cluster based on distance matrix dist using UPGMA
+
+    That is, the Unweighted Pair Group Method with Arithmetic Mean algorithm
+
+    If node names are given (not None), they must be a sequence of the same
+    length as the size of the square distance_matrix.
+
+    The edge lengths in the tree are not useful for the time being.
+    """
+
+    # Initialize nodes
+    nodes = [Node(name) for name in (names or range(len(distance_matrix)))]
+
+    # Iterate until the number of clusters is k
+    nc = len(distance_matrix)
+    while nc > 1:
+        # Calculate the pairwise distance of each cluster, while searching for pair with least distance
+        minimum_distance = numpy.inf
+        for i in range(nc-1):
+            for j in range(i+1, nc):
+                dis = distance_matrix[i, j]
+                if dis < minimum_distance:
+                    minimum_distance = dis
+                    cluster = nodes[i], nodes[j]
+                    indices = i, j
+        # Merge these two nodes into one new node
+
+        i, j = indices
+        distance_matrix[i] = 0.5 * (distance_matrix[i] + distance_matrix[j])
+        distance_matrix[:,i] = 0.5 * (distance_matrix[:,i] + distance_matrix[:,j])
+        nodes[i] = Node.create(descendants=cluster)
+        for c in cluster:
+            c.length = distance_matrix[i,i]
+
+        distance_matrix = numpy.delete(distance_matrix, j, 0)
+        distance_matrix = numpy.delete(distance_matrix, j, 1)
+        del nodes[j]
+
+        nc -= 1
+    return nodes[0]
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
@@ -49,14 +95,33 @@ if __name__ == "__main__":
         na_values=[""],
         keep_default_na=False,
         encoding='utf-8',
-        index_col=["English", "Language_ID", "IPA"])
+        index_col=["English", "Language_ID", "Value"])
 
     if args.guide_tree:
         tree = newick.load(args.guide_tree)[0]
     else:
-        raise argparse.ArgumentError
         # Calculate an UPGMA tree or something
-        
+        by_language = data.groupby("Language_ID")
+        languages = []
+        distance_matrix = numpy.zeros((len(by_language), len(by_language)))
+        for (l1, (language1, data1)), (l2, (language2, data2)) in (
+                itertools.combinations(enumerate(by_language), 2)):
+            languages.append(l1)
+            print(language1, language2)
+            c = 0
+            shared_vocab = 0
+            for concept in set(data1["Feature_ID"]) | set(data2["Feature_ID"]):
+                c1 = set(data1["Cognate Set"][data1["Feature_ID"] == concept])
+                c2 = set(data2["Cognate Set"][data2["Feature_ID"] == concept])
+                shared_vocab += len(c1 & c2)/len(c1 | c2)
+                c += 1
+
+            distance_matrix[l1, l2] = 1-shared_vocab/c
+            distance_matrix[l2, l1] = 1-shared_vocab/c
+        languages.append(l2)
+        tree = upgma(distance_matrix, languages)
+        print(tree)
+
     for i, cognateclass in data.groupby(args.cognate_col):
         if args.only_necessary and len(set([
                 len(r.split()) for r in cognateclass["Alignment"]])) == 1:
