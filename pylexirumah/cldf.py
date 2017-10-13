@@ -55,6 +55,10 @@ dataset.add_component('ParameterTable', "English", "Indonesian", "Semantic_Field
 # Explicitly create cognate table
 dataset.add_component(
     'CognateTable')
+dataset["CognateTable"].tableSchema.columns.append(
+    Column(name="ID",
+           required=True,
+           datatype="integer"))
 
 # Create a new table for loanword properties
 loan_table = Table(common_props={
@@ -160,6 +164,7 @@ for item in original.iterdir():
                     else cm),
                 'Source': [source_id] + source})
             CognateTable.append({
+                'ID': len(CognateTable),
                 'Form_ID': l,
                 'Cognate_set_ID': identifier(line["Cognate Set"]),
                 'Alignment': line.get("Alignment", "").split(" "),
