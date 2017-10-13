@@ -38,12 +38,20 @@ parser.add_argument(
 args = parser.parse_args()
 file = args.cognate_file
 
-cognates = pandas.read_csv(
-    file,
-    index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
-    na_values="",
-    keep_default_na=False,
-    sep="\t")
+try:
+    cognates = pandas.read_csv(
+        file,
+        index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
+        na_values="",
+        keep_default_na=False,
+        sep="\t")
+except ValueError:
+    cognates = pandas.read_csv(
+        file,
+        index_col=["FEATURE_ID", "DOCULECT", "IPA"],
+        na_values="",
+        keep_default_na=False,
+        sep="\t")
 
 cognates["COGID"] = cognates["COGID"].astype('str')
 
