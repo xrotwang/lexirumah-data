@@ -98,8 +98,7 @@ def cldf(args):
 def cldfwordlist(args):
     input, output = args.args
     max_id = 0
-    reader = csv.DictReader(input, delimiter=",")
-    # Actually, check if there is a metadata file.
+    reader = csv.DictReader(open(input), delimiter=",")
     cogids = {None: 0}
     for i, row in enumerate(reader):
         if i == 0:
@@ -119,7 +118,7 @@ def cldfwordlist(args):
             o_row["ID"] = max_id + 1
         max_id = max(max_id, o_row["ID"])
         o_row.setdefault("COGID", cogids.setdefault(
-            row["Cognate_Set"], len(cogids)))
+            row["Cognate_set_ID"], len(cogids)))
         writer.writerow(o_row)
 
 

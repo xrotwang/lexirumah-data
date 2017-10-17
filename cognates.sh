@@ -12,8 +12,8 @@ python3 pylexirumah/autocode.py tap-segmented.tsv tap-autocode.tsv --lodict pmi-
 echo "Merging…"
 python3 pylexirumah/merge.py tap-autocode.tsv tap-merged.tsv --log
 echo "Aligning…"
-python3 pylexirumah/align.py tap-merged.tsv tap-aligned-cldf.tsv --guide ~/devel/CogDetect/tree.tree --only --lodict pmi-scores
+python3 pylexirumah/align.py tap-merged.tsv tap-aligned-cldf.tsv --guide tree.newick --only --lodict pmi-scores
 echo "Preparing for edictor…"
-python3 pylexirumah/lingpycldf.py --cldf-to-lingpy tap-aligned-cldf.tsv tap-aligned.tsv
+python3 pylexirumah/lingpycldf.py cldfwordlist tap-aligned-cldf.tsv tap-aligned.tsv
 echo "Comparing with original data…"
 python3 pylexirumah/uncognates.py tap-aligned.tsv --print

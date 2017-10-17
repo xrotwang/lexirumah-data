@@ -36,6 +36,7 @@ def upgma(distance_matrix, names=None):
     while nc > 1:
         # Calculate the pairwise distance of each cluster, while searching for pair with least distance
         minimum_distance = numpy.inf
+        i, j = 0, 1
         for i in range(nc-1):
             for j in range(i+1, nc):
                 dis = distance_matrix[i, j]
@@ -46,8 +47,8 @@ def upgma(distance_matrix, names=None):
         # Merge these two nodes into one new node
 
         i, j = indices
-        distance_matrix[i] = 0.5 * (distance_matrix[i] + distance_matrix[j])
-        distance_matrix[:,i] = 0.5 * (distance_matrix[:,i] + distance_matrix[:,j])
+        distance_matrix[i] = 0.5 * (distance_matrix[i]) + 0.5*(distance_matrix[j])
+        distance_matrix[:,i] = 0.5 * (distance_matrix[:,i]) + 0.5*(distance_matrix[:,j])
         nodes[i] = Node.create(descendants=cluster)
         for c in cluster:
             c.length = distance_matrix[i,i]
@@ -95,7 +96,7 @@ if __name__ == "__main__":
         na_values=[""],
         keep_default_na=False,
         encoding='utf-8',
-        index_col=["English", "Language_ID", "Value"])
+        index_col=["English", "Language_ID", "Tokens"])
 
     if args.guide_tree:
         tree = newick.load(args.guide_tree)[0]
@@ -106,7 +107,8 @@ if __name__ == "__main__":
         distance_matrix = numpy.zeros((len(by_language), len(by_language)))
         for (l1, (language1, data1)), (l2, (language2, data2)) in (
                 itertools.combinations(enumerate(by_language), 2)):
-            languages.append(l1)
+            if language1 not in languages:
+                languages.append(language1)
             print(language1, language2)
             c = 0
             shared_vocab = 0
@@ -118,9 +120,10 @@ if __name__ == "__main__":
 
             distance_matrix[l1, l2] = 1-shared_vocab/c
             distance_matrix[l2, l1] = 1-shared_vocab/c
-        languages.append(l2)
+        languages.append(language2)
         tree = upgma(distance_matrix, languages)
         print(tree)
+        open("tree.newick", "w").write(tree.newick)
 
     for i, cognateclass in data.groupby(args.cognate_col):
         if args.only_necessary and len(set([
@@ -131,13 +134,13 @@ if __name__ == "__main__":
         # multi_align can work with. NOTE: By its current API,
         # infomapcog expects (L,C,V) tuples as keys.
         as_dict = [
-            {(l, c, tuple(row[args.tokens].split()))
+            {(l, c, tuple(t.split()))
                 for (c, l, t), row in cognateclass.iterrows()}]
 
         if len(as_dict[0]) == 1:
             language, concept, alg = as_dict[0].pop()
             data.set_value(
-                (concept, language, ''.join(alg)),
+                (concept, language, ' '.join([a for a in alg if a])),
                 "Alignment",
                 " ".join([a or '-' for a in alg]))
             continue
@@ -153,11 +156,11 @@ if __name__ == "__main__":
                     languages, concepts, zip(*algs)):
                 print(alg)
                 data.set_value(
-                    (concept, language, ''.join(alg)),
+                    (concept, language, ' '.join([a for a in alg if a])),
                     "Alignment",
                     " ".join([a or '-' for a in alg]))
 
     data.to_csv(args.output,
                 index=True,
                 na_rep="",
-                sep="\t")
+                sep=",")
