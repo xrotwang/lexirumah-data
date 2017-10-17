@@ -8,6 +8,11 @@ import sys
 import argparse
 
 from lingpy import ipa2tokens
+import pyclpa.base
+
+
+CLPA = pyclpa.base.CLPA()
+
 
 WHITELIST = {
     " ": "_",
@@ -69,18 +74,38 @@ def tokenize_word_reversibly(ipa, clean=False):
     return tokenized_word
 
 
-def tokenize_and_enforce_clpa(form, ignore_clpa_errors=True):
+def tokenize_and_enforce_clpa(form, ignore_clpa_errors=True, additional={}):
     """Return the CLPA sequence of a word form.
 
     If ignore_clpa_errors, return the sequence even if it contains unknown segments;
     otherwise (ignore_clpa_errors==False), raise an exception for invalid CLPA.
+
+    >>> " ".join([str(x) for x in  tokenize_and_enforce_clpa("baa")])
+    'b aː'
+
+    >>> " ".join([str(x) for x in  tokenize_and_enforce_clpa("a9b", ignore_clpa_errors=False)])
+    Traceback (most recent call last):
+      ...
+    ValueError: "9" is not a valid CLPA segment.
+
     """
-    tokenized_word = ipa2tokens(form, merge_vowels=False, merge_geminates=False)
-    for character in form:
-        pass
+    result = []
+    index_fw = 0
+    index_bw = len(form)
+    while True:
+        if index_bw == index_fw:
+            return result
+        possible_token = CLPA(form[index_fw:index_bw], additional)[0]
+        if isinstance(possible_token, pyclpa.base.Sound):
+            result.append(possible_token)
+            index_fw = index_bw
+            index_bw = len(form)
+        else:
+            index_bw -= 1
+
+
     # TODO: Finish the definition of this function.
-    # Think of a way to properly tokenize a form so it can be used as input for the CLPA check.
-    # ipa2tokens() does need the forms to be clean, which I want to avoid.
+    # Make sure that the expected error in the doctest points to the appropriate segment
 
 
 if __name__ == "__main__":
