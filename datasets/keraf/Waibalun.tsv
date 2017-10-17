@@ -24,7 +24,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kəawuk	nan	k - - əa w u k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Waibalun.tsv	15. Debu
 70	dust; fine earth	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kəawuk	nan	k - - əa w u k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Waibalun.tsv	151. Abu 
 75	sand	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wəra	nan	w ə r a - -	('sand', 'lama1277-baipi', 'wəra')	datasets/keraf/Waibalun.tsv	121. Pasir 
-76	grass; brush	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	luʔo	nan	- - l u ʔ o - -	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/keraf/Waibalun.tsv	118. Rumput 
+76	grass; brush	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	luʔo	nan	- - l u ʔ o - -	('grass; brush', 'lama1277-bama', 'luʔo')	datasets/keraf/Waibalun.tsv	118. Rumput 
 84	tree	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kajo	nan	- k a - - j o - - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Waibalun.tsv	110. Pohon 
 87	leaf	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	lolo	nan	- - - - - l o l o -	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/keraf/Waibalun.tsv	112. Daun 
 91	root	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	amut	nan	- a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Waibalun.tsv	114. Akar 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Waibalun.tsv	116. Bunga 
 129	salt	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Waibalun.tsv	128. Garam 
 130	fat	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	worã	nan	w o r - - - ã - - - -	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Waibalun.tsv	104. Lemak 
-131	flesh; meat	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	dagiŋ	nan	- - d a g i ŋ	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Waibalun.tsv	103. Daging 
+131	flesh; meat	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	dagiŋ	nan	- - d a g i ŋ	"('flesh; meat', 'kelo1247-hopte', ""'put"")"	datasets/keraf/Waibalun.tsv	103. Daging 
 132	bone	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	riʔuk	nan	- - - r i ʔ u k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Waibalun.tsv	19. Tulang
 136	blood	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Waibalun.tsv	26. Darah
 138	heart	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	puhũ	nan	- p u h ũ - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Waibalun.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wəwã	nan	w ə w ã - - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Waibalun.tsv	33. Mulut
 155	tongue	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wewel	nan	w e w e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Waibalun.tsv	35. Lidah
 156	neck	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wulik	nan	w u l i k -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Waibalun.tsv	28. Leher
-164	hand	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Waibalun.tsv	1. Tangan
-175	foot	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Waibalun.tsv	4. Kaki
+164	hand	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Waibalun.tsv	1. Tangan
+175	foot	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Waibalun.tsv	4. Kaki
 179	back	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kolaʔ	nan	k o l a ʔ	('back', 'lama1277-botun', 'kolak')	datasets/keraf/Waibalun.tsv	17. Punggung
 182	skin	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kama	nan	k a m a - - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Waibalun.tsv	16. Kulit
 190	person	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	atadikã	nan	a - t a d i k - ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Waibalun.tsv	53. Orang
@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bəlaki	nan	- - b ə - - - l a k i -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Waibalun.tsv	54. Laki-laki
 194	woman	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bərkawãe	nan	- - - b - ə r k a w ãe	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Waibalun.tsv	55. Wanita
 195	husband	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	lakẽ	nan	- - - - - - - - l a k - - - ẽ - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Waibalun.tsv	57. Suami
-196	wife	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Waibalun.tsv	58. Isteri
+196	wife	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Waibalun.tsv	58. Isteri
 197	mother	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	əmaʔ	nan	- ə m a ʔ	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Waibalun.tsv	59. Ibu
 198	father	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bapa	nan	- b a p a -	('father', 'lama1277-baipi', 'bapaʔ')	datasets/keraf/Waibalun.tsv	60. Bapak
 199	older sibling	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Waibalun.tsv	61. Kakak
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	ərəmpira	nan	ə r ə m - - p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Waibalun.tsv	174. Bilamana 
 223	this	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	pi	nan	- - - - - - p i	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Waibalun.tsv	179. Ini 
 224	that	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	pe	nan	- - p e - - -	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Waibalun.tsv	180. Itu 
-227	here	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	təpi	nan	- - t ə p i	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Waibalun.tsv	177. Di sini 
+227	here	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	təpi	nan	- - t ə p i	('at', 'lama1277-adona', 'pi')	datasets/keraf/Waibalun.tsv	177. Di sini 
 228	there	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	pewəli	nan	p e - w ə l i	('there', 'abui1241-petle', 'we')	datasets/keraf/Waibalun.tsv	178. Di situ 
 231	left (side)	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	nekĩ	nan	- - n e k - - ĩ -	('left (side)', 'abui1241-fuime', 'teibika')	datasets/keraf/Waibalun.tsv	2. Kiri
 232	right (side)	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wana	nan	w a n a -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Waibalun.tsv	3. Kanan
@@ -95,10 +95,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 262	feather	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	rawuk	nan	- - - - r a - w u k - -	('feather', 'lama1277-adona', 'ˈrawuke')	datasets/keraf/Waibalun.tsv	99. Bulu 
 264	snake	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	ula	nan	- - u l a - - - - - - -	"('snake', 'alor1247-baran', ""ʔu'la"")"	datasets/keraf/Waibalun.tsv	106. Ular 
 266	egg	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	təluk	nan	- - - - - - - t ə l u k - -	"('egg', 'alor1247-baran', ""'taluk"")"	datasets/keraf/Waibalun.tsv	98. Telur 
-279	louse (clothing)	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'lama1277-baipi', 'kuto')	datasets/keraf/Waibalun.tsv	108. Kutu 
+279	louse (clothing)	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'keda1252', 'utuʔ')	datasets/keraf/Waibalun.tsv	108. Kutu 
 281	big	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	belã	nan	b e l - - - ã - -	"('big', 'alor1247-besar', ""'beiŋ"")"	datasets/keraf/Waibalun.tsv	158. Besar 
 282	small	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kəne	nan	- k ə n e - - - - -	('small', 'abui1241-fuime', 'kdiŋ')	datasets/keraf/Waibalun.tsv	157. Kecil 
-284	new (house)	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'lama1277-baipi', 'wuʔũ')	datasets/keraf/Waibalun.tsv	167. Baru 
+284	new (house)	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'keda1252', 'werun')	datasets/keraf/Waibalun.tsv	167. Baru 
 288	hot	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	pəlate	nan	p ə l a t e -	"('hot', 'alor1247-baran', ""pa'latiŋ"")"	datasets/keraf/Waibalun.tsv	142. Panas 
 289	cold	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	gələtə	nan	- g ə - l ə t - - - - - - - ə - - -	('cold', 'abui1241-fuime', 'palata')	datasets/keraf/Waibalun.tsv	143. Dingin 
 290	good	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	mae	nan	m ae	('good', 'lama1277-baipi', 'mae')	datasets/keraf/Waibalun.tsv	168. Baik 
@@ -107,7 +107,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 295	far	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	doã	nan	- - - - d - - oã - - -	"('far', 'alor1247-baran', ""'ʤuaŋ"")"	datasets/keraf/Waibalun.tsv	182. Jauh 
 296	wet	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kədəmuk	nan	k ə d ə m - u k	('wet', 'lama1277-baipi', 'kədəmu')	datasets/keraf/Waibalun.tsv	145. Basah 
 297	dry	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	mara	nan	- m a - - r - - - - a - -	"('dry', 'alor1247-baran', ""'mara"")"	datasets/keraf/Waibalun.tsv	144. Kering 
-299	long	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bəlahã	nan	b ə l a - h - - ã -	"('long', 'alor1247-besar', ""bəla'hakaŋ"")"	datasets/keraf/Waibalun.tsv	160. Panjang 
+299	long	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bəlahã	nan	b ə l a - h - - ã -	('far', 'sika1262-hewa', 'blaʋir')	datasets/keraf/Waibalun.tsv	160. Panjang 
 301	short	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	karu	nan	k a r - - u -	('short', 'lama1277-bama', 'lere')	datasets/keraf/Waibalun.tsv	159. Pendek 
 303	thin (non-human)	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	mənipi	nan	m ə n i p - - i -	('thin (non-human)', 'lama1277-baipi', 'mənipi')	datasets/keraf/Waibalun.tsv	161. Tipis 
 305	thick	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	pəwəre	nan	p - - ə w ə r - e -	('thick', 'lama1277-botun', 'pəwərã')	datasets/keraf/Waibalun.tsv	162. Tebal 
@@ -117,11 +117,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 313	heavy	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	baʔat	nan	- - - b - - a ʔ a - - - - t - -	('heavy', 'alor1247-baran', 'ba:')	datasets/keraf/Waibalun.tsv	147. Berat 
 315	straight	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	mopa	nan	m o - p a -	('straight', 'lama1277-baipi', 'mopa')	datasets/keraf/Waibalun.tsv	165. Lurus 
 316	wide	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bəlã	nan	b - - ə l - - - ã - - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Waibalun.tsv	164. Luas 
-317	narrow	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kətəkə	nan	k - - - - ə t ə k ə -	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Waibalun.tsv	163. Sempit 
+317	narrow	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kətəkə	nan	k - - - - ə t ə k ə -	('narrow', 'lama1277-ileap', 'təkəl')	datasets/keraf/Waibalun.tsv	163. Sempit 
 321	rotten	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Waibalun.tsv	111. Busuk 
-326	flat	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	əbaʔ	nan	- - - - ə - - b a ʔ	('flat', 'lama1277-belan', 'lere')	datasets/keraf/Waibalun.tsv	146. Rata 
+326	flat	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	əbaʔ	nan	- - - - ə - - b a ʔ	('flat', 'lama1277-baipi', 'əbʔã')	datasets/keraf/Waibalun.tsv	146. Rata 
 329	black	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	mitə̃	nan	- - m i - t ə̃ - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Waibalun.tsv	152. Hitam 
-330	white	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	burã	nan	- - - b u r - - - - - - ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Waibalun.tsv	153. Putih 
+330	white	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	burã	nan	- - - b u r - - - - - - ã - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Waibalun.tsv	153. Putih 
 331	red	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Waibalun.tsv	154. Merah 
 332	green	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	ijo	nan	- i - j o - -	"('green', 'alor1247-besar', ""'iʤɔŋ"")"	datasets/keraf/Waibalun.tsv	156. Hijau 
 334	yellow	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	kumã	nan	k u m - - - - - ã - -	"('yellow', 'alor1247-besar', ""'kumɔŋ"")"	datasets/keraf/Waibalun.tsv	155. Kuning 
@@ -188,15 +188,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	tue	nan	- - t ue - - - - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Waibalun.tsv	9. Balik
 606	stomach	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	tãikəboti	nan	t ã - i - - - k ə b o t - i - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Waibalun.tsv	20. Isi perut
 607	tooth	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	ipə	nan	i - p ə - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Waibalun.tsv	34. Gigi
-609	fist	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Waibalun.tsv	72. Bertinju 
+609	fist	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Waibalun.tsv	72. Bertinju 
 612	stem	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	pukə	nan	p u - - k ə -	('stem', 'lama1277-baipi', 'pukən')	datasets/keraf/Waibalun.tsv	79. Batang 
 614	swollen	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Waibalun.tsv	87. Bengkak
 618	worm	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	gego	nan	g - - e g o - - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Waibalun.tsv	107. Cacing 
 625	dew	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	apũ	nan	a p ũ	('dew', 'lama1277-botun', 'apũ')	datasets/keraf/Waibalun.tsv	137. Embun 
 629	old	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	tənue	nan	t ə n - - ue - - - -	('old', 'lama1277-baipi', 'tənue')	datasets/keraf/Waibalun.tsv	166. Tua 
 631	right, correct	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	nə murə	nan	- n ə - - _ m u r ə	('right, correct', 'lama1277-baipi', 'mu')	datasets/keraf/Waibalun.tsv	170. Betul 
-633	in	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wəli	wəli, raeː different inflections?	w ə - - l i	('in', 'lama1277-baipi', 'di')	datasets/keraf/Waibalun.tsv	175. Di 
-633	in	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	rae	wəli, raeː different inflections?	- - - - r ae	('in', 'lama1277-baipi', 'di')	datasets/keraf/Waibalun.tsv	175. Di 
+633	in	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	wəli	wəli, raeː different inflections?	w ə - - l i	('in', 'lama1277-lewoe', 'wəli')	datasets/keraf/Waibalun.tsv	175. Di 
+633	in	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	rae	wəli, raeː different inflections?	- - - - r ae	('in', 'lama1277-lamal', 'rae')	datasets/keraf/Waibalun.tsv	175. Di 
 634	inside	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bəlomə	nan	b ə l o m ə - - -	('inside', 'lama1277-baipi', 'bəlomə')	datasets/keraf/Waibalun.tsv	176. Dalam 
 641	other	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	gehã	nan	- g e - h - - ã	('other', 'lama1277-bama', 'gehã')	datasets/keraf/Waibalun.tsv	192. Lain
 642	some	lama1277-waiba	Lamaholot-Waibalun	Austronesian	8Lembata	bopira	nan	b - - o p i r a	('some', 'lama1277-baipi', 'bopira')	datasets/keraf/Waibalun.tsv	193. Beberapa 

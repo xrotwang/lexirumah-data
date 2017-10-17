@@ -94,7 +94,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 109	sago	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tapoŋ	nan	t a p o ŋ	('sago', 'pura1258', 'tapoŋ')	datasets/beupuramk20160511wordlist.tsv		
 110	millet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nuat	nan	n - - ua t	('millet', 'alor1249-sar-a', 'nat')	datasets/beupuramk20160511wordlist.tsv		
 111	sugarcane	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ub	nan	- - u b - - -	('sugarcane', 'abui1241-fuime', 'fa')	datasets/beupuramk20160511wordlist.tsv		
-112	corn; maize	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batar	nan	b a t a r	('corn; maize', 'abui1241-fuime', 'fa:ti')	datasets/beupuramk20160511wordlist.tsv		
+112	corn; maize	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batar	nan	b a t a r	('cooked rice', 'lama1277-adona', 'wata mɜˈnihũ')	datasets/beupuramk20160511wordlist.tsv		
 113	cooked corn	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	batar 'api	nan	b a t a r _ - 'a p - - - - - - - i -	('cooked corn', 'abui1241-takal', 'fä:t mä')	datasets/beupuramk20160511wordlist.tsv		
 114	coconut	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	vet	written as bet	- v e - - t - - - - - -	('coconut', 'abui1241-fuime', 'wata')	datasets/beupuramk20160511wordlist.tsv		
 115	gwang	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ka'dubu	nan	k a 'd - - u - b u - - -	"('gwang', 'alor1247-munas', ""k'dɛbu 'pukɔŋ"")"	datasets/beupuramk20160511wordlist.tsv		
@@ -329,7 +329,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 338	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'lapal	nan	- - - - - - m a 'l a p a l	('hungry', 'baka1276', 'manápal')	datasets/beupuramk20160511wordlist.tsv		
 338	hungry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ava ma'lapal	nan	- a v a - _ m a 'l a p a l	('hungry', 'baka1276', 'manápal')	datasets/beupuramk20160511wordlist.tsv		
 339	blind	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tɛŋ'ɟasi	nan	t ɛ ŋ 'ɟ a s i	"('blind', 'pura1258', ""tɛŋ'ɟasi"")"	datasets/beupuramk20160511wordlist.tsv		
-340	deaf	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taveriŋ kabe	taveriŋ=ear	- - t a v e r i ŋ _ k a b e -	('deaf', 'lama1277-adona', 'kɜˈbekʔẽ')	datasets/beupuramk20160511wordlist.tsv		
+340	deaf	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taveriŋ kabe	taveriŋ=ear	- - t a v e r i ŋ _ k a b e -	"('deaf', 'keda1252-leuba', ""'ʔɛbuʔ"")"	datasets/beupuramk20160511wordlist.tsv		
 341	scared	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	t-uaŋ 'mari	nan	- - t -u - - a ŋ _' m a r	"('scared', 'pura1258', ""t-uaŋ 'mari"")"	datasets/beupuramk20160511wordlist.tsv		
 342	angry	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'lil	nan	- - - - - - - - - - a 'l - - i l -	('angry', 'kama1365', 'kailaŋ')	datasets/beupuramk20160511wordlist.tsv		
 343	to see	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'teiŋ	nan	- a 't ei ŋ	('to see', 'baka1276', 'teiŋ')	datasets/beupuramk20160511wordlist.tsv		
@@ -549,7 +549,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 539	to rule or govern	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	'gahiŋ	nan	'g a h i - - - - ŋ - -	"('to rule or govern', 'alor1247-besar', ""'gahiŋ"")"	datasets/beupuramk20160511wordlist.tsv		
 540	treaty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nanu meha heiŋ	nanu meha haiŋ=put one sign	n a n u _ m e h a _ h ei ŋ	"('treaty', 'alor1247-besar', ""'bela 'baʤa"")"	datasets/beupuramk20160511wordlist.tsv		
 541	marriage	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	taiŋ'medi	nan	t ai ŋ 'm e d - - - - - - - i - - -	"('marriage', 'alor1247-besar', ""'haʤa 'nika"")"	datasets/beupuramk20160511wordlist.tsv		
-542	friend	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'seraŋ	nan	n e 's e r - - - a ŋ -	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/beupuramk20160511wordlist.tsv		
+542	friend	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'seraŋ	nan	n e 's e r - - - a ŋ -	('friend', 'kama1365', '-nok')	datasets/beupuramk20160511wordlist.tsv		
 543	enemy	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	dena'wala	nan	d e n a - - 'w a l a	"('enemy', 'alor1247-besar', ""'onɔŋ 'datɛ"")"	datasets/beupuramk20160511wordlist.tsv		
 544	king; ruler	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ne'hele	nan	n e 'h e - l e -	"('king; ruler', 'pura1258', ""ne'hele"")"	datasets/beupuramk20160511wordlist.tsv		
 546	to invite	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	a'ɟari	nan	a 'ɟ a r i	"('to invite', 'pura1258', ""a'ɟari"")"	datasets/beupuramk20160511wordlist.tsv		
@@ -562,7 +562,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 553	the murder	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe a'meaŋ	nan	n e h e _ a 'm ea ŋ	"('the murder', 'pura1258', ""nehe a'meaŋ"")"	datasets/beupuramk20160511wordlist.tsv		
 554	the adultery	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	buha	lit. eat betelnut (makan pinang)	b u h a	('the adultery', 'pura1258', 'buha')	datasets/beupuramk20160511wordlist.tsv		
 555	penalty	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	awaloriŋ benteriŋ	awaloriŋ=malu, shame; benteriŋ=close	a w a l o r i ŋ _ b e n t e r i ŋ	('penalty', 'pura1258', 'awaloriŋ benteriŋ')	datasets/beupuramk20160511wordlist.tsv		
-556	fishnet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pukat	Indonesian	p u k a t	"('fishnet', 'alor1247-besar', ""'pukɔ"")"	datasets/beupuramk20160511wordlist.tsv		
+556	fishnet	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	pukat	Indonesian	p u k a t	('fish trap', 'lama1277-kalik', 'puˈkət')	datasets/beupuramk20160511wordlist.tsv		
 557	to surrender	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	na ne'auŋ	lit. be full, satisfied	n a - _ n e - 'au ŋ	"('to surrender', 'alor1247-besar', ""'ampɔ"")"	datasets/beupuramk20160511wordlist.tsv		
 558	to defend	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ta:ŋ pina	lit. tetap pegang	t a: ŋ _ p i n a - -	"('to defend', 'alor1247-besar', ""'ʤaga"")"	datasets/beupuramk20160511wordlist.tsv		
 559	the war or battle	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	ma'libal	other words mentioned: oraŋ; tim babue	m a 'l i b a l	"('the war or battle', 'pura1258', ""ma'libal"")"	datasets/beupuramk20160511wordlist.tsv		
@@ -595,7 +595,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 585	hour	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	oda	adapted loan from Portuguese 	- o - - - d a - - -	"('hour', 'alor1247-besar', ""'dane"")"	datasets/beupuramk20160511wordlist.tsv		
 586	same	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hama	nan	h a m - - - a	"('same', 'alor1247-besar', ""'hama"")"	datasets/beupuramk20160511wordlist.tsv		
 587	oven/cooking place	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	tutu	nan	t u t u -	"('oven/cooking place', 'alor1247-besar', ""'lika"")"	datasets/beupuramk20160511wordlist.tsv		
-588	flower (in e.g. mangga tree)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'buma	nan	- t e - - 'b u m a - - - - - - - - -	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/beupuramk20160511wordlist.tsv		
+588	flower (in e.g. mangga tree)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te'buma	nan	- t e - - 'b u m a - - - - - - - - -	"('flower (in e.g. mangga tree)', 'idat1237', ""hu'na:n"")"	datasets/beupuramk20160511wordlist.tsv		
 589	vein	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	hariki	nan	h a r i k i -	('vein', 'kabo1247', 'tərú')	datasets/beupuramk20160511wordlist.tsv		
 590	long (stick)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	te a'veniŋ	nan	t e _ a 'v e n i ŋ	('long (stick)', 'baka1276', 'veniŋ')	datasets/beupuramk20160511wordlist.tsv		
 591	tall (person)	pura1258	Blagar-Pura	Timor-Alor-Pantar	2Pura	nehe ba'lolu	nan	n e h e _ b a 'l o l u	('tall (person)', 'kama1365', 'lapaŋ')	datasets/beupuramk20160511wordlist.tsv		

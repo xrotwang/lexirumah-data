@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Tanjung.tsv	120. Batu 
 35	water (fresh)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Tanjung.tsv	122. Air 
 36	sea; sea water	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	tahik	nan	t a h i k -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Tanjung.tsv	127. Laut 
-39	forest	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	duã	nan	d uã - - - - - -	('forest', 'lama1277-botun', 'rukʔã')	datasets/keraf/Tanjung.tsv	132. Hutan
+39	forest	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	duã	nan	d uã - - - - - -	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/keraf/Tanjung.tsv	132. Hutan
 45	road; path; way	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	larã	nan	- l a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Tanjung.tsv	7. Jalan
 51	rope	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Tanjung.tsv	65. Tali
 65	clothing	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	alelolo	nan	- a l e - l o l o - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Tanjung.tsv	68. Pakaian 
@@ -24,7 +24,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kəawuk	nan	k - - əa w u k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Tanjung.tsv	15. Debu
 70	dust; fine earth	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kəawuk	nan	k - - əa w u k -	('dust; fine earth', 'lama1277-baipi', 'kəawuk')	datasets/keraf/Tanjung.tsv	151. Abu 
 75	sand	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wəra	nan	w ə r a - -	('sand', 'lama1277-baipi', 'wəra')	datasets/keraf/Tanjung.tsv	121. Pasir 
-76	grass; brush	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	hokə̃	nan	- - h o k ə̃ - -	('grass; brush', 'lama1277-baipi', 'kərəmət')	datasets/keraf/Tanjung.tsv	118. Rumput 
+76	grass; brush	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	hokə̃	nan	- - h o k ə̃ - -	('grass; brush', 'lama1277-tanju', 'hokə̃')	datasets/keraf/Tanjung.tsv	118. Rumput 
 84	tree	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kajo	nan	- k a - - j o - - - - - - - - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/keraf/Tanjung.tsv	110. Pohon 
 87	leaf	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	lolo	nan	- - - - - l o l o -	"('leaf', 'alor1247-baran', ""'lɔlɔŋ"")"	datasets/keraf/Tanjung.tsv	112. Daun 
 91	root	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ramut	nan	r a m u t - -	('root', 'lama1277-baipi', 'amut')	datasets/keraf/Tanjung.tsv	114. Akar 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Tanjung.tsv	116. Bunga 
 129	salt	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Tanjung.tsv	128. Garam 
 130	fat	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	worã	nan	w o r - - - ã - - - -	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Tanjung.tsv	104. Lemak 
-131	flesh; meat	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Tanjung.tsv	103. Daging 
+131	flesh; meat	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Tanjung.tsv	103. Daging 
 132	bone	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	riʔuk	nan	- - - r i ʔ u k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Tanjung.tsv	19. Tulang
 136	blood	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Tanjung.tsv	26. Darah
 138	heart	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	puhũ	nan	- p u h ũ - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Tanjung.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wəwak	nan	w ə w a k - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Tanjung.tsv	33. Mulut
 155	tongue	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wewel	nan	w e w e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Tanjung.tsv	35. Lidah
 156	neck	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wuli	nan	w u l i - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Tanjung.tsv	28. Leher
-164	hand	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Tanjung.tsv	1. Tangan
-175	foot	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Tanjung.tsv	4. Kaki
+164	hand	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Tanjung.tsv	1. Tangan
+175	foot	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Tanjung.tsv	4. Kaki
 179	back	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kolaʔ	nan	k o l a ʔ	('back', 'lama1277-botun', 'kolak')	datasets/keraf/Tanjung.tsv	17. Punggung
 182	skin	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kama	nan	k a m a - - - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Tanjung.tsv	16. Kulit
 190	person	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ata	nan	a t a - - - - - -	('person', 'lama1277-baipi', 'atadikə')	datasets/keraf/Tanjung.tsv	53. Orang
@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	amalake	nan	- a m a - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Tanjung.tsv	54. Laki-laki
 194	woman	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	inawae	nan	- i n a - w ae	('woman', 'lama1277-bama', 'inawae')	datasets/keraf/Tanjung.tsv	55. Wanita
 195	husband	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	lake	nan	- - - - - - - - l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Tanjung.tsv	57. Suami
-196	wife	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Tanjung.tsv	58. Isteri
+196	wife	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kəwae	nan	- - - k - - ə w - - - - - ae - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Tanjung.tsv	58. Isteri
 197	mother	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	əma	nan	- ə m a -	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Tanjung.tsv	59. Ibu
 198	father	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	bapa	nan	- b a p a -	('father', 'lama1277-baipi', 'bapaʔ')	datasets/keraf/Tanjung.tsv	60. Bapak
 199	older sibling	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Tanjung.tsv	61. Kakak
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	arəmpira	nan	a r ə m - - p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Tanjung.tsv	174. Bilamana 
 223	this	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	piʔĩ	nan	- p i ʔ ĩ	('this', 'lama1277-bama', 'piʔĩ')	datasets/keraf/Tanjung.tsv	179. Ini 
 224	that	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	peʔẽ	nan	- - p e - ʔ ẽ	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Tanjung.tsv	180. Itu 
-227	here	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	pia	nan	- - p - - ia	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Tanjung.tsv	177. Di sini 
+227	here	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	pia	nan	- - p - - ia	('at', 'lama1277-adona', 'pi')	datasets/keraf/Tanjung.tsv	177. Di sini 
 228	there	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	pəwəli	nan	p ə - w ə l i	('there', 'abui1241-petle', 'we')	datasets/keraf/Tanjung.tsv	178. Di situ 
 231	left (side)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	nekĩ	nan	- - n e k - - ĩ -	('left (side)', 'abui1241-fuime', 'teibika')	datasets/keraf/Tanjung.tsv	2. Kiri
 232	right (side)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wana	nan	w a n a -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Tanjung.tsv	3. Kanan
@@ -95,10 +95,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 262	feather	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	rawuk	nan	- - - - r a - w u k - -	('feather', 'lama1277-adona', 'ˈrawuke')	datasets/keraf/Tanjung.tsv	99. Bulu 
 264	snake	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ulaʔ	nan	- - u l a ʔ - - - - - -	"('snake', 'alor1247-baran', ""ʔu'la"")"	datasets/keraf/Tanjung.tsv	106. Ular 
 266	egg	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	təluk	nan	- - - - - - - t ə l u k - -	"('egg', 'alor1247-baran', ""'taluk"")"	datasets/keraf/Tanjung.tsv	98. Telur 
-279	louse (clothing)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'lama1277-baipi', 'kuto')	datasets/keraf/Tanjung.tsv	108. Kutu 
+279	louse (clothing)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'keda1252', 'utuʔ')	datasets/keraf/Tanjung.tsv	108. Kutu 
 281	big	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	belə	nan	b e l - - - ə - -	"('big', 'alor1247-besar', ""'beiŋ"")"	datasets/keraf/Tanjung.tsv	158. Besar 
 282	small	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kəni	nan	- k ə n i - - - - -	('small', 'abui1241-fuime', 'kdiŋ')	datasets/keraf/Tanjung.tsv	157. Kecil 
-284	new (house)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'lama1277-baipi', 'wuʔũ')	datasets/keraf/Tanjung.tsv	167. Baru 
+284	new (house)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'keda1252', 'werun')	datasets/keraf/Tanjung.tsv	167. Baru 
 288	hot	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	pəlate	nan	p ə l a t e -	"('hot', 'alor1247-baran', ""pa'latiŋ"")"	datasets/keraf/Tanjung.tsv	142. Panas 
 289	cold	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	gələtã	nan	- g ə - l ə t - - - - - - - ã - - -	('cold', 'abui1241-fuime', 'palata')	datasets/keraf/Tanjung.tsv	143. Dingin 
 290	good	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	mae	nan	m ae	('good', 'lama1277-baipi', 'mae')	datasets/keraf/Tanjung.tsv	168. Baik 
@@ -107,7 +107,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 295	far	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	doa	nan	- - - - d - - oa - - -	"('far', 'alor1247-baran', ""'ʤuaŋ"")"	datasets/keraf/Tanjung.tsv	182. Jauh 
 296	wet	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	dəma	nan	- - d ə m - a -	('wet', 'lama1277-baipi', 'kədəmu')	datasets/keraf/Tanjung.tsv	145. Basah 
 297	dry	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	mara	nan	- m a - - r - - - - a - -	"('dry', 'alor1247-baran', ""'mara"")"	datasets/keraf/Tanjung.tsv	144. Kering 
-299	long	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	bəlaha	nan	b ə l a h a - - -	('long', 'lama1277-bama', 'bəlaha')	datasets/keraf/Tanjung.tsv	160. Panjang 
+299	long	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	bəlaha	nan	b ə l a h a - - -	('far', 'sika1262-hewa', 'blaʋir')	datasets/keraf/Tanjung.tsv	160. Panjang 
 301	short	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ətu	nan	- ə t - - u -	('short', 'lama1277-bama', 'lere')	datasets/keraf/Tanjung.tsv	159. Pendek 
 303	thin (non-human)	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	nipi	nan	- - n i p - - i -	('thin (non-human)', 'lama1277-baipi', 'mənipi')	datasets/keraf/Tanjung.tsv	161. Tipis 
 305	thick	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	bəsiʔ	nan	b ə s i ʔ	('thick', 'baka1276', 'pusi')	datasets/keraf/Tanjung.tsv	162. Tebal 
@@ -117,11 +117,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 313	heavy	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	baʔat	nan	- - - b - - a ʔ a - - - - t - -	('heavy', 'alor1247-baran', 'ba:')	datasets/keraf/Tanjung.tsv	147. Berat 
 315	straight	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kəlo	nan	k ə l o - - - -	('straight', 'lama1277-adona', 'kɜˈlɔhɔ')	datasets/keraf/Tanjung.tsv	165. Lurus 
 316	wide	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	belə	nan	b - - e l - - - ə - - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Tanjung.tsv	164. Luas 
-317	narrow	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	tudək	nan	- - - - t u d ə k - -	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Tanjung.tsv	163. Sempit 
+317	narrow	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	tudək	nan	- - - - t u d ə k - -	('narrow', 'lama1277-botun', 'tudak')	datasets/keraf/Tanjung.tsv	163. Sempit 
 321	rotten	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Tanjung.tsv	111. Busuk 
 326	flat	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	əbʔã	nan	ə b ʔ ã	('flat', 'lama1277-baipi', 'əbʔã')	datasets/keraf/Tanjung.tsv	146. Rata 
 329	black	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	mitə	nan	- - m i - t ə - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Tanjung.tsv	152. Hitam 
-330	white	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	buraʔ	nan	- - - b u r a - - - - ʔ - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Tanjung.tsv	153. Putih 
+330	white	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	buraʔ	nan	- - - b u r a - - - - ʔ - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Tanjung.tsv	153. Putih 
 331	red	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	meʔa	nan	m e - - ʔ a -	('red', 'lama1277-baipi', 'meʔa')	datasets/keraf/Tanjung.tsv	154. Merah 
 332	green	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ijo	nan	- i - j o - -	"('green', 'alor1247-besar', ""'iʤɔŋ"")"	datasets/keraf/Tanjung.tsv	156. Hijau 
 334	yellow	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kuma	nan	k - - u m - - a -	('yellow', 'lama1277-baipi', 'kuniŋ')	datasets/keraf/Tanjung.tsv	155. Kuning 
@@ -187,14 +187,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	oli	nan	- - - o l i - - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Tanjung.tsv	9. Balik
 606	stomach	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	tãi kəboti	nan	t ã - i - - _ k ə b o t - i - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Tanjung.tsv	20. Isi perut
 607	tooth	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	ipə	nan	i - p ə - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Tanjung.tsv	34. Gigi
-609	fist	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	sadok	nan	s a d o k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Tanjung.tsv	72. Bertinju 
+609	fist	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	sadok	nan	s a d o k -	('fist', 'lama1277-bama', 'sadok')	datasets/keraf/Tanjung.tsv	72. Bertinju 
 612	stem	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	pukə	nan	p u - - k ə -	('stem', 'lama1277-baipi', 'pukən')	datasets/keraf/Tanjung.tsv	79. Batang 
 614	swollen	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Tanjung.tsv	87. Bengkak
 618	worm	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	kəbeŋə	nan	k ə b e ŋ ə - - - -	('worm', 'lama1277-baipi', 'kəbeŋə')	datasets/keraf/Tanjung.tsv	107. Cacing 
 625	dew	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	apu	nan	a p u - -	('dew', 'lama1277-baipi', 'apu')	datasets/keraf/Tanjung.tsv	137. Embun 
 629	old	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	tənue	nan	t ə n - - ue - - - -	('old', 'lama1277-baipi', 'tənue')	datasets/keraf/Tanjung.tsv	166. Tua 
 631	right, correct	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	murə	nan	- - - - - - m u r ə	('right, correct', 'lama1277-baipi', 'mu')	datasets/keraf/Tanjung.tsv	170. Betul 
-633	in	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	pi	nan	- - - - p i	('in', 'lama1277-baipi', 'di')	datasets/keraf/Tanjung.tsv	175. Di 
+633	in	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	pi	nan	- - - - p i	('at', 'lama1277-adona', 'pi')	datasets/keraf/Tanjung.tsv	175. Di 
 634	inside	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	onə	nan	- - - o n ə - - -	('inside', 'lama1277-baipi', 'bəlomə')	datasets/keraf/Tanjung.tsv	176. Dalam 
 641	other	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	gehã	nan	- g e - h - - ã	('other', 'lama1277-bama', 'gehã')	datasets/keraf/Tanjung.tsv	192. Lain
 642	some	lama1277-tanju	Lamaholot-Tanjung	Austronesian	8Lembata	bopira	nan	b - - o p i r a	('some', 'lama1277-baipi', 'bopira')	datasets/keraf/Tanjung.tsv	193. Beberapa 

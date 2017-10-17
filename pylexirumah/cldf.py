@@ -1,7 +1,11 @@
+import re
 import math
 
 import csv
 import json
+
+import sys
+import argparse
 
 from clldutils.path import Path
 from pycldf.sources import Source
@@ -11,50 +15,51 @@ from clldutils.csvw.metadata import Column, Table, Schema, ForeignKey
 
 from segment import tokenize_word_reversibly
 
-dataset = Wordlist.in_dir(Path(__file__).parent.parent.joinpath("cldf"))
+parser = argparse.ArgumentParser()
+parser.add_argument("cldf", type=Path, default=Path(__file__).parent.parent.joinpath("cldf"))
+parser.add_argument("datasets", type=Path, default=Path(__file__).parent.parent.joinpath("datasets"))
+parser.add_argument("--encoding", default="utf-8")
+parser.add_argument("--featureid", default="English=English")
+args = parser.parse_args()
+path = args.cldf
+original = args.datasets
+# Decide which column to use as key and as foreignKey
+concept_id, foreign_key = args.featureid.split("=")
 
-# Add cognate set and alignment columns to forms table
-forms_table = dataset.tables[0]
-forms_table.tableSchema.columns.append(
-    Column(name="Cognate_Set",
-           propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#cognateSet"))
-forms_table.tableSchema.columns.append(
-    Column(name="Alignment",
-           propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#alignment",
-           separator=" "))
+dataset = Wordlist.from_metadata(path)
+
+
+def identifier(string):
+    return re.sub('(\W|^(?=\d))+','_', string).strip("_")
+
 
 # Explicitly create a language table
-dataset.add_component('LanguageTable', "Glottocode")
-dataset["LanguageTable"].tableSchema.columns[-1].propertyUrl = "http://cldf.clld.org/v1.0/terms.rdf#glottocode"
-dataset["LanguageTable"].tableSchema.columns[-1].valueUrl = "http://glottolog.org/resource/languoid/id/{ID}"
-dataset["LanguageTable"].tableSchema.columns[-1].required = True
+dataset.add_component(
+    'LanguageTable')
 dataset["LanguageTable"].tableSchema.columns.append(
     Column(name="Family",
-           propertyUrl="http://glottolog.org/glottolog/family"))
+           propertyUrl="http://glottolog.org/glottolog/family",
+           datatype="string"))
 dataset["LanguageTable"].tableSchema.columns.append(
-    Column(name="Description"))
+    Column(name="Description",
+           propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#description",
+           datatype="string"))
 dataset["LanguageTable"].tableSchema.columns.append(
-    Column(name="Comment"))
+    Column(name="Comment",
+           propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#comment",
+           datatype="string"))
 
 # Explicitly create a parameter table
 dataset.add_component('ParameterTable', "English", "Indonesian", "Semantic_Field", "Elicitation_Notes", "Concepticon_ID", "Comment")
- 
+
+# Explicitly create cognate table
+dataset.add_component(
+    'CognateTable')
+
 # Create a new table for loanword properties
-loan_table = Table(common_props={
-    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-    "dc:conformsTo-is-a-lie": True},
-                   url="loans.csv",
-                   parent=dataset.tablegroup)
-loan_table.tableSchema.columns.append(
-    Column(name="Form_ID",
-           required=True,
-           datatype="integer"))
-loan_table.tableSchema.foreignKeys.append(
-    ForeignKey.fromdict({
-        "reference": {
-            "resource": "forms.csv",
-            "columnReference": ["ID"]},
-        "columnReference": ["Form_ID"]}))
+dataset.add_component(
+    'BorrowingTable')
+loan_table = dataset["BorrowingTable"]
 loan_table.tableSchema.columns.append(
     Column(name="Status",
            propertyUrl="http://wold.clld.org/terms#borrowed_status",
@@ -65,29 +70,36 @@ loan_table.tableSchema.columns.append(
            # 5. no evidence for borrowing
            # This only considers the *word form* of the item, not the morphological structure (calques, loan translations etc.)
            datatype="integer"))
-dataset.tables.append(loan_table)
+
 
 # Load concept metadata
+concept_file = original.parent.joinpath("concepts.tsv").open(encoding=args.encoding)
+if "16" in args.encoding:
+    bom = concept_file.read(1)
+    if bom == ('\ufeff') or bom == ('\ufeff'):
+        pass
+    else:
+        concept_file.seek(0, 0)
 ParameterTable = {}
-for l, line in enumerate(csv.DictReader(
-        Path(__file__).parent.parent.joinpath("concepts.tsv").open(),
+for l, line in enumerate(csv.DictReader(concept_file,
         delimiter="\t")):
-    ParameterTable[line["English"]] = {
-        "ID": l,
-        "Name": line["CONCEPTICON_GLOSS"],
+    ParameterTable[line[concept_id]] = {
+        "ID": identifier(line["English"]),
+        "Name": line.get("CONCEPTICON_GLOSS") or line.get("English"),
         "English": line["English"].strip(),
         "Indonesian": line["Indonesian"].strip(),
         "Semantic_Field": line["Semantic field"],
-        "Concepticon_ID": line["CONCEPTICON_ID"],
+        "Concepticon_ID": line.get("CONCEPTICON_ID"),
         "Comment": line["Concept Notes"],
         "Elicitation_Notes": ""}
 
-# Load the original data and transform into CLDF (concepts and languages still missing)
+# Load the original data and transform into CLDF
 FormTable = []
+CognateTable = []
 LoanTable = []
 additional_sources = {}
 l = 0
-for item in Path(__file__).parent.parent.joinpath("datasets").iterdir():
+for item in original.iterdir():
     if item.suffix == ".tsv":
         source_id = ''.join(item.stem.split())
         try:
@@ -95,39 +107,60 @@ for item in Path(__file__).parent.parent.joinpath("datasets").iterdir():
             source_data = json.load(metadata.open())
             bib = {}
             for key in source_data:
-                bib[key.replace(" ", "").replace(":", "")] = str(source_data[key])
+                bib[identifier(key)] = str(source_data[key])
             dataset.sources.add(Source(genre='misc', id_=source_id, **bib))
         except FileNotFoundError:
             pass
 
-        reader = csv.DictReader(item.open(), delimiter="\t")
+        file = item.open(encoding=args.encoding)
+        if "16" in args.encoding:
+            # Check whether there is a BOM that should not be there
+            bom = file.read(1)
+            if bom == ('\ufeff') or bom == ('\ufeff'):
+                pass
+            else:
+                file.seek(0, 0)
+        reader = csv.DictReader(file, delimiter="\t")
         for line in reader:
             cm = line["Comment"]
             loan = line["Loan"]
             value = line["Value"]
             if line["Reference"]:
-                name = line["Reference"].replace(";", "").replace(" ", "_").replace("?", "XXX")
-                additional_sources[name] = {}
-                source = [name]
+                name = identifier(line["Reference"])
+                if name:
+                    additional_sources[name] = {}
+                    source = [name]
+                else:
+                    source = []
             else:
                 source = []
+
+            segments = tokenize_word_reversibly(value, clean=True)
             FormTable.append({
                 'ID': l,
                 'Language_ID': line["Language_ID"],
-                'Parameter_ID': ParameterTable[line["English"]]["ID"],
-                'Value': value,
-                'Segments': tokenize_word_reversibly(value, clean=True),
+                'Parameter_ID': ParameterTable[line[foreign_key]]["ID"],
+                'Form': value or '-',
+                'Segments': segments,
                 'Comment': (
                     '' if cm != cm or cm == 'nan'
                     # cm != cm is a cheap test for cm being NaN
                     else cm),
-                'Source': [source_id] + source,
-                'Cognate_Set': line["Cognate Set"],
-                'Alignment': line["Alignment"].split(" ")})
+                'Source': [source_id] + source})
+            alignment = line.get("Alignment", "")
+            if alignment in ["#NAME?", "nan", ""]:
+                alignment = segments
+            CognateTable.append({
+                'ID': len(CognateTable),
+                'Form_ID': l,
+                'Cognateset_ID': identifier(line["Cognate Set"]),
+                'Alignment': alignment,
+                'Source': []})
             if line["Loan"]:
                 LoanTable.append({
+                    "ID": len(LoanTable),
                     "Status": 2,
-                    "Form_ID": l})
+                    "Form_ID_Target": l})
             l += 1
         for source_id, bib in additional_sources.items():
             dataset.sources.add(Source(genre='misc', id_=source_id, **bib))
@@ -185,7 +218,12 @@ for line in csv.DictReader(Path(__file__).parent.parent.joinpath("languages.tsv"
 
 # Write data back
 dataset.write(FormTable=FormTable,
-              ValueTable=LoanTable,
+              CognateTable=CognateTable,
+              BorrowingTable=LoanTable,
               LanguageTable=LanguageTable,
               ParameterTable=ParameterTable.values())
 
+from pycldf.db import Database
+db = Database("cldf.sqlite")
+db.create(force=True)
+db.load(dataset)

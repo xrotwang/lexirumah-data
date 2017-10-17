@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Segment all IPA strings in a word list."""
+"""Merge different cognate coding files"""
 
 import pandas
 
@@ -37,7 +37,7 @@ if __name__ == "__main__":
         args.input,
         sep="\t",
         na_values=[""],
-        index_col=["English", "Language_ID", "IPA"],
+        index_col=["English", "Language_ID", "Value"],
         keep_default_na=False,
         encoding='utf-8')
     data.sort_index(inplace=True)
@@ -49,7 +49,7 @@ if __name__ == "__main__":
             args.other,
             sep="\t",
             na_values=[""],
-            index_col=["English", "Language_ID", "IPA"],
+            index_col=["English", "Language_ID", "Value"],
             keep_default_na=False,
             encoding='utf-8')
         other.sort_index(inplace=True)
@@ -77,7 +77,7 @@ if __name__ == "__main__":
                 reset |= c == const
             elif col == "Language_ID":
                 reset |= l == const
-            elif col == "IPA":
+            elif col == "Value":
                 reset |= v == const
             else:
                 reset |= row[col] == const

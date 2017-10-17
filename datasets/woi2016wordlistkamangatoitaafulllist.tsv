@@ -23,7 +23,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 18	thunder	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	karaːt	thunder clap; bunyinya	k a r aː t	('thunder', 'kama1365', 'karaːt')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 19	lightning	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	deliŋ wobika	kilatan, cahaya	d e l i ŋ _ w o b i k a	('lightning', 'kama1365', 'deliŋ wobika')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 20	earthquake	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	komeː	nan	k o m eː	('earthquake', 'kama1365', 'komeː')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
-21	fog	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	safuː	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	- s a - f uː - - - - - -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
+21	fog	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	safuː	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	- s a - f uː - - - - - -	('fog', 'kama1365', 'safuː')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 22	river; stream	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	il maʔtaŋ	il maʔtaŋ lit. stream with water	i l - _ m a ʔ t a ŋ	('river; stream', 'kama1365', 'il maʔtaŋ')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 22	river; stream	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	ili maʔtaŋ	il maʔtaŋ lit. stream with water	i l i _ m a ʔ t a ŋ	('river; stream', 'kama1365', 'il maʔtaŋ')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 26	mountain	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	buk	nan	nan	('and', 'kaer1234', 'etaŋ')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
@@ -121,7 +121,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 108	taro	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	makai	nan	m a k ai	('taro', 'amar1273-kotos', 'mae')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 110	millet	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lasu	nan	l a s u	('millet', 'kama1365', 'lasu')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 111	sugarcane	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	kamaː	nan	k a m aː	('sugarcane', 'kama1365', 'kamaː')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
-112	corn; maize	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	patei	nan	p a t ei -	('corn; maize', 'abui1241-fuime', 'fa:ti')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
+112	corn; maize	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	patei	nan	p a t ei -	('cooked rice', 'lama1277-adona', 'wata mɜˈnihũ')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 114	coconut	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	wate	nan	- w a - - t - - - - e -	('coconut', 'abui1241-fuime', 'wata')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 116	lontar palm	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	aːkai	nan	aː k ai	('lontar palm', 'kama1365', 'aːkai')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 118	marungga	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	koː wutoŋ	nan	k oː _ w u t o - - - - ŋ	('marungga', 'kama1365', 'koː wutoŋ')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
@@ -579,8 +579,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 537	clan	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lubui	nan	- l u b ui - - -	"('clan', 'alor1247-besar', ""'lalaŋ"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 538	chieftain	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	saːk jeidama	nan	- - - - s - aː k _ j ei d a m a	"('chieftain', 'alor1247-besar', ""ka'pala 'lalaŋ"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 541	marriage	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	minataka minabeŋ	be in a marriage alliance	m i n - a t a k a _ m i n a b e ŋ	"('marriage', 'alor1247-besar', ""'haʤa 'nika"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
-542	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-nok	nan	- - - n o - - - - - -	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
-542	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	oleh	nan	- - - o l - - - e h -	"('friend', 'alor1247-besar', ""ba'rːe-ba'rːe"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
+542	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	-nok	nan	- - - n o - - - - - -	('friend', 'kama1365', '-nok')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
+542	friend	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	oleh	nan	- - - o l - - - e h -	('friend', 'kama1365', '-nok')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 543	enemy	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	lawuːi	nan	- - l a - - w - - uːi	"('enemy', 'alor1247-besar', ""'onɔŋ 'datɛ"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 544	king; ruler	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	leːi	nan	l eːi - - - -	('king; ruler', 'buna1278-bobon', 'liu rai')	datasets/woi2016wordlistkamangatoitaafulllist.tsv		
 545	stranger	kama1365	Kamang-Atoitaa	Timor-Alor-Pantar	3Alor, 2Central	alma gafuŋ piaː	Lit: 'person with a different face’	- a l m a _ g a f u ŋ _ p iaː - -	"('stranger', 'alor1247-besar', ""'ata mata'puna"")"	datasets/woi2016wordlistkamangatoitaafulllist.tsv		

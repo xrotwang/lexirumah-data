@@ -1,11 +1,11 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0	sky	pmpacd	proto-MP-ACD 2	Austronesian		*laŋit	nan	* l a ŋ i t	"('sky', 'alor1247-munas', ""'laŋi"")"	datasets/ACD/pmpacd.tsv		
 1	sun	pmpacd	proto-MP-ACD 2	Austronesian		*mata nu qalejaw	*mata nu qalejaw 'sun ('eye of the day')'	* m a t a _ n u _ q a l e j a w - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/ACD/pmpacd.tsv		
-2	moon	pmpacd	proto-MP-ACD 2	Austronesian		*bulan	nan	* b u l a n	('moon', 'pmpacd', '*bulan')	datasets/ACD/pmpacd.tsv		
-3	star	pmpacd	proto-MP-ACD 2	Austronesian		*bituqen	*talaq, *mantalaq 'the morning (evening) star: Venus'	* b i t u q e n - - -	('star', 'lama1277-kalik', 'toˈna')	datasets/ACD/pmpacd.tsv		
+2	moon	pmpacd	proto-MP-ACD 2	Austronesian		*bulan	nan	* b u l a n	('market', 'keda1252-leuba', 'ul')	datasets/ACD/pmpacd.tsv		
+3	star	pmpacd	proto-MP-ACD 2	Austronesian		*bituqen	*talaq, *mantalaq 'the morning (evening) star: Venus'	* b i t u q e n - - -	('star', 'p-aust1307-abvd', '*bituqen')	datasets/ACD/pmpacd.tsv		
 3	star	pmpacd	proto-MP-ACD 2	Austronesian		*mantalaq	*talaq, *mantalaq 'the morning (evening) star: Venus'	* m a n t - - - a l a q	"('star', 'alor1247-baran', ""ta'mala"")"	datasets/ACD/pmpacd.tsv		
 3	star	pmpacd	proto-MP-ACD 2	Austronesian		*talaq	*talaq, *mantalaq 'the morning (evening) star: Venus'	- - * - t - - - a l a q	"('star', 'alor1247-baran', ""ta'mala"")"	datasets/ACD/pmpacd.tsv		
-4	night	pmpacd	proto-MP-ACD 2	Austronesian		*beRŋi	*halem 'night, dark'	* b e R ŋ i	('night', 'pmpacd', '*beRŋi')	datasets/ACD/pmpacd.tsv		
+4	night	pmpacd	proto-MP-ACD 2	Austronesian		*beRŋi	*halem 'night, dark'	* b e R ŋ i	('night', 'p-aust1307-abvd', '*beʀŋi')	datasets/ACD/pmpacd.tsv		
 4	night	pmpacd	proto-MP-ACD 2	Austronesian		*halem	*halem 'night, dark'	* h a l e m	('night', 'pmpacd', '*halem')	datasets/ACD/pmpacd.tsv		
 5	day	pmpacd	proto-MP-ACD 2	Austronesian		*daqaNi	*waRi 'day; sun; dry in the sun'; also *qajaw	* d a q a N i	('day', 'pmpacd', '*daqaNi')	datasets/ACD/pmpacd.tsv		
 5	day	pmpacd	proto-MP-ACD 2	Austronesian		*qalejaw	*waRi 'day; sun; dry in the sun'; also *qajaw	- * - - - - - - - q a l e j a w - - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/ACD/pmpacd.tsv		
@@ -15,13 +15,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 8	yesterday	pmpacd	proto-MP-ACD 2	Austronesian		*ñeRab	nan	* ñ e R a b	('yesterday', 'pmpacd', '*neRab')	datasets/ACD/pmpacd.tsv		
 12	twilight; dawn	pmpacd	proto-MP-ACD 2	Austronesian		*hulem	*hulem 'dimness, twilight'	- - - - - - * h u l e m -	('twilight; dawn', 'adan1251-lawah', 'lalami')	datasets/ACD/pmpacd.tsv		
 12	twilight; dawn	pmpacd	proto-MP-ACD 2	Austronesian		*zawa	*hulem 'dimness, twilight'	* z a w a	('twilight; dawn', 'pmpacd', '*zawa')	datasets/ACD/pmpacd.tsv		
-14	wind	pmpacd	proto-MP-ACD 2	Austronesian		*haŋin	nan	* h a ŋ i n	('wind', 'pmpacd', '*haŋin')	datasets/ACD/pmpacd.tsv		
+14	wind	pmpacd	proto-MP-ACD 2	Austronesian		*haŋin	nan	* h a ŋ i n	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/ACD/pmpacd.tsv		
 15	rain	pmpacd	proto-MP-ACD 2	Austronesian		*quzan	nan	* q u - z a n - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/ACD/pmpacd.tsv		
 18	thunder	pmpacd	proto-MP-ACD 2	Austronesian		*deRdeR	bunyinya	* d e R d e - R	('thunder', 'blag1240-warsa', 'ildumu')	datasets/ACD/pmpacd.tsv		
 19	lightning	pmpacd	proto-MP-ACD 2	Austronesian		*kilat	kilatan, cahaya	- *k - - i l a - - t - - - - - - - -	"('lightning', 'alor1247-besar', ""'hila bi'ba"")"	datasets/ACD/pmpacd.tsv		
 20	earthquake	pmpacd	proto-MP-ACD 2	Austronesian		*linduR	nan	* l i n d u R	('earthquake', 'pmpacd', '*linduR')	datasets/ACD/pmpacd.tsv		
 20	earthquake	pmpacd	proto-MP-ACD 2	Austronesian		*linuR	nan	* l i n - u R	('earthquake', 'pmpacd', '*linduR')	datasets/ACD/pmpacd.tsv		
-21	fog	pmpacd	proto-MP-ACD 2	Austronesian		*kabut	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	* k a - b u - t - - - -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/ACD/pmpacd.tsv		
+21	fog	pmpacd	proto-MP-ACD 2	Austronesian		*kabut	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	* k a - b u - t - - - -	('fog', 'kama1365', 'safuː')	datasets/ACD/pmpacd.tsv		
 22	river; stream	pmpacd	proto-MP-ACD 2	Austronesian		*sapaq	*wahiR ‘fresh water; stream, river’	* s a p a q	('river; stream', 'keda1252-leuwa', 'u̘bεʔ')	datasets/ACD/pmpacd.tsv		
 22	river; stream	pmpacd	proto-MP-ACD 2	Austronesian		*wahiR	*wahiR ‘fresh water; stream, river’	* w - - - a h i R	('river; stream', 'pmpacd', '*wahiR')	datasets/ACD/pmpacd.tsv		
 25	lake	pmpacd	proto-MP-ACD 2	Austronesian		*banaw	nan	* b a n a w	"('lake', 'alor1247-baran', ""'danɑu"")"	datasets/ACD/pmpacd.tsv		
@@ -44,9 +44,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 38	foam	pmpacd	proto-MP-ACD 2	Austronesian		*buseq	*buseq 'foam, bubbles'; *busa 'foam, suds'	* b u s e q	('foam', 'buna1278-bobon', 'pɔ:')	datasets/ACD/pmpacd.tsv		
 39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*halas	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	* h a l a s	('forest', 'pmpacd', '*halas')	datasets/ACD/pmpacd.tsv		
 39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*talun	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	* t a l u n	('forest', 'pmpacd', '*talun')	datasets/ACD/pmpacd.tsv		
-39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*tuqan	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	* t u q a n	('forest', 'pmpacd', '*talun')	datasets/ACD/pmpacd.tsv		
+39	forest	pmpacd	proto-MP-ACD 2	Austronesian		*tuqan	*tuqan 'primary forest'; *talun 'secondary forest'; *halas 'forest, wildernes, woods'	* t u q a n	"('forest', 'alor1247-munas', ""'duaŋ"")"	datasets/ACD/pmpacd.tsv		
 41	island	pmpacd	proto-MP-ACD 2	Austronesian		*nusa	*nusa 'island'	* n u s a	('island', 'pmpacd', '*nusa')	datasets/ACD/pmpacd.tsv		
-43	garden	pmpacd	proto-MP-ACD 2	Austronesian		*q<in>uma	*q<in>uma 'cultivated field, garden'	* q < i n > u m a -	('garden', 'pmpacd', '*q<in>uma')	datasets/ACD/pmpacd.tsv		
+43	garden	pmpacd	proto-MP-ACD 2	Austronesian		*q<in>uma	*q<in>uma 'cultivated field, garden'	* q < i n > u m a -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/ACD/pmpacd.tsv		
 44	fence	pmpacd	proto-MP-ACD 2	Austronesian		*pager	*pager 'enclosure; palisade around a village; fence around a planted tree or cultivated field'	* p a g e r	('fence', 'pmpacd', '*pager')	datasets/ACD/pmpacd.tsv		
 45	road; path; way	pmpacd	proto-MP-ACD 2	Austronesian		*zalan	nan	* z a l a n	('road; path; way', 'lama1277-watan', 'rarã')	datasets/ACD/pmpacd.tsv		
 46	canoe	pmpacd	proto-MP-ACD 2	Austronesian		*qabaŋ	nan	* q a b a ŋ	('canoe', 'pmpacd', '*qabaŋ')	datasets/ACD/pmpacd.tsv		
@@ -85,9 +85,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 74	gravel	pmpacd	proto-MP-ACD 2	Austronesian		*badas	*badas 'grit, coarse sand, gravel'; *anak i batu 'small stones, gravel'	* b a d a s	('gravel', 'pmpacd', '*badas')	datasets/ACD/pmpacd.tsv		
 75	sand	pmpacd	proto-MP-ACD 2	Austronesian		*qenay	nan	* q e n ay - - - - -	"('sand', 'alor1247-besar', ""ta'nːiŋ"")"	datasets/ACD/pmpacd.tsv		
 76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*dukut	nan	* d u k u t - -	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/ACD/pmpacd.tsv		
-76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*udu	nan	- - - * u d u -	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/ACD/pmpacd.tsv		
+76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*udu	nan	- - - * u d u -	('grass; brush', 'alor1249-sar-a', 'raŋ')	datasets/ACD/pmpacd.tsv		
 76	grass; brush	pmpacd	proto-MP-ACD 2	Austronesian		*zukut	nan	* z u k u t - -	"('grass; brush', 'alor1247-baran', ""la'duŋ"")"	datasets/ACD/pmpacd.tsv		
-77	house	pmpacd	proto-MP-ACD 2	Austronesian		*Rumaq	nan	* R u m a q	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/ACD/pmpacd.tsv		
+77	house	pmpacd	proto-MP-ACD 2	Austronesian		*Rumaq	nan	* R u m a q	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/ACD/pmpacd.tsv		
 81	door	pmpacd	proto-MP-ACD 2	Austronesian		*kataman	nan	* k a t a - m a - - n	('door', 'kira1248', 'damat')	datasets/ACD/pmpacd.tsv		
 81	door	pmpacd	proto-MP-ACD 2	Austronesian		*qiNeb	nan	* q i N e b	('door', 'pmpacd', '*qiNeb')	datasets/ACD/pmpacd.tsv		
 82	(thatch) roof	pmpacd	proto-MP-ACD 2	Austronesian		*qatep	nan	* q a t e p	('(thatch) roof', 'pmpacd', '*qatep')	datasets/ACD/pmpacd.tsv		
@@ -100,8 +100,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 90	rattan	pmpacd	proto-MP-ACD 2	Austronesian		*quay	*quay 'rattan, Calamus sp.'	* q uay	('rattan', 'pmpacd', '*quay')	datasets/ACD/pmpacd.tsv		
 91	root	pmpacd	proto-MP-ACD 2	Austronesian		*akaR	nan	- * a k a R	('root', 'pmpacd', '*akaR')	datasets/ACD/pmpacd.tsv		
 91	root	pmpacd	proto-MP-ACD 2	Austronesian		*wakaR	nan	* w a k a R	('root', 'pmpacd', '*akaR')	datasets/ACD/pmpacd.tsv		
-92	fruit	pmpacd	proto-MP-ACD 2	Austronesian		*buaq	nan	* b ua q	('fruit', 'pmpacd', '*buaq')	datasets/ACD/pmpacd.tsv		
-96	husked rice; uncooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*beRas	nan	* b e R a s	('husked rice; uncooked rice', 'lama1277-adona', 'ˈwahaʔ')	datasets/ACD/pmpacd.tsv		
+92	fruit	pmpacd	proto-MP-ACD 2	Austronesian		*buaq	nan	* b ua q	('fruit', 'keda1252', 'wuan')	datasets/ACD/pmpacd.tsv		
+96	husked rice; uncooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*beRas	nan	* b e R a s	('husked rice; uncooked rice', 'pmpacd', '*beRas')	datasets/ACD/pmpacd.tsv		
 97	rice grains (unhusked) (raw from field)	pmpacd	proto-MP-ACD 2	Austronesian		*binehiq	*binehiq 'seed rice, rice set aside for the next planting'	* b i n e h i q	('rice grains (unhusked) (raw from field)', 'pmpacd', '*binehiq')	datasets/ACD/pmpacd.tsv		
 98	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*hemay	*kaen-en 'be eaten by someone; cooked rice'	* h e m ay	('cooked rice', 'pmpacd', '*hemay')	datasets/ACD/pmpacd.tsv		
 98	cooked rice	pmpacd	proto-MP-ACD 2	Austronesian		*kaen-en	*kaen-en 'be eaten by someone; cooked rice'	* k ae n - e	('cooked rice', 'pmpacd', '*kaen-en')	datasets/ACD/pmpacd.tsv		
@@ -129,7 +129,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 130	fat	pmpacd	proto-MP-ACD 2	Austronesian		*himaR	nan	* h - - i m a - R	('fat', 'abui1241-fuime', 'hetamada')	datasets/ACD/pmpacd.tsv		
 130	fat	pmpacd	proto-MP-ACD 2	Austronesian		*meñak	nan	* m e ñ a k	('fat', 'kema1243', 'mina')	datasets/ACD/pmpacd.tsv		
 130	fat	pmpacd	proto-MP-ACD 2	Austronesian		*miñak	nan	* m i ñ a k	('fat', 'kema1243', 'mina')	datasets/ACD/pmpacd.tsv		
-131	flesh; meat	pmpacd	proto-MP-ACD 2	Austronesian		*hesi	nan	* h e s i	('flesh; meat', 'pmpacd', '*hesi')	datasets/ACD/pmpacd.tsv		
+131	flesh; meat	pmpacd	proto-MP-ACD 2	Austronesian		*hesi	nan	* h e s i	('flesh; meat', 'keda1252', 'ihin')	datasets/ACD/pmpacd.tsv		
 133	rib	pmpacd	proto-MP-ACD 2	Austronesian		*Rusuk	nan	* R u s u k	('rib', 'pmpacd', '*Rusuk')	datasets/ACD/pmpacd.tsv		
 134	sweat	pmpacd	proto-MP-ACD 2	Austronesian		*atiŋ	nan	- * a t i ŋ	('sweat', 'pmpacd', '*atiŋ')	datasets/ACD/pmpacd.tsv		
 134	sweat	pmpacd	proto-MP-ACD 2	Austronesian		*qatiŋ	nan	* q a t i ŋ	('sweat', 'pmpacd', '*atiŋ')	datasets/ACD/pmpacd.tsv		
@@ -143,25 +143,25 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 143	lungs	pmpacd	proto-MP-ACD 2	Austronesian		*baRaq	nan	* b a R a q	('lungs', 'kama1365', 'fusaː')	datasets/ACD/pmpacd.tsv		
 144	stomach; belly	pmpacd	proto-MP-ACD 2	Austronesian		*bituka	nan	* b i t u k - - a - -	('stomach; belly', 'abui1241-fuime', 'tatok foko')	datasets/ACD/pmpacd.tsv		
 145	head	pmpacd	proto-MP-ACD 2	Austronesian		*qulu	nan	* q u l u - - - - -	('head', 'adan1251-lawah', 'loŋ')	datasets/ACD/pmpacd.tsv		
-146	hair	pmpacd	proto-MP-ACD 2	Austronesian		*buhek	nan	* b u h e k	('hair', 'pmpacd', '*buhek')	datasets/ACD/pmpacd.tsv		
+146	hair	pmpacd	proto-MP-ACD 2	Austronesian		*buhek	nan	* b u h e k	('hair', 'keda1252', 'uha')	datasets/ACD/pmpacd.tsv		
 147	body hair	pmpacd	proto-MP-ACD 2	Austronesian		*bulu	nan	* b u l u - - -	"('body hair', 'alor1247-besar', ""fu'lukuŋ"")"	datasets/ACD/pmpacd.tsv		
 148	eye	pmpacd	proto-MP-ACD 2	Austronesian		*mata	nan	* m a t a	('eye', 'lamm1241-westp', '-iti')	datasets/ACD/pmpacd.tsv		
 149	ear	pmpacd	proto-MP-ACD 2	Austronesian		*taliŋa	nan	* t a l i ŋ a - - -	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/ACD/pmpacd.tsv		
 149	ear	pmpacd	proto-MP-ACD 2	Austronesian		*taŋila	nan	* t - - a ŋ i - l a	"('ear', 'alor1247-baran', ""'til:uŋ"")"	datasets/ACD/pmpacd.tsv		
-150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ijuŋ	nan	- * i j u ŋ - -	('nose', 'lama1277-adona', 'ˈiruˈnɜt')	datasets/ACD/pmpacd.tsv		
-150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ujuŋ	nan	- * u j u ŋ - -	('nose', 'lama1277-adona', 'ˈiruˈnɜt')	datasets/ACD/pmpacd.tsv		
-150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ŋijuŋ	nan	* ŋ i j u ŋ - -	('nose', 'lama1277-adona', 'ˈiruˈnɜt')	datasets/ACD/pmpacd.tsv		
+150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ijuŋ	nan	- * i j u ŋ - -	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	datasets/ACD/pmpacd.tsv		
+150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ujuŋ	nan	- * u j u ŋ - -	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	datasets/ACD/pmpacd.tsv		
+150	nose	pmpacd	proto-MP-ACD 2	Austronesian		*ŋijuŋ	nan	* ŋ i j u ŋ - -	"('nose', 'alor1247-baran', ""'ir:uŋ"")"	datasets/ACD/pmpacd.tsv		
 151	mouth	pmpacd	proto-MP-ACD 2	Austronesian		*bahaq	nan	* b a - h a q	('mouth', 'p-cent2245-abvd', '*babaq')	datasets/ACD/pmpacd.tsv		
 151	mouth	pmpacd	proto-MP-ACD 2	Austronesian		*beqbeq	nan	* b e q b e q	('mouth', 'p-cent2245-abvd', '*babaq')	datasets/ACD/pmpacd.tsv		
 152	chin	pmpacd	proto-MP-ACD 2	Austronesian		*qazay	nan	* q a z - - ay	('chin', 'maka1316', 'zelau')	datasets/ACD/pmpacd.tsv		
 152	chin	pmpacd	proto-MP-ACD 2	Austronesian		*timid	nan	* t i m i d	('chin', 'pmpacd', '*timid')	datasets/ACD/pmpacd.tsv		
-153	lips	pmpacd	proto-MP-ACD 2	Austronesian		*bibiR	*bibiR 'lower lip'	* b i b i R	('lips', 'pmpacd', '*bibiR')	datasets/ACD/pmpacd.tsv		
+153	lips	pmpacd	proto-MP-ACD 2	Austronesian		*bibiR	*bibiR 'lower lip'	* b i b i R	"('lips', 'alor1247-baran', ""'fifiŋ"")"	datasets/ACD/pmpacd.tsv		
 155	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*dilaq	nan	* d i l a q	('tongue', 'pmpacd', '*dilaq')	datasets/ACD/pmpacd.tsv		
 155	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*hema	nan	* h e m a -	('tongue', 'p-cent2245-abvd', '*maya')	datasets/ACD/pmpacd.tsv		
 155	tongue	pmpacd	proto-MP-ACD 2	Austronesian		*zelaq	nan	* z e l a q	('tongue', 'pmpacd', '*dilaq')	datasets/ACD/pmpacd.tsv		
 156	neck	pmpacd	proto-MP-ACD 2	Austronesian		*liqeR	nan	* l i q e R	('neck', 'pmpacd', '*liqeR')	datasets/ACD/pmpacd.tsv		
 157	shoulder	pmpacd	proto-MP-ACD 2	Austronesian		*qabaRa	nan	* q a b a R a	('shoulder', 'pmpacd', '*qabaRa')	datasets/ACD/pmpacd.tsv		
-159	forehead	pmpacd	proto-MP-ACD 2	Austronesian		*daqih	nan	- - - * d a q i h	('forehead', 'lama1277-adona', 'kɜˈniːtoˈkɜt')	datasets/ACD/pmpacd.tsv		
+159	forehead	pmpacd	proto-MP-ACD 2	Austronesian		*daqih	nan	- - - * d a q i h	('forehead', 'pmpacd', '*daqih')	datasets/ACD/pmpacd.tsv		
 161	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*idus	nan	* i d u s	('mucus', 'pmpacd', '*idus')	datasets/ACD/pmpacd.tsv		
 161	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*piŋ(e)qut	nan	* p i ŋ ( e ) q u t	('mucus', 'pmpacd', '*piŋ(e)qut')	datasets/ACD/pmpacd.tsv		
 161	mucus	pmpacd	proto-MP-ACD 2	Austronesian		*piŋus	nan	* p i ŋ - - - - u s	('mucus', 'pmpacd', '*piŋ(e)qut')	datasets/ACD/pmpacd.tsv		
@@ -171,14 +171,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 163	arm	pmpacd	proto-MP-ACD 2	Austronesian		*baRa	*baRa 'hand, arm' 	* b a R a	('arm', 'pmpacd', '*baRa')	datasets/ACD/pmpacd.tsv		
 164	hand	pmpacd	proto-MP-ACD 2	Austronesian		*baRa	nan	* b a R a	('hand', 'pmpacd', '*baRa')	datasets/ACD/pmpacd.tsv		
 164	hand	pmpacd	proto-MP-ACD 2	Austronesian		*kamay	nan	- * k a - - - m ay - - - - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/ACD/pmpacd.tsv		
-164	hand	pmpacd	proto-MP-ACD 2	Austronesian		*qalima	nan	- * q a - l i m a - - - - - - - - -	"('hand', 'alor1247-baran', ""'limaŋ ka'lumak"")"	datasets/ACD/pmpacd.tsv		
+164	hand	pmpacd	proto-MP-ACD 2	Austronesian		*qalima	nan	- * q a - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/ACD/pmpacd.tsv		
 165	palm of hand	pmpacd	proto-MP-ACD 2	Austronesian		*palaj	nan	* p a l a j	('palm of hand', 'pmpacd', '*palaj')	datasets/ACD/pmpacd.tsv		
 166	finger	pmpacd	proto-MP-ACD 2	Austronesian		*taŋan	nan	* t a ŋ a n	('finger', 'pmpacd', '*taŋan')	datasets/ACD/pmpacd.tsv		
 167	fingernail	pmpacd	proto-MP-ACD 2	Austronesian		*k<an>uhkuh	nan	* k < a n > u h k u - - h	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/ACD/pmpacd.tsv		
 167	fingernail	pmpacd	proto-MP-ACD 2	Austronesian		*kuhkuh	nan	* k - - - - u h k u - - h	"('fingernail', 'alor1247-baran', ""ta'nuŋgul"")"	datasets/ACD/pmpacd.tsv		
 168	breast	pmpacd	proto-MP-ACD 2	Austronesian		*nunuh	nan	* n u n u h	('breast', 'pmpacd', '*nunuh')	datasets/ACD/pmpacd.tsv		
 168	breast	pmpacd	proto-MP-ACD 2	Austronesian		*susu	nan	- *s *u *s *u - -	('breast', 'adan1251-lawah', 'toʔ')	datasets/ACD/pmpacd.tsv		
-169	chest	pmpacd	proto-MP-ACD 2	Austronesian		*daSdaS	nan	* d a S d a S	('chest', 'lama1277-kalik', 'kɔˈrɔk')	datasets/ACD/pmpacd.tsv		
+169	chest	pmpacd	proto-MP-ACD 2	Austronesian		*daSdaS	nan	* d a S d a S	('chest', 'pmpacd', '*daSdaS')	datasets/ACD/pmpacd.tsv		
 169	chest	pmpacd	proto-MP-ACD 2	Austronesian		*debdeb	nan	* d e b d e b	('chest', 'pmpacd', '*debdeb')	datasets/ACD/pmpacd.tsv		
 170	navel	pmpacd	proto-MP-ACD 2	Austronesian		*pusej	nan	- - - - *p u s e j	('navel', 'abui1241-fuime', 'tabike')	datasets/ACD/pmpacd.tsv		
 171	penis	pmpacd	proto-MP-ACD 2	Austronesian		*qutin	Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.	* q u t i - - n	"('penis', 'abui1241-takal', ""tä.'tɔ"")"	datasets/ACD/pmpacd.tsv		
@@ -186,16 +186,16 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 172	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*puki	Kemaluan perempuan, same as above.	* p u k i -	"('vagina', 'alor1247-besar', ""'pukiŋ"")"	datasets/ACD/pmpacd.tsv		
 172	vagina	pmpacd	proto-MP-ACD 2	Austronesian		*tila	Kemaluan perempuan, same as above.	- - * t i l a -	('vagina', 'pmpacd', '*betiq')	datasets/ACD/pmpacd.tsv		
 173	testicles	pmpacd	proto-MP-ACD 2	Austronesian		*laseR	*laseR 'scrotum and testicles'	* l a s e - - - - R - - - - - -	"('testicles', 'alor1247-besar', ""la'hakaŋ ku'lukuŋ"")"	datasets/ACD/pmpacd.tsv		
-174	leg	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	* q a q - - ay	('leg', 'buna1278-bobon', 'giri')	datasets/ACD/pmpacd.tsv		
-174	leg	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	* w a q - - ay	('leg', 'buna1278-bobon', 'giri')	datasets/ACD/pmpacd.tsv		
-175	foot	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	* q a q ay	('foot', 'p-mala1545-abvd', '*qaqay')	datasets/ACD/pmpacd.tsv		
-175	foot	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	* w a q ay	('foot', 'p-mala1545-abvd', '*qaqay')	datasets/ACD/pmpacd.tsv		
+174	leg	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	* q a q - - ay	('foot', 'fata1247', 'ɟia')	datasets/ACD/pmpacd.tsv		
+174	leg	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	* w a q - - ay	('foot', 'fata1247', 'ɟia')	datasets/ACD/pmpacd.tsv		
+175	foot	pmpacd	proto-MP-ACD 2	Austronesian		*qaqay	nan	* q a q ay	('foot', 'fata1247', 'ɟia')	datasets/ACD/pmpacd.tsv		
+175	foot	pmpacd	proto-MP-ACD 2	Austronesian		*waqay	nan	* w a q ay	('foot', 'fata1247', 'ɟia')	datasets/ACD/pmpacd.tsv		
 176	heel of foot	pmpacd	proto-MP-ACD 2	Austronesian		*tiked	nan	* t i k e d	('heel of foot', 'amar1273-kotos', 'tika-f')	datasets/ACD/pmpacd.tsv		
 177	sole of foot	pmpacd	proto-MP-ACD 2	Austronesian		*dapan	nan	* d a p a n	('sole of foot', 'pmpacd', '*dapan')	datasets/ACD/pmpacd.tsv		
 177	sole of foot	pmpacd	proto-MP-ACD 2	Austronesian		*palaj	nan	* p a l a j -	('sole of foot', 'pmpacd', '*palaj')	datasets/ACD/pmpacd.tsv		
 178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*qaleb	nan	* q a l e b	('knee', 'pmpacd', '*qaleb')	datasets/ACD/pmpacd.tsv		
-178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*qulu tuhud	nan	* q u l u _ t u h u d	('knee', 'pmpacd', '*qulu tuhud')	datasets/ACD/pmpacd.tsv		
-178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*tuhud	nan	- - - - - * t u h u d	('knee', 'pmpacd', '*qulu tuhud')	datasets/ACD/pmpacd.tsv		
+178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*qulu tuhud	nan	* q u l u _ t u h u d	"('knee', 'alor1247-baran', "",leiŋ 'kudul"")"	datasets/ACD/pmpacd.tsv		
+178	knee	pmpacd	proto-MP-ACD 2	Austronesian		*tuhud	nan	- - - - - * t u h u d	"('knee', 'alor1247-baran', "",leiŋ 'kudul"")"	datasets/ACD/pmpacd.tsv		
 179	back	pmpacd	proto-MP-ACD 2	Austronesian		*buRit	nan	* b u R i t	('back', 'pmpacd', '*buRit')	datasets/ACD/pmpacd.tsv		
 179	back	pmpacd	proto-MP-ACD 2	Austronesian		*burit	nan	* b u R i t	('back', 'lamm1241-westp', '-uru')	datasets/ACD/pmpacd.tsv		
 179	back	pmpacd	proto-MP-ACD 2	Austronesian		*likud	nan	- * l i k u d	"('back', 'alor1247-baran', ""'ʔalɛŋ"")"	datasets/ACD/pmpacd.tsv		
@@ -209,15 +209,15 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 186	tinea	pmpacd	proto-MP-ACD 2	Austronesian		*panaw	nan	* p a n a w	"('tinea', 'alor1247-besar', ""'manau"")"	datasets/ACD/pmpacd.tsv		
 190	person	pmpacd	proto-MP-ACD 2	Austronesian		*tau	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	- - - - * - t au - - - - -	('person', 'lama1277-adona', 'ˈʔata')	datasets/ACD/pmpacd.tsv		
 190	person	pmpacd	proto-MP-ACD 2	Austronesian		*tau-mata	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	* t au - m - a t - - - - -	('person', 'lama1277-adona', 'ˈʔata')	datasets/ACD/pmpacd.tsv		
-191	name	pmpacd	proto-MP-ACD 2	Austronesian		*ajan	nan	* a j a n	('name', 'pmpacd', '*ajan')	datasets/ACD/pmpacd.tsv		
+191	name	pmpacd	proto-MP-ACD 2	Austronesian		*ajan	nan	* a j a n	"('name', 'alor1247-baran', ""'naraŋ"")"	datasets/ACD/pmpacd.tsv		
 192	child	pmpacd	proto-MP-ACD 2	Austronesian		*anak	nan	* a n a k	('child', 'pmpacd', '*anak')	datasets/ACD/pmpacd.tsv		
 193	man	pmpacd	proto-MP-ACD 2	Austronesian		*laki	nan	- - - * - - - l a k i -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/ACD/pmpacd.tsv		
 194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-b<in>ahi	nan	* b a - b < i n > a h	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
 194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*ba-bahi	nan	* b a - - - - - b a h	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
 194	woman	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	nan	- - * b - - - - a h i	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
-195	husband	pmpacd	proto-MP-ACD 2	Austronesian		*banah	nan	* b a - n - a h	('husband', 'abui1241-takal', 'te̞̞.ne̞äŋ')	datasets/ACD/pmpacd.tsv		
-196	wife	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	*bahi 'female, woman, wife; female of animals'; Not 'married woman'.	- - - - - - * b - - - - - a h i	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/ACD/pmpacd.tsv		
-197	mother	pmpacd	proto-MP-ACD 2	Austronesian		*ina	also *iná-I, *iná-ŋ, *iná-q, *ra-ina	* i n a	('mother', 'lamm1241-westp', '-iu')	datasets/ACD/pmpacd.tsv		
+195	husband	pmpacd	proto-MP-ACD 2	Austronesian		*banah	nan	* b a - n - a h	('husband', 'p-mala1545-abvd', '*bana')	datasets/ACD/pmpacd.tsv		
+196	wife	pmpacd	proto-MP-ACD 2	Austronesian		*bahi	*bahi 'female, woman, wife; female of animals'; Not 'married woman'.	- - - - - - * b - - - - - a h i	('husband', 'p-mala1545-abvd', '*bana')	datasets/ACD/pmpacd.tsv		
+197	mother	pmpacd	proto-MP-ACD 2	Austronesian		*ina	also *iná-I, *iná-ŋ, *iná-q, *ra-ina	* i n a	('mother', 'keda1252', 'ine')	datasets/ACD/pmpacd.tsv		
 198	father	pmpacd	proto-MP-ACD 2	Austronesian		*aba	also *da-ama, *t-ama 	- * a b a -	('father', 'lama1277-lewoi', 'ˈbapaʔ')	datasets/ACD/pmpacd.tsv		
 198	father	pmpacd	proto-MP-ACD 2	Austronesian		*ama	also *da-ama, *t-ama 	- - * a m a - - - -	('father', 'abui1241-fuime', 'mama')	datasets/ACD/pmpacd.tsv		
 198	father	pmpacd	proto-MP-ACD 2	Austronesian		*baba	also *da-ama, *t-ama 	* b a b a -	('father', 'lama1277-lewoi', 'ˈbapaʔ')	datasets/ACD/pmpacd.tsv		
@@ -268,10 +268,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 224	that	pmpacd	proto-MP-ACD 2	Austronesian		*i-di	*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di	- * i - d	"('that', 'alor1247-baran', "",ka'te"")"	datasets/ACD/pmpacd.tsv		
 224	that	pmpacd	proto-MP-ACD 2	Austronesian		*i-na	*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di	* i - - - - n	('that', 'amar1273-kotos', '=an')	datasets/ACD/pmpacd.tsv		
 224	that	pmpacd	proto-MP-ACD 2	Austronesian		*ia	*ia 'demonstrative pronoun and adverb: this, here; that, there', also *si ia, *a-di	* ia - - -	('that', 'p-mala1545-abvd', '*i na')	datasets/ACD/pmpacd.tsv		
-225	at	pmpacd	proto-MP-ACD 2	Austronesian		*ba	*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan.	* - - - - b a -	('at', 'amar1273-kotos', 'n-bi')	datasets/ACD/pmpacd.tsv		
-225	at	pmpacd	proto-MP-ACD 2	Austronesian		*di	*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan.	* d i	('at', 'pmpacd', '*di')	datasets/ACD/pmpacd.tsv		
-226	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	* b a -	('in; inside', 'pmpacd', '*ba')	datasets/ACD/pmpacd.tsv		
-226	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*lem	nan	- * l e m	('in; inside', 'lamm1241-westp', 'kul:a')	datasets/ACD/pmpacd.tsv		
+225	at	pmpacd	proto-MP-ACD 2	Austronesian		*ba	*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan.	* - - - - b a -	('at', 'keda1252-leuba', 'bɛʔ')	datasets/ACD/pmpacd.tsv		
+225	at	pmpacd	proto-MP-ACD 2	Austronesian		*di	*ba 'preposition: at, on, in, to', *di  'locative case marker (probably for singular personal names)'; General locative preposition, e.g. Ibu di mana? Saya di jalan.	* d i	('at', 'keda1252-leuba', 'diʔ')	datasets/ACD/pmpacd.tsv		
+226	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	* b a -	('at', 'keda1252-leuba', 'bɛʔ')	datasets/ACD/pmpacd.tsv		
+226	in; inside	pmpacd	proto-MP-ACD 2	Austronesian		*lem	nan	- * l e m	('below', 'pmpacd', '*dalem')	datasets/ACD/pmpacd.tsv		
 227	here	pmpacd	proto-MP-ACD 2	Austronesian		*i-ni	also *qani, *si ia, *di-ni	* i - n	('here', 'pmpacd', '*i-ni')	datasets/ACD/pmpacd.tsv		
 227	here	pmpacd	proto-MP-ACD 2	Austronesian		*ia	also *qani, *si ia, *di-ni	- - * ia	('here', 'pmpacd', '*i-ni')	datasets/ACD/pmpacd.tsv		
 227	here	pmpacd	proto-MP-ACD 2	Austronesian		*ia-ni	also *qani, *si ia, *di-ni	* ia - n	('here', 'pmpacd', '*i-ni')	datasets/ACD/pmpacd.tsv		
@@ -280,7 +280,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 228	there	pmpacd	proto-MP-ACD 2	Austronesian		*ia	also *a-di, *si ia	* ia - -	('there', 'pmpacd', '*i-di')	datasets/ACD/pmpacd.tsv		
 229	above	pmpacd	proto-MP-ACD 2	Austronesian		*babaw	also *bawbaw, *I babaw	* b a b a w	('above', 'amar1273-kotos', 'fafo-n')	datasets/ACD/pmpacd.tsv		
 229	above	pmpacd	proto-MP-ACD 2	Austronesian		*i-atas	also *bawbaw, *I babaw	- * i - - - - a t a	('above', 'amar1273-kotos', 'ata')	datasets/ACD/pmpacd.tsv		
-230	below	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	* b - - a -	('below', 'amar1273-kotos', 'pina-n')	datasets/ACD/pmpacd.tsv		
+230	below	pmpacd	proto-MP-ACD 2	Austronesian		*ba	nan	* b - - a -	('at', 'keda1252-leuba', 'bɛʔ')	datasets/ACD/pmpacd.tsv		
 230	below	pmpacd	proto-MP-ACD 2	Austronesian		*dalem	nan	- - * d a l e m	('below', 'pmpacd', '*dalem')	datasets/ACD/pmpacd.tsv		
 230	below	pmpacd	proto-MP-ACD 2	Austronesian		*i dalem	nan	* i _ d a l e m	('below', 'pmpacd', '*dalem')	datasets/ACD/pmpacd.tsv		
 231	left (side)	pmpacd	proto-MP-ACD 2	Austronesian		*ka-wiRi	nan	* k a - w i R -	('left (side)', 'hama1240', 'fiʔ.iŋ')	datasets/ACD/pmpacd.tsv		
@@ -302,7 +302,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 242	lizard	pmpacd	proto-MP-ACD 2	Austronesian		*bulilik	*tektek 'gecko, house lizard (onom.)'; *bulilik 'lizard sp.' 	* b u l i l i k	('lizard', 'pmpacd', '*bulilik')	datasets/ACD/pmpacd.tsv		
 242	lizard	pmpacd	proto-MP-ACD 2	Austronesian		*tektek	*tektek 'gecko, house lizard (onom.)'; *bulilik 'lizard sp.' 	* t - e k - t e k	('lizard', 'abui1241-fuime', 'tekok')	datasets/ACD/pmpacd.tsv		
 244	deer	pmpacd	proto-MP-ACD 2	Austronesian			*saladeŋ 'male deer, buck (?)'	nan	nan	datasets/ACD/pmpacd.tsv		
-247	flying fox; fruit bat	pmpacd	proto-MP-ACD 2	Austronesian		*paniki	nan	* p a n i k i	('flying fox; fruit bat', 'pmpacd', '*paniki')	datasets/ACD/pmpacd.tsv		
+247	flying fox; fruit bat	pmpacd	proto-MP-ACD 2	Austronesian		*paniki	nan	* p a n i k i	"('flying fox; fruit bat', 'alor1247-munas', ""mi'hua"")"	datasets/ACD/pmpacd.tsv		
 249	tail	pmpacd	proto-MP-ACD 2	Austronesian		*ikuR	nan	* - i k u R -	('tail', 'pmpacd', '*ikuR')	datasets/ACD/pmpacd.tsv		
 249	tail	pmpacd	proto-MP-ACD 2	Austronesian		*ikuŋ	nan	* - i k u R -	('tail', 'lama1277-watan', 'ikũ')	datasets/ACD/pmpacd.tsv		
 249	tail	pmpacd	proto-MP-ACD 2	Austronesian		*kikuR	nan	* k i k u - R	('tail', 'lama1277-watan', 'ikũ')	datasets/ACD/pmpacd.tsv		
@@ -338,8 +338,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 276	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*leseq	nan	- * l e s e - - q - -	"('louse eggs', 'alor1247-munas', ""k'lɛhɛŋ"")"	datasets/ACD/pmpacd.tsv		
 276	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*lisehaq	nan	- * l i s e h a q - -	"('louse eggs', 'alor1247-munas', ""k'lɛhɛŋ"")"	datasets/ACD/pmpacd.tsv		
 276	louse eggs	pmpacd	proto-MP-ACD 2	Austronesian		*liseqah	nan	- * l i s e - - q a h	"('louse eggs', 'alor1247-munas', ""k'lɛhɛŋ"")"	datasets/ACD/pmpacd.tsv		
-278	flea	pmpacd	proto-MP-ACD 2	Austronesian		*qatimela	nan	* q a t i - m e l a	"('flea', 'alor1247-munas', ""mə'rːɛ"")"	datasets/ACD/pmpacd.tsv		
-279	louse (clothing)	pmpacd	proto-MP-ACD 2	Austronesian		*tumah	nan	- * t u m a h	"('louse (clothing)', 'alor1247-baran', ""ku't:ɔ"")"	datasets/ACD/pmpacd.tsv		
+278	flea	pmpacd	proto-MP-ACD 2	Austronesian		*qatimela	nan	* q a t i - m e l a	('flea', 'blag1240-bama', 'tepela')	datasets/ACD/pmpacd.tsv		
+279	louse (clothing)	pmpacd	proto-MP-ACD 2	Austronesian		*tumah	nan	- * t u m a h	('louse (clothing)', 'lama1277-adona', 'keˈtumã')	datasets/ACD/pmpacd.tsv		
 281	big	pmpacd	proto-MP-ACD 2	Austronesian		*Raya	nan	* R - - aya -	('big', 'lama1277-lerek', 'raˈjan')	datasets/ACD/pmpacd.tsv		
 282	small	pmpacd	proto-MP-ACD 2	Austronesian		*bitiq	nan	- - * b i t i q -	('small', 'pmpacd', '*bitiq')	datasets/ACD/pmpacd.tsv		
 282	small	pmpacd	proto-MP-ACD 2	Austronesian		*kedi	*kedi 'small in size or amount'	- - * k e d i - -	('small', 'pmpacd', '*bitiq')	datasets/ACD/pmpacd.tsv		
@@ -386,7 +386,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*dumpul	also *pudul, *tultul, *de(m)pul, *belbel	* d u m p u l -	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/ACD/pmpacd.tsv		
 312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpel	also *pudul, *tultul, *de(m)pul, *belbel	* t u m p e l -	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/ACD/pmpacd.tsv		
 312	blunt; dull	pmpacd	proto-MP-ACD 2	Austronesian		*tumpul	also *pudul, *tultul, *de(m)pul, *belbel	* t u m p u l -	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/ACD/pmpacd.tsv		
-313	heavy	pmpacd	proto-MP-ACD 2	Austronesian		*ma-beReqat	*beReqat 'weight, heaviness, weightiness; difficult; pregnant'	* m a - - b e R e q a	('heavy', 'pmpacd', '*ma-beReqat')	datasets/ACD/pmpacd.tsv		
+313	heavy	pmpacd	proto-MP-ACD 2	Austronesian		*ma-beReqat	*beReqat 'weight, heaviness, weightiness; difficult; pregnant'	* m a - - b e R e q a	('heavy', 'alor1247-baran', 'ba:')	datasets/ACD/pmpacd.tsv		
 314	light (weight)	pmpacd	proto-MP-ACD 2	Austronesian		*ma-Raqan	*Raqan 'lightness (weight)'	* m a - R a - - q a	('light (weight)', 'pmpacd', '*ma-Raqan')	datasets/ACD/pmpacd.tsv		
 315	straight	pmpacd	proto-MP-ACD 2	Austronesian		*lurus	nan	- * l u - r u s	('straight', 'lama1277-adona', 'kɜˈlɔhɔ')	datasets/ACD/pmpacd.tsv		
 316	wide	pmpacd	proto-MP-ACD 2	Austronesian		*labeR	nan	- * l a b e R	('wide', 'amar1273-kotos', 'mainuan')	datasets/ACD/pmpacd.tsv		
@@ -633,8 +633,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 451	two	pmpacd	proto-MP-ACD 2	Austronesian		*duha	nan	* d u h a	('two', 'lama1277-adona', 'ˈrua')	datasets/ACD/pmpacd.tsv		
 452	three	pmpacd	proto-MP-ACD 2	Austronesian		*telu	nan	* t e l u	('three', 'lamm1241-westp', 'atiga')	datasets/ACD/pmpacd.tsv		
 453	four	pmpacd	proto-MP-ACD 2	Austronesian		*epat	nan	* e p a t - -	('four', 'abui1241-fuime', 'buti')	datasets/ACD/pmpacd.tsv		
-454	five	pmpacd	proto-MP-ACD 2	Austronesian		*ima	nan	- - * i m a	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/ACD/pmpacd.tsv		
-454	five	pmpacd	proto-MP-ACD 2	Austronesian		*lima	nan	- * l i m a	"('five', 'alor1247-baran', ""'lɛm:a"")"	datasets/ACD/pmpacd.tsv		
+454	five	pmpacd	proto-MP-ACD 2	Austronesian		*ima	nan	- - * i m a	('arm', 'keda1252-leuba', 'liŋ')	datasets/ACD/pmpacd.tsv		
+454	five	pmpacd	proto-MP-ACD 2	Austronesian		*lima	nan	- * l i m a	('arm', 'keda1252-leuba', 'liŋ')	datasets/ACD/pmpacd.tsv		
 455	six	pmpacd	proto-MP-ACD 2	Austronesian		*enem	nan	* e n e m	('six', 'pmpacd', '*enem')	datasets/ACD/pmpacd.tsv		
 456	seven	pmpacd	proto-MP-ACD 2	Austronesian		*pitu	nan	* p i t - - u - -	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/ACD/pmpacd.tsv		
 457	eight	pmpacd	proto-MP-ACD 2	Austronesian		*walu	nan	* w a l u	('eight', 'amar1273-kotos', 'fanu')	datasets/ACD/pmpacd.tsv		
@@ -686,9 +686,9 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 583	finished	pmpacd	proto-MP-ACD 2	Austronesian		*qeti	nan	* q e t i	('finished', 'pmpacd', '*qeti')	datasets/ACD/pmpacd.tsv		
 583	finished	pmpacd	proto-MP-ACD 2	Austronesian		*qubus	nan	* q u b u s	('finished', 'pmpacd', '*qubus')	datasets/ACD/pmpacd.tsv		
 583	finished	pmpacd	proto-MP-ACD 2	Austronesian		*upus	nan	- * u p u s	('finished', 'pmpacd', '*qubus')	datasets/ACD/pmpacd.tsv		
-588	flower (in e.g. mangga tree)	pmpacd	proto-MP-ACD 2	Austronesian		*buŋaŋ	nan	- - - - * b u ŋ a ŋ - - - - - - - -	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/ACD/pmpacd.tsv		
+588	flower (in e.g. mangga tree)	pmpacd	proto-MP-ACD 2	Austronesian		*buŋaŋ	nan	- - - - * b u ŋ a ŋ - - - - - - - -	('flower', 'abui1241-fuime', 'kiki')	datasets/ACD/pmpacd.tsv		
 589	vein	pmpacd	proto-MP-ACD 2	Austronesian		*uRat	nan	* u R a t	('vein', 'pmpacd', '*uRat')	datasets/ACD/pmpacd.tsv		
-590	long (stick)	pmpacd	proto-MP-ACD 2	Austronesian		*anaduq	nan	* a n - a d u q	('long (stick)', 'pmpacd', '*anaduq')	datasets/ACD/pmpacd.tsv		
+590	long (stick)	pmpacd	proto-MP-ACD 2	Austronesian		*anaduq	nan	* a n - a d u q	"('far', 'alor1247-baran', ""'ʤuaŋ"")"	datasets/ACD/pmpacd.tsv		
 591	tall (person)	pmpacd	proto-MP-ACD 2	Austronesian		*atas	nan	* a t a s	('tall (person)', 'pmpacd', '*atas')	datasets/ACD/pmpacd.tsv		
 591	tall (person)	pmpacd	proto-MP-ACD 2	Austronesian		*laŋkaw	nan	* l a ŋ k a w - -	('tall (person)', 'adan1251-lawah', 'lawen')	datasets/ACD/pmpacd.tsv		
 592	short (stick)	pmpacd	proto-MP-ACD 2	Austronesian		*babaq	*babaq 'lower surface, bottom; short, low; below, beneath, under'	- - - * b a - b a q -	('short (stick)', 'buna1278-bobon', 'barak')	datasets/ACD/pmpacd.tsv		

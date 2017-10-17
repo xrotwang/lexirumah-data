@@ -1,387 +1,388 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
-0	sky	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'bulaŋ	nan	b ú l a ŋ - - -	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	datasets/Blagar-Bakalang.tsv		
-1	sun	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ved	nan	v e d - - - -	"('sun', 'abui1241-fuime', 'wari')"	datasets/Blagar-Bakalang.tsv		
-2	moon	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'huru	nan	h ú r u - - ( - - - - - - - - )	"('moon', 'adan1251-lawah', 'hu:l')"	datasets/Blagar-Bakalang.tsv		
-3	star	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	id	nan	- i d -	"('star', 'baka1276', 'id')"	datasets/Blagar-Bakalang.tsv		
-4	night	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kamaluŋ	nan	k a m a l u ŋ -	"('night', 'baka1276', 'kamaluŋ')"	datasets/Blagar-Bakalang.tsv		
-5	day	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ved	nan	v e d	"('day', 'adan1251-lawah', 'wɛd saha')"	datasets/Blagar-Bakalang.tsv		
-7	morning	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	hurak veŋ	nan	h u r a k _ v e ŋ	"('morning', 'baka1276', 'hurak veŋ')"	datasets/Blagar-Bakalang.tsv		
-8	yesterday	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mə'leŋ	nan	m ə l - - é ŋ - - -	"('yesterday', 'alor1249-sar-a', 'məlah')"	datasets/Blagar-Bakalang.tsv		
-9	day before yesterday	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	edaŋ aru	nan	- e d a - - ŋ - _ - a - - r u - -	"('day before yesterday', 'adan1251-lawah', 'ʔotariŋ alumi')"	datasets/Blagar-Bakalang.tsv		
-10	tomorrow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'tobaŋ	nan	t ó b a - ŋ -	"('tomorrow', 'baka1276', 'tóbaŋ')"	datasets/Blagar-Bakalang.tsv		
-11	day after tomorrow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tiaŋ aru	nan	- - t i - a ŋ _ a - - r u	"('day after tomorrow', 'alor1249-sar-a', 'tiraq')"	datasets/Blagar-Bakalang.tsv		
-12	twilight; dawn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bil ʤara abuŋ	nan	b i l _ j a r a _ a b u ŋ	"('twilight; dawn', 'baka1276', 'bil jara abuŋ')"	datasets/Blagar-Bakalang.tsv		
-13	cloud	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bənaw	nan	b ə n a w - -	"('cloud', 'baka1276', 'bənaw')"	datasets/Blagar-Bakalang.tsv		
-14	wind	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'enar	nan	- é n a r - - - - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/Blagar-Bakalang.tsv		
-15	rain	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	noar	nan	- - n o a r	"('rain', 'abui1241-fuime', 'anui')"	datasets/Blagar-Bakalang.tsv		
-17	rainbow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	lia	nan	l i a	"('rainbow', 'baka1276', 'lia')"	datasets/Blagar-Bakalang.tsv		
-18	thunder	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	lal	bunyinya	l a l	"('thunder', 'baka1276', 'lal')"	datasets/Blagar-Bakalang.tsv		
-19	lightning	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bil mə'lelak	"kilatan, cahaya"	b i l _ m ə l é - l a k	"('lightning', 'baka1276', 'bil məlélak')"	datasets/Blagar-Bakalang.tsv		
-20	earthquake	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	por ota	nan	p o r _ - o t - - a -	"('earthquake', 'baka1276', 'por ota')"	datasets/Blagar-Bakalang.tsv		
-21	fog	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bənaw koko	"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari"	b ə n a w _ - k o k o	"('fog', 'baka1276', 'bənaw koko')"	datasets/Blagar-Bakalang.tsv		
-22	river; stream	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mual	nan	m u - a l	"('river; stream', 'adan1251-lawah', 'møl')"	datasets/Blagar-Bakalang.tsv		
-26	mountain	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pondo	nan	p o n d o	"('mountain', 'alor1247-baran', ""'foto"")"	datasets/Blagar-Bakalang.tsv		
-27	hill; ridge	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pondo	nan	p o n d o -	"('hill; ridge', 'baka1276', 'pondo')"	datasets/Blagar-Bakalang.tsv		
-28	village	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'abaŋ	nan	- á b a ŋ -	"('village', 'adan1251-lawah', 'baŋ ʔɛme')"	datasets/Blagar-Bakalang.tsv		
-29	land; soil	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	por	nan	p o r	"('land; soil', 'baka1276', 'por')"	datasets/Blagar-Bakalang.tsv		
-30	Earth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	por	nan	p o r	"('Earth', 'alor1249-sar-a', 'por')"	datasets/Blagar-Bakalang.tsv		
-31	hole	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤow	nan	j o w	"('hole', 'baka1276', 'jow')"	datasets/Blagar-Bakalang.tsv		
-32	stone	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	var	nan	v a r -	"('stone', 'abui1241-fuime', 'vi')"	datasets/Blagar-Bakalang.tsv		
-33	coral (rock)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	koka	batu (rock) di pantai	k o k a -	"('coral (rock)', 'baka1276', 'koka')"	datasets/Blagar-Bakalang.tsv		
-34	(coral) reef	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tomu	karang (reef) di dasar laut	nan	"('(coral) reef', 'alor1249-sar-a', ""'tomi"")"	datasets/Blagar-Bakalang.tsv		
-35	water (fresh)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤar	nan	- j a r -	"('water (fresh)', 'abui1241-fuime', 'je')"	datasets/Blagar-Bakalang.tsv		
-36	sea; sea water	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	taŋ	nan	t a ŋ -	"('sea; sea water', 'abui1241-fuime', 'tama')"	datasets/Blagar-Bakalang.tsv		
-37	wave	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	buat	nan	b u a t - - -	"('wave', 'alor1249-sar-a', ""bu'at"")"	datasets/Blagar-Bakalang.tsv		
-38	foam	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	taŋ ul	nan	t a ŋ - - _ - u l - -	"('foam', 'alor1249-sar-a', 'ul')"	datasets/Blagar-Bakalang.tsv		
-39	forest	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	rehe	nan	- - r e h e - - -	"('forest', 'baka1276', 'rehe')"	datasets/Blagar-Bakalang.tsv		
-40	field	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dadi	nan	d a d i	"('field', 'baka1276', 'dadi')"	datasets/Blagar-Bakalang.tsv		
-43	garden	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bil	nan	b i l	"('garden', 'adan1251-lawah', 'dil')"	datasets/Blagar-Bakalang.tsv		
-45	road; path; way	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	via	nan	v i a -	"('road; path; way', 'baka1276', 'via')"	datasets/Blagar-Bakalang.tsv		
-46	canoe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤe	nan	j e	"('canoe', 'baka1276', 'je')"	datasets/Blagar-Bakalang.tsv		
-49	fishing hook	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kavil	nan	k a v i l -	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	datasets/Blagar-Bakalang.tsv		
-50	fish trap	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ver	dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	"('fish trap', 'alor1247-pandai', ""'kɛr"")"	datasets/Blagar-Bakalang.tsv		
-51	rope	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	sial	nan	s i - a l -	"('rope', 'abui1241-petle', ""si.'la"")"	datasets/Blagar-Bakalang.tsv		
-52	machete	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	peda	nan	- - p e d a -	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	datasets/Blagar-Bakalang.tsv		
-53	axe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ta:	nan	t aa - -	"('axe', 'baka1276', 'ta:')"	datasets/Blagar-Bakalang.tsv		
-54	spear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	rapaŋ	nan	r a p a ŋ -	"('spear', 'baka1276', 'rapaŋ')"	datasets/Blagar-Bakalang.tsv		
-56	stick; pole	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'doba	nan	d ó b a -	"('stick; pole', 'adan1251-lawah', 'dopoŋ')"	datasets/Blagar-Bakalang.tsv		
-57	digging stick	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dad	nan	d a d	"('digging stick', 'alor1249-sar-n', 'der')"	datasets/Blagar-Bakalang.tsv		
-59	bow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bu'mat	nan	nan	"('bow', 'alor1249-sar-a', ""ʔa'mutan"")"	datasets/Blagar-Bakalang.tsv		
-60	arrow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bulit	nan	nan	"('arrow', 'abui1241-takal', ""kä.'fuq"")"	datasets/Blagar-Bakalang.tsv		
-61	knife	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tudik	nan	t u d i k	"('knife', 'abui1241-fuime', 'lui')"	datasets/Blagar-Bakalang.tsv		
-62	comb	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kiri	nan	k i - - - r i	"('comb', 'abui1241-fuime', 'ke:ti')"	datasets/Blagar-Bakalang.tsv		
-63	mat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bihi	nan	b i h i -	"('mat', 'adan1251-lawah', 'bahu')"	datasets/Blagar-Bakalang.tsv		
-64	needle	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	batul	nan	b a t u l	"('needle', 'adan1251-lawah', 'bátuŋ')"	datasets/Blagar-Bakalang.tsv		
-67	fire	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ad	nan	- a d -	"('fire', 'abui1241-fuime', 'ara')"	datasets/Blagar-Bakalang.tsv		
-68	smoke	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ad banaŋka	nan	a d - - _ - - b a n a ŋ k a	"('smoke', 'adan1251-lawah', 'awai banoʔo')"	datasets/Blagar-Bakalang.tsv		
-71	fireplace ash	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mo'ro	"NOT 'debu' (dust, after you have been sweeping)"	m o r ó - -	"('fireplace ash', 'adan1251-lawah', 'ma:lu')"	datasets/Blagar-Bakalang.tsv		
-71	fireplace ash	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'mro	"NOT 'debu' (dust, after you have been sweeping)"	m - r ó - -	"('fireplace ash', 'adan1251-lawah', 'ma:lu')"	datasets/Blagar-Bakalang.tsv		
-72	mud	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'buta	nan	b ú t a -	"('mud', 'baka1276', 'búta')"	datasets/Blagar-Bakalang.tsv		
-73	clay	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	me'ke	nan	m e k é - -	"('clay', 'alor1249-sar-n', 'moxoʔ mu i:ʔ')"	datasets/Blagar-Bakalang.tsv		
-74	gravel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	gə'dobar	nan	g ə d ó b a r	"('gravel', 'baka1276', 'gədóbar')"	datasets/Blagar-Bakalang.tsv		
-75	sand	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	behi	nan	b e h i -	"('sand', 'adan1251-lawah', 'fɛʧɛʔ')"	datasets/Blagar-Bakalang.tsv		
-76	grass; brush	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	nevel	nan	n e v e l	"('grass; brush', 'baka1276', 'nevel')"	datasets/Blagar-Bakalang.tsv		
-77	house	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	hava	nan	nan	"('house', 'abui1241-fuime', 'fala')"	datasets/Blagar-Bakalang.tsv		
-78	traditional house	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	hava raʤa	nan	h a v a _ r a j a	"('traditional house', 'baka1276', 'hava raja')"	datasets/Blagar-Bakalang.tsv		
-79	barn; storage house	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	panda	nan	nan	"('barn; storage house', 'alor1249-sar-a', ""pa'hambal"")"	datasets/Blagar-Bakalang.tsv		
-80	raised platform	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dei	nan	d e - i	"('raised platform', 'alor1247-besar', ""'dɛki"")"	datasets/Blagar-Bakalang.tsv		
-81	door	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tuni	nan	t u n - i -	"('door', 'baka1276', 'tuni')"	datasets/Blagar-Bakalang.tsv		
-82	(thatch) roof	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	vemvei	nan	nan	"('(thatch) roof', 'abui1241-takal', ""'wäj"")"	datasets/Blagar-Bakalang.tsv		
-83	roof thatch	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	meniŋ	nan	- m e n i ŋ -	"('roof thatch', 'abui1241-fuime', 'ameŋ')"	datasets/Blagar-Bakalang.tsv		
-84	tree	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	te	nan	- - t e -	"('tree', 'adan1251-lawah', 'ti')"	datasets/Blagar-Bakalang.tsv		
-86	bark (of tree)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	te ulit	nan	nan	"('bark (of tree)', 'adan1251-lawah', 'ti ʔui')"	datasets/Blagar-Bakalang.tsv		
-87	leaf	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	te va	nan	- t e - _ v a - - -	"('leaf', 'abui1241-fuime', 'watala')"	datasets/Blagar-Bakalang.tsv		
-88	branch	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ataŋ	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	datasets/Blagar-Bakalang.tsv		
-89	firewood	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ad dera	nan	a d _ d e r - - a	"('firewood', 'adan1251-lawah', 'a: taʔata')"	datasets/Blagar-Bakalang.tsv		
-90	rattan	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	lija	nan	l i j a - -	"('rattan', 'adan1251-lawah', 'lɛʔ')"	datasets/Blagar-Bakalang.tsv		
-91	root	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	te briŋ	nan	t e _ b - r i - - ŋ -	"('root', 'baka1276', 'te briŋ')"	datasets/Blagar-Bakalang.tsv		
-92	fruit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pa:	nan	#NAME?	"('fruit', 'abui1241-petle', 'upu')"	datasets/Blagar-Bakalang.tsv		
-93	seed	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tehi	nan	t e h i	"('seed', 'baka1276', 'tehi')"	datasets/Blagar-Bakalang.tsv		
-96	husked rice; uncooked rice	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mod	nan	m o d	"('husked rice; uncooked rice', 'baka1276', 'mod')"	datasets/Blagar-Bakalang.tsv		
-98	cooked rice	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	na lijaŋ	nan	nan	"('cooked rice', 'baka1276', 'na lijaŋ')"	datasets/Blagar-Bakalang.tsv		
-99	rice plant	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mod	nan	m o d	"('rice plant', 'baka1276', 'mod')"	datasets/Blagar-Bakalang.tsv		
-100	to plant (yam)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mudiŋ	nan	- m u d i ŋ - -	"('to plant (yam)', 'baka1276', 'mudiŋ')"	datasets/Blagar-Bakalang.tsv		
-101	to plant (rice)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mudiŋ	nan	#NAME?	"('to plant (rice)', 'adan1251-lawah', 'mudiŋ')"	datasets/Blagar-Bakalang.tsv		
-102	betel nut; areca	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bu	nan	nan	"('betel nut; areca', 'abui1241-fuime', 'fu')"	datasets/Blagar-Bakalang.tsv		
-103	betel vine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ma:t	nan	nan	"('betel vine', 'abui1241-fuime', 'me:tiŋ')"	datasets/Blagar-Bakalang.tsv		
-104	lime	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	avar	nan	- a v a r -	"('lime', 'abui1241-fuime', 'awai')"	datasets/Blagar-Bakalang.tsv		
-105	chew betel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ma:t ha	nan	m aa t - _ h a - - -	"('chew betel', 'baka1276', 'ma:t ha')"	datasets/Blagar-Bakalang.tsv		
-106	sweet potato	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	u kasi	nan	nan	"('sweet potato', 'abui1241-takal', 'kɔ')"	datasets/Blagar-Bakalang.tsv		
-107	cassava	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	u blanda	nan	u _ - b - l a n d a	"('cassava', 'baka1276', 'u blanda')"	datasets/Blagar-Bakalang.tsv		
-108	taro	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	awgol	nan	nan	"('taro', 'baka1276', 'awgol')"	datasets/Blagar-Bakalang.tsv		
-111	sugarcane	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ub	nan	- u b - -	"('sugarcane', 'abui1241-fuime', 'fa')"	datasets/Blagar-Bakalang.tsv		
-112	corn; maize	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	batar	nan	b a t a r	"('corn; maize', 'abui1241-fuime', 'fa:ti')"	datasets/Blagar-Bakalang.tsv		
-113	cooked corn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	batar pi	nan	b a t a r _ p i - - - - -	"('cooked corn', 'adan1251-lawah', 'bati awai')"	datasets/Blagar-Bakalang.tsv		
-114	coconut	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	vet	nan	v e t - -	"('coconut', 'abui1241-fuime', 'wata')"	datasets/Blagar-Bakalang.tsv		
-115	gwang	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kudubuk	nan	#NAME?	"('gwang', 'baka1276', 'kudubuk')"	datasets/Blagar-Bakalang.tsv		
-116	lontar palm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tua: ai oli	nan	t u aa _ a i _ - o l i	"('lontar palm', 'alor1249-sar-a', 'tuax')"	datasets/Blagar-Bakalang.tsv		
-117	sugar palm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tua bur	nan	t u a _ b u r -	"('sugar palm', 'abui1241-fuime', 'tuok')"	datasets/Blagar-Bakalang.tsv		
-118	marungga	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	təmoluŋ	nan	t ə m o l u ŋ - -	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	datasets/Blagar-Bakalang.tsv		
-119	gum tree; eucalyptus	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pu	nan	p u - -	"('gum tree; eucalyptus', 'adan1251-lawah', 'pu')"	datasets/Blagar-Bakalang.tsv		
-120	bamboo	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	petuŋ	nan	nan	"('bamboo', 'alor1249-sar-a', ""'ʤa"")"	datasets/Blagar-Bakalang.tsv		
-121	banana	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mol	nan	nan	"('banana', 'abui1241-fuime', 'musa')"	datasets/Blagar-Bakalang.tsv		
-122	mango	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	biat	nan	b i - a t	"('mango', 'adan1251-lawah', 'be')"	datasets/Blagar-Bakalang.tsv		
-123	papaya	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kasi	nan	k a s - i	"('papaya', 'adan1251-lawah', 'kahatɛlɛ')"	datasets/Blagar-Bakalang.tsv		
-124	jackfruit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	naŋka	nan	n a ŋ - k a -	"('jackfruit', 'alor1247-besar', ""'naŋka"")"	datasets/Blagar-Bakalang.tsv		
-125	breadfruit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	undur	nan	- u n d u r	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	datasets/Blagar-Bakalang.tsv		
-126	bean	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tol	nan	nan	"('bean', 'abui1241-fuime', 'takoi')"	datasets/Blagar-Bakalang.tsv		
-127	honey	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	toŋ	nan	- - t o ŋ -	"('honey', 'abui1241-takal', ""'mu.täŋ"")"	datasets/Blagar-Bakalang.tsv		
-128	milk	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	am	not 'breast'	- a m - - -	"('milk', 'alor1249-sar-a', 'haŋ')"	datasets/Blagar-Bakalang.tsv		
-129	salt	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	sia	nan	s i a - -	"('salt', 'baka1276', 'sia')"	datasets/Blagar-Bakalang.tsv		
-130	fat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	e te'ma	nan	e _ - - t e m á - -	"('fat', 'abui1241-takal', ""tä.mä.'dä"")"	datasets/Blagar-Bakalang.tsv		
-132	bone	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	e i'ra	nan	nan	"('bone', 'alor1249-sar-a', 'kir')"	datasets/Blagar-Bakalang.tsv		
-133	rib	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	t-a'bal i'ra	nan	t a b á l _ - i r á -	"('rib', 'baka1276', 't-abál irá')"	datasets/Blagar-Bakalang.tsv		
-134	sweat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	truŋ	nan	t - r u - - ŋ -	"('sweat', 'abui1241-fuime', 'tamuriŋ')"	datasets/Blagar-Bakalang.tsv		
-135	tear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	eŋ ʤar	nan	- e ŋ - _ j a r	"('tear', 'baka1276', 'eŋ jar')"	datasets/Blagar-Bakalang.tsv		
-136	blood	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ve	nan	nan	"('blood', 'abui1241-fuime', 'we')"	datasets/Blagar-Bakalang.tsv		
-138	heart	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	e kubaŋ	nan	e _ - - - k u b a ŋ -	"('heart', 'baka1276', 'e kubaŋ')"	datasets/Blagar-Bakalang.tsv		
-139	liver	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	(e)li'la	nan	- - l i l á -	"('liver', 'baka1276', '(e)lilá')"	datasets/Blagar-Bakalang.tsv		
-141	guts	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tow sial	"(lit., ‘stomach rope’)"	t o w _ s i a l	"('guts', 'baka1276', 'tow sial')"	datasets/Blagar-Bakalang.tsv		
-142	excrement	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	a:s	nan	- aa s - -	"('excrement', 'adan1251-lawah', 'hahaʔ')"	datasets/Blagar-Bakalang.tsv		
-143	lungs	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	buraŋ	nan	- - b u r a ŋ -	"('lungs', 'alor1247-besar', ""'furaŋ"")"	datasets/Blagar-Bakalang.tsv		
-144	stomach; belly	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tow	nan	nan	"('stomach; belly', 'adan1251-lawah', 'atuʔu')"	datasets/Blagar-Bakalang.tsv		
-145	head	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	toŋ	nan	nan	"('head', 'baka1276', 'toŋ')"	datasets/Blagar-Bakalang.tsv		
-146	hair	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	toŋ va	nan	t o - - - ŋ - _ v a -	"('hair', 'alor1249-sar-n', 'noʔon waʔ')"	datasets/Blagar-Bakalang.tsv		
-147	body hair	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mudi	nan	nan	"('body hair', 'abui1241-fuime', 'teamur')"	datasets/Blagar-Bakalang.tsv		
-148	eye	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	eŋ	nan	- e - ŋ - - - - - - - -	"('eye', 'adan1251-lawah', 'ʔɛŋwai')"	datasets/Blagar-Bakalang.tsv		
-149	ear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	veli	nan	#NAME?	"('ear', 'adan1251-lawah', 'awɛbɛhɛ')"	datasets/Blagar-Bakalang.tsv		
-150	nose	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	imiŋbur	nan	- i m i - ŋ b u r -	"('nose', 'alor1249-sar-n', 'naminbuj')"	datasets/Blagar-Bakalang.tsv		
-151	mouth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	taibor	nan	t a i b o r -	"('mouth', 'baka1276', 'taibor')"	datasets/Blagar-Bakalang.tsv		
-152	chin	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	a'va	nan	#NAME?	"('chin', 'baka1276', 'avá')"	datasets/Blagar-Bakalang.tsv		
-153	lips	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ibal	nan	#NAME?	"('lips', 'adan1251-lawah', 'tɛm tɛporo')"	datasets/Blagar-Bakalang.tsv		
-154	teeth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	vehiŋ	nan	v e - h i ŋ -	"('teeth', 'abui1241-fuime', 'taweiti')"	datasets/Blagar-Bakalang.tsv		
-155	tongue	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤebur	nan	- - j e - b u r -	"('tongue', 'adan1251-lawah', 'nalɛb')"	datasets/Blagar-Bakalang.tsv		
-156	neck	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʔemeŋ	nan	ʔ e m e - ŋ - - -	"('neck', 'alor1249-sar-n', 'naman ku')"	datasets/Blagar-Bakalang.tsv		
-157	shoulder	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	i'bit	nan	#NAME?	"('shoulder', 'abui1241-fuime', 'tabaŋ')"	datasets/Blagar-Bakalang.tsv		
-163	arm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ataŋ	nan	nan	"('arm', 'abui1241-fuime', 'tataŋ')"	datasets/Blagar-Bakalang.tsv		
-166	finger	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ataŋ tuba	nan	- a t a ŋ - _ t u b a -	"('finger', 'baka1276', 'ataŋ tuba')"	datasets/Blagar-Bakalang.tsv		
-167	fingernail	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ataŋ krusiŋ	nan	- a t a ŋ - - _ k - r u s i ŋ -	"('fingernail', 'adan1251-lawah', 'ʔataŋ uhuŋ')"	datasets/Blagar-Bakalang.tsv		
-167	fingernail	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ataŋ kurusiŋ	nan	- a t a ŋ - - _ k u r u s i ŋ -	"('fingernail', 'adan1251-lawah', 'ʔataŋ uhuŋ')"	datasets/Blagar-Bakalang.tsv		
-168	breast	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	a:m	nan	nan	"('breast', 'alor1249-sar-a', 'haŋ')"	datasets/Blagar-Bakalang.tsv		
-170	navel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pu'har	nan	- - p u h - á r - - - - -	"('navel', 'abui1241-fuime', 'tabike')"	datasets/Blagar-Bakalang.tsv		
-174	leg	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	i'ʤa	nan	#NAME?	"('leg', 'baka1276', 'ijá')"	datasets/Blagar-Bakalang.tsv		
-176	heel of foot	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	i'ʤa umud	nan	#NAME?	"('heel of foot', 'baka1276', 'ijá umud')"	datasets/Blagar-Bakalang.tsv		
-178	knee	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	i'ʤa kuku	nan	#NAME?	"('knee', 'alor1249-sar-a', ""gə'fat ku"")"	datasets/Blagar-Bakalang.tsv		
-179	back	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mota	nan	nan	"('back', 'baka1276', 'mota')"	datasets/Blagar-Bakalang.tsv		
-182	skin	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ulit	nan	nan	"('skin', 'adan1251-lawah', 'ʔui')"	datasets/Blagar-Bakalang.tsv		
-183	sore; wound	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'bata	nan	nan	"('sore; wound', 'alor1249-sar-a', ""be'tis"")"	datasets/Blagar-Bakalang.tsv		
-184	ringworm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	katu	nan	k a t u	"('ringworm', 'adan1251-lawah', 'ot')"	datasets/Blagar-Bakalang.tsv		
-185	scabies	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kot	nan	k o t	"('scabies', 'adan1251-lawah', 'at')"	datasets/Blagar-Bakalang.tsv		
-187	feverish	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bi biriŋ	nan	b i _ b i r i ŋ	"('feverish', 'alor1247-besar', ""ta'fefa"")"	datasets/Blagar-Bakalang.tsv		
-189	cold; influenza	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	imiŋ omi pi:	nan	#NAME?	"('cold; influenza', 'baka1276', 'imiŋ omi pi:')"	datasets/Blagar-Bakalang.tsv		
-190	person	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	iŋ	"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'"	- i - ŋ -	"('person', 'baka1276', 'iŋ')"	datasets/Blagar-Bakalang.tsv		
-191	name	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'ene	nan	- - é - n e - -	"('name', 'abui1241-fuime', 'na-ne')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ioal	(3pl).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	noal	(1sg).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	oal	(3sg).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
-192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	toal	(1pl).	nan	"('child', 'abui1241-takal', 'ʋil')"	datasets/Blagar-Bakalang.tsv		
-193	man	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mehal	nan	m e h - - - - a l	"('man', 'alor1249-sar-a', 'mase:r')"	datasets/Blagar-Bakalang.tsv		
-194	woman	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤahuŋ	nan	j a h u ŋ - - -	"('woman', 'baka1276', 'jahuŋ')"	datasets/Blagar-Bakalang.tsv		
-195	husband	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	eniŋ	nan	( - ) e - - n i - ŋ -	"('husband', 'abui1241-takal', 'te̞̞.ne̞äŋ')"	datasets/Blagar-Bakalang.tsv		
-196	wife	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	epraha	Not 'married woman'.	( - ) e p - r a h a	"('wife', 'baka1276', 'epraha')"	datasets/Blagar-Bakalang.tsv		
-197	mother	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	iva	nan	nan	"('mother', 'adan1251-lawah', 'niwi')"	datasets/Blagar-Bakalang.tsv		
-198	father	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	imaŋ	nan	nan	"('father', 'abui1241-fuime', 'mama')"	datasets/Blagar-Bakalang.tsv		
-199	older sibling	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	etaka	nan	nan	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	datasets/Blagar-Bakalang.tsv		
-200	younger sibling	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kaw	nan	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	datasets/Blagar-Bakalang.tsv		
-201	bride price	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ebli	nan	nan	"('bride price', 'abui1241-fuime', 'he-bel')"	datasets/Blagar-Bakalang.tsv		
-202	slave	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	oho gahiŋ	nan	nan	"('slave', 'alor1249-sar-a', 'gahiŋwal')"	datasets/Blagar-Bakalang.tsv		
-231	left (side)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ataŋ ʤasi	"(lit., ‘bad hand’)"	#NAME?	"('left (side)', 'baka1276', 'ataŋ jasi')"	datasets/Blagar-Bakalang.tsv		
-232	right (side)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tataŋ aw	"(lit., ‘good hand’)"	t a t a ŋ _ a w	"('right (side)', 'baka1276', 'tataŋ aw')"	datasets/Blagar-Bakalang.tsv		
-238	dog	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤabar	nan	nan	"('dog', 'adan1251-lawah', 'bɛl')"	datasets/Blagar-Bakalang.tsv		
-239	pig	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	be	nan	b e - - -	"('pig', 'abui1241-fuime', 'fe')"	datasets/Blagar-Bakalang.tsv		
-240	chicken	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	haŋi	nan	h a ŋ - i	"('chicken', 'baka1276', 'haŋi')"	datasets/Blagar-Bakalang.tsv		
-241	rat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'duru	nan	d ú r - u	"('rat', 'adan1251-lawah', 'du:l')"	datasets/Blagar-Bakalang.tsv		
-242	lizard	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tekek	nan	t e k e k - -	"('lizard', 'abui1241-fuime', 'tekok')"	datasets/Blagar-Bakalang.tsv		
-243	civet cat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	roh	nan	- r o h -	"('civet cat', 'baka1276', 'roh')"	datasets/Blagar-Bakalang.tsv		
-244	deer	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ruhiŋ	nan	- - r u - h i ŋ - - - -	"('deer', 'adan1251-lawah', 'a:lu')"	datasets/Blagar-Bakalang.tsv		
-245	frog	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	moto	nan	- - m o t o -	"('frog', 'alor1247-besar', ""'matɔ"")"	datasets/Blagar-Bakalang.tsv		
-246	bat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	demel	nan	d e m e l	"('bat', 'baka1276', 'demel')"	datasets/Blagar-Bakalang.tsv		
-249	tail	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ora	nan	- - - o r a -	"('tail', 'adan1251-lawah', 'oloʔ')"	datasets/Blagar-Bakalang.tsv		
-250	fish	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ab	nan	- a b -	"('fish', 'abui1241-fuime', 'afu')"	datasets/Blagar-Bakalang.tsv		
-251	shark	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	hibil	nan	h i b i l	"('shark', 'alor1249-sar-a', ""si'fir"")"	datasets/Blagar-Bakalang.tsv		
-252	whale	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	klaru	nan	nan	"('whale', 'baka1276', 'klaru')"	datasets/Blagar-Bakalang.tsv		
-253	dolphin	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kuʤa	nan	k u j - a -	"('dolphin', 'alor1249-sar-a', ""'kuja"")"	datasets/Blagar-Bakalang.tsv		
-254	crocodile	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bapa	nan	nan	"('crocodile', 'baka1276', 'bapa')"	datasets/Blagar-Bakalang.tsv		
-255	monitor lizard	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	rihi	nan	- - - r i h i	"('monitor lizard', 'alor1249-sar-a', 'jiris')"	datasets/Blagar-Bakalang.tsv		
-257	turtle	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	keja	nan	k e j a	"('turtle', 'alor1247-besar', ""'kea"")"	datasets/Blagar-Bakalang.tsv		
-258	turtle (saltwater)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	keja	nan	k e j a	"('turtle (saltwater)', 'alor1247-besar', ""'kea"")"	datasets/Blagar-Bakalang.tsv		
-259	bird	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'ul	nan	nan	"('bird', 'abui1241-fuime', 'ruo')"	datasets/Blagar-Bakalang.tsv		
-260	wing	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	a'bat	nan	- a b á t - -	"('wing', 'baka1276', 'abát')"	datasets/Blagar-Bakalang.tsv		
-263	horn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'umu	nan	- ú m u - -	"('horn', 'abui1241-fuime', 'ha-muk')"	datasets/Blagar-Bakalang.tsv		
-264	snake	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dumiŋ	nan	d u m i ŋ -	"('snake', 'alor1249-sar-a', 'da:m')"	datasets/Blagar-Bakalang.tsv		
-265	scorpion	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	per	nan	nan	"('scorpion', 'abui1241-fuime', 'pei')"	datasets/Blagar-Bakalang.tsv		
-266	egg	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	(e)dua	nan	d u a -	"('egg', 'adan1251-lawah', '(hiu) do')"	datasets/Blagar-Bakalang.tsv		
-267	earthworm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dukalaliŋ	nan	d u k a l a l i ŋ	"('earthworm', 'baka1276', 'dukalaliŋ')"	datasets/Blagar-Bakalang.tsv		
-268	butterfly	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kaliliŋ	nan	k a - l i l i ŋ -	"('butterfly', 'alor1247-pandai', ""kakə'lili"")"	datasets/Blagar-Bakalang.tsv		
-269	fly (n.)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	vavar	nan	v a v a r	"('fly (n.)', 'alor1249-sar-a', ""ʤə'fur"")"	datasets/Blagar-Bakalang.tsv		
-270	mosquito	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kinit	nan	#NAME?	"('mosquito', 'adan1251-lawah', 'ʔin')"	datasets/Blagar-Bakalang.tsv		
-271	ant	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kere	nan	nan	"('ant', 'alor1247-besar', ""ka'rːe"")"	datasets/Blagar-Bakalang.tsv		
-272	grasshopper	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kebet	nan	k e b e t	"('grasshopper', 'baka1276', 'kebet')"	datasets/Blagar-Bakalang.tsv		
-274	spider	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kraŋga	nan	k r a ŋ g a	"('spider', 'alor1247-besar', ""ka'raŋga"")"	datasets/Blagar-Bakalang.tsv		
-275	headlice	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kubuŋ	nan	#NAME?	"('headlice', 'abui1241-fuime', 'bikeŋ')"	datasets/Blagar-Bakalang.tsv		
-276	louse eggs	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	diliŋ	nan	- - - d i l i ŋ -	"('louse eggs', 'alor1249-sar-a', ""de'liŋ"")"	datasets/Blagar-Bakalang.tsv		
-277	mother louse	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kubaŋ i'va	nan	k u b a ŋ _ i v á	"('mother louse', 'baka1276', 'kubaŋ ivá')"	datasets/Blagar-Bakalang.tsv		
-278	flea	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kubaŋ	nan	k u - b a ŋ	"('flea', 'baka1276', 'kubaŋ')"	datasets/Blagar-Bakalang.tsv		
-279	louse (clothing)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kubaŋ	nan	k u b a ŋ	"('louse (clothing)', 'abui1241-fuime', 'be')"	datasets/Blagar-Bakalang.tsv		
-280	bedbug	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	te'me	nan	nan	"('bedbug', 'abui1241-fuime', 'ta:mek')"	datasets/Blagar-Bakalang.tsv		
-281	big	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	le	nan	nan	"('big', 'baka1276', 'le')"	datasets/Blagar-Bakalang.tsv		
-282	small	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kuduk	nan	k u d u - k	"('small', 'abui1241-fuime', 'kdiŋ')"	datasets/Blagar-Bakalang.tsv		
-283	old; worn (house)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	luŋ	nan	l u ŋ	"('old; worn (house)', 'baka1276', 'luŋ')"	datasets/Blagar-Bakalang.tsv		
-284	new (house)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'vede	nan	v é d e - - -	"('new (house)', 'alor1247-baran', 'funɔ')"	datasets/Blagar-Bakalang.tsv		
-285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	boma	'old man'.	b o m - - a	"('old (people)', 'baka1276', 'boma')"	datasets/Blagar-Bakalang.tsv		
-285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	met	'old woman'.	m e - - - t - -	"('old (people)', 'baka1276', 'met')"	datasets/Blagar-Bakalang.tsv		
-286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤauŋ kəneiŋ	'young woman'.	- - j a - u ŋ _ k ə n e - i ŋ -	"('young (people)', 'baka1276', 'jauŋ kəneiŋ')"	datasets/Blagar-Bakalang.tsv		
-286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ku'war	'young man'.	k u w á r	"('young (people)', 'baka1276', 'kuwár')"	datasets/Blagar-Bakalang.tsv		
-288	hot	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'bara	nan	b á r a -	"('hot', 'baka1276', 'bára')"	datasets/Blagar-Bakalang.tsv		
-289	cold	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤevi	nan	j e v i -	"('cold', 'baka1276', 'jevi')"	datasets/Blagar-Bakalang.tsv		
-290	good	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	auŋ	nan	#NAME?	"('good', 'abui1241-fuime', 'kaŋ')"	datasets/Blagar-Bakalang.tsv		
-291	bad	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤasi	nan	nan	"('bad', 'alor1249-sar-a', 'ja:t')"	datasets/Blagar-Bakalang.tsv		
-292	full	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	viŋ	nan	- - v i ŋ -	"('full', 'adan1251-lawah', 'wutulu')"	datasets/Blagar-Bakalang.tsv		
-293	empty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'osiŋ	nan	#NAME?	"('empty', 'baka1276', 'ósiŋ')"	datasets/Blagar-Bakalang.tsv		
-296	wet	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'lala	nan	- - l á l a -	"('wet', 'alor1249-sar-a', ""ka'loʔ"")"	datasets/Blagar-Bakalang.tsv		
-297	dry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tata	nan	t a - - t a	"('dry', 'abui1241-takal', ""tä.kä.'tä"")"	datasets/Blagar-Bakalang.tsv		
-298	dry in sun	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	poriŋ	nan	- - p o r i ŋ -	"('dry', 'keda1252-leuwa', 'pariʔ')"	datasets/Blagar-Bakalang.tsv		
-302	short (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tukaŋ	nan	t u - - k a ŋ -	"('short (people)', 'baka1276', 'tukaŋ')"	datasets/Blagar-Bakalang.tsv		
-303	thin (non-human)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	teil	nan	#NAME?	"('thin (non-human)', 'adan1251-lawah', 'tiʔi')"	datasets/Blagar-Bakalang.tsv		
-305	thick	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pusi	nan	p u s i	"('thick', 'baka1276', 'pusi')"	datasets/Blagar-Bakalang.tsv		
-307	dark	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ka'maluŋ	nan	k a m á l u ŋ -	"('dark', 'baka1276', 'kamáluŋ')"	datasets/Blagar-Bakalang.tsv		
-308	light	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤara	nan	- j a r a	"('light', 'alor1247-besar', ""'tarã"")"	datasets/Blagar-Bakalang.tsv		
-309	dirty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	klitak	nan	k - l i t a k	"('dirty', 'alor1247-baran', ""ka'lit:a"")"	datasets/Blagar-Bakalang.tsv		
-310	clean	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mulaŋ	nan	m u - - l a ŋ -	"('clean', 'adan1251-lawah', 'maduluŋ')"	datasets/Blagar-Bakalang.tsv		
-311	sharp	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	maŋ	"Of spear (tombak) or machete (parang); if there are two different words, elicit both."	m a - - ŋ -	"('sharp', 'baka1276', 'maŋ')"	datasets/Blagar-Bakalang.tsv		
-312	blunt; dull	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kumbul	nan	nan	"('blunt; dull', 'adan1251-lawah', 'kumuŋ')"	datasets/Blagar-Bakalang.tsv		
-313	heavy	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ta'madi	nan	nan	"('heavy', 'baka1276', 'tamádi')"	datasets/Blagar-Bakalang.tsv		
-314	light (weight)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'vila	nan	- v í l a -	"('light (weight)', 'adan1251-lawah', 'filiŋ')"	datasets/Blagar-Bakalang.tsv		
-315	straight	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'moloŋ	nan	- m ó l o - - ŋ -	"('straight', 'abui1241-fuime', 'mulaŋ')"	datasets/Blagar-Bakalang.tsv		
-316	wide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'lara	nan	- - l á r a - - -	"('wide', 'abui1241-fuime', 'tilesiŋ')"	datasets/Blagar-Bakalang.tsv		
-318	correct	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'molo	nan	m ó l o -	"('correct', 'alor1247-baran', ""'mallɔŋ"")"	datasets/Blagar-Bakalang.tsv		
-319	wrong	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'hala	nan	h á - - l a -	"('wrong', 'abui1241-fuime', 'hasala')"	datasets/Blagar-Bakalang.tsv		
-320	ripe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'tena	nan	- t é n a - -	"('ripe', 'adan1251-lawah', 'tɛnɛ')"	datasets/Blagar-Bakalang.tsv		
-321	rotten	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mi'nisa	nan	#NAME?	"('rotten', 'baka1276', 'minísa')"	datasets/Blagar-Bakalang.tsv		
-322	bitter	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ka'mala	nan	nan	"('bitter', 'alor1249-sar-a', 'mal')"	datasets/Blagar-Bakalang.tsv		
-323	sweet	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	teŋge	nan	t e ŋ g e	"('sweet', 'baka1276', 'teŋge')"	datasets/Blagar-Bakalang.tsv		
-324	sour	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ke'likil	nan	k - e l í k i l	"('sour', 'baka1276', 'kelíkil')"	datasets/Blagar-Bakalang.tsv		
-325	salty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ka'mala	nan	( k a m á l a - ) - - - - - - - - - -	"('salty', 'baka1276', 'kamála')"	datasets/Blagar-Bakalang.tsv		
-326	flat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bira	nan	b i r a	"('flat', 'abui1241-fuime', 'fui')"	datasets/Blagar-Bakalang.tsv		
-327	smooth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	du'la	‘slippery’	- d u l á - -	"('smooth', 'abui1241-fuime', 'rula')"	datasets/Blagar-Bakalang.tsv		
-329	black	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kana	nan	nan	"('black', 'abui1241-fuime', 'akani')"	datasets/Blagar-Bakalang.tsv		
-330	white	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	meʤa	nan	m e - j a - -	"('white', 'alor1249-sar-a', ""mi'jaq"")"	datasets/Blagar-Bakalang.tsv		
-331	red	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bibi	nan	b i b i -	"('red', 'baka1276', 'bibi')"	datasets/Blagar-Bakalang.tsv		
-332	green	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kokua	nan	k o - k u a	"('green', 'baka1276', 'kokua')"	datasets/Blagar-Bakalang.tsv		
-333	blue	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kokua	nan	k o - k u a	"('blue', 'baka1276', 'kokua')"	datasets/Blagar-Bakalang.tsv		
-334	yellow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'bori	nan	b ó - - r i - -	"('yellow', 'baka1276', 'bóri')"	datasets/Blagar-Bakalang.tsv		
-335	sick; painful	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dira	"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam."	d i r a -	"('sick; painful', 'baka1276', 'dira')"	datasets/Blagar-Bakalang.tsv		
-336	shy; ashamed	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mi'niaŋ	nan	m i n í - a ŋ -	"('shy; ashamed', 'alor1247-besar', ""'maniaŋ"")"	datasets/Blagar-Bakalang.tsv		
-337	thirsty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	emeŋ tata	nan	#NAME?	"('thirsty', 'adan1251-lawah', 'dolo taʔata')"	datasets/Blagar-Bakalang.tsv		
-338	hungry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ma'napal	nan	m a n á p a l	"('hungry', 'baka1276', 'manápal')"	datasets/Blagar-Bakalang.tsv		
-339	blind	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	eŋ ʤasi	nan	nan	"('blind', 'alor1249-sar-a', 'pet ja:t')"	datasets/Blagar-Bakalang.tsv		
-340	deaf	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'klus	nan	k - l ú s	"('deaf', 'alor1249-sar-a', ""qa'jus"")"	datasets/Blagar-Bakalang.tsv		
-341	scared	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'dadi	nan	d á d i - -	"('scared', 'baka1276', 'dádi')"	datasets/Blagar-Bakalang.tsv		
-342	angry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	om ilil	nan	nan	"('angry', 'alor1249-sar-a', 'om kaka')"	datasets/Blagar-Bakalang.tsv		
-343	to see	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	teiŋ	nan	#NAME?	"('to see', 'baka1276', 'teiŋ')"	datasets/Blagar-Bakalang.tsv		
-344	to hear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	veŋme	nan	v e ŋ m e	"('to hear', 'baka1276', 'veŋme')"	datasets/Blagar-Bakalang.tsv		
-345	to smell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mikuŋ	"mimiŋ ‘smell’, mikuŋ ‘kiss’"	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Bakalang.tsv		
-345	to smell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mimiŋ	"mimiŋ ‘smell’, mikuŋ ‘kiss’"	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Bakalang.tsv		
-346	to think	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'ukur	nan	- ú - - - k u r	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	datasets/Blagar-Bakalang.tsv		
-347	to know	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	teiŋ	nan	- - t e i ŋ -	"('to know', 'baka1276', 'teiŋ')"	datasets/Blagar-Bakalang.tsv		
-349	to speak	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tutuk	nan	- - - - - t u t u k - - - - - -	"('to speak', 'alor1247-baran', ""'tut:u"")"	datasets/Blagar-Bakalang.tsv		
-351	language	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	hur	nan	h u r	"('language', 'baka1276', 'hur')"	datasets/Blagar-Bakalang.tsv		
-352	to lie down	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tjet ja	nan	nan	"('to lie down', 'abui1241-fuime', 'ta')"	datasets/Blagar-Bakalang.tsv		
-353	to sleep	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tiaʔ	nan	t i - a ʔ - -	"('to sleep', 'abui1241-fuime', 'ta')"	datasets/Blagar-Bakalang.tsv		
-354	to wake up	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tahi	nan	t a h - - i	"('to wake up', 'adan1251-lawah', 'tohø')"	datasets/Blagar-Bakalang.tsv		
-355	to wake someone up	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mehar	nan	m e h a r	"('to wake someone up', 'baka1276', 'mehar')"	datasets/Blagar-Bakalang.tsv		
-356	to bathe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	vela	nan	#NAME?	"('to bathe', 'abui1241-fuime', 'tawel')"	datasets/Blagar-Bakalang.tsv		
-357	to bathe (a child)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	val vela	nan	v a - - l _ - - v e l a	"('to bathe (a child)', 'adan1251-lawah', 'ʔei awili')"	datasets/Blagar-Bakalang.tsv		
-358	to sit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mihiŋ	nan	- - m i h - i ŋ -	"('to sit', 'abui1241-petle', ""mi.'ti"")"	datasets/Blagar-Bakalang.tsv		
-359	to stand	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tahi	nan	nan	"('to stand', 'abui1241-fuime', 'nate')"	datasets/Blagar-Bakalang.tsv		
-360	to walk	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	namar	nan	- - n a m a r	"('to walk', 'adan1251-lawah', 'lami')"	datasets/Blagar-Bakalang.tsv		
-361	to run	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bihi	nan	nan	"('to run', 'abui1241-fuime', 'furei')"	datasets/Blagar-Bakalang.tsv		
-363	to swim	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'tara	nan	t á r a - -	"('to swim', 'alor1249-sar-a', ""tə'lis"")"	datasets/Blagar-Bakalang.tsv		
-364	to fly	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'liri	nan	- l í r i -	"('to fly', 'abui1241-fuime', 'li')"	datasets/Blagar-Bakalang.tsv		
-365	to fall (from above)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bahera	nan	b a h e r a	"('to fall (from above)', 'baka1276', 'bahera')"	datasets/Blagar-Bakalang.tsv		
-366	to fall over	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʔoli	e.g. pohon yang dipotong.	ʔ o l i -	"('to fall over', 'adan1251-lawah', 'oloʔ')"	datasets/Blagar-Bakalang.tsv		
-367	to drop	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	medi abaŋ	nan	#NAME?	"('to drop', 'baka1276', 'medi abaŋ')"	datasets/Blagar-Bakalang.tsv		
-368	to drink	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ʤar na	nan	j a r _ n a	"('to drink', 'adan1251-lawah', 'naʔ')"	datasets/Blagar-Bakalang.tsv		
-369	to eat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	na na	nan	n a - - _ n a	"('to eat', 'baka1276', 'na na')"	datasets/Blagar-Bakalang.tsv		
-370	to cook	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	na doa	nan	n a _ d o a	"('to cook', 'adan1251-lawah', 'dowoʔ')"	datasets/Blagar-Bakalang.tsv		
-371	to wash	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	na vembiŋ	nan	n a _ v e m b i ŋ - - - -	"('to wash', 'alor1249-sar-a', ""(uwam) be'li"")"	datasets/Blagar-Bakalang.tsv		
-372	to sew	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'rota	nan	- - - - - - r ó t a - - - - - - -	"('to sew', 'adan1251-lawah', 'narotoʔ')"	datasets/Blagar-Bakalang.tsv		
-373	to live; be alive; living	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	beta	nan	- b e t a -	"('to live; be alive; living', 'adan1251-lawah', 'wɛʧɛŋ')"	datasets/Blagar-Bakalang.tsv		
-374	to breathe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	eŋ hara	nan	e - - - ŋ _ h a r a	"('to breathe', 'alor1249-sar-n', 'jahaŋ será')"	datasets/Blagar-Bakalang.tsv		
-376	to die	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mina	nan	- - m i n a -	"('to die', 'abui1241-fuime', 'moŋ')"	datasets/Blagar-Bakalang.tsv		
-377	to give	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	aiŋ enaŋ	nan	a i ŋ - _ e n a ŋ -	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	datasets/Blagar-Bakalang.tsv		
-378	to wipe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	hapo	nan	h a p - - o	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	datasets/Blagar-Bakalang.tsv		
-379	to come	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ma	nan	- - - m a - - -	"('to come', 'abui1241-fuime', 'me')"	datasets/Blagar-Bakalang.tsv		
-380	to laugh	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ji'ar	nan	- j i á r -	"('to laugh', 'abui1241-petle', 'jei')"	datasets/Blagar-Bakalang.tsv		
-381	to cry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bow	nan	b o w	"('to cry', 'baka1276', 'bow')"	datasets/Blagar-Bakalang.tsv		
-382	to dance	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dari	 ‘lego-lego’	d a r i -	"('to dance', 'baka1276', 'dari')"	datasets/Blagar-Bakalang.tsv		
-383	to sing	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	dar huj	nan	d a r _ h u - j -	"('to sing', 'adan1251-lawah', 'da:la')"	datasets/Blagar-Bakalang.tsv		
-384	to burn (clear land)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bil ede	nan	b i l _ - e d e -	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	datasets/Blagar-Bakalang.tsv		
-385	to burn; to shine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ede	nan	#NAME?	"('to burn; to shine', 'baka1276', 'ede')"	datasets/Blagar-Bakalang.tsv		
-386	to shine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bo'lor	nan	b o l ó r	"('to shine', 'alor1247-besar', ""'bɔlo"")"	datasets/Blagar-Bakalang.tsv		
-387	to chew	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'mame	nan	m á - m e -	"('to chew', 'alor1247-besar', ""'mamɛ"")"	datasets/Blagar-Bakalang.tsv		
-388	to yawn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ba'naŋka	nan	b a n á ŋ k a	"('to yawn', 'baka1276', 'banáŋka')"	datasets/Blagar-Bakalang.tsv		
-389	to suck	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kə'dumu	nan	k ə d ú m u - - - -	"('to suck', 'baka1276', 'kədúmu')"	datasets/Blagar-Bakalang.tsv		
-390	to blow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	opu	nan	- - o - - p u - - - - -	"('to blow', 'abui1241-fuime', 'furuŋra')"	datasets/Blagar-Bakalang.tsv		
-391	to spit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	puruŋ	nan	p u r u - ŋ -	"('to spit', 'baka1276', 'puruŋ')"	datasets/Blagar-Bakalang.tsv		
-392	to vomit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'ida	nan	nan	"('to vomit', 'abui1241-fuime', 'iu')"	datasets/Blagar-Bakalang.tsv		
-393	to rub	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	doho	nan	d o h o -	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	datasets/Blagar-Bakalang.tsv		
-394	to scratch	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tu'a	nan	t u á -	"('to scratch', 'adan1251-lawah', 'tuʔuʔ')"	datasets/Blagar-Bakalang.tsv		
-395	itchy	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'kaka	nan	k á k a -	"('itchy', 'adan1251-lawah', 'kakaʔ')"	datasets/Blagar-Bakalang.tsv		
-396	to swell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'vara	nan	- v á r a -	"('to swell', 'alor1249-sar-a', ""wa'ra"")"	datasets/Blagar-Bakalang.tsv		
-397	to hit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	meaŋ	nan	m e a ŋ	"('to hit', 'baka1276', 'meaŋ')"	datasets/Blagar-Bakalang.tsv		
-399	to bite	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ga:kik	nan	g aa k i k -	"('to bite', 'baka1276', 'ga:kik')"	datasets/Blagar-Bakalang.tsv		
-400	to cut	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	boj	nan	b o - j -	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Blagar-Bakalang.tsv		
-401	to cut down	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'hiba	nan	h í b a -	"('to cut down', 'baka1276', 'híba')"	datasets/Blagar-Bakalang.tsv		
-402	to split	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'kahi	nan	#NAME?	"('to split', 'abui1241-fuime', 'kadel')"	datasets/Blagar-Bakalang.tsv		
-403	to divide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pol	nan	p o - l	"('to divide', 'baka1276', 'pol')"	datasets/Blagar-Bakalang.tsv		
-404	to stab	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	taŋi	nan	t a ŋ - i	"('to stab', 'baka1276', 'taŋi')"	datasets/Blagar-Bakalang.tsv		
-406	to fight	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'tota	nan	t ó - t a	"('to fight', 'baka1276', 'tóta')"	datasets/Blagar-Bakalang.tsv		
-408	to throw	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	oda	nan	#NAME?	"('to throw', 'adan1251-lawah', 'ød')"	datasets/Blagar-Bakalang.tsv		
-409	to hunt	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	sow	nan	s o w	"('to hunt', 'alor1249-sar-a', 'saw')"	datasets/Blagar-Bakalang.tsv		
-410	to kill	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	buj	nan	b u - j	"('to kill', 'alor1247-baran', ""'bun:ɔ"")"	datasets/Blagar-Bakalang.tsv		
-411	to chase away; to run after	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	teri	nan	- - - - t e - r i -	"('to chase away; to run after', 'abui1241-takal', ""tä.'pä:.tiŋ"")"	datasets/Blagar-Bakalang.tsv		
-413	to search for; to hunt for	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'rapiŋ	nan	- r á p i ŋ -	"('to search for; to hunt for', 'baka1276', 'rápiŋ')"	datasets/Blagar-Bakalang.tsv		
-414	to dig	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	anaŋ	nan	- a n a ŋ -	"('to dig', 'alor1249-sar-a', 'han')"	datasets/Blagar-Bakalang.tsv		
-415	to bury	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tow	nan	t o w	"('to bury', 'baka1276', 'tow')"	datasets/Blagar-Bakalang.tsv		
-416	to flow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	totu	nan	t o - t u -	"('to flow', 'alor1249-sar-a', 'totis')"	datasets/Blagar-Bakalang.tsv		
-417	to float	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tediŋ	nan	t e - d i ŋ -	"('to float', 'adan1251-lawah', 'tɛdɛʔ')"	datasets/Blagar-Bakalang.tsv		
-419	to hold	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pina	nan	#NAME?	"('to hold', 'abui1241-fuime', 'ho-puna')"	datasets/Blagar-Bakalang.tsv		
-420	to tie	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	nodaŋ	nan	n o d a ŋ -	"('to tie', 'baka1276', 'nodaŋ')"	datasets/Blagar-Bakalang.tsv		
-421	to play	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	mumal	nan	- - m u m a l - -	"('to play', 'abui1241-fuime', 'muila')"	datasets/Blagar-Bakalang.tsv		
-422	to pull	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	a'vak	nan	- a v á k -	"('to pull', 'abui1241-fuime', 'ha-fik')"	datasets/Blagar-Bakalang.tsv		
-423	to push	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tobaŋ	nan	- - t o b a ŋ -	"('to push', 'alor1247-baran', ""'tɔbaŋ"")"	datasets/Blagar-Bakalang.tsv		
-425	to dream	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'ipar	nan	- í - p a r	"('to dream', 'adan1251-lawah', 'pei')"	datasets/Blagar-Bakalang.tsv		
-426	to crouch; to bend over	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	kuku mudiŋ	"(lit., ‘knee plant’); To crouch as on an Indonesian toilet, NOT: to kneel"	k u k u _ m u d i ŋ	"('to crouch; to bend over', 'abui1241-fuime', 'luke')"	datasets/Blagar-Bakalang.tsv		
-428	to choose	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	veŋ aj	nan	v e ŋ _ - - - a - j	"('to choose', 'alor1249-sar-a', 'wantraj')"	datasets/Blagar-Bakalang.tsv		
-429	to grow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'bilaŋ	nan	b í l a ŋ	"('to grow', 'alor1249-sar-a', ""I'la"")"	datasets/Blagar-Bakalang.tsv		
-430	to squeeze	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'paha	nan	- - p á h a -	"('to squeeze', 'baka1276', 'páha')"	datasets/Blagar-Bakalang.tsv		
-431	to buy	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'beli	nan	#NAME?	"('to buy', 'abui1241-fuime', 'bele')"	datasets/Blagar-Bakalang.tsv		
-432	to sell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bali	nan	- - b a l i -	"('to sell', 'abui1241-fuime', 'balik')"	datasets/Blagar-Bakalang.tsv		
-433	to steal	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'tavi	nan	t á - - v i -	"('to steal', 'abui1241-fuime', 'takau')"	datasets/Blagar-Bakalang.tsv		
-435	to close	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	venteriŋ	nan	v e n t e r i ŋ - - - - - - - - - - - -	"('to close', 'adan1251-lawah', 'watɛlɛ')"	datasets/Blagar-Bakalang.tsv		
-436	to climb	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	pa	nan	p a - -	"('to climb', 'baka1276', 'pa')"	datasets/Blagar-Bakalang.tsv		
-437	to hide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	maʤaŋ	"maʤaŋ ‘hide something’, navamaʤan ‘hide onesself’"	- - - - m a j a ŋ -	"('to hide', 'alor1249-sar-a', ""pi-'maj"")"	datasets/Blagar-Bakalang.tsv		
-437	to hide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	navamaʤan	"maʤaŋ ‘hide something’, navamaʤan ‘hide onesself’"	n a v a m a j a n -	"('to hide', 'alor1249-sar-a', ""pi-'maj"")"	datasets/Blagar-Bakalang.tsv		
-438	to wait	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	adiŋ	nan	- a d i ŋ - -	"('to wait', 'adan1251-lawah', 'ʔadana')"	datasets/Blagar-Bakalang.tsv		
-439	to fold	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	le'pet	NOT: lipat tikar	l e p é t	"('to fold', 'baka1276', 'lepét')"	datasets/Blagar-Bakalang.tsv		
-440	to help	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	aiŋ moliŋ	nan	#NAME?	"('to help', 'alor1249-sar-a', 'molah')"	datasets/Blagar-Bakalang.tsv		
-441	to bark	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	loti	nan	- - - l o t i -	"('to bark', 'baka1276', 'loti')"	datasets/Blagar-Bakalang.tsv		
-442	to shoot	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	masaŋ	nan	m a s a ŋ -	"('to shoot', 'alor1247-baran', ""'pasa"")"	datasets/Blagar-Bakalang.tsv		
-444	to pound; to beat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tunumuk	nan	t u n u m - u k	"('to pound; to beat', 'baka1276', 'tunumuk')"	datasets/Blagar-Bakalang.tsv		
-445	to hit (drum)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	(peŋ) oda	nan	#NAME?	"('to hit (drum)', 'adan1251-lawah', 'ød')"	datasets/Blagar-Bakalang.tsv		
-446	to call out	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'gareŋ	nan	g á - - r e ŋ -	"('to call out', 'baka1276', 'gáreŋ')"	datasets/Blagar-Bakalang.tsv		
-447	to lie (tell untruth)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'leko	nan	l é k o	"('to lie (tell untruth)', 'baka1276', 'léko')"	datasets/Blagar-Bakalang.tsv		
-448	to ask (question)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'taniŋ	nan	nan	"('to ask (question)', 'abui1241-fuime', 'na:tahaŋ')"	datasets/Blagar-Bakalang.tsv		
-449	to count	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	rekeŋ	nan	r e k e ŋ -	"('to count', 'baka1276', 'rekeŋ')"	datasets/Blagar-Bakalang.tsv		
-450	one	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	nu	nan	#NAME?	"('one', 'abui1241-fuime', 'nuku')"	datasets/Blagar-Bakalang.tsv		
-451	two	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	'aru	nan	- á r u -	"('two', 'alor1247-baran', ""'rua"")"	datasets/Blagar-Bakalang.tsv		
-452	three	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tue	nan	t u - - e	"('three', 'abui1241-fuime', 'sua')"	datasets/Blagar-Bakalang.tsv		
-453	four	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	buta	nan	b u t a -	"('four', 'abui1241-fuime', 'buti')"	datasets/Blagar-Bakalang.tsv		
-454	five	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	isiŋ	nan	- - - i s i ŋ -	"('five', 'abui1241-fuime', 'jetiŋ')"	datasets/Blagar-Bakalang.tsv		
-455	six	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	taliŋ	nan	t a l i - ŋ - -	"('six', 'abui1241-fuime', 'tala:ma')"	datasets/Blagar-Bakalang.tsv		
-456	seven	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	titu	nan	#NAME?	"('seven', 'adan1251-lawah', 'wuitoʔ')"	datasets/Blagar-Bakalang.tsv		
-457	eight	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tuaru	nan	t u - - a r u -	"('eight', 'baka1276', 'tuaru')"	datasets/Blagar-Bakalang.tsv		
-458	nine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	turnu	nan	t - u r - - - n u -	"('nine', 'adan1251-lawah', 'tiʔinu')"	datasets/Blagar-Bakalang.tsv		
-459	ten	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	arnu	nan	- a - r - n u - -	"('ten', 'adan1251-lawah', 'airnu')"	datasets/Blagar-Bakalang.tsv		
-460	eleven	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ar nu betal nu	nan	nan	"('eleven', 'alor1249-sar-a', 'qar nuk unuk')"	datasets/Blagar-Bakalang.tsv		
-461	twelve	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ar nu betal aru	nan	- a r _ n u - - _ b e t - a l _ - a - - r u -	"('twelve', 'alor1249-sar-a', 'qar nuk unraq')"	datasets/Blagar-Bakalang.tsv		
-462	thirteen	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ar nu betal tue	nan	- a r _ n u - - _ b e t a l _ - - - t u - e	"('thirteen', 'adan1251-lawah', 'airnu waliŋ towo')"	datasets/Blagar-Bakalang.tsv		
-469	twenty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ar iaru	nan	a r - - _ i a r u	"('twenty', 'adan1251-lawah', 'airialu')"	datasets/Blagar-Bakalang.tsv		
-470	twenty one	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ar iaru betal nu	nan	a r _ i - - a r u _ b e - t a l - _ n u	"('twenty one', 'baka1276', 'ar iaru betal nu')"	datasets/Blagar-Bakalang.tsv		
-475	thirty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ari tue	nan	- a r i _ t u - e -	"('thirty', 'alor1249-sar-a', 'qar tig')"	datasets/Blagar-Bakalang.tsv		
-482	one hundred	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ratu nu	nan	- r a t u _ - n u - -	"('one hundred', 'adan1251-lawah', 'ratnu')"	datasets/Blagar-Bakalang.tsv		
-483	one hundred and twenty three	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ratu ariaru betal tue	nan	r a t - - u _ - - - - - a - r i a r u - - _ b e - t a l _ - t u - e	"('one hundred and twenty three', 'adan1251-lawah', 'ratnu airalu waliŋ towo')"	datasets/Blagar-Bakalang.tsv		
-484	two hundred	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ratu aru	nan	- r a t u - _ - a r u -	"('two hundred', 'adan1251-lawah', 'ratalu')"	datasets/Blagar-Bakalang.tsv		
-485	thousand	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	ribu	nan	- r i b - - - u -	"('thousand', 'adan1251-lawah', 'ribnu')"	datasets/Blagar-Bakalang.tsv		
-487	grandmother	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	nidat	The kinship task also asks for this term	n i d a t -	"('grandmother', 'baka1276', 'nidat')"	datasets/Blagar-Bakalang.tsv		
-488	grandfather	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	nidat	The kinship task also asks for this term	n i d a t - -	"('grandfather', 'alor1249-sar-n', 'natapis')"	datasets/Blagar-Bakalang.tsv		
-489	grandchild	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	oal idat	The kinship task also asks for this term	#NAME?	"('grandchild', 'baka1276', 'oal idat')"	datasets/Blagar-Bakalang.tsv		
-587	oven/cooking place	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tutu	nan	t u t u - - - - - - - -	"('oven/cooking place', 'alor1249-sar-a', ""tu'tuh"")"	datasets/Blagar-Bakalang.tsv		
-588	flower (in e.g. mangga tree)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	buma	nan	#NAME?	"('flower (in e.g. mangga tree)', 'baka1276', 'buma')"	datasets/Blagar-Bakalang.tsv		
-590	long (stick)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	veniŋ	nan	- - - - - v e n i ŋ -	"('long (stick)', 'baka1276', 'veniŋ')"	datasets/Blagar-Bakalang.tsv		
-591	tall (person)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	blolu	nan	b - l o l u -	"('tall (person)', 'baka1276', 'blolu')"	datasets/Blagar-Bakalang.tsv		
-591	tall (person)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	bo'lolu	nan	b o l ó l u -	"('tall (person)', 'baka1276', 'blolu')"	datasets/Blagar-Bakalang.tsv		
-592	short (stick)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	tukaŋ	nan	t u - - k a ŋ - -	"('short (stick)', 'alor1249-sar-a', 'tuk')"	datasets/Blagar-Bakalang.tsv		
-593	narrow (road)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	krobok	"Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight)."	k r o b o k - -	"('narrow (road)', 'baka1276', 'krobok')"	datasets/Blagar-Bakalang.tsv		
-598	to chase away; to expel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	"1Pantar, 2East"	teri	nan	- - t e - r i -	"('to chase away; to expel', 'baka1276', 'teri')"	datasets/Blagar-Bakalang.tsv		
+0	sky	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'bulaŋ	nan	b ú l a ŋ - - -	"('sky', 'alor1247-pandai', ""'kalːeŋ"")"	datasets/Blagar-Bakalang.tsv		
+1	sun	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ved	nan	v e d - - - -	('sun', 'abui1241-fuime', 'wari')	datasets/Blagar-Bakalang.tsv		
+2	moon	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'huru	nan	h ú r u - - ( - - - - - - - - )	('market', 'keda1252-leuba', 'ul')	datasets/Blagar-Bakalang.tsv		
+3	star	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	id	nan	- i d -	('star', 'baka1276', 'id')	datasets/Blagar-Bakalang.tsv		
+4	night	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kamaluŋ	nan	k a m a l u ŋ -	('night', 'baka1276', 'kamaluŋ')	datasets/Blagar-Bakalang.tsv		
+5	day	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ved	nan	v e d	('day', 'adan1251-lawah', 'wɛd saha')	datasets/Blagar-Bakalang.tsv		
+7	morning	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	hurak veŋ	nan	h u r a k _ v e ŋ	('morning', 'baka1276', 'hurak veŋ')	datasets/Blagar-Bakalang.tsv		
+8	yesterday	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mə'leŋ	nan	m ə l - - é ŋ - - -	('yesterday', 'alor1249-sar-a', 'məlah')	datasets/Blagar-Bakalang.tsv		
+9	day before yesterday	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	edaŋ aru	nan	- e d a - - ŋ - _ - a - - r u - -	('day before yesterday', 'adan1251-lawah', 'ʔotariŋ alumi')	datasets/Blagar-Bakalang.tsv		
+10	tomorrow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'tobaŋ	nan	t ó b a - ŋ -	('tomorrow', 'baka1276', 'tóbaŋ')	datasets/Blagar-Bakalang.tsv		
+11	day after tomorrow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tiaŋ aru	nan	- - t i - a ŋ _ a - - r u	('day after tomorrow', 'alor1249-sar-a', 'tiraq')	datasets/Blagar-Bakalang.tsv		
+12	twilight; dawn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bil ʤara abuŋ	nan	b i l _ j a r a _ a b u ŋ	('twilight; dawn', 'baka1276', 'bil jara abuŋ')	datasets/Blagar-Bakalang.tsv		
+13	cloud	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bənaw	nan	b ə n a w - -	('cloud', 'baka1276', 'bənaw')	datasets/Blagar-Bakalang.tsv		
+14	wind	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'enar	nan	- é n a r - - - - - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/Blagar-Bakalang.tsv		
+15	rain	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	noar	nan	- - n o a r	('rain', 'abui1241-fuime', 'anui')	datasets/Blagar-Bakalang.tsv		
+17	rainbow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	lia	nan	l i a	('rainbow', 'baka1276', 'lia')	datasets/Blagar-Bakalang.tsv		
+18	thunder	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	lal	bunyinya	l a l	('thunder', 'baka1276', 'lal')	datasets/Blagar-Bakalang.tsv		
+19	lightning	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bil mə'lelak	kilatan, cahaya	b i l _ m ə l é - l a k	('lightning', 'baka1276', 'bil məlélak')	datasets/Blagar-Bakalang.tsv		
+20	earthquake	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	por ota	nan	p o r _ - o t - - a -	('earthquake', 'baka1276', 'por ota')	datasets/Blagar-Bakalang.tsv		
+21	fog	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bənaw koko	kabut = fog, NOT embun = air yang menetes dari daun di pagi hari	b ə n a w _ - k o k o	('fog', 'baka1276', 'bənaw koko')	datasets/Blagar-Bakalang.tsv		
+22	river; stream	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mual	nan	m u - a l	('river; stream', 'adan1251-lawah', 'møl')	datasets/Blagar-Bakalang.tsv		
+26	mountain	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pondo	nan	p o n d o	"('mountain', 'alor1247-baran', ""'foto"")"	datasets/Blagar-Bakalang.tsv		
+27	hill; ridge	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pondo	nan	p o n d o -	('hill; ridge', 'baka1276', 'pondo')	datasets/Blagar-Bakalang.tsv		
+28	village	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'abaŋ	nan	- á b a ŋ -	('village', 'adan1251-lawah', 'baŋ ʔɛme')	datasets/Blagar-Bakalang.tsv		
+29	land; soil	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	por	nan	p o r	('land; soil', 'baka1276', 'por')	datasets/Blagar-Bakalang.tsv		
+30	Earth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	por	nan	p o r	('Earth', 'alor1249-sar-a', 'por')	datasets/Blagar-Bakalang.tsv		
+31	hole	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤow	nan	j o w	('hole', 'baka1276', 'jow')	datasets/Blagar-Bakalang.tsv		
+32	stone	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	var	nan	v a r -	('stone', 'abui1241-fuime', 'vi')	datasets/Blagar-Bakalang.tsv		
+33	coral (rock)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	koka	batu (rock) di pantai	k o k a -	('coral (rock)', 'baka1276', 'koka')	datasets/Blagar-Bakalang.tsv		
+34	(coral) reef	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tomu	karang (reef) di dasar laut	nan	"('(coral) reef', 'alor1249-sar-a', ""'tomi"")"	datasets/Blagar-Bakalang.tsv		
+35	water (fresh)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤar	nan	- j a r -	('water (fresh)', 'abui1241-fuime', 'je')	datasets/Blagar-Bakalang.tsv		
+36	sea; sea water	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	taŋ	nan	t a ŋ -	('sea; sea water', 'abui1241-fuime', 'tama')	datasets/Blagar-Bakalang.tsv		
+37	wave	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	buat	nan	b u a t - - -	"('wave', 'alor1249-sar-a', ""bu'at"")"	datasets/Blagar-Bakalang.tsv		
+38	foam	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	taŋ ul	nan	t a ŋ - - _ - u l - -	('foam', 'alor1249-sar-a', 'ul')	datasets/Blagar-Bakalang.tsv		
+39	forest	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	rehe	nan	- - r e h e - - -	"('forest', 'alor1247-munas', ""'dɛhɛk"")"	datasets/Blagar-Bakalang.tsv		
+40	field	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dadi	nan	d a d i	('field', 'baka1276', 'dadi')	datasets/Blagar-Bakalang.tsv		
+43	garden	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bil	nan	b i l	('garden', 'adan1251-lawah', 'dil')	datasets/Blagar-Bakalang.tsv		
+45	road; path; way	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	via	nan	v i a -	('road; path; way', 'baka1276', 'via')	datasets/Blagar-Bakalang.tsv		
+46	canoe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤe	nan	j e	('canoe', 'baka1276', 'je')	datasets/Blagar-Bakalang.tsv		
+49	fishing hook	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kavil	nan	k a v i l -	"('fishing hook', 'abui1241-takal', ""ä.ʋe̞.'lä"")"	datasets/Blagar-Bakalang.tsv		
+50	fish trap	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ver	dibuat dari bambu untuk menangkap ikan yang ditinggal. NOT fish net or fish line.	nan	"('fish trap', 'alor1247-pandai', ""'kɛr"")"	datasets/Blagar-Bakalang.tsv		
+51	rope	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	sial	nan	s i - a l -	"('rope', 'abui1241-petle', ""si.'la"")"	datasets/Blagar-Bakalang.tsv		
+52	machete	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	peda	nan	- - p e d a -	"('machete', 'abui1241-petle', ""sa.'pa.da"")"	datasets/Blagar-Bakalang.tsv		
+53	axe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ta:	nan	t aa - -	('axe', 'baka1276', 'ta:')	datasets/Blagar-Bakalang.tsv		
+54	spear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	rapaŋ	nan	r a p a ŋ -	('spear', 'baka1276', 'rapaŋ')	datasets/Blagar-Bakalang.tsv		
+56	stick; pole	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'doba	nan	d ó b a -	('stick; pole', 'adan1251-lawah', 'dopoŋ')	datasets/Blagar-Bakalang.tsv		
+57	digging stick	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dad	nan	d a d	('digging stick', 'alor1249-sar-n', 'der')	datasets/Blagar-Bakalang.tsv		
+59	bow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bu'mat	nan	nan	"('bow', 'alor1249-sar-a', ""ʔa'mutan"")"	datasets/Blagar-Bakalang.tsv		
+60	arrow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bulit	nan	nan	"('arrow', 'abui1241-takal', ""kä.'fuq"")"	datasets/Blagar-Bakalang.tsv		
+61	knife	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tudik	nan	t u d i k	('knife', 'abui1241-fuime', 'lui')	datasets/Blagar-Bakalang.tsv		
+62	comb	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kiri	nan	k i - - - r i	('comb', 'abui1241-fuime', 'ke:ti')	datasets/Blagar-Bakalang.tsv		
+63	mat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bihi	nan	b i h i -	('mat', 'adan1251-lawah', 'bahu')	datasets/Blagar-Bakalang.tsv		
+64	needle	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	batul	nan	b a t u l	('needle', 'adan1251-lawah', 'bátuŋ')	datasets/Blagar-Bakalang.tsv		
+67	fire	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ad	nan	- a d -	('fire', 'abui1241-fuime', 'ara')	datasets/Blagar-Bakalang.tsv		
+68	smoke	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ad banaŋka	nan	a d - - _ - - b a n a ŋ k a	('smoke', 'adan1251-lawah', 'awai banoʔo')	datasets/Blagar-Bakalang.tsv		
+71	fireplace ash	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'mro	NOT 'debu' (dust, after you have been sweeping)	m - r ó - -	('fireplace ash', 'adan1251-lawah', 'ma:lu')	datasets/Blagar-Bakalang.tsv		
+71	fireplace ash	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mo'ro	NOT 'debu' (dust, after you have been sweeping)	m o r ó - -	('fireplace ash', 'adan1251-lawah', 'ma:lu')	datasets/Blagar-Bakalang.tsv		
+72	mud	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'buta	nan	b ú t a -	('mud', 'baka1276', 'búta')	datasets/Blagar-Bakalang.tsv		
+73	clay	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	me'ke	nan	m e k é - -	('clay', 'alor1249-sar-n', 'moxoʔ mu i:ʔ')	datasets/Blagar-Bakalang.tsv		
+74	gravel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	gə'dobar	nan	g ə d ó b a r	('gravel', 'baka1276', 'gədóbar')	datasets/Blagar-Bakalang.tsv		
+75	sand	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	behi	nan	b e h i -	('sand', 'adan1251-lawah', 'fɛʧɛʔ')	datasets/Blagar-Bakalang.tsv		
+76	grass; brush	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	nevel	nan	n e v e l	('grass; brush', 'baka1276', 'nevel')	datasets/Blagar-Bakalang.tsv		
+77	house	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	hava	nan	nan	('house', 'abui1241-fuime', 'fala')	datasets/Blagar-Bakalang.tsv		
+78	traditional house	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	hava raʤa	nan	h a v a _ r a j a	('traditional house', 'baka1276', 'hava raja')	datasets/Blagar-Bakalang.tsv		
+79	barn; storage house	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	panda	nan	nan	"('barn; storage house', 'alor1249-sar-a', ""pa'hambal"")"	datasets/Blagar-Bakalang.tsv		
+80	raised platform	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dei	nan	d e - i	"('raised platform', 'alor1247-besar', ""'dɛki"")"	datasets/Blagar-Bakalang.tsv		
+81	door	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tuni	nan	t u n - i -	('door', 'baka1276', 'tuni')	datasets/Blagar-Bakalang.tsv		
+82	(thatch) roof	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	vemvei	nan	nan	"('(thatch) roof', 'abui1241-takal', ""'wäj"")"	datasets/Blagar-Bakalang.tsv		
+83	roof thatch	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	meniŋ	nan	- m e n i ŋ -	('roof thatch', 'abui1241-fuime', 'ameŋ')	datasets/Blagar-Bakalang.tsv		
+84	tree	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	te	nan	- - t e -	('tree', 'adan1251-lawah', 'ti')	datasets/Blagar-Bakalang.tsv		
+86	bark (of tree)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	te ulit	nan	nan	('bark (of tree)', 'adan1251-lawah', 'ti ʔui')	datasets/Blagar-Bakalang.tsv		
+87	leaf	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	te va	nan	- t e - _ v a - - -	('leaf', 'abui1241-fuime', 'watala')	datasets/Blagar-Bakalang.tsv		
+88	branch	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ataŋ	cabang pohon	nan	"('branch', 'abui1241-takal', ""hä.'täŋ"")"	datasets/Blagar-Bakalang.tsv		
+89	firewood	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ad dera	nan	a d _ d e r - - a	('firewood', 'adan1251-lawah', 'a: taʔata')	datasets/Blagar-Bakalang.tsv		
+90	rattan	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	lija	nan	l i j a - -	('rattan', 'adan1251-lawah', 'lɛʔ')	datasets/Blagar-Bakalang.tsv		
+91	root	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	te briŋ	nan	t e _ b - r i - - ŋ -	('root', 'baka1276', 'te briŋ')	datasets/Blagar-Bakalang.tsv		
+92	fruit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pa:	nan	#NAME?	('fruit', 'abui1241-petle', 'upu')	datasets/Blagar-Bakalang.tsv		
+93	seed	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tehi	nan	t e h i	('seed', 'baka1276', 'tehi')	datasets/Blagar-Bakalang.tsv		
+96	husked rice; uncooked rice	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mod	nan	m o d	('husked rice; uncooked rice', 'baka1276', 'mod')	datasets/Blagar-Bakalang.tsv		
+98	cooked rice	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	na lijaŋ	nan	nan	('cooked rice', 'baka1276', 'na lijaŋ')	datasets/Blagar-Bakalang.tsv		
+99	rice plant	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mod	nan	m o d	('rice plant', 'baka1276', 'mod')	datasets/Blagar-Bakalang.tsv		
+100	to plant (yam)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mudiŋ	nan	- m u d i ŋ - -	('to plant (yam)', 'baka1276', 'mudiŋ')	datasets/Blagar-Bakalang.tsv		
+101	to plant (rice)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mudiŋ	nan	#NAME?	('to plant (rice)', 'adan1251-lawah', 'mudiŋ')	datasets/Blagar-Bakalang.tsv		
+102	betel nut; areca	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bu	nan	nan	('betel nut; areca', 'abui1241-fuime', 'fu')	datasets/Blagar-Bakalang.tsv		
+103	betel vine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ma:t	nan	nan	('betel vine', 'abui1241-fuime', 'me:tiŋ')	datasets/Blagar-Bakalang.tsv		
+104	lime	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	avar	nan	- a v a r -	('lime', 'abui1241-fuime', 'awai')	datasets/Blagar-Bakalang.tsv		
+105	chew betel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ma:t ha	nan	m aa t - _ h a - - -	('chew betel', 'baka1276', 'ma:t ha')	datasets/Blagar-Bakalang.tsv		
+106	sweet potato	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	u kasi	nan	nan	('sweet potato', 'abui1241-takal', 'kɔ')	datasets/Blagar-Bakalang.tsv		
+107	cassava	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	u blanda	nan	u _ - b - l a n d a	('cassava', 'baka1276', 'u blanda')	datasets/Blagar-Bakalang.tsv		
+108	taro	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	awgol	nan	nan	('taro', 'baka1276', 'awgol')	datasets/Blagar-Bakalang.tsv		
+111	sugarcane	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ub	nan	- u b - -	('sugarcane', 'abui1241-fuime', 'fa')	datasets/Blagar-Bakalang.tsv		
+112	corn; maize	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	batar	nan	b a t a r	('cooked rice', 'lama1277-adona', 'wata mɜˈnihũ')	datasets/Blagar-Bakalang.tsv		
+113	cooked corn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	batar pi	nan	b a t a r _ p i - - - - -	('cooked corn', 'adan1251-lawah', 'bati awai')	datasets/Blagar-Bakalang.tsv		
+114	coconut	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	vet	nan	v e t - -	('coconut', 'abui1241-fuime', 'wata')	datasets/Blagar-Bakalang.tsv		
+115	gwang	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kudubuk	nan	#NAME?	('gwang', 'baka1276', 'kudubuk')	datasets/Blagar-Bakalang.tsv		
+116	lontar palm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tua: ai oli	nan	t u aa _ a i _ - o l i	('lontar palm', 'alor1249-sar-a', 'tuax')	datasets/Blagar-Bakalang.tsv		
+117	sugar palm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tua bur	nan	t u a _ b u r -	('sugar palm', 'abui1241-fuime', 'tuok')	datasets/Blagar-Bakalang.tsv		
+118	marungga	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	təmoluŋ	nan	t ə m o l u ŋ - -	"('marungga', 'abui1241-takal', ""mä.tɔ.'liŋ"")"	datasets/Blagar-Bakalang.tsv		
+119	gum tree; eucalyptus	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pu	nan	p u - -	('gum tree; eucalyptus', 'adan1251-lawah', 'pu')	datasets/Blagar-Bakalang.tsv		
+120	bamboo	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	petuŋ	nan	nan	"('bamboo', 'alor1249-sar-a', ""'ʤa"")"	datasets/Blagar-Bakalang.tsv		
+121	banana	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mol	nan	nan	('banana', 'abui1241-fuime', 'musa')	datasets/Blagar-Bakalang.tsv		
+122	mango	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	biat	nan	b i - a t	('mango', 'adan1251-lawah', 'be')	datasets/Blagar-Bakalang.tsv		
+123	papaya	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kasi	nan	k a s - i	('papaya', 'adan1251-lawah', 'kahatɛlɛ')	datasets/Blagar-Bakalang.tsv		
+124	jackfruit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	naŋka	nan	n a ŋ - k a -	"('jackfruit', 'alor1247-besar', ""'naŋka"")"	datasets/Blagar-Bakalang.tsv		
+125	breadfruit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	undur	nan	- u n d u r	"('breadfruit', 'abui1241-takal', ""ku.'luŋ"")"	datasets/Blagar-Bakalang.tsv		
+126	bean	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tol	nan	nan	('bean', 'abui1241-fuime', 'takoi')	datasets/Blagar-Bakalang.tsv		
+127	honey	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	toŋ	nan	- - t o ŋ -	"('honey', 'abui1241-takal', ""'mu.täŋ"")"	datasets/Blagar-Bakalang.tsv		
+128	milk	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	am	not 'breast'	- a m - - -	('milk', 'alor1249-sar-a', 'haŋ')	datasets/Blagar-Bakalang.tsv		
+129	salt	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	sia	nan	s i a - -	('salt', 'baka1276', 'sia')	datasets/Blagar-Bakalang.tsv		
+130	fat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	e te'ma	nan	e _ - - t e m á - -	"('fat', 'abui1241-takal', ""tä.mä.'dä"")"	datasets/Blagar-Bakalang.tsv		
+132	bone	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	e i'ra	nan	nan	('bone', 'alor1249-sar-a', 'kir')	datasets/Blagar-Bakalang.tsv		
+133	rib	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	t-a'bal i'ra	nan	t a b á l _ - i r á -	('rib', 'baka1276', 't-abál irá')	datasets/Blagar-Bakalang.tsv		
+134	sweat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	truŋ	nan	t - r u - - ŋ -	('sweat', 'abui1241-fuime', 'tamuriŋ')	datasets/Blagar-Bakalang.tsv		
+135	tear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	eŋ ʤar	nan	- e ŋ - _ j a r	('tear', 'baka1276', 'eŋ jar')	datasets/Blagar-Bakalang.tsv		
+136	blood	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ve	nan	nan	('blood', 'abui1241-fuime', 'we')	datasets/Blagar-Bakalang.tsv		
+138	heart	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	e kubaŋ	nan	e _ - - - k u b a ŋ -	('heart', 'baka1276', 'e kubaŋ')	datasets/Blagar-Bakalang.tsv		
+139	liver	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	(e)li'la	nan	- - l i l á -	('liver', 'baka1276', '(e)lilá')	datasets/Blagar-Bakalang.tsv		
+141	guts	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tow sial	(lit., ‘stomach rope’)	t o w _ s i a l	('guts', 'baka1276', 'tow sial')	datasets/Blagar-Bakalang.tsv		
+142	excrement	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	a:s	nan	- aa s - -	('excrement', 'adan1251-lawah', 'hahaʔ')	datasets/Blagar-Bakalang.tsv		
+143	lungs	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	buraŋ	nan	- - b u r a ŋ -	"('lungs', 'alor1247-besar', ""'furaŋ"")"	datasets/Blagar-Bakalang.tsv		
+144	stomach; belly	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tow	nan	nan	('stomach; belly', 'adan1251-lawah', 'atuʔu')	datasets/Blagar-Bakalang.tsv		
+145	head	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	toŋ	nan	nan	('head', 'baka1276', 'toŋ')	datasets/Blagar-Bakalang.tsv		
+146	hair	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	toŋ va	nan	t o - - - ŋ - _ v a -	('hair', 'alor1249-sar-n', 'noʔon waʔ')	datasets/Blagar-Bakalang.tsv		
+147	body hair	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mudi	nan	nan	('body hair', 'abui1241-fuime', 'teamur')	datasets/Blagar-Bakalang.tsv		
+148	eye	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	eŋ	nan	- e - ŋ - - - - - - - -	('eye', 'adan1251-lawah', 'ʔɛŋwai')	datasets/Blagar-Bakalang.tsv		
+149	ear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	veli	nan	#NAME?	('ear', 'adan1251-lawah', 'awɛbɛhɛ')	datasets/Blagar-Bakalang.tsv		
+150	nose	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	imiŋbur	nan	- i m i - ŋ b u r -	('nose', 'alor1249-sar-n', 'naminbuj')	datasets/Blagar-Bakalang.tsv		
+151	mouth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	taibor	nan	t a i b o r -	('mouth', 'baka1276', 'taibor')	datasets/Blagar-Bakalang.tsv		
+152	chin	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	a'va	nan	#NAME?	('chin', 'baka1276', 'avá')	datasets/Blagar-Bakalang.tsv		
+153	lips	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ibal	nan	#NAME?	('lips', 'adan1251-lawah', 'tɛm tɛporo')	datasets/Blagar-Bakalang.tsv		
+154	teeth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	vehiŋ	nan	v e - h i ŋ -	('teeth', 'abui1241-fuime', 'taweiti')	datasets/Blagar-Bakalang.tsv		
+155	tongue	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤebur	nan	- - j e - b u r -	('tongue', 'adan1251-lawah', 'nalɛb')	datasets/Blagar-Bakalang.tsv		
+156	neck	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʔemeŋ	nan	ʔ e m e - ŋ - - -	('neck', 'alor1249-sar-n', 'naman ku')	datasets/Blagar-Bakalang.tsv		
+157	shoulder	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	i'bit	nan	#NAME?	('shoulder', 'abui1241-fuime', 'tabaŋ')	datasets/Blagar-Bakalang.tsv		
+163	arm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ataŋ	nan	nan	('arm', 'abui1241-fuime', 'tataŋ')	datasets/Blagar-Bakalang.tsv		
+166	finger	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ataŋ tuba	nan	- a t a ŋ - _ t u b a -	('finger', 'baka1276', 'ataŋ tuba')	datasets/Blagar-Bakalang.tsv		
+167	fingernail	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ataŋ krusiŋ	nan	- a t a ŋ - - _ k - r u s i ŋ -	('fingernail', 'adan1251-lawah', 'ʔataŋ uhuŋ')	datasets/Blagar-Bakalang.tsv		
+167	fingernail	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ataŋ krusiŋ	nan	- a t a ŋ - - _ k - r u s i ŋ -	('fingernail', 'adan1251-lawah', 'ʔataŋ uhuŋ')	datasets/Blagar-Bakalang.tsv		
+168	breast	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	a:m	nan	nan	('breast', 'alor1249-sar-a', 'haŋ')	datasets/Blagar-Bakalang.tsv		
+170	navel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pu'har	nan	- - p u h - á r - - - - -	('navel', 'abui1241-fuime', 'tabike')	datasets/Blagar-Bakalang.tsv		
+174	leg	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	i'ʤa	nan	#NAME?	('leg', 'baka1276', 'ijá')	datasets/Blagar-Bakalang.tsv		
+176	heel of foot	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	i'ʤa umud	nan	#NAME?	('heel of foot', 'baka1276', 'ijá umud')	datasets/Blagar-Bakalang.tsv		
+178	knee	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	i'ʤa kuku	nan	#NAME?	"('knee', 'alor1249-sar-a', ""gə'fat ku"")"	datasets/Blagar-Bakalang.tsv		
+179	back	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mota	nan	nan	('back', 'baka1276', 'mota')	datasets/Blagar-Bakalang.tsv		
+182	skin	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ulit	nan	nan	('skin', 'adan1251-lawah', 'ʔui')	datasets/Blagar-Bakalang.tsv		
+183	sore; wound	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'bata	nan	nan	"('sore; wound', 'alor1249-sar-a', ""be'tis"")"	datasets/Blagar-Bakalang.tsv		
+184	ringworm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	katu	nan	k a t u	('ringworm', 'adan1251-lawah', 'ot')	datasets/Blagar-Bakalang.tsv		
+185	scabies	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kot	nan	k o t	('scabies', 'adan1251-lawah', 'at')	datasets/Blagar-Bakalang.tsv		
+187	feverish	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bi biriŋ	nan	b i _ b i r i ŋ	"('feverish', 'alor1247-besar', ""ta'fefa"")"	datasets/Blagar-Bakalang.tsv		
+189	cold; influenza	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	imiŋ omi pi:	nan	#NAME?	('cold; influenza', 'baka1276', 'imiŋ omi pi:')	datasets/Blagar-Bakalang.tsv		
+190	person	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	iŋ	Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'	- i - ŋ -	('person', 'baka1276', 'iŋ')	datasets/Blagar-Bakalang.tsv		
+191	name	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'ene	nan	- - é - n e - -	('name', 'abui1241-fuime', 'na-ne')	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ioal	oal (3sg), noal (1sg), ioal (3pl), toal (1pl)	nan	('child', 'abui1241-takal', 'ʋil')	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	noal	oal (3sg), noal (1sg), ioal (3pl), toal (1pl)	nan	('child', 'abui1241-takal', 'ʋil')	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	oal	oal (3sg), noal (1sg), ioal (3pl), toal (1pl)	nan	('child', 'abui1241-takal', 'ʋil')	datasets/Blagar-Bakalang.tsv		
+192	child	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	toal	oal (3sg), noal (1sg), ioal (3pl), toal (1pl)	nan	('child', 'abui1241-takal', 'ʋil')	datasets/Blagar-Bakalang.tsv		
+193	man	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mehal	nan	m e h - - - - a l	('man', 'alor1249-sar-a', 'mase:r')	datasets/Blagar-Bakalang.tsv		
+194	woman	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤahuŋ	nan	j a h u ŋ - - -	('woman', 'baka1276', 'jahuŋ')	datasets/Blagar-Bakalang.tsv		
+195	husband	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	eniŋ	nan	( - ) e - - n i - ŋ -	('husband', 'abui1241-takal', 'te̞̞.ne̞äŋ')	datasets/Blagar-Bakalang.tsv		
+196	wife	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	epraha	Not 'married woman'.	( - ) e p - r a h a	('wife', 'baka1276', 'epraha')	datasets/Blagar-Bakalang.tsv		
+197	mother	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	iva	nan	nan	('mother', 'adan1251-lawah', 'niwi')	datasets/Blagar-Bakalang.tsv		
+198	father	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	imaŋ	nan	nan	('father', 'abui1241-fuime', 'mama')	datasets/Blagar-Bakalang.tsv		
+199	older sibling	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	etaka	nan	nan	"('older sibling', 'alor1247-baran', ""'tataŋ"")"	datasets/Blagar-Bakalang.tsv		
+200	younger sibling	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kaw	nan	nan	"('younger sibling', 'alor1247-munas', ""'kau"")"	datasets/Blagar-Bakalang.tsv		
+201	bride price	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ebli	nan	nan	('bride price', 'abui1241-fuime', 'he-bel')	datasets/Blagar-Bakalang.tsv		
+202	slave	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	oho gahiŋ	nan	nan	('slave', 'alor1249-sar-a', 'gahiŋwal')	datasets/Blagar-Bakalang.tsv		
+231	left (side)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ataŋ ʤasi	(lit., ‘bad hand’)	#NAME?	('left (side)', 'baka1276', 'ataŋ jasi')	datasets/Blagar-Bakalang.tsv		
+232	right (side)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tataŋ aw	(lit., ‘good hand’)	t a t a ŋ _ a w	('right (side)', 'baka1276', 'tataŋ aw')	datasets/Blagar-Bakalang.tsv		
+238	dog	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤabar	nan	nan	('dog', 'adan1251-lawah', 'bɛl')	datasets/Blagar-Bakalang.tsv		
+239	pig	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	be	nan	b e - - -	('pig', 'abui1241-fuime', 'fe')	datasets/Blagar-Bakalang.tsv		
+240	chicken	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	haŋi	nan	h a ŋ - i	('chicken', 'baka1276', 'haŋi')	datasets/Blagar-Bakalang.tsv		
+241	rat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'duru	nan	d ú r - u	('rat', 'adan1251-lawah', 'du:l')	datasets/Blagar-Bakalang.tsv		
+242	lizard	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tekek	nan	t e k e k - -	('lizard', 'abui1241-fuime', 'tekok')	datasets/Blagar-Bakalang.tsv		
+243	civet cat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	roh	nan	- r o h -	('civet cat', 'baka1276', 'roh')	datasets/Blagar-Bakalang.tsv		
+244	deer	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ruhiŋ	nan	- - r u - h i ŋ - - - -	('deer', 'adan1251-lawah', 'a:lu')	datasets/Blagar-Bakalang.tsv		
+245	frog	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	moto	nan	- - m o t o -	"('frog', 'alor1247-besar', ""'matɔ"")"	datasets/Blagar-Bakalang.tsv		
+246	bat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	demel	nan	d e m e l	('bat', 'baka1276', 'demel')	datasets/Blagar-Bakalang.tsv		
+249	tail	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ora	nan	- - - o r a -	('tail', 'adan1251-lawah', 'oloʔ')	datasets/Blagar-Bakalang.tsv		
+250	fish	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ab	nan	- a b -	('fish', 'abui1241-fuime', 'afu')	datasets/Blagar-Bakalang.tsv		
+251	shark	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	hibil	nan	h i b i l	"('shark', 'alor1249-sar-a', ""si'fir"")"	datasets/Blagar-Bakalang.tsv		
+252	whale	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	klaru	nan	nan	('whale', 'baka1276', 'klaru')	datasets/Blagar-Bakalang.tsv		
+253	dolphin	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kuʤa	nan	k u j - a -	"('dolphin', 'alor1249-sar-a', ""'kuja"")"	datasets/Blagar-Bakalang.tsv		
+254	crocodile	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bapa	nan	nan	('crocodile', 'baka1276', 'bapa')	datasets/Blagar-Bakalang.tsv		
+255	monitor lizard	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	rihi	nan	- - - r i h i	('monitor lizard', 'alor1249-sar-a', 'jiris')	datasets/Blagar-Bakalang.tsv		
+257	turtle	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	keja	nan	k e j a	"('turtle', 'alor1247-besar', ""'kea"")"	datasets/Blagar-Bakalang.tsv		
+258	turtle (saltwater)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	keja	nan	k e j a	"('turtle (saltwater)', 'alor1247-besar', ""'kea"")"	datasets/Blagar-Bakalang.tsv		
+259	bird	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'ul	nan	nan	('bird', 'abui1241-fuime', 'ruo')	datasets/Blagar-Bakalang.tsv		
+260	wing	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	a'bat	nan	- a b á t - -	('wing', 'baka1276', 'abát')	datasets/Blagar-Bakalang.tsv		
+263	horn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'umu	nan	- ú m u - -	('horn', 'abui1241-fuime', 'ha-muk')	datasets/Blagar-Bakalang.tsv		
+264	snake	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dumiŋ	nan	d u m i ŋ -	('snake', 'alor1249-sar-a', 'da:m')	datasets/Blagar-Bakalang.tsv		
+265	scorpion	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	per	nan	nan	('scorpion', 'abui1241-fuime', 'pei')	datasets/Blagar-Bakalang.tsv		
+266	egg	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	(e)dua	nan	d u a -	('egg', 'adan1251-lawah', '(hiu) do')	datasets/Blagar-Bakalang.tsv		
+267	earthworm	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dukalaliŋ	nan	d u k a l a l i ŋ	('earthworm', 'baka1276', 'dukalaliŋ')	datasets/Blagar-Bakalang.tsv		
+268	butterfly	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kaliliŋ	nan	k a - l i l i ŋ -	"('butterfly', 'alor1247-pandai', ""kakə'lili"")"	datasets/Blagar-Bakalang.tsv		
+269	fly (n.)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	vavar	nan	v a v a r	"('fly (n.)', 'alor1249-sar-a', ""ʤə'fur"")"	datasets/Blagar-Bakalang.tsv		
+270	mosquito	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kinit	nan	#NAME?	('mosquito', 'adan1251-lawah', 'ʔin')	datasets/Blagar-Bakalang.tsv		
+271	ant	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kere	nan	nan	"('ant', 'alor1247-besar', ""ka'rːe"")"	datasets/Blagar-Bakalang.tsv		
+272	grasshopper	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kebet	nan	k e b e t	('grasshopper', 'baka1276', 'kebet')	datasets/Blagar-Bakalang.tsv		
+274	spider	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kraŋga	nan	k r a ŋ g a	"('spider', 'alor1247-besar', ""ka'raŋga"")"	datasets/Blagar-Bakalang.tsv		
+275	headlice	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kubuŋ	nan	#NAME?	('headlice', 'abui1241-fuime', 'bikeŋ')	datasets/Blagar-Bakalang.tsv		
+276	louse eggs	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	diliŋ	nan	- - - d i l i ŋ -	"('louse eggs', 'alor1249-sar-a', ""de'liŋ"")"	datasets/Blagar-Bakalang.tsv		
+277	mother louse	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kubaŋ i'va	nan	k u b a ŋ _ i v á	('mother louse', 'baka1276', 'kubaŋ ivá')	datasets/Blagar-Bakalang.tsv		
+278	flea	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kubaŋ	nan	k u - b a ŋ	('flea', 'baka1276', 'kubaŋ')	datasets/Blagar-Bakalang.tsv		
+279	louse (clothing)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kubaŋ	nan	k u b a ŋ	('louse (clothing)', 'abui1241-fuime', 'be')	datasets/Blagar-Bakalang.tsv		
+280	bedbug	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	te'me	nan	nan	('bedbug', 'abui1241-fuime', 'ta:mek')	datasets/Blagar-Bakalang.tsv		
+281	big	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	le	nan	nan	('big', 'baka1276', 'le')	datasets/Blagar-Bakalang.tsv		
+282	small	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kuduk	nan	k u d u - k	('small', 'abui1241-fuime', 'kdiŋ')	datasets/Blagar-Bakalang.tsv		
+283	old; worn (house)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	luŋ	nan	l u ŋ	('old; worn (house)', 'baka1276', 'luŋ')	datasets/Blagar-Bakalang.tsv		
+284	new (house)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'vede	nan	v é d e - - -	('new (house)', 'alor1247-baran', 'funɔ')	datasets/Blagar-Bakalang.tsv		
+285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	boma	boma ‘old man’, met ‘old woman’	b o m - - a	('old (people)', 'baka1276', 'boma')	datasets/Blagar-Bakalang.tsv		
+285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	boma	boma ‘old man’, met ‘old woman’	b o m - - a	('old (people)', 'baka1276', 'boma')	datasets/Blagar-Bakalang.tsv		
+285	old (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	met	boma ‘old man’, met ‘old woman’	m e - - - t - -	('old (people)', 'baka1276', 'met')	datasets/Blagar-Bakalang.tsv		
+286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ku'war	kuwár ‘young man’, ʤauŋ kəneiŋ ‘young woman’	k u w á r	('young (people)', 'baka1276', 'kuwár')	datasets/Blagar-Bakalang.tsv		
+286	young (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤauŋ kəneiŋ	kuwár ‘young man’, ʤauŋ kəneiŋ ‘young woman’	- - j a - u ŋ _ k ə n e - i ŋ -	('young (people)', 'baka1276', 'jauŋ kəneiŋ')	datasets/Blagar-Bakalang.tsv		
+288	hot	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'bara	nan	b á r a -	('hot', 'baka1276', 'bára')	datasets/Blagar-Bakalang.tsv		
+289	cold	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤevi	nan	j e v i -	('cold', 'baka1276', 'jevi')	datasets/Blagar-Bakalang.tsv		
+290	good	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	auŋ	nan	#NAME?	('good', 'abui1241-fuime', 'kaŋ')	datasets/Blagar-Bakalang.tsv		
+291	bad	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤasi	nan	nan	('bad', 'alor1249-sar-a', 'ja:t')	datasets/Blagar-Bakalang.tsv		
+292	full	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	viŋ	nan	- - v i ŋ -	('full', 'adan1251-lawah', 'wutulu')	datasets/Blagar-Bakalang.tsv		
+293	empty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'osiŋ	nan	#NAME?	('empty', 'baka1276', 'ósiŋ')	datasets/Blagar-Bakalang.tsv		
+296	wet	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'lala	nan	- - l á l a -	"('wet', 'alor1249-sar-a', ""ka'loʔ"")"	datasets/Blagar-Bakalang.tsv		
+297	dry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tata	nan	t a - - t a	"('dry', 'abui1241-takal', ""tä.kä.'tä"")"	datasets/Blagar-Bakalang.tsv		
+298	dry in sun	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	poriŋ	nan	- - p o r i ŋ -	('dry', 'keda1252-leuwa', 'pariʔ')	datasets/Blagar-Bakalang.tsv		
+302	short (people)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tukaŋ	nan	t u - - k a ŋ -	('short (people)', 'baka1276', 'tukaŋ')	datasets/Blagar-Bakalang.tsv		
+303	thin (non-human)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	teil	nan	#NAME?	('thin (non-human)', 'adan1251-lawah', 'tiʔi')	datasets/Blagar-Bakalang.tsv		
+305	thick	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pusi	nan	p u s i	('thick', 'baka1276', 'pusi')	datasets/Blagar-Bakalang.tsv		
+307	dark	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ka'maluŋ	nan	k a m á l u ŋ -	('dark', 'baka1276', 'kamáluŋ')	datasets/Blagar-Bakalang.tsv		
+308	light	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤara	nan	- j a r a	"('light', 'alor1247-besar', ""'tarã"")"	datasets/Blagar-Bakalang.tsv		
+309	dirty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	klitak	nan	k - l i t a k	"('dirty', 'alor1247-baran', ""ka'lit:a"")"	datasets/Blagar-Bakalang.tsv		
+310	clean	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mulaŋ	nan	m u - - l a ŋ -	('clean', 'adan1251-lawah', 'maduluŋ')	datasets/Blagar-Bakalang.tsv		
+311	sharp	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	maŋ	Of spear (tombak) or machete (parang); if there are two different words, elicit both.	m a - - ŋ -	('sharp', 'baka1276', 'maŋ')	datasets/Blagar-Bakalang.tsv		
+312	blunt; dull	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kumbul	nan	nan	('blunt; dull', 'adan1251-lawah', 'kumuŋ')	datasets/Blagar-Bakalang.tsv		
+313	heavy	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ta'madi	nan	nan	('heavy', 'baka1276', 'tamádi')	datasets/Blagar-Bakalang.tsv		
+314	light (weight)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'vila	nan	- v í l a -	('light (weight)', 'adan1251-lawah', 'filiŋ')	datasets/Blagar-Bakalang.tsv		
+315	straight	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'moloŋ	nan	- m ó l o - - ŋ -	('straight', 'abui1241-fuime', 'mulaŋ')	datasets/Blagar-Bakalang.tsv		
+316	wide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'lara	nan	- - l á r a - - -	('wide', 'abui1241-fuime', 'tilesiŋ')	datasets/Blagar-Bakalang.tsv		
+318	correct	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'molo	nan	m ó l o -	"('correct', 'alor1247-baran', ""'mallɔŋ"")"	datasets/Blagar-Bakalang.tsv		
+319	wrong	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'hala	nan	h á - - l a -	('wrong', 'abui1241-fuime', 'hasala')	datasets/Blagar-Bakalang.tsv		
+320	ripe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'tena	nan	- t é n a - -	('ripe', 'adan1251-lawah', 'tɛnɛ')	datasets/Blagar-Bakalang.tsv		
+321	rotten	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mi'nisa	nan	#NAME?	('rotten', 'baka1276', 'minísa')	datasets/Blagar-Bakalang.tsv		
+322	bitter	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ka'mala	nan	nan	('bitter', 'alor1249-sar-a', 'mal')	datasets/Blagar-Bakalang.tsv		
+323	sweet	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	teŋge	nan	t e ŋ g e	('sweet', 'baka1276', 'teŋge')	datasets/Blagar-Bakalang.tsv		
+324	sour	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ke'likil	nan	k - e l í k i l	('sour', 'baka1276', 'kelíkil')	datasets/Blagar-Bakalang.tsv		
+325	salty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ka'mala	nan	( k a m á l a - ) - - - - - - - - - -	('salty', 'baka1276', 'kamála')	datasets/Blagar-Bakalang.tsv		
+326	flat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bira	nan	b i r a	('flat', 'abui1241-fuime', 'fui')	datasets/Blagar-Bakalang.tsv		
+327	smooth	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	du'la	‘slippery’	- d u l á - -	('smooth', 'abui1241-fuime', 'rula')	datasets/Blagar-Bakalang.tsv		
+329	black	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kana	nan	nan	('black', 'abui1241-fuime', 'akani')	datasets/Blagar-Bakalang.tsv		
+330	white	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	meʤa	nan	m e - j a - -	"('white', 'alor1249-sar-a', ""mi'jaq"")"	datasets/Blagar-Bakalang.tsv		
+331	red	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bibi	nan	b i b i -	('red', 'baka1276', 'bibi')	datasets/Blagar-Bakalang.tsv		
+332	green	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kokua	nan	k o - k u a	('green', 'baka1276', 'kokua')	datasets/Blagar-Bakalang.tsv		
+333	blue	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kokua	nan	k o - k u a	('blue', 'baka1276', 'kokua')	datasets/Blagar-Bakalang.tsv		
+334	yellow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'bori	nan	b ó - - r i - -	('yellow', 'baka1276', 'bóri')	datasets/Blagar-Bakalang.tsv		
+335	sick; painful	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dira	There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.	d i r a -	('sick; painful', 'baka1276', 'dira')	datasets/Blagar-Bakalang.tsv		
+336	shy; ashamed	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mi'niaŋ	nan	m i n í - a ŋ -	"('shy; ashamed', 'alor1247-besar', ""'maniaŋ"")"	datasets/Blagar-Bakalang.tsv		
+337	thirsty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	emeŋ tata	nan	#NAME?	('thirsty', 'adan1251-lawah', 'dolo taʔata')	datasets/Blagar-Bakalang.tsv		
+338	hungry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ma'napal	nan	m a n á p a l	('hungry', 'baka1276', 'manápal')	datasets/Blagar-Bakalang.tsv		
+339	blind	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	eŋ ʤasi	nan	nan	('blind', 'alor1249-sar-a', 'pet ja:t')	datasets/Blagar-Bakalang.tsv		
+340	deaf	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'klus	nan	k - l ú s	"('deaf', 'alor1249-sar-a', ""qa'jus"")"	datasets/Blagar-Bakalang.tsv		
+341	scared	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'dadi	nan	d á d i - -	('scared', 'baka1276', 'dádi')	datasets/Blagar-Bakalang.tsv		
+342	angry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	om ilil	nan	nan	('angry', 'alor1249-sar-a', 'om kaka')	datasets/Blagar-Bakalang.tsv		
+343	to see	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	teiŋ	nan	#NAME?	('to see', 'baka1276', 'teiŋ')	datasets/Blagar-Bakalang.tsv		
+344	to hear	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	veŋme	nan	v e ŋ m e	('to hear', 'baka1276', 'veŋme')	datasets/Blagar-Bakalang.tsv		
+345	to smell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mikuŋ	mimiŋ ‘smell’, mikuŋ ‘kiss’	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Bakalang.tsv		
+345	to smell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mikuŋ	mimiŋ ‘smell’, mikuŋ ‘kiss’	nan	"('to smell', 'abui1241-takal', ""hä.'mu.näŋ"")"	datasets/Blagar-Bakalang.tsv		
+346	to think	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'ukur	nan	- ú - - - k u r	"('to think', 'alor1247-besar', ""ga'nokuŋ"")"	datasets/Blagar-Bakalang.tsv		
+347	to know	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	teiŋ	nan	- - t e i ŋ -	('to know', 'baka1276', 'teiŋ')	datasets/Blagar-Bakalang.tsv		
+349	to speak	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tutuk	nan	- - - - - t u t u k - - - - - -	"('to speak', 'alor1247-baran', ""'tut:u"")"	datasets/Blagar-Bakalang.tsv		
+351	language	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	hur	nan	h u r	('language', 'baka1276', 'hur')	datasets/Blagar-Bakalang.tsv		
+352	to lie down	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tjet ja	nan	nan	('to lie down', 'abui1241-fuime', 'ta')	datasets/Blagar-Bakalang.tsv		
+353	to sleep	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tiaʔ	nan	t i - a ʔ - -	('to sleep', 'abui1241-fuime', 'ta')	datasets/Blagar-Bakalang.tsv		
+354	to wake up	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tahi	nan	t a h - - i	('to wake up', 'adan1251-lawah', 'tohø')	datasets/Blagar-Bakalang.tsv		
+355	to wake someone up	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mehar	nan	m e h a r	('to wake someone up', 'baka1276', 'mehar')	datasets/Blagar-Bakalang.tsv		
+356	to bathe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	vela	nan	#NAME?	('to bathe', 'abui1241-fuime', 'tawel')	datasets/Blagar-Bakalang.tsv		
+357	to bathe (a child)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	val vela	nan	v a - - l _ - - v e l a	('to bathe (a child)', 'adan1251-lawah', 'ʔei awili')	datasets/Blagar-Bakalang.tsv		
+358	to sit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mihiŋ	nan	- - m i h - i ŋ -	"('to sit', 'abui1241-petle', ""mi.'ti"")"	datasets/Blagar-Bakalang.tsv		
+359	to stand	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tahi	nan	nan	('to stand', 'abui1241-fuime', 'nate')	datasets/Blagar-Bakalang.tsv		
+360	to walk	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	namar	nan	- - n a m a r	('to walk', 'adan1251-lawah', 'lami')	datasets/Blagar-Bakalang.tsv		
+361	to run	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bihi	nan	nan	('to run', 'abui1241-fuime', 'furei')	datasets/Blagar-Bakalang.tsv		
+363	to swim	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'tara	nan	t á r a - -	"('to swim', 'alor1249-sar-a', ""tə'lis"")"	datasets/Blagar-Bakalang.tsv		
+364	to fly	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'liri	nan	- l í r i -	('to fly', 'abui1241-fuime', 'li')	datasets/Blagar-Bakalang.tsv		
+365	to fall (from above)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bahera	nan	b a h e r a	('to fall (from above)', 'baka1276', 'bahera')	datasets/Blagar-Bakalang.tsv		
+366	to fall over	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʔoli	e.g. pohon yang dipotong.	ʔ o l i -	('to fall over', 'adan1251-lawah', 'oloʔ')	datasets/Blagar-Bakalang.tsv		
+367	to drop	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	medi abaŋ	nan	#NAME?	('to drop', 'baka1276', 'medi abaŋ')	datasets/Blagar-Bakalang.tsv		
+368	to drink	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ʤar na	nan	j a r _ n a	('to drink', 'adan1251-lawah', 'naʔ')	datasets/Blagar-Bakalang.tsv		
+369	to eat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	na na	nan	n a - - _ n a	('to eat', 'baka1276', 'na na')	datasets/Blagar-Bakalang.tsv		
+370	to cook	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	na doa	nan	n a _ d o a	('to cook', 'adan1251-lawah', 'dowoʔ')	datasets/Blagar-Bakalang.tsv		
+371	to wash	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	na vembiŋ	nan	n a _ v e m b i ŋ - - - -	"('to wash', 'alor1249-sar-a', ""(uwam) be'li"")"	datasets/Blagar-Bakalang.tsv		
+372	to sew	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'rota	nan	- - - - - - r ó t a - - - - - - -	('to sew', 'adan1251-lawah', 'narotoʔ')	datasets/Blagar-Bakalang.tsv		
+373	to live; be alive; living	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	beta	nan	- b e t a -	('to live; be alive; living', 'adan1251-lawah', 'wɛʧɛŋ')	datasets/Blagar-Bakalang.tsv		
+374	to breathe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	eŋ hara	nan	e - - - ŋ _ h a r a	('to breathe', 'alor1249-sar-n', 'jahaŋ será')	datasets/Blagar-Bakalang.tsv		
+376	to die	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mina	nan	- - m i n a -	('to die', 'abui1241-fuime', 'moŋ')	datasets/Blagar-Bakalang.tsv		
+377	to give	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	aiŋ enaŋ	nan	a i ŋ - _ e n a ŋ -	"('to give', 'abui1241-takal', ""mi.'he̞l"")"	datasets/Blagar-Bakalang.tsv		
+378	to wipe	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	hapo	nan	h a p - - o	"('to wipe', 'alor1247-baran', ""'hapɔ"")"	datasets/Blagar-Bakalang.tsv		
+379	to come	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ma	nan	- - - m a - - -	('to come', 'abui1241-fuime', 'me')	datasets/Blagar-Bakalang.tsv		
+380	to laugh	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ji'ar	nan	- j i á r -	('to laugh', 'abui1241-petle', 'jei')	datasets/Blagar-Bakalang.tsv		
+381	to cry	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bow	nan	b o w	('to cry', 'baka1276', 'bow')	datasets/Blagar-Bakalang.tsv		
+382	to dance	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dari	 ‘lego-lego’	d a r i -	('to dance', 'baka1276', 'dari')	datasets/Blagar-Bakalang.tsv		
+383	to sing	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	dar huj	nan	d a r _ h u - j -	('to sing', 'adan1251-lawah', 'da:la')	datasets/Blagar-Bakalang.tsv		
+384	to burn (clear land)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bil ede	nan	b i l _ - e d e -	"('to burn (clear land)', 'abui1241-takal', ""ä'räl"")"	datasets/Blagar-Bakalang.tsv		
+385	to burn; to shine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ede	nan	#NAME?	('to burn; to shine', 'baka1276', 'ede')	datasets/Blagar-Bakalang.tsv		
+386	to shine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bo'lor	nan	b o l ó r	"('to shine', 'alor1247-besar', ""'bɔlo"")"	datasets/Blagar-Bakalang.tsv		
+387	to chew	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'mame	nan	m á - m e -	"('to chew', 'alor1247-besar', ""'mamɛ"")"	datasets/Blagar-Bakalang.tsv		
+388	to yawn	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ba'naŋka	nan	b a n á ŋ k a	('to yawn', 'baka1276', 'banáŋka')	datasets/Blagar-Bakalang.tsv		
+389	to suck	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kə'dumu	nan	k ə d ú m u - - - -	('to suck', 'baka1276', 'kədúmu')	datasets/Blagar-Bakalang.tsv		
+390	to blow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	opu	nan	- - o - - p u - - - - -	('to blow', 'abui1241-fuime', 'furuŋra')	datasets/Blagar-Bakalang.tsv		
+391	to spit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	puruŋ	nan	p u r u - ŋ -	('to spit', 'baka1276', 'puruŋ')	datasets/Blagar-Bakalang.tsv		
+392	to vomit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'ida	nan	nan	('to vomit', 'abui1241-fuime', 'iu')	datasets/Blagar-Bakalang.tsv		
+393	to rub	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	doho	nan	d o h o -	"('to rub', 'alor1247-baran', ""dɔ'h:ɔ"")"	datasets/Blagar-Bakalang.tsv		
+394	to scratch	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tu'a	nan	t u á -	('to scratch', 'adan1251-lawah', 'tuʔuʔ')	datasets/Blagar-Bakalang.tsv		
+395	itchy	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'kaka	nan	k á k a -	('itchy', 'adan1251-lawah', 'kakaʔ')	datasets/Blagar-Bakalang.tsv		
+396	to swell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'vara	nan	- v á r a -	"('to swell', 'alor1249-sar-a', ""wa'ra"")"	datasets/Blagar-Bakalang.tsv		
+397	to hit	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	meaŋ	nan	m e a ŋ	('to hit', 'baka1276', 'meaŋ')	datasets/Blagar-Bakalang.tsv		
+399	to bite	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ga:kik	nan	g aa k i k -	('to bite', 'baka1276', 'ga:kik')	datasets/Blagar-Bakalang.tsv		
+400	to cut	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	boj	nan	b o - j -	"('to cut', 'abui1241-takal', ""bä.'te̞k"")"	datasets/Blagar-Bakalang.tsv		
+401	to cut down	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'hiba	nan	h í b a -	('to cut down', 'baka1276', 'híba')	datasets/Blagar-Bakalang.tsv		
+402	to split	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'kahi	nan	#NAME?	('to split', 'abui1241-fuime', 'kadel')	datasets/Blagar-Bakalang.tsv		
+403	to divide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pol	nan	p o - l	('to divide', 'baka1276', 'pol')	datasets/Blagar-Bakalang.tsv		
+404	to stab	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	taŋi	nan	t a ŋ - i	('to stab', 'baka1276', 'taŋi')	datasets/Blagar-Bakalang.tsv		
+406	to fight	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'tota	nan	t ó - t a	('to fight', 'baka1276', 'tóta')	datasets/Blagar-Bakalang.tsv		
+408	to throw	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	oda	nan	#NAME?	('to throw', 'adan1251-lawah', 'ød')	datasets/Blagar-Bakalang.tsv		
+409	to hunt	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	sow	nan	s o w	('to hunt', 'alor1249-sar-a', 'saw')	datasets/Blagar-Bakalang.tsv		
+410	to kill	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	buj	nan	b u - j	"('to kill', 'alor1247-baran', ""'bun:ɔ"")"	datasets/Blagar-Bakalang.tsv		
+411	to chase away; to run after	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	teri	nan	- - - - t e - r i -	"('to chase away; to run after', 'abui1241-takal', ""tä.'pä:.tiŋ"")"	datasets/Blagar-Bakalang.tsv		
+413	to search for; to hunt for	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'rapiŋ	nan	- r á p i ŋ -	('to search for; to hunt for', 'baka1276', 'rápiŋ')	datasets/Blagar-Bakalang.tsv		
+414	to dig	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	anaŋ	nan	- a n a ŋ -	('to dig', 'alor1249-sar-a', 'han')	datasets/Blagar-Bakalang.tsv		
+415	to bury	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tow	nan	t o w	('to bury', 'baka1276', 'tow')	datasets/Blagar-Bakalang.tsv		
+416	to flow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	totu	nan	t o - t u -	('to flow', 'alor1249-sar-a', 'totis')	datasets/Blagar-Bakalang.tsv		
+417	to float	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tediŋ	nan	t e - d i ŋ -	('to float', 'adan1251-lawah', 'tɛdɛʔ')	datasets/Blagar-Bakalang.tsv		
+419	to hold	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pina	nan	#NAME?	('to hold', 'abui1241-fuime', 'ho-puna')	datasets/Blagar-Bakalang.tsv		
+420	to tie	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	nodaŋ	nan	n o d a ŋ -	('to tie', 'baka1276', 'nodaŋ')	datasets/Blagar-Bakalang.tsv		
+421	to play	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	mumal	nan	- - m u m a l - -	('to play', 'abui1241-fuime', 'muila')	datasets/Blagar-Bakalang.tsv		
+422	to pull	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	a'vak	nan	- a v á k -	('to pull', 'abui1241-fuime', 'ha-fik')	datasets/Blagar-Bakalang.tsv		
+423	to push	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tobaŋ	nan	- - t o b a ŋ -	"('to push', 'alor1247-baran', ""'tɔbaŋ"")"	datasets/Blagar-Bakalang.tsv		
+425	to dream	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'ipar	nan	- í - p a r	('to dream', 'adan1251-lawah', 'pei')	datasets/Blagar-Bakalang.tsv		
+426	to crouch; to bend over	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	kuku mudiŋ	(lit., ‘knee plant’); To crouch as on an Indonesian toilet, NOT: to kneel	k u k u _ m u d i ŋ	('to crouch; to bend over', 'abui1241-fuime', 'luke')	datasets/Blagar-Bakalang.tsv		
+428	to choose	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	veŋ aj	nan	v e ŋ _ - - - a - j	('to choose', 'alor1249-sar-a', 'wantraj')	datasets/Blagar-Bakalang.tsv		
+429	to grow	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'bilaŋ	nan	b í l a ŋ	"('to grow', 'alor1249-sar-a', ""I'la"")"	datasets/Blagar-Bakalang.tsv		
+430	to squeeze	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'paha	nan	- - p á h a -	('to squeeze', 'baka1276', 'páha')	datasets/Blagar-Bakalang.tsv		
+431	to buy	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'beli	nan	#NAME?	('to buy', 'abui1241-fuime', 'bele')	datasets/Blagar-Bakalang.tsv		
+432	to sell	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	bali	nan	- - b a l i -	('to sell', 'abui1241-fuime', 'balik')	datasets/Blagar-Bakalang.tsv		
+433	to steal	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'tavi	nan	t á - - v i -	('to steal', 'abui1241-fuime', 'takau')	datasets/Blagar-Bakalang.tsv		
+435	to close	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	venteriŋ	nan	v e n t e r i ŋ - - - - - - - - - - - -	('to close', 'adan1251-lawah', 'watɛlɛ')	datasets/Blagar-Bakalang.tsv		
+436	to climb	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	pa	nan	p a - -	('to climb', 'baka1276', 'pa')	datasets/Blagar-Bakalang.tsv		
+437	to hide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	maʤaŋ	maʤaŋ ‘hide something’, navamaʤan ‘hide onesself’	- - - - m a j a ŋ -	"('to hide', 'alor1249-sar-a', ""pi-'maj"")"	datasets/Blagar-Bakalang.tsv		
+437	to hide	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	navamaʤan	maʤaŋ ‘hide something’, navamaʤan ‘hide onesself’	n a v a m a j a n -	"('to hide', 'alor1249-sar-a', ""pi-'maj"")"	datasets/Blagar-Bakalang.tsv		
+438	to wait	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	adiŋ	nan	- a d i ŋ - -	('to wait', 'adan1251-lawah', 'ʔadana')	datasets/Blagar-Bakalang.tsv		
+439	to fold	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	le'pet	NOT: lipat tikar	l e p é t	('to fold', 'baka1276', 'lepét')	datasets/Blagar-Bakalang.tsv		
+440	to help	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	aiŋ moliŋ	nan	#NAME?	('to help', 'alor1249-sar-a', 'molah')	datasets/Blagar-Bakalang.tsv		
+441	to bark	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	loti	nan	- - - l o t i -	('to bark', 'baka1276', 'loti')	datasets/Blagar-Bakalang.tsv		
+442	to shoot	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	masaŋ	nan	m a s a ŋ -	"('to shoot', 'alor1247-baran', ""'pasa"")"	datasets/Blagar-Bakalang.tsv		
+444	to pound; to beat	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tunumuk	nan	t u n u m - u k	('to pound; to beat', 'baka1276', 'tunumuk')	datasets/Blagar-Bakalang.tsv		
+445	to hit (drum)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	(peŋ) oda	nan	#NAME?	('to hit (drum)', 'adan1251-lawah', 'ød')	datasets/Blagar-Bakalang.tsv		
+446	to call out	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'gareŋ	nan	g á - - r e ŋ -	('to call out', 'baka1276', 'gáreŋ')	datasets/Blagar-Bakalang.tsv		
+447	to lie (tell untruth)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'leko	nan	l é k o	('to lie (tell untruth)', 'baka1276', 'léko')	datasets/Blagar-Bakalang.tsv		
+448	to ask (question)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'taniŋ	nan	nan	('to ask (question)', 'abui1241-fuime', 'na:tahaŋ')	datasets/Blagar-Bakalang.tsv		
+449	to count	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	rekeŋ	nan	r e k e ŋ -	('to count', 'baka1276', 'rekeŋ')	datasets/Blagar-Bakalang.tsv		
+450	one	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	nu	nan	#NAME?	('one', 'abui1241-fuime', 'nuku')	datasets/Blagar-Bakalang.tsv		
+451	two	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	'aru	nan	- á r u -	"('two', 'alor1247-baran', ""'rua"")"	datasets/Blagar-Bakalang.tsv		
+452	three	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tue	nan	t u - - e	('three', 'abui1241-fuime', 'sua')	datasets/Blagar-Bakalang.tsv		
+453	four	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	buta	nan	b u t a -	('four', 'abui1241-fuime', 'buti')	datasets/Blagar-Bakalang.tsv		
+454	five	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	isiŋ	nan	- - - i s i ŋ -	('five', 'abui1241-fuime', 'jetiŋ')	datasets/Blagar-Bakalang.tsv		
+455	six	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	taliŋ	nan	t a l i - ŋ - -	('six', 'abui1241-fuime', 'tala:ma')	datasets/Blagar-Bakalang.tsv		
+456	seven	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	titu	nan	#NAME?	('seven', 'adan1251-lawah', 'wuitoʔ')	datasets/Blagar-Bakalang.tsv		
+457	eight	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tuaru	nan	t u - - a r u -	('eight', 'baka1276', 'tuaru')	datasets/Blagar-Bakalang.tsv		
+458	nine	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	turnu	nan	t - u r - - - n u -	('nine', 'adan1251-lawah', 'tiʔinu')	datasets/Blagar-Bakalang.tsv		
+459	ten	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	arnu	nan	- a - r - n u - -	('ten', 'adan1251-lawah', 'airnu')	datasets/Blagar-Bakalang.tsv		
+460	eleven	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ar nu betal nu	nan	nan	('eleven', 'alor1249-sar-a', 'qar nuk unuk')	datasets/Blagar-Bakalang.tsv		
+461	twelve	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ar nu betal aru	nan	- a r _ n u - - _ b e t - a l _ - a - - r u -	('twelve', 'alor1249-sar-a', 'qar nuk unraq')	datasets/Blagar-Bakalang.tsv		
+462	thirteen	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ar nu betal tue	nan	- a r _ n u - - _ b e t a l _ - - - t u - e	('thirteen', 'adan1251-lawah', 'airnu waliŋ towo')	datasets/Blagar-Bakalang.tsv		
+469	twenty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ar iaru	nan	a r - - _ i a r u	('twenty', 'adan1251-lawah', 'airialu')	datasets/Blagar-Bakalang.tsv		
+470	twenty one	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ar iaru betal nu	nan	a r _ i - - a r u _ b e - t a l - _ n u	('twenty one', 'baka1276', 'ar iaru betal nu')	datasets/Blagar-Bakalang.tsv		
+475	thirty	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ari tue	nan	- a r i _ t u - e -	('thirty', 'alor1249-sar-a', 'qar tig')	datasets/Blagar-Bakalang.tsv		
+482	one hundred	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ratu nu	nan	- r a t u _ - n u - -	('one hundred', 'adan1251-lawah', 'ratnu')	datasets/Blagar-Bakalang.tsv		
+483	one hundred and twenty three	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ratu ariaru betal tue	nan	r a t - - u _ - - - - - a - r i a r u - - _ b e - t a l _ - t u - e	('one hundred and twenty three', 'adan1251-lawah', 'ratnu airalu waliŋ towo')	datasets/Blagar-Bakalang.tsv		
+484	two hundred	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ratu aru	nan	- r a t u - _ - a r u -	('two hundred', 'adan1251-lawah', 'ratalu')	datasets/Blagar-Bakalang.tsv		
+485	thousand	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	ribu	nan	- r i b - - - u -	('thousand', 'adan1251-lawah', 'ribnu')	datasets/Blagar-Bakalang.tsv		
+487	grandmother	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	nidat	The kinship task also asks for this term	n i d a t -	('grandmother', 'baka1276', 'nidat')	datasets/Blagar-Bakalang.tsv		
+488	grandfather	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	nidat	The kinship task also asks for this term	n i d a t - -	('grandfather', 'alor1249-sar-n', 'natapis')	datasets/Blagar-Bakalang.tsv		
+489	grandchild	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	oal idat	The kinship task also asks for this term	#NAME?	('grandchild', 'baka1276', 'oal idat')	datasets/Blagar-Bakalang.tsv		
+587	oven/cooking place	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tutu	nan	t u t u - - - - - - - -	"('oven/cooking place', 'alor1249-sar-a', ""tu'tuh"")"	datasets/Blagar-Bakalang.tsv		
+588	flower (in e.g. mangga tree)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	buma	nan	#NAME?	('flower (in e.g. mangga tree)', 'baka1276', 'buma')	datasets/Blagar-Bakalang.tsv		
+590	long (stick)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	veniŋ	nan	- - - - - v e n i ŋ -	('long (stick)', 'baka1276', 'veniŋ')	datasets/Blagar-Bakalang.tsv		
+591	tall (person)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	blolu	nan	b - l o l u -	('tall (person)', 'baka1276', 'blolu')	datasets/Blagar-Bakalang.tsv		
+591	tall (person)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	blolu	nan	b - l o l u -	('tall (person)', 'baka1276', 'blolu')	datasets/Blagar-Bakalang.tsv		
+592	short (stick)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	tukaŋ	nan	t u - - k a ŋ - -	('short (stick)', 'alor1249-sar-a', 'tuk')	datasets/Blagar-Bakalang.tsv		
+593	narrow (road)	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	krobok	Not: rumah sempit (crowded/small house), or pakaian sempit (clothes that are too tight).	k r o b o k - -	('narrow (road)', 'baka1276', 'krobok')	datasets/Blagar-Bakalang.tsv		
+598	to chase away; to expel	baka1276	Blagar-Bakalang	Timor-Alor-Pantar	1Pantar, 2East	teri	nan	- - t e - r i -	('to chase away; to expel', 'baka1276', 'teri')	datasets/Blagar-Bakalang.tsv		

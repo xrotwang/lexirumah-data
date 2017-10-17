@@ -147,6 +147,7 @@ def import_concepticon(concepticon_path=concepticon_path):
             concepticon_id=row.get('CONCEPTICON_ID', 0),
             semanticfield=row["Semantic field"])
         for i, row in concepticon.iterrows()]
+    print(concepticon)
     return concepticon
 
 
@@ -161,6 +162,7 @@ def create_language_object(language, languages, families={}, identifiers={}):
         return row["db_Object"]
     family = row["Family"]
     if family not in families:
+        print("Creating object for language family", family)
         families[family] = Family(
             id=family.lower(),
             jsondata={"icon": next(ICONS)},

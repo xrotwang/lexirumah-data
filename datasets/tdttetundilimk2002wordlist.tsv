@@ -1,7 +1,7 @@
 Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comment	Alignment	Cognate Set	Source	Loan	Reference
 0	sky	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	la'lehɑn	nan	l a 'l e h ɑ n	"('sky', 'idat1237', ""la'lehɑn"")"	datasets/tdttetundilimk2002wordlist.tsv		
 1	sun	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'lɔrɔ mɑ'tɑn	day eye	'l ɔ r ɔ _ m ɑ 't ɑ n	"('sun', 'alor1247-baran', ""la'ra"")"	datasets/tdttetundilimk2002wordlist.tsv		
-2	moon	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fulɑn	nan	- - 'f u l - - - - - - - - - ɑ n -	('moon', 'adan1251-lawah', 'hu:l')	datasets/tdttetundilimk2002wordlist.tsv		
+2	moon	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fulɑn	nan	- - 'f u l - - - - - - - - - ɑ n -	('market', 'keda1252-leuba', 'ul')	datasets/tdttetundilimk2002wordlist.tsv		
 3	star	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fitun	nan	'f i t u n	('star', 'tetu1245-suai', 'fituŋ')	datasets/tdttetundilimk2002wordlist.tsv		
 4	night	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	kɑ'lɑn	nan	k - - ɑ 'l ɑ n	('night', 'baka1276', 'kamaluŋ')	datasets/tdttetundilimk2002wordlist.tsv		
 5	day	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	lɔ'rɔn	nan	- - - - - - - - - - - l ɔ 'r ɔ - n - - - - - -	"('day', 'alor1247-besar', ""la'ra"")"	datasets/tdttetundilimk2002wordlist.tsv		
@@ -9,7 +9,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 13	cloud	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	kalɔ'hɑn	nan	k a l ɔ 'h ɑ n	"('cloud', 'idat1237', ""alɔ'hɑn"")"	datasets/tdttetundilimk2002wordlist.tsv		
 14	wind	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɑnin	nan	- 'ʔ ɑ n - - i n - -	"('wind', 'alor1247-baran', ""'aŋi"")"	datasets/tdttetundilimk2002wordlist.tsv		
 15	rain	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	ʔudɑn	nan	- ʔ u d - ɑ n - - - -	"('rain', 'alor1247-besar', ""'uraŋ"")"	datasets/tdttetundilimk2002wordlist.tsv		
-21	fog	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔabu 'ʔabu	nan	- 'ʔ a - b u _ 'ʔ a b u -	"('fog', 'alor1247-munas', ""sə'pu"")"	datasets/tdttetundilimk2002wordlist.tsv		
+21	fog	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔabu 'ʔabu	nan	- 'ʔ a - b u _ 'ʔ a b u -	('fog', 'kama1365', 'safuː')	datasets/tdttetundilimk2002wordlist.tsv		
 22	river; stream	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mɔta	nan	'm ɔ t a	('river; stream', 'tetu1245-suai', 'mota')	datasets/tdttetundilimk2002wordlist.tsv		
 23	ice	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɛs	nan	'ʔ ɛ s -	"('ice', 'alor1247-baran', ""'ɛs"")"	datasets/tdttetundilimk2002wordlist.tsv		
 23	ice	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʤelu	nan	'ʤ e l u	"('ice', 'alor1247-baran', ""'ɛs"")"	datasets/tdttetundilimk2002wordlist.tsv		
@@ -34,13 +34,13 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 70	dust; fine earth	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'rɑi rɑ'hun	earth dust	- - - 'r ɑi _ r ɑ 'h - - u n	"('dust; fine earth', 'idat1237', ""la'rɛ ʔɑ'huk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 71	fireplace ash	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɑhuk dɛ'sɑn	nan	'ʔ ɑ h u k _ - - d ɛ 's ɑ n	"('fireplace ash', 'idat1237', ""'wɑi ɑhuk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 75	sand	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'rɑi 'hɛnɛk	earth ?	- - 'r ɑi - _ 'h ɛ n ɛ k	('sand', 'buna1278-bobon', 'sɛlɛ')	datasets/tdttetundilimk2002wordlist.tsv		
-77	house	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔuma	nan	- 'ʔ u m a -	"('house', 'alor1247-baran', ""'ʔuma"")"	datasets/tdttetundilimk2002wordlist.tsv		
+77	house	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔuma	nan	- 'ʔ u m a -	"('garden', 'keda1252-leuba', ""'lumɑr"")"	datasets/tdttetundilimk2002wordlist.tsv		
 83	roof thatch	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'du:t	nan	'd u: t -	('roof thatch', 'buna1278-bobon', 'hut')	datasets/tdttetundilimk2002wordlist.tsv		
 84	tree	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɑi 'hu:n	nan	- 'ʔ ɑ - i - - _ - 'h u: - - n - - - - - -	"('tree', 'alor1247-besar', ""'kaʤɔ"")"	datasets/tdttetundilimk2002wordlist.tsv		
 86	bark (of tree)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɑi 'kulit	nan	- 'ʔ ɑi - _ 'k u l i t - -	"('bark (of tree)', 'idat1237', ""ɑili'tɑ:k"")"	datasets/tdttetundilimk2002wordlist.tsv		
 87	leaf	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'tɑhɑn	nan	- - - 't ɑ h ɑ n	"('leaf', 'kema1243', ""'ʔɑi tɑhɑn"")"	datasets/tdttetundilimk2002wordlist.tsv		
 91	root	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔabut	nan	- - - - - 'ʔ a b u t	"('root', 'idat1237', ""ra'put"")"	datasets/tdttetundilimk2002wordlist.tsv		
-92	fruit	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fuɑn	nan	- - - - - 'f - u - ɑ - - n	('betel nut; areca', 'lama1277-adona', 'ˈwuaʔ')	datasets/tdttetundilimk2002wordlist.tsv		
+92	fruit	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fuɑn	nan	- - - - - 'f - u - ɑ - - n	"('fruit', 'alor1247-pandai', ""'punak"")"	datasets/tdttetundilimk2002wordlist.tsv		
 93	seed	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fini	nan	- - - - 'f i n i - - -	('seed', 'amar1273-kotos', 'fini')	datasets/tdttetundilimk2002wordlist.tsv		
 97	rice grains (unhusked) (raw from field)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	ha're:	nan	h a 'r e: - - - - - -	('rice grains (unhusked) (raw from field)', 'fata1247', 'alɛ kafu')	datasets/tdttetundilimk2002wordlist.tsv		
 98	cooked rice	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔetu	nan	'ʔ e t - - - u - - -	"('cooked rice', 'idat1237', ""'ʔetu"")"	datasets/tdttetundilimk2002wordlist.tsv		
@@ -52,7 +52,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 106	sweet potato	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'fehuk	nan	'f e h u k - - - - -	('sweet potato', 'tetu1245-suai', 'fehuk malae')	datasets/tdttetundilimk2002wordlist.tsv		
 108	taro	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mɑɛk	nan	'm ɑɛ k	"('taro', 'buna1278-malia', ""'mɛ̃:"")"	datasets/tdttetundilimk2002wordlist.tsv		
 109	sago	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'ʔɑkɑr	sago tree	- - - - - 'ʔ ɑ k ɑ r	('sago', 'fata1247', 'akar')	datasets/tdttetundilimk2002wordlist.tsv		
-112	corn; maize	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'bɑtɑr	nan	'b ɑ t ɑ r	('corn; maize', 'abui1241-fuime', 'fa:ti')	datasets/tdttetundilimk2002wordlist.tsv		
+112	corn; maize	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'bɑtɑr	nan	'b ɑ t ɑ r	('cooked rice', 'lama1277-adona', 'wata mɜˈnihũ')	datasets/tdttetundilimk2002wordlist.tsv		
 128	milk	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	,susu'bɛn	nan	, s u s u - 'b ɛ n	"('milk', 'alor1247-baran', ""'susu"")"	datasets/tdttetundilimk2002wordlist.tsv		
 129	salt	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mɑsin	nan	'm ɑ s i n	('salt', 'idat1237', 'masi')	datasets/tdttetundilimk2002wordlist.tsv		
 130	fat	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'bokur	nan	'b o k u r	"('fat', 'buna1278-malia', ""'bɔkul"")"	datasets/tdttetundilimk2002wordlist.tsv		
@@ -177,7 +177,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 321	rotten	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	dɔ'dɔk	nan	d ɔ 'd ɔ k	"('rotten', 'alor1247-baran', ""'datɛ"")"	datasets/tdttetundilimk2002wordlist.tsv		
 326	flat	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	ka'bɛ:r	nan	k a 'b ɛ: r	('flat', 'tetu1245-suai', 'kwɛr')	datasets/tdttetundilimk2002wordlist.tsv		
 329	black	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mɛtɑn	nan	- - 'm ɛ - t ɑ - - n - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/tdttetundilimk2002wordlist.tsv		
-330	white	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mutin	nan	- - - 'm u t i - - - - n - - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/tdttetundilimk2002wordlist.tsv		
+330	white	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mutin	nan	- - - 'm u t i - - - - n - - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/tdttetundilimk2002wordlist.tsv		
 331	red	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mɛɑn	nan	- 'm ɛɑ - - n	"('red', 'alor1247-baran', ""'mɛã"")"	datasets/tdttetundilimk2002wordlist.tsv		
 332	green	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'mɑtɑk	nan	- - - - - - - - - - 'm ɑ t ɑ k	"('green', 'kema1243', ""'mɔ'sɔk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 334	yellow	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'kinur	nan	- 'k - i n u r	"('yellow', 'buna1278-malia', ""'kinul"")"	datasets/tdttetundilimk2002wordlist.tsv		
@@ -261,7 +261,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 542	friend	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	kolega	nan	k - o l e g a	"('friend', 'idat1237', ""'maluk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 542	friend	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	mɑ'luk	nan	- m ɑ 'l u k -	"('friend', 'idat1237', ""'maluk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 548	dowry	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	hɑfo'lin	nan	h ɑ f o 'l i n	"('dowry', 'abui1241-takal', ""he̞.'be̞l"")"	datasets/tdttetundilimk2002wordlist.tsv		
-588	flower (in e.g. mangga tree)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'funɑn	nan	- - - - - 'f u n ɑ n - - - - - - - -	('flower', 'lama1277-kalik', 'ˈbuŋa')	datasets/tdttetundilimk2002wordlist.tsv		
+588	flower (in e.g. mangga tree)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'funɑn	nan	- - - - - 'f u n ɑ n - - - - - - - -	"('flower (in e.g. mangga tree)', 'idat1237', ""hu'na:n"")"	datasets/tdttetundilimk2002wordlist.tsv		
 590	long (stick)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	na'ruk	nan	- - - - n a 'r u k	"('long (stick)', 'idat1237', ""mɑ'naruk"")"	datasets/tdttetundilimk2002wordlist.tsv		
 592	short (stick)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	ba'dak	nan	- - - - b a 'd - a k -	('short (stick)', 'buna1278-bobon', 'barak')	datasets/tdttetundilimk2002wordlist.tsv		
 593	narrow (road)	tetu1246	Tetun Dili	Austronesian	4Timor, 3East	'klɔ:t	nan	'k - l ɔ: t - -	"('narrow (road)', 'idat1237', ""ku'lɔt"")"	datasets/tdttetundilimk2002wordlist.tsv		

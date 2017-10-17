@@ -15,7 +15,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 32	stone	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wato	nan	- w a t o - - - - -	"('stone', 'alor1247-baran', ""'fato"")"	datasets/keraf/Ritaebang.tsv	120. Batu 
 35	water (fresh)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wai	nan	- w ai - - - -	"('water (fresh)', 'alor1247-besar', ""'fei"")"	datasets/keraf/Ritaebang.tsv	122. Air 
 36	sea; sea water	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	tahik	nan	t a h i k -	('sea; sea water', 'lama1277-baipi', 'tahik')	datasets/keraf/Ritaebang.tsv	127. Laut 
-39	forest	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pənɤ	nan	- - - - - - - p ə n ɤ -	('forest', 'lama1277-belan', 'eka maŋan')	datasets/keraf/Ritaebang.tsv	132. Hutan
+39	forest	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pənɤ	nan	- - - - - - - p ə n ɤ -	('forest', 'lama1277-lamal', 'eka pənət')	datasets/keraf/Ritaebang.tsv	132. Hutan
 45	road; path; way	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	larã	nan	- l a r ã -	('road; path; way', 'lama1277-baipi', 'rarã')	datasets/keraf/Ritaebang.tsv	7. Jalan
 51	rope	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	tale	nan	- - t a l e -	('rope', 'lama1277-baipi', 'tale')	datasets/keraf/Ritaebang.tsv	65. Tali
 65	clothing	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	alelolõ	nan	- a l e - l o l õ - -	('clothing', 'kafo1240', 'ʔɑlɑl')	datasets/keraf/Ritaebang.tsv	68. Pakaian 
@@ -33,7 +33,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 95	flower	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	puhũ	nan	p u h ũ - -	"('flower', 'alor1247-besar', ""'puhuŋ"")"	datasets/keraf/Ritaebang.tsv	116. Bunga 
 129	salt	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	siʔa	nan	s i ʔ a - -	"('salt', 'alor1247-baran', ""'siʔa"")"	datasets/keraf/Ritaebang.tsv	128. Garam 
 130	fat	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	worã(kahal)	nan	w o r ã ( k a h a l )	"('fat', 'alor1247-besar', ""fo'rakaŋ"")"	datasets/keraf/Ritaebang.tsv	104. Lemak 
-131	flesh; meat	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'lama1277-bama', 'ihik')	datasets/keraf/Ritaebang.tsv	103. Daging 
+131	flesh; meat	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	ihik	nan	- - - i h i k	('flesh; meat', 'keda1252', 'ihin')	datasets/keraf/Ritaebang.tsv	103. Daging 
 132	bone	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	riʔuk	nan	- - - r i ʔ u k - - -	"('bone', 'alor1247-baran', ""ru'ʔiŋ"")"	datasets/keraf/Ritaebang.tsv	19. Tulang
 136	blood	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	mei	nan	- - m ei - -	('blood', 'lama1277-adona', 'mei')	datasets/keraf/Ritaebang.tsv	26. Darah
 138	heart	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	puho	nan	- p u h o - - - - -	"('heart', 'buna1278-malia', ""'huɑn"")"	datasets/keraf/Ritaebang.tsv	22. Jantung
@@ -47,8 +47,8 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 151	mouth	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wəwa	nan	w ə w a - - -	('mouth', 'atim1239', 'tawa')	datasets/keraf/Ritaebang.tsv	33. Mulut
 155	tongue	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wewel	nan	w e w e l - -	"('tongue', 'alor1247-baran', ""'fɛfɛl"")"	datasets/keraf/Ritaebang.tsv	35. Lidah
 156	neck	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wulĩ	nan	w u l ĩ - -	"('neck', 'alor1247-besar', ""'fuliŋ"")"	datasets/keraf/Ritaebang.tsv	28. Leher
-164	hand	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('hand', 'lama1277-baipi', 'lima')	datasets/keraf/Ritaebang.tsv	1. Tangan
-175	foot	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	('foot', 'keda1252-leuwa', 'læi')	datasets/keraf/Ritaebang.tsv	4. Kaki
+164	hand	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	lima	nan	- - - - - l i m a - - - - - - - - -	('arm', 'keda1252-leuba', 'liŋ')	datasets/keraf/Ritaebang.tsv	1. Tangan
+175	foot	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	lei	nan	l e i - - - - - - - - - - - -	"('foot', 'alor1247-baran', ""'leiŋ ka'lumak"")"	datasets/keraf/Ritaebang.tsv	4. Kaki
 179	back	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	uhuk	nan	u h u k - -	('back', 'keda1252-leuwa', 'u̘hur')	datasets/keraf/Ritaebang.tsv	17. Punggung
 182	skin	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kamaʔ	nan	k a m a - ʔ - -	"('skin', 'alor1247-baran', ""'kamaŋ"")"	datasets/keraf/Ritaebang.tsv	16. Kulit
 190	person	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	atadikã	nan	a - t a d i k - ã -	"('person', 'alor1247-besar', ""'ata"")"	datasets/keraf/Ritaebang.tsv	53. Orang
@@ -57,7 +57,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 193	man	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	bəlake	nan	- - b ə - - - l a k e -	"('man', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Ritaebang.tsv	54. Laki-laki
 194	woman	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	bərkəwãe	nan	- - - b - ə r k ə w ãe	"('woman', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Ritaebang.tsv	55. Wanita
 195	husband	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	lake	nan	- - - - - - - - l a k - - - e - -	"('husband', 'alor1247-baran', ""ka'lake"")"	datasets/keraf/Ritaebang.tsv	57. Suami
-196	wife	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kəwãe	nan	- - - k - - ə w - - - - - ãe - -	"('wife', 'alor1247-baran', ""ka'fae"")"	datasets/keraf/Ritaebang.tsv	58. Isteri
+196	wife	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kəwãe	nan	- - - k - - ə w - - - - - ãe - -	('husband', 'lama1277-belan', 'ha')	datasets/keraf/Ritaebang.tsv	58. Isteri
 197	mother	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	əma	nan	- ə m a -	('mother', 'buna1278-bobon', 'ɛmɛ')	datasets/keraf/Ritaebang.tsv	59. Ibu
 198	father	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	bapa	nan	- b a p a -	('father', 'lama1277-baipi', 'bapaʔ')	datasets/keraf/Ritaebang.tsv	60. Bapak
 199	older sibling	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kaka	nan	- k - a k - - a - -	"('older sibling', 'alor1247-munas', ""'kakaŋ"")"	datasets/keraf/Ritaebang.tsv	61. Kakak
@@ -79,7 +79,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 219	when?	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	ərəmpira	nan	ə r ə m - - p i r a	('when?', 'lama1277-baipi', 'arəmpira')	datasets/keraf/Ritaebang.tsv	174. Bilamana 
 223	this	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	tokowe	nan	- - t o k o w e	('this', 'lama1277-baipi', 'pi')	datasets/keraf/Ritaebang.tsv	179. Ini 
 224	that	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pe	nan	- - p e - - -	('that', 'keda1252', 'nobeʔ')	datasets/keraf/Ritaebang.tsv	180. Itu 
-227	here	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	dipi	nan	- - d i p i	('here', 'lama1277-baipi', 'tiwi')	datasets/keraf/Ritaebang.tsv	177. Di sini 
+227	here	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	dipi	nan	- - d i p i	('at', 'lama1277-adona', 'pi')	datasets/keraf/Ritaebang.tsv	177. Di sini 
 228	there	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	dipe	nan	d i p e	('there', 'lama1277-baipi', 'tewe')	datasets/keraf/Ritaebang.tsv	178. Di situ 
 231	left (side)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	nekĩ	nan	- - n e k - - ĩ -	('left (side)', 'abui1241-fuime', 'teibika')	datasets/keraf/Ritaebang.tsv	2. Kiri
 232	right (side)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wana	nan	w a n a -	('right (side)', 'keda1252', 'wana')	datasets/keraf/Ritaebang.tsv	3. Kanan
@@ -95,10 +95,10 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 262	feather	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	rawuk	nan	- - - - r a - w u k - -	('feather', 'lama1277-adona', 'ˈrawuke')	datasets/keraf/Ritaebang.tsv	99. Bulu 
 264	snake	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	ula	nan	- - u l a - - - - - - -	"('snake', 'alor1247-baran', ""ʔu'la"")"	datasets/keraf/Ritaebang.tsv	106. Ular 
 266	egg	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	təluk	nan	- - - - - - - t ə l u k - -	"('egg', 'alor1247-baran', ""'taluk"")"	datasets/keraf/Ritaebang.tsv	98. Telur 
-279	louse (clothing)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'lama1277-baipi', 'kuto')	datasets/keraf/Ritaebang.tsv	108. Kutu 
+279	louse (clothing)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kuto	nan	k u t o - -	('louse (clothing)', 'keda1252', 'utuʔ')	datasets/keraf/Ritaebang.tsv	108. Kutu 
 281	big	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	belã	nan	b e l - - - ã - -	"('big', 'alor1247-besar', ""'beiŋ"")"	datasets/keraf/Ritaebang.tsv	158. Besar 
 282	small	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	anã	nan	a n ã - - -	"('small', 'alor1247-baran', ""'an:aŋ"")"	datasets/keraf/Ritaebang.tsv	157. Kecil 
-284	new (house)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'lama1277-baipi', 'wuʔũ')	datasets/keraf/Ritaebang.tsv	167. Baru 
+284	new (house)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wuʔũ	nan	w u ʔ ũ	('new (house)', 'keda1252', 'werun')	datasets/keraf/Ritaebang.tsv	167. Baru 
 288	hot	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pəlate	nan	p ə l a t e -	"('hot', 'alor1247-baran', ""pa'latiŋ"")"	datasets/keraf/Ritaebang.tsv	142. Panas 
 289	cold	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	gələtã	nan	- g ə - l ə t - - - - - - - ã - - -	('cold', 'abui1241-fuime', 'palata')	datasets/keraf/Ritaebang.tsv	143. Dingin 
 290	good	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	sənare	nan	s ə n a r - - e -	('good', 'lama1277-bama', 'əre')	datasets/keraf/Ritaebang.tsv	168. Baik 
@@ -107,7 +107,7 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 295	far	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	doʔẽ	nan	- - - - d o ʔ ẽ - - -	"('far', 'alor1247-baran', ""'ʤuaŋ"")"	datasets/keraf/Ritaebang.tsv	182. Jauh 
 296	wet	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	dəme	nan	- - d ə m - e -	('wet', 'lama1277-baipi', 'kədəmu')	datasets/keraf/Ritaebang.tsv	145. Basah 
 297	dry	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	marã	nan	- m a - - r - - - - ã - -	"('dry', 'alor1247-baran', ""'mara"")"	datasets/keraf/Ritaebang.tsv	144. Kering 
-299	long	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	bəlãhã	nan	b ə l ã - h - - ã -	"('long', 'alor1247-besar', ""bəla'hakaŋ"")"	datasets/keraf/Ritaebang.tsv	160. Panjang 
+299	long	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	bəlãhã	nan	b ə l ã - h - - ã -	('far', 'sika1262-hewa', 'blaʋir')	datasets/keraf/Ritaebang.tsv	160. Panjang 
 301	short	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kəru	nan	k ə r - - u -	('short', 'lama1277-bama', 'lere')	datasets/keraf/Ritaebang.tsv	159. Pendek 
 303	thin (non-human)	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	mənipĩ	nan	- m ə n i - - p - - ĩ -	"('thin (non-human)', 'alor1247-besar', ""ma'nipi"")"	datasets/keraf/Ritaebang.tsv	161. Tipis 
 305	thick	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pəwərẽ	nan	p - - ə w ə r - ẽ -	('thick', 'lama1277-botun', 'pəwərã')	datasets/keraf/Ritaebang.tsv	162. Tebal 
@@ -117,11 +117,11 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 313	heavy	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	baʔa	nan	- - - b - - a ʔ a - - - - - - -	('heavy', 'alor1247-baran', 'ba:')	datasets/keraf/Ritaebang.tsv	147. Berat 
 315	straight	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	mopã	nan	m o - p ã -	('straight', 'lama1277-baipi', 'mopa')	datasets/keraf/Ritaebang.tsv	165. Lurus 
 316	wide	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pəloʔẽ	nan	p - - ə l o - ʔ ẽ - - -	('wide', 'adan1251-lawah', 'bɛrɛŋ')	datasets/keraf/Ritaebang.tsv	164. Luas 
-317	narrow	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kətəkə	nan	k - - - - ə t ə k ə -	('narrow', 'lama1277-baipi', 'gələgipət')	datasets/keraf/Ritaebang.tsv	163. Sempit 
+317	narrow	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kətəkə	nan	k - - - - ə t ə k ə -	('narrow', 'lama1277-ileap', 'təkəl')	datasets/keraf/Ritaebang.tsv	163. Sempit 
 321	rotten	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	wãu	nan	- - - - w ãu - - - - - - - -	"('rotten', 'alor1247-besar', ""'fou"")"	datasets/keraf/Ritaebang.tsv	111. Busuk 
 326	flat	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	əbã	nan	ə b - ã	('flat', 'lama1277-baipi', 'əbʔã')	datasets/keraf/Ritaebang.tsv	146. Rata 
 329	black	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	mitə̃	nan	- m i - - t ə̃ - - - - - - - - -	"('black', 'alor1247-baran', ""'mit:ɛŋ"")"	datasets/keraf/Ritaebang.tsv	152. Hitam 
-330	white	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	burã	nan	- - - b u r - - - - - - ã - -	"('white', 'alor1247-baran', ""'bur:a"")"	datasets/keraf/Ritaebang.tsv	153. Putih 
+330	white	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	burã	nan	- - - b u r - - - - - - ã - -	"('gum tree; eucalyptus', 'keda1252-leuba', ""ʔaju 'bujaʔ"")"	datasets/keraf/Ritaebang.tsv	153. Putih 
 331	red	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	meʔã	nan	m e ʔ ã	"('red', 'alor1247-besar', ""'meaŋ"")"	datasets/keraf/Ritaebang.tsv	154. Merah 
 332	green	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	bətɤ	nan	b ə - t - - ɤ - - - - - - -	"('green', 'alor1247-munas', ""'taŋaŋ"")"	datasets/keraf/Ritaebang.tsv	156. Hijau 
 334	yellow	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kumã	nan	k u m - - - - - ã - -	"('yellow', 'alor1247-besar', ""'kumɔŋ"")"	datasets/keraf/Ritaebang.tsv	155. Kuning 
@@ -188,14 +188,14 @@ Feature_ID	English	Language_ID	Language name (-dialect)	Family	Region	Value	Comm
 603	return	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	gəwalik	nan	g ə w a l i k - -	('return', 'lama1277-baipi', 'gəwali')	datasets/keraf/Ritaebang.tsv	9. Balik
 606	stomach	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kəboti	nan	- - k ə - - - - - b o t - i - -	('stomach', 'lama1277-baipi', 'tãikəboti')	datasets/keraf/Ritaebang.tsv	20. Isi perut
 607	tooth	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	ipə	nan	i - p ə - - - - -	('tooth', 'lama1277-baipi', 'ipət')	datasets/keraf/Ritaebang.tsv	34. Gigi
-609	fist	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-baipi', 'dəgo')	datasets/keraf/Ritaebang.tsv	72. Bertinju 
+609	fist	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	tubuk	nan	t u b u k -	('fist', 'lama1277-belan', 'tubuk')	datasets/keraf/Ritaebang.tsv	72. Bertinju 
 612	stem	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pukã	nan	- - p u k ã	('stem', 'lama1277-bama', 'pukã')	datasets/keraf/Ritaebang.tsv	79. Batang 
 614	swollen	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	baʔa	nan	- - - - - - b - - a ʔ a	('swollen', 'lama1277-baipi', 'baʔa')	datasets/keraf/Ritaebang.tsv	87. Bengkak
 618	worm	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	kəbeŋã	nan	k - - ə b e ŋ ã	('worm', 'lama1277-kiwan', 'kəbeŋã')	datasets/keraf/Ritaebang.tsv	107. Cacing 
 625	dew	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	apu	nan	a p u - -	('dew', 'lama1277-baipi', 'apu')	datasets/keraf/Ritaebang.tsv	137. Embun 
 629	old	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	tənuʔe	nan	t ə n - - u ʔ e - -	('old', 'lama1277-baipi', 'tənue')	datasets/keraf/Ritaebang.tsv	166. Tua 
 631	right, correct	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	nə murã	nan	n - - ə _ m - u r - ã - -	('right, correct', 'lama1277-botun', 'murã')	datasets/keraf/Ritaebang.tsv	170. Betul 
-633	in	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pi	nan	- - - - p i	('in', 'lama1277-baipi', 'di')	datasets/keraf/Ritaebang.tsv	175. Di 
+633	in	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	pi	nan	- - - - p i	('at', 'lama1277-adona', 'pi')	datasets/keraf/Ritaebang.tsv	175. Di 
 634	inside	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	onã	nan	- - - o n - ã	('inside', 'lama1277-botun', 'bəlomã')	datasets/keraf/Ritaebang.tsv	176. Dalam 
 641	other	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	ikər	nan	- i - - k ə r	('other', 'lama1277-baipi', 'geha')	datasets/keraf/Ritaebang.tsv	192. Lain
 642	some	lama1277-ritae	Lamaholot-Ritaebang	Austronesian	8Lembata	bopira	nan	b - - o p i r a	('some', 'lama1277-baipi', 'bopira')	datasets/keraf/Ritaebang.tsv	193. Beberapa 

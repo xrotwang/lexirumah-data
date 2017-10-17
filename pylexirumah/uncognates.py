@@ -38,12 +38,20 @@ parser.add_argument(
 args = parser.parse_args()
 file = args.cognate_file
 
-cognates = pandas.read_csv(
-    file,
-    index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
-    na_values="",
-    keep_default_na=False,
-    sep="\t")
+try:
+    cognates = pandas.read_csv(
+        file,
+        index_col=["CONCEPT", "DOCULECT_ID", "VALUE"],
+        na_values="",
+        keep_default_na=False,
+        sep="\t")
+except ValueError:
+    cognates = pandas.read_csv(
+        file,
+        index_col=["FEATURE_ID", "DOCULECT", "IPA"],
+        na_values="",
+        keep_default_na=False,
+        sep="\t")
 
 cognates["COGID"] = cognates["COGID"].astype('str')
 
@@ -93,7 +101,7 @@ word_lists = {}
 # Cache opened word list data frames
 
 changes = {}
-
+problems = []
 for i, line in cognates.iterrows():
     i = i[0], i[1], i[2]
     original_file = line["SOURCE"]
@@ -111,6 +119,13 @@ for i, line in cognates.iterrows():
                 sep="\t")
         except OSError:
             continue
+        except ValueError:
+            if pandas.isnull(original_file):
+                problems.append((i, line))
+                continue
+            else:
+                raise ValueError("Row {:} contained absent 'SOURCE' pointer {:}".format(
+                    i, original_file), line)
         word_list["Cognate Set"] = word_list["Cognate Set"].astype('str')
         word_lists[original_file] = word_list
     
