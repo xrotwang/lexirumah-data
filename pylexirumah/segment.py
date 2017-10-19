@@ -26,8 +26,8 @@ WHITELIST = {
     ":": "ː",
     "ɡ": "g",
     "R": "ʀ",
-    'dʒ͡': 'd͡ʒ',
-    'ʤ': 'd͡ʒ'}
+    'dʒ͡': 'dʒ',
+    'ʤ': 'dʒ'}
 
 
 def tokenize_word_reversibly(ipa, clean=False):
@@ -74,41 +74,59 @@ def tokenize_word_reversibly(ipa, clean=False):
     return tokenized_word
 
 
-def tokenize_and_enforce_clpa(form, ignore_clpa_errors=True, additional={}):
+def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
     """Return the CLPA sequence of a word form.
 
     If ignore_clpa_errors, return the sequence even if it contains unknown segments;
     otherwise (ignore_clpa_errors==False), raise an exception for invalid CLPA.
 
-    >>> " ".join([str(x) for x in  tokenize_and_enforce_clpa("baa")])
+    >>> " ".join([str(x) for x in  tokenize_clpa("baa")])
     'b aː'
 
-    >>> " ".join([str(x) for x in  tokenize_and_enforce_clpa("a9b", ignore_clpa_errors=False)])
+    >>> " ".join([str(x) for x in  tokenize_clpa("a9b", ignore_clpa_errors=False)])
     Traceback (most recent call last):
       ...
     ValueError: "9" is not a valid CLPA segment.
 
     """
+    for before, after in preprocess.items():
+        form = form.replace(before, after)
+
     result = []
     index_fw = 0
     index_bw = len(form)
+
     while True:
-        if index_bw == index_fw:
+        print("C", form[index_fw:index_bw])
+        if index_bw == index_fw and index_bw < len(form):
+            if ignore_clpa_errors is True:
+                unknown_segment = CLPA(form[index_bw])[0]
+                result.append(unknown_segment)
+                index_fw += 1
+                index_bw = len(form)
+                continue
+            else:
+                raise ValueError("\"%s\" is not a valid CLPA segment." % (form[index_bw]))
+        elif index_fw == len(form):
             return result
-        possible_token = CLPA(form[index_fw:index_bw], additional)[0]
+
+        print("P", form[index_fw:index_bw])
+        possible_token = CLPA(form[index_fw:index_bw])[0]
         if isinstance(possible_token, pyclpa.base.Sound):
+            print(str(possible_token))
             result.append(possible_token)
             index_fw = index_bw
             index_bw = len(form)
         else:
             index_bw -= 1
 
-
     # TODO: Finish the definition of this function.
     # Make sure that the expected error in the doctest points to the appropriate segment
+    # The function should continue to tokenize if a segment is not found
 
 
-if __name__ == "__main__":
+if False:
+#if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("input", default="all_data.tsv", nargs="?",
                         type=argparse.FileType('r'),
