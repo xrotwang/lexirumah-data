@@ -97,9 +97,10 @@ def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
     index_bw = len(form)
 
     while True:
-        print("C", form[index_fw:index_bw])
+        # print("C", form[index_fw:index_bw])
+        # remove '#' above for debugging
         if index_bw == index_fw and index_bw < len(form):
-            if ignore_clpa_errors is True:
+            if ignore_clpa_errors:
                 unknown_segment = CLPA(form[index_bw])[0]
                 result.append(unknown_segment)
                 index_fw += 1
@@ -110,19 +111,19 @@ def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
         elif index_fw == len(form):
             return result
 
-        print("P", form[index_fw:index_bw])
+        # print("P", form[index_fw:index_bw])
+        # remove '#' above for debugging
         possible_token = CLPA(form[index_fw:index_bw])[0]
         if isinstance(possible_token, pyclpa.base.Sound):
-            print(str(possible_token))
+            # print(str(possible_token))
+            # remove '#' above for debugging
             result.append(possible_token)
             index_fw = index_bw
             index_bw = len(form)
         else:
             index_bw -= 1
 
-    # TODO: Finish the definition of this function.
-    # Make sure that the expected error in the doctest points to the appropriate segment
-    # The function should continue to tokenize if a segment is not found
+    # TODO: Finish the documentation of this function.
 
 
 if False:
