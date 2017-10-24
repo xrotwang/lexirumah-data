@@ -20,15 +20,12 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'clldutils>=1.12.7',
-        'bibtexparser',
-        'tabulate',
-        'attrs',
-        'cdstarcat',
+        'pycldf',
+        'pyclpa',
     ],
     entry_points={
         'console_scripts': [
-            'lexirumah=pylexirumah.cli:main',
+            'segment=pylexirumah.segment:main',
         ]
     },
     tests_require=[],
