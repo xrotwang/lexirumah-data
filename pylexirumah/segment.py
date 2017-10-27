@@ -14,6 +14,8 @@ CLPA = pyclpa.base.CLPA()
 
 
 WHITELIST = {
+    # This dictionary is used to convert certain segments from the data
+    # to segments that can be recognized by CLPA.
     " ": "_",
     "ä": "a",
     "ε": "ɛ",
@@ -45,7 +47,7 @@ def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
 
     """
     for before, after in preprocess.items():
-        form = form.replace(before, after)
+        form = form.strip().replace(before, after)
 
     result = []
     index_fw = 0
