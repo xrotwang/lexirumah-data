@@ -137,12 +137,12 @@ if __name__ == "__main__":
             {(l, c, tuple(t.split()))
                 for (c, l, t), row in cognateclass.iterrows()}]
 
-        if len(as_dict[0]) == 1:
+        if len(cognateclass) == 1:
             language, concept, alg = as_dict[0].pop()
             data.set_value(
                 (concept, language, ' '.join([a for a in alg if a])),
                 "Alignment",
-                " ".join([a or '-' for a in alg]))
+                " ".join([a for a in alg if a]))
             continue
 
         # Run the multi-alignment algorithm. Because it manipulates
