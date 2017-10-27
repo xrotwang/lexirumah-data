@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Convert between LingPy and CLDF formats"""
+"""Convert between LingPy and CLDF (pre-1.0 or Wordlist) formats"""
 
 import sys
 
