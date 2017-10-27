@@ -13,8 +13,31 @@ from pycldf.dataset import Wordlist
 from clldutils.csvw.datatypes import integer
 from clldutils.csvw.metadata import Column, Table, Schema, ForeignKey
 
-from segment import tokenize_word_reversibly
+from pyclpa.base import Sound
+from segment import tokenize_clpa, CLPA
 
+REPLACE = {
+    " ": "_",
+    '’': "'",
+    '-': "_",
+    '.': "_",
+    "'": "'",
+    "*": "",
+    '´': "'",
+    'µ': "_",
+    'ǎ': "a",
+    '̃': "_",
+    ',': "ˌ",
+    '=': "_",
+    '?': "ʔ",
+    'ā': "aː",
+    "ä": "a",
+    'Ɂ': "ʔ",
+    "h̥": "h",
+    "''": "'",
+    "á": "'a",
+    'ū': "uː",
+}
 
 
 def identifier(string):
@@ -132,6 +155,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     CognateTable = []
     LoanTable = []
     l = 0
+    unclean = {} # Dict of bad segments mapped to the forms they appeear in
     for item in original.glob("**/*.tsv"):
         file = item.open(encoding=encoding)
         if "16" in encoding:
@@ -162,21 +186,26 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
                 pass
 
             for bracket_resolution in resolve_brackets(value):
-                segments = tokenize_word_reversibly(
-                    bracket_resolution, clean=True)
+                clpa_segments = tokenize_clpa(
+                    bracket_resolution, preprocess=REPLACE)
+                segments = []
+                for s in clpa_segments:
+                    if isinstance(s, Sound):
+                        segments.append(str(s))
+                    else:
+                        unclean.setdefault(s.origin, []).append(l)
+
                 FormTable.append({
                     'ID': l,
                     'Language_ID': line["Language_ID"],
                     'Parameter_ID': ParameterTable[line[foreign_key]]["ID"],
-                    'Value': value,
-                    'Form': ''.join(segments),
+                    'Form': value or '-',
                     'Segments': segments,
                     'Comment': (
                         '' if cm != cm or cm == 'nan'
                         # cm != cm is a cheap test for cm being NaN
                         else cm),
                     'Source': sources})
-                l += 1
 
                 alignment = line.get("Alignment", "")
                 if alignment in ["#NAME?", "nan", ""]:
@@ -194,6 +223,8 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
                         "ID": len(LoanTable),
                         "Status": 2,
                         "Form_ID_Target": l})
+
+                l += 1
 
     # Load language metadata
     LanguageTable=[]
@@ -252,6 +283,8 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
                 BorrowingTable=LoanTable,
                 LanguageTable=LanguageTable,
                 ParameterTable=ParameterTable.values())
+
+    print(unclean)
 
 
 if __name__ == "__main__":
