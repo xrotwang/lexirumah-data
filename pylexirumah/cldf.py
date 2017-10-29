@@ -10,8 +10,7 @@ import argparse
 from clldutils.path import Path
 from pycldf.sources import Source
 from pycldf.dataset import Wordlist
-from clldutils.csvw.datatypes import integer
-from clldutils.csvw.metadata import Column, Table, Schema, ForeignKey
+from clldutils.csvw.metadata import Column
 
 from pyclpa.base import Sound
 from segment import tokenize_clpa, CLPA

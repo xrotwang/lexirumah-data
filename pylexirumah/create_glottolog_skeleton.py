@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+"""Create glottolog-style ini files for each lect in our (pre-1.0!) CLDF language table."""
+
 import pandas
 import configparser
 
