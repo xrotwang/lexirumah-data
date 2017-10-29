@@ -107,39 +107,7 @@ def cldf(args):
                     if cldf_to_lingpy(c) not in FIRSTCOLS])
             writer.writeheader()
     for row in all_rows:
-        writer.writerow(o_row)
-
-
-def cldfwordlist(args):
-    input, output = args.args
-    max_id = 0
-    reader = csv.DictReader(open(input), delimiter=",")
-    cogids = {None: 0}
-    for i, row in enumerate(reader):
-        if i == 0:
-            writer = csv.DictWriter(
-                open(output, 'w'), delimiter="\t",
-                fieldnames=FIRSTCOLS + [
-                    cldf_to_lingpy(c)
-                    for c in reader.fieldnames
-                    if cldf_to_lingpy(c) not in FIRSTCOLS])
-            writer.writeheader()
-        o_row = {
-            cldf_to_lingpy(key): no_separators_or_newlines(value)
-            for key, value in row.items()}
-        try:
-            o_row["ID"] = int(o_row["ID"])
-        except (KeyError, ValueError):
-            o_row["ID"] = max_id + 1
-        max_id = max(max_id, o_row["ID"])
-        if "Cognateset_ID" in row:
-            o_row.setdefault("COGID", cogids.setdefault(
-                row["Cognateset_ID"], len(cogids)))
-        elif "Cognate Set" in row:
-            # This is non-standard CLDF and therefore deprecated!
-            o_row.setdefault("COGID", cogids.setdefault(
-                row["Cognate Set"], len(cogids)))
-        writer.writerow(o_row)
+        writer.writerow(row)
 
 
 def lingpy(args):
