@@ -14,8 +14,10 @@ from clldutils.clilib import ArgumentParser
 def cldf_to_lingpy(columns, replacement={
         'Parameter_ID': 'CONCEPT',
         'Language_ID': 'DOCULECT',
-        'Cognate_set_ID': 'COGID',
+        'Cognateset_ID': 'COGID',
+        'Cognate Set': 'COGID',
         'Value': 'IPA',
+        'ID': 'REFERENCE',
         'Segments': 'TOKENS'}):
     """Turn CLDF column headers into LingPy column headers."""
     if type(columns) == str:
@@ -25,7 +27,7 @@ def cldf_to_lingpy(columns, replacement={
 
 
 def lingpy_to_cldf(columns, replacement={
-        'ID': 'ID',
+        'REFERENCE': 'ID',
         'CONCEPT': 'Parameter_ID',
         'DOCULECT': 'Language_ID',
         'COGID': 'Cognate_Set',
@@ -91,8 +93,7 @@ def cldf(args):
         except (KeyError, ValueError):
             o_row["ID"] = max_id + 1
         max_id = max(max_id, o_row["ID"])
-        o_row.setdefault("COGID", cogids.setdefault(
-            row["Cognateset_ID"], len(cogids)))
+        o_row.setdefault("COGID", cogids.setdefault(row.get("Cognateset_ID"), len(cogids)))
         index = bisect.bisect(cognate_codes, o_row["COGID"])
         all_rows.insert(index, o_row)
         cognate_codes.insert(index, o_row["COGID"])
@@ -106,7 +107,7 @@ def cldf(args):
                     if cldf_to_lingpy(c) not in FIRSTCOLS])
             writer.writeheader()
     for row in all_rows:
-        writer.writerow(row)
+        writer.writerow(o_row)
 
 
 def cldfwordlist(args):
@@ -131,8 +132,13 @@ def cldfwordlist(args):
         except (KeyError, ValueError):
             o_row["ID"] = max_id + 1
         max_id = max(max_id, o_row["ID"])
-        o_row.setdefault("COGID", cogids.setdefault(
-            row["Cognate_set_ID"], len(cogids)))
+        if "Cognateset_ID" in row:
+            o_row.setdefault("COGID", cogids.setdefault(
+                row["Cognateset_ID"], len(cogids)))
+        elif "Cognate Set" in row:
+            # This is non-standard CLDF and therefore deprecated!
+            o_row.setdefault("COGID", cogids.setdefault(
+                row["Cognate Set"], len(cogids)))
         writer.writerow(o_row)
 
 

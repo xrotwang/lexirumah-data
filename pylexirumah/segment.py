@@ -8,6 +8,11 @@ import sys
 import argparse
 
 from lingpy import ipa2tokens
+import pyclpa.base
+
+
+CLPA = pyclpa.base.CLPA()
+
 
 WHITELIST = {
     " ": "_",
@@ -21,8 +26,8 @@ WHITELIST = {
     ":": "ː",
     "ɡ": "g",
     "R": "ʀ",
-    'dʒ͡': 'd͡ʒ',
-    'ʤ': 'd͡ʒ'}
+    'dʒ͡': 'dʒ',
+    'ʤ': 'dʒ'}
 
 
 def tokenize_word_reversibly(ipa, clean=False):
@@ -43,6 +48,8 @@ def tokenize_word_reversibly(ipa, clean=False):
         ipa, merge_vowels=False, merge_geminates=False)
     token = 0
     index = 0
+    # For each character in the original IPA string, check the corresponding
+    # character in the newly created list of tokens.
     for i in ipa:
         try:
             tokenized_word[token][index]
@@ -50,6 +57,8 @@ def tokenize_word_reversibly(ipa, clean=False):
             token += 1
             index = 0
         try:
+            # If the characters do not match...
+            # TODO: Finish comments
             if i != tokenized_word[token][index]:
                 if index == 0:
                     tokenized_word.insert(token, i)
@@ -65,7 +74,60 @@ def tokenize_word_reversibly(ipa, clean=False):
     return tokenized_word
 
 
-if __name__ == "__main__":
+def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
+    """Return the CLPA sequence of a word form.
+
+    If ignore_clpa_errors, return the sequence even if it contains unknown segments;
+    otherwise (ignore_clpa_errors==False), raise an exception for invalid CLPA.
+
+    >>> " ".join([str(x) for x in  tokenize_clpa("baa")])
+    'b aː'
+
+    >>> " ".join([str(x) for x in  tokenize_clpa("a9b", ignore_clpa_errors=False)])
+    Traceback (most recent call last):
+      ...
+    ValueError: "9" is not a valid CLPA segment.
+
+    """
+    for before, after in preprocess.items():
+        form = form.replace(before, after)
+
+    result = []
+    index_fw = 0
+    index_bw = len(form)
+
+    while True:
+        # print("C", form[index_fw:index_bw])
+        # remove '#' above for debugging
+        if index_bw == index_fw and index_bw < len(form):
+            if ignore_clpa_errors:
+                unknown_segment = CLPA(form[index_bw])[0]
+                result.append(unknown_segment)
+                index_fw += 1
+                index_bw = len(form)
+                continue
+            else:
+                raise ValueError("\"%s\" is not a valid CLPA segment." % (form[index_bw]))
+        elif index_fw == len(form):
+            return result
+
+        # print("P", form[index_fw:index_bw])
+        # remove '#' above for debugging
+        possible_token = CLPA(form[index_fw:index_bw])[0]
+        if isinstance(possible_token, pyclpa.base.Sound):
+            # print(str(possible_token))
+            # remove '#' above for debugging
+            result.append(possible_token)
+            index_fw = index_bw
+            index_bw = len(form)
+        else:
+            index_bw -= 1
+
+    # TODO: Finish the documentation of this function.
+
+
+if False:
+#if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("input", default="all_data.tsv", nargs="?",
                         type=argparse.FileType('r'),
@@ -102,7 +164,7 @@ if __name__ == "__main__":
 
     # Clean up NaN values in cognate sets
     data["Cognate Set"] = [
-        float("nan") if (i == 'nan' or pandas.isnull(i) or bool(i) == False) else i
+        float("nan") if (i == 'nan' or pandas.isnull(i) or not i) else i
         for i in data["Cognate Set"]]
 
     # Remove line breaks from comments
