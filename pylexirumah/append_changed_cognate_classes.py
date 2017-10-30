@@ -4,6 +4,7 @@
 
 import bisect
 import itertools
+import collections
 
 from argparse import ArgumentParser, FileType
 
@@ -88,7 +89,7 @@ if __name__ == "__main__":
 
     # Find changed alignments
     for form, data in data_on_form.items():
-        if data.get(form, {"Alignment": None})["Alignment"] == alignments.get("form", False):
+        if data.get("Alignment", None) == alignments.get(form, False):
             del alignments[form]
 
     # Construct a set of minimal changes to update cognate sets
@@ -112,7 +113,7 @@ if __name__ == "__main__":
             official_cognatesets.pop(name, None)
 
             # Insert the pair into an ordered table of pair sizes. Ensure
-            # biggest overlaps come first.
+            # biggest overlaps come first, so actually work with their negatives.
             index = bisect.bisect(overlaps, -len(overlap))
             overlaps.insert(index, -len(overlap))
             pairs.insert(index, (name, new_name))
@@ -133,8 +134,8 @@ if __name__ == "__main__":
     # greedy algorithm is not optimal, but that issue should not be too
     # relevant.)
     other_seen = set()
-    moved_forms = {}
-    for name, other in pairs:
+    moved_forms = collections.OrderedDict()
+    for i, (name, other) in enumerate(pairs):
         if other in other_seen:
             continue
         else:
@@ -146,6 +147,12 @@ if __name__ == "__main__":
                     moved_forms[form] = new_name
             other_seen.add(other)
 
+    try:
+        source = dataset.sources[args.source_id]
+    except ValueError:
+        source = Source('misc', id_=args.source_id, year=str(datetime.date.today().year))
+        dataset.sources.add(source)
+
 
     def new_rows(defaults, last_row_id, moved_forms, realigned_forms, source):
         t = type(last_row_id)
@@ -153,26 +160,23 @@ if __name__ == "__main__":
         for i, (form_id, new_cognateset) in enumerate(moved_forms.items()):
             row = defaults[form_id].copy()
             row["ID"] = last_row_id + t(i+1)
+            row["Form_ID"] = form_id
             row["Cognateset_ID"] = new_cognateset
-            row["Source"] = [source.id]
             if form_id in realigned_forms:
                 row["Alignment"] = realigned_forms[form_id]
-                row["Alignment_source"] = [source.id]
+                row["Source"] = [source.id]
+            else:
+                row["Alignment"] = defaults[form_id]["Alignment"]
+                row["Source"] = defaults[form_id]["Source"] + [source.id]
             print(row)
             yield row
         for j, (form_id, new_alignment) in enumerate(realigned_forms.items()):
-            row["ID"] = last_row_id + t(i+j+1)
             row = defaults[form_id].copy()
+            row["ID"] = last_row_id + t(i+j+1)
             row["Alignment"] = realigned_forms[form_id]
-            row["Source"] = defaults["Source"] + [source.id]
+            row["Source"].append(source.id)
             print(row)
             yield row
-
-    try:
-        source = dataset.sources[args.source_id]
-    except ValueError:
-        source = Source('misc', id_=args.source_id, year=datetime.date.today().year)
-        dataset.sources.add(source)
 
     dataset["CognateTable"].write(itertools.chain(original_rows, new_rows(
         data_on_form,
