@@ -2,6 +2,8 @@
 
 """Convert between LingPy and CLDF (pre-1.0 or Wordlist) formats"""
 
+import bisect
+
 import sys
 
 import csv
@@ -13,8 +15,7 @@ def cldf_to_lingpy(columns, replacement={
         'Parameter_ID': 'CONCEPT',
         'Language_ID': 'DOCULECT',
         'Cognateset_ID': 'COGID',
-        'Cognate Set': 'COGID',
-        'Value': 'IPA',
+        'Form': 'IPA',
         'ID': 'REFERENCE',
         'Segments': 'TOKENS'}):
     """Turn CLDF column headers into LingPy column headers."""
@@ -53,7 +54,12 @@ def no_separators_or_newlines(string, separator="\t"):
 FIRSTCOLS = ["ID"]
 
 def cldf(args):
-    """Load a CLDF dataset and turn it into a LingPy word list file"""
+    """Load a CLDF dataset and turn it into a LingPy word list file
+
+    Sort by cognateset, for easier visual inspection of certain things I'm
+    interested in.
+
+    """
     input, output = args.args
     max_id = 0
     cogids = {None: 0}
@@ -65,69 +71,43 @@ def cldf(args):
         cognate_set_iter = []
     cognate_set = {}
     for row in cognate_set_iter:
+        row["COGNATESETTABLE_ID"] = row.pop("ID")
         form = row.pop("Form_ID")
         cognate_set[form] = row
+    all_rows = []
+    cognate_codes = []
     for i, row in enumerate(primary_table.iterdicts()):
         row.update(cognate_set.get(row["ID"], {}))
-        if i == 0:
-            writer = csv.DictWriter(
-                open(output, 'w'), delimiter="\t",
-                fieldnames=FIRSTCOLS + [
-                    cldf_to_lingpy(c)
-                    for c in row.keys()
-                    if cldf_to_lingpy(c) not in FIRSTCOLS])
-            writer.writeheader()
         o_row = {}
         for key, value in row.items():
             if isinstance(value, str):
+                # Strings need special characters removed
                 o_row[cldf_to_lingpy(key)] = no_separators_or_newlines(value)
             else:
                 try:
+                    # Sequences (Alignment, Segments) need conversion and
+                    # special characters removed
                     o_row[cldf_to_lingpy(key)] = no_separators_or_newlines(
                         " ".join(value))
                 except TypeError:
+                    # Other values are taken as-is
                     o_row[cldf_to_lingpy(key)] = value
-        try:
-            o_row["ID"] = int(o_row["ID"])
-        except (KeyError, ValueError):
-            o_row["ID"] = max_id + 1
-        max_id = max(max_id, o_row["ID"])
+        o_row["ID"] = i + 1
         o_row.setdefault("COGID", cogids.setdefault(row.get("Cognateset_ID"), len(cogids)))
-        o_row.setdefault("ID", i)
-        i += 1
-        writer.writerow(o_row)
+        all_rows.append(o_row)
 
-
-def cldfwordlist(args):
-    input, output = args.args
-    max_id = 0
-    reader = csv.DictReader(open(input), delimiter=",")
-    cogids = {None: 0}
-    for i, row in enumerate(reader):
         if i == 0:
             writer = csv.DictWriter(
                 open(output, 'w'), delimiter="\t",
-                fieldnames=FIRSTCOLS + [
-                    cldf_to_lingpy(c)
-                    for c in reader.fieldnames
-                    if cldf_to_lingpy(c) not in FIRSTCOLS])
+                fieldnames=sorted(o_row.keys(), key=lambda x: x not in FIRSTCOLS))
             writer.writeheader()
-        o_row = {
-            cldf_to_lingpy(key): no_separators_or_newlines(value)
-            for key, value in row.items()}
-        try:
-            o_row["ID"] = int(o_row["ID"])
-        except (KeyError, ValueError):
-            o_row["ID"] = max_id + 1
-        max_id = max(max_id, o_row["ID"])
-        if "Cognateset_ID" in row:
-            o_row.setdefault("COGID", cogids.setdefault(
-                row["Cognateset_ID"], len(cogids)))
-        elif "Cognate Set" in row:
-            # This is non-standard CLDF and therefore deprecated!
-            o_row.setdefault("COGID", cogids.setdefault(
-                row["Cognate Set"], len(cogids)))
-        writer.writerow(o_row)
+    try:
+        all_rows = sorted(all_rows, key=lambda row: row["COGID"])
+    except TypeError:
+        # Incomparable COGIDs?
+        pass
+    for row in all_rows:
+        writer.writerow(row)
 
 
 def lingpy(args):
@@ -147,5 +127,5 @@ def lingpy(args):
 
 
 if __name__ == "__main__":
-    parser = ArgumentParser('lingpycldf', cldf, cldfwordlist, lingpy)
+    parser = ArgumentParser('lingpycldf', cldf, lingpy)
     sys.exit(parser.main())
