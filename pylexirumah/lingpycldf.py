@@ -64,7 +64,7 @@ def cldf(args):
     max_id = 0
     cogids = {None: 0}
     dataset = pycldf.dataset.Wordlist.from_metadata(input)
-    primary_table = dataset[dataset.primary_table]
+
     try:
         cognate_set_iter = dataset["CognateTable"].iterdicts()
     except KeyError:
@@ -74,9 +74,10 @@ def cldf(args):
         row["COGNATESETTABLE_ID"] = row.pop("ID")
         form = row.pop("Form_ID")
         cognate_set[form] = row
+
     all_rows = []
     cognate_codes = []
-    for i, row in enumerate(primary_table.iterdicts()):
+    for i, row in enumerate(dataset["FormTable"].iterdicts()):
         row.update(cognate_set.get(row["ID"], {}))
         o_row = {}
         for key, value in row.items():
@@ -101,6 +102,7 @@ def cldf(args):
                 open(output, 'w'), delimiter="\t",
                 fieldnames=sorted(o_row.keys(), key=lambda x: x not in FIRSTCOLS))
             writer.writeheader()
+            
     try:
         all_rows = sorted(all_rows, key=lambda row: row["COGID"])
     except TypeError:
