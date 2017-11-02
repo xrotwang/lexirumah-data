@@ -62,7 +62,7 @@ if __name__ == "__main__":
     alignments = {}
     for row in csv.DictReader(
             args.edictor, delimiter="\t"):
-        if row["ID"].startswith("#") or not any(row.values()):
+        if row["ID"].startswith("#") or not row["ID"] or not row["REFERENCE"]:
             # LingPy has comment rows
             continue
         new_cognateset_assignments[row["REFERENCE"]] = row[args.cogid]
@@ -144,7 +144,7 @@ if __name__ == "__main__":
                 new_name = new_name + "X"
             official_cognatesets[new_name] = set()
             for form in new_cognatesets[other]:
-                if official_cognateset_assignments[form] != new_name:
+                if official_cognateset_assignments.get(form) != new_name:
                     moved_forms[form] = new_name
                 official_cognatesets[new_name].add(form)
             other_seen.add(other)
@@ -159,8 +159,9 @@ if __name__ == "__main__":
     def new_rows(defaults, last_row_id, moved_forms, realigned_forms, source):
         t = type(last_row_id)
         i = 0
+        empty = {"Alignment": [], "Source": []}
         for i, (form_id, new_cognateset) in enumerate(moved_forms.items()):
-            row = defaults[form_id].copy()
+            row = defaults.get(form_id, empty).copy()
             row["ID"] = last_row_id + t(i+1)
             row["Form_ID"] = form_id
             row["Cognateset_ID"] = new_cognateset
@@ -175,8 +176,8 @@ if __name__ == "__main__":
         for j, (form_id, new_alignment) in enumerate(realigned_forms.items()):
             if not new_alignment:
                 continue
-            row = defaults[form_id].copy()
-            row["ID"] = last_row_id + t(i+j+1)
+            row = defaults.get(form_id, empty).copy()
+            row["ID"] = last_row_id + t(i+j+2)
             row["Alignment"] = realigned_forms[form_id]
             row["Source"].append(source.id)
             print(row)
