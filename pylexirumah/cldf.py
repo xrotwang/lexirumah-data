@@ -15,6 +15,14 @@ from clldutils.csvw.metadata import Column
 from pyclpa.base import Sound
 from segment import tokenize_clpa, CLPA
 
+# from geo_lookup import get_region
+from pybtex.database import BibliographyData, Entry
+
+class C:
+    address = "ENUS"
+def get_region(lat, lon):
+    return C()
+
 REPLACE = {
     " ": "_",
     '’': "'",
@@ -40,6 +48,7 @@ REPLACE = {
 
 
 def identifier(string):
+    """Turn a string into a python identifier."""
     return re.sub('(\W|^(?=\d))+','_', string).strip("_")
 
 
@@ -62,7 +71,7 @@ def resolve_brackets(string):
         closing = string.index(")")
         for form in resolve_brackets(string[:opening] + string[closing+1:]):
             yield form
-        for form in resolve_brackets(string[:opening] +string[opening+1:closing] + string[closing+1:]):
+        for form in resolve_brackets(string[:opening] + string[opening+1:closing] + string[closing+1:]):
             yield form
     else:
         yield string
@@ -71,10 +80,33 @@ def resolve_brackets(string):
 def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     dataset = Wordlist.from_metadata(path)
 
+    dataset_metadata = json.load(original.parent.joinpath("metadata.json").open())
+    corresponding = {
+        "editors": "dc:creator",
+        "description": "dc:description",
+        "id": "dc:identifier",
+        "license": "dc:license",
+        "publisher_name": "dc:publisher",
+        "name": "dc:title"}
+    for key, value in dataset_metadata.items():
+        if key in corresponding:
+            dataset.tablegroup.common_props[corresponding[key]] = value
+        else:
+            dataset.tablegroup.common_props['special:'+key] = value
+
     # Explicitly create a language table
     dataset.add_component(
         'LanguageTable')
-    dataset["LanguageTable"].tableSchema.columns.append(
+    dataset["LanguageTable"].tableSchema.columns[2].virtual = True
+    dataset["LanguageTable"].tableSchema.columns[2].valueURL = "Papunesia"
+    dataset["LanguageTable"].tableSchema.columns.insert(3,
+        Column(name="Region",
+            propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+            datatype="string"))
+    dataset["LanguageTable"].tableSchema.columns.insert(2,
+        Column(name="Culture",
+            datatype="string"))
+    dataset["LanguageTable"].tableSchema.columns.insert(1,
         Column(name="Family",
             propertyUrl="http://glottolog.org/glottolog/family",
             datatype="string"))
@@ -88,7 +120,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
             datatype="string"))
 
     # Explicitly create a parameter table
-    dataset.add_component('ParameterTable', "English", "Indonesian", "Semantic_Field", "Elicitation_Notes", "Concepticon_ID", "Comment")
+    dataset.add_component('ParameterTable', "English", "Indonesian", "Semantic_Field", "Elicitation_Notes", "Core_Set", "Concepticon_ID", "Comment")
 
     # Explicitly create cognate table
     dataset.add_component(
@@ -118,7 +150,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     concept_file = original.parent.joinpath("concepts.tsv").open(encoding=encoding)
     if "16" in encoding:
         bom = concept_file.read(1)
-        if bom == ('\ufeff') or bom == ('\ufeff'):
+        if bom == ('\ufeff') or bom == ('\ufffe'):
             pass
         else:
             concept_file.seek(0, 0)
@@ -137,18 +169,42 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
 
     # Generate bibliography skeleton
     for metadata in original.glob("**/*.json"):
-        source_id = identifier(metadata.stem)
-        if source_id.endswith("-metadata"):
-            source_id = source_id[:-len("-metadata")]
-        if source_id.endswith(".csv") or source_id.endswith(".tsv"):
-            source_id = source_id[:-len(".Xsv")]
         source_data = json.load(metadata.open())
+        try:
+            source_id = identifier(source_data["Source"])
+        except KeyError:
+            source_id = identifier(metadata.parent.name + "/" + metadata.name)
+            if source_id.endswith("_metadata_json"):
+                source_id = source_id[:-14]
+        print(source_id)
         bibitem = {}
-        for key in source_data:
-            bibitem[identifier(key)] = str(source_data[key])
+        for key, value in source_data.items():
+            if key == "Source":
+                continue
+            elif key == "sources":
+                if len(value) == 0:
+                    continue
+                while len(value) > 1:
+                    bi = bibitem.copy()
+                    val = value.pop(-1)
+                    if type(val) == dict:
+                        for key, val in val.items():
+                            bi[identifier(key)] = str(val)
+                        dataset.sources.add(Source(genre='misc', id_=source_id+str(len(value)), **bibitem))
+                    else:
+                        bibitem["note"] = str(value)
+                value = value[0]
+                if type(value) == dict:
+                    for key, value in value.items():
+                        bibitem[identifier(key)] = str(value)
+                else:
+                    bibitem["note"] = str(value)
+            else:
+                bibitem[identifier(key)] = str(value)
         dataset.sources.add(Source(genre='misc', id_=source_id, **bibitem))
 
 
+    print("Sources encountered:")
     # Load the original data and transform into CLDF
     FormTable = []
     CognateTable = []
@@ -169,20 +225,25 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
             cm = line["Comment"]
             loan = line.get("Loan", False)
             value = line["Value"]
-            if identifier(line.get("Reference", "")):
-                name = identifier(line["Reference"])
+            src = line.get("Source", item.stem)
+            id = identifier(src)
+            if id not in dataset.sources:
+                print(id)
+                dataset.sources.add(Source(
+                    genre='misc', id_=id, title=src))
+            sources = [identifier(src)]
+
+            for source in line.get("Reference", "").split(";"):
+                if not identifier(source.strip()):
+                    continue
                 try:
-                    dataset.sources[name]
+                    src = dataset.sources[identifier(source)]
                 except ValueError:
-                    dataset.sources.add(Source(genre='misc', id_=name))
-                sources = [name]
-            else:
-                sources = []
-            try:
-                dataset.sources[identifier(item.stem)]
-                sources.append(identifier(item.stem))
-            except ValueError:
-                pass
+                    
+                    dataset.sources.add(Source(
+                        genre='misc', id_=identifier(source), title=source))
+                    src = dataset.sources[identifier(source)]
+                sources.append(src.id)
 
             for bracket_resolution in resolve_brackets(value):
                 clpa_segments = tokenize_clpa(
@@ -269,12 +330,14 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
         LanguageTable.append({
             "ID": id,
             "Name": line["Language name (-dialect)"],
-            "Latitude": lat,
-            "Longitude": lon,
             "Comment": line["Comments"],
             "Description": line["Description"],
             "Glottocode": line["Glottolog"] or glottolog_from_id,
             "Family": line["Family"]})
+        if lat and lon:
+            LanguageTable[-1].update({
+                "Latitude": lat, "Longitude": lon,
+                "Region": get_region(lat, lon).address})
 
     # Write data back
     dataset.write(FormTable=FormTable,
@@ -288,21 +351,13 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("cldf", type=Path, default=Path(__file__).parent.parent.joinpath("cldf"))
-    parser.add_argument("datasets", type=Path, default=Path(__file__).parent.parent.joinpath("datasets"))
+    parser.add_argument("cldf", type=Path, nargs="?", default=Path(__file__).parent.parent.joinpath("cldf"))
+    parser.add_argument("datasets", type=Path, nargs="?", default=Path(__file__).parent.parent.joinpath("datasets"))
     parser.add_argument("--encoding", default="utf-8")
     parser.add_argument("--featureid", default="English=English")
-    parser.add_argument("--db", action="store_true", default=False,
-                        help="Create a DB from the data in `cldf.sqlite`")
     args = parser.parse_args()
     path = args.cldf
     original = args.datasets
     # Decide which column to use as key and as foreignKey
     concept_id, foreign_key = args.featureid.split("=")
     main(path, original, concept_id, foreign_key, encoding=args.encoding)
-
-    if args.db:
-        from pycldf.db import Database
-        db = Database("cldf.sqlite")
-        db.create(force=True)
-        db.load(dataset)
