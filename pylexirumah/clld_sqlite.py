@@ -317,7 +317,6 @@ def db_main():
             primary = False
             continue
 
-        contributor_name = HumanName(editor)
         contributor_id = identifier(editor)
         # FIXME: Don't use ID hack, instead hand contributors dict
         # through.
@@ -326,7 +325,7 @@ def db_main():
         except KeyError:
             contributors[contributor_id] = contributor = Contributor(
                 id=contributor_id,
-                name=str(contributor_name))
+                name=editor)
         DBSession.add(Editor(dataset=ds, contributor=contributor,
                              ord=i, primary=primary))
 

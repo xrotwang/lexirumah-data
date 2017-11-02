@@ -76,8 +76,18 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     dataset = Wordlist.from_metadata(path)
 
     dataset_metadata = json.load(original.parent.joinpath("metadata.json").open())
+    corresponding = {
+        "editors": "dc:creator",
+        "description": "dc:description",
+        "id": "dc:identifier",
+        "license": "dc:license",
+        "publisher_name": "dc:publisher",
+        "name": "dc:title"}
     for key, value in dataset_metadata.items():
-        dataset.tablegroup.common_props['dc:'+key] = value
+        if key in corresponding:
+            dataset.tablegroup.common_props[corresponding[key]] = value
+        else:
+            dataset.tablegroup.common_props['special:'+key] = value
 
     # Explicitly create a language table
     dataset.add_component(
