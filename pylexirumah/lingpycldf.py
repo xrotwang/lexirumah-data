@@ -1,12 +1,13 @@
 #!/usr/bin/env python
 
-"""Convert between LingPy and CLDF formats"""
+"""Convert between LingPy and CLDF (pre-1.0 or Wordlist) formats"""
 
 import bisect
 
 import sys
 
 import csv
+import collections
 
 import pycldf.dataset
 from clldutils.clilib import ArgumentParser
@@ -14,7 +15,6 @@ from clldutils.clilib import ArgumentParser
 def cldf_to_lingpy(columns, replacement={
         'Parameter_ID': 'CONCEPT',
         'Language_ID': 'DOCULECT',
-        'Cognateset_ID': 'COGID',
         'Form': 'IPA',
         'ID': 'REFERENCE',
         'Segments': 'TOKENS'}):
@@ -40,6 +40,7 @@ def lingpy_to_cldf(columns, replacement={
 
 
 def no_separators_or_newlines(string, separator="\t"):
+    #TODO: Docstring missing.
     if separator == "\t":
         string = string.replace("\n", " ")
         return string.replace("\t", " ")
@@ -51,14 +52,14 @@ def no_separators_or_newlines(string, separator="\t"):
         return string.replace(separator, "\t")
 
 
-FIRSTCOLS = ["ID"]
+FIRSTCOLS = ["ID", "COGID"]
+
 
 def cldf(args):
     """Load a CLDF dataset and turn it into a LingPy word list file
 
     Sort by cognateset, for easier visual inspection of certain things I'm
     interested in.
-
     """
     input, output = args.args
     max_id = 0
@@ -70,16 +71,21 @@ def cldf(args):
     except KeyError:
         cognate_set_iter = []
     cognate_set = {}
-    for row in cognate_set_iter:
-        row["COGNATESETTABLE_ID"] = row.pop("ID")
-        form = row.pop("Form_ID")
-        cognate_set[form] = row
+    for cognate_table_row in cognate_set_iter:
+        cognate_table_row["COGNATESETTABLE_ID"] = cognate_table_row.pop("ID")
+        form = cognate_table_row.pop("Form_ID")
+        cognate_set[form] = cognate_table_row
 
     all_rows = []
     cognate_codes = []
     for i, row in enumerate(dataset["FormTable"].iterdicts()):
-        row.update(cognate_set.get(row["ID"], {}))
-        o_row = {}
+        try:
+            cognate_table_row = cognate_set[row["ID"]]
+            row.update(cognate_table_row)
+        except KeyError:
+            pass
+
+        o_row = collections.OrderedDict()
         for key, value in row.items():
             if isinstance(value, str):
                 # Strings need special characters removed
@@ -94,13 +100,17 @@ def cldf(args):
                     # Other values are taken as-is
                     o_row[cldf_to_lingpy(key)] = value
         o_row["ID"] = i + 1
-        o_row.setdefault("COGID", cogids.setdefault(row.get("Cognateset_ID"), len(cogids)))
+        if "COGID" not in o_row.keys():
+            o_row["COGID"] =cogids.setdefault(row.get("Cognateset_ID"), len(cogids))
         all_rows.append(o_row)
 
         if i == 0:
+            # Rearrange the headers so that 'ID' and 'COGID' are the first two columns.
+            for header in reversed(FIRSTCOLS):
+                o_row.move_to_end(header, last=False)
             writer = csv.DictWriter(
-                open(output, 'w'), delimiter="\t",
-                fieldnames=sorted(o_row.keys(), key=lambda x: x not in FIRSTCOLS))
+                open(output, 'w', encoding='utf-8'), delimiter="\t",
+                fieldnames=o_row.keys())
             writer.writeheader()
             
     try:

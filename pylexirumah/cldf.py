@@ -10,13 +10,12 @@ import argparse
 from clldutils.path import Path
 from pycldf.sources import Source
 from pycldf.dataset import Wordlist
-from clldutils.csvw.datatypes import integer
-from clldutils.csvw.metadata import Column, Table, Schema, ForeignKey
+from clldutils.csvw.metadata import Column
 
 from pyclpa.base import Sound
 from segment import tokenize_clpa, CLPA
 
-from geo_lookup import get_region
+# from geo_lookup import get_region
 from pybtex.database import BibliographyData, Entry
 
 class C:
@@ -98,11 +97,15 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     # Explicitly create a language table
     dataset.add_component(
         'LanguageTable')
-    dataset["LanguageTable"].tableSchema.columns.append(
+    dataset["LanguageTable"].tableSchema.columns[2].virtual = True
+    dataset["LanguageTable"].tableSchema.columns.insert(3,
         Column(name="Region",
             propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#macroarea",
             datatype="string"))
-    dataset["LanguageTable"].tableSchema.columns.append(
+    dataset["LanguageTable"].tableSchema.columns.insert(2,
+        Column(name="Culture",
+            datatype="string"))
+    dataset["LanguageTable"].tableSchema.columns.insert(1,
         Column(name="Family",
             propertyUrl="http://glottolog.org/glottolog/family",
             datatype="string"))
@@ -116,7 +119,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
             datatype="string"))
 
     # Explicitly create a parameter table
-    dataset.add_component('ParameterTable', "English", "Indonesian", "Semantic_Field", "Elicitation_Notes", "Concepticon_ID", "Comment")
+    dataset.add_component('ParameterTable', "English", "Indonesian", "Semantic_Field", "Elicitation_Notes", "Core_Set", "Concepticon_ID", "Comment")
 
     # Explicitly create cognate table
     dataset.add_component(
@@ -347,8 +350,8 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("cldf", type=Path, default=Path(__file__).parent.parent.joinpath("cldf"))
-    parser.add_argument("datasets", type=Path, default=Path(__file__).parent.parent.joinpath("datasets"))
+    parser.add_argument("cldf", type=Path, nargs="?", default=Path(__file__).parent.parent.joinpath("cldf"))
+    parser.add_argument("datasets", type=Path, nargs="?", default=Path(__file__).parent.parent.joinpath("datasets"))
     parser.add_argument("--encoding", default="utf-8")
     parser.add_argument("--featureid", default="English=English")
     args = parser.parse_args()
