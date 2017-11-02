@@ -15,6 +15,9 @@ from clldutils.csvw.metadata import Column
 from pyclpa.base import Sound
 from segment import tokenize_clpa, CLPA
 
+from geo_lookup import get_region
+from pybtex.database import BibliographyData, Entry
+
 REPLACE = {
     " ": "_",
     '’': "'",
@@ -71,9 +74,17 @@ def resolve_brackets(string):
 def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     dataset = Wordlist.from_metadata(path)
 
+    dataset_metadata = json.load(original.parent.joinpath("metadata.json").open())
+    for key, value in dataset_metadata.items():
+        dataset.tablegroup.common_props['dc:'+key] = value
+
     # Explicitly create a language table
     dataset.add_component(
         'LanguageTable')
+    dataset["LanguageTable"].tableSchema.columns.append(
+        Column(name="Region",
+            propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+            datatype="string"))
     dataset["LanguageTable"].tableSchema.columns.append(
         Column(name="Family",
             propertyUrl="http://glottolog.org/glottolog/family",
@@ -137,15 +148,39 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
 
     # Generate bibliography skeleton
     for metadata in original.glob("**/*.json"):
-        source_id = identifier(metadata.stem)
-        if source_id.endswith("-metadata"):
-            source_id = source_id[:-len("-metadata")]
-        if source_id.endswith(".csv") or source_id.endswith(".tsv"):
-            source_id = source_id[:-len(".Xsv")]
         source_data = json.load(metadata.open())
+        try:
+            source_id = identifier(source_data["Source"])
+        except KeyError:
+            source_id = identifier(metadata.stem)
+            if source_id.endswith("metadata"):
+                source_id = source_id[:-len("-metadata")]
+            if source_id.endswith("csv") or source_id.endswith("tsv"):
+                source_id = source_id[:-len(".Xsv")]
         bibitem = {}
-        for key in source_data:
-            bibitem[identifier(key)] = str(source_data[key])
+        for key, value in source_data.items():
+            if key == "Source":
+                continue
+            elif key == "sources":
+                if len(value) == 0:
+                    continue
+                while len(value) > 1:
+                    bi = bibitem.copy()
+                    val = value.pop(-1)
+                    if type(val) == dict:
+                        for key, val in val.items():
+                            bi[identifier(key)] = str(val)
+                        dataset.sources.add(Source(genre='misc', id_=source_id+str(len(value)), **bibitem))
+                    else:
+                        bibitem["note"] = str(value)
+                value = value[0]
+                if type(value) == dict:
+                    for key, value in value.items():
+                        bibitem[identifier(key)] = str(value)
+                else:
+                    bibitem["note"] = str(value)
+            else:
+                bibitem[identifier(key)] = str(value)
         dataset.sources.add(Source(genre='misc', id_=source_id, **bibitem))
 
 
@@ -169,20 +204,24 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
             cm = line["Comment"]
             loan = line.get("Loan", False)
             value = line["Value"]
-            if identifier(line.get("Reference", "")):
-                name = identifier(line["Reference"])
-                try:
-                    dataset.sources[name]
-                except ValueError:
-                    dataset.sources.add(Source(genre='misc', id_=name))
-                sources = [name]
-            else:
-                sources = []
+            src = line.get("Source", item.stem)
             try:
-                dataset.sources[identifier(item.stem)]
-                sources.append(identifier(item.stem))
+                dataset.sources[identifier(src)]
             except ValueError:
-                pass
+                dataset.sources.add(Source(
+                    genre='misc', id_=identifier(src), title=src))
+            sources = [identifier(src)]
+
+            for source in line.get("Reference", "").split(";"):
+                if not identifier(source.strip()):
+                    continue
+                try:
+                    src = dataset.sources[identifier(source)]
+                except ValueError:
+                    dataset.sources.add(Source(
+                        genre='misc', id_=identifier(source), title=source))
+                    src = dataset.sources[identifier(source)]
+                sources.append(src.id)
 
             for bracket_resolution in resolve_brackets(value):
                 clpa_segments = tokenize_clpa(
@@ -269,12 +308,14 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
         LanguageTable.append({
             "ID": id,
             "Name": line["Language name (-dialect)"],
-            "Latitude": lat,
-            "Longitude": lon,
             "Comment": line["Comments"],
             "Description": line["Description"],
             "Glottocode": line["Glottolog"] or glottolog_from_id,
             "Family": line["Family"]})
+        if lat and lon:
+            LanguageTable[-1].update({
+                "Latitude": lat, "Longitude": lon,
+                "Region": get_region(lat, lon).address})
 
     # Write data back
     dataset.write(FormTable=FormTable,

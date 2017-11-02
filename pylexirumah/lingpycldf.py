@@ -65,6 +65,7 @@ def cldf(args):
     max_id = 0
     cogids = {None: 0}
     dataset = pycldf.dataset.Wordlist.from_metadata(input)
+
     try:
         cognate_set_iter = dataset["CognateTable"].iterdicts()
     except KeyError:
@@ -111,6 +112,7 @@ def cldf(args):
                 open(output, 'w', encoding='utf-8'), delimiter="\t",
                 fieldnames=o_row.keys())
             writer.writeheader()
+            
     try:
         all_rows = sorted(all_rows, key=lambda row: row["COGID"])
     except TypeError:
