@@ -49,6 +49,7 @@ REPLACE = {
 
 
 def identifier(string):
+    """Turn a string into a python identifier."""
     return re.sub('(\W|^(?=\d))+','_', string).strip("_")
 
 
@@ -71,7 +72,7 @@ def resolve_brackets(string):
         closing = string.index(")")
         for form in resolve_brackets(string[:opening] + string[closing+1:]):
             yield form
-        for form in resolve_brackets(string[:opening] +string[opening+1:closing] + string[closing+1:]):
+        for form in resolve_brackets(string[:opening] + string[opening+1:closing] + string[closing+1:]):
             yield form
     else:
         yield string
@@ -168,11 +169,10 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
         try:
             source_id = identifier(source_data["Source"])
         except KeyError:
-            source_id = identifier(metadata.stem)
-            if source_id.endswith("metadata"):
-                source_id = source_id[:-len("-metadata")]
-            if source_id.endswith("csv") or source_id.endswith("tsv"):
-                source_id = source_id[:-len(".Xsv")]
+            source_id = identifier(metadata.parent.name + "/" + metadata.name)
+            if source_id.endswith("_metadata_json"):
+                source_id = source_id[:-14]
+        print(source_id)
         bibitem = {}
         for key, value in source_data.items():
             if key == "Source":
@@ -200,6 +200,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
         dataset.sources.add(Source(genre='misc', id_=source_id, **bibitem))
 
 
+    print("Sources encountered:")
     # Load the original data and transform into CLDF
     FormTable = []
     CognateTable = []
@@ -221,11 +222,11 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
             loan = line.get("Loan", False)
             value = line["Value"]
             src = line.get("Source", item.stem)
-            try:
-                dataset.sources[identifier(src)]
-            except ValueError:
+            id = identifier(src)
+            if id not in dataset.sources:
+                print(id)
                 dataset.sources.add(Source(
-                    genre='misc', id_=identifier(src), title=src))
+                    genre='misc', id_=id, title=src))
             sources = [identifier(src)]
 
             for source in line.get("Reference", "").split(";"):
@@ -234,6 +235,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
                 try:
                     src = dataset.sources[identifier(source)]
                 except ValueError:
+                    
                     dataset.sources.add(Source(
                         genre='misc', id_=identifier(source), title=source))
                     src = dataset.sources[identifier(source)]
@@ -355,9 +357,3 @@ if __name__ == "__main__":
     # Decide which column to use as key and as foreignKey
     concept_id, foreign_key = args.featureid.split("=")
     main(path, original, concept_id, foreign_key, encoding=args.encoding)
-
-    if args.db:
-        from pycldf.db import Database
-        db = Database("cldf.sqlite")
-        db.create(force=True)
-        db.load(dataset)

@@ -39,7 +39,7 @@ try:
     Identifier = common.Identifier
     LanguageIdentifier = common.LanguageIdentifier
     from lexibank.models import (
-        LexibankLanguage, Concept, Provider, Counterpart,
+        LexibankLanguage, LexibankSource, Concept, Provider, Counterpart,
         CognatesetCounterpart, Cognateset)
     from clld_glottologfamily_plugin.models import Family
     model_is_available = True
@@ -85,11 +85,14 @@ def import_concepticon(wordlist):
     concepticon = {}
     for row in wordlist["ParameterTable"].iterdicts():
         id = row["ID"]
+        concepticon_id = row.get('Concepticon_ID')
+        if concepticon_id in ["0", "None", "???"]:
+            concepticon_id = None
         concepticon[id] = Concept(
             id=id,
             # GLOSS
             name=row["English"],
-            concepticon_id=row.get('Concepticon_ID'),
+            concepticon_id=concepticon_id,
             semanticfield=row.get("Semantic_field"))
     return concepticon
 
@@ -179,13 +182,9 @@ def import_sources(wordlist, contributors = {}):
         name = source.text()
         while name in by_name:
             name += " [1]"
-        contrib = Provider(
+        contrib = LexibankSource(
             id=source.id,
-            name=name,
-            description=source.get("abstract"),
-            license=source.entry.fields.get("license", "N/A"),
-            jsondata={k: v for k, v in source.items()},
-            url=source.entry.fields.get("url", source.entry.fields.get("howpublished")))
+            name=source.name)
         DBSession.add(contrib)
         contributions[source.id] = contrib
         by_name[name] = contrib
@@ -212,8 +211,8 @@ def import_forms(
         wordlist,
         concepticon,
         languages,
-        contributions,
-        contributors={},
+        sources,
+        contribution,
         trust=[],
         valuesets={},
         values={},
@@ -236,7 +235,7 @@ def import_forms(
     for row in wordlist["FormTable"].iterdicts():
             language = languages[row["Language_ID"]]
             feature = concepticon[row["Parameter_ID"]]
-            sources = [contributions[s] for s in row["Source"]]
+            sources = [sources[s] for s in row["Source"]]
 
             # Create the objects representing the form in the
             # database. This is a value in a value set.
@@ -250,7 +249,7 @@ def import_forms(
                     vsid,
                     parameter=feature,
                     language=language,
-                    contribution=sources[0])
+                    contribution=contribution)
             vid = row["ID"]
             form = Counterpart(
                     id=vid,
@@ -261,28 +260,23 @@ def import_forms(
             DBSession.add(form)
     return forms
 
-def import_cognatesets(dataset, forms, sources, cognatesets={}):
+
+def import_cognatesets(dataset, forms, sources, contribution, cognatesets={}):
     for row in dataset["CognateTable"].iterdicts():
         print(row)
         cognateset_id = row["Cognateset_ID"]
         try:
             cognateset = cognatesets[cognateset_id]
         except KeyError:
-            try:
-                provider = sources[row["Source"][0]]
-            except (IndexError, KeyError):
-                provider = sources.setdefault(None, Provider(id="other_cognatecodes",
-                                    name="Unknown cognate or similarity codes"))
             cognateset = cognatesets[cognateset_id] = Cognateset(
                 id=str(len(cognatesets)),
-                contribution=provider,
+                contribution=contribution,
                 name="*" + forms[row["Form_ID"]].name)
         DBSession.add(
             CognatesetCounterpart(
                 cognateset=cognateset,
                 alignment=" ".join(row["Alignment"]),
                 counterpart=forms[row["Form_ID"]]))
-
 
 
 def db_main():
@@ -308,6 +302,14 @@ def db_main():
             "license_name": "Creative Commons Attribution 4.0 International License"})
     DBSession.add(ds)
 
+    provider = Provider(
+        id=ds.id,
+        name=ds.name,
+        description=source.get("abstract", name),
+        license=source.entry.fields.get("license", "N/A"),
+        jsondata={k: v for k, v in source.items()},
+        url=source.entry.fields.get("url", source.entry.fields.get("howpublished")))
+
     contributors = {}
     primary = True
     for i, editor in enumerate(g("dc:creator", [])):
@@ -332,8 +334,8 @@ def db_main():
     concepticon = import_concepticon(dataset)
     languages = import_languages(dataset)
     sources = import_sources(dataset)
-    forms = import_forms(dataset, concepticon, languages, sources)
-    cognatesets = import_cognatesets(dataset, forms, sources)
+    forms = import_forms(dataset, concepticon, languages, sources, contribution=provider)
+    cognatesets = import_cognatesets(dataset, forms, sources, contribution=provider)
 
 
 def main():
