@@ -19,6 +19,11 @@ from segment import tokenize_clpa, CLPA
 from geo_lookup import get_region
 from pybtex.database import BibliographyData, Entry
 
+class C:
+    address = "ENUS"
+def get_region(lat, lon):
+    return C()
+
 REPLACE = {
     " ": "_",
     '’': "'",
@@ -140,7 +145,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     concept_file = original.parent.joinpath("concepts.tsv").open(encoding=encoding)
     if "16" in encoding:
         bom = concept_file.read(1)
-        if bom == ('\ufeff') or bom == ('\ufeff'):
+        if bom == ('\ufeff') or bom == ('\ufffe'):
             pass
         else:
             concept_file.seek(0, 0)
@@ -344,8 +349,6 @@ if __name__ == "__main__":
     parser.add_argument("datasets", type=Path, default=Path(__file__).parent.parent.joinpath("datasets"))
     parser.add_argument("--encoding", default="utf-8")
     parser.add_argument("--featureid", default="English=English")
-    parser.add_argument("--db", action="store_true", default=False,
-                        help="Create a DB from the data in `cldf.sqlite`")
     args = parser.parse_args()
     path = args.cldf
     original = args.datasets
