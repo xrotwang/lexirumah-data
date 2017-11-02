@@ -98,6 +98,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     dataset.add_component(
         'LanguageTable')
     dataset["LanguageTable"].tableSchema.columns[2].virtual = True
+    dataset["LanguageTable"].tableSchema.columns[2].valueURL = "Papunesia"
     dataset["LanguageTable"].tableSchema.columns.insert(3,
         Column(name="Region",
             propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#macroarea",
