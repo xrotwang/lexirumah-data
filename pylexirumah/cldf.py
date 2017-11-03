@@ -18,10 +18,12 @@ from segment import tokenize_clpa, CLPA
 # from geo_lookup import get_region
 from pybtex.database import BibliographyData, Entry
 
+
 class C:
     address = "ENUS"
 def get_region(lat, lon):
     return C()
+
 
 REPLACE = {
     " ": "_",
@@ -49,7 +51,7 @@ REPLACE = {
 
 def identifier(string):
     """Turn a string into a python identifier."""
-    return re.sub('(\W|^(?=\d))+','_', string).strip("_")
+    return re.sub('(\W|^(?=\d))+', '_', string).strip("_")
 
 
 def resolve_brackets(string):
@@ -332,7 +334,9 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
             "Name": line["Language name (-dialect)"],
             "Comment": line["Comments"],
             "Description": line["Description"],
-            "Glottocode": line["Glottolog"] or glottolog_from_id,
+            "Iso": line["ISO_code"],
+            "Culture": line["Culture"],
+            "glottocode": line["Glottolog"] or glottolog_from_id,
             "Family": line["Family"]})
         if lat and lon:
             LanguageTable[-1].update({
