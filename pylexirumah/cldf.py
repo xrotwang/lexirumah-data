@@ -15,14 +15,14 @@ from clldutils.csvw.metadata import Column
 from pyclpa.base import Sound
 from segment import tokenize_clpa, CLPA
 
-# from geo_lookup import get_region
+from geo_lookup import get_region
 from pybtex.database import BibliographyData, Entry
 
 
-class C:
-    address = "ENUS"
-def get_region(lat, lon):
-    return C()
+# class C:
+#     address = "ENUS"
+# def get_region(lat, lon):
+#     return C()
 
 
 REPLACE = {
