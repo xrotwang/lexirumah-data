@@ -99,8 +99,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
     # Explicitly create a language table
     dataset.add_component(
         'LanguageTable')
-    dataset["LanguageTable"].tableSchema.columns[2].virtual = True
-    dataset["LanguageTable"].tableSchema.columns[2].valueURL = "Papunesia"
+    cols = dataset["LanguageTable"].tableSchema.columns
     dataset["LanguageTable"].tableSchema.columns.insert(5,
         Column(name="Region",
             propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#macroarea",
@@ -120,6 +119,10 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
         Column(name="Comment",
             propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#comment",
             datatype="string"))
+    macroregion = cols.pop(2)
+    macroregion.virtual = True
+    macroregion.valueURL = "Papunesia"
+    cols.append(macroregion)
 
     # Explicitly create a parameter table
     dataset.add_component('ParameterTable', "English", "Indonesian", "Semantic_Field", "Elicitation_Notes", "Core_Set", "Concepticon_ID", "Comment")
