@@ -119,7 +119,7 @@ def main(path, original, concept_id, foreign_key, encoding="utf-8"):
         Column(name="Comment",
             propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#comment",
             datatype="string"))
-    macroregion = cols.pop(2)
+    macroregion = cols.pop(3)
     macroregion.virtual = True
     macroregion.valueURL = "Papunesia"
     cols.append(macroregion)
