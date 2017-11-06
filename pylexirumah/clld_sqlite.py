@@ -24,7 +24,7 @@ import transaction
 from clld.scripts.util import parsed_args
 from lexibank.scripts.initializedb import prime_cache
 
-from cldf import identifier
+from util import identifier
 
 
 try:
@@ -40,7 +40,7 @@ try:
     LanguageIdentifier = common.LanguageIdentifier
     from lexibank.models import (
         LexibankLanguage, LexibankSource, Concept, Provider, Counterpart,
-        CognatesetCounterpart, Cognateset)
+        CognatesetCounterpart, Cognateset, CounterpartReference)
     from clld_glottologfamily_plugin.models import Family
     model_is_available = True
 
@@ -87,13 +87,13 @@ def import_concepticon(wordlist):
         id = row["ID"]
         concepticon_id = row.get('Concepticon_ID')
         if concepticon_id in ["0", "None", "???"]:
-            concepticon_id = None
+            concepticon_id = ""
         concepticon[id] = Concept(
             id=id,
             # GLOSS
             name=row["English"],
             concepticon_id=concepticon_id,
-            semanticfield=row.get("Semantic_field"))
+            semanticfield=row.get("Semantic_Field"))
     return concepticon
 
 
@@ -172,7 +172,7 @@ def import_languages(wordlist):
     return lects
 
 
-def import_sources(wordlist, contributors = {}):
+def import_sources(wordlist, contribution, contributors = {}):
     """Load the bibliography
 
     """
@@ -184,26 +184,12 @@ def import_sources(wordlist, contributors = {}):
             name += " [1]"
         contrib = LexibankSource(
             id=source.id,
-            name=source.name)
+            name=name,
+            provider=contribution)
         DBSession.add(contrib)
         contributions[source.id] = contrib
         by_name[name] = contrib
-    # Provider also has attributes aboutUrl, language_count,
-    # parameter_count, lexeme_count, synonym, references_text
 
-        for role, persons in source.entry.persons.items():
-            for person in persons:
-                try:
-                    contributor = contributors[person]
-                except KeyError:
-                    contributor = Contributor(
-                        id=identifier(str(person)),
-                        name=str(person))
-                    contributors[person] = contributor
-                    DBSession.add(contributor)
-                DBSession.add(
-                    ContributionContributor(contribution=contrib,
-                                            contributor=contributors[person]))
     return contributions
 
 
@@ -211,7 +197,7 @@ def import_forms(
         wordlist,
         concepticon,
         languages,
-        sources,
+        bibliography,
         contribution,
         trust=[],
         valuesets={},
@@ -235,7 +221,7 @@ def import_forms(
     for row in wordlist["FormTable"].iterdicts():
             language = languages[row["Language_ID"]]
             feature = concepticon[row["Parameter_ID"]]
-            sources = [sources[s] for s in row["Source"]]
+            sources = [bibliography[s] for s in row["Source"]]
 
             # Create the objects representing the form in the
             # database. This is a value in a value set.
@@ -252,18 +238,22 @@ def import_forms(
                     contribution=contribution)
             vid = row["ID"]
             form = Counterpart(
-                    id=vid,
-                    valueset=vs,
-                    comment=row['Comment'],
-                    name=value)
+                id=vid,
+                valueset=vs,
+                comment=row['Comment'],
+                name=value,
+                segments=" ".join(row["Segments"]))
+            for source in sources:
+                DBSession.add(CounterpartReference(
+                    counterpart=form,
+                    source=source))
             forms[vid] = form
             DBSession.add(form)
     return forms
 
 
-def import_cognatesets(dataset, forms, sources, contribution, cognatesets={}):
+def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={}):
     for row in dataset["CognateTable"].iterdicts():
-        print(row)
         cognateset_id = row["Cognateset_ID"]
         try:
             cognateset = cognatesets[cognateset_id]
@@ -305,10 +295,10 @@ def db_main():
     provider = Provider(
         id=ds.id,
         name=ds.name,
-        description=source.get("abstract", name),
-        license=source.entry.fields.get("license", "N/A"),
-        jsondata={k: v for k, v in source.items()},
-        url=source.entry.fields.get("url", source.entry.fields.get("howpublished")))
+        description=g("dc:description"),
+        license=g("dc:license"),
+        jsondata={},
+        url="")
 
     contributors = {}
     primary = True
@@ -333,7 +323,7 @@ def db_main():
 
     concepticon = import_concepticon(dataset)
     languages = import_languages(dataset)
-    sources = import_sources(dataset)
+    sources = import_sources(dataset, contribution=provider)
     forms = import_forms(dataset, concepticon, languages, sources, contribution=provider)
     cognatesets = import_cognatesets(dataset, forms, sources, contribution=provider)
 
