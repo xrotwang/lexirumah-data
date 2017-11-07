@@ -90,10 +90,16 @@ def import_concepticon(wordlist):
             concepticon_id = ""
         concepticon[id] = Concept(
             id=id,
-            # GLOSS
             name=row["English"],
+            indonesian=row["Indonesian"],
+            semanticfield=row.get("Semantic_Field"),
+            elicitationnotes=row["Elicitation_Notes"],
+            origin=("Core set" if identifier(row["Core_Set"] or '')=='core_set'
+                    else ("Keraf" if "Keraf" in (row["Comment"] or '') or "Keraf" in (row["Core_Set"] or '')
+                          else "Extended")),
             concepticon_id=concepticon_id,
-            semanticfield=row.get("Semantic_Field"))
+            comment=row["Comment"] or '',
+            )
     return concepticon
 
 
@@ -119,7 +125,11 @@ def create_language_object(row, families={}, identifiers={}):
         family=families[family],
         macroarea=row.get("Region", row.get("Macroarea")),
         latitude=row['Latitude'],
-        longitude=row['Longitude'])
+        longitude=row['Longitude'],
+        description=row['Description'],
+        comment=row['Comment'],
+        culture=row['Culture'],
+    )
 
     if row["Iso"]:
         iso_code = row["Iso"]
@@ -257,11 +267,12 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
         cognateset_id = row["Cognateset_ID"]
         try:
             cognateset = cognatesets[cognateset_id]
+            cognateset.name = forms[row["Form_ID"]].name
         except KeyError:
             cognateset = cognatesets[cognateset_id] = Cognateset(
-                id=str(len(cognatesets)),
+                id="{:07d}".format(len(cognatesets)),
                 contribution=contribution,
-                name="*" + forms[row["Form_ID"]].name)
+                name=forms[row["Form_ID"]].name)
         DBSession.add(
             CognatesetCounterpart(
                 cognateset=cognateset,
