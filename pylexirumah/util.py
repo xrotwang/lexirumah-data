@@ -9,7 +9,7 @@ import argparse
 
 from clldutils.path import Path
 from pycldf.sources import Source
-from pycldf.dataset import Wordlist
+from pycldf.dataset import Wordlist, Dataset
 from clldutils.csvw.metadata import Column
 
 from pyclpa.base import Sound
@@ -77,4 +77,34 @@ def resolve_brackets(string):
             yield form
     else:
         yield string
+
+
+def get_dataset(fname):
+    """Load a CLDF dataset.
+
+    Load the file as `json` CLDF metadata description file, or as metadata-free
+    dataset contained in a single csv file.
+
+    The distinction is made depending on the file extension: `.json` files are
+    loaded as metadata descriptions, all other files are matched against the
+    CLDF module specifications. Directories are checked for the presence of
+    any CLDF datasets in undefined order of the dataset types.
+
+    Parameters
+    ----------
+    fname : str or Path
+        Path to a CLDF dataset
+
+    Returns
+    -------
+    pycldf.Dataset
+    """
+    fname = Path(fname)
+    if not fname.exists():
+        raise FileNotFoundError(
+            '{:} does not exist'.format(fname))
+    if fname.suffix == '.json':
+        return Dataset.from_metadata(fname)
+    return Dataset.from_data(fname)
+
 
