@@ -22,6 +22,7 @@ import lexibank
 import transaction
 
 from clld.scripts.util import parsed_args
+from clld.lib.bibtex import EntryType
 from lexibank.scripts.initializedb import prime_cache
 
 from util import identifier
@@ -189,13 +190,53 @@ def import_sources(wordlist, contribution, contributors = {}):
     contributions = {}
     by_name = {}
     for source in wordlist.sources.items():
-        name = source.text()
+        fields = source.entry.fields
+
+        # Generate a citation from the source
+        citation_contrib = None
+        for role, people in source.entry.persons.items():
+            if not people:
+                continue
+            names = " and ".join(map(str, people))
+            fields[role] = names
+
+            if not citation_contrib:
+                if len(people) == 1:
+                    citation_contrib = " ".join(people[0].last())
+                elif len(people) == 2:
+                    citation_contrib = "{:} & {:}".format(" ".join(people[0].last()),
+                                                          " ".join(people[1].last()))
+                else:
+                    citation_contrib = "{:} et al.".format(" ".join(people[0].last()))
+
+        if citation_contrib:
+            if fields.get("year"):
+                name = "{:}, {:}".format(citation_contrib, fields["year"])
+            else:
+                name = "{:}".format(citation_contrib)
+        else:
+            title_like = fields.get("title") or fields.get("note")
+            if fields.get("year"):
+                name = "{:}, {:}".format(title_like, fields["year"])
+            else:
+                name = "{:}".format(title_like)
+        if name in by_name:
+            name = "{:}a".format(name)
         while name in by_name:
-            name += " [1]"
+            name = name[:-1]+chr(ord(name[-1]) + 1)
+
+        # create a contribution
         contrib = LexibankSource(
             id=source.id,
             name=name,
+            bibtex_type=vars(EntryType).get(source.genre) or EntryType.misc,
             provider=contribution)
+        for key, value in fields.items():
+            if hasattr(contrib, key) and not getattr(contrib, key):
+                setattr(contrib, key, value)
+            else:
+                contrib.jsondata[key] = value
+
         DBSession.add(contrib)
         contributions[source.id] = contrib
         by_name[name] = contrib
@@ -229,8 +270,8 @@ def import_forms(
     # Import all the rows.
     forms = {}
     for row in wordlist["FormTable"].iterdicts():
-            language = languages[row["Language_ID"]]
-            feature = concepticon[row["Parameter_ID"]]
+            language = languages[row["Lect_ID"]]
+            feature = concepticon[row["Concept_ID"]]
             sources = [bibliography[s] for s in row["Source"]]
 
             # Create the objects representing the form in the
