@@ -52,17 +52,19 @@ def online_languoid(iso_or_glottocode):
     Namespace or None
 
     """
-    if re.fullmatch("[a-z]{3}", glottocode):
+    if re.fullmatch("[a-z]{3}", iso_or_glottocode):
         try:
             data = json.loads(urlopen(
-                "http://glottolog.org/resource/languoid/iso/{:}.json".format(glottocode)
+                "http://glottolog.org/resource/languoid/iso/{:}.json".format(
+                    iso_or_glottocode)
             ).read().decode('utf-8'))
         except HTTPError:
             return None
-    elif re.fullmatch("[a-z]{4}[0-9]{4}"):
+    elif re.fullmatch("[a-z]{4}[0-9]{4}", iso_or_glottocode):
         try:
             data = json.loads(urlopen(
-                "http://glottolog.org/resource/languoid/id/{:}.json".format(glottocode)
+                "http://glottolog.org/resource/languoid/id/{:}.json".format(
+                    iso_or_glottocode)
             ).read().decode('utf-8'))
         except HTTPError:
             return None
