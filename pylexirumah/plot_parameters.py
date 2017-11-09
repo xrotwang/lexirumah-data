@@ -111,6 +111,9 @@ def main(args=sys.argv):
     parser.add_argument(
         "--online", action="store_true", default=False,
         help="Use glottolog.org as source for coordinates, not a local clone")
+    parser.add_argument(
+        "--cmap", type=plt.get_cmap, default=plt.get_cmap("magma_r"),
+        help="Colormap to be used for the parameter counts")
     options = parser.parse_args()
 
     if options.online:
@@ -173,18 +176,17 @@ def main(args=sys.argv):
 
     # Draw the base map
     # TODO: Get coordinates from commandline, fallback to bounding box of data
-    # TODO: Give more control over map drawing to user
-    map = Basemap(llcrnrlat=min_lat, urcrnrlat=max_lat, llcrnrlon=min_lon, urcrnrlon=max_lon,
+    # TODO: Give more control over map drawing to user (projection, level of
+    # detail, drawing other patterns (countries, eg.) instead of just coast
+    # lines, continent color) – What is a good way to do that?
+    map = Basemap(llcrnrlat=min_lat, llcrnrlon=min_lon, urcrnrlat=max_lat, urcrnrlon=max_lon,
                   # projection='lcc',
                   resolution='h', area_thresh=10)
-    # TODO: Add switch for drawing other patterns (countries, eg.)
     map.drawcoastlines()
-    # TODO: Override color from command line
     map.fillcontinents(color='#fff7ee', zorder=0)
 
     # Plot the vocabulary sizes
-    # TODO: get colormap from command line
-    map.scatter(lons, lats, c=sizes, cmap=plt.get_cmap("magma_r"), latlon=True)
+    map.scatter(lons, lats, c=sizes, cmap=options.cmap, latlon=True)
 
     # TODO: Improve shape of components: Colorbar is very huge, margins are quite large
     plt.colorbar()
@@ -195,7 +197,3 @@ def main(args=sys.argv):
 
 if __name__ == "__main__":
     main(sys.argv)
-
-
-
-
