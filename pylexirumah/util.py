@@ -108,3 +108,43 @@ def get_dataset(fname):
     return Dataset.from_data(fname)
 
 
+def online_languoid(iso_or_glottocode):
+    """Look the glottocode or ISO-639-3 code up in glottolog online.
+
+    Return a Namespace object with attributes corresponding to the JSON API
+    dictionary keys. Return None if the code is invalid, no matter whether it
+    is well-formatted (but unused) or not.
+
+    Parameters
+    ----------
+    iso_or_glottocode: str
+        A three-letter ISO-639-3 language identifier or a four-letter-four-digit
+        Glottolog language identifier.
+
+    Returns
+    -------
+    Namespace or None
+
+    """
+    if re.fullmatch("[a-z]{3}", iso_or_glottocode):
+        try:
+            data = json.loads(urlopen(
+                "http://glottolog.org/resource/languoid/iso/{:}.json".format(
+                    iso_or_glottocode)
+            ).read().decode('utf-8'))
+        except HTTPError:
+            return None
+    elif re.fullmatch("[a-z]{4}[0-9]{4}", iso_or_glottocode):
+        try:
+            data = json.loads(urlopen(
+                "http://glottolog.org/resource/languoid/id/{:}.json".format(
+                    iso_or_glottocode)
+            ).read().decode('utf-8'))
+        except HTTPError:
+            return None
+    else:
+        return None
+    language = argparse.Namespace()
+    for key, val in data.items():
+        setattr(language, key, val)
+    return language
