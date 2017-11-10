@@ -1,37 +1,24 @@
+# coding: utf8
 """Plot the number of filled-in parameters for each language.
 
 parameter_sampled: map languages to sets of parameters
 """
-
-# CLI libraries
 import sys
 import argparse
-
-# Plotting libraries
-import numpy
 import colorsys
+import re
+import json
+from collections import defaultdict, Counter
+
+import numpy
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
 
-# Libraries for accessing Glottolog online
-import re
-import json
-from urllib.request import urlopen
-from urllib.error import HTTPError
-
-# CLDF libraries
 import pycldf
-from util import get_dataset, Path, online_languoid
-
-# Try to use local Glottolog
-try:
-    from pyglottolog.api import Glottolog
-    glottolog = Glottolog()
-    languoid = glottolog.languoid
-except ImportError:
-    languoid = None
+from clldutils.path import Path
+from pyglottolog.api import Glottolog
 
 
 def parameters_sampled(dataset):
@@ -49,13 +36,9 @@ def parameters_sampled(dataset):
     dict
 
     """
-    primary = dataset.primary_table
-    languageReference = dataset[primary, "languageReference"].name
-    parameterReference = dataset[primary, "parameterReference"].name
-    sampled = {}
-    for row in dataset["FormTable"].iterdicts():
-        sampled.setdefault(row[languageReference], set()).add(row[parameterReference])
-    return sampled
+    languageReference = dataset[dataset.primary_table, "languageReference"].name
+    parameterReference = dataset[dataset.primary_table, "parameterReference"].name
+    return Counter(row[languageReference] for row in dataset[dataset.primary_table])
 
 
 def main(args=sys.argv):
@@ -64,26 +47,19 @@ def main(args=sys.argv):
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument(
         'dataset', type=Path,
-        help="Path to the CLDF dataset (metadata json or metadata-free csv)")
+        help="Path to the CLDF dataset's JSON description")
     parser.add_argument(
         "output",
         help="File name to write output to")
     parser.add_argument(
-        "--online", action="store_true", default=False,
-        help="Use glottolog.org as source for coordinates, not a local clone")
+        "--glottolog-repos", default=None,
+        help="Path to local clone or export of clld/glottolog")
     parser.add_argument(
         "--cmap", type=plt.get_cmap, default=plt.get_cmap("magma_r"),
         help="Colormap to be used for the parameter counts")
     options = parser.parse_args()
 
-    if options.online:
-        languoid = online_languoid
-
-    # Open the dataset
-    dataset = get_dataset(options.dataset)
-
-    # Read which language has which parameters given
-    sampled = parameters_sampled(dataset)
+    dataset = pycldf.Dataset.from_metadata(options.dataset)
 
     # Try to load language locations from the dataset
     locations = {}
@@ -91,35 +67,29 @@ def main(args=sys.argv):
         idcol = dataset["LanguageTable", "id"].name
         latcol = dataset["LanguageTable", "latitude"].name
         loncol = dataset["LanguageTable", "longitude"].name
-        for row in dataset["LanguageTable"].iterdicts():
-            locations[row[idcol]] = row[latcol], row[loncol]
+        for row in dataset["LanguageTable"]:
+            if row[latcol] is not None:
+                locations[row[idcol]] = row[latcol], row[loncol]
     except ValueError:
         # No language table
         pass
 
+    for lang in Glottolog(options.glottolog_repos).languoids():
+        if lang.latitude is not None:
+            if lang.id not in locations:
+                locations[lang.id] = (lang.latitude, lang.longitude)
+            if lang.iso and lang.iso not in locations:
+                locations[lang.iso] = (lang.latitude, lang.longitude)
+
     # Aggregate the data
     lats, lons, sizes = [], [], []
 
-    for language, parameters in sampled.items():
-        try:
+    for language, sample_size in parameters_sampled(dataset).items():
+        if language in locations:
             lat, lon = locations[language]
-        except KeyError:
-            # Try to find the location on Glottolog
-            try:
-                lang = languoid(language)
-                lat, lon = lang.latitude, lang.longitude
-            except TypeError:
-                # languoid function is None
-                continue
-            except AttributeError:
-                # language not found: None was returned, which has no lat/lon
-                continue
-        try:
             lats.append(float(lat))
-        except TypeError:
-            continue
-        lons.append(float(lon))
-        sizes.append(len(parameters))
+            lons.append(float(lon))
+            sizes.append(sample_size)
 
     assert len(sizes) == len(lats) == len(lons)
 
@@ -145,7 +115,7 @@ def main(args=sys.argv):
     map.drawcoastlines()
     map.fillcontinents(color='#fff7ee', zorder=0)
 
-    # Plot the vocabulary sizes
+    # Plot the sample sizes
     map.scatter(lons, lats, c=sizes, cmap=options.cmap, latlon=True)
 
     # TODO: Improve shape of components: Colorbar is very huge, margins are quite large
@@ -157,3 +127,4 @@ def main(args=sys.argv):
 
 if __name__ == "__main__":
     main(sys.argv)
+
