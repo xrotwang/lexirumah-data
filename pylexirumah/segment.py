@@ -37,14 +37,47 @@ def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
     If ignore_clpa_errors, return the sequence even if it contains unknown segments;
     otherwise (ignore_clpa_errors==False), raise an exception for invalid CLPA.
 
-    >>> " ".join([str(x) for x in  tokenize_clpa("baa")])
+    Parameters
+    ----------
+    form : str
+        An IPA string to be tokenized.
+    ignore_clpa_errors : bool
+        If set to True, segments that are unknown to CLPA will be returned as Unknown
+        objects in the list.
+        If set to False, whenever a segment cannot be found by CLPA, a ValueError is raised.
+
+        Set to True by default.
+    preprocess : dict
+        A dictionary that is used to replace sequences in 'form' before processing them with
+        this function.
+
+        Set to 'WHITELIST' by default. 'WHITELIST' is defined before this function definition.
+
+    Returns
+    -------
+    list
+        A list of CLPA objects that correspond to the segments in the passed 'form'.
+
+    Raises
+    ------
+    ValueError
+        If 'ignore_clpa_errors' is set to False and
+        no corresponding CLPA segment can be found for a segment in 'form'.
+
+        The error message points to that segment.
+
+    Examples
+    --------
+    >>> " ".join([str(x) for x in tokenize_clpa("baa")])
     'b aː'
 
-    >>> " ".join([str(x) for x in  tokenize_clpa("a9b", ignore_clpa_errors=False)])
+    >>> " ".join([str(x) for x in tokenize_clpa("a9b")])
+    'a � b'
+
+    >>> " ".join([str(x) for x in tokenize_clpa("a9b", ignore_clpa_errors=False)])
     Traceback (most recent call last):
       ...
     ValueError: "9" is not a valid CLPA segment.
-
     """
     for before, after in preprocess.items():
         form = form.strip().replace(before, after)
@@ -54,9 +87,9 @@ def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
     index_bw = len(form)
 
     while True:
-        # print("C", form[index_fw:index_bw])
-        # remove '#' above for debugging
         if index_bw == index_fw and index_bw < len(form):
+            # This section dictates what happens when the whole string is not parsed yet and
+            # a viable CLPA sequence has not been found.
             if ignore_clpa_errors:
                 unknown_segment = CLPA(form[index_bw])[0]
                 result.append(unknown_segment)
@@ -68,19 +101,14 @@ def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
         elif index_fw == len(form):
             return result
 
-        # print("P", form[index_fw:index_bw])
-        # remove '#' above for debugging
         possible_token = CLPA(form[index_fw:index_bw])[0]
         if isinstance(possible_token, pyclpa.base.Sound):
-            # print(str(possible_token))
-            # remove '#' above for debugging
+            # This section appends a CLPA match to the list that is to be returned in the end.
             result.append(possible_token)
             index_fw = index_bw
             index_bw = len(form)
         else:
             index_bw -= 1
-
-    # TODO: Finish the documentation of this function.
 
 
 if __name__ == '__main__':
