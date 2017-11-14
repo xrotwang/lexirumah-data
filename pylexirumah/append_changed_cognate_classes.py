@@ -29,31 +29,7 @@ def swap(dictionary):
     return swapped
 
 
-if __name__ == "__main__":
-    parser = ArgumentParser(
-        description=__doc__.split("\n")[0] + """
-
-        The CLDF dataset must have a separate CognateTable. Updates will be
-        appended to that table, existing data will not be touched.
-
-        The Edictor file has to be a TSV file with an ID column compatible to
-        the dataset's Form_ID, and cognate classes stored in the `cogid` and
-        alignments stored in the ALIGNMENT column.""")
-    parser.add_argument(
-        "edictor", nargs="?", type=FileType("r"),
-        help="Edictor file to use as data source")
-    parser.add_argument(
-        "cldf", nargs="?", type=Path, default=Path("Wordlist-metadata.json"),
-        help="CLDF metadata file for the dataset to be updated")
-    parser.add_argument(
-        "--source-id", default="edictor",
-        help="""The ID of the source to assign to the updates. If the ID does not exist in
-        the dataset's bibliograpy, it will be created as new @misc entry.""")
-    parser.add_argument(
-        "--cogid", default="COGID",
-        help="""Name of the column containing the cognate set ids""")
-    args = parser.parse_args()
-
+def main(args):
     # Check CLDF argument, in order to fail early if this fails.
     dataset = pycldf.dataset.Wordlist.from_metadata(args.cldf)
 
@@ -190,3 +166,31 @@ if __name__ == "__main__":
         alignments,
         source)))
     dataset.write_sources()
+
+
+if __name__ == "__main__":
+    parser = ArgumentParser(
+        description=__doc__.split("\n")[0] + """
+
+        The CLDF dataset must have a separate CognateTable. Updates will be
+        appended to that table, existing data will not be touched.
+
+        The Edictor file has to be a TSV file with an ID column compatible to
+        the dataset's Form_ID, and cognate classes stored in the `cogid` and
+        alignments stored in the ALIGNMENT column.""")
+    parser.add_argument(
+        "edictor", type=FileType("r"),
+        help="Edictor file to use as data source")
+    parser.add_argument(
+        "cldf", nargs="?", type=Path, default=Path("Wordlist-metadata.json"),
+        help="CLDF metadata file for the dataset to be updated")
+    parser.add_argument(
+        "--source-id", default="edictor",
+        help="""The ID of the source to assign to the updates. If the ID does not exist in
+        the dataset's bibliograpy, it will be created as new @misc entry.""")
+    parser.add_argument(
+        "--cogid", default="COGID",
+        help="""Name of the column containing the cognate set ids""")
+    args = parser.parse_args()
+
+    main(args)
