@@ -130,7 +130,7 @@ def main(args):
     except ValueError:
         source = Source('misc', id_=args.source_id, year=str(datetime.date.today().year))
         dataset.sources.add(source)
-
+        dataset.write_sources()
 
     def new_rows(defaults, last_row_id, moved_forms, realigned_forms, source):
         t = type(last_row_id)
@@ -165,7 +165,6 @@ def main(args):
         moved_forms,
         alignments,
         source)))
-    dataset.write_sources()
 
 
 if __name__ == "__main__":
