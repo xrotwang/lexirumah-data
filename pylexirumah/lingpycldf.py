@@ -13,8 +13,8 @@ import pycldf.dataset
 from clldutils.clilib import ArgumentParser
 
 def cldf_to_lingpy(columns, replacement={
-        'Parameter_ID': 'CONCEPT',
-        'Language_ID': 'DOCULECT',
+        'Concept_ID': 'CONCEPT',
+        'Lect_ID': 'DOCULECT',
         'Form': 'IPA',
         'ID': 'REFERENCE',
         'Segments': 'TOKENS'}):
@@ -27,8 +27,8 @@ def cldf_to_lingpy(columns, replacement={
 
 def lingpy_to_cldf(columns, replacement={
         'REFERENCE': 'ID',
-        'CONCEPT': 'Parameter_ID',
-        'DOCULECT': 'Language_ID',
+        'CONCEPT': 'Concept_ID',
+        'DOCULECT': 'Lect_ID',
         'COGID': 'Cognate_Set',
         'IPA': 'Value',
         'TOKENS': 'Segments'}):
