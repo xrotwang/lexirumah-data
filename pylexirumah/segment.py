@@ -41,13 +41,13 @@ def tokenize_clpa(form, ignore_clpa_errors=True, preprocess=WHITELIST):
     ----------
     form : str
         An IPA string to be tokenized.
-    ignore_clpa_errors : bool
+    ignore_clpa_errors : bool, optional
         If set to True, segments that are unknown to CLPA will be returned as Unknown
         objects in the list.
         If set to False, whenever a segment cannot be found by CLPA, a ValueError is raised.
 
         Set to True by default.
-    preprocess : dict
+    preprocess : dict, optional
         A dictionary that is used to replace sequences in 'form' before processing them with
         this function.
 
