@@ -259,8 +259,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 257,kabo1247,red,tene,t e n e,,datasets_Kabola_Monbang_tsv
 258,kabo1247,green,molmol,m o l m o l,,datasets_Kabola_Monbang_tsv
 259,kabo1247,yellow,baʔoil,b a ʔ oi l,,datasets_Kabola_Monbang_tsv
-260,kabo1247,sick_painful,ma'rori,m a r o r i,,datasets_Kabola_Monbang_tsv
-261,kabo1247,sick_painful,maʔala,m aʔa l a,,datasets_Kabola_Monbang_tsv
+260,kabo1247,sick_painful,ma'rori,m a r o r i,"maʔala (same as ‘salty, bitter’)",datasets_Kabola_Monbang_tsv
+261,kabo1247,sick_painful,maʔala,m aʔa l a,"maʔala (same as ‘salty, bitter’)",datasets_Kabola_Monbang_tsv
 262,kabo1247,shy_ashamed,'malaʔ,m a l a ʔ,,datasets_Kabola_Monbang_tsv
 263,kabo1247,thirsty,dol(o) taʔata,d o l _ t aʔa t a,(taʔata ‘dry’),datasets_Kabola_Monbang_tsv
 264,kabo1247,thirsty,dol(o) taʔata,d o l o _ t aʔa t a,(taʔata ‘dry’),datasets_Kabola_Monbang_tsv
@@ -825,12 +825,12 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 823,adan1251-lawah,two_hundred,ratalu,r a t a l u,,datasets_Adang_Lawahing_tsv
 824,adan1251-lawah,thousand,ribnu,r i b n u,,datasets_Adang_Lawahing_tsv
 825,adan1251-lawah,one_hundred_thousand,rib ratnu,r i b _ r a n̥ u,,datasets_Adang_Lawahing_tsv
-826,adan1251-lawah,grandmother,bapa,b a p a,The kinship task also asks for this term,datasets_Adang_Lawahing_tsv
-827,adan1251-lawah,grandfather,bapa,b a p a,The kinship task also asks for this term,datasets_Adang_Lawahing_tsv
-828,adan1251-lawah,grandchild,daʔala,d aʔa l a,The kinship task also asks for this term,datasets_Adang_Lawahing_tsv
-829,adan1251-lawah,nephew_niece,noʔei oloti,n o ʔ ei _ o l o t i,'nephew'; The kinship task also asks for this term,datasets_Adang_Lawahing_tsv
-830,adan1251-lawah,older_sister,noʔudiŋ ʔobo,n o ʔ u d i ŋ _ ʔ o b o, 'sister'; The kinship task also asks for this term,datasets_Adang_Lawahing_tsv
-831,adan1251-lawah,woman_s_cross_cousin,namara,n a m a r a,'sister in law'; The kinship task also asks for this term,datasets_Adang_Lawahing_tsv
+826,adan1251-lawah,grandmother,bapa,b a p a,,datasets_Adang_Lawahing_tsv
+827,adan1251-lawah,grandfather,bapa,b a p a,,datasets_Adang_Lawahing_tsv
+828,adan1251-lawah,grandchild,daʔala,d aʔa l a,,datasets_Adang_Lawahing_tsv
+829,adan1251-lawah,nephew_niece,noʔei oloti,n o ʔ ei _ o l o t i,nephew',datasets_Adang_Lawahing_tsv
+830,adan1251-lawah,older_sister,noʔudiŋ ʔobo,n o ʔ u d i ŋ _ ʔ o b o, 'sister',datasets_Adang_Lawahing_tsv
+831,adan1251-lawah,woman_s_cross_cousin,namara,n a m a r a,sister in law',datasets_Adang_Lawahing_tsv
 832,adan1251-lawah,woman_s_younger_sister,noʔudiŋ,n o ʔ u d i ŋ,'sibling'; The kinship task also asks for this term,datasets_Adang_Lawahing_tsv
 833,adan1251-lawah,brother_in_law,nawiŋ,n a w i ŋ,brother-in-law',datasets_Adang_Lawahing_tsv
 834,adan1251-lawah,oven_cooking_place,hɛʔɛwui,h ɛ ʔ ɛ w ui,,datasets_Adang_Lawahing_tsv
@@ -1701,7 +1701,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1699,baka1276,light,ʤara,dʒ a r a,,datasets_Blagar_Bakalang_tsv
 1700,baka1276,dirty,klitak,k l i t a k,,datasets_Blagar_Bakalang_tsv
 1701,baka1276,clean,mulaŋ,m u l a ŋ,,datasets_Blagar_Bakalang_tsv
-1702,baka1276,sharp,maŋ,m a ŋ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Blagar_Bakalang_tsv
+1702,baka1276,sharp,maŋ,m a ŋ,Of spear (tombak) or machete (parang),datasets_Blagar_Bakalang_tsv
 1703,baka1276,blunt,kumbul,k u m b u l,,datasets_Blagar_Bakalang_tsv
 1704,baka1276,heavy,ta'madi,t a m a d i,,datasets_Blagar_Bakalang_tsv
 1705,baka1276,light_weight,'vila,v i l a,,datasets_Blagar_Bakalang_tsv
@@ -1723,7 +1723,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1721,baka1276,green,kokua,k o k ua,,datasets_Blagar_Bakalang_tsv
 1722,baka1276,blue,kokua,k o k ua,,datasets_Blagar_Bakalang_tsv
 1723,baka1276,yellow,'bori,b o r i,,datasets_Blagar_Bakalang_tsv
-1724,baka1276,sick_painful,dira,d i r a,"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.",datasets_Blagar_Bakalang_tsv
+1724,baka1276,sick_painful,dira,d i r a,,datasets_Blagar_Bakalang_tsv
 1725,baka1276,shy_ashamed,mi'niaŋ,m i n ia ŋ,,datasets_Blagar_Bakalang_tsv
 1726,baka1276,thirsty,emeŋ tata,e m e ŋ _ t a t a,,datasets_Blagar_Bakalang_tsv
 1727,baka1276,hungry,ma'napal,m a n a p a l,,datasets_Blagar_Bakalang_tsv
@@ -1848,9 +1848,9 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1846,baka1276,one_hundred_and_twenty_three,ratu ariaru betal tue,r a t u _ a r ia r u _ b e t a l _ t u e,,datasets_Blagar_Bakalang_tsv
 1847,baka1276,two_hundred,ratu aru,r a t u _ a r u,,datasets_Blagar_Bakalang_tsv
 1848,baka1276,thousand,ribu,r i b u,,datasets_Blagar_Bakalang_tsv
-1849,baka1276,grandmother,nidat,n i d a t,The kinship task also asks for this term,datasets_Blagar_Bakalang_tsv
-1850,baka1276,grandfather,nidat,n i d a t,The kinship task also asks for this term,datasets_Blagar_Bakalang_tsv
-1851,baka1276,grandchild,oal idat,o a l _ i d a t,The kinship task also asks for this term,datasets_Blagar_Bakalang_tsv
+1849,baka1276,grandmother,nidat,n i d a t,,datasets_Blagar_Bakalang_tsv
+1850,baka1276,grandfather,nidat,n i d a t,,datasets_Blagar_Bakalang_tsv
+1851,baka1276,grandchild,oal idat,o a l _ i d a t,,datasets_Blagar_Bakalang_tsv
 1852,baka1276,oven_cooking_place,tutu,t u t u,,datasets_Blagar_Bakalang_tsv
 1853,baka1276,flower_in_e_g_mangga_tree,buma,b u m a,,datasets_Blagar_Bakalang_tsv
 1854,baka1276,long_stick,veniŋ,v e n i ŋ,,datasets_Blagar_Bakalang_tsv
@@ -2009,7 +2009,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2007,blag1240-bama,scabies,qot,q o t,,datasets_Blagar_Bama_tsv
 2008,blag1240-bama,feverish,biriŋ,b i r i ŋ,,datasets_Blagar_Bama_tsv
 2009,blag1240-bama,cold_influenza,sopiŋ waj,s o p i ŋ _ w aj,,datasets_Blagar_Bama_tsv
-2010,blag1240-bama,person,uʤaxa,u dʒ a x a,"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'",datasets_Blagar_Bama_tsv
+2010,blag1240-bama,person,uʤaxa,u dʒ a x a,Not 'manusia' (human being). ,datasets_Blagar_Bama_tsv
 2011,blag1240-bama,name,tenuŋ,t e n u ŋ,,datasets_Blagar_Bama_tsv
 2012,blag1240-bama,child,toxal,t o x a l,,datasets_Blagar_Bama_tsv
 2013,blag1240-bama,man,(sa)mesal,m e s a l,,datasets_Blagar_Bama_tsv
@@ -2094,7 +2094,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2092,blag1240-bama,dirty,pari,p a r i,"pusi ‘dirty around the house’, pari ‘dirty, as of clothes’",datasets_Blagar_Bama_tsv
 2093,blag1240-bama,dirty,pusi,p u s i,"pusi ‘dirty around the house’, pari ‘dirty, as of clothes’",datasets_Blagar_Bama_tsv
 2094,blag1240-bama,clean,mosolaŋ,m o s o l a ŋ,,datasets_Blagar_Bama_tsv
-2095,blag1240-bama,sharp,magaŋ,m a g a ŋ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Blagar_Bama_tsv
+2095,blag1240-bama,sharp,magaŋ,m a g a ŋ,Of spear (tombak) or machete (parang); ,datasets_Blagar_Bama_tsv
 2096,blag1240-bama,blunt,kumal,k u m a l,,datasets_Blagar_Bama_tsv
 2097,blag1240-bama,heavy,tamadi,t a m a d i,,datasets_Blagar_Bama_tsv
 2098,blag1240-bama,light_weight,wila,w i l a,,datasets_Blagar_Bama_tsv
@@ -2117,7 +2117,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2115,blag1240-bama,red,tena,t e n a,,datasets_Blagar_Bama_tsv
 2116,blag1240-bama,green,kuakua,k ua k ua,,datasets_Blagar_Bama_tsv
 2117,blag1240-bama,yellow,bogori,b o g o r i,,datasets_Blagar_Bama_tsv
-2118,blag1240-bama,sick_painful,dira,d i r a,"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.",datasets_Blagar_Bama_tsv
+2118,blag1240-bama,sick_painful,dira,d i r a,,datasets_Blagar_Bama_tsv
 2119,blag1240-bama,shy_ashamed,tawaq eʤeruŋ,t a w a q _ e dʒ e r u ŋ,,datasets_Blagar_Bama_tsv
 2120,blag1240-bama,thirsty,taman taxata,t a m a n _ t a x a t a,,datasets_Blagar_Bama_tsv
 2121,blag1240-bama,hungry,toboŋal,t o b o ŋ a l,,datasets_Blagar_Bama_tsv
@@ -2250,11 +2250,11 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2248,blag1240-bama,one_hundred_and_twenty_three,ratu nuku qar akur wal tuge,r a t u _ n u k u _ q a r _ a k u r _ w a l _ t u g e,,datasets_Blagar_Bama_tsv
 2249,blag1240-bama,two_hundred,ratu akur,r a t u _ a k u r,,datasets_Blagar_Bama_tsv
 2250,blag1240-bama,thousand,ribu nuku,r i b u _ n u k u,,datasets_Blagar_Bama_tsv
-2251,blag1240-bama,grandmother,nebapa (ʤaxuŋ),n e b a p a,The kinship task also asks for this term,datasets_Blagar_Bama_tsv
-2252,blag1240-bama,grandmother,nebapa (ʤaxuŋ),n e b a p a _ dʒ a x u ŋ,The kinship task also asks for this term,datasets_Blagar_Bama_tsv
-2253,blag1240-bama,grandfather,nebapa (mesal),n e b a p a,The kinship task also asks for this term,datasets_Blagar_Bama_tsv
-2254,blag1240-bama,grandfather,nebapa (mesal),n e b a p a _ m e s a l,The kinship task also asks for this term,datasets_Blagar_Bama_tsv
-2255,blag1240-bama,grandchild,toxal tidat,t o x a l _ t i d a t,The kinship task also asks for this term,datasets_Blagar_Bama_tsv
+2251,blag1240-bama,grandmother,nebapa (ʤaxuŋ),n e b a p a,,datasets_Blagar_Bama_tsv
+2252,blag1240-bama,grandmother,nebapa (ʤaxuŋ),n e b a p a _ dʒ a x u ŋ,,datasets_Blagar_Bama_tsv
+2253,blag1240-bama,grandfather,nebapa (mesal),n e b a p a,,datasets_Blagar_Bama_tsv
+2254,blag1240-bama,grandfather,nebapa (mesal),n e b a p a _ m e s a l,,datasets_Blagar_Bama_tsv
+2255,blag1240-bama,grandchild,toxal tidat,t o x a l _ t i d a t,,datasets_Blagar_Bama_tsv
 2256,blag1240-bama,oven_cooking_place,tutuk,t u t u k,,datasets_Blagar_Bama_tsv
 2257,blag1240-bama,flower_in_e_g_mangga_tree,buŋ,b u ŋ,,datasets_Blagar_Bama_tsv
 2258,blag1240-bama,vein,turu,t u r u,,datasets_Blagar_Bama_tsv
@@ -2421,7 +2421,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2419,blag1240-kulij,ringworm,kot,k o t,,datasets_Blagar_Kulijahi_tsv
 2420,blag1240-kulij,feverish,bibiriŋ,b i b i r i ŋ,,datasets_Blagar_Kulijahi_tsv
 2421,blag1240-kulij,cold_influenza,ho aiŋ bue,h o _ ai ŋ _ b u e,,datasets_Blagar_Kulijahi_tsv
-2422,blag1240-kulij,person,nexe,n e x e,"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'",datasets_Blagar_Kulijahi_tsv
+2422,blag1240-kulij,person,nexe,n e x e,,datasets_Blagar_Kulijahi_tsv
 2423,blag1240-kulij,name,ten:e,t e nː e,,datasets_Blagar_Kulijahi_tsv
 2424,blag1240-kulij,child,kəneiŋ,k ə n ei ŋ,,datasets_Blagar_Kulijahi_tsv
 2425,blag1240-kulij,man,mehal,m e h a l,,datasets_Blagar_Kulijahi_tsv
@@ -2500,7 +2500,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2498,blag1240-kulij,dark,kəmaluŋ,k ə m a l u ŋ,,datasets_Blagar_Kulijahi_tsv
 2499,blag1240-kulij,dirty,kəlitah,k ə l i t a h,,datasets_Blagar_Kulijahi_tsv
 2500,blag1240-kulij,clean,mulaŋ,m u l a ŋ,,datasets_Blagar_Kulijahi_tsv
-2501,blag1240-kulij,sharp,maŋ,m a ŋ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Blagar_Kulijahi_tsv
+2501,blag1240-kulij,sharp,maŋ,m a ŋ,,datasets_Blagar_Kulijahi_tsv
 2502,blag1240-kulij,blunt,kumbul,k u m b u l,,datasets_Blagar_Kulijahi_tsv
 2503,blag1240-kulij,heavy,təma:di,t ə m aː d i,,datasets_Blagar_Kulijahi_tsv
 2504,blag1240-kulij,light_weight,vila,v i l a,,datasets_Blagar_Kulijahi_tsv
@@ -2520,7 +2520,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2518,blag1240-kulij,red,bibiʔ,b i b i ʔ,,datasets_Blagar_Kulijahi_tsv
 2519,blag1240-kulij,green,koa-koa,k o a _ k o a,,datasets_Blagar_Kulijahi_tsv
 2520,blag1240-kulij,yellow,bori,b o r i,,datasets_Blagar_Kulijahi_tsv
-2521,blag1240-kulij,sick_painful,dira,d i r a,"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.",datasets_Blagar_Kulijahi_tsv
+2521,blag1240-kulij,sick_painful,dira,d i r a,,datasets_Blagar_Kulijahi_tsv
 2522,blag1240-kulij,shy_ashamed,mənijaŋ,m ə n ij a ŋ,,datasets_Blagar_Kulijahi_tsv
 2523,blag1240-kulij,thirsty,temeŋ tata,t e m e ŋ _ t a t a,,datasets_Blagar_Kulijahi_tsv
 2524,blag1240-kulij,hungry,menapal,m e n a p a l,,datasets_Blagar_Kulijahi_tsv
@@ -2643,14 +2643,14 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2641,blag1240-kulij,one_hundred,ratu nu,r a t u _ n u,,datasets_Blagar_Kulijahi_tsv
 2642,blag1240-kulij,one_hundred_and_twenty_three,ratu nu ariaru betal tue,r a t u _ n u _ a r ia r u _ b e t a l _ t u e,,datasets_Blagar_Kulijahi_tsv
 2643,blag1240-kulij,thousand,ribu nu,r i b u _ n u,,datasets_Blagar_Kulijahi_tsv
-2644,blag1240-kulij,grandmother,nidat,n i d a t,The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
-2645,blag1240-kulij,grandchild,towal tidaʔ,t o w a l _ t i d a ʔ,The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
-2646,blag1240-kulij,mother_s_brother,nimaŋera,n i m a ŋ e r a,'uncle'; The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
-2647,blag1240-kulij,nephew_niece,ebilaŋ,e b i l a ŋ,The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
-2648,blag1240-kulij,older_sister,tata ʤahuŋ,t a t a _ dʒ a h u ŋ,'older sister'; The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
-2649,blag1240-kulij,woman_s_younger_sister,kaw ʤahuŋ,k a w _ dʒ a h u ŋ,'younger sister'; The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
-2650,blag1240-kulij,cross_cousin,bromu,b r o m u,The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
-2651,blag1240-kulij,father_s_sister,tivaera,t i v a e r a,'aunt'; The kinship task also asks for this term,datasets_Blagar_Kulijahi_tsv
+2644,blag1240-kulij,grandmother,nidat,n i d a t,,datasets_Blagar_Kulijahi_tsv
+2645,blag1240-kulij,grandchild,towal tidaʔ,t o w a l _ t i d a ʔ,,datasets_Blagar_Kulijahi_tsv
+2646,blag1240-kulij,mother_s_brother,nimaŋera,n i m a ŋ e r a,uncle',datasets_Blagar_Kulijahi_tsv
+2647,blag1240-kulij,nephew_niece,ebilaŋ,e b i l a ŋ,,datasets_Blagar_Kulijahi_tsv
+2648,blag1240-kulij,older_sister,tata ʤahuŋ,t a t a _ dʒ a h u ŋ,older sister',datasets_Blagar_Kulijahi_tsv
+2649,blag1240-kulij,woman_s_younger_sister,kaw ʤahuŋ,k a w _ dʒ a h u ŋ,younger sister',datasets_Blagar_Kulijahi_tsv
+2650,blag1240-kulij,cross_cousin,bromu,b r o m u,,datasets_Blagar_Kulijahi_tsv
+2651,blag1240-kulij,father_s_sister,tivaera,t i v a e r a,aunt',datasets_Blagar_Kulijahi_tsv
 2652,blag1240-kulij,oven_cooking_place,tutu,t u t u,,datasets_Blagar_Kulijahi_tsv
 2653,blag1240-kulij,flower_in_e_g_mangga_tree,tei buma,t ei _ b u m a,,datasets_Blagar_Kulijahi_tsv
 2654,blag1240-kulij,vein,urat,u r a t,,datasets_Blagar_Kulijahi_tsv
@@ -2811,8 +2811,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2809,blag1240-nule,fingernail,tataŋ krusiŋ,t a t a ŋ _ k r u s i ŋ,,datasets_Blagar_Nule_tsv
 2810,blag1240-nule,breast,ha:m,h aː m,,datasets_Blagar_Nule_tsv
 2811,blag1240-nule,navel,təpuar,t ə p ua r,,datasets_Blagar_Nule_tsv
-2812,blag1240-nule,penis,tal,t a l,"Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.",datasets_Blagar_Nule_tsv
-2813,blag1240-nule,vagina,ar,a r,"Kemaluan perempuan, same as above.",datasets_Blagar_Nule_tsv
+2812,blag1240-nule,penis,tal,t a l,,datasets_Blagar_Nule_tsv
+2813,blag1240-nule,vagina,ar,a r,,datasets_Blagar_Nule_tsv
 2814,blag1240-nule,testicles,toto kulu,t o t o _ k u l u,,datasets_Blagar_Nule_tsv
 2815,blag1240-nule,leg,ti'ʤa,t i dʒ a,,datasets_Blagar_Nule_tsv
 2816,blag1240-nule,heel_of_foot,tiʤa omol,t i dʒ a _ o m o l,,datasets_Blagar_Nule_tsv
@@ -2826,7 +2826,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2824,blag1240-nule,feverish,viviriŋ,v i v i r i ŋ,,datasets_Blagar_Nule_tsv
 2825,blag1240-nule,conjunctivitis,tembrak,t e m b r a k,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Blagar_Nule_tsv
 2826,blag1240-nule,cold_influenza,təmiŋ omi pi,t ə m i ŋ _ o m i _ p i,,datasets_Blagar_Nule_tsv
-2827,blag1240-nule,person,ne:nu,n eː n u,"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'",datasets_Blagar_Nule_tsv
+2827,blag1240-nule,person,ne:nu,n eː n u,,datasets_Blagar_Nule_tsv
 2828,blag1240-nule,name,tene,t e n e,,datasets_Blagar_Nule_tsv
 2829,blag1240-nule,child,to'al,t o a l,,datasets_Blagar_Nule_tsv
 2830,blag1240-nule,man,mejal,m ej a l,,datasets_Blagar_Nule_tsv
@@ -2841,7 +2841,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2839,blag1240-nule,slave,oho gaiŋ,o h o _ g ai ŋ,,datasets_Blagar_Nule_tsv
 2840,blag1240-nule,left_side,tataŋ ʤasi,t a t a ŋ _ dʒ a s i,"(lit., ‘bad hand’)",datasets_Blagar_Nule_tsv
 2841,blag1240-nule,right_side,tataŋ aw,t a t a ŋ _ a w,"(lit., ‘good hand’)",datasets_Blagar_Nule_tsv
-2842,blag1240-nule,animal,naʔwal,n a ˀw a l,"If they ask which animals, say 'kata untuk .... seperti sapi, ayam, kambing.' (If they also have a different word for animals that are not eaten, e.g. rats (tikus) or snakes (ular), then that is NOT the word we look for.) ",datasets_Blagar_Nule_tsv
+2842,blag1240-nule,animal,naʔwal,n a ˀw a l,,datasets_Blagar_Nule_tsv
 2843,blag1240-nule,dog,ʤabar,dʒ a b a r,,datasets_Blagar_Nule_tsv
 2844,blag1240-nule,pig,be,b e,,datasets_Blagar_Nule_tsv
 2845,blag1240-nule,chicken,haŋi,h a ŋ i,,datasets_Blagar_Nule_tsv
@@ -2905,7 +2905,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2903,blag1240-nule,light,ʤara,dʒ a r a,,datasets_Blagar_Nule_tsv
 2904,blag1240-nule,dirty,kə'ritak,k ə r i t a k,,datasets_Blagar_Nule_tsv
 2905,blag1240-nule,clean,mulaŋ,m u l a ŋ,,datasets_Blagar_Nule_tsv
-2906,blag1240-nule,sharp,maŋ,m a ŋ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Blagar_Nule_tsv
+2906,blag1240-nule,sharp,maŋ,m a ŋ,,datasets_Blagar_Nule_tsv
 2907,blag1240-nule,blunt,kumbul,k u m b u l,,datasets_Blagar_Nule_tsv
 2908,blag1240-nule,heavy,tə'madi,t ə m a d i,,datasets_Blagar_Nule_tsv
 2909,blag1240-nule,light_weight,'vila,v i l a,,datasets_Blagar_Nule_tsv
@@ -2928,7 +2928,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2926,blag1240-nule,green,koako'a,k o a k o a,,datasets_Blagar_Nule_tsv
 2927,blag1240-nule,blue,koako'a,k o a k o a,,datasets_Blagar_Nule_tsv
 2928,blag1240-nule,yellow,'bori,b o r i,,datasets_Blagar_Nule_tsv
-2929,blag1240-nule,sick_painful,dira,d i r a,"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.",datasets_Blagar_Nule_tsv
+2929,blag1240-nule,sick_painful,dira,d i r a,,datasets_Blagar_Nule_tsv
 2930,blag1240-nule,shy_ashamed,mə'nijaŋ,m ə n ij a ŋ,,datasets_Blagar_Nule_tsv
 2931,blag1240-nule,shy_ashamed,tawabilil,t a w a b i l i l,,datasets_Blagar_Nule_tsv
 2932,blag1240-nule,thirsty,təme:n tata,t ə m eː n _ t a t a,,datasets_Blagar_Nule_tsv
@@ -3067,9 +3067,9 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3065,blag1240-nule,two_hundred,ratu aru,r a t u _ a r u,,datasets_Blagar_Nule_tsv
 3066,blag1240-nule,thousand,ribu nu,r i b u _ n u,,datasets_Blagar_Nule_tsv
 3067,blag1240-nule,one_hundred_thousand,sa'lak,s a l a k,‘one million’,datasets_Blagar_Nule_tsv
-3068,blag1240-nule,grandmother,nidat,n i d a t,The kinship task also asks for this term,datasets_Blagar_Nule_tsv
-3069,blag1240-nule,grandfather,nidat,n i d a t,The kinship task also asks for this term,datasets_Blagar_Nule_tsv
-3070,blag1240-nule,grandchild,toal tidat,t o a l _ t i d a t,The kinship task also asks for this term,datasets_Blagar_Nule_tsv
+3068,blag1240-nule,grandmother,nidat,n i d a t,,datasets_Blagar_Nule_tsv
+3069,blag1240-nule,grandfather,nidat,n i d a t,,datasets_Blagar_Nule_tsv
+3070,blag1240-nule,grandchild,toal tidat,t o a l _ t i d a t,,datasets_Blagar_Nule_tsv
 3071,blag1240-nule,oven_cooking_place,tutu,t u t u,,datasets_Blagar_Nule_tsv
 3072,blag1240-nule,flower_in_e_g_mangga_tree,te 'buma,t e _ b u m a,,datasets_Blagar_Nule_tsv
 3073,blag1240-nule,vein,u'rat,u r a t,,datasets_Blagar_Nule_tsv
@@ -3139,7 +3139,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3137,blag1240-tuntu,fire,a:d viriŋ,aː d _ v i r i ŋ,,datasets_Blagar_Tuntuli_tsv
 3138,blag1240-tuntu,smoke,a:d geba'naq,aː d _ g e b a n a q,,datasets_Blagar_Tuntuli_tsv
 3139,blag1240-tuntu,dust,meqai,m e q ai,,datasets_Blagar_Tuntuli_tsv
-3140,blag1240-tuntu,fireplace_ash,'moro,m o r o,"NOT Personeel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.debuPersoneel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers. (dust, after you have been sweeping)",datasets_Blagar_Tuntuli_tsv
+3140,blag1240-tuntu,fireplace_ash,'moro,m o r o,"(dust, after you have been sweeping)",datasets_Blagar_Tuntuli_tsv
 3141,blag1240-tuntu,mud,wa'lasa,w a l a s a,,datasets_Blagar_Tuntuli_tsv
 3142,blag1240-tuntu,clay,meqe,m e q e,,datasets_Blagar_Tuntuli_tsv
 3143,blag1240-tuntu,gravel,war kiri,w a r _ k i r i,,datasets_Blagar_Tuntuli_tsv
@@ -3195,7 +3195,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3193,blag1240-tuntu,bean,tagul,t a g u l,,datasets_Blagar_Tuntuli_tsv
 3194,blag1240-tuntu,honey,meger ʤer,m e g e r _ dʒ e r,"taun jer ‘honey from tree’, meger jer ‘honey from ground’",datasets_Blagar_Tuntuli_tsv
 3195,blag1240-tuntu,honey,taun ʤer,t au n _ dʒ e r,"taun jer ‘honey from tree’, meger jer ‘honey from ground’",datasets_Blagar_Tuntuli_tsv
-3196,blag1240-tuntu,milk,tu,t u,"not Personeel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.breastPersoneel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.",datasets_Blagar_Tuntuli_tsv
+3196,blag1240-tuntu,milk,tu,t u,,datasets_Blagar_Tuntuli_tsv
 3197,blag1240-tuntu,salt,isar,i s a r,,datasets_Blagar_Tuntuli_tsv
 3198,blag1240-tuntu,fat,'tama,t a m a,,datasets_Blagar_Tuntuli_tsv
 3199,blag1240-tuntu,bone,kira,k i r a,,datasets_Blagar_Tuntuli_tsv
@@ -3228,8 +3228,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3226,blag1240-tuntu,fingernail,tataŋ kurusiŋ,t a t a ŋ _ k u r u s i ŋ,,datasets_Blagar_Tuntuli_tsv
 3227,blag1240-tuntu,breast,pitu,p i t u,,datasets_Blagar_Tuntuli_tsv
 3228,blag1240-tuntu,navel,tupusal,t u p u s a l,,datasets_Blagar_Tuntuli_tsv
-3229,blag1240-tuntu,penis,'oto,o t o,"Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.",datasets_Blagar_Tuntuli_tsv
-3230,blag1240-tuntu,vagina,tar,t a r,"Kemaluan perempuan, same as above.",datasets_Blagar_Tuntuli_tsv
+3229,blag1240-tuntu,penis,'oto,o t o,,datasets_Blagar_Tuntuli_tsv
+3230,blag1240-tuntu,vagina,tar,t a r,,datasets_Blagar_Tuntuli_tsv
 3231,blag1240-tuntu,testicles,'oto goxal,o t o _ g o x a l,,datasets_Blagar_Tuntuli_tsv
 3232,blag1240-tuntu,leg,nijax,n ij a x,,datasets_Blagar_Tuntuli_tsv
 3233,blag1240-tuntu,heel_of_foot,tiaq kuda wali,t ia q _ k u d a _ w a l i,,datasets_Blagar_Tuntuli_tsv
@@ -3243,13 +3243,13 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3241,blag1240-tuntu,feverish,biriŋ,b i r i ŋ,,datasets_Blagar_Tuntuli_tsv
 3242,blag1240-tuntu,conjunctivitis,ten dira,t e n _ d i r a,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Blagar_Tuntuli_tsv
 3243,blag1240-tuntu,cold_influenza,qali,q a l i,,datasets_Blagar_Tuntuli_tsv
-3244,blag1240-tuntu,person,uʤaxa,u dʒ a x a,"Not Personeel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.manusiaPersoneel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers. (human being). Elicit Personeel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.orangPersoneel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers. with a numeral, for example Personeel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.ada satu orang, dua orang, tiga orang...Personeel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.",datasets_Blagar_Tuntuli_tsv
+3244,blag1240-tuntu,person,uʤaxa,u dʒ a x a,,datasets_Blagar_Tuntuli_tsv
 3245,blag1240-tuntu,name,genuŋ,g e n u ŋ,,datasets_Blagar_Tuntuli_tsv
 3246,blag1240-tuntu,child,toxal,t o x a l,,datasets_Blagar_Tuntuli_tsv
 3247,blag1240-tuntu,man,samesal,s a m e s a l,,datasets_Blagar_Tuntuli_tsv
 3248,blag1240-tuntu,woman,sajaxuŋ,s aj a x u ŋ,,datasets_Blagar_Tuntuli_tsv
 3249,blag1240-tuntu,husband,teniŋ,t e n i ŋ,,datasets_Blagar_Tuntuli_tsv
-3250,blag1240-tuntu,wife,piparas,p i p a r a s,"Not Personeel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers.married womanPersoneel en organisatie  Medewerkers van de Faculteit der Geesteswetenschappen kunnen terecht bij P&O voor vragen over hun dienstverband, salaris en diensten voor medewerkers..",datasets_Blagar_Tuntuli_tsv
+3250,blag1240-tuntu,wife,piparas,p i p a r a s,,datasets_Blagar_Tuntuli_tsv
 3251,blag1240-tuntu,mother,piva,p i v a,,datasets_Blagar_Tuntuli_tsv
 3252,blag1240-tuntu,father,pimaŋ,p i m a ŋ,,datasets_Blagar_Tuntuli_tsv
 3253,blag1240-tuntu,older_sibling,pikaw,p i k a w,,datasets_Blagar_Tuntuli_tsv
@@ -3321,7 +3321,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3319,blag1240-tuntu,light,lira,l i r a,,datasets_Blagar_Tuntuli_tsv
 3320,blag1240-tuntu,dirty,'pari,p a r i,,datasets_Blagar_Tuntuli_tsv
 3321,blag1240-tuntu,clean,mosolaŋ,m o s o l a ŋ,,datasets_Blagar_Tuntuli_tsv
-3322,blag1240-tuntu,sharp,magaŋ,m a g a ŋ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Blagar_Tuntuli_tsv
+3322,blag1240-tuntu,sharp,magaŋ,m a g a ŋ,,datasets_Blagar_Tuntuli_tsv
 3323,blag1240-tuntu,blunt,kumal,k u m a l,,datasets_Blagar_Tuntuli_tsv
 3324,blag1240-tuntu,heavy,ta'madi,t a m a d i,,datasets_Blagar_Tuntuli_tsv
 3325,blag1240-tuntu,light_weight,'vila,v i l a,,datasets_Blagar_Tuntuli_tsv
@@ -3344,7 +3344,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3342,blag1240-tuntu,green,quaqua,q ua q ua,,datasets_Blagar_Tuntuli_tsv
 3343,blag1240-tuntu,blue,quaqua,q ua q ua,,datasets_Blagar_Tuntuli_tsv
 3344,blag1240-tuntu,yellow,bogori,b o g o r i,,datasets_Blagar_Tuntuli_tsv
-3345,blag1240-tuntu,sick_painful,dira,d i r a,"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.",datasets_Blagar_Tuntuli_tsv
+3345,blag1240-tuntu,sick_painful,dira,d i r a,,datasets_Blagar_Tuntuli_tsv
 3346,blag1240-tuntu,shy_ashamed,nawa qareʤuŋ,n a w a _ q a r e dʒ u ŋ,,datasets_Blagar_Tuntuli_tsv
 3347,blag1240-tuntu,thirsty,tamaŋ taxata,t a m a ŋ _ t a x a t a,,datasets_Blagar_Tuntuli_tsv
 3348,blag1240-tuntu,hungry,toboŋal,t o b o ŋ a l,,datasets_Blagar_Tuntuli_tsv
@@ -3476,9 +3476,9 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3474,blag1240-tuntu,one_hundred_and_twenty_three,aratu nuk qar akur wali tuge,a r a t u _ n u k _ q a r _ a k u r _ w a l i _ t u g e,,datasets_Blagar_Tuntuli_tsv
 3475,blag1240-tuntu,two_hundred,aratu aku,a r a t u _ a k u,,datasets_Blagar_Tuntuli_tsv
 3476,blag1240-tuntu,thousand,iribu nuk,i r i b u _ n u k,,datasets_Blagar_Tuntuli_tsv
-3477,blag1240-tuntu,grandmother,pibapa,p i b a p a,The kinship task also asks for this term,datasets_Blagar_Tuntuli_tsv
-3478,blag1240-tuntu,grandfather,pibapa,p i b a p a,The kinship task also asks for this term,datasets_Blagar_Tuntuli_tsv
-3479,blag1240-tuntu,grandchild,tidak toxal,t i d a k _ t o x a l,The kinship task also asks for this term,datasets_Blagar_Tuntuli_tsv
+3477,blag1240-tuntu,grandmother,pibapa,p i b a p a,,datasets_Blagar_Tuntuli_tsv
+3478,blag1240-tuntu,grandfather,pibapa,p i b a p a,,datasets_Blagar_Tuntuli_tsv
+3479,blag1240-tuntu,grandchild,tidak toxal,t i d a k _ t o x a l,,datasets_Blagar_Tuntuli_tsv
 3480,blag1240-tuntu,oven_cooking_place,tu'tuk,t u t u k,,datasets_Blagar_Tuntuli_tsv
 3481,blag1240-tuntu,flower_in_e_g_mangga_tree,tei buŋ,t ei _ b u ŋ,,datasets_Blagar_Tuntuli_tsv
 3482,blag1240-tuntu,vein,'turu,t u r u,,datasets_Blagar_Tuntuli_tsv
@@ -3657,7 +3657,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3655,blag1240-warsa,tinea,banau,b a n au,,datasets_Blagar_Warsalelang_tsv
 3656,blag1240-warsa,feverish,biriŋ,b i r i ŋ,,datasets_Blagar_Warsalelang_tsv
 3657,blag1240-warsa,cold_influenza,sotai memva,s o t ai _ m e m v a,,datasets_Blagar_Warsalelang_tsv
-3658,blag1240-warsa,person,piŋ,p i ŋ,"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'",datasets_Blagar_Warsalelang_tsv
+3658,blag1240-warsa,person,piŋ,p i ŋ,,datasets_Blagar_Warsalelang_tsv
 3659,blag1240-warsa,name,tene,t e n e,,datasets_Blagar_Warsalelang_tsv
 3660,blag1240-warsa,child,toxal,t o x a l,'our offspring'.,datasets_Blagar_Warsalelang_tsv
 3661,blag1240-warsa,child,vaxal,v a x a l,'child (generic)'.,datasets_Blagar_Warsalelang_tsv
@@ -3750,7 +3750,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3748,blag1240-warsa,dirty,ilbuta,i l b u t a,,datasets_Blagar_Warsalelang_tsv
 3749,blag1240-warsa,dirty,iltobor,i l t o b o r,,datasets_Blagar_Warsalelang_tsv
 3750,blag1240-warsa,clean,musolaŋ,m u s o l a ŋ,,datasets_Blagar_Warsalelang_tsv
-3751,blag1240-warsa,sharp,magaŋ,m a g a ŋ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Blagar_Warsalelang_tsv
+3751,blag1240-warsa,sharp,magaŋ,m a g a ŋ,,datasets_Blagar_Warsalelang_tsv
 3752,blag1240-warsa,blunt,kumal,k u m a l,,datasets_Blagar_Warsalelang_tsv
 3753,blag1240-warsa,heavy,tamadi,t a m a d i,,datasets_Blagar_Warsalelang_tsv
 3754,blag1240-warsa,light_weight,vila,v i l a,,datasets_Blagar_Warsalelang_tsv
@@ -3774,7 +3774,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3772,blag1240-warsa,red,tena,t e n a,,datasets_Blagar_Warsalelang_tsv
 3773,blag1240-warsa,green,xoxwa,x o x w a,,datasets_Blagar_Warsalelang_tsv
 3774,blag1240-warsa,yellow,bogori,b o g o r i,,datasets_Blagar_Warsalelang_tsv
-3775,blag1240-warsa,sick_painful,dira,d i r a,"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.",datasets_Blagar_Warsalelang_tsv
+3775,blag1240-warsa,sick_painful,dira,d i r a,,datasets_Blagar_Warsalelang_tsv
 3776,blag1240-warsa,shy_ashamed,gavaxororiŋ,g a v a x o r o r i ŋ,,datasets_Blagar_Warsalelang_tsv
 3777,blag1240-warsa,thirsty,gemen taxata,g e m e n _ t a x a t a,,datasets_Blagar_Warsalelang_tsv
 3778,blag1240-warsa,hungry,toboŋgal,t o b o ŋ g a l,,datasets_Blagar_Warsalelang_tsv
@@ -3917,19 +3917,19 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3915,blag1240-warsa,one_hundred_and_twenty_three,aratu xar akur vali tuge,a r a t u _ x a r _ a k u r _ v a l i _ t u g e,,datasets_Blagar_Warsalelang_tsv
 3916,blag1240-warsa,thousand,iribunuk,i r i b u n u k,,datasets_Blagar_Warsalelang_tsv
 3917,blag1240-warsa,one_hundred_thousand,aratu mixar nuk,a r a t u _ m i x a r _ n u k,,datasets_Blagar_Warsalelang_tsv
-3918,blag1240-warsa,grandmother,pi-bapa aʤaxu,p i _ b a p a _ a dʒ a x u,The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
-3919,blag1240-warsa,grandfather,pi-bapa mesal,p i _ b a p a _ m e s a l,The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
-3920,blag1240-warsa,grandchild,pidat,p i d a t,The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
-3921,blag1240-warsa,mother_s_brother,nimaŋera,n i m a ŋ e r a,'uncle'; The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
-3922,blag1240-warsa,nephew_niece,neilaŋ,n ei l a ŋ,The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
+3918,blag1240-warsa,grandmother,pi-bapa aʤaxu,p i _ b a p a _ a dʒ a x u,,datasets_Blagar_Warsalelang_tsv
+3919,blag1240-warsa,grandfather,pi-bapa mesal,p i _ b a p a _ m e s a l,,datasets_Blagar_Warsalelang_tsv
+3920,blag1240-warsa,grandchild,pidat,p i d a t,,datasets_Blagar_Warsalelang_tsv
+3921,blag1240-warsa,mother_s_brother,nimaŋera,n i m a ŋ e r a,uncle'; ,datasets_Blagar_Warsalelang_tsv
+3922,blag1240-warsa,nephew_niece,neilaŋ,n ei l a ŋ,,datasets_Blagar_Warsalelang_tsv
 3923,blag1240-warsa,older_sister,-dik,_ d i k,'opposite six sibling'.,datasets_Blagar_Warsalelang_tsv
 3924,blag1240-warsa,older_sister,-kaw,_ k a w,'same sex sibling'.,datasets_Blagar_Warsalelang_tsv
 3925,blag1240-warsa,older_sister,-mutu,_ m u t u,'oldest'.,datasets_Blagar_Warsalelang_tsv
-3926,blag1240-warsa,older_sister,tedik gemutu,t e d i k _ g e m u t u,"-kaw 'same sex sibling', -mutu 'oldest', -dik 'opposite six sibling'; The kinship task also asks for this term",datasets_Blagar_Warsalelang_tsv
-3927,blag1240-warsa,woman_s_younger_sister,kaw ʤahuŋ,k a w _ dʒ a h u ŋ,The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
-3928,blag1240-warsa,brother_in_law,neʔeŋ,n eʔe ŋ,'in-law'; The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
-3929,blag1240-warsa,cross_cousin,pi-bromuŋ,p i _ b r o m u ŋ,The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
-3930,blag1240-warsa,father_s_sister,nivaera,n i v a e r a,'aunt'; The kinship task also asks for this term,datasets_Blagar_Warsalelang_tsv
+3926,blag1240-warsa,older_sister,tedik gemutu,t e d i k _ g e m u t u,"-kaw 'same sex sibling', -mutu 'oldest', -dik 'opposite six sibling'",datasets_Blagar_Warsalelang_tsv
+3927,blag1240-warsa,woman_s_younger_sister,kaw ʤahuŋ,k a w _ dʒ a h u ŋ,,datasets_Blagar_Warsalelang_tsv
+3928,blag1240-warsa,brother_in_law,neʔeŋ,n eʔe ŋ,In-law',datasets_Blagar_Warsalelang_tsv
+3929,blag1240-warsa,cross_cousin,pi-bromuŋ,p i _ b r o m u ŋ,,datasets_Blagar_Warsalelang_tsv
+3930,blag1240-warsa,father_s_sister,nivaera,n i v a e r a,aunt',datasets_Blagar_Warsalelang_tsv
 3931,blag1240-warsa,oven_cooking_place,tutuk,t u t u k,,datasets_Blagar_Warsalelang_tsv
 3932,blag1240-warsa,flower_in_e_g_mangga_tree,tei buma,t ei _ b u m a,,datasets_Blagar_Warsalelang_tsv
 3933,blag1240-warsa,vein,pi-turu,p i _ t u r u,,datasets_Blagar_Warsalelang_tsv
@@ -4383,8 +4383,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4381,dein1238,fingernail,kupit,k u p i t,,datasets_Deing_tsv
 4382,dein1238,breast,aŋ,a ŋ,,datasets_Deing_tsv
 4383,dein1238,navel,notai,n o t ai,,datasets_Deing_tsv
-4384,dein1238,penis,pe,p e,"Kemaluan laki-laki. Often taboo. Be sensitive, explain: ini sehingga anggota tubuh semua  bisa dimasukkan dalam dalam kamus, itu saja, jangan marah bapak? If they still remain silent, skip.",datasets_Deing_tsv
-4385,dein1238,vagina,nar,n a r,"Kemaluan perempuan, same as above.",datasets_Deing_tsv
+4384,dein1238,penis,pe,p e,,datasets_Deing_tsv
+4385,dein1238,vagina,nar,n a r,,datasets_Deing_tsv
 4386,dein1238,testicles,ih,i h,,datasets_Deing_tsv
 4387,dein1238,foot,nawat,n a w a t,"nawat 'foot', taq 'leg'",datasets_Deing_tsv
 4388,dein1238,foot,taq,t a q,"nawat 'foot', taq 'leg'",datasets_Deing_tsv
@@ -4398,7 +4398,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4396,dein1238,feverish,wu luwe,w u _ l uw e,,datasets_Deing_tsv
 4397,dein1238,conjunctivitis,naiti iʔ,n ai t i _ i ʔ,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Deing_tsv
 4398,dein1238,cold_influenza,qalnuŋ pak:aŋ,q a l n u ŋ _ p a kː a ŋ,,datasets_Deing_tsv
-4399,dein1238,person,uj,uj,"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'",datasets_Deing_tsv
+4399,dein1238,person,uj,uj,,datasets_Deing_tsv
 4400,dein1238,name,lu:t,l uː t,,datasets_Deing_tsv
 4401,dein1238,child,nauqe,n au q e,,datasets_Deing_tsv
 4402,dein1238,man,masir,m a s i r,,datasets_Deing_tsv
@@ -4473,7 +4473,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4471,dein1238,light,lir al,l i r _ a l,,datasets_Deing_tsv
 4472,dein1238,dirty,quŋ qa'lit,q u ŋ _ q a l i t,,datasets_Deing_tsv
 4473,dein1238,clean,musuwal,m u s uw a l,,datasets_Deing_tsv
-4474,dein1238,sharp,matuʔ,m a t u ʔ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Deing_tsv
+4474,dein1238,sharp,matuʔ,m a t u ʔ,,datasets_Deing_tsv
 4475,dein1238,blunt,lu:k,l uː k,,datasets_Deing_tsv
 4476,dein1238,heavy,shur,sʰ u r,,datasets_Deing_tsv
 4477,dein1238,heavy,sxur,s x u r,,datasets_Deing_tsv
@@ -4495,7 +4495,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4493,dein1238,green,alogur,a l o g u r,,datasets_Deing_tsv
 4494,dein1238,blue,ur-ur,u r _ u r,,datasets_Deing_tsv
 4495,dein1238,yellow,bug,b u g,,datasets_Deing_tsv
-4496,dein1238,sick_painful,iʔ,i ʔ,"There may be several words, e.g. sakit setelah dipukul (pain felt after being hit); sakit luka (pain of a wound), or sakit demam (have a fever). We look for the word used for sakit demam.",datasets_Deing_tsv
+4496,dein1238,sick_painful,iʔ,i ʔ,,datasets_Deing_tsv
 4497,dein1238,shy_ashamed,iraʔar,i r aʔa r,,datasets_Deing_tsv
 4498,dein1238,thirsty,naʔaŋ qijaq,n aʔa ŋ _ q ij a q,,datasets_Deing_tsv
 4499,dein1238,hungry,pu:g,p uː g,,datasets_Deing_tsv
@@ -4627,12 +4627,12 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4625,dein1238,two_hundred,aratu raq,a r a t u _ r a q,,datasets_Deing_tsv
 4626,dein1238,thousand,aribu nuk,a r i b u _ n u k,,datasets_Deing_tsv
 4627,dein1238,one_hundred_thousand,salak nuk,s a l a k _ n u k,,datasets_Deing_tsv
-4628,dein1238,grandmother,ku'waf,k u w a f,(kuwáf 'old woman'); The kinship task also asks for this term,datasets_Deing_tsv
-4629,dein1238,grandmother,tapis,t a p i s,(kuwáf 'old woman'); The kinship task also asks for this term,datasets_Deing_tsv
-4630,dein1238,grandfather,kri,k r i, (kri  'old man'); The kinship task also asks for this term,datasets_Deing_tsv
-4631,dein1238,grandfather,taler,t a l e r, (kri  'old man'); The kinship task also asks for this term,datasets_Deing_tsv
-4632,dein1238,grandchild,taler,t a l e r,The kinship task also asks for this term,datasets_Deing_tsv
-4633,dein1238,grandchild,tapis,t a p i s,The kinship task also asks for this term,datasets_Deing_tsv
+4628,dein1238,grandmother,ku'waf,k u w a f,(kuwáf 'old woman'),datasets_Deing_tsv
+4629,dein1238,grandmother,tapis,t a p i s,(kuwáf 'old woman'),datasets_Deing_tsv
+4630,dein1238,grandfather,kri,k r i, (kri  'old man'),datasets_Deing_tsv
+4631,dein1238,grandfather,taler,t a l e r, (kri  'old man'),datasets_Deing_tsv
+4632,dein1238,grandchild,taler,t a l e r,,datasets_Deing_tsv
+4633,dein1238,grandchild,tapis,t a p i s,,datasets_Deing_tsv
 4634,dein1238,oven_cooking_place,twuq,tʷ u q,,datasets_Deing_tsv
 4635,dein1238,flower_in_e_g_mangga_tree,la'xar,l a x a r,,datasets_Deing_tsv
 4636,dein1238,vein,trau,tr au,,datasets_Deing_tsv
@@ -4722,7 +4722,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4720,hama1240,knee,nɛfaʔ.ur,n ɛ f a ʔ _ u r,,datasets_Hamap_Moru_tsv
 4721,hama1240,back,tahɛŋ,t a h ɛ ŋ,,datasets_Hamap_Moru_tsv
 4722,hama1240,skin,ʊil,ʊ i l,,datasets_Hamap_Moru_tsv
-4723,hama1240,person,namɛ,n a m ɛ,"Not 'manusia' (human being). Elicit 'orang' with a numeral, for example 'ada satu orang, dua orang, tiga orang...'",datasets_Hamap_Moru_tsv
+4723,hama1240,person,namɛ,n a m ɛ,,datasets_Hamap_Moru_tsv
 4724,hama1240,name,anɛ,a n ɛ,,datasets_Hamap_Moru_tsv
 4725,hama1240,child,ai,ai,,datasets_Hamap_Moru_tsv
 4726,hama1240,man,lotɛ,l o t ɛ,,datasets_Hamap_Moru_tsv
@@ -4771,7 +4771,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4769,hama1240,round,lum,l u m,,datasets_Hamap_Moru_tsv
 4770,hama1240,dark,pøka,p ø k a,,datasets_Hamap_Moru_tsv
 4771,hama1240,dirty,kanu,k a n u,,datasets_Hamap_Moru_tsv
-4772,hama1240,sharp,hodiŋ,h o d i ŋ,"Of spear (tombak) or machete (parang); if there are two different words, elicit both.",datasets_Hamap_Moru_tsv
+4772,hama1240,sharp,hodiŋ,h o d i ŋ,,datasets_Hamap_Moru_tsv
 4773,hama1240,blunt,umɛʔ,u m ɛ ʔ,,datasets_Hamap_Moru_tsv
 4774,hama1240,heavy,tarofɛ,t a r o f ɛ,,datasets_Hamap_Moru_tsv
 4775,hama1240,straight,abur,a b u r,,datasets_Hamap_Moru_tsv
@@ -4866,8 +4866,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4864,hama1240,ten,airnu,ai r n u,,datasets_Hamap_Moru_tsv
 4865,hama1240,twenty,air alo,ai r _ a l o,,datasets_Hamap_Moru_tsv
 4866,hama1240,one_hundred,ratnu,r a n̥ u,,datasets_Hamap_Moru_tsv
-4867,hama1240,grandmother,bab,b a b,The kinship task also asks for this term,datasets_Hamap_Moru_tsv
-4868,hama1240,grandchild,diʔ.iŋ,d i ʔ _ i ŋ,The kinship task also asks for this term,datasets_Hamap_Moru_tsv
+4867,hama1240,grandmother,bab,b a b,,datasets_Hamap_Moru_tsv
+4868,hama1240,grandchild,diʔ.iŋ,d i ʔ _ i ŋ,,datasets_Hamap_Moru_tsv
 4869,hama1240,flower_in_e_g_mangga_tree,buŋ,b u ŋ,,datasets_Hamap_Moru_tsv
 4870,hama1240,long_stick,lai,l ai,,datasets_Hamap_Moru_tsv
 4871,hama1240,short_stick,toʔaŋ,t o ʔ a ŋ,,datasets_Hamap_Moru_tsv
