@@ -249,6 +249,7 @@ def lingpy(args):
     reader = csv.DictReader(input_file, delimiter="\t")
     for i, row in enumerate(reader):
         if i == 0:
+            # FIXME: Refactor 'writer' variable so it cannot be called if it is not defined yet.
             writer = csv.DictWriter(
                 output_file, delimiter=",",
                 fieldnames=[
@@ -260,7 +261,6 @@ def lingpy(args):
             for key, value in row.items()})
 
 
-# FIXME: Refactor 'writer' variable so it cannot be called if it is not defined yet.
 if __name__ == "__main__":
     parser = ArgumentParser('lingpycldf', cldf, lingpy)
     sys.exit(parser.main())

@@ -15,6 +15,7 @@ import pycldf.dataset
 from clldutils.path import Path
 from pycldf.sources import Source
 
+
 def swap(dictionary):
     """Turn a key:value dict into a value:{keys} dict.
 
@@ -111,7 +112,7 @@ def main(args):
     # relevant.)
     other_seen = set()
     moved_forms = collections.OrderedDict()
-    for i, (name, other) in enumerate(pairs):
+    for index, (name, other) in enumerate(pairs):
         if other in other_seen:
             continue
         else:
@@ -132,32 +133,33 @@ def main(args):
         dataset.sources.add(source)
         dataset.write_sources()
 
-    def new_rows(defaults, last_row_id, moved_forms, realigned_forms, source):
+    def new_rows(defaults, last_row_id, moved_forms_p, realigned_forms, source_p):
         t = type(last_row_id)
-        i = 0
+        i = 0   # FIXME: Is this assignment necessary?
         empty = {"Alignment": [], "Source": []}
-        for i, (form_id, new_cognateset) in enumerate(moved_forms.items()):
-            row = defaults.get(form_id, empty).copy()
-            row["ID"] = last_row_id + t(i+1)
-            row["Form_ID"] = form_id
-            row["Cognateset_ID"] = new_cognateset
+        for i, (form_id, new_cognateset_it) in enumerate(moved_forms_p.items()):
+            row_new = defaults.get(form_id, empty).copy()
+            row_new["ID"] = last_row_id + t(i+1)
+            row_new["Form_ID"] = form_id
+            row_new["Cognateset_ID"] = new_cognateset_it
             if form_id in realigned_forms:
-                row["Alignment"] = realigned_forms[form_id]
-                row["Source"] = [source.id]
+                row_new["Alignment"] = realigned_forms[form_id]
+                row_new["Source"] = [source.id]
             else:
-                row["Alignment"] = defaults[form_id]["Alignment"]
-                row["Source"] = defaults[form_id]["Source"] + [source.id]
-            print(row)
-            yield row
+                row_new["Alignment"] = defaults[form_id]["Alignment"]
+                row_new["Source"] = defaults[form_id]["Source"] + [source_p.id]
+            print(row_new)
+            yield row_new
         for j, (form_id, new_alignment) in enumerate(realigned_forms.items()):
             if not new_alignment:
                 continue
-            row = defaults.get(form_id, empty).copy()
-            row["ID"] = last_row_id + t(i+j+2)
-            row["Alignment"] = realigned_forms[form_id]
-            row["Source"].append(source.id)
-            print(row)
-            yield row
+            row_new = defaults.get(form_id, empty).copy()
+            row_new["ID"] = last_row_id + t(i+j+2)
+            # FIXME: The appended changes get extremely high IDs
+            row_new["Alignment"] = realigned_forms[form_id]
+            row_new["Source"].append(source.id)
+            print(row_new)
+            yield row_new
 
     dataset["CognateTable"].write(itertools.chain(original_rows, new_rows(
         data_on_form,
@@ -190,6 +192,6 @@ if __name__ == "__main__":
     parser.add_argument(
         "--cogid", default="COGID",
         help="""Name of the column containing the cognate set ids""")
-    args = parser.parse_args()
+    arguments = parser.parse_args()
 
-    main(args)
+    main(arguments)
