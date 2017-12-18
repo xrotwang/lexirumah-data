@@ -271,10 +271,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
+                        "datatype": "integer",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "ID"
