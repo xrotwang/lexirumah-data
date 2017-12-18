@@ -120,7 +120,7 @@ def lingpy_to_cldf(columns, replacement=None):
 
 
 def no_separators_or_newlines(string, separator="\t"):
-    """Replace new lines and separators with spaces, semicolons or tabs.
+    r"""Replace new lines and separators with spaces, semicolons or tabs.
 
     Parameters
     ----------
