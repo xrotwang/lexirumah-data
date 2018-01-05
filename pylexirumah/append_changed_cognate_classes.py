@@ -54,7 +54,24 @@ def main(args):
     Parameters
     ----------
     args : Namespace
-        ...
+        A Namespace object with several properties listed below.
+        edictor : FileType
+            ...
+        cldf : Path, optional
+            Path to the CLDF metadata json file.
+        source-id : str, optional
+            String used to source any changes to cognate codes or alignments. This defaults
+            to "edictor".
+        cogid : str, optional
+            String that specifies the header of the column containing the cognate
+            set id's in the Edictor file. This defaults to "COGID".
+
+    Notes
+    -----
+        Once this function is called with the proper arguments, cognates.csv in the CLDF
+        dataset is updated based on the output of Edictor when changes are made to
+        cognate codes or alignments.
+        Sources.bib also gets updated with a new source if specified.
     """
     # Check CLDF argument, in order to fail early if this fails.
     dataset = pycldf.dataset.Wordlist.from_metadata(args.cldf)
@@ -159,6 +176,8 @@ def main(args):
         dataset.write_sources()
 
     def new_rows(defaults, last_row_id, moved_forms_p, realigned_forms, source_p):
+        # TODO: Make a docstring?
+        # What is the benefit of defining this within the main function?
         t = type(last_row_id)
         i = 0   # FIXME: Is this assignment necessary?
         empty = {"Alignment": [], "Source": []}
