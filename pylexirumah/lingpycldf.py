@@ -4,7 +4,7 @@
 
 Example
 -------
-    $ python lingpycldf.py cldf cldf/Wordlist-metadata.json edictor.tsv
+    $ python pylexirumah/lingpycldf.py cldf cldf/Wordlist-metadata.json edictor.tsv
 """
 
 import sys
@@ -153,7 +153,6 @@ def no_separators_or_newlines(string, separator="\t"):
     >>> no_separators_or_newlines('This;is\nSparta!', separator=';')
     'This   is  Sparta!'
     """
-    # FIXME: The new lines work differently in Examples than in python console. Why?
     if separator == "\t":
         string = string.replace("\n", " ")
         return string.replace("\t", " ")
@@ -244,7 +243,21 @@ def cldf(args):
 
 
 def lingpy(args):
-    # TODO: Write a proper docstring.
+    """Load a Lingpy dataset and turn it into a CLDF word list file
+
+    Parameters
+    ----------
+    args : Namespace
+        A Namespace object with an 'args' property, which is a tuple of strings.
+        The strings should be valid paths corresponding to resp. the metadata file of
+        the Lingpy data set and the CLDF word list.
+
+    Notes
+    -----
+        When this function is called, a new CLDF wordlist file is generated at
+        the output path that is passed, based on the input Lingpy dataset.
+    """
+    # TODO: Finish this docstring.
     input_file, output_file = args.args
     reader = csv.DictReader(input_file, delimiter="\t")
     for i, row in enumerate(reader):

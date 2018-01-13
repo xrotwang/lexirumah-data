@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
-"""Update cognate codes and alignments of a CLDF dataset from an Edictor file."""
+"""Update cognate codes and alignments of a CLDF dataset from an Edictor file.
+
+Example
+-------
+    $ python pylexirumah/append_changed_cognate_classes.py edictor.tsv
+"""
 
 import bisect
 import itertools
@@ -21,6 +26,19 @@ def swap(dictionary):
 
     All values in `dictionary` must be hashable.
 
+    Parameters
+    ----------
+    dictionary : dict
+
+    Returns
+    -------
+    dict
+        Dictionary where the keys and values are swapped with respect to the
+        passed dictionary. If a previous value is found under multiple previous keys,
+        these keys are now grouped as a value tuple under the new key.
+
+    Examples
+    --------
     >>> swap({1: 2, 2: 2, 3: 4})
     {2: {1, 2}, 4: {3}}
     """
@@ -31,6 +49,30 @@ def swap(dictionary):
 
 
 def main(args):
+    """ Update cognate codes and alignments of a CLDF dataset from an Edictor file.
+
+    Parameters
+    ----------
+    args : Namespace
+        A Namespace object with several properties listed below.
+        edictor : FileType
+            ...
+        cldf : Path, optional
+            Path to the CLDF metadata json file.
+        source-id : str, optional
+            String used to source any changes to cognate codes or alignments. This defaults
+            to "edictor".
+        cogid : str, optional
+            String that specifies the header of the column containing the cognate
+            set id's in the Edictor file. This defaults to "COGID".
+
+    Notes
+    -----
+        Once this function is called with the proper arguments, cognates.csv in the CLDF
+        dataset is updated based on the output of Edictor when changes are made to
+        cognate codes or alignments.
+        Sources.bib also gets updated with a new source if specified.
+    """
     # Check CLDF argument, in order to fail early if this fails.
     dataset = pycldf.dataset.Wordlist.from_metadata(args.cldf)
 
@@ -134,6 +176,8 @@ def main(args):
         dataset.write_sources()
 
     def new_rows(defaults, last_row_id, moved_forms_p, realigned_forms, source_p):
+        # TODO: Make a docstring?
+        # What is the benefit of defining this within the main function?
         t = type(last_row_id)
         i = 0   # FIXME: Is this assignment necessary?
         empty = {"Alignment": [], "Source": []}
@@ -155,7 +199,6 @@ def main(args):
                 continue
             row_new = defaults.get(form_id, empty).copy()
             row_new["ID"] = last_row_id + t(i+j+2)
-            # FIXME: The appended changes get extremely high IDs
             row_new["Alignment"] = realigned_forms[form_id]
             row_new["Source"].append(source.id)
             print(row_new)
@@ -183,7 +226,7 @@ if __name__ == "__main__":
         "edictor", type=FileType("r"),
         help="Edictor file to use as data source")
     parser.add_argument(
-        "cldf", nargs="?", type=Path, default=Path("Wordlist-metadata.json"),
+        "cldf", nargs="?", type=Path, default=Path("cldf/Wordlist-metadata.json"),
         help="CLDF metadata file for the dataset to be updated")
     parser.add_argument(
         "--source-id", default="edictor",
