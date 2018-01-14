@@ -268,6 +268,9 @@ def import_forms(
     """
 
     # Import all the rows.
+    loans = {}
+    for loan in wordlist["BorrowingTable"].iterdicts():
+        loans[loan["Form_ID_Target"]] = loan["Status"]
     forms = {}
     for row in wordlist["FormTable"].iterdicts():
             language = languages[row["Lect_ID"]]
@@ -291,6 +294,7 @@ def import_forms(
             form = Counterpart(
                 id=vid,
                 valueset=vs,
+                loan=loans.get(row["ID"], 0),
                 comment=row['Comment'],
                 name=value,
                 segments=" ".join(row["Segments"]))
@@ -317,6 +321,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
         DBSession.add(
             CognatesetCounterpart(
                 cognateset=cognateset,
+                doubt=True,
                 alignment=" ".join(row["Alignment"]),
                 counterpart=forms[row["Form_ID"]]))
 
