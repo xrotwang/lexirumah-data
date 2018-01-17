@@ -120,7 +120,7 @@ def create_language_object(row, families={}, identifiers={}):
         id=row["ID"],
         name=row['Name'],
         family=families[family],
-        macroarea=row.get("Region", row.get("Macroarea")),
+        region=row.get("Region", row.get("Macroarea")),
         latitude=row['Latitude'],
         longitude=row['Longitude'],
         description=row['Description'],
