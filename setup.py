@@ -22,6 +22,7 @@ setup(
     install_requires=[
         'pycldf',
         'pyclpa',
+        'clldutils',
     ],
     entry_points={
         'console_scripts': [

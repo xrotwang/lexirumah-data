@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
-"""Update cognate codes and alignments of a CLDF dataset from an Edictor file."""
+"""Update cognate codes and alignments of a CLDF dataset from an Edictor file.
+
+Example
+-------
+    $ python pylexirumah/append_changed_cognate_classes.py edictor.tsv
+"""
 
 import bisect
 import itertools
@@ -15,11 +20,25 @@ import pycldf.dataset
 from clldutils.path import Path
 from pycldf.sources import Source
 
+
 def swap(dictionary):
     """Turn a key:value dict into a value:{keys} dict.
 
     All values in `dictionary` must be hashable.
 
+    Parameters
+    ----------
+    dictionary : dict
+
+    Returns
+    -------
+    dict
+        Dictionary where the keys and values are swapped with respect to the
+        passed dictionary. If a previous value is found under multiple previous keys,
+        these keys are now grouped as a value tuple under the new key.
+
+    Examples
+    --------
     >>> swap({1: 2, 2: 2, 3: 4})
     {2: {1, 2}, 4: {3}}
     """
@@ -29,31 +48,31 @@ def swap(dictionary):
     return swapped
 
 
-if __name__ == "__main__":
-    parser = ArgumentParser(
-        description=__doc__.split("\n")[0] + """
+def main(args):
+    """ Update cognate codes and alignments of a CLDF dataset from an Edictor file.
 
-        The CLDF dataset must have a separate CognateTable. Updates will be
-        appended to that table, existing data will not be touched.
+    Parameters
+    ----------
+    args : Namespace
+        A Namespace object with several properties listed below.
+        edictor : FileType
+            ...
+        cldf : Path, optional
+            Path to the CLDF metadata json file.
+        source-id : str, optional
+            String used to source any changes to cognate codes or alignments. This defaults
+            to "edictor".
+        cogid : str, optional
+            String that specifies the header of the column containing the cognate
+            set id's in the Edictor file. This defaults to "COGID".
 
-        The Edictor file has to be a TSV file with an ID column compatible to
-        the dataset's Form_ID, and cognate classes stored in the `cogid` and
-        alignments stored in the ALIGNMENT column.""")
-    parser.add_argument(
-        "edictor", nargs="?", type=FileType("r"),
-        help="Edictor file to use as data source")
-    parser.add_argument(
-        "cldf", nargs="?", type=Path, default=Path("Wordlist-metadata.json"),
-        help="CLDF metadata file for the dataset to be updated")
-    parser.add_argument(
-        "--source-id", default="edictor",
-        help="""The ID of the source to assign to the updates. If the ID does not exist in
-        the dataset's bibliograpy, it will be created as new @misc entry.""")
-    parser.add_argument(
-        "--cogid", default="COGID",
-        help="""Name of the column containing the cognate set ids""")
-    args = parser.parse_args()
-
+    Notes
+    -----
+        Once this function is called with the proper arguments, cognates.csv in the CLDF
+        dataset is updated based on the output of Edictor when changes are made to
+        cognate codes or alignments.
+        Sources.bib also gets updated with a new source if specified.
+    """
     # Check CLDF argument, in order to fail early if this fails.
     dataset = pycldf.dataset.Wordlist.from_metadata(args.cldf)
 
@@ -135,7 +154,7 @@ if __name__ == "__main__":
     # relevant.)
     other_seen = set()
     moved_forms = collections.OrderedDict()
-    for i, (name, other) in enumerate(pairs):
+    for index, (name, other) in enumerate(pairs):
         if other in other_seen:
             continue
         else:
@@ -154,34 +173,36 @@ if __name__ == "__main__":
     except ValueError:
         source = Source('misc', id_=args.source_id, year=str(datetime.date.today().year))
         dataset.sources.add(source)
+        dataset.write_sources()
 
-
-    def new_rows(defaults, last_row_id, moved_forms, realigned_forms, source):
+    def new_rows(defaults, last_row_id, moved_forms_p, realigned_forms, source_p):
+        # TODO: Make a docstring?
+        # What is the benefit of defining this within the main function?
         t = type(last_row_id)
-        i = 0
+        i = 0   # FIXME: Is this assignment necessary?
         empty = {"Alignment": [], "Source": []}
-        for i, (form_id, new_cognateset) in enumerate(moved_forms.items()):
-            row = defaults.get(form_id, empty).copy()
-            row["ID"] = last_row_id + t(i+1)
-            row["Form_ID"] = form_id
-            row["Cognateset_ID"] = new_cognateset
+        for i, (form_id, new_cognateset_it) in enumerate(moved_forms_p.items()):
+            row_new = defaults.get(form_id, empty).copy()
+            row_new["ID"] = last_row_id + t(i+1)
+            row_new["Form_ID"] = form_id
+            row_new["Cognateset_ID"] = new_cognateset_it
             if form_id in realigned_forms:
-                row["Alignment"] = realigned_forms[form_id]
-                row["Source"] = [source.id]
+                row_new["Alignment"] = realigned_forms[form_id]
+                row_new["Source"] = [source.id]
             else:
-                row["Alignment"] = defaults[form_id]["Alignment"]
-                row["Source"] = defaults[form_id]["Source"] + [source.id]
-            print(row)
-            yield row
+                row_new["Alignment"] = defaults[form_id]["Alignment"]
+                row_new["Source"] = defaults[form_id]["Source"] + [source_p.id]
+            print(row_new)
+            yield row_new
         for j, (form_id, new_alignment) in enumerate(realigned_forms.items()):
             if not new_alignment:
                 continue
-            row = defaults.get(form_id, empty).copy()
-            row["ID"] = last_row_id + t(i+j+2)
-            row["Alignment"] = realigned_forms[form_id]
-            row["Source"].append(source.id)
-            print(row)
-            yield row
+            row_new = defaults.get(form_id, empty).copy()
+            row_new["ID"] = last_row_id + t(i+j+2)
+            row_new["Alignment"] = realigned_forms[form_id]
+            row_new["Source"].append(source.id)
+            print(row_new)
+            yield row_new
 
     dataset["CognateTable"].write(itertools.chain(original_rows, new_rows(
         data_on_form,
@@ -189,4 +210,31 @@ if __name__ == "__main__":
         moved_forms,
         alignments,
         source)))
-    dataset.write_sources()
+
+
+if __name__ == "__main__":
+    parser = ArgumentParser(
+        description=__doc__.split("\n")[0] + """
+
+        The CLDF dataset must have a separate CognateTable. Updates will be
+        appended to that table, existing data will not be touched.
+
+        The Edictor file has to be a TSV file with an ID column compatible to
+        the dataset's Form_ID, and cognate classes stored in the `cogid` and
+        alignments stored in the ALIGNMENT column.""")
+    parser.add_argument(
+        "edictor", type=FileType("r"),
+        help="Edictor file to use as data source")
+    parser.add_argument(
+        "cldf", nargs="?", type=Path, default=Path("cldf/Wordlist-metadata.json"),
+        help="CLDF metadata file for the dataset to be updated")
+    parser.add_argument(
+        "--source-id", default="edictor",
+        help="""The ID of the source to assign to the updates. If the ID does not exist in
+        the dataset's bibliograpy, it will be created as new @misc entry.""")
+    parser.add_argument(
+        "--cogid", default="COGID",
+        help="""Name of the column containing the cognate set ids""")
+    arguments = parser.parse_args()
+
+    main(arguments)
