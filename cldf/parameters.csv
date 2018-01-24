@@ -100,7 +100,7 @@ ice,ICE (noun),,ice,es,The physical world,,,617,
 cuscus,???,,cuscus,kuskus,Animals,,,0,
 big,BIG (adjective),,big,besar,Spatial relations,,,1202,
 voice,VOICE (noun),,voice,suara,Speech and language,,,1363,
-where,WHERE,,where?,mana? (di/ke/dari mana?),Cognition,,,1237,"Keraf: ""Di mana"""
+where,WHERE,,where?,mana? (di/ke/dari mana?),Cognition,,,1237,Keraf: “di mana”
 to_sail,SAIL (verb),,to sail,berlayar,Motion,,,787,
 oven,OVEN (noun),,oven,tungku,Food and drink,,,1143,
 thirteen,THIRTEEN,,thirteen,tiga belas,Quantity,,,1708,
@@ -153,7 +153,7 @@ skin,SKIN (noun),,skin,kulit,The body,,,763,
 jackfruit,???,,jackfruit,nangka,Agriculture and vegetation,,,0,
 clothing,CLOTHING (CLASSIFIER) (classifier),,clothing,pakaian,Clothing and grooming,,,2088,
 cooked_corn,COOKED (adjective),,cooked corn,ketema,Food and drink,,,269,
-louse_clothing,LOUSE (noun),,louse (clothing),tuma; kutu pakaian,Animals,,,1392,
+louse_clothing,LOUSE (noun),,louse (clothing); body louse,tuma; kutu pakaian,Animals,,,1392,
 horn,HORN (INSTRUMENT) (noun),,horn,tanduk,The body,,,939,
 to_pull,PULL (verb),,to pull,tarik,Basic actions and technology,,,1455,
 younger_brother,YOUNGER BROTHER (OF WOMAN) (noun),,younger brother,adik laki-laki,Kinship,,,2417,
@@ -201,7 +201,7 @@ narrow_road,NARROW (adjective),,narrow (road),sempit (jalan),Spatial relations,,
 crocodile,CROCODILE (noun),,crocodile,buaya laut,Animals,,,1857,
 wood,WOOD (noun),,wood,kayu; pohon,The physical world,,,1803,
 2sg_informal,THOU,,2sg (informal),kau; kamu,Kinship,,,1215,
-mother_louse,MOTHER (noun),,mother louse,induk kutu kepala,Animals,,,1216,
+mother_louse,LOUSE (noun),,mother louse; head louse,induk kutu kepala,Animals,,,1392,Keraf: “kutu”
 marriage,MARRIAGE (noun),,marriage,perkawinan,Social and political relations,,,2432,
 claw,CLAW (noun),,claw,cakar,The body,,,72,
 stem,stem,,stem,Batang,,,,,from Keraf
@@ -213,7 +213,7 @@ wide,WIDE (adjective),,wide,lebar,Spatial relations,,,1243,
 man,MAN (noun),,man,laki-laki,Kinship,,,1554,
 broom_sweep,SWEEP (verb),,broom; sweep,sapu,The House,,,230,
 to_learn,LEARN (verb),,to learn,belajar,Cognition,,,504,
-to_fall_from_above,FALL (verb),,to fall (from above),jatuh (dari atas),Motion,,,1280,
+to_fall_from_above,FALL (verb),,to fall (from above),jatuh (dari atas),Motion,,,1280,Keraf: “jatuh”
 fowl,FOWL (noun),,fowl,unggas,Animals,,,265,
 rattan,RATTAN (noun),,rattan,rotan,Agriculture and vegetation,,,2497,
 to_lie_tell_untruth,LIE (MISLEAD) (verb),,to lie (tell untruth),bohong,Emotions and values,,,601,
@@ -254,7 +254,7 @@ fruit,FRUIT (noun),,fruit,buah,Food and drink,,,1507,
 night,NIGHT (noun),,night,malam,Time,,,1233,
 earthworm,EARTHWORM (noun),,earthworm,cacing tanah,Animals,,,2350,
 to_suck,SUCK (verb),,to suck,isap; hirup,Food and drink,,,1421,
-2sg_2pl,2sg;2pl,,2sg;2pl,Engkau/ kamu,,,,,from Keraf
+2sg_2pl,2sg;2pl,,2sg;2pl,engkau/kamu,,,,,from Keraf
 lungs,LUNG (noun),,lungs,paru-paru,The body,,,688,
 to_climb,CLIMB (verb),,to climb,naik,Motion,,,1102,
 forty,FORTY,,forty,empat puluh,Quantity,,,1716,
@@ -268,7 +268,6 @@ flower,FLOWER (noun),,flower,bunga,Agriculture and vegetation,,,239,
 to_shoo_to_chase_away_to_send_away,???,,to shoo; to chase away; to send away,mengusir,Basic actions and technology,,,???,
 tomorrow,TOMORROW,,tomorrow,besok,Time,,,1329,
 to_die,DIE (verb),,to die,mati,The body,,,1494,
-fall,fall,,fall,Jatuh,,,,,from Keraf
 mud,MUD (noun),,mud,lumpur,The physical world,,,640,
 to_think,THINK (REFLECT) (verb),,to think,pikir,Cognition,,,1415,
 papaya,PAPAYA (noun),,papaya,pepaya,Agriculture and vegetation,,,2445,
@@ -388,8 +387,7 @@ four,FOUR,,four,empat,Quantity,,,1500,
 two_hundred,???,,two hundred,dua ratus,Quantity,,,0,
 village,VILLAGE (noun),,village,desa; kampung,Social and political relations,,,930,
 necklace,NECKLACE (noun),,necklace,kalung,Clothing and grooming,,,1961,
-to_burn_to_shine,SHINE (verb),,to burn; to shine,bakar; menyala,Sense perception,,,708,
-burn,burn,,burn,Membakar,,,,,from Keraf
+to_burn_to_shine,SHINE (verb),,to burn; to shine,bakar; menyala,Sense perception,,,708,Keraf: “membakar”
 shark,SHARK (noun),,shark,hiu,Animals,,,1110,
 fishnet,FISHNET (noun),,fishnet,jala,Warfare and hunting,,,388,
 heel_of_foot,FOOT (noun),,heel of foot,tumit,The body,,,1301,
@@ -475,8 +473,7 @@ coral_rock,???,,coral (rock),batu karang,The physical world,,,???,
 sole_of_foot,FOOT (noun),,sole of foot,tapak (kaki),The body,,,1301,
 chest,CHEST (noun),,chest,dada,The body,,,1592,
 to_bathe,BATHE (verb),,to bathe,mandi,The body,,,138,
-louse,louse,,louse,Kutu,,,,,from Keraf
-correct,CORRECT (RIGHT) (adjective),,correct,benar,Emotions and values,,,1725,
+correct,CORRECT (RIGHT) (adjective),,correct,benar,Emotions and values,,,1725,Keraf has “betul” for “correct”.
 right_correct,"right, correct",,"right, correct",Betul,,,,,from Keraf
 water,WATER (noun),,water (fresh),air,The physical world,,,948,
 stomach_belly,BELLY OR STOMACH (noun),,stomach; belly,perut,The body,,,2114,Includes the forms in Keraf (1978) for “isi perut”.
@@ -598,7 +595,7 @@ rope,ROPE (noun),,rope,tali,Basic actions and technology,,,1218,
 clay,CLAY (noun),,clay,tanah liat,The physical world,,,1399,
 foot,FOOT (noun),,foot,kaki,The body,,,1301,
 to_trade_or_barter,BARTER (verb),,to trade or barter,berdagang,Possession,,,370,
-when,WHEN,,when?,kapan?,Cognition,,,1238,"Keraf: ""Bilamana"""
+when,WHEN,,when?,kapan?,Cognition,,,1238,Keraf: “bilamana”
 to_stand,STAND (verb),,to stand,diri,Spatial relations,,,1442,
 to_wake_up,WAKE UP (verb),,to wake up,bangun,The body,,,1602,
 to_grasp,GRASP (verb),,to grasp,memegang,Possession,,,2021,
