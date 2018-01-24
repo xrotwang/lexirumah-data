@@ -28,32 +28,28 @@ from lexibank.scripts.initializedb import prime_cache
 from util import identifier
 
 
-try:
-    # Attempt to load enoug Lexirumah to construct an SQLite database for it.
-    from clld.db.meta import DBSession
-    from clld.db.models import common
-    Dataset = common.Dataset
-    Editor = common.Editor
-    Contributor = common.Contributor
-    ContributionContributor = common.ContributionContributor
-    ValueSet = common.ValueSet
-    Identifier = common.Identifier
-    LanguageIdentifier = common.LanguageIdentifier
-    from lexibank.models import (
-        LexibankLanguage, LexibankSource, Concept, Provider, Counterpart,
-        CognatesetCounterpart, Cognateset, CounterpartReference)
-    from clld_glottologfamily_plugin.models import Family
-    model_is_available = True
-
-except ImportError:
-    # We could not get Lexibank to load, create some dummy classes to
-    # test at least some relations between the data.
-    raise
+# Attempt to load enoug Lexirumah to construct an SQLite database for it.
+from clld.db.meta import DBSession
+from clld.db.models import common
+Dataset = common.Dataset
+Editor = common.Editor
+Contributor = common.Contributor
+ContributionContributor = common.ContributionContributor
+ValueSet = common.ValueSet
+Identifier = common.Identifier
+LanguageIdentifier = common.LanguageIdentifier
+from lexibank.models import (
+    LexibankLanguage, LexibankSource, Concept, Provider, Counterpart,
+    CognatesetCounterpart, Cognateset, CognatesetCounterpartReference,
+    CounterpartReference)
+from clld_glottologfamily_plugin.models import Family
+model_is_available = True
 
 
 ICONS = iter(
     ['c0000dd',
      'fdd0000'])
+
 
 # Utility functions
 def report(problem, *args, process_log=None):
@@ -124,7 +120,7 @@ def create_language_object(row, families={}, identifiers={}):
         id=row["ID"],
         name=row['Name'],
         family=families[family],
-        macroarea=row.get("Region", row.get("Macroarea")),
+        region=row.get("Region", row.get("Macroarea")),
         latitude=row['Latitude'],
         longitude=row['Longitude'],
         description=row['Description'],
@@ -318,15 +314,19 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
             cognateset.name = forms[row["Form_ID"]].name
         except KeyError:
             cognateset = cognatesets[cognateset_id] = Cognateset(
-                id="{:07d}".format(len(cognatesets)),
+                id=row["Cognateset_ID"],
                 contribution=contribution,
                 name=forms[row["Form_ID"]].name)
-        DBSession.add(
+        assoc = (
             CognatesetCounterpart(
                 cognateset=cognateset,
                 doubt=doubt,
                 alignment=" ".join(row["Alignment"]),
                 counterpart=forms[row["Form_ID"]]))
+        for source in row["Source"]:
+            DBSession.add(CognatesetCounterpartReference(
+                cognatesetcounterpart=assoc,
+                source=bibliography[source]))
 
 
 def db_main():
