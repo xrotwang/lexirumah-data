@@ -17,7 +17,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 15,kabo1247,thunder,harib,h a r i b,bunyinya,datasets_Kabola_Monbang_tsv
 16,kabo1247,lightning,'mereʔ,m e r e ʔ,"kilatan, cahaya",datasets_Kabola_Monbang_tsv
 17,kabo1247,earthquake,tijoko,t ij o k o,,datasets_Kabola_Monbang_tsv
-18,kabo1247,fog,la:b,l aː b,"(same as cloud); kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Kabola_Monbang_tsv
+18,kabo1247,fog,la:b,l aː b,"(same as cloud)",datasets_Kabola_Monbang_tsv
 19,kabo1247,river_stream,mɔl,m ɔ l,,datasets_Kabola_Monbang_tsv
 20,kabo1247,mountain,bini,b i n i,,datasets_Kabola_Monbang_tsv
 21,kabo1247,hill_ridge,bini,b i n i,,datasets_Kabola_Monbang_tsv
@@ -428,7 +428,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 426,adan1251-lawah,rainbow,haʔaboʔo,h aʔa b oʔo,,datasets_Adang_Lawahing_tsv
 427,adan1251-lawah,thunder,harib,h a r i b,bunyinya,datasets_Adang_Lawahing_tsv
 428,adan1251-lawah,earthquake,tai wɛʔɛ,t ai _ w ɛ ʔ ɛ,,datasets_Adang_Lawahing_tsv
-429,adan1251-lawah,fog,lowo taweʔɛŋ,l o w o _ t a w e ʔ ɛ ŋ,"'fog just before the rain'; kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Adang_Lawahing_tsv
+429,adan1251-lawah,fog,lowo taweʔɛŋ,l o w o _ t a w e ʔ ɛ ŋ,"'fog just before the rain'",datasets_Adang_Lawahing_tsv
 430,adan1251-lawah,river_stream,møl,m ø l,,datasets_Adang_Lawahing_tsv
 431,adan1251-lawah,lake,øm,ø m,,datasets_Adang_Lawahing_tsv
 432,adan1251-lawah,mountain,bini,b i n i,,datasets_Adang_Lawahing_tsv
@@ -1488,7 +1488,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1486,baka1276,thunder,lal,l a l,bunyinya,datasets_Blagar_Bakalang_tsv
 1487,baka1276,lightning,bil mə'lelak,b i l _ m ə l e l a k,"kilatan, cahaya",datasets_Blagar_Bakalang_tsv
 1488,baka1276,earthquake,por ota,p o r _ o t a,,datasets_Blagar_Bakalang_tsv
-1489,baka1276,fog,bənaw koko,b ə n a w _ k o k o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Blagar_Bakalang_tsv
+1489,baka1276,fog,bənaw koko,b ə n a w _ k o k o,,datasets_Blagar_Bakalang_tsv
 1490,baka1276,river_stream,mual,m ua l,,datasets_Blagar_Bakalang_tsv
 1491,baka1276,mountain,pondo,p o n d o,,datasets_Blagar_Bakalang_tsv
 1492,baka1276,hill_ridge,pondo,p o n d o,,datasets_Blagar_Bakalang_tsv
@@ -1879,7 +1879,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1877,blag1240-bama,thunder,ge'lagar,g e l a g a r,bunyinya,datasets_Blagar_Bama_tsv
 1878,blag1240-bama,lightning,ilmeraq,i l m e r a q,"kilatan, cahaya",datasets_Blagar_Bama_tsv
 1879,blag1240-bama,earthquake,ilota,i l o t a,,datasets_Blagar_Bama_tsv
-1880,blag1240-bama,fog,ilmo'ro,i l m o r o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Blagar_Bama_tsv
+1880,blag1240-bama,fog,ilmo'ro,i l m o r o,,datasets_Blagar_Bama_tsv
 1881,blag1240-bama,river_stream,bola,b o l a,,datasets_Blagar_Bama_tsv
 1882,blag1240-bama,mountain,buku,b u k u,,datasets_Blagar_Bama_tsv
 1883,blag1240-bama,hill_ridge,ilbuku,i l b u k u,,datasets_Blagar_Bama_tsv
@@ -2284,7 +2284,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2282,blag1240-kulij,thunder,lal,l a l,bunyinya,datasets_Blagar_Kulijahi_tsv
 2283,blag1240-kulij,lightning,bil mə'le,b i l _ m ə l e,"kilatan, cahaya",datasets_Blagar_Kulijahi_tsv
 2284,blag1240-kulij,earthquake,por 'ota,p o r _ o t a,,datasets_Blagar_Kulijahi_tsv
-2285,blag1240-kulij,fog,bil know,b i l _ k n o w,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Blagar_Kulijahi_tsv
+2285,blag1240-kulij,fog,bil know,b i l _ k n o w,,datasets_Blagar_Kulijahi_tsv
 2286,blag1240-kulij,river_stream,muwal,m uw a l,,datasets_Blagar_Kulijahi_tsv
 2287,blag1240-kulij,lake,kolaŋ,k o l a ŋ,,datasets_Blagar_Kulijahi_tsv
 2288,blag1240-kulij,mountain,pondo,p o n d o,,datasets_Blagar_Kulijahi_tsv
@@ -2679,8 +2679,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2677,blag1240-nule,lightning,bil məlejlak,b i l _ m ə l ej l a k,"kilatan, cahaya",datasets_Blagar_Nule_tsv
 2678,blag1240-nule,earthquake,por ʔotaʔ,p o r _ ʔ o t a ʔ,,datasets_Blagar_Nule_tsv
 2679,blag1240-nule,earthquake,təwewer,t ə w e w e r,,datasets_Blagar_Nule_tsv
-2680,blag1240-nule,fog,bil mo'ro,b i l _ m o r o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Blagar_Nule_tsv
-2681,blag1240-nule,fog,bil mə'ro,b i l _ m ə r o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Blagar_Nule_tsv
+2680,blag1240-nule,fog,bil mo'ro,b i l _ m o r o,,datasets_Blagar_Nule_tsv
+2681,blag1240-nule,fog,bil mə'ro,b i l _ m ə r o,,datasets_Blagar_Nule_tsv
 2682,blag1240-nule,river_stream,mual,m ua l,,datasets_Blagar_Nule_tsv
 2683,blag1240-nule,mountain,pondo,p o n d o,,datasets_Blagar_Nule_tsv
 2684,blag1240-nule,hill_ridge,pondo blolu,p o n d o _ b l o l u," (lit., ‘high mountain’)",datasets_Blagar_Nule_tsv
@@ -3099,7 +3099,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3097,blag1240-tuntu,thunder,gə'lagar,g ə l a g a r,bunyinya,datasets_Blagar_Tuntuli_tsv
 3098,blag1240-tuntu,lightning,ilmeleraq,i l m e l e r a q,"kilatan, cahaya",datasets_Blagar_Tuntuli_tsv
 3099,blag1240-tuntu,earthquake,por eviviŋ,p o r _ e v i v i ŋ,,datasets_Blagar_Tuntuli_tsv
-3100,blag1240-tuntu,fog,ba'naw ododu,b a n a w _ o d o d u,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Blagar_Tuntuli_tsv
+3100,blag1240-tuntu,fog,ba'naw ododu,b a n a w _ o d o d u,,datasets_Blagar_Tuntuli_tsv
 3101,blag1240-tuntu,river_stream,'bola,b o l a,,datasets_Blagar_Tuntuli_tsv
 3102,blag1240-tuntu,mountain,'buku,b u k u,,datasets_Blagar_Tuntuli_tsv
 3103,blag1240-tuntu,village,'abaŋ,a b a ŋ,,datasets_Blagar_Tuntuli_tsv
@@ -3509,7 +3509,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3507,blag1240-warsa,thunder,ildumu,i l d u m u,bunyinya,datasets_Blagar_Warsalelang_tsv
 3508,blag1240-warsa,lightning,galagar,g a l a g a r,"kilatan, cahaya",datasets_Blagar_Warsalelang_tsv
 3509,blag1240-warsa,earthquake,tevevi,t e v e v i,,datasets_Blagar_Warsalelang_tsv
-3510,blag1240-warsa,fog,ilməro,i l m ə r o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Blagar_Warsalelang_tsv
+3510,blag1240-warsa,fog,ilməro,i l m ə r o,,datasets_Blagar_Warsalelang_tsv
 3511,blag1240-warsa,river_stream,bolaʔ,b o l a ʔ,,datasets_Blagar_Warsalelang_tsv
 3512,blag1240-warsa,mountain,buku,b u k u,,datasets_Blagar_Warsalelang_tsv
 3513,blag1240-warsa,village,abaŋ,a b a ŋ,,datasets_Blagar_Warsalelang_tsv
@@ -4243,7 +4243,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4241,dein1238,rain,hal ut,h a l _ u t,,datasets_Deing_tsv
 4242,dein1238,lightning,im:atamiʔax,i mː a t a m i ʔ a x,"kilatan, cahaya",datasets_Deing_tsv
 4243,dein1238,earthquake,bian daʔ,b ia n _ d a ʔ,,datasets_Deing_tsv
-4244,dein1238,fog,mana:p,m a n aː p,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Deing_tsv
+4244,dein1238,fog,mana:p,m a n aː p,,datasets_Deing_tsv
 4245,dein1238,river_stream,jir qa'wa,j i r _ q a w a,,datasets_Deing_tsv
 4246,dein1238,lake,bana:q,b a n aː q,,datasets_Deing_tsv
 4247,dein1238,mountain,qoq,q o q,,datasets_Deing_tsv
@@ -4649,7 +4649,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4647,hama1240,day,tarɛŋ,t a r ɛ ŋ,,datasets_Hamap_Moru_tsv
 4648,hama1240,cloud,tafɛʔɪŋ,t a f ɛ ʔ ɪ ŋ,,datasets_Hamap_Moru_tsv
 4649,hama1240,wind,hamoi,h a m oi,,datasets_Hamap_Moru_tsv
-4650,hama1240,fog,tafiʔiŋ,t a f iʔi ŋ,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Hamap_Moru_tsv
+4650,hama1240,fog,tafiʔiŋ,t a f iʔi ŋ,,datasets_Hamap_Moru_tsv
 4651,hama1240,river_stream,mʊl,m ʊ l,,datasets_Hamap_Moru_tsv
 4652,hama1240,lake,sipuʔɛ,s i p u ʔ ɛ,,datasets_Hamap_Moru_tsv
 4653,hama1240,mountain,doi,d oi,,datasets_Hamap_Moru_tsv
@@ -4891,8 +4891,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4889,nede1245,thunder,dalaga,d a l a g a,bunyinya,datasets_Nedebang_tsv
 4890,nede1245,lightning,iltamaʔaw,i l t a m aʔa w,"kilatan, cahaya",datasets_Nedebang_tsv
 4891,nede1245,earthquake,ilaʔab,i l aʔa b,,datasets_Nedebang_tsv
-4892,nede1245,fog,buna ituru,b u n a _ i t u r u,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Nedebang_tsv
-4893,nede1245,fog,ila banaqa,i l a _ b a n a q a,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Nedebang_tsv
+4892,nede1245,fog,buna ituru,b u n a _ i t u r u,,datasets_Nedebang_tsv
+4893,nede1245,fog,ila banaqa,i l a _ b a n a q a,,datasets_Nedebang_tsv
 4894,nede1245,river_stream,balu,b a l u,,datasets_Nedebang_tsv
 4895,nede1245,lake,traqa,tr a q a,,datasets_Nedebang_tsv
 4896,nede1245,mountain,maga,m a g a,,datasets_Nedebang_tsv
@@ -5286,7 +5286,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5284,kafo1240,day,tɛŋ,t ɛ ŋ,,datasets_Kafoa_Probur_tsv
 5285,kafo1240,cloud,tɑbɛkɛl,t ɑ b ɛ k ɛ l,,datasets_Kafoa_Probur_tsv
 5286,kafo1240,wind,hɪmɔr,h ɪ m ɔ r,,datasets_Kafoa_Probur_tsv
-5287,kafo1240,fog,tɑbɛkɛl,t ɑ b ɛ k ɛ l,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Kafoa_Probur_tsv
+5287,kafo1240,fog,tɑbɛkɛl,t ɑ b ɛ k ɛ l,,datasets_Kafoa_Probur_tsv
 5288,kafo1240,river_stream,kulɑ,k u l ɑ,,datasets_Kafoa_Probur_tsv
 5289,kafo1240,lake,iʤɑpɑrɑ,i dʒ ɑ p ɑ r ɑ,,datasets_Kafoa_Probur_tsv
 5290,kafo1240,mountain,rol,r o l,,datasets_Kafoa_Probur_tsv
@@ -5533,7 +5533,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5531,kira1248,thunder,paka kal,p a k a _ k a l,bunyinya,datasets_Kiraman_tsv
 5532,kira1248,lightning,sarikan,s a r i k a n,"kilatan, cahaya",datasets_Kiraman_tsv
 5533,kira1248,earthquake,koˈme,k o m e,,datasets_Kiraman_tsv
-5534,kira1248,fog,nabor,n a b o r,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Kiraman_tsv
+5534,kira1248,fog,nabor,n a b o r,,datasets_Kiraman_tsv
 5535,kira1248,river_stream,e:i bala,eː i _ b a l a,,datasets_Kiraman_tsv
 5536,kira1248,lake,kubal,k u b a l,,datasets_Kiraman_tsv
 5537,kira1248,mountain,uku,u k u,,datasets_Kiraman_tsv
@@ -5946,7 +5946,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5944,kelo1247-bring,cloud,bɔntu,b ɔ n t u,,datasets_Klon_Bring_tsv
 5945,kelo1247-bring,cloud,teʔeh,t eʔe h,,datasets_Klon_Bring_tsv
 5946,kelo1247-bring,wind,nəmɛr,n ə m ɛ r,,datasets_Klon_Bring_tsv
-5947,kelo1247-bring,fog,bontui,b o n t ui,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Klon_Bring_tsv
+5947,kelo1247-bring,fog,bontui,b o n t ui,,datasets_Klon_Bring_tsv
 5948,kelo1247-bring,river_stream,wɛr,w ɛ r,,datasets_Klon_Bring_tsv
 5949,kelo1247-bring,lake,ərɑgɪtɪp,ə r ɑ g ɪ t ɪ p,,datasets_Klon_Bring_tsv
 5950,kelo1247-bring,mountain,dɔl,d ɔ l,,datasets_Klon_Bring_tsv
@@ -6191,7 +6191,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6189,kuii1253,thunder,galagal,g a l a g a l,bunyinya,datasets_Kui_Moru_tsv
 6190,kuii1253,lightning,blekin,b l e k i n,"kilatan, cahaya",datasets_Kui_Moru_tsv
 6191,kuii1253,earthquake,kumé awar,k u m e _ a w a r,,datasets_Kui_Moru_tsv
-6192,kuii1253,fog,tabo,t a b o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Kui_Moru_tsv
+6192,kuii1253,fog,tabo,t a b o,,datasets_Kui_Moru_tsv
 6193,kuii1253,river_stream,mol,m o l,,datasets_Kui_Moru_tsv
 6194,kuii1253,lake,e:r bal,eː r _ b a l,,datasets_Kui_Moru_tsv
 6195,kuii1253,mountain,dol,d o l,,datasets_Kui_Moru_tsv
@@ -6604,8 +6604,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6602,rett1240,thunder,ga'lagal,g a l a g a l,bunyinya,datasets_Reta_tsv
 6603,rett1240,lightning,il'melak,i l m e l a k,"kilatan, cahaya",datasets_Reta_tsv
 6604,rett1240,earthquake,palika tadili,p a l i k a _ t a d i l i,"(lit., ‘earth shake’)",datasets_Reta_tsv
-6605,rett1240,fog,(palika) moro,m o r o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Reta_tsv
-6606,rett1240,fog,(palika) moro,p a l i k a _ m o r o,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Reta_tsv
+6605,rett1240,fog,(palika) moro,m o r o,,datasets_Reta_tsv
+6606,rett1240,fog,(palika) moro,p a l i k a _ m o r o,,datasets_Reta_tsv
 6607,rett1240,river_stream,mol,m o l,,datasets_Reta_tsv
 6608,rett1240,lake,jel kolaŋ,je l _ k o l a ŋ,‘pool’,datasets_Reta_tsv
 6609,rett1240,mountain,adual,a d ua l,,datasets_Reta_tsv
@@ -7015,7 +7015,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7013,alor1249-sar-a,thunder,gragar,g r a g a r,bunyinya,datasets_Sar_Adiabang_tsv
 7014,alor1249-sar-a,lightning,itimiʤah,i t i m i dʒ a h,"kilatan, cahaya",datasets_Sar_Adiabang_tsv
 7015,alor1249-sar-a,earthquake,itoj,i t oj,,datasets_Sar_Adiabang_tsv
-7016,alor1249-sar-a,fog,ibu:m,i b uː m,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Sar_Adiabang_tsv
+7016,alor1249-sar-a,fog,ibu:m,i b uː m,,datasets_Sar_Adiabang_tsv
 7017,alor1249-sar-a,river_stream,qa'fa,q a f a,,datasets_Sar_Adiabang_tsv
 7018,alor1249-sar-a,mountain,ujah,uj a h,,datasets_Sar_Adiabang_tsv
 7019,alor1249-sar-a,hill_ridge,ʤihil,dʒ i h i l,,datasets_Sar_Adiabang_tsv
@@ -7443,7 +7443,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7441,kula1280-lanto,thunder,kətta,k ə t t a,bunyinya,datasets_Kula_Lantoka_tsv
 7442,kula1280-lanto,lightning,mila piki,m i l a _ p i k i,"(root = mila) kilatan, cahaya",datasets_Kula_Lantoka_tsv
 7443,kula1280-lanto,earthquake,kume,k u m e,,datasets_Kula_Lantoka_tsv
-7444,kula1280-lanto,fog,sakapɨla,s a k a p ɨ l a,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Kula_Lantoka_tsv
+7444,kula1280-lanto,fog,sakapɨla,s a k a p ɨ l a,,datasets_Kula_Lantoka_tsv
 7445,kula1280-lanto,river_stream,lia,l ia,,datasets_Kula_Lantoka_tsv
 7446,kula1280-lanto,river_stream,liya,l i y a,,datasets_Kula_Lantoka_tsv
 7447,kula1280-lanto,lake,jakawali,j a k a w a l i,,datasets_Kula_Lantoka_tsv
@@ -8629,7 +8629,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 8627,alor1249-sar-n,thunder,gregaj,g r e g aj,bunyinya,datasets_Sar_Nule_tsv
 8628,alor1249-sar-n,lightning,itəmijah,i t ə m ij a h,"kilatan, cahaya",datasets_Sar_Nule_tsv
 8629,alor1249-sar-n,earthquake,ito:j,i t oː j,,datasets_Sar_Nule_tsv
-8630,alor1249-sar-n,fog,məna:f,m ə n aː f,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Sar_Nule_tsv
+8630,alor1249-sar-n,fog,məna:f,m ə n aː f,,datasets_Sar_Nule_tsv
 8631,alor1249-sar-n,river_stream,hawa,h a w a,,datasets_Sar_Nule_tsv
 8632,alor1249-sar-n,mountain,jihil,j i h i l,,datasets_Sar_Nule_tsv
 8633,alor1249-sar-n,hill_ridge,mu:g lewa,m uː g _ l e w a,,datasets_Sar_Nule_tsv
@@ -9812,7 +9812,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9810,kola1287,thunder,kete,k e t e,bunyinya,datasets_Wersing_Kolana_tsv
 9811,kola1287,lightning,meke,m e k e,"kilatan, cahaya",datasets_Wersing_Kolana_tsv
 9812,kola1287,earthquake,komeidai,k o m ei d ai,,datasets_Wersing_Kolana_tsv
-9813,kola1287,fog,'sakapul,s a k a p u l,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Wersing_Kolana_tsv
+9813,kola1287,fog,'sakapul,s a k a p u l,,datasets_Wersing_Kolana_tsv
 9814,kola1287,river_stream,i'lu,i l u,,datasets_Wersing_Kolana_tsv
 9815,kola1287,lake,meriaʔ,m e r ia ʔ,,datasets_Wersing_Kolana_tsv
 9816,kola1287,mountain,atoku bubuŋ,a t o k u _ b u b u ŋ,,datasets_Wersing_Kolana_tsv
@@ -16361,7 +16361,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 16359,keda1252-leuba,lightning,'nilaʔ,n i l a ʔ,"kilatan, cahaya",datasets_kedmk20150521wordlist_tsv
 16360,keda1252-leuba,lightning,'kilaʔ,k i l a ʔ,"kilatan, cahaya",datasets_kedmk20150521wordlist_tsv
 16361,keda1252-leuba,earthquake,nɛju,n ɛ j u,,datasets_kedmk20150521wordlist_tsv
-16362,keda1252-leuba,fog,ʔɔwa,ʔ ɔ w a,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_kedmk20150521wordlist_tsv
+16362,keda1252-leuba,fog,ʔɔwa,ʔ ɔ w a,,datasets_kedmk20150521wordlist_tsv
 16363,keda1252-leuba,river_stream,wɛi,w ɛi,,datasets_kedmk20150521wordlist_tsv
 16364,keda1252-leuba,lake,da'nɑu,d a n ɑu,,datasets_kedmk20150521wordlist_tsv
 16365,keda1252-leuba,mountain,(j)ili,i l i,,datasets_kedmk20150521wordlist_tsv
@@ -20103,8 +20103,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 20101,lama1277-adona,thunder,kɜ'lɜka,k ɜ l ɜ k a,bunyinya,datasets_lmhadmk20150518wordlist_tsv
 20102,lama1277-adona,lightning,kɜ'hilat,k ɜ h i l a t,"kilatan, cahaya",datasets_lmhadmk20150518wordlist_tsv
 20103,lama1277-adona,earthquake,'brero,b r e r o,,datasets_lmhadmk20150518wordlist_tsv
-20104,lama1277-adona,fog,'kowa koː(k),k o w a _ k oː,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_lmhadmk20150518wordlist_tsv
-20105,lama1277-adona,fog,'kowa koː(k),k o w a _ k oː k,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_lmhadmk20150518wordlist_tsv
+20104,lama1277-adona,fog,'kowa koː(k),k o w a _ k oː,,datasets_lmhadmk20150518wordlist_tsv
+20105,lama1277-adona,fog,'kowa koː(k),k o w a _ k oː k,,datasets_lmhadmk20150518wordlist_tsv
 20106,lama1277-adona,river_stream,'suŋe,s u ŋ e,,datasets_lmhadmk20150518wordlist_tsv
 20107,lama1277-adona,lake,'liwo,l i w o,,datasets_lmhadmk20150518wordlist_tsv
 20108,lama1277-adona,mountain,'ʔile,ʔ i l e,,datasets_lmhadmk20150518wordlist_tsv
@@ -20717,7 +20717,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 20715,keda1252-leuwa,year,tun,t u n,,datasets_Kedang_Leuwayang_tsv
 20716,keda1252-leuwa,wind,a̘ŋin vεŋin,a ŋ i n _ v ɛ ŋ i n,,datasets_Kedang_Leuwayang_tsv
 20717,keda1252-leuwa,rain,u̘ja,u j a,,datasets_Kedang_Leuwayang_tsv
-20718,keda1252-leuwa,fog,habɔʔ,h a b ɔ ʔ,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Kedang_Leuwayang_tsv
+20718,keda1252-leuwa,fog,habɔʔ,h a b ɔ ʔ,,datasets_Kedang_Leuwayang_tsv
 20719,keda1252-leuwa,river_stream,u̘bεʔ,u b ɛ ʔ,,datasets_Kedang_Leuwayang_tsv
 20720,keda1252-leuwa,river_stream,ævæŋ,æ v æ ŋ,,datasets_Kedang_Leuwayang_tsv
 20721,keda1252-leuwa,mountain,i̘li,i l i,,datasets_Kedang_Leuwayang_tsv
@@ -26992,10 +26992,10 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26990,sika1262-tanai,year,ʔliβa-ŋ,ˀl i β a _ ŋ,,datasets_Sika_Tana_Ai_tsv
 26991,sika1262-tanai,wind,ani-n,a n i _ n,,datasets_Sika_Tana_Ai_tsv
 26992,sika1262-tanai,rain,ura-n,u r a _ n,,datasets_Sika_Tana_Ai_tsv
-26993,sika1262-tanai,fog,koβa,k o β a,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Sika_Tana_Ai_tsv
-26994,sika1262-tanai,fog,səbu sak,s ə b u _ s a k,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Sika_Tana_Ai_tsv
-26995,sika1262-tanai,fog,səbur,s ə b u r,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Sika_Tana_Ai_tsv
-26996,sika1262-tanai,fog,ɡəbu ɡon,g ə b u _ g o n,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_Sika_Tana_Ai_tsv
+26993,sika1262-tanai,fog,koβa,k o β a,,datasets_Sika_Tana_Ai_tsv
+26994,sika1262-tanai,fog,səbu sak,s ə b u _ s a k,,datasets_Sika_Tana_Ai_tsv
+26995,sika1262-tanai,fog,səbur,s ə b u r,,datasets_Sika_Tana_Ai_tsv
+26996,sika1262-tanai,fog,ɡəbu ɡon,g ə b u _ g o n,,datasets_Sika_Tana_Ai_tsv
 26997,sika1262-tanai,river_stream,naŋa ba,n a ŋ a _ b a,"βair ba ( means river, stream, brook)",datasets_Sika_Tana_Ai_tsv
 26998,sika1262-tanai,river_stream,βair ba,β ai r _ b a,"βair ba ( means river, stream, brook)",datasets_Sika_Tana_Ai_tsv
 26999,sika1262-tanai,lake,liβu-n,l i β u _ n,,datasets_Sika_Tana_Ai_tsv
@@ -29525,7 +29525,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 29523,kama1365,thunder,karaːt,k a r aː t,thunder clap; bunyinya,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29524,kama1365,lightning,deliŋ wobika,d e l i ŋ _ w o b i k a,"kilatan, cahaya",datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29525,kama1365,earthquake,komeː,k o m eː,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
-29526,kama1365,fog,safuː,s a f uː,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_woi2016wordlistkamangatoitaafulllist_tsv
+29526,kama1365,fog,safuː,s a f uː,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29527,kama1365,river_stream,il maʔtaŋ,i l _ m a ˀt a ŋ,il maʔtaŋ lit. stream with water,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29528,kama1365,river_stream,ili maʔtaŋ,i l i _ m a ˀt a ŋ,il maʔtaŋ lit. stream with water,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29529,kama1365,mountain,buk,b u k,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
@@ -30310,7 +30310,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 30308,p-cent2245-abvd,rain,*quzan,q u z a n,,datasets_ABVD
 30309,p-cent2245-abvd,thunder,*gugur,g u g u r,bunyinya,datasets_ABVD
 30310,p-cent2245-abvd,lightning,*kilat,k i l a t,"kilatan, cahaya",datasets_ABVD
-30311,p-cent2245-abvd,fog,*kabut,k a b u t,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_ABVD
+30311,p-cent2245-abvd,fog,*kabut,k a b u t,,datasets_ABVD
 30312,p-cent2245-abvd,lake,*danaw,d a n a w,,datasets_ABVD
 30313,p-cent2245-abvd,mountain,*halas,h a l a s,,datasets_ABVD
 30314,p-cent2245-abvd,Earth,*tanaq,t a n a q,,datasets_ABVD
@@ -30533,7 +30533,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 30531,p-mala1545-abvd,thunder,*kudug,k u d u g,bunyinya,datasets_ABVD
 30532,p-mala1545-abvd,lightning,*kilat,k i l a t,"kilatan, cahaya",datasets_ABVD
 30533,p-mala1545-abvd,lightning,*qusilaq,q u s i l a q,"kilatan, cahaya",datasets_ABVD
-30534,p-mala1545-abvd,fog,*kabut,k a b u t,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_ABVD
+30534,p-mala1545-abvd,fog,*kabut,k a b u t,,datasets_ABVD
 30535,p-mala1545-abvd,lake,*danaw,d a n a w,,datasets_ABVD
 30536,p-mala1545-abvd,Earth,*tanaq,t a n a q,,datasets_ABVD
 30537,p-mala1545-abvd,Earth,*taneq,t a n e q,,datasets_ABVD
@@ -30786,7 +30786,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 30784,p-mala1545-acd,lightning,*kilat,k i l a t,"kilatan, cahaya",datasets_ACD
 30785,p-mala1545-acd,earthquake,*linduR,l i n d u,,datasets_ACD
 30786,p-mala1545-acd,earthquake,*linuR,l i n u,,datasets_ACD
-30787,p-mala1545-acd,fog,*kabut,k a b u t,"kabut = fog, NOT embun = air yang menetes dari daun di pagi hari",datasets_ACD
+30787,p-mala1545-acd,fog,*kabut,k a b u t,,datasets_ACD
 30788,p-mala1545-acd,river_stream,*sapaq,s a p a q,"*wahiR ‘fresh water; stream, river’",datasets_ACD
 30789,p-mala1545-acd,river_stream,*wahiR,w a h i,"*wahiR ‘fresh water; stream, river’",datasets_ACD
 30790,p-mala1545-acd,lake,*banaw,b a n a w,,datasets_ACD
