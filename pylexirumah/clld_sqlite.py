@@ -304,10 +304,10 @@ def import_forms(
 
 
 def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={}):
-    cognateset_by_form = {}
+    cognateset_by_formid = {}
     for row in dataset["CognateTable"].iterdicts():
-        cognateset_by_form[row["Form_ID"]] = row
-    for row in cognateset_by_form.values():
+        cognateset_by_formid[row["Form_ID"]] = row
+    for row in cognateset_by_formid.values():
         cognateset_id = row["Cognateset_ID"]
         try:
             cognateset = cognatesets[cognateset_id]
@@ -320,7 +320,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
         assoc = (
             CognatesetCounterpart(
                 cognateset=cognateset,
-                doubt=True,
+                doubt=doubt,
                 alignment=" ".join(row["Alignment"]),
                 counterpart=forms[row["Form_ID"]]))
         for source in row["Source"]:
