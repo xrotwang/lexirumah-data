@@ -266,7 +266,8 @@ def import_forms(
     # Import all the rows.
     loans = {}
     for loan in wordlist["BorrowingTable"].iterdicts():
-        loans[loan["Form_ID_Target"]] = loan["Status"]
+        if loan["Status"] > loans.get("Form_ID_Target", 0):
+            loans[loan["Form_ID_Target"]] = loan
     forms = {}
     for row in wordlist["FormTable"].iterdicts():
             language = languages[row["Lect_ID"]]
@@ -290,7 +291,7 @@ def import_forms(
             form = Counterpart(
                 id=vid,
                 valueset=vs,
-                loan=loans.get(row["ID"], 0),
+                loan=loans.get(row["ID"], {'Status': 0})['Status'],
                 comment=row['Comment'],
                 name=value,
                 segments=" ".join(row["Segments"]))
@@ -306,6 +307,7 @@ def import_forms(
 def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={}):
     cognateset_by_formid = {}
     for row in dataset["CognateTable"].iterdicts():
+        # Only incorporate the newest cognate codings.
         cognateset_by_formid[row["Form_ID"]] = row
     for row in cognateset_by_formid.values():
         cognateset_id = row["Cognateset_ID"]
@@ -320,7 +322,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
         assoc = (
             CognatesetCounterpart(
                 cognateset=cognateset,
-                doubt=doubt,
+                doubt=True if "LexStat" in row["Source"] else False,
                 alignment=" ".join(row["Alignment"]),
                 counterpart=forms[row["Form_ID"]]))
         for source in row["Source"]:
