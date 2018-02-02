@@ -55,13 +55,13 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#lexicalUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": true,
                         "name": "Form"
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#soundSequence",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
                         "required": false,
                         "separator": " ",
                         "name": "Segments"
