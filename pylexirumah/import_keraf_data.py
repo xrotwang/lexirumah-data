@@ -32,6 +32,7 @@ path = pathlib.Path("../noncldf/keraf")
 keraf_concepts = {}
 forms = [row for row in dataset["FormTable"].iterdicts()
          if "keraf1978" not in row["Source"]]
+id = forms[-1]["ID"]
 for file in path.glob("*.tsv"):
     if not keraf_concepts:
         with file.open() as kerafwordlist:
@@ -50,8 +51,10 @@ for file in path.glob("*.tsv"):
     fiveletters = "".join(file.name.lower().split())[:5]
     with file.open() as kerafwordlist:
         for row in csv.DictReader(kerafwordlist, dialect="excel-tab"):
+            id += 1
             if row["transcription"].strip().strip("—"):
                 forms.append({
+                    "ID": id,
                     "Lect_ID": "lama1277-{:}".format(fiveletters),
                     "Concept_ID": keraf_concepts[row["gloss"].strip()],
                     "Form": row["transcription"],
@@ -59,8 +62,5 @@ for file in path.glob("*.tsv"):
                     "Comment": row["comment"] or None,
                     "Source": ["keraf1978"]
                 })
-
-for r, row in enumerate(forms):
-    row["ID"] = r
 
 dataset["FormTable"].write(forms)
