@@ -275,7 +275,7 @@
                         "name": "ID"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": "integer",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
                         "required": true,
                         "name": "Form_ID"
