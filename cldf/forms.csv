@@ -94,7 +94,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 92,kabo1247,corn_maize,botiʔ,b o t i ʔ,,datasets_Kabola_Monbang_tsv
 93,kabo1247,cooked_corn,boti̥ kawal,b o t i̥ _ k a w a l,,datasets_Kabola_Monbang_tsv
 94,kabo1247,coconut,waʔ,w a ʔ,,datasets_Kabola_Monbang_tsv
-95,kabo1247,gwang,ol kuil,o l _ k ui l,,datasets_Kabola_Monbang_tsv
+95,kabo1247,gebang_palm,ol kuil,o l _ k ui l,,datasets_Kabola_Monbang_tsv
 96,kabo1247,lontar_palm,haʔai,h aʔa i,,datasets_Kabola_Monbang_tsv
 97,kabo1247,sugar_palm,now,n o w,,datasets_Kabola_Monbang_tsv
 98,kabo1247,marungga,motoŋ behe,m o t o ŋ _ b e h e,,datasets_Kabola_Monbang_tsv
@@ -155,7 +155,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 153,kabo1247,ringworm,kaʧ,k a tʃ,,datasets_Kabola_Monbang_tsv
 154,kabo1247,scabies,ko:t,k oː t,,datasets_Kabola_Monbang_tsv
 155,kabo1247,tinea,palaŋ,p a l a ŋ,,datasets_Kabola_Monbang_tsv
-156,kabo1247,feverish,towahati tejoʔo,t o w a h a t i _ t ej oʔo,,datasets_Kabola_Monbang_tsv
+156,kabo1247,fever,towahati tejoʔo,t o w a h a t i _ t ej oʔo,,datasets_Kabola_Monbang_tsv
 157,kabo1247,conjunctivitis,teŋ maʔala,t e ŋ _ m aʔa l a,(teŋ ‘eye’ maʔala ‘sick/hurt’);,datasets_Kabola_Monbang_tsv
 158,kabo1247,cold_influenza,sujahaʔ,s uj a h a ʔ,,datasets_Kabola_Monbang_tsv
 159,kabo1247,person,nom noʔo,n o m _ n oʔo,,datasets_Kabola_Monbang_tsv
@@ -407,7 +407,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 405,kabo1247,tall,lewen,l e w e n,,datasets_Kabola_Monbang_tsv
 406,kabo1247,short,toʔoŋ,t oʔo ŋ,,datasets_Kabola_Monbang_tsv
 407,kabo1247,narrow,ke'puhu,k e p u h u,,datasets_Kabola_Monbang_tsv
-408,kabo1247,to_chase_away_to_expel,aloloʔ,a l o l o ʔ,,datasets_Kabola_Monbang_tsv
+408,kabo1247,to_shoo_to_chase_away_to_send_away,aloloʔ,a l o l o ʔ,,datasets_Kabola_Monbang_tsv
 409,adan1251-lawah,sky,la:b,l aː b,,datasets_Adang_Lawahing_tsv
 410,adan1251-lawah,sun,fɛd,f ɛ d,,datasets_Adang_Lawahing_tsv
 411,adan1251-lawah,moon,hu:l,h uː l,,datasets_Adang_Lawahing_tsv
@@ -572,7 +572,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 570,adan1251-lawah,ringworm,ot,o t,,datasets_Adang_Lawahing_tsv
 571,adan1251-lawah,scabies,at,a t,,datasets_Adang_Lawahing_tsv
 572,adan1251-lawah,tinea,palaŋ,p a l a ŋ,,datasets_Adang_Lawahing_tsv
-573,adan1251-lawah,feverish,tasoʔo,t a s oʔo,,datasets_Adang_Lawahing_tsv
+573,adan1251-lawah,fever,tasoʔo,t a s oʔo,,datasets_Adang_Lawahing_tsv
 574,adan1251-lawah,cold_influenza,hu:ʔ,h uː ʔ,,datasets_Adang_Lawahing_tsv
 575,adan1251-lawah,person,na:mi,n aː m i,,datasets_Adang_Lawahing_tsv
 576,adan1251-lawah,name,ʔaniŋ,ʔ a n i ŋ,,datasets_Adang_Lawahing_tsv
@@ -830,7 +830,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 828,adan1251-lawah,grandchild,daʔala,d aʔa l a,,datasets_Adang_Lawahing_tsv
 829,adan1251-lawah,nephew_niece,noʔei oloti,n o ʔ ei _ o l o t i,nephew',datasets_Adang_Lawahing_tsv
 830,adan1251-lawah,older_sister,noʔudiŋ ʔobo,n o ʔ u d i ŋ _ ʔ o b o, 'sister',datasets_Adang_Lawahing_tsv
-831,adan1251-lawah,womans_cross_cousin,namara,n a m a r a,sister in law',datasets_Adang_Lawahing_tsv
 832,adan1251-lawah,womans_younger_sister,noʔudiŋ,n o ʔ u d i ŋ,sibling'; ,datasets_Adang_Lawahing_tsv
 833,adan1251-lawah,brother_in_law,nawiŋ,n a w i ŋ,brother-in-law',datasets_Adang_Lawahing_tsv
 834,adan1251-lawah,oven,hɛʔɛwui,h ɛ ʔ ɛ w ui,,datasets_Adang_Lawahing_tsv
@@ -838,7 +837,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 836,adan1251-lawah,long,low,l o w,,datasets_Adang_Lawahing_tsv
 837,adan1251-lawah,tall,lawen,l a w e n,,datasets_Adang_Lawahing_tsv
 838,adan1251-lawah,short,toʔoŋ,t oʔo ŋ,,datasets_Adang_Lawahing_tsv
-839,adan1251-lawah,to_chase_away_to_expel,arlili,a r l i l i,,datasets_Adang_Lawahing_tsv
+839,adan1251-lawah,to_shoo_to_chase_away_to_send_away,arlili,a r l i l i,,datasets_Adang_Lawahing_tsv
 840,alor1247-besar,sky,kɔfa,k ɔ f a,"the word kofa actually means ""cloud"",  they do not seem to have a word for sky",datasets_Alor_Besar_tsv
 841,alor1247-besar,sun,la'ra,l a r a,,datasets_Alor_Besar_tsv
 842,alor1247-besar,moon,fulaŋ,f u l a ŋ,,datasets_Alor_Besar_tsv
@@ -978,7 +977,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 976,alor1247-besar,sweat,ha'name,h a n a m e,,datasets_Alor_Besar_tsv
 977,alor1247-besar,tear,lou,l ou,,datasets_Alor_Besar_tsv
 978,alor1247-besar,blood,ra,r a,,datasets_Alor_Besar_tsv
-979,alor1247-besar,tendon,u'rakaŋ,u r a k a ŋ,,datasets_Alor_Besar_tsv
+979,alor1247-besar,vein,u'rakaŋ,u r a k a ŋ,,datasets_Alor_Besar_tsv
 980,alor1247-besar,heart,kubaŋ,k u b a ŋ,,datasets_Alor_Besar_tsv
 981,alor1247-besar,liver,a'tɛ̃,a t ɛ _,,datasets_Alor_Besar_tsv
 982,alor1247-besar,kidney,ginʤal,g i n dʒ a l,,datasets_Alor_Besar_tsv
@@ -1029,7 +1028,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1027,alor1247-besar,ringworm,ha'rukaŋ,h a r u k a ŋ,,datasets_Alor_Besar_tsv
 1028,alor1247-besar,scabies,katu,k a t u,,datasets_Alor_Besar_tsv
 1029,alor1247-besar,tinea,manau,m a n au,,datasets_Alor_Besar_tsv
-1030,alor1247-besar,feverish,ta'fefa,t a f e f a,,datasets_Alor_Besar_tsv
+1030,alor1247-besar,fever,ta'fefa,t a f e f a,,datasets_Alor_Besar_tsv
 1031,alor1247-besar,conjunctivitis,mataŋ 'lara,m a t a ŋ _ l a r a,,datasets_Alor_Besar_tsv
 1032,alor1247-besar,cold_influenza,niruŋ 'matɛ,n i r u ŋ _ m a t ɛ,literally ' congested nose' ,datasets_Alor_Besar_tsv
 1033,alor1247-besar,person,ata,a t a,,datasets_Alor_Besar_tsv
@@ -1121,7 +1120,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1119,alor1247-besar,mosquito,kapuŋ,k a p u ŋ,,datasets_Alor_Besar_tsv
 1120,alor1247-besar,ant,ka'rːe,k a rː e,,datasets_Alor_Besar_tsv
 1121,alor1247-besar,grasshopper,ka'marɔ,k a m a r ɔ,,datasets_Alor_Besar_tsv
-1122,alor1247-besar,locust,ka'mɛruŋ,k a m ɛ r u ŋ,,datasets_Alor_Besar_tsv
+1122,alor1247-besar,rice_ear_bug,ka'mɛruŋ,k a m ɛ r u ŋ,,datasets_Alor_Besar_tsv
 1123,alor1247-besar,spider,ka'raŋga,k a r a ŋ g a,,datasets_Alor_Besar_tsv
 1124,alor1247-besar,louse_in_hair,kuto,k u t o,,datasets_Alor_Besar_tsv
 1125,alor1247-besar,louse_eggs,kuto ka'lehã,k u t o _ k a l e h a _,,datasets_Alor_Besar_tsv
@@ -1359,7 +1358,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1357,alor1247-besar,older_brother,kakaŋ ka'lake,k a k a ŋ _ k a l a k e,,datasets_Alor_Besar_tsv
 1358,alor1247-besar,older_sister,kakaŋ ka'fae,k a k a ŋ _ k a f a e,,datasets_Alor_Besar_tsv
 1359,alor1247-besar,sister,binɛŋ ka'fae,b i n ɛ ŋ _ k a f a e,,datasets_Alor_Besar_tsv
-1360,alor1247-besar,womans_cross_cousin,ma'nulaŋ ka'fae,m a n u l a ŋ _ k a f a e,,datasets_Alor_Besar_tsv
 1361,alor1247-besar,womans_younger_sister,ariŋ ka'fae,a r i ŋ _ k a f a e,,datasets_Alor_Besar_tsv
 1362,alor1247-besar,younger_brother,ariŋ ka'lake,a r i ŋ _ k a l a k e,,datasets_Alor_Besar_tsv
 1363,alor1247-besar,brother,naŋ ka'lake,n a ŋ _ k a l a k e,,datasets_Alor_Besar_tsv
@@ -1466,9 +1464,9 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1464,alor1247-besar,short,('kaʤo) 'maku,m a k u,,datasets_Alor_Besar_tsv
 1465,alor1247-besar,short,('kaʤo) 'maku,k a dʒ o _ m a k u,,datasets_Alor_Besar_tsv
 1466,alor1247-besar,narrow,kipɛ,k i p ɛ,,datasets_Alor_Besar_tsv
-1467,alor1247-besar,to_search_hunt_for,gɛna,g ɛ n a,,datasets_Alor_Besar_tsv
+1467,alor1247-besar,to_search_for_to_hunt_for,gɛna,g ɛ n a,,datasets_Alor_Besar_tsv
 1468,alor1247-besar,to_crouch,tɔbɔ 'tae,t ɔ b ɔ _ t a e,,datasets_Alor_Besar_tsv
-1469,alor1247-besar,to_chase_away_to_expel,tutɛ,t u t ɛ,,datasets_Alor_Besar_tsv
+1469,alor1247-besar,to_shoo_to_chase_away_to_send_away,tutɛ,t u t ɛ,,datasets_Alor_Besar_tsv
 1470,baka1276,sky,bulaŋ,b u l a ŋ,,datasets_Blagar_Bakalang_tsv
 1471,baka1276,sun,ved,v e d,,datasets_Blagar_Bakalang_tsv
 1472,baka1276,moon,huru,h u r u,,datasets_Blagar_Bakalang_tsv
@@ -1563,7 +1561,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1561,baka1276,corn_maize,batar,b a t a r,,datasets_Blagar_Bakalang_tsv
 1562,baka1276,cooked_corn,batar pi,b a t a r _ p i,,datasets_Blagar_Bakalang_tsv
 1563,baka1276,coconut,vet,v e t,,datasets_Blagar_Bakalang_tsv
-1564,baka1276,gwang,kudubuk,k u d u b u k,,datasets_Blagar_Bakalang_tsv
+1564,baka1276,gebang_palm,kudubuk,k u d u b u k,,datasets_Blagar_Bakalang_tsv
 1565,baka1276,lontar_palm,tua: ai oli,t ua _ ai _ o l i,,datasets_Blagar_Bakalang_tsv
 1566,baka1276,sugar_palm,tua bur,t ua _ b u r,,datasets_Blagar_Bakalang_tsv
 1567,baka1276,marungga,təmoluŋ,t ə m o l u ŋ,,datasets_Blagar_Bakalang_tsv
@@ -1618,7 +1616,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1616,baka1276,wound,bata,b a t a,,datasets_Blagar_Bakalang_tsv
 1617,baka1276,ringworm,katu,k a t u,,datasets_Blagar_Bakalang_tsv
 1618,baka1276,scabies,kot,k o t,,datasets_Blagar_Bakalang_tsv
-1619,baka1276,feverish,bi biriŋ,b i _ b i r i ŋ,,datasets_Blagar_Bakalang_tsv
+1619,baka1276,fever,bi biriŋ,b i _ b i r i ŋ,,datasets_Blagar_Bakalang_tsv
 1620,baka1276,cold_influenza,imiŋ omi pi:,i m i ŋ _ o m i _ p iː,,datasets_Blagar_Bakalang_tsv
 1621,baka1276,person,iŋ,i ŋ,,datasets_Blagar_Bakalang_tsv
 1622,baka1276,name,ene,e n e,,datasets_Blagar_Bakalang_tsv
@@ -1858,7 +1856,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1856,baka1276,tall,blolu,b l o l u,,datasets_Blagar_Bakalang_tsv
 1857,baka1276,short,tukaŋ,t u k a ŋ,,datasets_Blagar_Bakalang_tsv
 1858,baka1276,narrow,krobok,k r o b o k,,datasets_Blagar_Bakalang_tsv
-1859,baka1276,to_chase_away_to_expel,teri,t e r i,,datasets_Blagar_Bakalang_tsv
+1859,baka1276,to_shoo_to_chase_away_to_send_away,teri,t e r i,,datasets_Blagar_Bakalang_tsv
 1860,blag1240-bama,sky,bulaŋ,b u l a ŋ,,datasets_Blagar_Bama_tsv
 1861,blag1240-bama,sun,ved,v e d,,datasets_Blagar_Bama_tsv
 1862,blag1240-bama,moon,uru,u r u,,datasets_Blagar_Bama_tsv
@@ -1955,7 +1953,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 1953,blag1240-bama,corn_maize,batar,b a t a r,,datasets_Blagar_Bama_tsv
 1954,blag1240-bama,cooked_corn,batar ipi,b a t a r _ i p i,,datasets_Blagar_Bama_tsv
 1955,blag1240-bama,coconut,wet,w e t,,datasets_Blagar_Bama_tsv
-1956,blag1240-bama,gwang,kudubu,k u d u b u,,datasets_Blagar_Bama_tsv
+1956,blag1240-bama,gebang_palm,kudubu,k u d u b u,,datasets_Blagar_Bama_tsv
 1957,blag1240-bama,lontar_palm,tox,t o x,"tox ‘tuak, palm wine’",datasets_Blagar_Bama_tsv
 1958,blag1240-bama,lontar_palm,tox aikoli,t o x _ ai k o l i,"tox ‘tuak, palm wine’",datasets_Blagar_Bama_tsv
 1959,blag1240-bama,sugar_palm,bur,b u r,,datasets_Blagar_Bama_tsv
@@ -2007,7 +2005,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2005,blag1240-bama,skin,pikol,p i k o l,,datasets_Blagar_Bama_tsv
 2006,blag1240-bama,wound,bata,b a t a,,datasets_Blagar_Bama_tsv
 2007,blag1240-bama,scabies,qot,q o t,,datasets_Blagar_Bama_tsv
-2008,blag1240-bama,feverish,biriŋ,b i r i ŋ,,datasets_Blagar_Bama_tsv
+2008,blag1240-bama,fever,biriŋ,b i r i ŋ,,datasets_Blagar_Bama_tsv
 2009,blag1240-bama,cold_influenza,sopiŋ waj,s o p i ŋ _ w aj,,datasets_Blagar_Bama_tsv
 2010,blag1240-bama,person,uʤaxa,u dʒ a x a,Not 'manusia' (human being). ,datasets_Blagar_Bama_tsv
 2011,blag1240-bama,name,tenuŋ,t e n u ŋ,,datasets_Blagar_Bama_tsv
@@ -2262,7 +2260,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2260,blag1240-bama,tall,blolu,b l o l u,,datasets_Blagar_Bama_tsv
 2261,blag1240-bama,short,tukaŋ,t u k a ŋ,,datasets_Blagar_Bama_tsv
 2262,blag1240-bama,narrow,kopok,k o p o k,,datasets_Blagar_Bama_tsv
-2263,blag1240-bama,to_chase_away_to_expel,geteriŋ,g e t e r i ŋ,,datasets_Blagar_Bama_tsv
+2263,blag1240-bama,to_shoo_to_chase_away_to_send_away,geteriŋ,g e t e r i ŋ,,datasets_Blagar_Bama_tsv
 2264,blag1240-kulij,sky,bulan,b u l a n,,datasets_Blagar_Kulijahi_tsv
 2265,blag1240-kulij,sun,ved en,v e d _ e n,,datasets_Blagar_Kulijahi_tsv
 2266,blag1240-kulij,sun,wed en,w e d _ e n,,datasets_Blagar_Kulijahi_tsv
@@ -2365,7 +2363,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2363,blag1240-kulij,cooked_corn,batar pi,b a t a r _ p i,,datasets_Blagar_Kulijahi_tsv
 2364,blag1240-kulij,coconut,vet,v e t,,datasets_Blagar_Kulijahi_tsv
 2365,blag1240-kulij,coconut,wet,w e t,,datasets_Blagar_Kulijahi_tsv
-2366,blag1240-kulij,gwang,kədubuk,k ə d u b u k,,datasets_Blagar_Kulijahi_tsv
+2366,blag1240-kulij,gebang_palm,kədubuk,k ə d u b u k,,datasets_Blagar_Kulijahi_tsv
 2367,blag1240-kulij,lontar_palm,tua,t ua,,datasets_Blagar_Kulijahi_tsv
 2368,blag1240-kulij,marungga,təmoluŋ,t ə m o l u ŋ,,datasets_Blagar_Kulijahi_tsv
 2369,blag1240-kulij,gum_tree,pu,p u,,datasets_Blagar_Kulijahi_tsv
@@ -2419,7 +2417,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2417,blag1240-kulij,skin,piʔulit,p i ʔ u l i t,,datasets_Blagar_Kulijahi_tsv
 2418,blag1240-kulij,wound,bata,b a t a,,datasets_Blagar_Kulijahi_tsv
 2419,blag1240-kulij,ringworm,kot,k o t,,datasets_Blagar_Kulijahi_tsv
-2420,blag1240-kulij,feverish,bibiriŋ,b i b i r i ŋ,,datasets_Blagar_Kulijahi_tsv
+2420,blag1240-kulij,fever,bibiriŋ,b i b i r i ŋ,,datasets_Blagar_Kulijahi_tsv
 2421,blag1240-kulij,cold_influenza,ho aiŋ bue,h o _ ai ŋ _ b u e,,datasets_Blagar_Kulijahi_tsv
 2422,blag1240-kulij,person,nexe,n e x e,,datasets_Blagar_Kulijahi_tsv
 2423,blag1240-kulij,name,ten:e,t e nː e,,datasets_Blagar_Kulijahi_tsv
@@ -2658,7 +2656,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2656,blag1240-kulij,tall,blolu,b l o l u,,datasets_Blagar_Kulijahi_tsv
 2657,blag1240-kulij,short,tukaŋ,t u k a ŋ,,datasets_Blagar_Kulijahi_tsv
 2658,blag1240-kulij,narrow,krubo,k r u b o,,datasets_Blagar_Kulijahi_tsv
-2659,blag1240-kulij,to_chase_away_to_expel,teri,t e r i,,datasets_Blagar_Kulijahi_tsv
+2659,blag1240-kulij,to_shoo_to_chase_away_to_send_away,teri,t e r i,,datasets_Blagar_Kulijahi_tsv
 2660,blag1240-nule,sky,bulaŋ,b u l a ŋ,,datasets_Blagar_Nule_tsv
 2661,blag1240-nule,sun,ved,v e d,,datasets_Blagar_Nule_tsv
 2662,blag1240-nule,moon,wuru,w u r u,,datasets_Blagar_Nule_tsv
@@ -2758,7 +2756,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2756,blag1240-nule,corn_maize,batar,b a t a r,,datasets_Blagar_Nule_tsv
 2757,blag1240-nule,cooked_corn,batar pi,b a t a r _ p i,,datasets_Blagar_Nule_tsv
 2758,blag1240-nule,coconut,vet,v e t,,datasets_Blagar_Nule_tsv
-2759,blag1240-nule,gwang,kə'dubuk,k ə d u b u k,,datasets_Blagar_Nule_tsv
+2759,blag1240-nule,gebang_palm,kə'dubuk,k ə d u b u k,,datasets_Blagar_Nule_tsv
 2760,blag1240-nule,lontar_palm,koli,k o l i,,datasets_Blagar_Nule_tsv
 2761,blag1240-nule,sugar_palm,bur,b u r,,datasets_Blagar_Nule_tsv
 2762,blag1240-nule,marungga,tə'moluŋ,t ə m o l u ŋ,,datasets_Blagar_Nule_tsv
@@ -2823,7 +2821,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 2821,blag1240-nule,wound,ibat,i b a t,‘new wound’,datasets_Blagar_Nule_tsv
 2822,blag1240-nule,scabies,ko:t,k oː t,,datasets_Blagar_Nule_tsv
 2823,blag1240-nule,tinea,mə'naw,m ə n a w,,datasets_Blagar_Nule_tsv
-2824,blag1240-nule,feverish,viviriŋ,v i v i r i ŋ,,datasets_Blagar_Nule_tsv
+2824,blag1240-nule,fever,viviriŋ,v i v i r i ŋ,,datasets_Blagar_Nule_tsv
 2825,blag1240-nule,conjunctivitis,tembrak,t e m b r a k,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Blagar_Nule_tsv
 2826,blag1240-nule,cold_influenza,təmiŋ omi pi,t ə m i ŋ _ o m i _ p i,,datasets_Blagar_Nule_tsv
 2827,blag1240-nule,person,ne:nu,n eː n u,,datasets_Blagar_Nule_tsv
@@ -3077,9 +3075,9 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3075,blag1240-nule,tall,məlolu,m ə l o l u,,datasets_Blagar_Nule_tsv
 3076,blag1240-nule,short,tukaŋ,t u k a ŋ,,datasets_Blagar_Nule_tsv
 3077,blag1240-nule,narrow,kə'rubo,k ə r u b o,,datasets_Blagar_Nule_tsv
-3078,blag1240-nule,to_chase_away_to_expel,bura,b u r a,"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’",datasets_Blagar_Nule_tsv
-3079,blag1240-nule,to_chase_away_to_expel,sambe,s a m b e,"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’",datasets_Blagar_Nule_tsv
-3080,blag1240-nule,to_chase_away_to_expel,sika,s i k a,"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’",datasets_Blagar_Nule_tsv
+3078,blag1240-nule,to_shoo_to_chase_away_to_send_away,bura,b u r a,"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’",datasets_Blagar_Nule_tsv
+3079,blag1240-nule,to_shoo_to_chase_away_to_send_away,sambe,s a m b e,"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’",datasets_Blagar_Nule_tsv
+3080,blag1240-nule,to_shoo_to_chase_away_to_send_away,sika,s i k a,"sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’",datasets_Blagar_Nule_tsv
 3081,blag1240-tuntu,sky,bu'laŋ,b u l a ŋ,,datasets_Blagar_Tuntuli_tsv
 3082,blag1240-tuntu,sun,ved,v e d,,datasets_Blagar_Tuntuli_tsv
 3083,blag1240-tuntu,moon,wuru,w u r u,,datasets_Blagar_Tuntuli_tsv
@@ -3180,7 +3178,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3178,blag1240-tuntu,cooked_corn,ba'tar ipi,b a t a r _ i p i,,datasets_Blagar_Tuntuli_tsv
 3179,blag1240-tuntu,coconut,vet,v e t,,datasets_Blagar_Tuntuli_tsv
 3180,blag1240-tuntu,coconut,wet,w e t,,datasets_Blagar_Tuntuli_tsv
-3181,blag1240-tuntu,gwang,kudubu,k u d u b u,,datasets_Blagar_Tuntuli_tsv
+3181,blag1240-tuntu,gebang_palm,kudubu,k u d u b u,,datasets_Blagar_Tuntuli_tsv
 3182,blag1240-tuntu,lontar_palm,ajkoli,aj k o l i,,datasets_Blagar_Tuntuli_tsv
 3183,blag1240-tuntu,sugar_palm,bur,b u r,,datasets_Blagar_Tuntuli_tsv
 3184,blag1240-tuntu,marungga,mo'toluŋ,m o t o l u ŋ,,datasets_Blagar_Tuntuli_tsv
@@ -3240,7 +3238,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3238,blag1240-tuntu,ringworm,qot,q o t,,datasets_Blagar_Tuntuli_tsv
 3239,blag1240-tuntu,scabies,qot,q o t,,datasets_Blagar_Tuntuli_tsv
 3240,blag1240-tuntu,tinea,ba'naw,b a n a w,,datasets_Blagar_Tuntuli_tsv
-3241,blag1240-tuntu,feverish,biriŋ,b i r i ŋ,,datasets_Blagar_Tuntuli_tsv
+3241,blag1240-tuntu,fever,biriŋ,b i r i ŋ,,datasets_Blagar_Tuntuli_tsv
 3242,blag1240-tuntu,conjunctivitis,ten dira,t e n _ d i r a,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Blagar_Tuntuli_tsv
 3243,blag1240-tuntu,cold_influenza,qali,q a l i,,datasets_Blagar_Tuntuli_tsv
 3244,blag1240-tuntu,person,uʤaxa,u dʒ a x a,,datasets_Blagar_Tuntuli_tsv
@@ -3486,7 +3484,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3484,blag1240-tuntu,tall,bololu,b o l o l u,,datasets_Blagar_Tuntuli_tsv
 3485,blag1240-tuntu,short,tukaŋ,t u k a ŋ,,datasets_Blagar_Tuntuli_tsv
 3486,blag1240-tuntu,narrow,tubugis,t u b u g i s,,datasets_Blagar_Tuntuli_tsv
-3487,blag1240-tuntu,to_chase_away_to_expel,ge'teri,g e t e r i,,datasets_Blagar_Tuntuli_tsv
+3487,blag1240-tuntu,to_shoo_to_chase_away_to_send_away,ge'teri,g e t e r i,,datasets_Blagar_Tuntuli_tsv
 3488,blag1240-warsa,sky,bulaŋ,b u l a ŋ,,datasets_Blagar_Warsalelang_tsv
 3489,blag1240-warsa,sun,ved,v e d,,datasets_Blagar_Warsalelang_tsv
 3490,blag1240-warsa,moon,uru,u r u,,datasets_Blagar_Warsalelang_tsv
@@ -3595,7 +3593,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3593,blag1240-warsa,cooked_corn,batar ipi,b a t a r _ i p i,,datasets_Blagar_Warsalelang_tsv
 3594,blag1240-warsa,coconut,vet,v e t,,datasets_Blagar_Warsalelang_tsv
 3595,blag1240-warsa,coconut,wet,w e t,,datasets_Blagar_Warsalelang_tsv
-3596,blag1240-warsa,gwang,kudubuk,k u d u b u k,,datasets_Blagar_Warsalelang_tsv
+3596,blag1240-warsa,gebang_palm,kudubuk,k u d u b u k,,datasets_Blagar_Warsalelang_tsv
 3597,blag1240-warsa,lontar_palm,tox,t o x,,datasets_Blagar_Warsalelang_tsv
 3598,blag1240-warsa,marungga,motoluŋ,m o t o l u ŋ,,datasets_Blagar_Warsalelang_tsv
 3599,blag1240-warsa,gum_tree,pal,p a l,,datasets_Blagar_Warsalelang_tsv
@@ -3655,7 +3653,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3653,blag1240-warsa,ringworm,qot,q o t,,datasets_Blagar_Warsalelang_tsv
 3654,blag1240-warsa,ringworm,xot,x o t,,datasets_Blagar_Warsalelang_tsv
 3655,blag1240-warsa,tinea,banau,b a n au,,datasets_Blagar_Warsalelang_tsv
-3656,blag1240-warsa,feverish,biriŋ,b i r i ŋ,,datasets_Blagar_Warsalelang_tsv
+3656,blag1240-warsa,fever,biriŋ,b i r i ŋ,,datasets_Blagar_Warsalelang_tsv
 3657,blag1240-warsa,cold_influenza,sotai memva,s o t ai _ m e m v a,,datasets_Blagar_Warsalelang_tsv
 3658,blag1240-warsa,person,piŋ,p i ŋ,,datasets_Blagar_Warsalelang_tsv
 3659,blag1240-warsa,name,tene,t e n e,,datasets_Blagar_Warsalelang_tsv
@@ -3938,7 +3936,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 3936,blag1240-warsa,short,tukaŋ,t u k a ŋ,,datasets_Blagar_Warsalelang_tsv
 3937,blag1240-warsa,narrow,kropok,k r o p o k,,datasets_Blagar_Warsalelang_tsv
 3938,blag1240-warsa,narrow,tubugis,t u b u g i s,"narrow, as a small room'; ",datasets_Blagar_Warsalelang_tsv
-3939,blag1240-warsa,to_chase_away_to_expel,geteri,g e t e r i,,datasets_Blagar_Warsalelang_tsv
+3939,blag1240-warsa,to_shoo_to_chase_away_to_send_away,geteri,g e t e r i,,datasets_Blagar_Warsalelang_tsv
 3940,buna1278-malia,sky,phan,pʰ a n,,datasets_Bunak_Maliana_tsv
 3941,buna1278-malia,sun,hɔt,h ɔ t,,datasets_Bunak_Maliana_tsv
 3942,buna1278-malia,moon,hul,h u l,,datasets_Bunak_Maliana_tsv
@@ -4337,7 +4335,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4335,dein1238,corn_maize,batr,b a tr,(batr bah 'biji jagung'),datasets_Deing_tsv
 4336,dein1238,cooked_corn,waʔ banuʔaŋ,w a ʔ _ b a n u ʔ a ŋ,,datasets_Deing_tsv
 4337,dein1238,coconut,wat,w a t,,datasets_Deing_tsv
-4338,dein1238,gwang,axe,a x e,,datasets_Deing_tsv
+4338,dein1238,gebang_palm,axe,a x e,,datasets_Deing_tsv
 4339,dein1238,lontar_palm,tuah,t ua h,,datasets_Deing_tsv
 4340,dein1238,sugar_palm,ku:d waʔ,k uː d _ w a ʔ,,datasets_Deing_tsv
 4341,dein1238,marungga,puwaʔ,p uw a ʔ,,datasets_Deing_tsv
@@ -4395,7 +4393,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4393,dein1238,wound,jwat,jʷ a t,,datasets_Deing_tsv
 4394,dein1238,ringworm,qu:s,q uː s,,datasets_Deing_tsv
 4395,dein1238,tinea,mna:s,m n aː s,,datasets_Deing_tsv
-4396,dein1238,feverish,wu luwe,w u _ l uw e,,datasets_Deing_tsv
+4396,dein1238,fever,wu luwe,w u _ l uw e,,datasets_Deing_tsv
 4397,dein1238,conjunctivitis,naiti iʔ,n ai t i _ i ʔ,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Deing_tsv
 4398,dein1238,cold_influenza,qalnuŋ pak:aŋ,q a l n u ŋ _ p a kː a ŋ,,datasets_Deing_tsv
 4399,dein1238,person,uj,uj,,datasets_Deing_tsv
@@ -4640,7 +4638,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4638,dein1238,tall,liawaŋ,l ia w a ŋ,,datasets_Deing_tsv
 4639,dein1238,short,tuq,t u q,,datasets_Deing_tsv
 4640,dein1238,narrow,twuŋ,tʷ u ŋ,,datasets_Deing_tsv
-4641,dein1238,to_chase_away_to_expel,gasai,g a s ai,,datasets_Deing_tsv
+4641,dein1238,to_shoo_to_chase_away_to_send_away,gasai,g a s ai,,datasets_Deing_tsv
 4642,hama1240,sky,buraŋ,b u r a ŋ,,datasets_Hamap_Moru_tsv
 4643,hama1240,sun,fød,f ø d,,datasets_Hamap_Moru_tsv
 4644,hama1240,moon,ul,u l,,datasets_Hamap_Moru_tsv
@@ -4971,7 +4969,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 4969,nede1245,corn_maize,ba:ta,b aː t a,,datasets_Nedebang_tsv
 4970,nede1245,cooked_corn,batupi,b a t u p i,,datasets_Nedebang_tsv
 4971,nede1245,coconut,wata,w a t a,,datasets_Nedebang_tsv
-4972,nede1245,gwang,aŋwaʔa,a ŋʷ aʔa,(wa'a 'leaf'),datasets_Nedebang_tsv
+4972,nede1245,gebang_palm,aŋwaʔa,a ŋʷ aʔa,(wa'a 'leaf'),datasets_Nedebang_tsv
 4973,nede1245,lontar_palm,awaʔa,a w aʔa,(wa'a 'leaf'),datasets_Nedebang_tsv
 4974,nede1245,marungga,sal:a,s a lː a,,datasets_Nedebang_tsv
 4975,nede1245,gum_tree,pa:la,p aː l a,,datasets_Nedebang_tsv
@@ -5027,7 +5025,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5025,nede1245,wound,bat:a,b a tː a,,datasets_Nedebang_tsv
 5026,nede1245,ringworm,katu,k a t u,,datasets_Nedebang_tsv
 5027,nede1245,tinea,manu,m a n u,,datasets_Nedebang_tsv
-5028,nede1245,feverish,talaqo,t a l a q o,,datasets_Nedebang_tsv
+5028,nede1245,fever,talaqo,t a l a q o,,datasets_Nedebang_tsv
 5029,nede1245,cold_influenza,(kali) besima,b e s i m a,,datasets_Nedebang_tsv
 5030,nede1245,cold_influenza,(kali) besima,k a l i _ b e s i m a,,datasets_Nedebang_tsv
 5031,nede1245,person,waʔaŋ,w aʔa ŋ,,datasets_Nedebang_tsv
@@ -5081,7 +5079,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5079,nede1245,mosquito,kimbalu,k i m b a l u,,datasets_Nedebang_tsv
 5080,nede1245,ant,mur,m u r,,datasets_Nedebang_tsv
 5081,nede1245,grasshopper,o,o,,datasets_Nedebang_tsv
-5082,nede1245,locust,juja,j uj a,,datasets_Nedebang_tsv
+5082,nede1245,rice_ear_bug,juja,j uj a,,datasets_Nedebang_tsv
 5083,nede1245,spider,qaxava,q a x a v a,,datasets_Nedebang_tsv
 5084,nede1245,louse_in_hair,kuŋ,k u ŋ,,datasets_Nedebang_tsv
 5085,nede1245,louse_eggs,riŋ,r i ŋ,,datasets_Nedebang_tsv
@@ -5277,7 +5275,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5275,nede1245,tall,liawaŋ,l ia w a ŋ,,datasets_Nedebang_tsv
 5276,nede1245,short,tuk:u,t u kː u,,datasets_Nedebang_tsv
 5277,nede1245,narrow,sama,s a m a,(also small); ,datasets_Nedebang_tsv
-5278,nede1245,to_chase_away_to_expel,getiala,g e t ia l a,,datasets_Nedebang_tsv
+5278,nede1245,to_shoo_to_chase_away_to_send_away,getiala,g e t ia l a,,datasets_Nedebang_tsv
 5279,kafo1240,sky,fulɑŋ,f u l ɑ ŋ,,datasets_Kafoa_Probur_tsv
 5280,kafo1240,sun,uru,u r u,,datasets_Kafoa_Probur_tsv
 5281,kafo1240,moon,ʔu.a,ʔ u _ a,,datasets_Kafoa_Probur_tsv
@@ -5619,7 +5617,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5617,kira1248,corn_maize,bati,b a t i,,datasets_Kiraman_tsv
 5618,kira1248,cooked_corn,batup ma,b a t u p _ m a,,datasets_Kiraman_tsv
 5619,kira1248,coconut,bat,b a t,,datasets_Kiraman_tsv
-5620,kira1248,gwang,tab,t a b,,datasets_Kiraman_tsv
+5620,kira1248,gebang_palm,tab,t a b,,datasets_Kiraman_tsv
 5621,kira1248,lontar_palm,tuk,t u k,,datasets_Kiraman_tsv
 5622,kira1248,sugar_palm,tuk baka,t u k _ b a k a,(lit. ‘bad coconut’),datasets_Kiraman_tsv
 5623,kira1248,marungga,kokol,k o k o l,,datasets_Kiraman_tsv
@@ -5679,7 +5677,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5677,kira1248,ringworm,sosur,s o s u r,,datasets_Kiraman_tsv
 5678,kira1248,scabies,nal,n a l,,datasets_Kiraman_tsv
 5679,kira1248,tinea,buimanima,b ui m a n i m a,,datasets_Kiraman_tsv
-5680,kira1248,feverish,gijak sinam,g ij a k _ s i n a m,,datasets_Kiraman_tsv
+5680,kira1248,fever,gijak sinam,g ij a k _ s i n a m,,datasets_Kiraman_tsv
 5681,kira1248,conjunctivitis,gen keo,g e n _ k e o,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Kiraman_tsv
 5682,kira1248,cold_influenza,manebar,m a n e b a r,,datasets_Kiraman_tsv
 5683,kira1248,person,anam,a n a m,,datasets_Kiraman_tsv
@@ -5936,7 +5934,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 5934,kira1248,tall,alela,a l e l a,,datasets_Kiraman_tsv
 5935,kira1248,short,tuku,t u k u,,datasets_Kiraman_tsv
 5936,kira1248,narrow,tadupan,t a d u p a n,,datasets_Kiraman_tsv
-5937,kira1248,to_chase_away_to_expel,gabol,g a b o l,,datasets_Kiraman_tsv
+5937,kira1248,to_shoo_to_chase_away_to_send_away,gabol,g a b o l,,datasets_Kiraman_tsv
 5938,kelo1247-bring,sky,buləgɛn,b u l ə g ɛ n,,datasets_Klon_Bring_tsv
 5939,kelo1247-bring,sun,mədi,m ə d i,,datasets_Klon_Bring_tsv
 5940,kelo1247-bring,moon,ʊr,ʊ r,,datasets_Klon_Bring_tsv
@@ -6272,7 +6270,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6270,kuii1253,corn_maize,batar,b a t a r,,datasets_Kui_Moru_tsv
 6271,kuii1253,cooked_corn,batar up,b a t a r _ u p,,datasets_Kui_Moru_tsv
 6272,kuii1253,coconut,bat,b a t,,datasets_Kui_Moru_tsv
-6273,kuii1253,gwang,akal yera,a k a l _ y e r a,,datasets_Kui_Moru_tsv
+6273,kuii1253,gebang_palm,akal yera,a k a l _ y e r a,,datasets_Kui_Moru_tsv
 6274,kuii1253,lontar_palm,tu:k yera,t uː k _ y e r a,,datasets_Kui_Moru_tsv
 6275,kuii1253,sugar_palm,nau yera,n au _ y e r a,,datasets_Kui_Moru_tsv
 6276,kuii1253,marungga,kakol,k a k o l,,datasets_Kui_Moru_tsv
@@ -6333,7 +6331,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6331,kuii1253,ringworm,lukur,l u k u r,,datasets_Kui_Moru_tsv
 6332,kuii1253,scabies,nal,n a l,,datasets_Kui_Moru_tsv
 6333,kuii1253,tinea,yermanema,y e r m a n e m a,,datasets_Kui_Moru_tsv
-6334,kuii1253,feverish,senam,s e n a m,,datasets_Kui_Moru_tsv
+6334,kuii1253,fever,senam,s e n a m,,datasets_Kui_Moru_tsv
 6335,kuii1253,conjunctivitis,ten kei,t e n _ k ei,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Kui_Moru_tsv
 6336,kuii1253,cold_influenza,maneber,m a n e b e r,,datasets_Kui_Moru_tsv
 6337,kuii1253,person,aninou,a n i n ou,,datasets_Kui_Moru_tsv
@@ -6582,7 +6580,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6580,kuii1253,tall,gei naban,g ei _ n a b a n,,datasets_Kui_Moru_tsv
 6581,kuii1253,short,tuk,t u k,,datasets_Kui_Moru_tsv
 6582,kuii1253,narrow,tadukun,t a d u k u n,,datasets_Kui_Moru_tsv
-6583,kuii1253,to_chase_away_to_expel,galur,g a l u r,,datasets_Kui_Moru_tsv
+6583,kuii1253,to_shoo_to_chase_away_to_send_away,galur,g a l u r,,datasets_Kui_Moru_tsv
 6584,rett1240,sky,buraŋ,b u r a ŋ,,datasets_Reta_tsv
 6585,rett1240,sun,vid,v i d,,datasets_Reta_tsv
 6586,rett1240,moon,uru,u r u,,datasets_Reta_tsv
@@ -6688,7 +6686,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6686,rett1240,corn_maize,batal,b a t a l,,datasets_Reta_tsv
 6687,rett1240,cooked_corn,bataraʤi,b a t a r a dʒ i,,datasets_Reta_tsv
 6688,rett1240,coconut,vat,v a t,,datasets_Reta_tsv
-6689,rett1240,gwang,aŋkal,a ŋ k a l,,datasets_Reta_tsv
+6689,rett1240,gebang_palm,aŋkal,a ŋ k a l,,datasets_Reta_tsv
 6690,rett1240,lontar_palm,enkuali,e n k ua l i,,datasets_Reta_tsv
 6691,rett1240,sugar_palm,buru,b u r u,,datasets_Reta_tsv
 6692,rett1240,marungga,matuluŋ,m a t u l u ŋ,,datasets_Reta_tsv
@@ -6745,7 +6743,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6743,rett1240,wound,nekavaʔti,n e k a v a ˀt i,,datasets_Reta_tsv
 6744,rett1240,ringworm,ka't:u,k a tː u, ‘psoriasis’,datasets_Reta_tsv
 6745,rett1240,scabies,ko:t,k oː t,,datasets_Reta_tsv
-6746,rett1240,feverish,ba vila,b a _ v i l a,,datasets_Reta_tsv
+6746,rett1240,fever,ba vila,b a _ v i l a,,datasets_Reta_tsv
 6747,rett1240,conjunctivitis,gembeka,g e m b e k a,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Reta_tsv
 6748,rett1240,cold_influenza,tementa ɓuhi,t e m e n t a _ ɓ u h i,,datasets_Reta_tsv
 6749,rett1240,person,namaʔaŋa,n a m aʔa ŋ a,,datasets_Reta_tsv
@@ -6994,8 +6992,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 6992,rett1240,tall,ba'lolu,b a l o l u,,datasets_Reta_tsv
 6993,rett1240,short,taɓokaŋ,t a ɓ o k a ŋ,,datasets_Reta_tsv
 6994,rett1240,narrow,kipe,k i p e,,datasets_Reta_tsv
-6995,rett1240,to_chase_away_to_expel,gatiari,g a t ia r i,,datasets_Reta_tsv
-6996,rett1240,to_chase_away_to_expel,gatieri,g a t ie r i,,datasets_Reta_tsv
+6995,rett1240,to_shoo_to_chase_away_to_send_away,gatiari,g a t ia r i,,datasets_Reta_tsv
+6996,rett1240,to_shoo_to_chase_away_to_send_away,gatieri,g a t ie r i,,datasets_Reta_tsv
 6997,sarr1247-adiab,sky,bu'la,b u l a,,datasets_Sar_Adiabang_tsv
 6998,sarr1247-adiab,sun,war,w a r,,datasets_Sar_Adiabang_tsv
 6999,sarr1247-adiab,moon,wur,w u r,,datasets_Sar_Adiabang_tsv
@@ -7096,7 +7094,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7094,sarr1247-adiab,corn_maize,bə'tar,b ə t a r,,datasets_Sar_Adiabang_tsv
 7095,sarr1247-adiab,cooked_corn,waʔi pa,w a ʔ i _ p a,,datasets_Sar_Adiabang_tsv
 7096,sarr1247-adiab,coconut,wat,w a t,,datasets_Sar_Adiabang_tsv
-7097,sarr1247-adiab,gwang,hahal,h a h a l,,datasets_Sar_Adiabang_tsv
+7097,sarr1247-adiab,gebang_palm,hahal,h a h a l,,datasets_Sar_Adiabang_tsv
 7098,sarr1247-adiab,lontar_palm,tuax,t ua x,,datasets_Sar_Adiabang_tsv
 7099,sarr1247-adiab,sugar_palm,bur,b u r,,datasets_Sar_Adiabang_tsv
 7100,sarr1247-adiab,marungga,qu:d waʔ,q uː d _ w a ʔ,,datasets_Sar_Adiabang_tsv
@@ -7158,7 +7156,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7156,sarr1247-adiab,ringworm,dutis,d u t i s,,datasets_Sar_Adiabang_tsv
 7157,sarr1247-adiab,scabies,qu:s,q uː s,,datasets_Sar_Adiabang_tsv
 7158,sarr1247-adiab,tinea,mə'nas,m ə n a s,,datasets_Sar_Adiabang_tsv
-7159,sarr1247-adiab,feverish,gom qajʔaw,g o m _ q aj ʔ a w,,datasets_Sar_Adiabang_tsv
+7159,sarr1247-adiab,fever,gom qajʔaw,g o m _ q aj ʔ a w,,datasets_Sar_Adiabang_tsv
 7160,sarr1247-adiab,conjunctivitis,get ʔi,g e t _ ʔ i,"(lit., ‘eye sick’);",datasets_Sar_Adiabang_tsv
 7161,sarr1247-adiab,cold_influenza,pe'sin,p e s i n,,datasets_Sar_Adiabang_tsv
 7162,sarr1247-adiab,person,uj,uj,,datasets_Sar_Adiabang_tsv
@@ -7416,10 +7414,10 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7414,sarr1247-adiab,tall,lewa,l e w a,,datasets_Sar_Adiabang_tsv
 7415,sarr1247-adiab,short,tuk,t u k,,datasets_Sar_Adiabang_tsv
 7416,sarr1247-adiab,narrow,tə'fug,t ə f u g,,datasets_Sar_Adiabang_tsv
-7417,sarr1247-adiab,to_chase_away_to_expel,bu'rah,b u r a h,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
-7418,sarr1247-adiab,to_chase_away_to_expel,gə'saj,g ə s aj,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
-7419,sarr1247-adiab,to_chase_away_to_expel,hus,h u s,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
-7420,sarr1247-adiab,to_chase_away_to_expel,si'kah,s i k a h,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
+7417,sarr1247-adiab,to_shoo_to_chase_away_to_send_away,bu'rah,b u r a h,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
+7418,sarr1247-adiab,to_shoo_to_chase_away_to_send_away,gə'saj,g ə s aj,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
+7419,sarr1247-adiab,to_shoo_to_chase_away_to_send_away,hus,h u s,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
+7420,sarr1247-adiab,to_shoo_to_chase_away_to_send_away,si'kah,s i k a h,"gəsáj, sikáh ‘sound for shooing dog’, hus ‘sound for shooing cat’, buráh ‘sound for shooing chicken’",datasets_Sar_Adiabang_tsv
 7421,kula1280-lanto,sky,apəŋge(y)a,a p ə ŋ g e a,,datasets_Kula_Lantoka_tsv
 7422,kula1280-lanto,sky,apəŋge(y)a,a p ə ŋ g e y a,,datasets_Kula_Lantoka_tsv
 7423,kula1280-lanto,sun,wad,w a d,,datasets_Kula_Lantoka_tsv
@@ -7577,7 +7575,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7575,kula1280-lanto,wound,leyati,l e y a t i,,datasets_Kula_Lantoka_tsv
 7576,kula1280-lanto,ringworm,məmuya,m ə m u y a,,datasets_Kula_Lantoka_tsv
 7577,kula1280-lanto,tinea,bəbəla,b ə b ə l a,,datasets_Kula_Lantoka_tsv
-7578,kula1280-lanto,feverish,ŋəgɪs jima,ŋ ə g ɪ s _ j i m a,(jima 'hot' ?),datasets_Kula_Lantoka_tsv
+7578,kula1280-lanto,fever,ŋəgɪs jima,ŋ ə g ɪ s _ j i m a,(jima 'hot' ?),datasets_Kula_Lantoka_tsv
 7579,kula1280-lanto,cold_influenza,mamaka,m a m a k a,,datasets_Kula_Lantoka_tsv
 7580,kula1280-lanto,person,aniŋna,a n i ŋ n a,,datasets_Kula_Lantoka_tsv
 7581,kula1280-lanto,name,ndena,n d e n a,,datasets_Kula_Lantoka_tsv
@@ -7828,7 +7826,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7826,kula1280-lanto,older_sister,ŋanana (i)jala,ŋ a n a n a _ j a l a,,datasets_Kula_Lantoka_tsv
 7827,kula1280-lanto,older_sister,ŋanana (i)jala,ŋ a n a n a _ ij a l a,,datasets_Kula_Lantoka_tsv
 7828,kula1280-lanto,sister,ŋaluwe jala,ŋ a l uw e _ j a l a,,datasets_Kula_Lantoka_tsv
-7829,kula1280-lanto,womans_cross_cousin,adata jala,a d a t a _ j a l a,,datasets_Kula_Lantoka_tsv
 7830,kula1280-lanto,womans_younger_sister,ŋakaku jala,ŋ a k a k u _ j a l a,,datasets_Kula_Lantoka_tsv
 7831,kula1280-lanto,younger_brother,ŋakaku malu,ŋ a k a k u _ m a l u,,datasets_Kula_Lantoka_tsv
 7832,kula1280-lanto,brother,giluwe mala,g i l uw e _ m a l a,,datasets_Kula_Lantoka_tsv
@@ -7842,7 +7839,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7840,kula1280-lanto,tall,ayanana,a y a n a n a,,datasets_Kula_Lantoka_tsv
 7841,kula1280-lanto,short,tukuda,t u k u d a,,datasets_Kula_Lantoka_tsv
 7842,kula1280-lanto,narrow,takuk,t a k u k, ,datasets_Kula_Lantoka_tsv
-7843,kula1280-lanto,to_chase_away_to_expel,arpane,a r p a n e,,datasets_Kula_Lantoka_tsv
+7843,kula1280-lanto,to_shoo_to_chase_away_to_send_away,arpane,a r p a n e,,datasets_Kula_Lantoka_tsv
 7844,alor1247-munas,sky,laŋi,l a ŋ i,,datasets_Munaseli_tsv
 7845,alor1247-munas,sun,lə'rːa,l ə rː a,,datasets_Munaseli_tsv
 7846,alor1247-munas,moon,wulaŋ,w u l a ŋ,,datasets_Munaseli_tsv
@@ -7987,7 +7984,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 7985,alor1247-munas,corn_maize,wata,w a t a,,datasets_Munaseli_tsv
 7986,alor1247-munas,cooked_corn,wata 'punaʔ,w a t a _ p u n a ʔ,,datasets_Munaseli_tsv
 7987,alor1247-munas,coconut,tapɔ,t a p ɔ,,datasets_Munaseli_tsv
-7988,alor1247-munas,gwang,k'dɛbu 'pukɔŋ,k d ɛ b u _ p u k ɔ ŋ,gwang tree,datasets_Munaseli_tsv
+7988,alor1247-munas,gebang_palm,k'dɛbu 'pukɔŋ,k d ɛ b u _ p u k ɔ ŋ,gwang tree,datasets_Munaseli_tsv
 7989,alor1247-munas,lontar_palm,koɔli 'pukɔŋ,k o ɔ l i _ p u k ɔ ŋ,lontar tree,datasets_Munaseli_tsv
 7990,alor1247-munas,sugar_palm,pɔla 'pukɔŋ,p ɔ l a _ p u k ɔ ŋ,sugar tree,datasets_Munaseli_tsv
 7991,alor1247-munas,marungga,mɔtɔŋ,m ɔ t ɔ ŋ,,datasets_Munaseli_tsv
@@ -8095,7 +8092,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 8093,alor1247-munas,scabies,katu wə'ne,k a t u _ w ə n e,,datasets_Munaseli_tsv
 8094,alor1247-munas,scabies,katu ,k a t u,,datasets_Munaseli_tsv
 8095,alor1247-munas,tinea,nao,n ao,,datasets_Munaseli_tsv
-8096,alor1247-munas,feverish,p'latiŋ ə'kɛr,p l a t i ŋ _ ə k ɛ r,,datasets_Munaseli_tsv
+8096,alor1247-munas,fever,p'latiŋ ə'kɛr,p l a t i ŋ _ ə k ɛ r,,datasets_Munaseli_tsv
 8097,alor1247-munas,conjunctivitis,mataʔ 'meaŋ,m a t a ʔ _ m e a ŋ,lit. eye red (1SG),datasets_Munaseli_tsv
 8098,alor1247-munas,conjunctivitis,mataŋ 'meaŋ,m a t a ŋ _ m e a ŋ,lit. eye red,datasets_Munaseli_tsv
 8099,alor1247-munas,cold_influenza,ha'nːuŋ,h a nː u ŋ,,datasets_Munaseli_tsv
@@ -8212,9 +8209,9 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 8210,alor1247-munas,mosquito,kapːuŋ,k a pː u ŋ,,datasets_Munaseli_tsv
 8211,alor1247-munas,ant,kə'rːek,k ə rː e k,,datasets_Munaseli_tsv
 8212,alor1247-munas,grasshopper,marɔʔ,m a r ɔ ʔ,,datasets_Munaseli_tsv
-8213,alor1247-munas,locust,mɛruŋ b'lurɔŋ,m ɛ r u ŋ _ b l u r ɔ ŋ,,datasets_Munaseli_tsv
-8214,alor1247-munas,locust,mɛruŋ 'gihi,m ɛ r u ŋ _ g i h i,,datasets_Munaseli_tsv
-8215,alor1247-munas,locust,mɛruŋ ,m ɛ r u ŋ,,datasets_Munaseli_tsv
+8213,alor1247-munas,rice_ear_bug,mɛruŋ b'lurɔŋ,m ɛ r u ŋ _ b l u r ɔ ŋ,,datasets_Munaseli_tsv
+8214,alor1247-munas,rice_ear_bug,mɛruŋ 'gihi,m ɛ r u ŋ _ g i h i,,datasets_Munaseli_tsv
+8215,alor1247-munas,rice_ear_bug,mɛruŋ ,m ɛ r u ŋ,,datasets_Munaseli_tsv
 8216,alor1247-munas,spider,kaŋ'ga 'rukaʔ,k a ŋ g a _ r u k a ʔ,,datasets_Munaseli_tsv
 8217,alor1247-munas,louse_in_hair,kutɔ,k u t ɔ,,datasets_Munaseli_tsv
 8218,alor1247-munas,louse_eggs,k'lɛhɛŋ,k l ɛ h ɛ ŋ,,datasets_Munaseli_tsv
@@ -8482,7 +8479,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 8480,alor1247-munas,older_sister,tata k'wae ,t a t a _ k w a e,,datasets_Munaseli_tsv
 8481,alor1247-munas,sister,binɛʔ,b i n ɛ ʔ,,datasets_Munaseli_tsv
 8482,alor1247-munas,sister,binɛŋ,b i n ɛ ŋ,,datasets_Munaseli_tsv
-8483,alor1247-munas,womans_cross_cousin,wiaʔ,w ia ʔ,,datasets_Munaseli_tsv
 8484,alor1247-munas,womans_younger_sister,kau k'wae,k au _ k w a e,,datasets_Munaseli_tsv
 8485,alor1247-munas,womans_younger_sister,ulːa k'wae,u lː a _ k w a e,,datasets_Munaseli_tsv
 8486,alor1247-munas,younger_brother,kau k'lake,k au _ k l a k e,,datasets_Munaseli_tsv
@@ -8607,7 +8603,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 8605,alor1247-munas,tall,b'lɔlɔk,b l ɔ l ɔ k,,datasets_Munaseli_tsv
 8606,alor1247-munas,short,mə'ku,m ə k u,,datasets_Munaseli_tsv
 8607,alor1247-munas,narrow,kupɔʔ,k u p ɔ ʔ,,datasets_Munaseli_tsv
-8608,alor1247-munas,to_search_hunt_for,gɛna,g ɛ n a,,datasets_Munaseli_tsv
+8608,alor1247-munas,to_search_for_to_hunt_for,gɛna,g ɛ n a,,datasets_Munaseli_tsv
 8609,alor1247-munas,to_crouch,tɔbɔ 'tɛlɛng,t ɔ b ɔ _ t ɛ l ɛ n g,,datasets_Munaseli_tsv
 8610,sarr1247-nule,sky,gunaʔ,g u n a ʔ,,datasets_Sar_Nule_tsv
 8611,sarr1247-nule,sun,war(get),w a r,,datasets_Sar_Nule_tsv
@@ -8711,7 +8707,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 8709,sarr1247-nule,corn_maize,ba'tar,b a t a r,,datasets_Sar_Nule_tsv
 8710,sarr1247-nule,cooked_corn,batar jipa,b a t a r _ j i p a,,datasets_Sar_Nule_tsv
 8711,sarr1247-nule,coconut,wat,w a t,,datasets_Sar_Nule_tsv
-8712,sarr1247-nule,gwang,haxai,h a x ai,,datasets_Sar_Nule_tsv
+8712,sarr1247-nule,gebang_palm,haxai,h a x ai,,datasets_Sar_Nule_tsv
 8713,sarr1247-nule,lontar_palm,qut,q u t,,datasets_Sar_Nule_tsv
 8714,sarr1247-nule,sugar_palm,bur,b u r,"(tuax ‘tuak, palm wine from either enau or lontar’)",datasets_Sar_Nule_tsv
 8715,sarr1247-nule,sugar_palm,tuax,t ua x,"(tuax ‘tuak, palm wine from either enau or lontar’)",datasets_Sar_Nule_tsv
@@ -8776,8 +8772,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 8774,sarr1247-nule,scabies,qus (baŋ),q u s,,datasets_Sar_Nule_tsv
 8775,sarr1247-nule,scabies,qus (baŋ),q u s _ b a ŋ,,datasets_Sar_Nule_tsv
 8776,sarr1247-nule,tinea,n-ənaj,n _ ə n aj,,datasets_Sar_Nule_tsv
-8777,sarr1247-nule,feverish,gəfiris,g ə f i r i s,,datasets_Sar_Nule_tsv
-8778,sarr1247-nule,feverish,nəfiris,n ə f i r i s,,datasets_Sar_Nule_tsv
+8777,sarr1247-nule,fever,gəfiris,g ə f i r i s,,datasets_Sar_Nule_tsv
+8778,sarr1247-nule,fever,nəfiris,n ə f i r i s,,datasets_Sar_Nule_tsv
 8779,sarr1247-nule,cold_influenza,qa:l,q aː l,,datasets_Sar_Nule_tsv
 8780,sarr1247-nule,person,uj,uj,,datasets_Sar_Nule_tsv
 8781,sarr1247-nule,name,galut,g a l u t,,datasets_Sar_Nule_tsv
@@ -9033,7 +9029,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9031,sarr1247-nule,tall,lewa,l e w a,,datasets_Sar_Nule_tsv
 9032,sarr1247-nule,short,tuk,t u k,,datasets_Sar_Nule_tsv
 9033,sarr1247-nule,narrow,təfu:g,t ə f uː g,,datasets_Sar_Nule_tsv
-9034,sarr1247-nule,to_chase_away_to_expel,gesa:j,g e s aː j,,datasets_Sar_Nule_tsv
+9034,sarr1247-nule,to_shoo_to_chase_away_to_send_away,gesa:j,g e s aː j,,datasets_Sar_Nule_tsv
 9035,alor1247-pandai,sky,kalːeŋ,k a lː e ŋ,,datasets_Pandai_tsv
 9036,alor1247-pandai,sun,lə'rːa,l ə rː a,,datasets_Pandai_tsv
 9037,alor1247-pandai,moon,wulaŋ,w u l a ŋ,,datasets_Pandai_tsv
@@ -9174,7 +9170,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9172,alor1247-pandai,corn_maize,wata,w a t a,,datasets_Pandai_tsv
 9173,alor1247-pandai,cooked_corn,wata 'puna,w a t a _ p u n a,,datasets_Pandai_tsv
 9174,alor1247-pandai,coconut,tapo,t a p o,,datasets_Pandai_tsv
-9175,alor1247-pandai,gwang,k'dabːu,k d a bː u,,datasets_Pandai_tsv
+9175,alor1247-pandai,gebang_palm,k'dabːu,k d a bː u,,datasets_Pandai_tsv
 9176,alor1247-pandai,lontar_palm,kɔli,k ɔ l i,,datasets_Pandai_tsv
 9177,alor1247-pandai,sugar_palm,pɔla,p ɔ l a,,datasets_Pandai_tsv
 9178,alor1247-pandai,marungga,mɔtɔŋ,m ɔ t ɔ ŋ,,datasets_Pandai_tsv
@@ -9259,8 +9255,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9257,alor1247-pandai,scabies,katu,k a t u,,datasets_Pandai_tsv
 9258,alor1247-pandai,tinea,nao,n ao,,datasets_Pandai_tsv
 9259,alor1247-pandai,tinea,m'nao,m n ao,,datasets_Pandai_tsv
-9260,alor1247-pandai,feverish,wə'kːiŋ 'platiŋ,w ə kː i ŋ _ p l a t i ŋ,"literally ""body hot""",datasets_Pandai_tsv
-9261,alor1247-pandai,feverish,ɔnɔŋ 'platiŋ,ɔ n ɔ ŋ _ p l a t i ŋ,"literally ""inside hot""",datasets_Pandai_tsv
+9260,alor1247-pandai,fever,wə'kːiŋ 'platiŋ,w ə kː i ŋ _ p l a t i ŋ,"literally ""body hot""",datasets_Pandai_tsv
+9261,alor1247-pandai,fever,ɔnɔŋ 'platiŋ,ɔ n ɔ ŋ _ p l a t i ŋ,"literally ""inside hot""",datasets_Pandai_tsv
 9262,alor1247-pandai,conjunctivitis,mataŋ b'lara,m a t a ŋ _ b l a r a,"literally ""eye sick""",datasets_Pandai_tsv
 9263,alor1247-pandai,cold_influenza,iruŋ 'matːɛ,i r u ŋ _ m a tː ɛ,"literally ""nose obstructed""",datasets_Pandai_tsv
 9264,alor1247-pandai,person,mə'sia,m ə s ia,,datasets_Pandai_tsv
@@ -9372,7 +9368,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9370,alor1247-pandai,ant,ka'rːe,k a rː e,,datasets_Pandai_tsv
 9371,alor1247-pandai,grasshopper,k'marɔ,k m a r ɔ,"dialect of the shore, Pandai  ",datasets_Pandai_tsv
 9372,alor1247-pandai,grasshopper,marɔ,m a r ɔ,dialect of the mountains,datasets_Pandai_tsv
-9373,alor1247-pandai,locust,k'mɛruŋ,k m ɛ r u ŋ,,datasets_Pandai_tsv
+9373,alor1247-pandai,rice_ear_bug,k'mɛruŋ,k m ɛ r u ŋ,,datasets_Pandai_tsv
 9374,alor1247-pandai,spider,k'lake,k l a k e,,datasets_Pandai_tsv
 9375,alor1247-pandai,louse_in_hair,kuto,k u t o,,datasets_Pandai_tsv
 9376,alor1247-pandai,louse_eggs,kuto k'lɛhɛŋ ,k u t o _ k l ɛ h ɛ ŋ,,datasets_Pandai_tsv
@@ -9670,8 +9666,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9668,alor1247-pandai,older_brother,beiŋ k'lake,b ei ŋ _ k l a k e,,datasets_Pandai_tsv
 9669,alor1247-pandai,older_sister,tata k'wae,t a t a _ k w a e,,datasets_Pandai_tsv
 9670,alor1247-pandai,sister,binɛŋ ,b i n ɛ ŋ,,datasets_Pandai_tsv
-9671,alor1247-pandai,womans_cross_cousin,naraŋ,n a r a ŋ,,datasets_Pandai_tsv
-9672,alor1247-pandai,womans_cross_cousin,opu,o p u,,datasets_Pandai_tsv
 9673,alor1247-pandai,womans_younger_sister,kau k'wae,k au _ k w a e,,datasets_Pandai_tsv
 9674,alor1247-pandai,womans_younger_sister,ula k'wae,u l a _ k w a e,,datasets_Pandai_tsv
 9675,alor1247-pandai,younger_brother,kau k'lake,k au _ k l a k e,,datasets_Pandai_tsv
@@ -9898,7 +9892,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9896,wers1238-taram,corn_maize,pe'ter,p e t e r,,datasets_Wersing_Kolana_tsv
 9897,wers1238-taram,cooked_corn,potori,p o t o r i,,datasets_Wersing_Kolana_tsv
 9898,wers1238-taram,coconut,wa'taʔ,w a t a ʔ,,datasets_Wersing_Kolana_tsv
-9899,wers1238-taram,gwang,kuwak,k uw a k,,datasets_Wersing_Kolana_tsv
+9899,wers1238-taram,gebang_palm,kuwak,k uw a k,,datasets_Wersing_Kolana_tsv
 9900,wers1238-taram,lontar_palm,toko boŋ,t o k o _ b o ŋ,,datasets_Wersing_Kolana_tsv
 9901,wers1238-taram,marungga,kolteŋ boŋ,k o l t e ŋ _ b o ŋ,,datasets_Wersing_Kolana_tsv
 9902,wers1238-taram,bamboo,betiŋ,b e t i ŋ,,datasets_Wersing_Kolana_tsv
@@ -9960,7 +9954,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 9958,wers1238-taram,wound,leboli,l e b o l i,,datasets_Wersing_Kolana_tsv
 9959,wers1238-taram,ringworm,lilir,l i l i r,,datasets_Wersing_Kolana_tsv
 9960,wers1238-taram,tinea,pui mnumiŋ,p ui _ m n u m i ŋ,,datasets_Wersing_Kolana_tsv
-9961,wers1238-taram,feverish,nailbub,n ai l b u b,,datasets_Wersing_Kolana_tsv
+9961,wers1238-taram,fever,nailbub,n ai l b u b,,datasets_Wersing_Kolana_tsv
 9962,wers1238-taram,conjunctivitis,kibir,k i b i r,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_Wersing_Kolana_tsv
 9963,wers1238-taram,cold_influenza,duduŋ asidiŋ,d u d u ŋ _ a s i d i ŋ,,datasets_Wersing_Kolana_tsv
 9964,wers1238-taram,person,aniŋ,a n i ŋ,,datasets_Wersing_Kolana_tsv
@@ -10014,7 +10008,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10012,wers1238-taram,mosquito,kubuŋ,k u b u ŋ,,datasets_Wersing_Kolana_tsv
 10013,wers1238-taram,ant,kusiŋ,k u s i ŋ,,datasets_Wersing_Kolana_tsv
 10014,wers1238-taram,grasshopper,betkol,b e t k o l,,datasets_Wersing_Kolana_tsv
-10015,wers1238-taram,locust,arak potiŋ,a r a k _ p o t i ŋ,,datasets_Wersing_Kolana_tsv
+10015,wers1238-taram,rice_ear_bug,arak potiŋ,a r a k _ p o t i ŋ,,datasets_Wersing_Kolana_tsv
 10016,wers1238-taram,spider,buinunuk,b ui n u n u k,,datasets_Wersing_Kolana_tsv
 10017,wers1238-taram,spider,taŋkabeber (buinunuk),t a ŋ k a b e b e r,,datasets_Wersing_Kolana_tsv
 10018,wers1238-taram,spider,taŋkabeber (buinunuk),t a ŋ k a b e b e r _ b ui n u n u k,,datasets_Wersing_Kolana_tsv
@@ -10223,7 +10217,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10221,wers1238-taram,older_brother,nenaŋ le'mi,n e n a ŋ _ l e m i,,datasets_Wersing_Kolana_tsv
 10222,wers1238-taram,older_sister,nenaŋ mei,n e n a ŋ _ m ei,,datasets_Wersing_Kolana_tsv
 10223,wers1238-taram,sister,arudi mei,a r u d i _ m ei,,datasets_Wersing_Kolana_tsv
-10224,wers1238-taram,womans_cross_cousin,nebeŋ mei,n e b e ŋ _ m ei,,datasets_Wersing_Kolana_tsv
 10225,wers1238-taram,womans_younger_sister,nekaku mei,n e k a k u _ m ei,,datasets_Wersing_Kolana_tsv
 10226,wers1238-taram,younger_brother,nekaku le'mi,n e k a k u _ l e m i,,datasets_Wersing_Kolana_tsv
 10227,wers1238-taram,brother,arudi le'mi,a r u d i _ l e m i,,datasets_Wersing_Kolana_tsv
@@ -10238,8 +10231,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10236,wers1238-taram,tall,eaŋ,e a ŋ,,datasets_Wersing_Kolana_tsv
 10237,wers1238-taram,short,tuk,t u k,,datasets_Wersing_Kolana_tsv
 10238,wers1238-taram,narrow,iwuit,i w ui t,,datasets_Wersing_Kolana_tsv
-10239,wers1238-taram,to_chase_away_to_expel,gapanter,g a p a n t e r,"milakal ('usir'), gapanter ('kejar')",datasets_Wersing_Kolana_tsv
-10240,wers1238-taram,to_chase_away_to_expel,milakal,m i l a k a l,"milakal ('usir'), gapanter ('kejar')",datasets_Wersing_Kolana_tsv
+10239,wers1238-taram,to_shoo_to_chase_away_to_send_away,gapanter,g a p a n t e r,"milakal ('usir'), gapanter ('kejar')",datasets_Wersing_Kolana_tsv
+10240,wers1238-taram,to_shoo_to_chase_away_to_send_away,milakal,m i l a k a l,"milakal ('usir'), gapanter ('kejar')",datasets_Wersing_Kolana_tsv
 10241,teiw1235,sky,bu'lanqul,b u l a n q u l,,datasets_Teiwa_Lebang_tsv
 10242,teiw1235,sun,war ge:t,w a r _ g eː t,,datasets_Teiwa_Lebang_tsv
 10243,teiw1235,moon,wur,w u r,,datasets_Teiwa_Lebang_tsv
@@ -10357,7 +10350,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10355,teiw1235,corn_maize,ba'tar,b a t a r,,datasets_Teiwa_Lebang_tsv
 10356,teiw1235,cooked_corn,ba'tar jib,b a t a r _ j i b,,datasets_Teiwa_Lebang_tsv
 10357,teiw1235,coconut,wat,w a t,,datasets_Teiwa_Lebang_tsv
-10358,teiw1235,gwang,duwai,d uw ai,,datasets_Teiwa_Lebang_tsv
+10358,teiw1235,gebang_palm,duwai,d uw ai,,datasets_Teiwa_Lebang_tsv
 10359,teiw1235,lontar_palm,xaiqual,x ai q ua l,,datasets_Teiwa_Lebang_tsv
 10360,teiw1235,sugar_palm,bu:r,b uː r,,datasets_Teiwa_Lebang_tsv
 10361,teiw1235,marungga,qu:d,q uː d,,datasets_Teiwa_Lebang_tsv
@@ -10435,7 +10428,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10433,teiw1235,ringworm,qus'ba:n,q u s b aː n,,datasets_Teiwa_Lebang_tsv
 10434,teiw1235,scabies,sa'xa:i,s a x aː i,,datasets_Teiwa_Lebang_tsv
 10435,teiw1235,tinea,ma'nai,m a n ai,previous list had ga:l=panah=arrow; probably misheard panau,datasets_Teiwa_Lebang_tsv
-10436,teiw1235,feverish,qamu'di,q a m u d i,,datasets_Teiwa_Lebang_tsv
+10436,teiw1235,fever,qamu'di,q a m u d i,,datasets_Teiwa_Lebang_tsv
 10437,teiw1235,conjunctivitis,get bag i:Ɂ,g e t _ b a g _ iː ʔ,,datasets_Teiwa_Lebang_tsv
 10438,teiw1235,cold_influenza,qur qal,q u r _ q a l,,datasets_Teiwa_Lebang_tsv
 10439,teiw1235,person,ujaq,uj a q,,datasets_Teiwa_Lebang_tsv
@@ -10540,7 +10533,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10538,teiw1235,ant,kali'mar,k a l i m a r,"rixin=many and small, kalimar=big and red",datasets_Teiwa_Lebang_tsv
 10539,teiw1235,ant,rixin,r i x i n,"rixin=many and small, kalimar=big and red",datasets_Teiwa_Lebang_tsv
 10540,teiw1235,grasshopper,au,au,,datasets_Teiwa_Lebang_tsv
-10541,teiw1235,locust,mu:r,m uː r,,datasets_Teiwa_Lebang_tsv
+10541,teiw1235,rice_ear_bug,mu:r,m uː r,,datasets_Teiwa_Lebang_tsv
 10542,teiw1235,spider,baŋkop,b a ŋ k o p,,datasets_Teiwa_Lebang_tsv
 10543,teiw1235,louse_in_hair,ku'Ɂa:n,k u ʔ aː n,,datasets_Teiwa_Lebang_tsv
 10544,teiw1235,louse_eggs,xa'rin,x a r i n,,datasets_Teiwa_Lebang_tsv
@@ -10785,7 +10778,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10783,teiw1235,older_brother,nian qai matu:,n ia n _ q ai _ m a t uː,,datasets_Teiwa_Lebang_tsv
 10784,teiw1235,older_sister,nagas qai matu:,n a g a s _ q ai _ m a t uː,,datasets_Teiwa_Lebang_tsv
 10785,teiw1235,sister,nagas qai,n a g a s _ q ai,,datasets_Teiwa_Lebang_tsv
-10786,teiw1235,womans_cross_cousin,nadias,n a d ia s,isteri punya adik/kakak perempuan,datasets_Teiwa_Lebang_tsv
 10787,teiw1235,womans_younger_sister,gagas'qai i:k,g a g a s q ai _ iː k,,datasets_Teiwa_Lebang_tsv
 10788,teiw1235,younger_brother,gian qai i:k,g ia n _ q ai _ iː k,,datasets_Teiwa_Lebang_tsv
 10789,teiw1235,brother,gian qai,g ia n _ q ai,,datasets_Teiwa_Lebang_tsv
@@ -10904,7 +10896,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 10902,teiw1235,tall,pɛ:q,p ɛː q,,datasets_Teiwa_Lebang_tsv
 10903,teiw1235,short,tuk,t u k,,datasets_Teiwa_Lebang_tsv
 10904,teiw1235,narrow,ta'fug,t a f u g,,datasets_Teiwa_Lebang_tsv
-10905,teiw1235,to_chase_away_to_expel,gətiar,g ə t ia r,,datasets_Teiwa_Lebang_tsv
+10905,teiw1235,to_shoo_to_chase_away_to_send_away,gətiar,g ə t ia r,,datasets_Teiwa_Lebang_tsv
 10906,alor1247-baran,sky,laŋi,l a ŋ i,,datasets_aolbaranusamk2003wordlist_tsv
 10907,alor1247-baran,sun,la'ra,l a r a,,datasets_aolbaranusamk2003wordlist_tsv
 10908,alor1247-baran,moon,fulaŋ,f u l a ŋ,,datasets_aolbaranusamk2003wordlist_tsv
@@ -11258,7 +11250,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 11256,pura1258,corn_maize,batar,b a t a r,,datasets_beupuramk20160511wordlist_tsv
 11257,pura1258,cooked_corn,batar 'api,b a t a r _ a p i,,datasets_beupuramk20160511wordlist_tsv
 11258,pura1258,coconut,vet,v e t,written as bet,datasets_beupuramk20160511wordlist_tsv
-11259,pura1258,gwang,ka'dubu,k a d u b u,,datasets_beupuramk20160511wordlist_tsv
+11259,pura1258,gebang_palm,ka'dubu,k a d u b u,,datasets_beupuramk20160511wordlist_tsv
 11260,pura1258,lontar_palm,tua kori,t ua _ k o r i,,datasets_beupuramk20160511wordlist_tsv
 11261,pura1258,sugar_palm,tua bur,t ua _ b u r,,datasets_beupuramk20160511wordlist_tsv
 11262,pura1258,marungga,ma'toruŋ,m a t o r u ŋ,,datasets_beupuramk20160511wordlist_tsv
@@ -11333,7 +11325,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 11331,pura1258,ringworm,vanai,v a n ai,written with w,datasets_beupuramk20160511wordlist_tsv
 11332,pura1258,scabies,kot,k o t,,datasets_beupuramk20160511wordlist_tsv
 11333,pura1258,tinea,nama'ɟa:,n a m a ɟ aː,,datasets_beupuramk20160511wordlist_tsv
-11334,pura1258,feverish,wa'wiriŋ,w a w i r i ŋ,written as babiriŋ,datasets_beupuramk20160511wordlist_tsv
+11334,pura1258,fever,wa'wiriŋ,w a w i r i ŋ,written as babiriŋ,datasets_beupuramk20160511wordlist_tsv
 11335,pura1258,conjunctivitis,ɛŋ'tena,ɛ ŋ t e n a,,datasets_beupuramk20160511wordlist_tsv
 11336,pura1258,cold_influenza,tamiŋ 'omi ta'buhi,t a m i ŋ _ o m i _ t a b u h i,nose inside sesak,datasets_beupuramk20160511wordlist_tsv
 11337,pura1258,person,aiŋ,ai ŋ,,datasets_beupuramk20160511wordlist_tsv
@@ -11424,7 +11416,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 11422,pura1258,mosquito,kini,k i n i,,datasets_beupuramk20160511wordlist_tsv
 11423,pura1258,ant,uri,u r i,,datasets_beupuramk20160511wordlist_tsv
 11424,pura1258,grasshopper,ka'bɛt,k a b ɛ t,,datasets_beupuramk20160511wordlist_tsv
-11425,pura1258,locust,da'rabuŋ,d a r a b u ŋ,,datasets_beupuramk20160511wordlist_tsv
+11425,pura1258,rice_ear_bug,da'rabuŋ,d a r a b u ŋ,,datasets_beupuramk20160511wordlist_tsv
 11426,pura1258,spider,kaka'randa,k a k a r a n d a,,datasets_beupuramk20160511wordlist_tsv
 11427,pura1258,louse_in_hair,kubaŋ,k u b a ŋ,,datasets_beupuramk20160511wordlist_tsv
 11428,pura1258,louse_eggs,kubaŋ 'dariŋ,k u b a ŋ _ d a r i ŋ,,datasets_beupuramk20160511wordlist_tsv
@@ -11658,7 +11650,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 11656,pura1258,older_sister,nedi'ɟaŋu,n e d i ɟ a ŋ u,ɟaŋu=female,datasets_beupuramk20160511wordlist_tsv
 11657,pura1258,sister,nekaku'ɟaŋu,n e k a k u ɟ a ŋ u,,datasets_beupuramk20160511wordlist_tsv
 11658,pura1258,sister,nedi'ɟaŋu,n e d i ɟ a ŋ u,,datasets_beupuramk20160511wordlist_tsv
-11659,pura1258,womans_cross_cousin,nekaku'ɟaŋu e'kiki,n e k a k u ɟ a ŋ u _ e k i k i,,datasets_beupuramk20160511wordlist_tsv
 11660,pura1258,womans_younger_sister,nekaku'ɟaŋu e'kiki,n e k a k u ɟ a ŋ u _ e k i k i,"ekiki=under, younger",datasets_beupuramk20160511wordlist_tsv
 11661,pura1258,younger_brother,nekaku'mehal e'kiki,n e k a k u m e h a l _ e k i k i,mehal=male,datasets_beupuramk20160511wordlist_tsv
 11662,pura1258,brother,nekaku'mehal,n e k a k u m e h a l,ia'mutu=all the siblings in the family,datasets_beupuramk20160511wordlist_tsv
@@ -11765,7 +11756,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 11763,pura1258,tall,nehe ba'lolu,n e h e _ b a l o l u,,datasets_beupuramk20160511wordlist_tsv
 11764,pura1258,short,te'tukaŋ,t e t u k a ŋ,,datasets_beupuramk20160511wordlist_tsv
 11765,pura1258,narrow,ka'puhiŋ,k a p u h i ŋ,,datasets_beupuramk20160511wordlist_tsv
-11766,pura1258,to_chase_away_to_expel,lodo,l o d o,,datasets_beupuramk20160511wordlist_tsv
+11766,pura1258,to_shoo_to_chase_away_to_send_away,lodo,l o d o,,datasets_beupuramk20160511wordlist_tsv
 11767,fata1247,sky,nɛl,n ɛ l,,datasets_ddgmk20160112wordlist_tsv
 11768,fata1247,sun,watɕu,w a tɕ u,written by speaker as 'wachu',datasets_ddgmk20160112wordlist_tsv
 11769,fata1247,moon,uru,u r u,,datasets_ddgmk20160112wordlist_tsv
@@ -11881,7 +11872,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 11879,fata1247,corn_maize,cɛlɛ,c ɛ l ɛ,,datasets_ddgmk20160112wordlist_tsv
 11880,fata1247,cooked_corn,cɛlɛ 'sakalɛ,c ɛ l ɛ _ s a k a l ɛ,sakalɛ=cooked; cɛlɛ kafu=corn seed,datasets_ddgmk20160112wordlist_tsv
 11881,fata1247,coconut,wata,w a t a,,datasets_ddgmk20160112wordlist_tsv
-11882,fata1247,gwang,kɔmɔl,k ɔ m ɔ l,,datasets_ddgmk20160112wordlist_tsv
+11882,fata1247,gebang_palm,kɔmɔl,k ɔ m ɔ l,,datasets_ddgmk20160112wordlist_tsv
 11883,fata1247,lontar_palm,ɔpasa,ɔ p a s a,,datasets_ddgmk20160112wordlist_tsv
 11884,fata1247,sugar_palm,pi:,p iː,,datasets_ddgmk20160112wordlist_tsv
 11885,fata1247,marungga,cuma'lasa,c u m a l a s a,,datasets_ddgmk20160112wordlist_tsv
@@ -11955,7 +11946,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 11953,fata1247,ringworm,asi-asi 'rau,a s i _ a s i _ r au,asi=lobster/prawn,datasets_ddgmk20160112wordlist_tsv
 11954,fata1247,scabies,sapa,s a p a,,datasets_ddgmk20160112wordlist_tsv
 11955,fata1247,tinea,pua-pua,p ua _ p ua,,datasets_ddgmk20160112wordlist_tsv
-11956,fata1247,feverish,pɔ'Ɂɔte,p ɔ ʔ ɔ t e,,datasets_ddgmk20160112wordlist_tsv
+11956,fata1247,fever,pɔ'Ɂɔte,p ɔ ʔ ɔ t e,,datasets_ddgmk20160112wordlist_tsv
 11957,fata1247,conjunctivitis,i'na 'samar,i n a _ s a m a r,,datasets_ddgmk20160112wordlist_tsv
 11958,fata1247,cold_influenza,fa'hinɛ,f a h i n ɛ,,datasets_ddgmk20160112wordlist_tsv
 11959,fata1247,person,ma:r,m aː r,"ma:r louhana = manusia; ma:r=person, louhana=living",datasets_ddgmk20160112wordlist_tsv
@@ -12044,7 +12035,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12042,fata1247,mosquito,ni'kin,n i k i n,,datasets_ddgmk20160112wordlist_tsv
 12043,fata1247,ant,ka'mini,k a m i n i,,datasets_ddgmk20160112wordlist_tsv
 12044,fata1247,grasshopper,silak,s i l a k,,datasets_ddgmk20160112wordlist_tsv
-12045,fata1247,locust,fɔɛ 'upur,f ɔ ɛ _ u p u r,"fɔɛ=grass, upur=grasshopper",datasets_ddgmk20160112wordlist_tsv
+12045,fata1247,rice_ear_bug,fɔɛ 'upur,f ɔ ɛ _ u p u r,"fɔɛ=grass, upur=grasshopper",datasets_ddgmk20160112wordlist_tsv
 12046,fata1247,spider,pɛlɛ'kafu,p ɛ l ɛ k a f u,kafu=seed,datasets_ddgmk20160112wordlist_tsv
 12047,fata1247,louse_in_hair,amini,a m i n i,,datasets_ddgmk20160112wordlist_tsv
 12048,fata1247,louse_eggs,amin ucu,a m i n _ u c u,ucu=egg,datasets_ddgmk20160112wordlist_tsv
@@ -12280,7 +12271,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12278,fata1247,older_brother,kaka,k a k a,,datasets_ddgmk20160112wordlist_tsv
 12279,fata1247,older_sister,lɛrɛn,l ɛ r ɛ n,,datasets_ddgmk20160112wordlist_tsv
 12280,fata1247,sister,lɛrɛn,l ɛ r ɛ n,,datasets_ddgmk20160112wordlist_tsv
-12281,fata1247,womans_cross_cousin,lɛrɛn,l ɛ r ɛ n,,datasets_ddgmk20160112wordlist_tsv
 12282,fata1247,womans_younger_sister,nɔkɔ tupur,n ɔ k ɔ _ t u p u r,,datasets_ddgmk20160112wordlist_tsv
 12283,fata1247,younger_brother,nɔkɔ nami,n ɔ k ɔ _ n a m i,,datasets_ddgmk20160112wordlist_tsv
 12284,fata1247,brother,kaka,k a k a,"kaka=older sibling, nɔkɔ=younger sibling",datasets_ddgmk20160112wordlist_tsv
@@ -12385,7 +12375,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12383,fata1247,short,(ɛtɛ) kawa,k a w a,,datasets_ddgmk20160112wordlist_tsv
 12384,fata1247,short,(ɛtɛ) kawa,ɛ t ɛ _ k a w a,,datasets_ddgmk20160112wordlist_tsv
 12385,fata1247,narrow,malɛtɛ,m a l ɛ t ɛ,,datasets_ddgmk20160112wordlist_tsv
-12386,fata1247,to_chase_away_to_expel,nɛurɛ,n ɛu r ɛ,,datasets_ddgmk20160112wordlist_tsv
+12386,fata1247,to_shoo_to_chase_away_to_send_away,nɛurɛ,n ɛu r ɛ,,datasets_ddgmk20160112wordlist_tsv
 12387,abui1241-fuime,sky,adi,a d i,,datasets_abzfuimelangas2010wordlist_tsv
 12388,abui1241-fuime,sun,wari,w a r i,,datasets_abzfuimelangas2010wordlist_tsv
 12389,abui1241-fuime,moon,ije,ij e,,datasets_abzfuimelangas2010wordlist_tsv
@@ -12492,7 +12482,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12490,abui1241-fuime,sweat,tamuriŋ,t a m u r i ŋ,,datasets_abzfuimelangas2010wordlist_tsv
 12491,abui1241-fuime,tear,jaŋ nau,j a ŋ _ n au,,datasets_abzfuimelangas2010wordlist_tsv
 12492,abui1241-fuime,blood,we,w e,,datasets_abzfuimelangas2010wordlist_tsv
-12493,abui1241-fuime,tendon,teai,t e ai,,datasets_abzfuimelangas2010wordlist_tsv
+12493,abui1241-fuime,vein,teai,t e ai,,datasets_abzfuimelangas2010wordlist_tsv
 12494,abui1241-fuime,heart,tebikemaŋ,t e b i k e m a ŋ,,datasets_abzfuimelangas2010wordlist_tsv
 12495,abui1241-fuime,liver,tekaleu,t e k a l eu,,datasets_abzfuimelangas2010wordlist_tsv
 12496,abui1241-fuime,guts,tatok falala,t a t o k _ f a l a l a,,datasets_abzfuimelangas2010wordlist_tsv
@@ -12524,7 +12514,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12522,abui1241-fuime,ringworm,kafisiŋ,k a f i s i ŋ,,datasets_abzfuimelangas2010wordlist_tsv
 12523,abui1241-fuime,scabies,kafisiŋ,k a f i s i ŋ,,datasets_abzfuimelangas2010wordlist_tsv
 12524,abui1241-fuime,tinea,kafisiŋ,k a f i s i ŋ,,datasets_abzfuimelangas2010wordlist_tsv
-12525,abui1241-fuime,feverish,kamura,k a m u r a,,datasets_abzfuimelangas2010wordlist_tsv
+12525,abui1241-fuime,fever,kamura,k a m u r a,,datasets_abzfuimelangas2010wordlist_tsv
 12526,abui1241-fuime,conjunctivitis,tiaŋ beakda,t ia ŋ _ b e a k d a,,datasets_abzfuimelangas2010wordlist_tsv
 12527,abui1241-fuime,cold_influenza,pasiŋ,p a s i ŋ,,datasets_abzfuimelangas2010wordlist_tsv
 12528,abui1241-fuime,person,ama,a m a,,datasets_abzfuimelangas2010wordlist_tsv
@@ -12738,7 +12728,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12736,abui1241-fuime,grandmother,nokuta,n o k u t a,,datasets_abzfuimelangas2010wordlist_tsv
 12737,abui1241-fuime,grandfather,netuŋ,n e t u ŋ,,datasets_abzfuimelangas2010wordlist_tsv
 12738,abui1241-fuime,grandchild,nekabita,n e k a b i t a,,datasets_abzfuimelangas2010wordlist_tsv
-12739,abui1241-fuime,to_chase_away_to_expel,he-tiei,h e _ t ie i,,datasets_abzfuimelangas2010wordlist_tsv
+12739,abui1241-fuime,to_shoo_to_chase_away_to_send_away,he-tiei,h e _ t ie i,,datasets_abzfuimelangas2010wordlist_tsv
 12740,sika1262-hewa,sky,kəleŋ,k ə l e ŋ,,datasets_hwamk20150514wordlist_tsv
 12741,sika1262-hewa,sun,ləro,l ə r o,,datasets_hwamk20150514wordlist_tsv
 12742,sika1262-hewa,moon,ʋulan,ʋ u l a n,,datasets_hwamk20150514wordlist_tsv
@@ -12889,7 +12879,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12887,sika1262-hewa,sweat,rəʋu,r ə ʋ u,this is (also?) a verb,datasets_hwamk20150514wordlist_tsv
 12888,sika1262-hewa,tear,lu,l u,,datasets_hwamk20150514wordlist_tsv
 12889,sika1262-hewa,blood,mei,m ei,,datasets_hwamk20150514wordlist_tsv
-12890,sika1262-hewa,tendon,a:li,aː l i,,datasets_hwamk20150514wordlist_tsv
+12890,sika1262-hewa,vein,a:li,aː l i,,datasets_hwamk20150514wordlist_tsv
 12891,sika1262-hewa,heart,ʤantuŋ,dʒ a n t u ŋ,,datasets_hwamk20150514wordlist_tsv
 12892,sika1262-hewa,liver,ʋaten,ʋ a t e n,,datasets_hwamk20150514wordlist_tsv
 12893,sika1262-hewa,kidney,ginʤal,g i n dʒ a l,,datasets_hwamk20150514wordlist_tsv
@@ -12942,7 +12932,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 12940,sika1262-hewa,ringworm,ʋəne,ʋ ə n e,,datasets_hwamk20150514wordlist_tsv
 12941,sika1262-hewa,scabies,klutuk,k l u t u k,,datasets_hwamk20150514wordlist_tsv
 12942,sika1262-hewa,tinea,na:uʔ,n aː u ʔ,,datasets_hwamk20150514wordlist_tsv
-12943,sika1262-hewa,feverish,blihi,b l i h i,,datasets_hwamk20150514wordlist_tsv
+12943,sika1262-hewa,fever,blihi,b l i h i,,datasets_hwamk20150514wordlist_tsv
 12944,sika1262-hewa,conjunctivitis,mata taʔin,m a t a _ t a ʔ i n,,datasets_hwamk20150514wordlist_tsv
 12945,sika1262-hewa,cold_influenza,naʋar,n a ʋ a r,,datasets_hwamk20150514wordlist_tsv
 12946,sika1262-hewa,person,ata,a t a,,datasets_hwamk20150514wordlist_tsv
@@ -13039,7 +13029,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 13037,sika1262-hewa,mosquito,mur,m u r,,datasets_hwamk20150514wordlist_tsv
 13038,sika1262-hewa,ant,mihe,m i h e,,datasets_hwamk20150514wordlist_tsv
 13039,sika1262-hewa,grasshopper,klahaŋ,k l a h a ŋ,,datasets_hwamk20150514wordlist_tsv
-13040,sika1262-hewa,locust,raon,r ao n,,datasets_hwamk20150514wordlist_tsv
+13040,sika1262-hewa,rice_ear_bug,raon,r ao n,,datasets_hwamk20150514wordlist_tsv
 13041,sika1262-hewa,spider,kuku raka,k u k u _ r a k a,,datasets_hwamk20150514wordlist_tsv
 13042,sika1262-hewa,louse_in_hair,ʔutu,ʔ u t u,,datasets_hwamk20150514wordlist_tsv
 13043,sika1262-hewa,louse_eggs,ʔutu telon,ʔ u t u _ t e l o n,,datasets_hwamk20150514wordlist_tsv
@@ -13286,8 +13276,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 13284,sika1262-hewa,older_brother,ueʔ,u e ʔ,,datasets_hwamk20150514wordlist_tsv
 13285,sika1262-hewa,older_sister,ueʔ,u e ʔ,,datasets_hwamk20150514wordlist_tsv
 13286,sika1262-hewa,sister,ʋine,ʋ i n e,,datasets_hwamk20150514wordlist_tsv
-13287,sika1262-hewa,womans_cross_cousin,ʋari,ʋ a r i,,datasets_hwamk20150514wordlist_tsv
-13288,sika1262-hewa,womans_cross_cousin,ueʔ,u e ʔ,,datasets_hwamk20150514wordlist_tsv
 13289,sika1262-hewa,womans_younger_sister,ʋari,ʋ a r i,,datasets_hwamk20150514wordlist_tsv
 13290,sika1262-hewa,younger_brother,ueʔ,u e ʔ,,datasets_hwamk20150514wordlist_tsv
 13291,sika1262-hewa,brother,nara,n a r a,,datasets_hwamk20150514wordlist_tsv
@@ -13379,8 +13367,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 13377,sika1262-hewa,now,sekaraŋ,s e k a r a ŋ,,datasets_hwamk20150514wordlist_tsv
 13378,sika1262-hewa,hour,jam,j a m,,datasets_hwamk20150514wordlist_tsv
 13379,sika1262-hewa,same,hama,h a m a,,datasets_hwamk20150514wordlist_tsv
-13380,sika1262-hewa,to_chase_away_to_expel,bəʋe,b ə ʋ e,"pəwe = usir, bəwe = mengusir",datasets_hwamk20150514wordlist_tsv
-13381,sika1262-hewa,to_chase_away_to_expel,pəʋe,p ə ʋ e,"pəwe = usir, bəwe = mengusir",datasets_hwamk20150514wordlist_tsv
+13380,sika1262-hewa,to_shoo_to_chase_away_to_send_away,bəʋe,b ə ʋ e,"pəwe = usir, bəwe = mengusir",datasets_hwamk20150514wordlist_tsv
+13381,sika1262-hewa,to_shoo_to_chase_away_to_send_away,pəʋe,p ə ʋ e,"pəwe = usir, bəwe = mengusir",datasets_hwamk20150514wordlist_tsv
 13382,abui1241-petle,sky,a.di( ),a _ d i,,datasets_abzpetlenggs201505wordlist_tsv
 13383,abui1241-petle,sky,a.di( ),a _ d i,,datasets_abzpetlenggs201505wordlist_tsv
 13384,abui1241-petle,night,ak.'un,a k _ u n,,datasets_abzpetlenggs201505wordlist_tsv
@@ -13620,8 +13608,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 13618,abui1241-takal,corn_maize,fä:t,f aː t,Frantisek glosses it as short but I hear it as long,datasets_abztakalelanggs201505wordlist_tsv
 13619,abui1241-takal,cooked_corn,fä:t mä,f aː t _ m a,,datasets_abztakalelanggs201505wordlist_tsv
 13620,abui1241-takal,coconut,wä.'tä,w a _ t a,,datasets_abztakalelanggs201505wordlist_tsv
-13621,abui1241-takal,gwang,näj,n aj,,datasets_abztakalelanggs201505wordlist_tsv
-13622,abui1241-takal,gwang,ä:.'qäl,aː _ q a l,,datasets_abztakalelanggs201505wordlist_tsv
+13621,abui1241-takal,gebang_palm,näj,n aj,,datasets_abztakalelanggs201505wordlist_tsv
+13622,abui1241-takal,gebang_palm,ä:.'qäl,aː _ q a l,,datasets_abztakalelanggs201505wordlist_tsv
 13623,abui1241-takal,lontar_palm,äj.'qɔl,aj _ q ɔ l,,datasets_abztakalelanggs201505wordlist_tsv
 13624,abui1241-takal,sugar_palm,näj,n aj,,datasets_abztakalelanggs201505wordlist_tsv
 13625,abui1241-takal,marungga,mä.tɔ.'liŋ,m a _ t ɔ _ l i ŋ,,datasets_abztakalelanggs201505wordlist_tsv
@@ -13644,7 +13632,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 13642,abui1241-takal,sweat,tä.mu.'ruŋ,t a _ m u _ r u ŋ,yes. sounds like a nasalized /u/,datasets_abztakalelanggs201505wordlist_tsv
 13643,abui1241-takal,tear,ti.äŋ nɐj,t i _ a ŋ _ n ɐ j,,datasets_abztakalelanggs201505wordlist_tsv
 13644,abui1241-takal,blood,ʋe̞.'ä,ʋ e̞ _ a,,datasets_abztakalelanggs201505wordlist_tsv
-13645,abui1241-takal,tendon,te̞̞.'äj,t e̞ _ aj,,datasets_abztakalelanggs201505wordlist_tsv
+13645,abui1241-takal,vein,te̞̞.'äj,t e̞ _ aj,,datasets_abztakalelanggs201505wordlist_tsv
 13646,abui1241-takal,heart,bu.kɔ.'mã,b u _ k ɔ _ m ã,,datasets_abztakalelanggs201505wordlist_tsv
 13647,abui1241-takal,heart,te̞̞.bu.'kɔ.mäŋ,t e̞ _ b u _ k ɔ _ m a ŋ,,datasets_abztakalelanggs201505wordlist_tsv
 13648,abui1241-takal,liver,tɔ.mi tä.'te̞̞.bäq,t ɔ _ m i _ t a _ t e̞ _ b a q,,datasets_abztakalelanggs201505wordlist_tsv
@@ -13698,7 +13686,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 13696,abui1241-takal,ringworm,ä.ti.näl,a _ t i _ n a l,,datasets_abztakalelanggs201505wordlist_tsv
 13697,abui1241-takal,scabies,ä.ti.'näl,a _ t i _ n a l,,datasets_abztakalelanggs201505wordlist_tsv
 13698,abui1241-takal,tinea,pä.lä.rä,p a _ l a _ r a,,datasets_abztakalelanggs201505wordlist_tsv
-13699,abui1241-takal,feverish,tɔ.tä.tuk,t ɔ _ t a _ t u k,,datasets_abztakalelanggs201505wordlist_tsv
+13699,abui1241-takal,fever,tɔ.tä.tuk,t ɔ _ t a _ t u k,,datasets_abztakalelanggs201505wordlist_tsv
 13700,abui1241-takal,cold_influenza,pä.'siŋ,p a _ s i ŋ,could be nasalized,datasets_abztakalelanggs201505wordlist_tsv
 13701,abui1241-takal,person,ä.'mä,a _ m a,,datasets_abztakalelanggs201505wordlist_tsv
 13702,abui1241-takal,name,ä.'ne̞,a _ n e̞,,datasets_abztakalelanggs201505wordlist_tsv
@@ -13795,7 +13783,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 13793,abui1241-takal,mosquito,ku.'mäl,k u _ m a l,,datasets_abztakalelanggs201505wordlist_tsv
 13794,abui1241-takal,ant,fi.'ke̞i,f i _ k e̞ i,,datasets_abztakalelanggs201505wordlist_tsv
 13795,abui1241-takal,grasshopper,tu.nui,t u _ n ui,,datasets_abztakalelanggs201505wordlist_tsv
-13796,abui1241-takal,locust,kä.'me̞.liŋ,k a _ m e̞ _ l i ŋ,could be nasalized,datasets_abztakalelanggs201505wordlist_tsv
+13796,abui1241-takal,rice_ear_bug,kä.'me̞.liŋ,k a _ m e̞ _ l i ŋ,could be nasalized,datasets_abztakalelanggs201505wordlist_tsv
 13797,abui1241-takal,spider,fä:.bil,f aː _ b i l,,datasets_abztakalelanggs201505wordlist_tsv
 13798,abui1241-takal,louse_in_hair,bi.'ke̞äŋ,b i _ k e̞ a ŋ,,datasets_abztakalelanggs201505wordlist_tsv
 13799,abui1241-takal,louse_eggs,bi.'ke̞äŋ tu.luŋ,b i _ k e̞ a ŋ _ t u _ l u ŋ,,datasets_abztakalelanggs201505wordlist_tsv
@@ -14031,7 +14019,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 14029,abui1241-takal,older_sister,nä:nä  mä.'jɔl,n aː n a _ _ m a _ j ɔ l,,datasets_abztakalelanggs201505wordlist_tsv
 14030,abui1241-takal,sister,ne̞.'u.rä  mä.'jɔl,n e̞ _ u _ r a _ _ m a _ j ɔ l,ura SIB.OPP.SEX moknehi 'SIB.SAME.SEX',datasets_abztakalelanggs201505wordlist_tsv
 14031,abui1241-takal,sister,ne̞.muk.ne̞.hi,n e̞ _ m u k _ n e̞ _ h i,ura SIB.OPP.SEX moknehi 'SIB.SAME.SEX',datasets_abztakalelanggs201505wordlist_tsv
-14032,abui1241-takal,womans_cross_cousin,mä.'jɔl he̞.ä.'re̞.mäŋ,m a _ j ɔ l _ h e̞ _ a _ r e̞ _ m a ŋ,,datasets_abztakalelanggs201505wordlist_tsv
 14033,abui1241-takal,womans_younger_sister,ne̞.nä.'hä: mä.'jɔl,n e̞ _ n a _ h aː _ m a _ j ɔ l,,datasets_abztakalelanggs201505wordlist_tsv
 14034,abui1241-takal,younger_brother,ne̞.nä.'hä: ne̞äŋ,n e̞ _ n a _ h aː _ n e̞ a ŋ,,datasets_abztakalelanggs201505wordlist_tsv
 14035,abui1241-takal,brother,ne̞.'u.rä ne̞äŋ,n e̞ _ u _ r a _ n e̞ a ŋ,,datasets_abztakalelanggs201505wordlist_tsv
@@ -14128,8 +14115,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 14126,abui1241-takal,same,sä.mä,s a _ m a,LOAN,datasets_abztakalelanggs201505wordlist_tsv
 14127,abui1241-takal,same,te̞j nu.ku,t e̞ j _ n u _ k u,LOAN,datasets_abztakalelanggs201505wordlist_tsv
 14128,abui1241-takal,oven,di.'kiŋ,d i _ k i ŋ,yes,datasets_abztakalelanggs201505wordlist_tsv
-14129,abui1241-takal,to_chase_away_to_expel,he̞l tä.hä.lɔi,h e̞ l _ t a _ h a _ l ɔi,na kaai tahaloi,datasets_abztakalelanggs201505wordlist_tsv
-14130,abui1241-takal,to_chase_away_to_expel,tɔ.hä.lɔi,t ɔ _ h a _ l ɔi,na kaai tahaloi,datasets_abztakalelanggs201505wordlist_tsv
+14129,abui1241-takal,to_shoo_to_chase_away_to_send_away,he̞l tä.hä.lɔi,h e̞ l _ t a _ h a _ l ɔi,na kaai tahaloi,datasets_abztakalelanggs201505wordlist_tsv
+14130,abui1241-takal,to_shoo_to_chase_away_to_send_away,tɔ.hä.lɔi,t ɔ _ h a _ l ɔi,na kaai tahaloi,datasets_abztakalelanggs201505wordlist_tsv
 14131,abui1241-ulaga,sky,adi,a d i,ɟa but,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14132,abui1241-ulaga,sun,wari,w a r i,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14133,abui1241-ulaga,moon,ija,ij a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
@@ -14260,8 +14247,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 14258,abui1241-ulaga,corn_maize,fa:t,f aː t,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14259,abui1241-ulaga,cooked_corn,fa:t ma,f aː t _ m a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14260,abui1241-ulaga,coconut,wata,w a t a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
-14261,abui1241-ulaga,gwang,sefa,s e f a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
-14262,abui1241-ulaga,gwang,seva,s e v a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
+14261,abui1241-ulaga,gebang_palm,sefa,s e f a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
+14262,abui1241-ulaga,gebang_palm,seva,s e v a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14263,abui1241-ulaga,lontar_palm,aikol,ai k o l,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14264,abui1241-ulaga,sugar_palm,enau,e n au,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14265,abui1241-ulaga,sugar_palm,tuok,t uo k,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
@@ -14285,7 +14272,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 14283,abui1241-ulaga,sweat,tei ɳɟoni,t ei _ ɳ ɟ o n i,tei: Distributive possessive prefix,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14284,abui1241-ulaga,tear,nau,n au,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14285,abui1241-ulaga,blood,we,w e,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
-14286,abui1241-ulaga,tendon,er,e r,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
+14286,abui1241-ulaga,vein,er,e r,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14287,abui1241-ulaga,heart,bukumaŋ.,b u k u m a ŋ _,Nebukumaŋ `my heart',datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14288,abui1241-ulaga,liver,narai. No:n.,n a r ai _ _ oː n _,My liver,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14289,abui1241-ulaga,kidney,gelipaŋ,g e l i p a ŋ,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
@@ -14342,7 +14329,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 14340,abui1241-ulaga,scabies,fin,f i n,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14341,abui1241-ulaga,tinea,fiin(i),f i i n,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14342,abui1241-ulaga,tinea,fiin(i),f i i n i,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
-14343,abui1241-ulaga,feverish,navi,n a v i,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
+14343,abui1241-ulaga,fever,navi,n a v i,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14344,abui1241-ulaga,conjunctivitis,faleek,f a l eː k,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14345,abui1241-ulaga,cold_influenza,manefai,m a n e f ai,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14346,abui1241-ulaga,cold_influenza,manevai,m a n e v ai,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
@@ -14465,7 +14452,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 14463,abui1241-ulaga,mosquito,kumba,k u m b a,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14464,abui1241-ulaga,ant,fikai,f i k ai,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14465,abui1241-ulaga,grasshopper,kai po:k,k ai _ p oː k,tunui when its still young,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
-14466,abui1241-ulaga,locust,kamelaŋ,k a m e l a ŋ,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
+14466,abui1241-ulaga,rice_ear_bug,kamelaŋ,k a m e l a ŋ,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14467,abui1241-ulaga,spider,fafai,f a f ai,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14468,abui1241-ulaga,spider,vavai,v a v ai,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14469,abui1241-ulaga,louse_in_hair,bikieŋ,b i k ie ŋ,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
@@ -14746,7 +14733,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 14744,abui1241-ulaga,older_sister,gena:na mayuol,g e n aː n a _ m a y uo l,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14745,abui1241-ulaga,sister,geura mayul,g eu r a _ m a y u l,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14746,abui1241-ulaga,sister,nemoteni,n e m o t e n i,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
-14747,abui1241-ulaga,womans_cross_cousin,mayuo moteni,m a y uo _ m o t e n i,,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14748,abui1241-ulaga,womans_younger_sister,nenaɣa mayuo,n e n a ɣ a _ m a y uo,ne-: 1SG.AL,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14749,abui1241-ulaga,younger_brother,nenaɣa neŋ,n e n a ɣ a _ n e ŋ,ne-: 1SG.AL,datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
 14750,abui1241-ulaga,brother,nemoteni,n e m o t e n i,"ɣe-: 3.AL, ne-: 1SG.AL",datasets_abzuggs20160303motherlistwithcoresetabuiulaga_tsv
@@ -15030,7 +15016,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 15028,adan1251-otvai,ringworm,’a:t,aː t,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15029,adan1251-otvai,scabies,ha’rukaŋ,h a r u k a ŋ,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15030,adan1251-otvai,tinea,’palaŋ,p a l a ŋ,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
-15031,adan1251-otvai,feverish,ta’sɔʔ,t a s ɔ ʔ,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
+15031,adan1251-otvai,fever,ta’sɔʔ,t a s ɔ ʔ,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15032,adan1251-otvai,conjunctivitis,ɛʔfail ’tɛn,ɛ ʔ f ai l _ t ɛ n,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15033,adan1251-otvai,cold_influenza,’hu,h u,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15034,adan1251-otvai,person,’name,n a m e,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
@@ -15113,7 +15099,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 15111,adan1251-otvai,mosquito,’in,i n,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15112,adan1251-otvai,ant,’abu’te,a b u t e,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15113,adan1251-otvai,grasshopper,’kafe,k a f e,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
-15114,adan1251-otvai,locust,a’mariŋ,a m a r i ŋ,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
+15114,adan1251-otvai,rice_ear_bug,a’mariŋ,a m a r i ŋ,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15115,adan1251-otvai,spider,ale’laŋbo’bo,a l e l a ŋ b o b o,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15116,adan1251-otvai,louse_in_hair,’oin,oi n,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15117,adan1251-otvai,louse_eggs,fa’din,f a d i n,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
@@ -15336,7 +15322,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 15334,adan1251-otvai,older_brother,’matu ’lɔte,m a t u _ l ɔ t e,’ʔudiŋ ’lɔte = brother,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15335,adan1251-otvai,older_sister,’matu ’ʔɔb,m a t u _ ʔ ɔ b,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15336,adan1251-otvai,sister,’ʔudiŋ ’ ʔɔb,ʔ u d i ŋ _ _ ʔ ɔ b,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
-15337,adan1251-otvai,womans_cross_cousin,’ʔudiŋ ’ ʔɔb,ʔ u d i ŋ _ _ ʔ ɔ b,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15338,adan1251-otvai,womans_younger_sister,nifɛ’sɛl,n i f ɛ s ɛ l,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15339,adan1251-otvai,younger_brother,’diʔ ’lɔte,d i ʔ _ l ɔ t e,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
 15340,adan1251-otvai,brother,’ʔudiŋ ’lɔte,ʔ u d i ŋ _ l ɔ t e,,datasets_adnhcwordlistfulladangtranscribedbymkjune2017_tsv
@@ -15803,7 +15788,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 15801,koto1251,corn_maize,penaʔ,p e n a ʔ,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15802,koto1251,cooked_corn,penaʔ,p e n a ʔ,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15803,koto1251,coconut,noah,n o a h,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
-15804,koto1251,gwang,tune,t u n e,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
+15804,koto1251,gebang_palm,tune,t u n e,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15805,koto1251,lontar_palm,tuaʔ,t ua ʔ,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15806,koto1251,sugar_palm,boneʔ,b o n e ʔ,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15807,koto1251,bamboo,o:,oː,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
@@ -15873,7 +15858,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 15871,koto1251,waist,tnana-f,n̥ a n a _ f,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15872,koto1251,skin,pasu-f,p a s u _ f,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15873,koto1251,wound,papaʔ,p a p a ʔ,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
-15874,koto1251,feverish,n-mainina,n _ m ai n i n a,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
+15874,koto1251,fever,n-mainina,n _ m ai n i n a,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15875,koto1251,cold_influenza,n-piun n-mate,n _ p i u n _ n _ m a t e,literally: 'raw snot',datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15876,koto1251,person,tuaf,t ua f,"individual, person",datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15877,koto1251,person,mansian,m a n s ia n,human being,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
@@ -15976,7 +15961,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 15974,koto1251,ant,kibaʔ,k i b a ʔ,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15975,koto1251,grasshopper,imun,i m u n,a kind of small white mosquito whose bite is worse than a normal mosquito,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15976,koto1251,grasshopper,knamat,k n a m a t,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
-15977,koto1251,locust,knobe,k n o b e,walang sangit,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
+15977,koto1251,rice_ear_bug,knobe,k n o b e,walang sangit,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15978,koto1251,spider,knaba,k n a b a,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15979,koto1251,louse_in_hair,hutu,h u t u,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 15980,koto1251,louse_eggs,teon hutu,t e o n _ h u t u,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
@@ -16235,7 +16220,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 16233,koto1251,older_brother,tata-f,t a t a _ f,"same sex elder sibling, older same sex non-cross cousin",datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16234,koto1251,older_sister,tata-f,t a t a _ f,"same sex elder sibling, older same sex non-cross cousin",datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16235,koto1251,sister,feto-f,f e t o _ f,sister of a man,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
-16236,koto1251,womans_cross_cousin,bae-f,b a e _ f,moen ranan: male cross cousin of woman (literally man of the path),datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16237,koto1251,womans_younger_sister,ori-f,o r i _ f,same sex younger sibling ; younger same sex non-cross cousin,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16238,koto1251,younger_brother,ori-f,o r i _ f,same sex younger sibling ; younger same sex non-cross cousin,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16239,koto1251,brother,nao-f,n ao _ f,brother of woman,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
@@ -16337,7 +16321,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 16335,koto1251,short,ʔkore,ˀk o r e,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16336,koto1251,short,paraʔ,p a r a ʔ,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16337,koto1251,narrow,maʔrenat,m a ʔ r e n a t,,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
-16338,koto1251,to_chase_away_to_expel,n-riuʔ na-poitan,n _ r i u ʔ _ n a _ p oi t a n,serial verb: chase-exit,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
+16338,koto1251,to_shoo_to_chase_away_to_send_away,n-riuʔ na-poitan,n _ r i u ʔ _ n a _ p oi t a n,serial verb: chase-exit,datasets_aozowenedwards2016wordlistuabmetoamarasi_tsv
 16339,keda1252-leuba,sky,ʔɛ'leŋ,ʔ ɛ l e ŋ,,datasets_kedmk20150521wordlist_tsv
 16340,keda1252-leuba,sun,lɔ'jɔ,l ɔ j ɔ,,datasets_kedmk20150521wordlist_tsv
 16341,keda1252-leuba,moon,wu'la,w u l a,,datasets_kedmk20150521wordlist_tsv
@@ -16525,7 +16509,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 16523,keda1252-leuba,ringworm,nawɑr,n a w ɑ r,,datasets_kedmk20150521wordlist_tsv
 16524,keda1252-leuba,scabies,pu'rɔʔ,p u r ɔ ʔ,,datasets_kedmk20150521wordlist_tsv
 16525,keda1252-leuba,tinea,muʔu ta'ʔɛn,m uʔu _ t a ʔ ɛ n,,datasets_kedmk20150521wordlist_tsv
-16526,keda1252-leuba,feverish,weʔ 'pana,w e ʔ _ p a n a,,datasets_kedmk20150521wordlist_tsv
+16526,keda1252-leuba,fever,weʔ 'pana,w e ʔ _ p a n a,,datasets_kedmk20150521wordlist_tsv
 16527,keda1252-leuba,conjunctivitis,mato 'putuʔ,m a t o _ p u t u ʔ,putuʔ=red;,datasets_kedmk20150521wordlist_tsv
 16528,keda1252-leuba,cold_influenza,ʔihɔ 'ban,ʔ i h ɔ _ b a n,,datasets_kedmk20150521wordlist_tsv
 16529,keda1252-leuba,person,ate 'diʔen,a t e _ d i ʔ e n,,datasets_kedmk20150521wordlist_tsv
@@ -16930,7 +16914,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 16928,keda1252-leuba,tall,la'ʔiː,l a ʔ iː,,datasets_kedmk20150521wordlist_tsv
 16929,keda1252-leuba,short,mɛ'kuʔ,m ɛ k u ʔ,,datasets_kedmk20150521wordlist_tsv
 16930,keda1252-leuba,narrow,i'peʔ,i p e ʔ,,datasets_kedmk20150521wordlist_tsv
-16931,keda1252-leuba,to_chase_away_to_expel,ho'riʔ,h o r i ʔ,,datasets_kedmk20150521wordlist_tsv
+16931,keda1252-leuba,to_shoo_to_chase_away_to_send_away,ho'riʔ,h o r i ʔ,,datasets_kedmk20150521wordlist_tsv
 16932,buna1278-bobon,sky,fa:n,f aː n,,datasets_bfnbobonaromk201601wordlist_tsv
 16933,buna1278-bobon,sun,hɔt,h ɔ t,,datasets_bfnbobonaromk201601wordlist_tsv
 16934,buna1278-bobon,moon,hul,h u l,,datasets_bfnbobonaromk201601wordlist_tsv
@@ -17067,7 +17051,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 17065,buna1278-bobon,corn_maize,paɁal,p aʔa l,paɁal gɔ=corn seed,datasets_bfnbobonaromk201601wordlist_tsv
 17066,buna1278-bobon,cooked_corn,pa:l gɔ thɛn ua,p aː l _ g ɔ _ tʰ ɛ n _ ua,"then=cooked, ua = already",datasets_bfnbobonaromk201601wordlist_tsv
 17067,buna1278-bobon,coconut,oza,o z a,,datasets_bfnbobonaromk201601wordlist_tsv
-17068,buna1278-bobon,gwang,haˑgɔɁ,h a g ɔ ʔ,,datasets_bfnbobonaromk201601wordlist_tsv
+17068,buna1278-bobon,gebang_palm,haˑgɔɁ,h a g ɔ ʔ,,datasets_bfnbobonaromk201601wordlist_tsv
 17069,buna1278-bobon,lontar_palm,dilu,d i l u,,datasets_bfnbobonaromk201601wordlist_tsv
 17070,buna1278-bobon,sugar_palm,tʃuɛ guzu,tʃ u ɛ _ g u z u,,datasets_bfnbobonaromk201601wordlist_tsv
 17071,buna1278-bobon,marungga,mahut,m a h u t,,datasets_bfnbobonaromk201601wordlist_tsv
@@ -17142,7 +17126,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 17140,buna1278-bobon,ringworm,nukhaɁ,n u kʰ a ʔ,,datasets_bfnbobonaromk201601wordlist_tsv
 17141,buna1278-bobon,scabies,khɛs,kʰ ɛ s,,datasets_bfnbobonaromk201601wordlist_tsv
 17142,buna1278-bobon,tinea,hɑnɔk,h ɑ n ɔ k,,datasets_bfnbobonaromk201601wordlist_tsv
-17143,buna1278-bobon,feverish,gik urat,g i k _ u r a t,,datasets_bfnbobonaromk201601wordlist_tsv
+17143,buna1278-bobon,fever,gik urat,g i k _ u r a t,,datasets_bfnbobonaromk201601wordlist_tsv
 17144,buna1278-bobon,conjunctivitis,gilar buleɁɛn,g i l a r _ b u l e ʔ ɛ n,,datasets_bfnbobonaromk201601wordlist_tsv
 17145,buna1278-bobon,cold_influenza,ginup tʃui,g i n u p _ tʃ ui,,datasets_bfnbobonaromk201601wordlist_tsv
 17146,buna1278-bobon,person,ɛn,ɛ n,,datasets_bfnbobonaromk201601wordlist_tsv
@@ -17238,7 +17222,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 17236,buna1278-bobon,mosquito,susu,s u s u,,datasets_bfnbobonaromk201601wordlist_tsv
 17237,buna1278-bobon,ant,nɛhɛk,n ɛ h ɛ k,,datasets_bfnbobonaromk201601wordlist_tsv
 17238,buna1278-bobon,grasshopper,ɔse,ɔ s e,,datasets_bfnbobonaromk201601wordlist_tsv
-17239,buna1278-bobon,locust,ɔse,ɔ s e,,datasets_bfnbobonaromk201601wordlist_tsv
+17239,buna1278-bobon,rice_ear_bug,ɔse,ɔ s e,,datasets_bfnbobonaromk201601wordlist_tsv
 17240,buna1278-bobon,spider,liɛn,l iɛ n,,datasets_bfnbobonaromk201601wordlist_tsv
 17241,buna1278-bobon,louse_in_hair,hiɛn,h iɛ n,,datasets_bfnbobonaromk201601wordlist_tsv
 17242,buna1278-bobon,louse_eggs,hiɛn gut,h iɛ n _ g u t,,datasets_bfnbobonaromk201601wordlist_tsv
@@ -17612,7 +17596,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 17610,buna1278-bobon,tall,legul,l e g u l,,datasets_bfnbobonaromk201601wordlist_tsv
 17611,buna1278-bobon,short,barak,b a r a k,,datasets_bfnbobonaromk201601wordlist_tsv
 17612,buna1278-bobon,narrow,ti:l,t iː l,,datasets_bfnbobonaromk201601wordlist_tsv
-17613,buna1278-bobon,to_chase_away_to_expel,goli,g o l i,,datasets_bfnbobonaromk201601wordlist_tsv
+17613,buna1278-bobon,to_shoo_to_chase_away_to_send_away,goli,g o l i,,datasets_bfnbobonaromk201601wordlist_tsv
 17614,buna1278-suai,sky,pha:n,pʰ aː n,,datasets_bfnsuaimk201601wordlist_tsv
 17615,buna1278-suai,sun,hɔt,h ɔ t,,datasets_bfnsuaimk201601wordlist_tsv
 17616,buna1278-suai,moon,hul,h u l,,datasets_bfnsuaimk201601wordlist_tsv
@@ -17745,7 +17729,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 17743,buna1278-suai,corn_maize,paɁal,p aʔa l,paɁal gɔ=corn seed,datasets_bfnsuaimk201601wordlist_tsv
 17744,buna1278-suai,cooked_corn,pa:l gɔ thɛn ua,p aː l _ g ɔ _ tʰ ɛ n _ ua,"then=cooked, ua = already",datasets_bfnsuaimk201601wordlist_tsv
 17745,buna1278-suai,coconut,oza,o z a,,datasets_bfnsuaimk201601wordlist_tsv
-17746,buna1278-suai,gwang,haˑgɔɁ,h a g ɔ ʔ,,datasets_bfnsuaimk201601wordlist_tsv
+17746,buna1278-suai,gebang_palm,haˑgɔɁ,h a g ɔ ʔ,,datasets_bfnsuaimk201601wordlist_tsv
 17747,buna1278-suai,lontar_palm,dilu,d i l u,,datasets_bfnsuaimk201601wordlist_tsv
 17748,buna1278-suai,sugar_palm,tʃuɛ guzu,tʃ u ɛ _ g u z u,,datasets_bfnsuaimk201601wordlist_tsv
 17749,buna1278-suai,marungga,maɁut,m a ʔ u t,,datasets_bfnsuaimk201601wordlist_tsv
@@ -17819,7 +17803,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 17817,buna1278-suai,ringworm,nukhaɁ,n u kʰ a ʔ,,datasets_bfnsuaimk201601wordlist_tsv
 17818,buna1278-suai,scabies,khɛs,kʰ ɛ s,,datasets_bfnsuaimk201601wordlist_tsv
 17819,buna1278-suai,tinea,hɑnɔk,h ɑ n ɔ k,,datasets_bfnsuaimk201601wordlist_tsv
-17820,buna1278-suai,feverish,tʃinɔ thɔrɔrɔ,tʃ i n ɔ _ tʰ ɔ r ɔ r ɔ,,datasets_bfnsuaimk201601wordlist_tsv
+17820,buna1278-suai,fever,tʃinɔ thɔrɔrɔ,tʃ i n ɔ _ tʰ ɔ r ɔ r ɔ,,datasets_bfnsuaimk201601wordlist_tsv
 17821,buna1278-suai,conjunctivitis,gilar buleɁɛn,g i l a r _ b u l e ʔ ɛ n,,datasets_bfnsuaimk201601wordlist_tsv
 17822,buna1278-suai,cold_influenza,ginup tʃui,g i n u p _ tʃ ui,,datasets_bfnsuaimk201601wordlist_tsv
 17823,buna1278-suai,person,ɛn,ɛ n,,datasets_bfnsuaimk201601wordlist_tsv
@@ -17916,7 +17900,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 17914,buna1278-suai,mosquito,susuh,s u s u h,,datasets_bfnsuaimk201601wordlist_tsv
 17915,buna1278-suai,ant,nɛhɛk,n ɛ h ɛ k,,datasets_bfnsuaimk201601wordlist_tsv
 17916,buna1278-suai,grasshopper,ua,ua,,datasets_bfnsuaimk201601wordlist_tsv
-17917,buna1278-suai,locust,ua,ua,,datasets_bfnsuaimk201601wordlist_tsv
+17917,buna1278-suai,rice_ear_bug,ua,ua,,datasets_bfnsuaimk201601wordlist_tsv
 17918,buna1278-suai,spider,liɛn,l iɛ n,,datasets_bfnsuaimk201601wordlist_tsv
 17919,buna1278-suai,louse_in_hair,hiɛn,h iɛ n,,datasets_bfnsuaimk201601wordlist_tsv
 17920,buna1278-suai,louse_eggs,hiɛn gut,h iɛ n _ g u t,,datasets_bfnsuaimk201601wordlist_tsv
@@ -18287,7 +18271,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 18285,buna1278-suai,tall,legul,l e g u l,,datasets_bfnsuaimk201601wordlist_tsv
 18286,buna1278-suai,short,barak,b a r a k,,datasets_bfnsuaimk201601wordlist_tsv
 18287,buna1278-suai,narrow,ti:l,t iː l,,datasets_bfnsuaimk201601wordlist_tsv
-18288,buna1278-suai,to_chase_away_to_expel,goli,g o l i,,datasets_bfnsuaimk201601wordlist_tsv
+18288,buna1278-suai,to_shoo_to_chase_away_to_send_away,goli,g o l i,,datasets_bfnsuaimk201601wordlist_tsv
 18289,kema1243,sky,baʔe'mɔ:,b a ʔ e m ɔː,,datasets_kemmk2002wordlist_tsv
 18290,kema1243,sun,lɛlɔ 'mɑtɑn,l ɛ l ɔ _ m ɑ t ɑ n,sun day,datasets_kemmk2002wordlist_tsv
 18291,kema1243,moon,hula,h u l a,,datasets_kemmk2002wordlist_tsv
@@ -18704,7 +18688,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 18702,lama1277-lerek,corn_maize,ˈkəvaror,k ə v a r o r,,datasets_lhhf2016lerek2016222wordlist_tsv
 18703,lama1277-lerek,cooked_corn,kəbaˈkut,k ə b a k u t,,datasets_lhhf2016lerek2016222wordlist_tsv
 18704,lama1277-lerek,coconut,ˈtapor,t a p o r,,datasets_lhhf2016lerek2016222wordlist_tsv
-18705,lama1277-lerek,gwang,ˈkətəbuk,k ə t ə b u k,,datasets_lhhf2016lerek2016222wordlist_tsv
+18705,lama1277-lerek,gebang_palm,ˈkətəbuk,k ə t ə b u k,,datasets_lhhf2016lerek2016222wordlist_tsv
 18706,lama1277-lerek,lontar_palm,koˈler,k o l e r,,datasets_lhhf2016lerek2016222wordlist_tsv
 18707,lama1277-lerek,sugar_palm,ˈkebol,k e b o l,,datasets_lhhf2016lerek2016222wordlist_tsv
 18708,lama1277-lerek,marungga,ˈmotoŋ,m o t o ŋ,,datasets_lhhf2016lerek2016222wordlist_tsv
@@ -18775,7 +18759,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 18773,lama1277-lerek,ringworm,wəˈner,w ə n e r,,datasets_lhhf2016lerek2016222wordlist_tsv
 18774,lama1277-lerek,scabies,kəpuˈrok,k ə p u r o k,,datasets_lhhf2016lerek2016222wordlist_tsv
 18775,lama1277-lerek,tinea,bəroŋ,b ə r o ŋ,,datasets_lhhf2016lerek2016222wordlist_tsv
-18776,lama1277-lerek,feverish,puˈjuk,p u j u k,,datasets_lhhf2016lerek2016222wordlist_tsv
+18776,lama1277-lerek,fever,puˈjuk,p u j u k,,datasets_lhhf2016lerek2016222wordlist_tsv
 18777,lama1277-lerek,cold_influenza,niˈdʒ͡or,n i dʒ o r,,datasets_lhhf2016lerek2016222wordlist_tsv
 18778,lama1277-lerek,person,ata dikən,a t a _ d i k ə n,,datasets_lhhf2016lerek2016222wordlist_tsv
 18779,lama1277-lerek,name,ˈnajan,n aj a n,,datasets_lhhf2016lerek2016222wordlist_tsv
@@ -18868,7 +18852,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 18866,lama1277-lerek,mosquito,kəməˈŋeŋ,k ə m ə ŋ e ŋ,,datasets_lhhf2016lerek2016222wordlist_tsv
 18867,lama1277-lerek,ant,temiˈher,t e m i h e r,,datasets_lhhf2016lerek2016222wordlist_tsv
 18868,lama1277-lerek,grasshopper,maˈyor,m a y o r,,datasets_lhhf2016lerek2016222wordlist_tsv
-18869,lama1277-lerek,locust,kəmoˈroŋ,k ə m o r o ŋ,,datasets_lhhf2016lerek2016222wordlist_tsv
+18869,lama1277-lerek,rice_ear_bug,kəmoˈroŋ,k ə m o r o ŋ,,datasets_lhhf2016lerek2016222wordlist_tsv
 18870,lama1277-lerek,spider,ˈlaka boˈrit,l a k a _ b o r i t,,datasets_lhhf2016lerek2016222wordlist_tsv
 18871,lama1277-lerek,louse_in_hair,kuˈtor,k u t o r,,datasets_lhhf2016lerek2016222wordlist_tsv
 18872,lama1277-lerek,louse_eggs,kut kiˈan,k u t _ k i a n,,datasets_lhhf2016lerek2016222wordlist_tsv
@@ -19187,7 +19171,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 19185,lama1277-lerek,short,məˈkul,m ə k u l,,datasets_lhhf2016lerek2016222wordlist_tsv
 19186,lama1277-lerek,narrow,kənipoˈtən,k ə n i p o t ə n,,datasets_lhhf2016lerek2016222wordlist_tsv
 19187,lama1277-lerek,narrow,hənipoˈtən,h ə n i p o t ə n,,datasets_lhhf2016lerek2016222wordlist_tsv
-19188,lama1277-lerek,to_chase_away_to_expel,ˈdəɡur,d ə g u r,,datasets_lhhf2016lerek2016222wordlist_tsv
+19188,lama1277-lerek,to_shoo_to_chase_away_to_send_away,ˈdəɡur,d ə g u r,,datasets_lhhf2016lerek2016222wordlist_tsv
 19189,laka1255,sky,la'lɛhɑn,l a l ɛ h ɑ n,,datasets_lkamk2002wordlist_tsv
 19190,laka1255,sun,lɛlɔ 'matɑn,l ɛ l ɔ _ m a t ɑ n,,datasets_lkamk2002wordlist_tsv
 19191,laka1255,moon,hul 'kai,h u l _ k ai,,datasets_lkamk2002wordlist_tsv
@@ -19578,7 +19562,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 19576,kaer1234,corn_maize,ba'tar,b a t a r,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19577,kaer1234,cooked_corn,ba'tar ipi,b a t a r _ i p i,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19578,kaer1234,coconut,wat,w a t,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
-19579,kaer1234,gwang,kudu'buk,k u d u b u k,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
+19579,kaer1234,gebang_palm,kudu'buk,k u d u b u k,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19580,kaer1234,lontar_palm,ai qoli,ai _ q o l i,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19581,kaer1234,sugar_palm,bur,b u r,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19582,kaer1234,marungga,mo'toliŋ,m o t o l i ŋ,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
@@ -19650,7 +19634,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 19648,kaer1234,ringworm,qatu,q a t u,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19649,kaer1234,scabies,qat,q a t,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19650,kaer1234,tinea,kus 'bani,k u s _ b a n i,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
-19651,kaer1234,feverish,qomo'di,q o m o d i,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
+19651,kaer1234,fever,qomo'di,q o m o d i,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19652,kaer1234,conjunctivitis,tet 'guax i,t e t _ g ua x _ i,i=red,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19653,kaer1234,cold_influenza,sou,s ou,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19654,kaer1234,person,ujaxoɁ,uj a x o ʔ,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
@@ -19740,7 +19724,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 19738,kaer1234,mosquito,kiŋ,k i ŋ,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19739,kaer1234,ant,ri'kiŋ,r i k i ŋ,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19740,kaer1234,grasshopper,ou,ou,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
-19741,kaer1234,locust,mur,m u r,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
+19741,kaer1234,rice_ear_bug,mur,m u r,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19742,kaer1234,spider,ka'karaŋa,k a k a r a ŋ a,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19743,kaer1234,louse_in_hair,toŋ ku'aŋ,t o ŋ _ k u a ŋ,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19744,kaer1234,louse_eggs,i'riŋ,i r i ŋ,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
@@ -19979,7 +19963,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 19977,kaer1234,older_brother,ne'kau,n e k au,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19978,kaer1234,older_sister,nedik 'gewado,n e d i k _ g e w a d o,"nedik=female, nekau=male",datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19979,kaer1234,sister,nedik 'gewado,n e d i k _ g e w a d o,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
-19980,kaer1234,womans_cross_cousin,ne'wɛŋ,n e w ɛ ŋ,"neweŋ= cousin, MBs child",datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19981,kaer1234,womans_younger_sister,nedik 'gekiki,n e d i k _ g e k i k i,"nedik=female, nekau=male, gekiki=younger sibling, gewado=older sibling",datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19982,kaer1234,younger_brother,nekau 'gekiki,n e k au _ g e k i k i,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
 19983,kaer1234,brother,nekau,n e k au,,datasets_jkamk2016latestkaerawordlistcheckedbymkandjiangjune2017_tsv
@@ -20263,7 +20246,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 20261,lama1277-adona,ringworm,kəˈbuʔu,k ə b uʔu,,datasets_lmhadmk20150518wordlist_tsv
 20262,lama1277-adona,scabies,kəˈbuʔu,k ə b uʔu,,datasets_lmhadmk20150518wordlist_tsv
 20263,lama1277-adona,tinea,mɜˈnaɔ,m ɜ n a ɔ,,datasets_lmhadmk20150518wordlist_tsv
-20264,lama1277-adona,feverish,pɜˈlatekɜt,p ɜ l a t e k ɜ t,,datasets_lmhadmk20150518wordlist_tsv
+20264,lama1277-adona,fever,pɜˈlatekɜt,p ɜ l a t e k ɜ t,,datasets_lmhadmk20150518wordlist_tsv
 20265,lama1277-adona,conjunctivitis,kɜˈrara,k ɜ r a r a,red eyes;,datasets_lmhadmk20150518wordlist_tsv
 20266,lama1277-adona,cold_influenza,pɜˈlate-ɡɜˈlɜtɜ,p ɜ l a t e _ g ɜ l ɜ t ɜ,,datasets_lmhadmk20150518wordlist_tsv
 20267,lama1277-adona,person,ˈʔata,ʔ a t a,,datasets_lmhadmk20150518wordlist_tsv
@@ -20356,7 +20339,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 20354,lama1277-adona,mosquito,kɜˈraɡã,k ɜ r a g a _,,datasets_lmhadmk20150518wordlist_tsv
 20355,lama1277-adona,ant,kɜˈmɜrɜk,k ɜ m ɜ r ɜ k,,datasets_lmhadmk20150518wordlist_tsv
 20356,lama1277-adona,grasshopper,kɜˈmaroʔ,k ɜ m a r o ʔ,,datasets_lmhadmk20150518wordlist_tsv
-20357,lama1277-adona,locust,kɜmɛrũˈdate,k ɜ m ɛ r u _ d a t e,,datasets_lmhadmk20150518wordlist_tsv
+20357,lama1277-adona,rice_ear_bug,kɜmɛrũˈdate,k ɜ m ɛ r u _ d a t e,,datasets_lmhadmk20150518wordlist_tsv
 20358,lama1277-adona,spider,kabaˈrabat,k a b a r a b a t,kɜˈposiˈwori is a tarantula,datasets_lmhadmk20150518wordlist_tsv
 20359,lama1277-adona,louse_in_hair,ˈkutɔ,k u t ɔ,,datasets_lmhadmk20150518wordlist_tsv
 20360,lama1277-adona,louse_eggs,kɜˈlɛhɛ̃,k ɜ l ɛ h ɛ _,,datasets_lmhadmk20150518wordlist_tsv
@@ -20702,7 +20685,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 20700,lama1277-adona,tall,blɔʔˈlɔ̃,b l ɔ ʔ l ɔ _,,datasets_lmhadmk20150518wordlist_tsv
 20701,lama1277-adona,short,kɜʔˈrũ,k ɜ ʔ r u _,,datasets_lmhadmk20150518wordlist_tsv
 20702,lama1277-adona,narrow,ˈkɛniʔ,k ɛ n i ʔ,kɜtɜke tiɡht (clothes); ,datasets_lmhadmk20150518wordlist_tsv
-20703,lama1277-adona,to_chase_away_to_expel,ˈsika,s i k a,,datasets_lmhadmk20150518wordlist_tsv
+20703,lama1277-adona,to_shoo_to_chase_away_to_send_away,ˈsika,s i k a,,datasets_lmhadmk20150518wordlist_tsv
 20704,keda1252-leuwa,sky,ælæŋ,æ l æ ŋ,,datasets_Kedang_Leuwayang_tsv
 20705,keda1252-leuwa,sun,lɔjɔ,l ɔj ɔ,,datasets_Kedang_Leuwayang_tsv
 20706,keda1252-leuwa,sun,lɔjɔ matan,l ɔj ɔ _ m a t a n,,datasets_Kedang_Leuwayang_tsv
@@ -21136,7 +21119,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 21134,wers1238-marit,corn_maize,pɛ'tɛr,p ɛ t ɛ r,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21135,wers1238-marit,cooked_corn,po'tori,p o t o r i,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21136,wers1238-marit,coconut,wɔr 'taʔ,w ɔ r _ t a ʔ,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
-21137,wers1238-marit,gwang,a'kal,a k a l,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
+21137,wers1238-marit,gebang_palm,a'kal,a k a l,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21138,wers1238-marit,lontar_palm,tɔk 'boŋ,t ɔ k _ b o ŋ,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21139,wers1238-marit,sugar_palm,ino 'pak,i n o _ p a k,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21140,wers1238-marit,marungga,kɔl'teŋ,k ɔ l t e ŋ,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
@@ -21205,7 +21188,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 21203,wers1238-marit,ringworm,pɛt 'boli,p ɛ t _ b o l i,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21204,wers1238-marit,scabies,lilil,l i l i l,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21205,wers1238-marit,tinea,pui mu'nin,p ui _ m u n i n,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
-21206,wers1238-marit,feverish,lalaŋ,l a l a ŋ,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
+21206,wers1238-marit,fever,lalaŋ,l a l a ŋ,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21207,wers1238-marit,conjunctivitis,kibir,k i b i r,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21208,wers1238-marit,cold_influenza,mi'nipir,m i n i p i r,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21209,wers1238-marit,person,a'niŋ,a n i ŋ,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
@@ -21506,7 +21489,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 21504,wers1238-marit,older_brother,nə'naŋ li'mi,n ə n a ŋ _ l i m i,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21505,wers1238-marit,older_sister,nə'naŋ 'mei,n ə n a ŋ _ m ei,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21506,wers1238-marit,sister,na'rudi 'mei,n a r u d i _ m ei,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
-21507,wers1238-marit,womans_cross_cousin,nɔl 'deiŋ,n ɔ l _ d ei ŋ,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21508,wers1238-marit,womans_younger_sister,neja u'lik,n ej a _ u l i k,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21509,wers1238-marit,younger_brother,ne'kaku,n e k a k u,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
 21510,wers1238-marit,brother,na'rudi,n a r u d i,,datasets_kvwhc20151026wlr1884retranscribedbymkjune2017checkedbyjiang_tsv
@@ -21716,7 +21698,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 21714,kelo1247-hopte,corn_maize,bat,b a t,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21715,kelo1247-hopte,cooked_corn,bat 'ʔip 'ma:i,b a t _ ʔ i p _ m aː i,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21716,kelo1247-hopte,coconut,ʔə'ta:,ʔ ə t aː,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
-21717,kelo1247-hopte,gwang,ʔa:k 'bok,ʔ aː k _ b o k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
+21717,kelo1247-hopte,gebang_palm,ʔa:k 'bok,ʔ aː k _ b o k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21718,kelo1247-hopte,lontar_palm,tɔk 'bok,t ɔ k _ b o k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21719,kelo1247-hopte,sugar_palm,na 'bok,n a _ b o k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21720,kelo1247-hopte,marungga,kɔ'kɔl,k ɔ k ɔ l,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
@@ -21787,7 +21769,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 21785,kelo1247-hopte,ringworm,kat,k a t,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21786,kelo1247-hopte,scabies,kat,k a t,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21787,kelo1247-hopte,tinea,kat,k a t,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
-21788,kelo1247-hopte,feverish,tə'bi:r,t ə b iː r,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
+21788,kelo1247-hopte,fever,tə'bi:r,t ə b iː r,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21789,kelo1247-hopte,conjunctivitis,tɛn 'ki:k,t ɛ n _ k iː k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21790,kelo1247-hopte,cold_influenza,ma'dɛb,m a d ɛ b,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21791,kelo1247-hopte,person,ani'nɔk,a n i n ɔ k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
@@ -21870,7 +21852,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 21868,kelo1247-hopte,mosquito,ʔə'kin,ʔ ə k i n,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21869,kelo1247-hopte,ant,nə'rik,n ə r i k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21870,kelo1247-hopte,grasshopper,tə'kɛ:t,t ə k ɛː t,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
-21871,kelo1247-hopte,locust,də'ra:m,d ə r aː m,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
+21871,kelo1247-hopte,rice_ear_bug,də'ra:m,d ə r aː m,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21872,kelo1247-hopte,spider,nə'wa:k,n ə w aː k,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21873,kelo1247-hopte,louse_in_hair,ʔə'kɔɲ,ʔ ə k ɔ ɲ,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 21874,kelo1247-hopte,louse_eggs,ʔə'koɲ kʔə'diŋ,ʔ ə k o ɲ _ k ʔ ə d i ŋ,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
@@ -22117,8 +22099,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 22115,kelo1247-hopte,older_brother,ʔɔm 'ʔum,ʔ ɔ m _ ʔ u m,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 22116,kelo1247-hopte,older_sister,ʔɔm 'ʔɔ:l,ʔ ɔ m _ ʔ ɔː l,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 22117,kelo1247-hopte,sister,gi ʔe'dɔ:l,g i _ ʔ e d ɔː l,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
-22118,kelo1247-hopte,womans_cross_cousin,gɔi 'ʔa:l,g ɔi _ ʔ aː l,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
-22119,kelo1247-hopte,womans_cross_cousin,gɔi kə'kɛŋ,g ɔi _ k ə k ɛ ŋ,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 22120,kelo1247-hopte,womans_younger_sister,ʔɔl 'gegik 'ɔl,ʔ ɔ l _ g e g i k _ ɔ l,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 22121,kelo1247-hopte,younger_brother,ʔik 'ʔum,ʔ i k _ ʔ u m,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
 22122,kelo1247-hopte,brother,gi ʔe'duɲ,g i _ ʔ e d u ɲ,,datasets_kyohc20151021wlr1884retranscribedbymkandjiangjune2017_tsv
@@ -22408,7 +22388,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 22406,lama1277-kalik,sweat,krəˈvun,k r ə v u n,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22407,lama1277-kalik,tear,ˈmata ˈvaen,m a t a _ v a e n,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22408,lama1277-kalik,blood,ˈsmein,s m ei n,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
-22409,lama1277-kalik,tendon,aˈlis,a l i s,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
+22409,lama1277-kalik,vein,aˈlis,a l i s,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22410,lama1277-kalik,heart,puˈo,p u o,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22411,lama1277-kalik,liver,ɔr,ɔ r,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22412,lama1277-kalik,kidney,kɛk,k ɛ k,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
@@ -22461,7 +22441,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 22459,lama1277-kalik,ringworm,kənəˈtək,k ə n ə t ə k,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22460,lama1277-kalik,scabies,kəˈbura,k ə b u r a,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22461,lama1277-kalik,tinea,kraˈposa,k r a p o s a,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
-22462,lama1277-kalik,feverish,kaˈti ɡeˈɡet,k a t i _ g e g e t,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
+22462,lama1277-kalik,fever,kaˈti ɡeˈɡet,k a t i _ g e g e t,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22463,lama1277-kalik,conjunctivitis,maˈta ˈklara,m a t a _ k l a r a,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22464,lama1277-kalik,cold_influenza,nur,n u r,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a;W1a
 22465,lama1277-kalik,cold_influenza,nurən,n u r ə n,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a;W1a
@@ -22583,8 +22563,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 22581,lama1277-kalik,ant,təmiˈsi,t ə m i s i,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;NB
 22582,lama1277-kalik,grasshopper,maˈʤɔr,m a dʒ ɔ r,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22583,lama1277-kalik,grasshopper,maˈʤu,m a dʒ u,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;NB
-22584,lama1277-kalik,locust,kəmɔˈrɔŋ,k ə m ɔ r ɔ ŋ,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
-22585,lama1277-kalik,locust,kəmɔˈrɔ,k ə m ɔ r ɔ,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;NB
+22584,lama1277-kalik,rice_ear_bug,kəmɔˈrɔŋ,k ə m ɔ r ɔ ŋ,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
+22585,lama1277-kalik,rice_ear_bug,kəmɔˈrɔ,k ə m ɔ r ɔ,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;NB
 22586,lama1277-kalik,spider,lakboˈrit,l a k b o r i t,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
 22587,lama1277-kalik,louse_in_hair,kuˈtɔr,k u t ɔ r,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a;W1a
 22588,lama1277-kalik,louse_in_hair,ˈkutu,k u t u,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a;W1a
@@ -22901,9 +22881,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 22899,lama1277-kalik,now,ve,v e,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1b
 22900,lama1277-kalik,same,snaˈmaŋ,s n a m a ŋ,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1b
 22901,lama1277-kalik,oven,liˈkat,l i k a t,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1a
-22902,lama1277-kalik,inhabited_land,əˈna keˈdak,ə n a _ k e d a k,"means 'continent', literally 'big land'",datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1b
 22903,lama1277-kalik,roof_rafter,slaˈɡaʤa,s l a g a dʒ a,ʤa is a plural suffix,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1b
-22904,lama1277-kalik,to_chase_away_to_expel,siˈka,s i k a,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1b
+22904,lama1277-kalik,to_shoo_to_chase_away_to_send_away,siˈka,s i k a,,datasets_lhhf2015clembatakalikasa2015511wordlist_tsv;W1b
 22905,mamb1306,sky,lɛl'lau,l ɛ l l au,sun high,datasets_mgmmk2002wordlist_tsv
 22906,mamb1306,sun,lɛl 'mata,l ɛ l _ m a t a,,datasets_mgmmk2002wordlist_tsv
 22907,mamb1306,moon,hul'kai,h u l k ai,,datasets_mgmmk2002wordlist_tsv
@@ -23284,7 +23263,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 23282,maka1316,corn_maize,teli,t e l i,,datasets_mkzmk20160112wordlist_tsv
 23283,maka1316,cooked_corn,teli bo'Ɂoro,t e l i _ b o ʔ o r o,,datasets_mkzmk20160112wordlist_tsv
 23284,maka1316,coconut,wata,w a t a,,datasets_mkzmk20160112wordlist_tsv
-23285,maka1316,gwang,aka'diru,a k a d i r u,,datasets_mkzmk20160112wordlist_tsv
+23285,maka1316,gebang_palm,aka'diru,a k a d i r u,,datasets_mkzmk20160112wordlist_tsv
 23286,maka1316,lontar_palm,a'lasa,a l a s a,,datasets_mkzmk20160112wordlist_tsv
 23287,maka1316,sugar_palm,meti 'wata,m e t i _ w a t a,,datasets_mkzmk20160112wordlist_tsv
 23288,maka1316,marungga,duma'nasa,d u m a n a s a,,datasets_mkzmk20160112wordlist_tsv
@@ -23358,7 +23337,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 23356,maka1316,ringworm,sɔdɔ,s ɔ d ɔ,,datasets_mkzmk20160112wordlist_tsv
 23357,maka1316,scabies,sɔdɔ,s ɔ d ɔ,,datasets_mkzmk20160112wordlist_tsv
 23358,maka1316,tinea,hena'buti,h e n a b u t i,,datasets_mkzmk20160112wordlist_tsv
-23359,maka1316,feverish,si'siri,s i s i r i,sisiri=hurt,datasets_mkzmk20160112wordlist_tsv
+23359,maka1316,fever,si'siri,s i s i r i,sisiri=hurt,datasets_mkzmk20160112wordlist_tsv
 23360,maka1316,conjunctivitis,nana si'siri,n a n a _ s i s i r i,nana=eyes,datasets_mkzmk20160112wordlist_tsv
 23361,maka1316,cold_influenza,fa'sini,f a s i n i,,datasets_mkzmk20160112wordlist_tsv
 23362,maka1316,person,a'nunu,a n u n u,,datasets_mkzmk20160112wordlist_tsv
@@ -23445,7 +23424,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 23443,maka1316,mosquito,la'gana,l a g a n a,,datasets_mkzmk20160112wordlist_tsv
 23444,maka1316,ant,ku'raka,k u r a k a,,datasets_mkzmk20160112wordlist_tsv
 23445,maka1316,grasshopper,kada,k a d a,,datasets_mkzmk20160112wordlist_tsv
-23446,maka1316,locust,kiki'laɁi,k i k i l a ʔ i,,datasets_mkzmk20160112wordlist_tsv
+23446,maka1316,rice_ear_bug,kiki'laɁi,k i k i l a ʔ i,,datasets_mkzmk20160112wordlist_tsv
 23447,maka1316,spider,laba'raga,l a b a r a g a,raga=finger/toe/branch,datasets_mkzmk20160112wordlist_tsv
 23448,maka1316,louse_in_hair,ami,a m i,,datasets_mkzmk20160112wordlist_tsv
 23449,maka1316,louse_eggs,ami'wua,a m i w ua,"ami=louse, wua=egg",datasets_mkzmk20160112wordlist_tsv
@@ -23678,7 +23657,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 23676,maka1316,older_brother,kaka,k a k a,,datasets_mkzmk20160112wordlist_tsv
 23677,maka1316,older_sister,tufu,t u f u,,datasets_mkzmk20160112wordlist_tsv
 23678,maka1316,sister,tufu,t u f u,,datasets_mkzmk20160112wordlist_tsv
-23679,maka1316,womans_cross_cousin,tufu,t u f u,,datasets_mkzmk20160112wordlist_tsv
 23680,maka1316,womans_younger_sister,noko tufura,n o k o _ t u f u r a,,datasets_mkzmk20160112wordlist_tsv
 23681,maka1316,younger_brother,noko namira,n o k o _ n a m i r a,,datasets_mkzmk20160112wordlist_tsv
 23682,maka1316,brother,kaka,k a k a,"kaka=elder brother, noko=younger brother",datasets_mkzmk20160112wordlist_tsv
@@ -23786,7 +23764,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 23784,maka1316,short,(ete) di'gara,d i g a r a,,datasets_mkzmk20160112wordlist_tsv
 23785,maka1316,short,(ete) di'gara,e t e _ d i g a r a,,datasets_mkzmk20160112wordlist_tsv
 23786,maka1316,narrow,mɔɁɔko,m ɔ ʔ ɔ k o,,datasets_mkzmk20160112wordlist_tsv
-23787,maka1316,to_chase_away_to_expel,li'guru,l i g u r u,,datasets_mkzmk20160112wordlist_tsv
+23787,maka1316,to_shoo_to_chase_away_to_send_away,li'guru,l i g u r u,,datasets_mkzmk20160112wordlist_tsv
 23788,sika1262-maume,star,dala,d a l a,,datasets_skihf2013wordlist_tsv
 23789,sika1262-maume,night,guman,g u m a n,,datasets_skihf2013wordlist_tsv
 23790,sika1262-maume,day,ləron,l ə r o n,,datasets_skihf2013wordlist_tsv
@@ -24622,7 +24600,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 24620,lamm1241-westp,corn_maize,bat:e,b a tː e,,datasets_westernpantar_tsv
 24621,lamm1241-westp,cooked_corn,baubau,b au b au,,datasets_westernpantar_tsv
 24622,lamm1241-westp,coconut,hatua,h a t ua,,datasets_westernpantar_tsv
-24623,lamm1241-westp,gwang,hak:e,h a kː e,,datasets_westernpantar_tsv
+24623,lamm1241-westp,gebang_palm,hak:e,h a kː e,,datasets_westernpantar_tsv
 24624,lamm1241-westp,lontar_palm,hukali,h u k a l i,,datasets_westernpantar_tsv
 24625,lamm1241-westp,sugar_palm,nau,n au,,datasets_westernpantar_tsv
 24626,lamm1241-westp,gum_tree,pu,p u,,datasets_westernpantar_tsv
@@ -24808,7 +24786,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 24806,lamm1241-westp,ant,humaŋ pai,h u m a ŋ _ p ai,black ant,datasets_westernpantar_tsv
 24807,lamm1241-westp,ant,karé,k a r e,red ant,datasets_westernpantar_tsv
 24808,lamm1241-westp,grasshopper,au,au,,datasets_westernpantar_tsv
-24809,lamm1241-westp,locust,li,l i,,datasets_westernpantar_tsv
+24809,lamm1241-westp,rice_ear_bug,li,l i,,datasets_westernpantar_tsv
 24810,lamm1241-westp,spider,kar lab:aŋ,k a r _ l a bː a ŋ,,datasets_westernpantar_tsv
 24811,lamm1241-westp,louse_in_hair,kar kas:i,k a r _ k a sː i,,datasets_westernpantar_tsv
 24812,lamm1241-westp,louse_eggs,lid:iŋ,l i dː i ŋ,,datasets_westernpantar_tsv
@@ -25151,8 +25129,8 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 25149,lamm1241-westp,tall,butaŋ,b u t a ŋ,,datasets_westernpantar_tsv
 25150,lamm1241-westp,short,tuk:a,t u kː a,,datasets_westernpantar_tsv
 25151,lamm1241-westp,narrow,tapugi,t a p u g i,,datasets_westernpantar_tsv
-25152,lamm1241-westp,to_chase_away_to_expel,-but:ir,_ b u tː i r,,datasets_westernpantar_tsv
-25153,lamm1241-westp,to_chase_away_to_expel,-lu,_ l u,,datasets_westernpantar_tsv
+25152,lamm1241-westp,to_shoo_to_chase_away_to_send_away,-but:ir,_ b u tː i r,,datasets_westernpantar_tsv
+25153,lamm1241-westp,to_shoo_to_chase_away_to_send_away,-lu,_ l u,,datasets_westernpantar_tsv
 25154,rett1240,sky,buraŋ,b u r a ŋ,buraŋ=mi means  'in the sky',datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25155,rett1240,sun,vid ge:ŋ,v i d _ g eː ŋ,lit. 'eye of the day',datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25156,rett1240,moon,ʔuru,ʔ u r u,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
@@ -25276,7 +25254,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 25274,rett1240,corn_maize,batal,b a t a l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25275,rett1240,cooked_corn,batar aʤi,b a t a r _ a dʒ i,complete corn',datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25276,rett1240,coconut,va:t,v aː t,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
-25277,rett1240,gwang,ʔaŋkal ɛʤɛl,ʔ a ŋ k a l _ ɛ dʒ ɛ l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
+25277,rett1240,gebang_palm,ʔaŋkal ɛʤɛl,ʔ a ŋ k a l _ ɛ dʒ ɛ l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25278,rett1240,lontar_palm,kɔli ɛʤɛl,k ɔ l i _ ɛ dʒ ɛ l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25279,rett1240,sugar_palm,bur ɛʤɛl,b u r _ ɛ dʒ ɛ l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25280,rett1240,marungga,mato:luŋ,m a t oː l u ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
@@ -25347,7 +25325,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 25345,rett1240,ringworm,katu,k a t u,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25346,rett1240,scabies,kɔt,k ɔ t,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25347,rett1240,tinea,manau,m a n au,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
-25348,rett1240,feverish,kamundil,k a m u n d i l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
+25348,rett1240,fever,kamundil,k a m u n d i l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25349,rett1240,conjunctivitis,bɛka,b ɛ k a,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25350,rett1240,cold_influenza,ho:,h oː,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25351,rett1240,person,nama,n a m a,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
@@ -25435,7 +25413,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 25433,rett1240,mosquito,kiŋ,k i ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25434,rett1240,ant,nalikiŋ,n a l i k i ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25435,rett1240,grasshopper,kame:t,k a m eː t,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
-25436,rett1240,locust,dalabuŋ,d a l a b u ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
+25436,rett1240,rice_ear_bug,dalabuŋ,d a l a b u ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25437,rett1240,spider,paka daraŋ,p a k a _ d a r a ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25438,rett1240,louse_in_hair,ɓa:ŋ,ɓ aː ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25439,rett1240,louse_eggs,ɓa:ŋ diliŋ,ɓ aː ŋ _ d i l i ŋ,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
@@ -25673,7 +25651,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 25671,rett1240,older_brother,kaku ɓa:l,k a k u _ ɓ aː l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25672,rett1240,older_sister,kaku hial ɓa:l,k a k u _ h ia l _ ɓ aː l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25673,rett1240,sister,kaku hial,k a k u _ h ia l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
-25674,rett1240,womans_cross_cousin,ɓiana,ɓ ia n a,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25675,rett1240,womans_younger_sister,ɓiana hial,ɓ ia n a _ h ia l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25676,rett1240,younger_brother,kuna amu ʔɔl,k u n a _ a m u _ ʔ ɔ l,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
 25677,rett1240,brother,kuna amu,k u n a _ a m u,,datasets_retajw2016wordlist2016checkedbyjiang_tsv
@@ -25895,7 +25872,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 25893,sawi1256,corn_maize,pata,p a t a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25894,sawi1256,cooked_corn,pata 'buko 'ma:na,p a t a _ b u k o _ m aː n a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25895,sawi1256,coconut,wa'ta,w a t a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
-25896,sawi1256,gwang,akala 'jati,a k a l a _ j a t i,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
+25896,sawi1256,gebang_palm,akala 'jati,a k a l a _ j a t i,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25897,sawi1256,lontar_palm,balam 'puni,b a l a m _ p u n i,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25898,sawi1256,sugar_palm,akala,a k a l a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25899,sawi1256,marungga,kulaka,k u l a k a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
@@ -25964,7 +25941,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 25962,sawi1256,ringworm,pita'jati,p i t a j a t i,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25963,sawi1256,scabies,mita,m i t a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25964,sawi1256,tinea,puni'mɛnana,p u n i m ɛ n a n a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
-25965,sawi1256,feverish,gəsa'ranta,g ə s a r a n t a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
+25965,sawi1256,fever,gəsa'ranta,g ə s a r a n t a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25966,sawi1256,conjunctivitis,aniri 'bika,a n i r i _ b i k a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25967,sawi1256,cold_influenza,era 'iti,e r a _ i t i,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 25968,sawi1256,person,a'nina,a n i n a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
@@ -26048,7 +26025,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26046,sawi1256,mosquito,ka'wɛna,k a w ɛ n a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26047,sawi1256,ant,sə'kila,s ə k i l a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26048,sawi1256,grasshopper,a'kiki,a k i k i,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
-26049,sawi1256,locust,sama,s a m a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
+26049,sawi1256,rice_ear_bug,sama,s a m a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26050,sawi1256,spider,taŋkə'bɛ,t a ŋ k ə b ɛ,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26051,sawi1256,louse_in_hair,inu'ana,i n u a n a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26052,sawi1256,louse_eggs,inu'nana 'no sala,i n u n a n a _ n o _ s a l a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
@@ -26268,7 +26245,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26266,sawi1256,older_brother,ni'nana imialara,n i n a n a _ i m ia l a r a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26267,sawi1256,older_sister,ni'nana 'jalara,n i n a n a _ j a l a r a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26268,sawi1256,sister,nili'we,n i l i w e,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
-26269,sawi1256,womans_cross_cousin,ni'nana,n i n a n a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26270,sawi1256,womans_younger_sister,nija,n ij a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26271,sawi1256,younger_brother,nipa,n i p a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
 26272,sawi1256,brother,ni'nana,n i n a n a,,datasets_swthc20151026sawilawordlistcheckedbymkandjiangjune2017_tsv
@@ -26482,7 +26458,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26480,tetu1245-vique,corn_maize,batar,b a t a r,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26481,tetu1245-vique,cooked_corn,batar daʔan,b a t a r _ d aʔa n,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26482,tetu1245-vique,coconut,nu:,n uː,,datasets_tdtterikviquequemk20160105wordlist_tsv
-26483,tetu1245-vique,gwang,nu: talin nurak,n uː _ t a l i n _ n u r a k,,datasets_tdtterikviquequemk20160105wordlist_tsv
+26483,tetu1245-vique,gebang_palm,nu: talin nurak,n uː _ t a l i n _ n u r a k,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26484,tetu1245-vique,lontar_palm,ai tali,ai _ t a l i,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26485,tetu1245-vique,sugar_palm,tua,t ua,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26486,tetu1245-vique,marungga,maut,m au t,,datasets_tdtterikviquequemk20160105wordlist_tsv
@@ -26552,7 +26528,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26550,tetu1245-vique,ringworm,ka'hanok,k a h a n o k,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26551,tetu1245-vique,scabies,Ɂaba,ʔ a b a,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26552,tetu1245-vique,tinea,kahanok,k a h a n o k,,datasets_tdtterikviquequemk20160105wordlist_tsv
-26553,tetu1245-vique,feverish,isi ma'lirin,i s i _ m a l i r i n,,datasets_tdtterikviquequemk20160105wordlist_tsv
+26553,tetu1245-vique,fever,isi ma'lirin,i s i _ m a l i r i n,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26554,tetu1245-vique,conjunctivitis,mata 'moras,m a t a _ m o r a s,"moras=hurt, sick",datasets_tdtterikviquequemk20160105wordlist_tsv
 26555,tetu1245-vique,cold_influenza,fani,f a n i,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26556,tetu1245-vique,person,ɛma,ɛ m a,,datasets_tdtterikviquequemk20160105wordlist_tsv
@@ -26640,7 +26616,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26638,tetu1245-vique,mosquito,susuk,s u s u k,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26639,tetu1245-vique,ant,nɛhɛk,n ɛ h ɛ k,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26640,tetu1245-vique,grasshopper,ka'laek,k a l a e k,,datasets_tdtterikviquequemk20160105wordlist_tsv
-26641,tetu1245-vique,locust,ka'laek,k a l a e k,,datasets_tdtterikviquequemk20160105wordlist_tsv
+26641,tetu1245-vique,rice_ear_bug,ka'laek,k a l a e k,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26642,tetu1245-vique,spider,laba'dain,l a b a d ai n,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26643,tetu1245-vique,louse_in_hair,utu,u t u,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26644,tetu1245-vique,louse_eggs,utu tolun,u t u _ t o l u n,,datasets_tdtterikviquequemk20160105wordlist_tsv
@@ -26864,7 +26840,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26862,tetu1245-vique,older_brother,mau 'boɁot,m au _ b oʔo t,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26863,tetu1245-vique,older_sister,bi 'boɁot,b i _ b oʔo t,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26864,tetu1245-vique,sister,bi:,b iː,,datasets_tdtterikviquequemk20160105wordlist_tsv
-26865,tetu1245-vique,womans_cross_cousin,feto 'malun,f e t o _ m a l u n,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26866,tetu1245-vique,womans_younger_sister,ali 'fɛto,a l i _ f ɛ t o,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26867,tetu1245-vique,younger_brother,ali 'mane,a l i _ m a n e,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26868,tetu1245-vique,brother,mau,m au,,datasets_tdtterikviquequemk20160105wordlist_tsv
@@ -26981,7 +26956,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 26979,tetu1245-vique,short,(ai) badak,b a d a k,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26980,tetu1245-vique,short,(ai) badak,ai _ b a d a k,,datasets_tdtterikviquequemk20160105wordlist_tsv
 26981,tetu1245-vique,narrow,klɔ:t,k l ɔː t,,datasets_tdtterikviquequemk20160105wordlist_tsv
-26982,tetu1245-vique,to_chase_away_to_expel,teɁur,t e ʔ u r,to shoo away (verbal),datasets_tdtterikviquequemk20160105wordlist_tsv
+26982,tetu1245-vique,to_shoo_to_chase_away_to_send_away,teɁur,t e ʔ u r,to shoo away (verbal),datasets_tdtterikviquequemk20160105wordlist_tsv
 26983,sika1262-tanai,sky,βula βutu,β u l a _ β u t u,,datasets_Sika_Tana_Ai_tsv
 26984,sika1262-tanai,sun,ləro,l ə r o,,datasets_Sika_Tana_Ai_tsv
 26985,sika1262-tanai,moon,βula-ŋ,β u l a _ ŋ,,datasets_Sika_Tana_Ai_tsv
@@ -27380,7 +27355,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 27378,tetu1245-suai,corn_maize,batar,b a t a r,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27379,tetu1245-suai,cooked_corn,batar daʔan,b a t a r _ d aʔa n,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27380,tetu1245-suai,coconut,nu:,n uː,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
-27381,tetu1245-suai,gwang,nu: talin nurak,n uː _ t a l i n _ n u r a k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
+27381,tetu1245-suai,gebang_palm,nu: talin nurak,n uː _ t a l i n _ n u r a k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27382,tetu1245-suai,lontar_palm,ai tali,ai _ t a l i,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27383,tetu1245-suai,sugar_palm,tua,t ua,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27384,tetu1245-suai,marungga,maut,m au t,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
@@ -27450,7 +27425,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 27448,tetu1245-suai,ringworm,ka'hanok,k a h a n o k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27449,tetu1245-suai,scabies,isi'kmasin,i s i k m a s i n,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27450,tetu1245-suai,tinea,kahanok,k a h a n o k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
-27451,tetu1245-suai,feverish,isi ma'lirin,i s i _ m a l i r i n,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
+27451,tetu1245-suai,fever,isi ma'lirin,i s i _ m a l i r i n,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27452,tetu1245-suai,conjunctivitis,mata 'moras,m a t a _ m o r a s,"moras=hurt, sick",datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27453,tetu1245-suai,cold_influenza,fani,f a n i,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27454,tetu1245-suai,person,ɛma,ɛ m a,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
@@ -27538,7 +27513,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 27536,tetu1245-suai,mosquito,susuk,s u s u k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27537,tetu1245-suai,ant,nɛhɛk,n ɛ h ɛ k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27538,tetu1245-suai,grasshopper,ka'laek,k a l a e k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
-27539,tetu1245-suai,locust,ka'laek,k a l a e k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
+27539,tetu1245-suai,rice_ear_bug,ka'laek,k a l a e k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27540,tetu1245-suai,spider,laba'dain,l a b a d ai n,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27541,tetu1245-suai,louse_in_hair,utu,u t u,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27542,tetu1245-suai,louse_eggs,utu tolun,u t u _ t o l u n,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
@@ -27761,7 +27736,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 27759,tetu1245-suai,older_brother,mau 'boɁot,m au _ b oʔo t,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27760,tetu1245-suai,older_sister,bi 'boɁot,b i _ b oʔo t,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27761,tetu1245-suai,sister,bi:,b iː,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
-27762,tetu1245-suai,womans_cross_cousin,feto 'malun,f e t o _ m a l u n,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27763,tetu1245-suai,womans_younger_sister,ali 'fɛto,a l i _ f ɛ t o,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27764,tetu1245-suai,younger_brother,ali 'mane,a l i _ m a n e,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27765,tetu1245-suai,brother,mau,m au,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
@@ -27878,7 +27852,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 27876,tetu1245-suai,short,(ai) badak,b a d a k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27877,tetu1245-suai,short,(ai) badak,ai _ b a d a k,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27878,tetu1245-suai,narrow,klɔ:t,k l ɔː t,,datasets_tdttetunteriksuaimk20160105wordlist_tsv
-27879,tetu1245-suai,to_chase_away_to_expel,teɁur,t e ʔ u r,to shoo away (verbal),datasets_tdttetunteriksuaimk20160105wordlist_tsv
+27879,tetu1245-suai,to_shoo_to_chase_away_to_send_away,teɁur,t e ʔ u r,to shoo away (verbal),datasets_tdttetunteriksuaimk20160105wordlist_tsv
 27880,atim1239,sky,ahaliŋtama,a h a l i ŋ t a m a,,datasets_abzatimelangas2010wordlist_tsv
 27881,atim1239,sun,wari,w a r i,,datasets_abzatimelangas2010wordlist_tsv
 27882,atim1239,moon,ije,ij e,,datasets_abzatimelangas2010wordlist_tsv
@@ -28007,7 +27981,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 28005,atim1239,sweat,tamuriŋ,t a m u r i ŋ,,datasets_abzatimelangas2010wordlist_tsv
 28006,atim1239,tear,tieŋ nau,t ie ŋ _ n au,,datasets_abzatimelangas2010wordlist_tsv
 28007,atim1239,blood,we,w e,,datasets_abzatimelangas2010wordlist_tsv
-28008,atim1239,tendon,teai,t e ai,,datasets_abzatimelangas2010wordlist_tsv
+28008,atim1239,vein,teai,t e ai,,datasets_abzatimelangas2010wordlist_tsv
 28009,atim1239,heart,tebikamaŋ,t e b i k a m a ŋ,,datasets_abzatimelangas2010wordlist_tsv
 28010,atim1239,liver,tomi,t o m i,,datasets_abzatimelangas2010wordlist_tsv
 28011,atim1239,guts,tatebak,t a t e b a k,,datasets_abzatimelangas2010wordlist_tsv
@@ -28042,7 +28016,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 28040,atim1239,ringworm,kaˈfisiŋ,k a f i s i ŋ,,datasets_abzatimelangas2010wordlist_tsv
 28041,atim1239,scabies,kaˈfisiŋ,k a f i s i ŋ,,datasets_abzatimelangas2010wordlist_tsv
 28042,atim1239,tinea,kafisiŋ,k a f i s i ŋ,,datasets_abzatimelangas2010wordlist_tsv
-28043,atim1239,feverish,kamura,k a m u r a,,datasets_abzatimelangas2010wordlist_tsv
+28043,atim1239,fever,kamura,k a m u r a,,datasets_abzatimelangas2010wordlist_tsv
 28044,atim1239,conjunctivitis,ˈbeki,b e k i,,datasets_abzatimelangas2010wordlist_tsv
 28045,atim1239,cold_influenza,pasiŋ,p a s i ŋ,,datasets_abzatimelangas2010wordlist_tsv
 28046,atim1239,person,ama,a m a,amakaŋ ‘human being’,datasets_abzatimelangas2010wordlist_tsv
@@ -28308,7 +28282,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 28306,atim1239,grandmother,nekuta,n e k u t a,,datasets_abzatimelangas2010wordlist_tsv
 28307,atim1239,grandfather,netuŋ,n e t u ŋ,,datasets_abzatimelangas2010wordlist_tsv
 28308,atim1239,grandchild,ne-rakbeka,n e _ r a k b e k a,,datasets_abzatimelangas2010wordlist_tsv
-28309,atim1239,to_chase_away_to_expel,ha-loi,h a _ l oi,,datasets_abzatimelangas2010wordlist_tsv
+28309,atim1239,to_shoo_to_chase_away_to_send_away,ha-loi,h a _ l oi,,datasets_abzatimelangas2010wordlist_tsv
 28310,kula1280-lanto,sky,a’pəŋ’ge,a p ə ŋ g e,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28311,kula1280-lanto,sun,wad,w a d,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28312,kula1280-lanto,moon,pila’waka,p i l a w a k a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
@@ -28420,7 +28394,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 28418,kula1280-lanto,corn_maize,pə’te,p ə t e,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28419,kula1280-lanto,cooked_corn,pə’tema,p ə t e m a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28420,kula1280-lanto,coconut,’wata,w a t a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
-28421,kula1280-lanto,gwang,’goko,g o k o,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
+28421,kula1280-lanto,gebang_palm,’goko,g o k o,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28422,kula1280-lanto,lontar_palm,’goko,g o k o,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28423,kula1280-lanto,sugar_palm,’goko,g o k o,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28424,kula1280-lanto,marungga,ku’laka,k u l a k a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
@@ -28490,7 +28464,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 28488,kula1280-lanto,wound,’jat,j a t,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28489,kula1280-lanto,ringworm,’kəs,k ə s,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28490,kula1280-lanto,tinea,bə’luba,b ə l u b a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
-28491,kula1280-lanto,feverish,’ʤima,dʒ i m a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
+28491,kula1280-lanto,fever,’ʤima,dʒ i m a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28492,kula1280-lanto,conjunctivitis,ani’kua ʤi’ka,a n i k ua _ dʒ i k a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28493,kula1280-lanto,cold_influenza,ma’ maka,m a _ m a k a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28494,kula1280-lanto,person,’aniŋ,a n i ŋ,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
@@ -28791,7 +28765,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 28789,kula1280-lanto,older_brother,ŋə’nana ’mala,ŋ ə n a n a _ m a l a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28790,kula1280-lanto,older_sister,ŋə’nana ’jala,ŋ ə n a n a _ j a l a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28791,kula1280-lanto,sister,ŋalu’we ’jala,ŋ a l u w e _ j a l a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
-28792,kula1280-lanto,womans_cross_cousin,ŋə’kaku,ŋ ə k a k u,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28793,kula1280-lanto,womans_younger_sister,ŋaja kə’sila,ŋ aj a _ k ə s i l a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28794,kula1280-lanto,younger_brother,ŋəkak ’mala,ŋ ə k a k _ m a l a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
 28795,kula1280-lanto,brother,ŋədəŋ ’mala,ŋ ə d ə ŋ _ m a l a,,datasets_tpghcfullwordlistkulatranscribedbymk2june2017_tsv
@@ -29075,7 +29048,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 29073,lama1277-lewoi,ringworm,ˈaho iluŋ,a h o _ i l u ŋ,,datasets_lmhlimk20150524wordlist_tsv
 29074,lama1277-lewoi,scabies,kəˈbuʔu,k ə b uʔu,,datasets_lmhlimk20150524wordlist_tsv
 29075,lama1277-lewoi,tinea,ˈmau,m au,,datasets_lmhlimk20150524wordlist_tsv
-29076,lama1277-lewoi,feverish,bəˈriŋin,b ə r i ŋ i n,,datasets_lmhlimk20150524wordlist_tsv
+29076,lama1277-lewoi,fever,bəˈriŋin,b ə r i ŋ i n,,datasets_lmhlimk20150524wordlist_tsv
 29077,lama1277-lewoi,conjunctivitis,mata ˈmeʔa,m a t a _ m e ʔ a,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_lmhlimk20150524wordlist_tsv
 29078,lama1277-lewoi,cold_influenza,dapu ˈmekə,d a p u _ m e k ə,,datasets_lmhlimk20150524wordlist_tsv
 29079,lama1277-lewoi,person,ata dikəˈʔəŋ,a t a _ d i k ə ʔ ə ŋ,,datasets_lmhlimk20150524wordlist_tsv
@@ -29160,7 +29133,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 29158,lama1277-lewoi,mosquito,kəˈnəpuŋ,k ə n ə p u ŋ,,datasets_lmhlimk20150524wordlist_tsv
 29159,lama1277-lewoi,ant,təˈmihe,t ə m i h e,,datasets_lmhlimk20150524wordlist_tsv
 29160,lama1277-lewoi,grasshopper,kəˈtoko,k ə t o k o,,datasets_lmhlimk20150524wordlist_tsv
-29161,lama1277-lewoi,locust,kəˈmeruŋ,k ə m e r u ŋ,,datasets_lmhlimk20150524wordlist_tsv
+29161,lama1277-lewoi,rice_ear_bug,kəˈmeruŋ,k ə m e r u ŋ,,datasets_lmhlimk20150524wordlist_tsv
 29162,lama1277-lewoi,spider,ˈkɔbɔ,k ɔ b ɔ,,datasets_lmhlimk20150524wordlist_tsv
 29163,lama1277-lewoi,louse_in_hair,ˈkuto,k u t o,,datasets_lmhlimk20150524wordlist_tsv
 29164,lama1277-lewoi,louse_eggs,kuto ˈtəluŋ,k u t o _ t ə l u ŋ,,datasets_lmhlimk20150524wordlist_tsv
@@ -29394,8 +29367,6 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 29392,lama1277-lewoi,sister,aʔe,a ʔ e,ariʔ younɡer siblinɡ;,datasets_lmhlimk20150524wordlist_tsv
 29393,lama1277-lewoi,sister,ariʔ (arian),a r i ʔ,ariʔ younɡer siblinɡ; ,datasets_lmhlimk20150524wordlist_tsv
 29394,lama1277-lewoi,sister,ariʔ (arian),a r i ʔ _ a r ia n,ariʔ younɡer siblinɡ; ,datasets_lmhlimk20150524wordlist_tsv
-29395,lama1277-lewoi,womans_cross_cousin,ine ame,i n e _ a m e,ine ame (m); ,datasets_lmhlimk20150524wordlist_tsv
-29396,lama1277-lewoi,womans_cross_cousin,mɑhɑn,m ɑ h ɑ n,mɑhɑn (f); ,datasets_lmhlimk20150524wordlist_tsv
 29397,lama1277-lewoi,womans_younger_sister,ariʔ (arian),a r i ʔ,,datasets_lmhlimk20150524wordlist_tsv
 29398,lama1277-lewoi,womans_younger_sister,ariʔ (arian),a r i ʔ _ a r ia n,,datasets_lmhlimk20150524wordlist_tsv
 29399,lama1277-lewoi,younger_brother,ariʔ,a r i ʔ,,datasets_lmhlimk20150524wordlist_tsv
@@ -29500,7 +29471,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 29498,lama1277-lewoi,tall,bəˈlola,b ə l o l a,,datasets_lmhlimk20150524wordlist_tsv
 29499,lama1277-lewoi,short,ˈkənu,k ə n u,,datasets_lmhlimk20150524wordlist_tsv
 29500,lama1277-lewoi,narrow,ˈkənɛʔ,k ə n ɛ ʔ,təkəl for clothes; ,datasets_lmhlimk20150524wordlist_tsv
-29501,lama1277-lewoi,to_chase_away_to_expel,ˈtəruŋ,t ə r u ŋ,,datasets_lmhlimk20150524wordlist_tsv
+29501,lama1277-lewoi,to_shoo_to_chase_away_to_send_away,ˈtəruŋ,t ə r u ŋ,,datasets_lmhlimk20150524wordlist_tsv
 29502,kama1365,sky,deliŋ,d e l i ŋ,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29503,kama1365,sun,wɑtɪ,w ɑ t ɪ,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29504,kama1365,moon,wud,w u d,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
@@ -29698,7 +29669,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 29696,kama1365,ringworm,bila basoŋ,b i l a _ b a s o ŋ,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29697,kama1365,scabies,bila basoŋ,b i l a _ b a s o ŋ,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29698,kama1365,tinea,bila-bila,b i l a _ b i l a,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
-29699,kama1365,feverish,beba,b e b a,hot with fever,datasets_woi2016wordlistkamangatoitaafulllist_tsv
+29699,kama1365,fever,beba,b e b a,hot with fever,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29700,kama1365,conjunctivitis,kalenta,k a l e n t a,Ketika mata pedih dan merah kemudian ketika bangun tidur mata sulit dibuka dan kadang-kadang keluar cairan kuning.,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29701,kama1365,cold_influenza,aːlei,aː l ei,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 29702,kama1365,person,almakaŋ,a l m a k a ŋ,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
@@ -30120,7 +30091,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 30118,kama1365,tall,lapaŋ,l a p a ŋ,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 30119,kama1365,short,maruk,m a r u k,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 30120,kama1365,narrow,katina,k a t i n a,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
-30121,kama1365,to_chase_away_to_expel,-surut,_ s u r u t,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
+30121,kama1365,to_shoo_to_chase_away_to_send_away,-surut,_ s u r u t,,datasets_woi2016wordlistkamangatoitaafulllist_tsv
 30122,p-aust1307-abvd,sky,*laŋiC,l a ŋ i,,datasets_ABVD
 30123,p-aust1307-abvd,moon,* bulaN,_ b u l a,,datasets_ABVD
 30124,p-aust1307-abvd,moon,*qiNas,q i a s,,datasets_ABVD
@@ -31475,7 +31446,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 31473,p-mala1545-acd,narrow,*iput,i p u t,,datasets_ACD
 31474,p-mala1545-acd,narrow,*kiput,k i p u t,,datasets_ACD
 31475,p-mala1545-acd,narrow,*kipit,k i p i t,,datasets_ACD
-31476,p-mala1545-acd,to_chase_away_to_expel,*buRaw,b u a w,,datasets_ACD
+31476,p-mala1545-acd,to_shoo_to_chase_away_to_send_away,*buRaw,b u a w,,datasets_ACD
 31477,p-alor1249,sun,*wadi,w a d i,,datasets_greenbook_proto_AP_tsv
 31478,p-alor1249,moon,*wur,w u r,,datasets_greenbook_proto_AP_tsv
 31479,p-alor1249,star,*jibV,j i b,,datasets_greenbook_proto_AP_tsv
@@ -31647,7 +31618,7 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 31645,p-alor1249,grandchild,"*tam(a, u)",t a m,This is a reciprocal term. The reflexes in the modern languages denote either; ,datasets_greenbook_proto_AP_tsv
 31646,p-alor1249,grandchild,"*tam(a, u)",t a m a _ u,This is a reciprocal term. The reflexes in the modern languages denote either; ,datasets_greenbook_proto_AP_tsv
 31647,p-alor1249,short,*tukV,t u k,short' (general),datasets_greenbook_proto_AP_tsv
-31648,p-alor1249,to_chase_away_to_expel,*tiara,t ia r a,,datasets_greenbook_proto_AP_tsv
+31648,p-alor1249,to_shoo_to_chase_away_to_send_away,*tiara,t ia r a,,datasets_greenbook_proto_AP_tsv
 31649,p-timo1261,sun,"*wad(i, u)",w a d,,datasets_greenbook_proto_TAP_tsv
 31650,p-timo1261,sun,"*wad(i, u)",w a d i _ u,,datasets_greenbook_proto_TAP_tsv
 31651,p-timo1261,moon,*hur(u),h u r,,datasets_greenbook_proto_TAP_tsv
