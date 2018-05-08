@@ -203,7 +203,7 @@ def clade_codes(glottolog_language):
     return all_codes
 
 
-def lexirumah_glottocodes(path=None):
+def lexirumah_glottocodes(repository=None):
     """Generate a dict associating LexiRumah IDs with Glottocodes
 
     Returns
@@ -211,13 +211,15 @@ def lexirumah_glottocodes(path=None):
     Dict of Str: Str
 
     """
-    if path is None:
-        path = (Path(__file__).parent.parent /
+    if repository is None:
+        repository = (Path(__file__).parent.parent /
                 "cldf" / "Wordlist-metadata.json")
-    return get_dataset(path)["LanguageTable"]
+    return {
+        lect["ID"]: lect["Glottocode"]
+        for lect in get_dataset(repository)["LanguageTable"].iterdicts()}
 
 
-def glottolog_clade(iso_or_glottocode):
+def glottolog_clade(iso_or_glottocode, repository=None):
     """List all LexiRumah lects belonging to a Glottolog clade.
 
     Return a list of all LexiRumah lect IDs that belong to a glottolog clade
@@ -241,4 +243,7 @@ def glottolog_clade(iso_or_glottocode):
         tree = newick.loads(lect.newick)[0]
         children_codes = {re.findall("\[[a-z]{4}[0-9]{4}\]", t.name)[0][1:-1]
                           for t in tree.walk()}
-    return children_codes
+    return {
+        id
+        for id, glottocode in lexirumah_glottocodes(repository).items()
+        if glottocode in children_codes}
