@@ -16,10 +16,8 @@ from urllib.error import HTTPError
 from urllib.request import urlopen
 
 from pyclpa.base import Sound
-from segment import tokenize_clpa, CLPA
 
 import newick
-from geo_lookup import get_region
 from pybtex.database import BibliographyData, Entry
 try:
     import pyglottolog
@@ -27,6 +25,12 @@ try:
 except ImportError:
     local_glottolog = None
 
+from .geo_lookup import get_region
+from .segment import tokenize_clpa, CLPA
+
+# It would be good to keep this more configurable, and in one place in pylexirumah.
+repository = (Path(__file__).parent.parent /
+              "cldf" / "Wordlist-metadata.json")
 
 REPLACE = {
     " ": "_",
@@ -82,7 +86,7 @@ def resolve_brackets(string):
         yield string
 
 
-def get_dataset(fname):
+def get_dataset(fname=None):
     """Load a CLDF dataset.
 
     Load the file as `json` CLDF metadata description file, or as metadata-free
@@ -102,7 +106,11 @@ def get_dataset(fname):
     -------
     pycldf.Dataset
     """
-    fname = Path(fname)
+    if fname is None:
+        fname = (Path(__file__).parent.parent /
+                "cldf" / "Wordlist-metadata.json")
+    else:
+        fname = Path(fname)
     if not fname.exists():
         raise FileNotFoundError(
             '{:} does not exist'.format(fname))
@@ -203,7 +211,7 @@ def clade_codes(glottolog_language):
     return all_codes
 
 
-def lexirumah_glottocodes(repository=None):
+def lexirumah_glottocodes(dataset=None):
     """Generate a dict associating LexiRumah IDs with Glottocodes
 
     Returns
@@ -211,15 +219,14 @@ def lexirumah_glottocodes(repository=None):
     Dict of Str: Str
 
     """
-    if repository is None:
-        repository = (Path(__file__).parent.parent /
-                "cldf" / "Wordlist-metadata.json")
+    if dataset is None:
+        dataset = get_dataset()
     return {
         lect["ID"]: lect["Glottocode"]
-        for lect in get_dataset(repository)["LanguageTable"].iterdicts()}
+        for lect in dataset["LanguageTable"].iterdicts()}
 
 
-def glottolog_clade(iso_or_glottocode, repository=None):
+def glottolog_clade(iso_or_glottocode, dataset=None):
     """List all LexiRumah lects belonging to a Glottolog clade.
 
     Return a list of all LexiRumah lect IDs that belong to a glottolog clade
@@ -236,6 +243,9 @@ def glottolog_clade(iso_or_glottocode, repository=None):
     List of str
 
     """
+    if dataset is None:
+        dataset = get_dataset()
+
     lect = languoid(iso_or_glottocode)
     try:
         children_codes = clade_codes(lect)
@@ -245,5 +255,11 @@ def glottolog_clade(iso_or_glottocode, repository=None):
                           for t in tree.walk()}
     return {
         id
-        for id, glottocode in lexirumah_glottocodes(repository).items()
+        for id, glottocode in lexirumah_glottocodes(dataset).items()
         if glottocode in children_codes}
+
+
+def all_lects(dataset=None):
+    if dataset is None:
+        datase = get_dataset(Path(__file__).parent.parent /
+                "cldf" / "Wordlist-metadata.json")
