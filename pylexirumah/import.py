@@ -3,6 +3,7 @@
 import sys
 import argparse
 import itertools
+from collections import OrderedDict
 from pathlib import Path
 
 import xlrd
@@ -26,10 +27,12 @@ if dataset.module != 'Wordlist':
     raise ValueError(
         "This script can only import wordlist data to a CLDF Wordlist.")
 
+# Define how to find the relevant changed files
 try:
     import pygit2
     def changed_files(path):
         ...
+    raise NotImplementedError("No git support yet.")
 except ImportError:
     print("WARNING: No pygit2 module found, relying on heuristics for finding"
           " your changes.",
@@ -42,24 +45,45 @@ except ImportError:
                        reverse=True)
         return paths
 
-for file in changed_files(
-        args.directory / "5 - wordlist created from original source"):
-    if file.stem == "wordlist":
-        if file.suffix == ".xlsx":
-            rows = xlrd.open_workbook(
-                str(file)).sheet_by_name("wordlist").get_rows()
-            def value(cell):
-                return cell.value
-            break
-        elif file.suffix == ".csv":
-            rows = csvw.UnicodeReader(file.open())
-            def value(cell):
-                return cell
-            break
-        else:
+
+def read_newest_table(path, stem):
+    for file in changed_files(path):
+        if file.stem == stem:
+            if file.suffix == ".xlsx":
+                rows = xlrd.open_workbook(
+                    str(file)).sheet_by_index(0).get_rows()
+                def value(cell):
+                    return cell.value
+                return rows, value
+            elif file.suffix == ".csv":
+                rows = csvw.UnicodeReader(file.open())
+                def value(cell):
+                    return cell
+                return rows, value
             raise ValueError("Wordlist file found, but no valid file type.")
-else:
     raise ValueError("No valid wordlist file found.")
+
+
+# Load the metadata of the old languages
+languages = OrderedDict(
+    (lang["ID"], lang)
+    for lang in dataset["LanguageTable"].iterdicts())
+
+# Load the metadata of the new languages
+rows, value = read_newest_table(
+    args.directory / "4 - language metadata", "lects")
+for r, row in enumerate(rows):
+    if r == 0:
+        columns = [value(x) for x in row]
+    else:
+        lang = {c: value(v) for c, v in zip(columns, row)}
+        if lang["ID"] == "abui124-lexi":
+            # Example language, skip
+            continue
+        languages[lang["ID"]] = lang
+
+# Write all languages back to file
+dataset["LanguageTable"].write(languages.values())
 
 forms = dataset["FormTable"]
 all_rows = list(dataset["FormTable"].iterdicts())
@@ -68,6 +92,8 @@ max_id = max(row["ID"] for row in all_rows)
 copy_columns = ["Concept_ID", "Lect_ID", "Form", "Segments", "Comment"]
 table_columns = [column.name for column in forms.tableSchema.columns]
 
+rows, value = read_newest_table(
+    args.path / "5 - wordlist created from original source", "wordlist")
 for r, row in enumerate(rows):
     if r == 0:
         columns = [value(x) for x in row]
@@ -83,7 +109,7 @@ for r, row in enumerate(rows):
 
     new_entry = {c: None for c in table_columns}
     new_entry.update({c: v for c, v in zip(copy_columns, values)})
-    new_entry.update('ID': max_id + r)
+    new_entry['ID'] = max_id + r
     all_rows.append(new_entry)
 
 forms.write(all_rows)

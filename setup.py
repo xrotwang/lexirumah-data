@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pylexirumah',
-    version='0.2',
+    version='0.3',
     description='programmatic access to lexirumah-data',
     long_description='',
     classifiers=[
@@ -23,6 +23,8 @@ setup(
         'pycldf',
         'pyclpa',
         'clldutils',
+        'geopy',
+        'xlrd', # For importing from Excel files
     ],
     entry_points={
         'console_scripts': [
