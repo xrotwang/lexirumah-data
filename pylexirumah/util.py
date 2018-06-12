@@ -27,10 +27,7 @@ except ImportError:
 
 from .geo_lookup import get_region
 from .segment import tokenize_clpa, CLPA
-
-# It would be good to keep this more configurable, and in one place in pylexirumah.
-repository = (Path(__file__).parent.parent /
-              "cldf" / "Wordlist-metadata.json")
+from . import get_dataset, repository
 
 REPLACE = {
     " ": "_",
@@ -84,39 +81,6 @@ def resolve_brackets(string):
             yield form
     else:
         yield string
-
-
-def get_dataset(fname=None):
-    """Load a CLDF dataset.
-
-    Load the file as `json` CLDF metadata description file, or as metadata-free
-    dataset contained in a single csv file.
-
-    The distinction is made depending on the file extension: `.json` files are
-    loaded as metadata descriptions, all other files are matched against the
-    CLDF module specifications. Directories are checked for the presence of
-    any CLDF datasets in undefined order of the dataset types.
-
-    Parameters
-    ----------
-    fname : str or Path
-        Path to a CLDF dataset
-
-    Returns
-    -------
-    pycldf.Dataset
-    """
-    if fname is None:
-        fname = (Path(__file__).parent.parent /
-                "cldf" / "Wordlist-metadata.json")
-    else:
-        fname = Path(fname)
-    if not fname.exists():
-        raise FileNotFoundError(
-            '{:} does not exist'.format(fname))
-    if fname.suffix == '.json':
-        return Dataset.from_metadata(fname)
-    return Dataset.from_data(fname)
 
 
 def online_languoid(iso_or_glottocode):

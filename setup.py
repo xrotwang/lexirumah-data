@@ -21,8 +21,8 @@ setup(
     zip_safe=False,
     install_requires=[
         'pycldf',
-        'pyclpa',
         'clldutils',
+        'newick',
         'geopy',
         'xlrd', # For importing from Excel files
     ],
