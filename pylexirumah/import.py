@@ -58,6 +58,7 @@ def read_newest_table(path, stem):
                 return rows, value
             elif file.suffix == ".csv":
                 rows = csvw.UnicodeReader(file.open())
+                rows.__enter__()
                 def value(cell):
                     return cell
                 return rows, value
