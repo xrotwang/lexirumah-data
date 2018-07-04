@@ -46030,3 +46030,586 @@ ID,Lect_ID,Concept_ID,Form,Segments,Comment,Source
 44359,mang1405,young_people,rəba,rəba,"""young, of man""",478432
 44360,mang1405,younger_brother,ase,ase,"means ""younger sibling"" generally",478432
 44361,mang1405,younger_sibling,ase,ase,,478432
+44363,nage1237,ash,ˈaʋu,ˈaʋu,,fieldwork_nage_wordlist
+44364,nage1237,1pl_excl,ˈkami,ˈkami,,fieldwork_nage_wordlist
+44365,nage1237,1pl_incl,ˈkita,ˈkita,,fieldwork_nage_wordlist
+44366,nage1237,1sg,ˈŋaʔo,ˈŋaʔo,,fieldwork_nage_wordlist
+44367,nage1237,2pl,ˈmiu,ˈmiu,,fieldwork_nage_wordlist
+44368,nage1237,2sg_informal,ˈkau,ˈkau,,fieldwork_nage_wordlist
+44370,nage1237,3pl,ˈsiɹa,ˈsiɹa,,fieldwork_nage_wordlist
+44371,nage1237,3sg,ˈimu,ˈimu,,fieldwork_nage_wordlist
+44372,nage1237,few,saˈtʃoʔo,sa ˈtʃoʔo,SG + small; phonetically [sə'tʃoʔo],fieldwork_nage_wordlist
+44373,nage1237,above,ˈɹede,ˈɹede,"""upwards a short distance; inland""",fieldwork_nage_wordlist
+44374,nage1237,above,ˌɹedeˈʋaʋo,ˌɹede ˈʋaʋo,up.short + top,fieldwork_nage_wordlist
+44375,nage1237,above,ˈɹeta,ˈɹeta,"""upwards a longer distance; vertically up""",fieldwork_nage_wordlist
+44376,nage1237,above,ˌɹetaˈʋaʋo,ˌɹeta ˈʋaʋo,up.long + top,fieldwork_nage_wordlist
+44378,nage1237,all,ɹəˈmbu,ɹəˈmbu,"same as perfective marker ""finished/habis""",fieldwork_nage_wordlist
+44379,nage1237,and,ˈneʔe,ˈneʔe,"same as ""with""",fieldwork_nage_wordlist
+44380,nage1237,angry,ˈŋasi,ˈŋasi,,fieldwork_nage_wordlist
+44381,nage1237,angry,gəˈɹa,gəˈɹa,,fieldwork_nage_wordlist
+44382,nage1237,animal,biˈnata,biˈnata,loan,fieldwork_nage_wordlist
+44383,nage1237,ant,məˈtu,məˈtu,,fieldwork_nage_wordlist
+44384,nage1237,arm,ˈdima,ˈdima,"same as ""hand""",fieldwork_nage_wordlist
+44385,nage1237,arrow,ˌanaˈpana,ˌana ˈpana,child + shoot,fieldwork_nage_wordlist
+44386,nage1237,at,əˈna,əˈna,,fieldwork_nage_wordlist
+44387,nage1237,axe,ˈtaka,ˈtaka,,fieldwork_nage_wordlist
+44388,nage1237,back,ˈdoŋgo,ˈdoŋgo,,fieldwork_nage_wordlist
+44389,nage1237,bad,ˈleʔe,ˈleʔe,,fieldwork_nage_wordlist
+44390,nage1237,bamboo,ˈʋudu,ˈʋudu,small kind (Schizostachym blumii),fieldwork_nage_wordlist
+44391,nage1237,bamboo,pəˈɹi,pəˈɹi,medium kind (Gigantochloa verticillata),fieldwork_nage_wordlist
+44392,nage1237,bamboo,ɓəˈto,ɓəˈto,large kind (Dendrocalamus asper),fieldwork_nage_wordlist
+44393,nage1237,bamboo,ˈau,ˈau,smooth kind (Indonesian = aur),fieldwork_nage_wordlist
+44394,nage1237,banana,ˈmuku,ˈmuku,,fieldwork_nage_wordlist
+44395,nage1237,bark_of_tree,ˈluʔi,ˈluʔi,,fieldwork_nage_wordlist
+44396,nage1237,storage_house,mbo,mbo,,fieldwork_nage_wordlist
+44397,nage1237,storage_house,ˈguda,ˈguda,loan,fieldwork_nage_wordlist
+44398,nage1237,bat,ˈŋiɣi,ˈŋiɣi,,fieldwork_nage_wordlist
+44399,nage1237,bean,ˈmbue,ˈmbue,,fieldwork_nage_wordlist
+44400,nage1237,because,ˈpuʔu,ˈpuʔu,"same as ""trunk""",fieldwork_nage_wordlist
+44401,nage1237,bed,ˌodoˈeɹu,ˌodo ˈeɹu,nominalizer + sleep,fieldwork_nage_wordlist
+44402,nage1237,bedbug,ˈmatʃu,ˈmatʃu,,fieldwork_nage_wordlist
+44403,nage1237,below,ˈɹidi,ˈɹidi,"""downwards a short distance; seaward""",fieldwork_nage_wordlist
+44404,nage1237,below,ˌɹidiʋəˈna,ˌɹidi ʋəˈna,down.short + bottom,fieldwork_nage_wordlist
+44405,nage1237,below,ˈɹade,ˈɹade,"""downwards a longer distance; vertically down""",fieldwork_nage_wordlist
+44406,nage1237,below,ˌɹadeʋəˈna,ˌɹade ʋəˈna,down.long + bottom,fieldwork_nage_wordlist
+44407,nage1237,betel_nut_areca,ˈleu,ˈleu,,fieldwork_nage_wordlist
+44408,nage1237,betel_vine,ˈʋunu,ˈʋunu,"same as ""leaf""",fieldwork_nage_wordlist
+44409,nage1237,big,ˈmeɹe,ˈmeɹe,,fieldwork_nage_wordlist
+44410,nage1237,bird,ˌanaˈsi,ˌana ˈsi,child + ??,fieldwork_nage_wordlist
+44411,nage1237,bitter,ˈbaʔi,ˈbaʔi,,fieldwork_nage_wordlist
+44412,nage1237,black,ˈmite,ˈmite,,fieldwork_nage_wordlist
+44413,nage1237,blind,ˈgibe,ˈgibe,,fieldwork_nage_wordlist
+44414,nage1237,blood,la,la,,fieldwork_nage_wordlist
+44415,nage1237,blue,ŋəˈta,ŋəˈta,"same as ""green""",fieldwork_nage_wordlist
+44416,nage1237,blunt,ˈboŋo,ˈboŋo,,fieldwork_nage_wordlist
+44417,nage1237,body,təˈmbo,təˈmbo,,fieldwork_nage_wordlist
+44418,nage1237,body_hair,ˈsambe,ˈsambe,,fieldwork_nage_wordlist
+44419,nage1237,bone,ˈtoko,ˈtoko,,fieldwork_nage_wordlist
+44420,nage1237,bow,ˈʋoʔo,ˈʋoʔo,,fieldwork_nage_wordlist
+44421,nage1237,branch,ˈtala,ˈtala,,fieldwork_nage_wordlist
+44422,nage1237,breadfruit,kəˈɹaɹa,kəˈɹaɹa,suspected loan,fieldwork_nage_wordlist
+44423,nage1237,breast,ˈsusu,ˈsusu,,fieldwork_nage_wordlist
+44424,nage1237,bride_price,ˈŋaʋu,ˈŋaʋu,,fieldwork_nage_wordlist
+44425,nage1237,broom,ˈkoni,ˈkoni,,fieldwork_nage_wordlist
+44426,nage1237,brother,ˈnala,ˈnala,,fieldwork_nage_wordlist
+44428,nage1237,burden_stick,ˈɗoi,ˈɗoi,,fieldwork_nage_wordlist
+44429,nage1237,butterfly,ˈŋgake,ˈŋgake,,fieldwork_nage_wordlist
+44430,nage1237,candle,ˈlili,ˈlili,loan,fieldwork_nage_wordlist
+44431,nage1237,canoe,ˈsapa,ˈsapa,loan,fieldwork_nage_wordlist
+44432,nage1237,cassava,ˌuʋiˈai,ˌuʋi ˈai,tuber + cassava,fieldwork_nage_wordlist
+44433,nage1237,chair,kaˈdera,kaˈdera,loan,fieldwork_nage_wordlist
+44434,nage1237,cheap,ˈmura,ˈmura,loan,fieldwork_nage_wordlist
+44435,nage1237,cheek,ˈpipi,ˈpipi,,fieldwork_nage_wordlist
+44436,nage1237,chest,ˈkasa,ˈkasa,,fieldwork_nage_wordlist
+44437,nage1237,chew_betel,ʋəˈti,ʋəˈti,,fieldwork_nage_wordlist
+44438,nage1237,chicken,ˈmanu,ˈmanu,,fieldwork_nage_wordlist
+44439,nage1237,chieftain,kəˌpalaˈsuku,kəˌpala ˈsuku,head (loan) + clan (loan),fieldwork_nage_wordlist
+44440,nage1237,chieftain,ˌuduˈsuku,ˌudu ˈsuku,head + clan (loan),fieldwork_nage_wordlist
+44441,nage1237,child,ˈana,ˈana,,fieldwork_nage_wordlist
+44442,nage1237,chin,ʋəˈli,ʋəˈli,,fieldwork_nage_wordlist
+44443,nage1237,church,gəˈredʒa,gəˈredʒa,loan,fieldwork_nage_wordlist
+44444,nage1237,civet_cat,ɓəˈku,ɓəˈku,,fieldwork_nage_wordlist
+44445,nage1237,clan,ˈsuku,ˈsuku,loan,fieldwork_nage_wordlist
+44446,nage1237,claw,ˈkuŋu,ˈkuŋu,,fieldwork_nage_wordlist
+44447,nage1237,clay,ˌtanaˈpaki,ˌtana ˈpaki,earth + ??,fieldwork_nage_wordlist
+44448,nage1237,clean,bərˈsi,bərˈsi,loan,fieldwork_nage_wordlist
+44449,nage1237,clothing,pəˈkia,pəˈkia,loan,fieldwork_nage_wordlist
+44450,nage1237,cloud,ˌkuɓuˈsa,ˌkuɓu ˈsa,fog + cloud,fieldwork_nage_wordlist
+44451,nage1237,cloud,sa,sa,,fieldwork_nage_wordlist
+44452,nage1237,coconut,ˈnio,ˈnio,,fieldwork_nage_wordlist
+44453,nage1237,cold,kəˈta,kəˈta,,fieldwork_nage_wordlist
+44454,nage1237,cold_influenza,ɓəˈne,ɓəˈne,,fieldwork_nage_wordlist
+44455,nage1237,comb,ˈkeke,ˈkeke,,fieldwork_nage_wordlist
+44456,nage1237,conjunctivitis,ˌmbokoˌmataˈtolo,ˌmboko ˌmata ˈtolo,seed + eye + red,fieldwork_nage_wordlist
+44457,nage1237,cooked_corn,ˌtʃaʋaˈtaɓa,ˌtʃaʋa ˈtaɓa,corn + porridge,fieldwork_nage_wordlist
+44458,nage1237,cooked_rice,ka,ka,"same as ""to eat""",fieldwork_nage_wordlist
+44459,nage1237,cookhouse,ˈdapu,ˈdapu,loan,fieldwork_nage_wordlist
+44460,nage1237,coral_rock,ˌʋatuˈpala,ˌʋatu ˈpala,stone + coral,fieldwork_nage_wordlist
+44461,nage1237,corn_maize,ˈtʃaʋa,ˈtʃaʋa,loan,fieldwork_nage_wordlist
+44462,nage1237,correct,təˈɓe,təˈɓe,,fieldwork_nage_wordlist
+44463,nage1237,crocodile,ˈmoli,ˈmoli,,fieldwork_nage_wordlist
+44464,nage1237,cross_cousin,sakəˈndo,sa kəˈndo,"singular.clitic + ??; ""cousin"" generally, not ""cross-cousin""",fieldwork_nage_wordlist
+44465,nage1237,cross_cousin,saˈtuka,sa ˈtuka,"singular.clitic + stomach; ""cousin"" generally, not ""cross-cousin""",fieldwork_nage_wordlist
+44467,nage1237,dark,məˈɹe,məˈɹe,,fieldwork_nage_wordlist
+44468,nage1237,day,dəˈɹa,dəˈɹa,"same as ""sun""",fieldwork_nage_wordlist
+44469,nage1237,day_after_tomorrow,ˌɹuaˈmai,ˌɹua ˈmai,two + come,fieldwork_nage_wordlist
+44470,nage1237,day_before_yesterday,ˌɹuaˈndia,ˌɹua ˈndia,two + here,fieldwork_nage_wordlist
+44471,nage1237,deaf,ˈɗoka,ˈɗoka,,fieldwork_nage_wordlist
+44472,nage1237,deer,ˌlusaˈoti,ˌlusa ˈoti,"deer/goat + ??; /ˈlusa/ on its own appears to mean ""goat""",fieldwork_nage_wordlist
+44475,nage1237,difficult,ˈŋgole,ˈŋgole,,fieldwork_nage_wordlist
+44476,nage1237,digging_stick,ˈtambi,ˈtambi,"""hoe""",fieldwork_nage_wordlist
+44477,nage1237,dirty,ˈkoto,ˈkoto,loan?,fieldwork_nage_wordlist
+44478,nage1237,dog,ˈdako,ˈdako,,fieldwork_nage_wordlist
+44479,nage1237,dolphin,ˈdoɓu,ˈdoɓu,"same as ""whale""",fieldwork_nage_wordlist
+44480,nage1237,door,ʋəˈsa,ʋəˈsa,,fieldwork_nage_wordlist
+44482,nage1237,battle,ˌpapaˈlaʋa,ˌpapa ˈlaʋa,reciprocal + fight,fieldwork_nage_wordlist
+44483,nage1237,drizzle,ˌuɹaˈɹeni,ˌuɹa ˈɹeni,rain + ??,fieldwork_nage_wordlist
+44484,nage1237,dry,ˈtuʔu,ˈtuʔu,,fieldwork_nage_wordlist
+44485,nage1237,dust,ˌaʋuˈnu,ˌaʋu ˈnu,ash + smoke,fieldwork_nage_wordlist
+44486,nage1237,ear,ˈliŋa,ˈliŋa,,fieldwork_nage_wordlist
+44487,nage1237,earring,ˌantiˈanti,ˌanti ˈanti,loan,fieldwork_nage_wordlist
+44489,nage1237,earthquake,ˌəpuˈʋeo,ˌəpu ˈʋeo,earthquake + shake,fieldwork_nage_wordlist
+44490,nage1237,earthworm,ˌtaʔiˈɹati,ˌtaʔi ˈɹati,excrement + ??,fieldwork_nage_wordlist
+44491,nage1237,easy,ˈnoa,ˈnoa,,fieldwork_nage_wordlist
+44492,nage1237,egg,təˈdo,təˈdo,,fieldwork_nage_wordlist
+44493,nage1237,eight,ˌɹuaˈmbutu,ˌɹua ˈmbutu,two + four,fieldwork_nage_wordlist
+44494,nage1237,eighteen,saˌmbuduˌəsaˈɹuaˈmbutu,sa ˌmbudu ˌəsa ˈɹua ˈmbutu,singular.clitic + ten + seed + two + eight,fieldwork_nage_wordlist
+44495,nage1237,eighty,ˌmbuduˌɹuaˈmbutu,ˌmbudu ˌɹua ˈmbutu,ten + two + four,fieldwork_nage_wordlist
+44496,nage1237,eleven,saˌmbudusaəˈsa,sa ˌmbudu sa əˈsa,singular.clitic + ten + singular.clitic + seed,fieldwork_nage_wordlist
+44497,nage1237,empty,pəˈŋa,pəˈŋa,,fieldwork_nage_wordlist
+44498,nage1237,enemy,ˈmusu,ˈmusu,loan,fieldwork_nage_wordlist
+44499,nage1237,excrement,ˈtaʔi,ˈtaʔi,,fieldwork_nage_wordlist
+44500,nage1237,expensive,ʋəˈdi,ʋəˈdi,,fieldwork_nage_wordlist
+44501,nage1237,eye,ˌmbokoˈmata,ˌmboko ˈmata,seed + eye,fieldwork_nage_wordlist
+44502,nage1237,far,ˈɹeu,ˈɹeu,,fieldwork_nage_wordlist
+44503,nage1237,fat,ˈmina,ˈmina,,fieldwork_nage_wordlist
+44504,nage1237,father,əˈma,əˈma,,fieldwork_nage_wordlist
+44506,nage1237,feather,mbəˈde,mbəˈde,"same as ""feather""",fieldwork_nage_wordlist
+44507,nage1237,fence,ˈlasa,ˈlasa,,fieldwork_nage_wordlist
+44508,nage1237,fever,pəˈtu,pəˈtu,,fieldwork_nage_wordlist
+44509,nage1237,field,ˈkulu,ˈkulu,,fieldwork_nage_wordlist
+44510,nage1237,field,ʋəˈka,ʋəˈka,,fieldwork_nage_wordlist
+44511,nage1237,fifteen,saˌmbuduˌəsaˈdima,sa ˌmbudu ˌəsa ˈdima,singular.clitic + ten + seed + five,fieldwork_nage_wordlist
+44512,nage1237,fifty,ˌmbuduˈdima,ˌmbudu ˈdima,ten + five,fieldwork_nage_wordlist
+44513,nage1237,finger,ˈkaŋa,ˈkaŋa,,fieldwork_nage_wordlist
+44514,nage1237,fingernail,ˈkuŋu,ˈkuŋu,,fieldwork_nage_wordlist
+44515,nage1237,finished,ˈneɣa,ˈneɣa,used as perfective aspect marker,fieldwork_nage_wordlist
+44516,nage1237,finished,ɹəˈmbu,ɹəˈmbu,"used as perfective aspect marker; same as ""all""",fieldwork_nage_wordlist
+44517,nage1237,fire,ˈapi,ˈapi,,fieldwork_nage_wordlist
+44518,nage1237,firewood,ˌkatʃuˈapi,ˌkatʃu ˈapi,wood + fire,fieldwork_nage_wordlist
+44519,nage1237,fish,ˈika,ˈika,,fieldwork_nage_wordlist
+44520,nage1237,fish_trap,ˈsosa,ˈsosa,,fieldwork_nage_wordlist
+44521,nage1237,fishing_hook,ˈsuʔa,ˈsuʔa,,fieldwork_nage_wordlist
+44522,nage1237,fishnet,kəˈtaɹi,kəˈtaɹi,suspected loan,fieldwork_nage_wordlist
+44524,nage1237,five,ˌəsaˈdima,ˌəsa ˈdima,seed + five,fieldwork_nage_wordlist
+44525,nage1237,flat,ˈndena,ˈndena,,fieldwork_nage_wordlist
+44526,nage1237,flea,məˈda,məˈda,,fieldwork_nage_wordlist
+44527,nage1237,meat,ˈlui,ˈlui,,fieldwork_nage_wordlist
+44528,nage1237,floor,ˈlante,ˈlante,loan,fieldwork_nage_wordlist
+44529,nage1237,flower,ˈʋoŋa,ˈʋoŋa,,fieldwork_nage_wordlist
+44530,nage1237,fly,ˈlade,ˈlade,,fieldwork_nage_wordlist
+44532,nage1237,foam,ˈʋoɹa,ˈʋoɹa,,fieldwork_nage_wordlist
+44533,nage1237,fog,ˈkuɓu,ˈkuɓu,,fieldwork_nage_wordlist
+44534,nage1237,foot,ˈaʔi,ˈaʔi,,fieldwork_nage_wordlist
+44536,nage1237,forehead,ˈnia,ˈnia,,fieldwork_nage_wordlist
+44537,nage1237,forest,ˈŋgole,ˈŋgole,,fieldwork_nage_wordlist
+44538,nage1237,forest,ləˈʋo,ləˈʋo,,fieldwork_nage_wordlist
+44539,nage1237,forest,ˌkatʃuˈmeɹe,ˌkatʃu ˈmeɹe,wood + large,fieldwork_nage_wordlist
+44540,nage1237,forest,ˈnduʔa,ˈnduʔa,"forest on top of a mountain, high forests",fieldwork_nage_wordlist
+44541,nage1237,forty,ˌmbuduˈʋutu,ˌmbudu ˈʋutu,ten + four,fieldwork_nage_wordlist
+44542,nage1237,four,ˌəsaˈʋutu,ˌəsa ˈʋutu,seed + four,fieldwork_nage_wordlist
+44543,nage1237,fourteen,saˌmbuduˌəsaˈʋutu,sa ˌmbudu ˌəsa ˈʋutu,singular.clitic + ten + seed + four,fieldwork_nage_wordlist
+44545,nage1237,friend,ˌodoˈimu,ˌodo ˈimu,nominalizer + 3SG,fieldwork_nage_wordlist
+44546,nage1237,frog,ˈpake,ˈpake,,fieldwork_nage_wordlist
+44547,nage1237,fruit,ˈmboko,ˈmboko,"also ""seed/nut""",fieldwork_nage_wordlist
+44548,nage1237,full,mbəˈnu,mbəˈnu,,fieldwork_nage_wordlist
+44549,nage1237,garden,ˈuma,ˈuma,,fieldwork_nage_wordlist
+44550,nage1237,gebang_palm,ˈmbolo,ˈmbolo,,fieldwork_nage_wordlist
+44551,nage1237,God,ˈŋgaʔe,ˈŋgaʔe,,fieldwork_nage_wordlist
+44552,nage1237,good,ˈpaʋe,ˈpaʋe,,fieldwork_nage_wordlist
+44554,nage1237,grandchild,əˈbu,əˈbu,,fieldwork_nage_wordlist
+44555,nage1237,grandfather,əˈbu,əˈbu,,fieldwork_nage_wordlist
+44556,nage1237,grandmother,əˈbu,əˈbu,,fieldwork_nage_wordlist
+44557,nage1237,grass,ˈkulu,ˈkulu,,fieldwork_nage_wordlist
+44558,nage1237,grasshopper,ˈʋaŋga,ˈʋaŋga,,fieldwork_nage_wordlist
+44559,nage1237,gravel,ˌmbokoˈʋatu,ˌmboko ˈʋatu,seed + rock,fieldwork_nage_wordlist
+44560,nage1237,green,ŋəˈta,ŋəˈta,"same as ""blue""",fieldwork_nage_wordlist
+44562,nage1237,guilty,ˈsada,ˈsada,,fieldwork_nage_wordlist
+44563,nage1237,gum_tree,ˌkatʃuˈputi,ˌkatʃu ˈputi,wood + white (loan),fieldwork_nage_wordlist
+44564,nage1237,guts,ˈŋgodo,ˈŋgodo,,fieldwork_nage_wordlist
+44565,nage1237,hair,fu,fu,,fieldwork_nage_wordlist
+44566,nage1237,hand,ˈdima,ˈdima,"same as ""arm""",fieldwork_nage_wordlist
+44567,nage1237,head,ˈudu,ˈudu,,fieldwork_nage_wordlist
+44568,nage1237,heart,ˈpusu,ˈpusu,,fieldwork_nage_wordlist
+44569,nage1237,oven,ˈdika,ˈdika,,fieldwork_nage_wordlist
+44570,nage1237,heavy,ˈndate,ˈndate,,fieldwork_nage_wordlist
+44571,nage1237,heel,ˌiɹuˈʋaʋi,ˌiɹu ˈʋaʋi,nose + pig,fieldwork_nage_wordlist
+44572,nage1237,here,ˈndia,ˈndia,,fieldwork_nage_wordlist
+44573,nage1237,here,ˌndiaˈke,ˌndia ˈke,here + this,fieldwork_nage_wordlist
+44574,nage1237,hill_ridge,ˈʋodo,ˈʋodo,,fieldwork_nage_wordlist
+44575,nage1237,hole,mbəˈɗo,mbəˈɗo,,fieldwork_nage_wordlist
+44576,nage1237,holy,ˈsutʃi,ˈsutʃi,loan,fieldwork_nage_wordlist
+44577,nage1237,honey,ˈmadu,ˈmadu,loan,fieldwork_nage_wordlist
+44578,nage1237,horn,ˈtandu,ˈtandu,loan?,fieldwork_nage_wordlist
+44579,nage1237,hot,ˈbudi,ˈbudi,,fieldwork_nage_wordlist
+44580,nage1237,hour,dʒam,dʒam,loan,fieldwork_nage_wordlist
+44581,nage1237,house,ˈsaʔo,ˈsaʔo,,fieldwork_nage_wordlist
+44582,nage1237,how_much_how_many,saˈapa,sa ˈapa,singular.clitic + what; phonetically [səˈʔapa],fieldwork_nage_wordlist
+44583,nage1237,how,ˌɓidiəˈmba,ˌɓidi əˈmba,like + which,fieldwork_nage_wordlist
+44584,nage1237,hungry,ˈmaŋe,ˈmaŋe,,fieldwork_nage_wordlist
+44585,nage1237,husband,ˈlaki,ˈlaki,"same as ""male""",fieldwork_nage_wordlist
+44586,nage1237,uncooked_rice,ˈetu,ˈetu,,fieldwork_nage_wordlist
+44587,nage1237,uncooked_rice,ˌetuˈɹea,ˌetu ˈɹea,rice + seed,fieldwork_nage_wordlist
+44589,nage1237,if,ˈŋaɹa,ˈŋaɹa,,fieldwork_nage_wordlist
+44590,nage1237,inside,ˈone,ˈone,,fieldwork_nage_wordlist
+44592,nage1237,innocent,ˈmodo,ˈmodo,,fieldwork_nage_wordlist
+44593,nage1237,island,ˈpulo,ˈpulo,loan,fieldwork_nage_wordlist
+44594,nage1237,itchy,ˈkate,ˈkate,,fieldwork_nage_wordlist
+44595,nage1237,jackfruit,ˈnaka,ˈnaka,,fieldwork_nage_wordlist
+44596,nage1237,judge,ˈhake,ˈhake,loan,fieldwork_nage_wordlist
+44597,nage1237,kidney,ˌmbokoˈdoŋgo,ˌmboko ˈdoŋgo,seed + back,fieldwork_nage_wordlist
+44598,nage1237,king_ruler,ˈradʒa,ˈradʒa,loan,fieldwork_nage_wordlist
+44599,nage1237,knee,ˌuduˈtu,ˌudu ˈtu,head + ??,fieldwork_nage_wordlist
+44600,nage1237,knife,ˈpiso,ˈpiso,loan,fieldwork_nage_wordlist
+44601,nage1237,lake,ˈtiʋu,ˈtiʋu,,fieldwork_nage_wordlist
+44602,nage1237,lamp,ˈlapu,ˈlapu,loan,fieldwork_nage_wordlist
+44603,nage1237,soil,ˈtana,ˈtana,,fieldwork_nage_wordlist
+44604,nage1237,language,baˈhasa,baˈhasa,loan,fieldwork_nage_wordlist
+44605,nage1237,lazy,ˈɓado,ˈɓado,,fieldwork_nage_wordlist
+44606,nage1237,leaf,ˈʋunu,ˈʋunu,,fieldwork_nage_wordlist
+44607,nage1237,left_side,ˈŋgeu,ˈŋgeu,,fieldwork_nage_wordlist
+44608,nage1237,leg,ˈaʔi,ˈaʔi,,fieldwork_nage_wordlist
+44609,nage1237,light_not_dark,tʃa,tʃa,,fieldwork_nage_wordlist
+44610,nage1237,light_weight,ˈfeʔa,ˈfeʔa,,fieldwork_nage_wordlist
+44611,nage1237,lightning,ˌkidaˈʋia,ˌkida ˈʋia,lightning + beam,fieldwork_nage_wordlist
+44612,nage1237,lime,ˈoka,ˈoka,,fieldwork_nage_wordlist
+44613,nage1237,lips,ˌisiˈʋiʋi,ˌisi ˈʋiʋi,flesh + mouth,fieldwork_nage_wordlist
+44614,nage1237,liver,ˈate,ˈate,,fieldwork_nage_wordlist
+44615,nage1237,long,ˈdeʋa,ˈdeʋa,,fieldwork_nage_wordlist
+44616,nage1237,lontar_palm,ˈkodi,ˈkodi,,fieldwork_nage_wordlist
+44617,nage1237,loom,ˌodoˈsənda,ˌodo ˈsənda,nominalizer + weave,fieldwork_nage_wordlist
+44618,nage1237,louse_clothing,ˈtuma,ˈtuma,,fieldwork_nage_wordlist
+44619,nage1237,louse_eggs,təˌdoˈkutu,təˌdo ˈkutu,egg + louse,fieldwork_nage_wordlist
+44620,nage1237,louse_in_hair,ˈkutu,ˈkutu,,fieldwork_nage_wordlist
+44621,nage1237,lungs,ˈmboka,ˈmboka,,fieldwork_nage_wordlist
+44622,nage1237,machete,ˈfaɗi,ˈfaɗi,,fieldwork_nage_wordlist
+44623,nage1237,man,ˌataˈlaki,ˌata ˈlaki,person + male,fieldwork_nage_wordlist
+44624,nage1237,mango,ˈpau,ˈpau,,fieldwork_nage_wordlist
+44625,nage1237,many,ˈʋoso,ˈʋoso,,fieldwork_nage_wordlist
+44626,nage1237,market,ŋəˈdu,ŋəˈdu,,fieldwork_nage_wordlist
+44628,nage1237,mat,ˈteʔe,ˈteʔe,,fieldwork_nage_wordlist
+44630,nage1237,milk,ˈsusu,ˈsusu,,fieldwork_nage_wordlist
+44631,nage1237,millet,ʋəˈte,ʋəˈte,,fieldwork_nage_wordlist
+44632,nage1237,money,ˈdoi,ˈdoi,loan,fieldwork_nage_wordlist
+44633,nage1237,monitor_lizard,əˈti,əˈti,,fieldwork_nage_wordlist
+44634,nage1237,moon,ˈʋuda,ˈʋuda,,fieldwork_nage_wordlist
+44635,nage1237,marungga,ˈʋona,ˈʋona,,fieldwork_nage_wordlist
+44636,nage1237,morning,ˈpoa,ˈpoa,,fieldwork_nage_wordlist
+44637,nage1237,mosque,məsˈdʒi,məsˈdʒi,loan,fieldwork_nage_wordlist
+44638,nage1237,mosquito,kəˈpa,kəˈpa,,fieldwork_nage_wordlist
+44639,nage1237,mother,ˈine,ˈine,,fieldwork_nage_wordlist
+44642,nage1237,mountain,ˈkedi,ˈkedi,,fieldwork_nage_wordlist
+44643,nage1237,mouth,ˈʋiʋi,ˈʋiʋi,,fieldwork_nage_wordlist
+44644,nage1237,mucus,ˈʋolo,ˈʋolo,,fieldwork_nage_wordlist
+44645,nage1237,mud,ˈpisa,ˈpisa,"same as ""wet""",fieldwork_nage_wordlist
+44646,nage1237,mud,ˈbita,ˈbita,,fieldwork_nage_wordlist
+44648,nage1237,name,ˈŋaɹa,ˈŋaɹa,,fieldwork_nage_wordlist
+44649,nage1237,narrow,ˈlipo,ˈlipo,,fieldwork_nage_wordlist
+44650,nage1237,navel,ˈpuse,ˈpuse,,fieldwork_nage_wordlist
+44651,nage1237,near,ˈʋeʔe,ˈʋeʔe,,fieldwork_nage_wordlist
+44652,nage1237,neck,təˈŋu,təˈŋu,"""throat"" is /ˈfoko/",fieldwork_nage_wordlist
+44653,nage1237,necklace,ˈkalu,ˈkalu,loan,fieldwork_nage_wordlist
+44654,nage1237,needle,ˈdalu,ˈdalu,,fieldwork_nage_wordlist
+44656,nage1237,new,ˈbaru,ˈbaru,loan,fieldwork_nage_wordlist
+44657,nage1237,night,ˈkombe,ˈkombe,,fieldwork_nage_wordlist
+44658,nage1237,nine,ˌtəraəˈsa,ˌtəra əˈsa,less + seed,fieldwork_nage_wordlist
+44659,nage1237,nineteen,saˌmbuduˌəsaˌtəraˈəsa,sa ˌmbudu ˌəsa ˌtəra ˈəsa,singular.clitic + ten + seed + less + seed,fieldwork_nage_wordlist
+44660,nage1237,ninety,ˌmbuduˌtəraəˈsa,ˌmbudu ˌtəra əˈsa,ten + less + seed,fieldwork_nage_wordlist
+44661,nage1237,no_not,ˈmona,ˈmona,,fieldwork_nage_wordlist
+44662,nage1237,nose,ˈiɹu,ˈiɹu,,fieldwork_nage_wordlist
+44663,nage1237,nostril,ˌmbəɗoˈiɹu,ˌmbəɗo ˈiɹu,hole + nose,fieldwork_nage_wordlist
+44664,nage1237,now,ke,ke,,fieldwork_nage_wordlist
+44665,nage1237,old_people,ˈmbupu,ˈmbupu,,fieldwork_nage_wordlist
+44666,nage1237,old_worn_house,ˈodo,ˈodo,,fieldwork_nage_wordlist
+44668,nage1237,older_sibling,ˈkaʔe,ˈkaʔe,,fieldwork_nage_wordlist
+44670,nage1237,one,saəˈsa,sa əˈsa,singular.clitic + seed; phonetically [səʔə'sa ~ saʔə'sa],fieldwork_nage_wordlist
+44671,nage1237,one_hundred,saˈŋasu,sa ˈŋasu,singular.clitic + hundred,fieldwork_nage_wordlist
+44672,nage1237,one_hundred_and_twenty_three,saˈŋasuˌmbuduˌɹuaˌəsaˈtədu,sa ˈŋasu ˌmbudu ˌɹua ˌəsa ˈtədu,"singular.clitic + hundred + ten + two + seed + three; extrapolated - I accidentally asked for 125 and he produced correctly ""sa=ˈŋasu ˌmbudu ˌɹua ˌəsa ˈdima""",fieldwork_nage_wordlist
+44675,nage1237,palm_of_hand,ˌtukaˈdima,ˌtuka ˈdima,stomach + hand,fieldwork_nage_wordlist
+44676,nage1237,papaya,ˈlaʔe,ˈlaʔe,,fieldwork_nage_wordlist
+44677,nage1237,penalty,dəˈnda,dəˈnda,loan,fieldwork_nage_wordlist
+44679,nage1237,person,ˈata,ˈata,,fieldwork_nage_wordlist
+44680,nage1237,pig,ˈʋaʋi,ˈʋaʋi,,fieldwork_nage_wordlist
+44681,nage1237,poor,ˈmiski,ˈmiski,loan,fieldwork_nage_wordlist
+44682,nage1237,price,ʋəˈdi,ʋəˈdi,,fieldwork_nage_wordlist
+44683,nage1237,priest_modern,ˈtua,ˈtua,loan,fieldwork_nage_wordlist
+44684,nage1237,rack_above_hearth,ˈpoa,ˈpoa,,fieldwork_nage_wordlist
+44685,nage1237,rain,ˈuɹa,ˈuɹa,,fieldwork_nage_wordlist
+44686,nage1237,rainbow,ˌnipaˈmoa,ˌnipa ˈmoa,snake + thirsty,fieldwork_nage_wordlist
+44687,nage1237,raised_platform,ˈtenda,ˈtenda,loan,fieldwork_nage_wordlist
+44688,nage1237,rat,ˈtʃome,ˈtʃome,,fieldwork_nage_wordlist
+44689,nage1237,rattan,ˈua,ˈua,,fieldwork_nage_wordlist
+44690,nage1237,red,ˈtolo,ˈtolo,,fieldwork_nage_wordlist
+44691,nage1237,rib,ˌtokoˈkasa,ˌtoko ˈkasa,bone + chest,fieldwork_nage_wordlist
+44692,nage1237,rice_ear_bug,ləˈŋo,ləˈŋo,,fieldwork_nage_wordlist
+44693,nage1237,rice_field,ˈsaʋa,ˈsaʋa,loan,fieldwork_nage_wordlist
+44694,nage1237,rice_grains,ˌetuˈluʔi,ˌetu ˈluʔi,rice + skin,fieldwork_nage_wordlist
+44695,nage1237,rice_plant,ˈetu,ˈetu,,fieldwork_nage_wordlist
+44696,nage1237,rich,ˈɓanda,ˈɓanda,,fieldwork_nage_wordlist
+44697,nage1237,ridge,ˈɣumbu,ˈɣumbu,,fieldwork_nage_wordlist
+44698,nage1237,right_side,ˈŋgana,ˈŋgana,,fieldwork_nage_wordlist
+44699,nage1237,ringworm,ˌkakaˈkia,ˌkaka ˈkia,skin.disease + ?? ,fieldwork_nage_wordlist
+44700,nage1237,ripe,ˈteʔa,ˈteʔa,,fieldwork_nage_wordlist
+44701,nage1237,river_stream,ˈdoʋo,ˈdoʋo,,fieldwork_nage_wordlist
+44702,nage1237,road,ˈɹada,ˈɹada,,fieldwork_nage_wordlist
+44703,nage1237,thatched_roof,ˈsape,ˈsape,"general term for ""roof""",fieldwork_nage_wordlist
+44704,nage1237,thatched_roof,ˌsapeˈsumbu,ˌsape ˈsumbu,roof + palm.leaf.rib; thatch roof specifically,fieldwork_nage_wordlist
+44706,nage1237,root,ˈkamu,ˈkamu,,fieldwork_nage_wordlist
+44707,nage1237,rope,ˈtadi,ˈtadi,,fieldwork_nage_wordlist
+44708,nage1237,rotten,ˈleʔe,ˈleʔe,"same as ""bad""",fieldwork_nage_wordlist
+44709,nage1237,rough,ˈkasa,ˈkasa,,fieldwork_nage_wordlist
+44710,nage1237,round,ˈmonda,ˈmonda,,fieldwork_nage_wordlist
+44713,nage1237,sail,ˈdatʃa,ˈdatʃa,,fieldwork_nage_wordlist
+44714,nage1237,salt,ˈsiʔe,ˈsiʔe,,fieldwork_nage_wordlist
+44715,nage1237,salty,məˈsi,məˈsi,,fieldwork_nage_wordlist
+44716,nage1237,same,ˈsama,ˈsama,loan?,fieldwork_nage_wordlist
+44717,nage1237,sand,ˈdai,ˈdai,,fieldwork_nage_wordlist
+44718,nage1237,sarong_women,ˈlomba,ˈlomba,"""women's sarong""",fieldwork_nage_wordlist
+44719,nage1237,sarong_women,ˈduka,ˈduka,"""men's sarong""",fieldwork_nage_wordlist
+44720,nage1237,scabies,ˈŋolo,ˈŋolo,,fieldwork_nage_wordlist
+44721,nage1237,scared,ˈtaku,ˈtaku,,fieldwork_nage_wordlist
+44722,nage1237,scorpion,ˌekoˈtəko,ˌeko ˈtəko,tail + sting,fieldwork_nage_wordlist
+44723,nage1237,sea,ˌaeˈməsi,ˌae ˈməsi,water + salt,fieldwork_nage_wordlist
+44724,nage1237,seed,əˈsa,əˈsa,,fieldwork_nage_wordlist
+44725,nage1237,seed,ˌəsaˈone,ˌəsa ˈone,seed + inside,fieldwork_nage_wordlist
+44726,nage1237,seed,ˈmboko,ˈmboko,,fieldwork_nage_wordlist
+44727,nage1237,seed,ˌmbokoˈone,ˌmboko ˈone,seed + inside,fieldwork_nage_wordlist
+44728,nage1237,sermon,ˈkotba,ˈkotba,loan,fieldwork_nage_wordlist
+44729,nage1237,seven,ˌdimaˈɹua,ˌdima ˈɹua,five + two,fieldwork_nage_wordlist
+44730,nage1237,seventeen,saˌmbuduˌəsaˌdimaˈɹua,sa ˌmbudu ˌəsa ˌdima ˈɹua,singular.clitic + ten + seed + five + two,fieldwork_nage_wordlist
+44731,nage1237,seventy,ˌmbuduˌdimaˈɹua,ˌmbudu ˌdima ˈɹua,ten + five + two,fieldwork_nage_wordlist
+44732,nage1237,shark,ˈiu,ˈiu,loan?,fieldwork_nage_wordlist
+44733,nage1237,sharp,ˈdeʔe,ˈdeʔe,,fieldwork_nage_wordlist
+44734,nage1237,shirt,ˈdambu,ˈdambu,,fieldwork_nage_wordlist
+44735,nage1237,short,ˈɓoko,ˈɓoko,,fieldwork_nage_wordlist
+44736,nage1237,short,ˌtʃaŋgaˈɓoko,ˌtʃaŋga ˈɓoko,height + short; only for people,fieldwork_nage_wordlist
+44737,nage1237,shoulder,ˈʋala,ˈʋala,,fieldwork_nage_wordlist
+44738,nage1237,shy_ashamed,ˈmea,ˈmea,,fieldwork_nage_wordlist
+44739,nage1237,sick_painful,lo,lo,,fieldwork_nage_wordlist
+44740,nage1237,sister,ʋəˈta,ʋəˈta,,fieldwork_nage_wordlist
+44741,nage1237,six,ˌdimaəˈsa,ˌdima əˈsa,five + seed,fieldwork_nage_wordlist
+44742,nage1237,sixteen,saˌmbuduˌəsaˌdimaəˈsa,sa ˌmbudu ˌəsa ˌdima əˈsa,singular.clitic + ten + seed + five + seed,fieldwork_nage_wordlist
+44743,nage1237,sixty,ˌmbuduˌdimaəˈsa,ˌmbudu ˌdima əˈsa,ten + five + seed,fieldwork_nage_wordlist
+44744,nage1237,skin,ˈluʔi,ˈluʔi,,fieldwork_nage_wordlist
+44745,nage1237,skinny,ˈnoko,ˈnoko,,fieldwork_nage_wordlist
+44746,nage1237,sky,ˈdiɹu,ˈdiɹu,,fieldwork_nage_wordlist
+44747,nage1237,slave,ˌataˈloʔo,ˌata ˈloʔo,person + slave,fieldwork_nage_wordlist
+44748,nage1237,slave,ˈkuli,ˈkuli,,fieldwork_nage_wordlist
+44749,nage1237,small,ˈɓete,ˈɓete,,fieldwork_nage_wordlist
+44750,nage1237,smoke,nu,nu,,fieldwork_nage_wordlist
+44751,nage1237,smooth,ˈŋedu,ˈŋedu,,fieldwork_nage_wordlist
+44752,nage1237,snake,ˈnipa,ˈnipa,,fieldwork_nage_wordlist
+44754,nage1237,sole_of_foot,ˌtukaˈaʔi,ˌtuka ˈaʔi,stomach + foot,fieldwork_nage_wordlist
+44756,nage1237,sorcerer,ˈpodo,ˈpodo,,fieldwork_nage_wordlist
+44757,nage1237,wound,nəˈka,nəˈka,,fieldwork_nage_wordlist
+44758,nage1237,sour,ˈnidu,ˈnidu,,fieldwork_nage_wordlist
+44759,nage1237,spear,ˈtuba,ˈtuba,,fieldwork_nage_wordlist
+44760,nage1237,spider,ˌgəɹaˈgia,ˌgəɹa ˈgia,angry + ??,fieldwork_nage_wordlist
+44761,nage1237,spine_lower_back,ˌtokoˈdoŋgo,ˌtoko ˈdoŋgo,bone + back,fieldwork_nage_wordlist
+44762,nage1237,star,ˈndada,ˈndada,,fieldwork_nage_wordlist
+44765,nage1237,stick_pole,ˈɗoʔa,ˈɗoʔa,,fieldwork_nage_wordlist
+44766,nage1237,stomach_belly,ˈtuka,ˈtuka,,fieldwork_nage_wordlist
+44767,nage1237,stone,ˈʋatu,ˈʋatu,,fieldwork_nage_wordlist
+44768,nage1237,straight,ɓəˈsu,ɓəˈsu,,fieldwork_nage_wordlist
+44769,nage1237,stranger,ˌataˈdoŋgo,ˌata ˈdoŋgo,person + back,fieldwork_nage_wordlist
+44770,nage1237,sugar_palm,ˈmoke,ˈmoke,,fieldwork_nage_wordlist
+44771,nage1237,sugarcane,təˈʋu,təˈʋu,,fieldwork_nage_wordlist
+44772,nage1237,sun,dəˈɹa,dəˈɹa,"same as ""day""",fieldwork_nage_wordlist
+44773,nage1237,sweat,ˈluŋa,ˈluŋa,,fieldwork_nage_wordlist
+44774,nage1237,sweet,mi,mi,,fieldwork_nage_wordlist
+44775,nage1237,sweet_potato,ˈtete,ˈtete,,fieldwork_nage_wordlist
+44776,nage1237,tail,ˈeko,ˈeko,,fieldwork_nage_wordlist
+44777,nage1237,tall,ˌtʃaŋgaˈdeʋa,ˌtʃaŋga ˈdeʋa,height + long,fieldwork_nage_wordlist
+44778,nage1237,taro,ˈrose,ˈrose,,fieldwork_nage_wordlist
+44779,nage1237,tear,ˌaeˈdu,ˌae ˈdu,water + tear,fieldwork_nage_wordlist
+44780,nage1237,teeth,ˈŋiʔi,ˈŋiʔi,,fieldwork_nage_wordlist
+44781,nage1237,ten,saˈmbudu,sa ˈmbudu,singular.clitic + ten,fieldwork_nage_wordlist
+44783,nage1237,that,ke,ke,,fieldwork_nage_wordlist
+44784,nage1237,thatch_for_roofing,ki,ki,,fieldwork_nage_wordlist
+44785,nage1237,there,ˌɹidiˈke,ˌɹidi ˈke,below + this,fieldwork_nage_wordlist
+44786,nage1237,there,əˈna,əˈna,"same as ""at""",fieldwork_nage_wordlist
+44787,nage1237,thick,ˈkapa,ˈkapa,,fieldwork_nage_wordlist
+44788,nage1237,thin,ˈnipi,ˈnipi,,fieldwork_nage_wordlist
+44789,nage1237,thirsty,ˈmoa,ˈmoa,,fieldwork_nage_wordlist
+44790,nage1237,thirteen,saˌmbuduˌəsaˈtədu,sa ˌmbudu ˌəsa ˈtədu,singular.clitic + ten + seed + three,fieldwork_nage_wordlist
+44791,nage1237,thirty,ˌmbuduˈtədu,ˌmbudu ˈtədu,ten + three,fieldwork_nage_wordlist
+44792,nage1237,this,ke,ke,,fieldwork_nage_wordlist
+44793,nage1237,thousand,saˈribu,sa ˈribu,singular.clitic + thousand (loan),fieldwork_nage_wordlist
+44794,nage1237,thread,ˈdedu,ˈdedu,,fieldwork_nage_wordlist
+44795,nage1237,three,ˌəsaˈtədu,ˌəsa ˈtədu,seed + three,fieldwork_nage_wordlist
+44796,nage1237,thunder,gu,gu,,fieldwork_nage_wordlist
+44797,nage1237,thunder,ˈɓeda,ˈɓeda,,fieldwork_nage_wordlist
+44798,nage1237,tinea,ˈpano,ˈpano,loan?,fieldwork_nage_wordlist
+44799,nage1237,to_answer,ɗəˈʋo,ɗəˈʋo,,fieldwork_nage_wordlist
+44800,nage1237,to_ask_question,ˈʋande,ˈʋande,,fieldwork_nage_wordlist
+44801,nage1237,to_bark,ˈpodu,ˈpodu,,fieldwork_nage_wordlist
+44802,nage1237,to_bathe,ˈɹio,ˈɹio,,fieldwork_nage_wordlist
+44803,nage1237,to_bathe_a_child,ˌpatiˈɹio,ˌpati ˈɹio,give + bathe,fieldwork_nage_wordlist
+44804,nage1237,to_be_silent,bəˈɗe,bəˈɗe,,fieldwork_nage_wordlist
+44805,nage1237,to_bite,ˈkiki,ˈkiki,,fieldwork_nage_wordlist
+44806,nage1237,to_shine,ˈdida,ˈdida,"same as ""to shine""",fieldwork_nage_wordlist
+44807,nage1237,to_bless,bərˈka,bərˈka,loan,fieldwork_nage_wordlist
+44808,nage1237,to_blow,ˈɹupi,ˈɹupi,,fieldwork_nage_wordlist
+44809,nage1237,to_borrow,ˈsoŋgo,ˈsoŋgo,,fieldwork_nage_wordlist
+44810,nage1237,to_breathe,ˈŋai,ˈŋai,,fieldwork_nage_wordlist
+44811,nage1237,to_burn_clear_land,ˈtuŋi,ˈtuŋi,"""to burn land for clearing""",fieldwork_nage_wordlist
+44812,nage1237,to_burn_clear_land,ˈtunu,ˈtunu,"""to burn, to roast (food)""",fieldwork_nage_wordlist
+44813,nage1237,to_bury,ˈtane,ˈtane,"the noun ""grave"" is /ˈlate/",fieldwork_nage_wordlist
+44814,nage1237,to_buy,mbəˈta,mbəˈta,,fieldwork_nage_wordlist
+44815,nage1237,to_call_out,kəˈla,kəˈla,,fieldwork_nage_wordlist
+44816,nage1237,to_shoo_to_chase_away_to_send_away,ˈfoa,ˈfoa,,fieldwork_nage_wordlist
+44817,nage1237,to_chase_away_to_run_after,ˈdeɣo,ˈdeɣo,,fieldwork_nage_wordlist
+44818,nage1237,to_chew,ˈŋatʃu,ˈŋatʃu,,fieldwork_nage_wordlist
+44819,nage1237,to_choose,ˈpidi,ˈpidi,,fieldwork_nage_wordlist
+44820,nage1237,to_climb,ˈnai,ˈnai,,fieldwork_nage_wordlist
+44821,nage1237,to_close,ˈtutu,ˈtutu,loan?,fieldwork_nage_wordlist
+44822,nage1237,to_come,ˈdemba,ˈdemba,,fieldwork_nage_wordlist
+44823,nage1237,to_command,ˈʋatu,ˈʋatu,,fieldwork_nage_wordlist
+44824,nage1237,to_cook,pəˈɗe,pəˈɗe,,fieldwork_nage_wordlist
+44825,nage1237,to_cook,ˈpeɗe,ˈpeɗe,,fieldwork_nage_wordlist
+44826,nage1237,to_count,ˈreke,ˈreke,loan,fieldwork_nage_wordlist
+44827,nage1237,to_cry,ˈlita,ˈlita,,fieldwork_nage_wordlist
+44828,nage1237,to_curse,ˈmomo,ˈmomo,,fieldwork_nage_wordlist
+44829,nage1237,to_cut,ŋgəˈte,ŋgəˈte,"general term for ""to cut, to slice""",fieldwork_nage_wordlist
+44830,nage1237,to_cut,ˈʋeda,ˈʋeda,"same as ""to kill""",fieldwork_nage_wordlist
+44831,nage1237,to_cut,ˈɹoɹe,ˈɹoɹe,"same as ""to kill (animal)",fieldwork_nage_wordlist
+44832,nage1237,to_cut_down,ˈpoŋgo,ˈpoŋgo,,fieldwork_nage_wordlist
+44833,nage1237,to_dance,məˈndo,məˈndo,,fieldwork_nage_wordlist
+44835,nage1237,to_die,ˈmata,ˈmata,,fieldwork_nage_wordlist
+44836,nage1237,to_dig,ˈkoe,ˈkoe,,fieldwork_nage_wordlist
+44837,nage1237,to_divide,ˈʋisa,ˈʋisa,"""to split into two, to divide""",fieldwork_nage_wordlist
+44838,nage1237,to_dream,ˈmbalo,ˈmbalo,,fieldwork_nage_wordlist
+44839,nage1237,to_drink,ˈinu,ˈinu,,fieldwork_nage_wordlist
+44840,nage1237,to_drop,ˌpatiˈmboka,ˌpati ˈmboka,give + fall,fieldwork_nage_wordlist
+44841,nage1237,dry_in_sun,ˈmaɹa,ˈmaɹa,,fieldwork_nage_wordlist
+44842,nage1237,to_dwell,məˈɹa,məˈɹa,,fieldwork_nage_wordlist
+44843,nage1237,to_eat,ka,ka,"""to eat rice"", or generally ""to eat""",fieldwork_nage_wordlist
+44844,nage1237,to_eat,pəˈsa,pəˈsa,"""to eat vegetables""",fieldwork_nage_wordlist
+44845,nage1237,to_fall_from_above,ˈmbaʔu,ˈmbaʔu,,fieldwork_nage_wordlist
+44846,nage1237,to_fall_from_above,ɣəˈso,ɣəˈso,,fieldwork_nage_wordlist
+44847,nage1237,to_fall_over,ˈmboka,ˈmboka,,fieldwork_nage_wordlist
+44848,nage1237,to_fight,ˌpapaˈkoda,ˌpapa ˈkoda,reciprocal + hit,fieldwork_nage_wordlist
+44849,nage1237,to_float,ˈmbaʋa,ˈmbaʋa,,fieldwork_nage_wordlist
+44850,nage1237,to_flow,ˈmbele,ˈmbele,,fieldwork_nage_wordlist
+44851,nage1237,to_fly,de,de,,fieldwork_nage_wordlist
+44852,nage1237,to_fold,dəˈpe,dəˈpe,,fieldwork_nage_wordlist
+44854,nage1237,to_give,ˈpati,ˈpati,,fieldwork_nage_wordlist
+44855,nage1237,to_go,ˈmbana,ˈmbana,,fieldwork_nage_wordlist
+44856,nage1237,to_go,ˈkai,ˈkai,,fieldwork_nage_wordlist
+44857,nage1237,to_grasp,kəˈse,kəˈse,,fieldwork_nage_wordlist
+44859,nage1237,to_guard,ˈdʒaga,ˈdʒaga,loan,fieldwork_nage_wordlist
+44860,nage1237,to_hear,ˈdede,ˈdede,,fieldwork_nage_wordlist
+44861,nage1237,to_help,ˈdaka,ˈdaka,,fieldwork_nage_wordlist
+44862,nage1237,to_hide,nəˈɓe,nəˈɓe,,fieldwork_nage_wordlist
+44863,nage1237,to_hit,ˈpoŋga,ˈpoŋga,,fieldwork_nage_wordlist
+44864,nage1237,to_hit_drum,ˈpoŋga,ˈpoŋga,"the noun ""drum"" is /gəˈnda/",fieldwork_nage_wordlist
+44865,nage1237,to_hold,kəˈse,kəˈse,,fieldwork_nage_wordlist
+44866,nage1237,to_hunt,ˌtamaˈdako,ˌtama ˈdako,enter + dog,fieldwork_nage_wordlist
+44867,nage1237,to_invite,ˈsoŋga,ˈsoŋga,,fieldwork_nage_wordlist
+44868,nage1237,to_kill,ˈʋeda,ˈʋeda,"same as ""to cut""",fieldwork_nage_wordlist
+44869,nage1237,to_kill,ˈɹoɹe,ˈɹoɹe,"same as ""to cut""; only for animals",fieldwork_nage_wordlist
+44870,nage1237,to_know,ˈmbeʔo,ˈmbeʔo,,fieldwork_nage_wordlist
+44871,nage1237,to_laugh,ˈtaʋa,ˈtaʋa,,fieldwork_nage_wordlist
+44872,nage1237,to_learn,ˈadʒa,ˈadʒa,loan,fieldwork_nage_wordlist
+44873,nage1237,to_let_go,ʋəˈdu,ʋəˈdu,,fieldwork_nage_wordlist
+44874,nage1237,to_tell_untruth,ˈmboɗo,ˈmboɗo,,fieldwork_nage_wordlist
+44875,nage1237,to_lie_down,ˈɓaʔa,ˈɓaʔa,,fieldwork_nage_wordlist
+44876,nage1237,alive,ˈmuɹi,ˈmuɹi,,fieldwork_nage_wordlist
+44877,nage1237,to_open,ˈbuka,ˈbuka,loan?,fieldwork_nage_wordlist
+44878,nage1237,to_own,,,"; consultant gave /ˈlatu/ = ""there is""",fieldwork_nage_wordlist
+44879,nage1237,to_plant_rice,təˈndo,təˈndo,,fieldwork_nage_wordlist
+44880,nage1237,to_plant_rice,ˈmuda,ˈmuda,,fieldwork_nage_wordlist
+44881,nage1237,to_plant_yam,təˈndo,təˈndo,,fieldwork_nage_wordlist
+44882,nage1237,to_plant_yam,ˈtoka,ˈtoka,,fieldwork_nage_wordlist
+44883,nage1237,to_play,ˈleŋe,ˈleŋe,,fieldwork_nage_wordlist
+44884,nage1237,to_pound,ˈʋatʃu,ˈʋatʃu,,fieldwork_nage_wordlist
+44885,nage1237,to_pray,ˈdoʔa,ˈdoʔa,loan,fieldwork_nage_wordlist
+44886,nage1237,to_promise,ˈdʒandʒi,ˈdʒandʒi,loan,fieldwork_nage_wordlist
+44887,nage1237,to_pull,ˈesa,ˈesa,,fieldwork_nage_wordlist
+44888,nage1237,to_push,ˈɹoka,ˈɹoka,,fieldwork_nage_wordlist
+44889,nage1237,to_refuse,ˈroka,ˈroka,,fieldwork_nage_wordlist
+44891,nage1237,to_rub,ˈkoso,ˈkoso,,fieldwork_nage_wordlist
+44893,nage1237,to_run,ˈpalu,ˈpalu,,fieldwork_nage_wordlist
+44894,nage1237,to_sail,ˌmbanaˈambo,ˌmbana ˈambo,go + Ambon?,fieldwork_nage_wordlist
+44895,nage1237,to_say,ˌŋasiˈle,ˌŋasi ˈle,complain + think,fieldwork_nage_wordlist
+44896,nage1237,to_scratch,ˈnasi,ˈnasi,,fieldwork_nage_wordlist
+44897,nage1237,to_search_for_to_hunt_for,ˈŋgae,ˈŋgae,,fieldwork_nage_wordlist
+44898,nage1237,to_see,ˈmeno,ˈmeno,,fieldwork_nage_wordlist
+44899,nage1237,to_sell,ˈteka,ˈteka,,fieldwork_nage_wordlist
+44900,nage1237,to_sew,ˈsati,ˈsati,,fieldwork_nage_wordlist
+44901,nage1237,to_shoot,ˈpasa,ˈpasa,,fieldwork_nage_wordlist
+44902,nage1237,to_shoot_with_slingshot,ˈpasa,ˈpasa,,fieldwork_nage_wordlist
+44903,nage1237,to_sing,ˈɲaɲi,ˈɲaɲi,loan,fieldwork_nage_wordlist
+44904,nage1237,to_sit,ˈgoɗu,ˈgoɗu,,fieldwork_nage_wordlist
+44905,nage1237,to_skewer,ˈtusu,ˈtusu,loan?,fieldwork_nage_wordlist
+44906,nage1237,to_slap,ˈpae,ˈpae,,fieldwork_nage_wordlist
+44907,nage1237,to_sleep,ˈeɹu,ˈeɹu,,fieldwork_nage_wordlist
+44908,nage1237,to_smell,ˈŋuɹu,ˈŋuɹu,,fieldwork_nage_wordlist
+44909,nage1237,to_speak,ˌŋasiˈle,ˌŋasi ˈle,complain + think,fieldwork_nage_wordlist
+44910,nage1237,to_spit,təˈfa,təˈfa,"the noun ""saliva"" is /ˌae ˈluda/",fieldwork_nage_wordlist
+44911,nage1237,to_split,kəˈda,kəˈda,"""to break, to split""",fieldwork_nage_wordlist
+44912,nage1237,to_split,ˈʋisa,ˈʋisa,"""to split into two, to divide""",fieldwork_nage_wordlist
+44913,nage1237,to_crouch,ˈɹaga,ˈɹaga,,fieldwork_nage_wordlist
+44914,nage1237,to_squeeze,ˈposi,ˈposi,,fieldwork_nage_wordlist
+44915,nage1237,to_stab,səˈŋga,səˈŋga,,fieldwork_nage_wordlist
+44916,nage1237,to_stand,ˈndeli,ˈndeli,,fieldwork_nage_wordlist
+44917,nage1237,to_steal,ˈnaka,ˈnaka,,fieldwork_nage_wordlist
+44918,nage1237,to_suck,ˈɓiso,ˈɓiso,"""to suck with mouth""",fieldwork_nage_wordlist
+44919,nage1237,to_suck,ˈŋilo,ˈŋilo,"""to sniff with nose""",fieldwork_nage_wordlist
+44921,nage1237,to_swell,ˈmboʋo,ˈmboʋo,,fieldwork_nage_wordlist
+44922,nage1237,to_swim,ˈnaŋu,ˈnaŋu,,fieldwork_nage_wordlist
+44923,nage1237,to_teach,ˈadʒa,ˈadʒa,loan,fieldwork_nage_wordlist
+44925,nage1237,to_think,ˈpiki,ˈpiki,loan,fieldwork_nage_wordlist
+44926,nage1237,to_throw,ˈpoke,ˈpoke,,fieldwork_nage_wordlist
+44927,nage1237,to_tie,pəˈte,pəˈte,,fieldwork_nage_wordlist
+44929,nage1237,to_turn,ˈbelo,ˈbelo,loan?,fieldwork_nage_wordlist
+44930,nage1237,to_vomit,ˈmuta,ˈmuta,,fieldwork_nage_wordlist
+44931,nage1237,to_wait,ˈkeɹe,ˈkeɹe,,fieldwork_nage_wordlist
+44932,nage1237,to_wake_someone_up,ˈleku,ˈleku,,fieldwork_nage_wordlist
+44933,nage1237,to_wake_up,ˈtoʔo,ˈtoʔo,,fieldwork_nage_wordlist
+44934,nage1237,to_walk,ˈmbana,ˈmbana,"general term for ""to go""",fieldwork_nage_wordlist
+44935,nage1237,to_walk,ˌmbanaˈaʔi,ˌmbana ˈaʔi,go + leg/foot,fieldwork_nage_wordlist
+44936,nage1237,to_wash,ˈlasi,ˈlasi,,fieldwork_nage_wordlist
+44937,nage1237,to_weave,səˈnda,səˈnda,,fieldwork_nage_wordlist
+44938,nage1237,to_whisper,ˈoʋi,ˈoʋi,,fieldwork_nage_wordlist
+44939,nage1237,to_wipe,pəˈɹi,pəˈɹi,,fieldwork_nage_wordlist
+44940,nage1237,to_work,kəˈma,kəˈma,,fieldwork_nage_wordlist
+44941,nage1237,to_worship,səˈmbaja,səˈmbaja,loan,fieldwork_nage_wordlist
+44942,nage1237,to_yawn,ˌmoaˈpa,ˌmoa ˈpa,thirsty + ??,fieldwork_nage_wordlist
+44945,nage1237,lizard,təˈke,təˈke,,fieldwork_nage_wordlist
+44946,nage1237,tomorrow,ˌaɹaˈpoa,ˌaɹa ˈpoa,?? + morning,fieldwork_nage_wordlist
+44947,nage1237,tongue,dəˈma,dəˈma,,fieldwork_nage_wordlist
+44948,nage1237,traditional_house,ˌsaʔoˈada,ˌsaʔo ˈada,house + tradition (loan),fieldwork_nage_wordlist
+44950,nage1237,tree,ˌpuʔuˈkatʃu,ˌpuʔu ˈkatʃu,trunk + wood,fieldwork_nage_wordlist
+44951,nage1237,trousers,saˌdakeˈdeʋa,saˌdake ˈdeʋa,pants + long,fieldwork_nage_wordlist
+44952,nage1237,turtle,ˈkela,ˈkela,,fieldwork_nage_wordlist
+44953,nage1237,turtle_saltwater,ˈkela,ˈkela,,fieldwork_nage_wordlist
+44954,nage1237,twelve,saˌmbuduˌəsaˈɹua,sa ˌmbudu ˌəsa ˈɹua,singular.clitic + ten + seed + two,fieldwork_nage_wordlist
+44955,nage1237,twenty,ˌmbuduˈɹua,ˌmbudu ˈɹua,ten + two,fieldwork_nage_wordlist
+44956,nage1237,twenty_five,ˌmbuduˌɹuaˌəsaˈdima,ˌmbudu ˌɹua ˌəsa ˈdima,ten + two + seed + five,fieldwork_nage_wordlist
+44957,nage1237,twenty_four,ˌmbuduˌɹuaˌəsaˈʋutu,ˌmbudu ˌɹua ˌəsa ˈʋutu,ten + two + seed + four,fieldwork_nage_wordlist
+44958,nage1237,twenty_one,ˌmbuduˌɹuasaəˈsa,ˌmbudu ˌɹua sa əˈsa,ten + two + singular.clitic + seed,fieldwork_nage_wordlist
+44959,nage1237,twenty_three,ˌmbuduˌɹuaˌəsaˈtədu,ˌmbudu ˌɹua ˌəsa ˈtədu,ten + two + seed + three,fieldwork_nage_wordlist
+44960,nage1237,twenty_two,ˌmbuduˌɹuaˌəsaˈɹua,ˌmbudu ˌɹua ˌəsa ˈɹua,ten + two + seed + two,fieldwork_nage_wordlist
+44961,nage1237,twilight_dawn,ˈsubu,ˈsubu,loan,fieldwork_nage_wordlist
+44962,nage1237,two,ˌəsaˈɹua,ˌəsa ˈɹua,seed + two,fieldwork_nage_wordlist
+44963,nage1237,two_hundred,ˌŋasuˈɹua,ˌŋasu ˈɹua,hundred + two,fieldwork_nage_wordlist
+44965,nage1237,vein,ˈula,ˈula,,fieldwork_nage_wordlist
+44966,nage1237,village,ˈmboʔa,ˈmboʔa,,fieldwork_nage_wordlist
+44967,nage1237,voice,səˈɹu,səˈɹu,,fieldwork_nage_wordlist
+44968,nage1237,waist,ˈeŋge,ˈeŋge,,fieldwork_nage_wordlist
+44969,nage1237,wall,kəˈmbi,kəˈmbi,,fieldwork_nage_wordlist
+44970,nage1237,water,ˈae,ˈae,,fieldwork_nage_wordlist
+44971,nage1237,wave,ˈmbata,ˈmbata,,fieldwork_nage_wordlist
+44972,nage1237,wet,ˈpisa,ˈpisa,,fieldwork_nage_wordlist
+44973,nage1237,whale,ˈdoɓu,ˈdoɓu,"same as ""dolphin""",fieldwork_nage_wordlist
+44974,nage1237,what,ˈapa,ˈapa,,fieldwork_nage_wordlist
+44975,nage1237,when,ˌpiɹaˈmai,ˌpiɹa ˈmai,how.many + come,fieldwork_nage_wordlist
+44976,nage1237,where,əˌnaəˈmba,əˌna əˈmba,"in + which; /əˌna əˈmba/= (at) where?, /nuˌka əˈmba/ = to where?, /ˌmai əˈmba/ = from where?",fieldwork_nage_wordlist
+44977,nage1237,white,ˈɓala,ˈɓala,,fieldwork_nage_wordlist
+44978,nage1237,who,ˈsai,ˈsai,,fieldwork_nage_wordlist
+44979,nage1237,why,ˌpuʔuˈapa,ˌpuʔu ˈapa,because + what,fieldwork_nage_wordlist
+44980,nage1237,wide,ˈmeɹe,ˈmeɹe,"same as ""big""",fieldwork_nage_wordlist
+44981,nage1237,wife,ˈfai,ˈfai,"same as ""female""",fieldwork_nage_wordlist
+44982,nage1237,wind,ˈaŋi,ˈaŋi,,fieldwork_nage_wordlist
+44983,nage1237,window,ˈpate,ˈpate,,fieldwork_nage_wordlist
+44984,nage1237,wing,mbəˈde,mbəˈde,"same as ""feather""",fieldwork_nage_wordlist
+44985,nage1237,with,ˈneʔe,ˈneʔe,"same as ""and""",fieldwork_nage_wordlist
+44986,nage1237,woman,ˌataˈfai,ˌata ˈfai,person + female,fieldwork_nage_wordlist
+44988,nage1237,wood,ˈkatʃu,ˈkatʃu,,fieldwork_nage_wordlist
+44990,nage1237,wrong,ˈsada,ˈsada,,fieldwork_nage_wordlist
+44991,nage1237,year,ˈliʋa,ˈliʋa,,fieldwork_nage_wordlist
+44992,nage1237,yellow,ˈkune,ˈkune,,fieldwork_nage_wordlist
+44993,nage1237,yesterday,nuˈmai,nu ˈmai,?? + come,fieldwork_nage_wordlist
+44994,nage1237,young_people,ˈnuʋa,ˈnuʋa,"also ""age""",fieldwork_nage_wordlist
+44996,nage1237,younger_sibling,ˈaɹi,ˈaɹi,,fieldwork_nage_wordlist
