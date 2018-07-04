@@ -185,7 +185,7 @@ for r, row in enumerate(rows):
 
     if new_entry["Lect_ID"] not in languages:
         raise ValueError(
-            "No metadata found for lect {:s} of form in line {:d}.".format(
+            "No metadata found for lect {:} of form in line {:d}.".format(
                 new_entry["Lect_ID"], r))
 
     new_entry["Source"] = new_sources_field
