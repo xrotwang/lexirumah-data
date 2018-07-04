@@ -6,6 +6,8 @@ import itertools
 from collections import OrderedDict
 from clldutils.path import Path
 
+import chardet
+
 import csvw
 import xlrd
 import pycldf
@@ -31,17 +33,17 @@ if dataset.module != 'Wordlist':
 # Define how to find the relevant changed files
 try:
     import pygit2
-    def changed_files(path):
+    def changed_files(path, extension):
         ...
     raise NotImplementedError("No git support yet.")
 except ImportError:
     print("WARNING: No pygit2 module found, relying on heuristics for finding"
           " your changes.",
           file=sys.stderr)
-    def changed_files(path):
+    def changed_files(path, extension=""):
         if not path.exists():
             raise ValueError("Path {:} does not exist.".format(path))
-        paths = sorted(path.glob("*"),
+        paths = sorted(path.glob("*" + extension),
                        key=lambda p: p.lstat().st_mtime,
                        reverse=True)
         return paths
@@ -79,6 +81,8 @@ for r, row in enumerate(rows):
         columns = [value(x) for x in row]
     else:
         lang = {c: value(v) for c, v in zip(columns, row)}
+        if not lang["ID"]:
+            lang["ID"] = lang["Glottocode"]
         if lang["ID"] == "abui1241-lexi":
             # Example language, skip
             continue
@@ -96,10 +100,23 @@ sources = dataset.sources
 
 print("Investigating new sources ...")
 source_description = changed_files(
-    args.directory / "3 - normalized metadata of original source")[0]
+    args.directory / "3 - normalized metadata of original source",
+    ".bib")[0]
+# People might have edited that file using Word, which has strange ideas about
+# encoding.
+with source_description.open("rb") as binary_source_file:
+    encoding = chardet.detect(binary_source_file.read())["encoding"]
+with source_description.open("rb") as binary_source_file:
+    entries = binary_source_file.read().decode(encoding)
+    print(source_description, encoding, entries)
+    sources = pycldf.sources.Sources()
+    sources._add_entries(pycldf.sources.database.parse_string(
+        entries,
+        bib_format='bibtex'))
+
 new_sources = [
     source
-    for source in pycldf.sources.Sources.from_file(source_description)
+    for source in sources
     if source.id not in {
             "glottolog", "abvd", "fieldwork_abui_lexirumah",
             "greenbook_proto_AP_tsv", "fricke2014topics", "said1977bugis",
@@ -149,7 +166,7 @@ for r, row in enumerate(rows):
         new_entry["Concept_ID"] = previous_concept
     previous_concept = new_entry["Concept_ID"]
 
-    if not new_entry["Lect_ID"]:
+    if not new_entry["Lect_ID"] or new_entry["Lect_ID"] == "abui1241-lexi":
         new_entry["Lect_ID"] = previous_lect
     previous_lect = new_entry["Lect_ID"]
     new_entry['ID'] = max_id + r

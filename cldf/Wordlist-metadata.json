@@ -53,7 +53,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
-                        "required": true,
+                        "required": false,
                         "name": "Form"
                     },
                     {
