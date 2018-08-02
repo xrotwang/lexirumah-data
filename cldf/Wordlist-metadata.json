@@ -52,9 +52,20 @@
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "required": false,
+                        "name": "Form_according_to_Source"
+                    },
+                    {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": false,
                         "name": "Form"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Local_Orthography"
                     },
                     {
                         "datatype": "string",
