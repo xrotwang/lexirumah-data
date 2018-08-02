@@ -12,8 +12,12 @@ import xlrd
 import pycldf
 
 import pyclts
+from segments import Tokenizer, Profile
 
 bipa = pyclts.TranscriptionSystem()
+sounds = list(bipa.sounds)
+sounds.extend([])
+tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)))
 
 from pylexirumah import (get_dataset, repository)
 
@@ -26,7 +30,50 @@ parser.add_argument("directory", nargs="?",
 parser.add_argument("--wordlist",
                     type=Path, default=repository,
                     help="The Wordlist to expand. (default: LexiRumah.)")
-args = parser.parse_args([])
+parser.add_argument("--override",
+                    default='none',
+                    choices=["none", "all", "ask", "ask-per-source"],
+                    help="Instead of just checking all forms and reporting"
+                    "those that don't match, just overwrite everything"
+                    "systematically.")
+parser.add_argument("--check-stress",
+                    default=False, action="store_true",
+                    help="By default, we ignore stress marks in comparisons."
+                    " This option dumbs down the comparisons to report changes"
+                    " in stress marking.")
+args = parser.parse_args()
+
+if args.check_stress:
+    def drop_stress(string):
+        return string
+else:
+    def drop_stress(string):
+        return string and string.replace("ˈ", "").replace("ˌ", "")
+if args.override == 'none':
+    def maybe_extend(collection, new, old):
+        collection.extend(old)
+elif args.override == 'all':
+    def maybe_extend(collection, new, old):
+        collection.extend(new)
+elif args.override == 'ask-per-source':
+    def maybe_extend(collection, new, old):
+        if input() == "y":
+            collection.extend(new)
+        else:
+            collection.extend(old)
+elif args.override == 'ask':
+    def maybe_extend(collection, new, old):
+        for new_row, old_row in zip(new, old):
+            if new_row == old_row:
+                collection.append(old_row)
+            else:
+                print(old_row)
+                print(new_row)
+                if input() == "y":
+                    collection.append(new_row)
+                else:
+                    collection.append(old_row)
+
 
 dataset = get_dataset(args.wordlist)
 if dataset.module != 'Wordlist':
@@ -111,139 +158,199 @@ def needleman_wunsch(x, y, lodict={}, gop=-2.5, gep=-1.75, local=False, indel=''
             break
     return score, alg
 
+transcription_systems = {None: None}
 
-def ideosyncratic(string):
-    raise NotImplementedError
-
-
-def replace(replacements):
-    def apply(string):
-        for before, after in replacements:
-            string = string.replace(before, after)
-        return string
-    return apply
-
-
-def remove_bracketed_material(string):
-    while "(" in string:
-        opening = string.index("(")
-        closing = string.index(")")
-        assert opening < closing
-        string = string[:opening] + string[closing+1:]
-    return string.strip().strip("_")
-
-
-def change_accent_stress_marks(string):
-    string = replace([
-        ("á", "ˈa"),
-        ("é", "ˈe"),
-        ("í", "ˈi"),
-        ("ó", "ˈo"),
-        ("ú", "ˈu")
-    ])(string)
-    try:
-        stress = string.index("́")
-        string = string[:stress-1] + "ˈ" + string[stress-1] + string[stress:]
-    except ValueError:
-        pass
-    return string
-
-profile_functions = {
-    "accent-marks-stress": change_accent_stress_marks,
-    "include-bracketed": replace([("(", ""), (")", "")]),
-    "american-j": replace([("j", "ʤ"), ("y", "j")])
-}
-
-transcription_systems = {}
-
+c_segments = dataset["FormTable", "segments"].name
 c_source = dataset["FormTable", "source"].name
+c_value = dataset["FormTable", "value"].name
+c_form = dataset["FormTable", "form"].name
+c_id = dataset["FormTable", "id"].name
+
+class Transducer:
+    def __init__(self, rules):
+        self.rules = rules
+
+    def __repr__(self):
+        return "Transducer({:})".format(self.rules)
+
+    def __str__(self):
+        return " / ".join("{:} → {:}".format(before, after) for before, after in self.rules)
+
+    def __call__(self, line):
+        """Apply tranducer rules, left to right then first to last, to line.
+
+        Apply the first fitting replacement rule (a before/after pair) to the
+        leftmost bit of the string, then shift right past the replaced section and
+        again apply the first matching rule, and so forth until you reach the end
+        of the string. Note this is different to applying each rule in order
+        whereever it fits, see the examples!
+
+        Examples
+        --------
+
+        >>> string = "qaqqqqq"
+        >>> rules = [("qq", "a"), ("aq", "b")]
+        >>> replace(string, rules)
+        'qbaa'
+        >>> for before, after in rules:
+        ...   string.replace(before, after)
+        'qaab'
+
+        """
+        start = 0
+        output = ""
+        while start < len(line):
+            oldStart = start
+            for (left, right) in self.rules:
+                match = False
+                end = len(line) + 1
+                while end > start:
+                    if left == line[start:end]:
+                        output += right
+                        start = end
+                        match = True
+                        break
+                    else:
+                        end -= 1
+                if match:
+                    break
+            if start == oldStart:
+                output += line[start]
+                start += 1
+        return output
+
+transducer_cache = {}
+
+message = print
 
 lines = []
-possible_duplicates = []
-previous_clean_form = None
-previous_line = {"Concept_ID": None}
+original_lines_of_this_source = []
+new_lines_of_this_source = []
+previous_source = None
 for line in dataset["FormTable"].iterdicts():
+    # Load the line's main source, that is, the first entry in the sources list.
     try:
         main_source = line[c_source][0]
     except IndexError:
-        print(line["ID"])
-        lines.append(line)
+        main_source = None
+        message("Source not found for form {:}".format(line[c_id]))
+
+    if main_source != previous_source:
+        maybe_extend(
+            lines,
+            new_lines_of_this_source,
+            original_lines_of_this_source)
+        original_lines_of_this_source = []
+        new_lines_of_this_source = []
+        previous_source = main_source
+
+    if not line[c_value] or line[c_value] == '-':
+        if line[c_form]:
+            message("Form {:} is not given in source, but had a form "
+                    "{:} specified.".format(line[c_id], line[c_form]))
+        if line[c_segments]:
+            message("Form {:} is not given in source, but had segments "
+                    "{:} specified.".format(line[c_id], line[c_segments]))
+        if line["Local_Orthography"]:
+            message("Form {:} is not given in source, but had local "
+                    "orthography {:} specified.".format(
+                        line[c_id], line[c_segments]))
+        line[c_form] = None
+        line[c_segments] = None
+        line["Local_Orthography"] = None
+        original_lines_of_this_source.append(line)
+        new_lines_of_this_source.append(line)
         continue
+
+    # Load the orthographic profile of that main source.
     try:
+        # First, see whether we have it in cache
         orthographic_profile = transcription_systems[main_source]
     except KeyError:
+        # Otherwise, look up the name of the orthographic profile specified in
+        # the source metadata.
         source = dataset.sources[main_source]
         try:
-            profile = source["orthographic_profile"]
+            transducer_files = source["orthographic_profile"].split(":")
         except KeyError:
-            profile = None
-        if profile:
-            orthographic_profile = profile_functions[profile]
-        else:
-            orthographic_profile = None
-        print(main_source, orthographic_profile)
-        transcription_systems[main_source] = orthographic_profile
-    form = line["Form"]
-    if orthographic_profile is not None:
-        # Load orthographic profile
-        # Apply substitutions to form
-        try:
-            form = orthographic_profile(form)
-        except NotImplementedError:
-            print(line["ID"])
-            lines.append(line)
-            continue
-        except ValueError as e:
-            print(e)
-            print(line["ID"])
-            line["Comment"] = (line["Comment"] + "; Invalid IPA") if line["Comment"] else "Invalid IPA"
-            lines.append(line)
-            continue
-    form = form.strip()
-    # Normalize length markers
-    form = form.replace(":", "ː")
-    # Normalize word boundary markers
-    form = form.replace(" ", "_")
-    form = form.replace("-", "_")
-    # Remove bracketed material
-    form = remove_bracketed_material(form)
-    segments = []
-    for letter in form:
-        # if letter == "ː":
-        #    letter = previous_letter
-        if letter in ["ˈ", "'", ",", "ˌ"]:
-            continue
-        if letter in ["."]:
-            # Syllabic boundary marker
-            continue
-        sound = bipa[letter]
-        if isinstance(sound, pyclts.models.UnknownSound):
-            try:
-                segments[-1] = bipa[segments[-1].grapheme + letter]
-            except (IndexError, AttributeError):
-                line["Comment"] = (line["Comment"] + "; Invalid IPA") if line["Comment"] else "Invalid IPA"
-                lines.append(line)
-        else:
-            segments.append(sound)
-            previous_letter = letter
-    line["Segments"] = [s for s in line["Segments"] if s]
-    old_clean_form = "".join(line["Segments"]).replace(" ", "_").strip("_")
-    new_clean_form = "".join(str(s) for s in segments).replace(" ", "_").strip("_")
-    if old_clean_form != new_clean_form:
-        diff, align = needleman_wunsch(line["Segments"], [str(s) for s in segments])
-        print(line["ID"])
-        print(old_clean_form, new_clean_form, line["Form"])
-        print(*["{:3s}".format(x) for x, y in align])
-        print(*["{:3s}".format(y) for x, y in align])
-        print(diff)
-    line["Segments"] = [str(s) for s in segments]
-    if all([previous_clean_form == new_clean_form,
-            previous_line["Concept_ID"] == line["Concept_ID"],
-            "(" in line["Form"]]):
-        possible_duplicates.append(line)
-    else:
-        lines.append(line)
-    previous_clean_form = new_clean_form
-    previous_line = line
+            # It is permitted to not specify an orthographic profile in a
+            # source. Then we assume the source is in ideosyncratic and rely on
+            # forms being given explicitly. NOTE how this is different from
+            # specifying an empty orthographic profile: An empty profile means
+            # that no transducers are applied, i.e. that the data is already in
+            # IPA.
+            transducer_files = None
 
-dataset["FormTable"].write(lines)
+        # Now we get the list of transducer functions to apply.
+        if transducer_files is None:
+            orthographic_profile = None
+        else:
+            orthographic_profile = []
+            for file in transducer_files:
+                try:
+                    transducer_cache[file]
+                except KeyError:
+                    # That file is not in our cache yet, we have to load it and
+                    # turn it into a function.
+                    substitutions = []
+                    for rule in (args.wordlist.parent / file).open():
+                        rule = rule.strip("\n")
+                        rule = rule.strip("\r")
+                        if "//" in rule:
+                            rule = rule[:rule.index("//")]
+                        if not rule.strip():
+                            continue
+                        if "[" in rule or "#def" in rule:
+                            raise NotImplementedError("Context groups are not supported yet.")
+                        before, after = rule.split("\t")
+                        substitutions.append((before, after))
+                    transducer_cache[file] = Transducer(substitutions)
+                orthographic_profile.append(transducer_cache[file])
+        if orthographic_profile:
+            print(*(str(o) for o in orthographic_profile))
+        transcription_systems[main_source] = orthographic_profile
+
+    if orthographic_profile is None:
+        # There is no way to do automatic transcription: Check that a form is given.
+        form = line[c_form]
+        if not form:
+            message(
+                "Form {:} has ideosyncratic orthography and original value {:}, "
+                "but no form was given.".format(line[c_id], line[c_value]))
+    else:
+        # Apply substitutions to form
+        form = line[c_value]
+        for transducer in orthographic_profile:
+            form = transducer(form)
+        message(
+            "Form {:} has original value {:}, which should correspond to"
+            " {:} according to the orthography, but form {:} was given."
+            "".format(line[c_id], line[c_value], form, line[c_form]))
+
+    line[c_form] = form
+
+    # Segment form and check with BIPA
+    segments = tokenizer.transform(drop_stress(line[c_form]))
+    if "\uFFFD" in segments: # Found a character not defined by BIPA
+        problem = ''.join(segments).index("\uFFFD")
+        message(
+            "Form {:} [{:}] contains non-BIPA character '{:}'.".format(
+                line[c_id], form, form[problem]))
+
+    if ([drop_stress(x) for x in line[c_segments]] !=
+          [str(x) for x in bipa(' '.join(segments))]):
+        message(
+            "Form {:} has form {:}, which should correspond to segments"
+            " [{:}], but segments [{:}] were given."
+            "".format(
+                line[c_id],
+                line[c_form],
+                " ".join(segments),
+                " ".join(line[c_segments])))
+
+    line[c_segments] = bipa(" ".join(segments))
+
+    lines.append(line)
+
+if args.override != 'none':
+    dataset["FormTable"].write(lines)
