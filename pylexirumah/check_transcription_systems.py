@@ -331,7 +331,11 @@ for line in dataset["FormTable"].iterdicts():
                             continue
                         if "[" in rule or "#def" in rule:
                             raise NotImplementedError("Context groups are not supported yet.")
-                        before, after = rule.split("\t")
+                        try:
+                            before, after = rule.split("\t")
+                        except ValueError:
+                            print(rule)
+                            raise
                         substitutions.append((before, after))
                     transducer_cache[file] = Transducer(substitutions)
                 orthographic_profile.append(transducer_cache[file])
@@ -371,8 +375,11 @@ for line in dataset["FormTable"].iterdicts():
 
     line[c_form] = form
 
-    # Segment form and check with BIPA
-    segments = [bipa[x] for x in tokenizer(form, ipa="true").split()]
+    # Segment form and check with BIPA The segments cannot deal cleanly with
+    # suprasegmentals (syllable boundaries, syllable stress), so those are
+    # ignored explicitly or implicitly.
+    segments = [bipa[x]
+                for x in tokenizer(form.replace(".", ""), ipa="true").split()]
     for s in segments:
         if isinstance(s, pyclts.models.UnknownSound):
             message(
