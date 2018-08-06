@@ -21,6 +21,30 @@ tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)))
 
 from pylexirumah import (get_dataset, repository)
 
+def resolve_brackets(string):
+    """Resolve a string into all description without brackets
+
+    For a `string` with matching parentheses, but without nested parentheses,
+    yield every combination of the contents of any parenthesis being present or
+    absent.
+
+    >>> list(resolve_brackets("no brackets"))
+    ["no brackets"]
+
+    >>> sorted(list(resolve_brackets("(no )bracket(s)")))
+    ["bracket", "brackets", "no bracket", "no brackets"]
+
+    """
+    if "(" in string:
+        opening = string.index("(")
+        closing = string.index(")")
+        for form in resolve_brackets(string[:opening] + string[closing+1:]):
+            yield form.strip().strip("_")
+        for form in resolve_brackets(string[:opening] + string[opening+1:closing] + string[closing+1:]):
+            yield form.strip().strip("_")
+    else:
+        yield string
+
 parser = argparse.ArgumentParser(description="Import word lists from a new source into LexiRumah.")
 parser.add_argument("directory", nargs="?",
                     type=Path, default="./",
@@ -57,6 +81,8 @@ elif args.override == 'all':
         collection.extend(new)
 elif args.override == 'ask-per-source':
     def maybe_extend(collection, new, old):
+        if not new:
+            return
         if input() == "y":
             collection.extend(new)
         else:
@@ -243,6 +269,9 @@ for line in dataset["FormTable"].iterdicts():
         original_lines_of_this_source = []
         new_lines_of_this_source = []
         previous_source = main_source
+        print(main_source)
+
+    original_lines_of_this_source.append(line.copy())
 
     if not line[c_value] or line[c_value] == '-':
         if line[c_form]:
@@ -315,42 +344,55 @@ for line in dataset["FormTable"].iterdicts():
         form = line[c_form]
         if not form:
             message(
-                "Form {:} has ideosyncratic orthography and original value {:}, "
-                "but no form was given.".format(line[c_id], line[c_value]))
+                "Form {:} has ideosyncratic orthography and original value"
+                " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
     else:
         # Apply substitutions to form
         form = line[c_value]
         for transducer in orthographic_profile:
             form = transducer(form)
-        message(
-            "Form {:} has original value {:}, which should correspond to"
-            " {:} according to the orthography, but form {:} was given."
-            "".format(line[c_id], line[c_value], form, line[c_form]))
+
+    if form != line[c_form]:
+        resolutions = [drop_stress(r) for r in resolve_brackets(form)]
+        if len(resolutions) > 1 and drop_stress(line[c_form]) in resolutions:
+            variant = resolutions.index(drop_stress(line[c_form]))
+            resolution = list(resolve_brackets(form))[variant]
+            if len(resolution) > len(line[c_form]):
+                message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly. Taking form [{:}] as compromise.".format(line[c_id], line[c_value], form, line[c_form], resolution))
+                form = resolution
+            else:
+                message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly.".format(line[c_id], line[c_value], form, line[c_form]))
+                form = line[c_form]
+        elif line[c_form] != drop_stress(form):
+            message(
+                "Form {:} has original value <{:}>, which should correspond to"
+                " [{:}] according to the orthography, but form [{:}] was given."
+                "".format(line[c_id], line[c_value], form, line[c_form]))
 
     line[c_form] = form
 
     # Segment form and check with BIPA
-    segments = tokenizer.transform(drop_stress(line[c_form]))
-    if "\uFFFD" in segments: # Found a character not defined by BIPA
-        problem = ''.join(segments).index("\uFFFD")
-        message(
-            "Form {:} [{:}] contains non-BIPA character '{:}'.".format(
-                line[c_id], form, form[problem]))
+    segments = [bipa[x] for x in tokenizer(form, ipa="true").split()]
+    for s in segments:
+        if isinstance(s, pyclts.models.UnknownSound):
+            message(
+                "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
+                    line[c_id], form, s.source))
 
     if ([drop_stress(x) for x in line[c_segments]] !=
-          [str(x) for x in bipa(' '.join(segments))]):
+          [str(x) for x in segments]):
         message(
             "Form {:} has form {:}, which should correspond to segments"
             " [{:}], but segments [{:}] were given."
             "".format(
                 line[c_id],
                 line[c_form],
-                " ".join(segments),
+                " ".join(map(str, segments)),
                 " ".join(line[c_segments])))
 
-    line[c_segments] = bipa(" ".join(segments))
+    line[c_segments] = segments
 
-    lines.append(line)
+    new_lines_of_this_source.append(line)
 
 if args.override != 'none':
     dataset["FormTable"].write(lines)
