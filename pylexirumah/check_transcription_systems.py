@@ -257,7 +257,7 @@ for line in dataset["FormTable"].iterdicts():
     # Load the line's main source, that is, the first entry in the sources list.
     try:
         main_source = line[c_source][0]
-    except IndexError:
+    except (IndexError, KeyError):
         main_source = None
         message("Source not found for form {:}".format(line[c_id]))
 
@@ -378,8 +378,11 @@ for line in dataset["FormTable"].iterdicts():
     # Segment form and check with BIPA The segments cannot deal cleanly with
     # suprasegmentals (syllable boundaries, syllable stress), so those are
     # ignored explicitly or implicitly.
-    segments = [bipa[x]
-                for x in tokenizer(form.replace(".", ""), ipa="true").split()]
+    try:
+        segments = [bipa[x]
+                    for x in tokenizer(form.replace(".", ""), ipa="true").split()]
+    except KeyError:
+        segments = list(bipa[x] for x in form.replace(".", ""))
     for s in segments:
         if isinstance(s, pyclts.models.UnknownSound):
             message(
