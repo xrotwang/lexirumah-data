@@ -24,9 +24,10 @@ def clean_segments(row):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("input", default=Path("Wordlist-metadata.json"), nargs="?",
-                        type=Path,
-                        help="Input file containing the CLDF word list. (default: ./Wordlist-metadata.json")
+    parser.add_argument("input", default=Path("Wordlist-metadata.json"),
+                        nargs="?", type=Path,
+                        help="Input file containing the CLDF word list."
+                        " (default: ./Wordlist-metadata.json")
     parser.add_argument("output", default=sys.stdout, nargs="?",
                         type=argparse.FileType('w'),
                         help="Output file to write segmented data to")
