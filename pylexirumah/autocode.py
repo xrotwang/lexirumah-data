@@ -7,18 +7,27 @@ from pycldf.util import Path
 import argparse
 
 import lingpy
+import lingpy.compare.partial
 
 
 def clean_segments(row):
-    row["Segments"] = [x for x in row["Segments"] if x]
+    try:
+        if row["Segments"][0] == "+":
+            row["Segments"] = row["Segments"][1:]
+        if row["Segments"][-1] == "+":
+            row["Segments"] = row["Segments"][:-1]
+    except IndexError:
+        return None
+    row["Segments"] = [x for x in row["Segments"] if x and x != "0"]
     return row["Segments"]
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("input", default=Path("Wordlist-metadata.json"), nargs="?",
-                        type=Path,
-                        help="Input file containing the CLDF word list. (default: ./Wordlist-metadata.json")
+    parser.add_argument("input", default=Path("Wordlist-metadata.json"),
+                        nargs="?", type=Path,
+                        help="Input file containing the CLDF word list."
+                        " (default: ./Wordlist-metadata.json")
     parser.add_argument("output", default=sys.stdout, nargs="?",
                         type=argparse.FileType('w'),
                         help="Output file to write segmented data to")
@@ -30,13 +39,13 @@ if __name__ == "__main__":
                         help="Use ASJP classes for similarity coding")
     args = parser.parse_args()
 
-    lex = lingpy.LexStat.from_cldf(
+    lex = lingpy.compare.partial.Partial.from_cldf(
         args.input,
         col="lect_id", row="concept_id", segments="segments", transcription="form",
         filter=clean_segments)
     lex.get_scorer(runs=1000)
     lex.output('tsv', filename='lexstats', ignore=[])
-    lex.cluster(method='lexstat', threshold=0.55, ref='cogid-infomap', cluster_method="infomap", verbose=True)
+    lex.partial_cluster(method='lexstat', threshold=0.55, ref='cogid-infomap', cluster_method="infomap", verbose=True)
     lex.output("tsv", filename="auto-clusters")
     alm = lingpy.Alignments(lex,
         col="lect_id", row="concept_id", segments="segments", transcription="form",
