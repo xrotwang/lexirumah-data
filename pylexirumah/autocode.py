@@ -11,14 +11,19 @@ import lingpy.compare.partial
 
 
 def clean_segments(row):
-    try:
-        if row["Segments"][0] == "+":
-            row["Segments"] = row["Segments"][1:]
-        if row["Segments"][-1] == "+":
-            row["Segments"] = row["Segments"][:-1]
-    except IndexError:
-        return None
-    row["Segments"] = [x for x in row["Segments"] if x and x != "0"]
+    # Remove all unknown sounds
+    row["Segments"] = [x.replace("_", "+")
+                       for x in row["Segments"]
+                       if x and x != "0"]
+    # Remove all empty morphemes
+    old = "+"
+    for i in range(len(row["Segments"])-1, -1, -1):
+        if old == "+" == row["Segments"][i]:
+            del row["Segments"][i]
+        else:
+            old = row["Segments"][i]
+    if row["Segments"] and row["Segments"][0] == "+":
+        del row["Segments"][0]
     return row["Segments"]
 
 
@@ -45,10 +50,13 @@ if __name__ == "__main__":
         filter=clean_segments)
     lex.get_scorer(runs=1000)
     lex.output('tsv', filename='lexstats', ignore=[])
-    lex.partial_cluster(method='lexstat', threshold=0.55, ref='cogid-infomap', cluster_method="infomap", verbose=True)
+    # For some purposes it is useful to have monolithic cognate classes.
+    lex.cluster(method='lexstat', threshold=0.55, ref='cogid', cluster_method="infomap", verbose=True)
+    # But actually, in most cases partial cognates are much more useful.
+    lex.partial_cluster(method='lexstat', threshold=0.55, ref='partialids', cluster_method="infomap", verbose=True)
     lex.output("tsv", filename="auto-clusters")
     alm = lingpy.Alignments(lex,
         col="lect_id", row="concept_id", segments="segments", transcription="form",
-        ref="cogid-infomap")
-    alm.align(method='progressive', scoredict=lex.cscorer)
+                            ref="partialids", fuzzy=True)
+    alm.align(method='progressive')
     alm.output('tsv', filename='aligned', ignore='all', prettify=False)

@@ -185,9 +185,17 @@ def lexirumah_glottocodes(dataset=None):
     """
     if dataset is None:
         dataset = get_dataset()
-    return {
-        lect["ID"]: lect["Glottocode"]
-        for lect in dataset["LanguageTable"].iterdicts()}
+    result = {}
+    for lect in dataset["LanguageTable"].iterdicts():
+        g = None
+        try:
+            g = lect["Glottocode"]
+        except KeyError:
+            pass
+        if g is None:
+            g = re.match("[a-z]{4}[0-9]{4}", lect["ID"]).group()
+        result[lect["ID"]] = g
+    return result
 
 
 def glottolog_clade(iso_or_glottocode, dataset=None):
