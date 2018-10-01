@@ -11,14 +11,29 @@ import lingpy.compare.partial
 
 
 def clean_segments(row):
-    try:
-        if row["Segments"][0] == "+":
-            row["Segments"] = row["Segments"][1:]
-        if row["Segments"][-1] == "+":
-            row["Segments"] = row["Segments"][:-1]
-    except IndexError:
-        return None
-    row["Segments"] = [x for x in row["Segments"] if x and x != "0"]
+    """Reduce the row's segments to not contain empty morphemes.
+
+    This function removes all unknown sound segments (/0/) from the "Segments"
+    list of the `row` dict it is passed, and removes empty morphemes by
+    collapsing subsequent morpheme boundaries (_#◦+→←) into one. The `row` is
+    modified in-place, the resulting cleaned segment list is returned.
+
+    >>> row = {"Segments": list("+_ta+0+at")
+    >>> clean_segments(row)
+    ['t', 'a', '+', 'a', 't']
+    >>> row
+    {'Segments': ['t', 'a', '+', 'a', 't']}
+
+    """
+    segments = row["Segments"]
+    segments.insert(0, "#")
+    segments.append("#")
+    for s in range(len(segments) - 1, 0, -1):
+        if segments[s] == "0":
+            del segments[s]
+        if segments[s - 1] in "_#◦+→←" and segments[s] in "_#◦+→←":
+            del segments[s]
+    row["Segments"] = segments[1:-1]
     return row["Segments"]
 
 
@@ -30,12 +45,6 @@ if __name__ == "__main__":
     parser.add_argument("output", default=sys.stdout, nargs="?",
                         type=argparse.FileType('w'),
                         help="Output file to write segmented data to")
-    parser.add_argument("--lodict", default=None,
-                        type=argparse.FileType('rb'),
-                        help="Phonetic segment similiarity dictionary")
-    parser.add_argument("--asjp", action="store_const", const="ASJP",
-                        dest="tokens",
-                        help="Use ASJP classes for similarity coding")
     args = parser.parse_args()
 
     lex = lingpy.compare.partial.Partial.from_cldf(
