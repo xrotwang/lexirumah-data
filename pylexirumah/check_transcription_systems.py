@@ -395,7 +395,7 @@ for line in dataset["FormTable"].iterdicts():
                 line[c_id],
                 line[c_form],
                 " ".join(map(str, segments)),
-                " ".join(line[c_segments])))
+                " ".join([s or '' for s in line[c_segments]])))
 
     line[c_segments] = segments
 
