@@ -96,6 +96,7 @@ def main(args):
     original_rows = []
     data_on_form = {}
     official_cognateset_assignments = {}
+    max_row_id = 0
     for r, row in enumerate(dataset["CognateTable"].iterdicts()):
         original_rows.append(row)
         data_on_form[row["Form_ID"]] = row
