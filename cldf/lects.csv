@@ -18,6 +18,7 @@ blag1240-kulij,Blagar-Kulijahi,Timor-Alor-Pantar,-8.2975,124.3033,"East Pantar, 
 blag1240-nule,Blagar-Nule,Timor-Alor-Pantar,-8.3672,124.2409,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,Indonesian
 blag1240-tuntu,Blagar-Tuntuli,Timor-Alor-Pantar,-8.2056,124.2907,"Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,Indonesian
 blag1240-warsa,Blagar-Warsalelang,Timor-Alor-Pantar,-8.3252,124.3011,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,Indonesian
+pura1258,Blagar-Pura,Timor-Alor-Pantar,-8.2829,124.3307,"Pura Island, Alor Regency, East Nusa Tenggara, Indonesia",pura1258,beu,blag,,includes Blagar Dolabang and Blagar Dadibira,
 buna1278-bobon,Bunak-Bobonaro,Timor-Alor-Pantar,-9.033683,125.323406,"Bobonaro, Timor-Leste",buna1278,bfn,buna,,,Indonesian
 buna1278-malia,Bunak-Maliana,Timor-Alor-Pantar,-8.9912,125.2227,"Bobonaro, Timor-Leste",buna1278,bfn,,,,Indonesian
 buna1278-suai,Bunak-Suai,Timor-Alor-Pantar,-9.314842,125.255396,"Suai, Timor-Leste",buna1278,bfn,,,,Indonesian
@@ -31,7 +32,6 @@ kabo1247,Kabola-Monbang,Timor-Alor-Pantar,-8.1737,124.5546,"Kabola, Alor Regency
 kaer1234,Kaera-Abangiwang,Timor-Alor-Pantar,-8.4047,124.2175,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",kaer1234,jka,kaer,,,Indonesian
 kafo1240,Kafoa-Probur,Timor-Alor-Pantar,-8.3616,124.4478,"Alor Bar. Daya, Kabupaten Alor, Nusa Tenggara Tim., Indonesia",kafo1240,kpu,,,Coordinates taken from Probur village on OSM [Gereon]; changed lat and long in this file to match Languages and Coordinates excel file [Emily],Indonesian
 kama1365,Kamang-Atoitaa,Timor-Alor-Pantar,-8.2543,124.8515,"Alor Timur Laut, Alor Regency, East Nusa Tenggara, Indonesia",kama1365,woi,,,,Indonesian
-keda1252,Kedang,Austronesian,-8.2626,123.775,"Omesuri, Lembata Regency, East Nusa Tenggara, Indonesia",lama1277,,,"Kedang, from Keraf (1978)",approximates from Keraf map,Indonesian
 keda1252-leuba,Kedang-Leubatang,Austronesian,-8.322779,123.717692,"Omesuri, Lembata Regency, East Nusa Tenggara, Indonesia",keda1252,,keda,,Originally listed as Kedang3,Indonesian
 keda1252-leuwa,Kedang-Léuwayang,Austronesian,-8.229244,123.742477,"Omesuri, Lembata Regency, East Nusa Tenggara, Indonesia",keda1252,,,,Word list by,
 kema1243,Kemak,Austronesian,-8.9729,125.2074,"Bobonaro, Timor-Leste",kema1243,kem,,,,
@@ -47,7 +47,7 @@ lama1277-horow,Lamaholot-Horowura,Austronesian,-8.3299,123.1014,"West Adonara, E
 lama1277-ileap,Lamaholot-Ile Ape,Austronesian,-8.2898,123.464,"Ile Ape, Lembata Regency, East Nusa Tenggara, Indonesia",lama1277,slp,,"Ile Ape, from Keraf (1978)",approximates from Keraf map,
 lama1277-imulo,Lamaholot-Imulolo,Austronesian,-8.5024,123.3404,"Nagawutung, Lembata Regency, East Nusa Tenggara, Indonesia",lama1277,slp,,"Imulolo, from Keraf (1978)",approximates from Keraf map,
 lama1277-kalik,Lamaholot-Kalikasa,Austronesian,-8.463,123.4798,"Atadei, Lembata Regency, East Nusa Tenggara, Indonesia",kali1380,slp,,"Kalikasa, from Keraf (1978)",approximates from Keraf map,
-keda1252,Kedang,Austronesian,-8.2626,123.775,"Omesuri, Lembata Regency, East Nusa Tenggara, Indonesia",keda1252,,,"Kedang, from Keraf (1978)",approximates from Keraf map,
+keda1252,Kedang,Austronesian,-8.2626,123.775,"Omesuri, Lembata Regency, East Nusa Tenggara, Indonesia",keda1252,,,"Kedang, from Keraf (1978)",approximates from Keraf map,Indonesian
 lama1277-kiwan,Lamaholot-Kiwangona,Austronesian,-8.363,123.2635,"Ile Boleng, East Flores Regency, East Nusa Tenggara, Indonesia",lama1277,slp,,"Kiwangona, from Keraf (1978)",approximates from Keraf map,
 lama1277-lamah,Lamaholot-Lamahora,Austronesian,-8.3869,123.431,"Nubatukan, Lembata Regency, East Nusa Tenggara, Indonesia",lama1277,slp,,"Lamahora, from Keraf (1978)",approximates from Keraf map,
 lama1277-lamak,Lamaholot-Lamakera,Austronesian,-8.4385,123.1582,"East Solor, East Flores Regency, East Nusa Tenggara, Indonesia",lama1277,slp,,"Lamakera, from Keraf (1978)",approximates from Keraf map,
@@ -85,31 +85,6 @@ tetu1246,Tetun Dili,Austronesian,-8.5478,125.5442,"Dili, Timor-Leste",tetu1246,t
 tetu1245-suai,Tetun Terik-Suai,Austronesian,-9.314842,125.255396,"Suai, Timor-Leste",sout2898,tdt,,,,
 tetu1245-vique,Tetun Terik-Viqueque,Austronesian,-8.8608,126.3631,"Viqueque, Timor-Leste",east2473,tdt,tetu,,,
 tuku1254,Tokodede,Austronesian,-8.6128,125.2017,"Maubara, Timor-Leste",tuku1254,tkd,,,Tukudede: tuku1254,
-atim1239,Abui-Atimelang,Timor-Alor-Pantar,-8.226,124.6683,"North Alor Tengah, Alor Regency, East Nusa Tenggara, Indonesia",atim1239,abz,,,Atimelang and Fuimelang were two villages but have merged; Atimelang=Atengmelang,
-abui1241-fuime,Abui-Fuimelang,Timor-Alor-Pantar,-8.226,124.6683,"North Alor Tengah, Alor Regency, East Nusa Tenggara, Indonesia",abui1241,abz,,,,
-abui1241-petle,Abui-Petleng,Timor-Alor-Pantar,-8.2144,124.593,"North Alor Tengah, Alor Regency, East Nusa Tenggara, Indonesia",abui1241,abz,,,,
-abui1241-takal,Abui-Takalelang,Timor-Alor-Pantar,-8.1887,124.6264,"North Alor Tengah, Alor Regency, East Nusa Tenggara, Indonesia",abui1241,abz,abui,,,
-abui1241-ulaga,Abui-Ulaga,Timor-Alor-Pantar,-8.403792,124.623702,"Mataru, Alor Regency, East Nusa Tenggara, Indonesia",abui1241,abz,,,,
-adan1251-otvai,Adang-Otvai,Timor-Alor-Pantar,-8.1837,124.4979,"Alor Northwest, Alor Regency, East Nusa Tenggara, Indonesia",adan1251,adn,,,,
-adan1251-lawah,Adang-Lawahing,Timor-Alor-Pantar,-8.2109,124.4272,"Alor Northwest, Alor Regency, East Nusa Tenggara, Indonesia",adan1251,adn,,,,
-alor1247-besar,Alorese-Alor-Besar,Austronesian,-8.2222047,124.4084444,"Alor Northwest, Alor Regency, East Nusa Tenggara, Indonesia",alor1247,,,,,
-baka1276,Blagar-Bakalang,Timor-Alor-Pantar,-8.2634,124.2972,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",baka1276,beu,,,,
-blag1240-bama,Blagar-Bama,Timor-Alor-Pantar,-8.2771,124.3013,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,
-blag1240-kulij,Blagar-Kulijahi,Timor-Alor-Pantar,-8.2975,124.3033,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,
-blag1240-nule,Blagar-Nule,Timor-Alor-Pantar,-8.3672,124.2409,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,
-pura1258,Blagar-Pura,Timor-Alor-Pantar,-8.2829,124.3307,"Pura Island, Alor Regency, East Nusa Tenggara, Indonesia",pura1258,beu,blag,,includes Blagar Dolabang and Blagar Dadibira,
-blag1240-tuntu,Blagar-Tuntuli,Timor-Alor-Pantar,-8.2056,124.2907,"Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,
-blag1240-warsa,Blagar-Warsalelang,Timor-Alor-Pantar,-8.3252,124.3011,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",blag1240,beu,,,,
-buna1278-bobon,Bunak-Bobonaro,Timor-Alor-Pantar,-9.033683,125.323406,"Bobonaro, Timor-Leste",buna1278,bfn,buna,,,
-buna1278-suai,Bunak-Suai,Timor-Alor-Pantar,-9.314842,125.255396,"Suai, Timor-Leste",buna1278,bfn,,,,
-buna1278-malia,Bunak-Maliana,Timor-Alor-Pantar,-8.9912,125.2227,"Bobonaro, Timor-Leste",buna1278,bfn,,,,
-dein1238,Deing,Timor-Alor-Pantar,-8.3488,124.1304,"Central Pantar, Alor Regency, East Nusa Tenggara, Indonesia",dein1238,,,,,
-fata1247,Fataluku,Timor-Alor-Pantar,-8.4394,126.9821,"Lautem, Timor-Leste",fata1247,ddg,fata,,,
-hama1240,Hamap-Moru,Timor-Alor-Pantar,-8.2668,124.5183,"Alor Bar. Daya, Kabupaten Alor, Nusa Tenggara Tim., Indonesia",hama1240,hmu,,,,
-kabo1247,Kabola-Monbang,Timor-Alor-Pantar,-8.1737,124.5546,"Kabola, Alor Regency, East Nusa Tenggara, Indonesia",kabo1247,klz,,,,
-kaer1234,Kaera-Abangiwang,Timor-Alor-Pantar,-8.4047,124.2175,"East Pantar, Alor Regency, East Nusa Tenggara, Indonesia",kaer1234,jka,kaer,,,
-kafo1240,Kafoa-Probur,Timor-Alor-Pantar,-8.3616,124.4478,"Alor Bar. Daya, Kabupaten Alor, Nusa Tenggara Tim., Indonesia",kafo1240,kpu,,,Coordinates taken from Probur village on OSM [Gereon]; changed lat and long in this file to match Languages and Coordinates excel file [Emily],
-kama1365,Kamang-Atoitaa,Timor-Alor-Pantar,-8.2543,124.8515,"Alor Timur Laut, Alor Regency, East Nusa Tenggara, Indonesia",kama1365,woi,,,,
 kira1248,Kiraman,Timor-Alor-Pantar,-8.3847,124.8334,"Pureman, Alor Regency, East Nusa Tenggara, Indonesia",kira1248,kvd,,,,
 kelo1247-bring,Klon-Bring,Timor-Alor-Pantar,-8.349705,124.423117,"Alor Bar. Daya, Kabupaten Alor, Nusa Tenggara Tim., Indonesia",kelo1247,kyo,,,"From village Probur (-8.349705, 124.423117)",
 kelo1247-hopte,Klon-Hopter,Timor-Alor-Pantar,-8.4018,124.4192056,"Alor Bar. Daya, Kabupaten Alor, Nusa Tenggara Tim., Indonesia",kelo1247,kyo,,,,
@@ -128,10 +103,7 @@ teiw1235,Teiwa-Lebang,Timor-Alor-Pantar,-8.257,124.2151,"Pantar, Alor Regency, E
 wers1238-taram,Wersing-Taramana,Timor-Alor-Pantar,-8.167276,124.850714,"Alor Timur Laut, Alor Regency, East Nusa Tenggara, Indonesia",wers1238,kvw,,,"Wersing speaker recorded in Kalabahi but speaker is from Taramana: -8.167276, 124.850714. (Taramana is NOT in Kolana, so the current ID is misleading.)",
 wers1238-marit,Wersing-Maritaing,Timor-Alor-Pantar,-8.2968139,125.1093111,"East Alor, Alor Regency, East Nusa Tenggara, Indonesia",wers1238,kvw,,,,
 lamm1241-westp,Western Pantar-Tubbe,Timor-Alor-Pantar,-8.450514,124.054522,"Central Pantar, Alor Regency, East Nusa Tenggara, Indonesia",lamm1241,lev,,,"Collection by Gary Holton. From Puntaru (-8.450514, 124.054522), in the Tubbe speaking region.",
-alor1247-pandai,Alorese-Pandai,Austronesian,-8.21559,124.2643342,"Pantar, Alor Regency, East Nusa Tenggara, Indonesia",alor1247,,,,,
-alor1247-munas,Alorese-Munaseli,Austronesian,-8.1927045,124.3070337,"Pantar, Alor Regency, East Nusa Tenggara, Indonesia",alor1247,,,,,
 koto1251,Meto-Kotos Amarasi,Austronesian,-10.243719,123.872458,"South Amarasi, Kupang, East Nusa Tenggara, Indonesia",koto1251,,,"Amarasi dialect of Uab Meto, in the Kotos variety spoken by inhabitants of the hamlet Koro’oto",,
-alor1247-marisa,Alorese-Marisa,Austronesian,-8.35602,123.96226,,alor1247,aol,,,"Coordinates are of Kayang hamlet on the other side of the strait, where data was collected",
 keoo1238,Keo,Austronesian,-8.88922,121.2949,,keoo1238,xxk,,,,Indonesian
 komo1261,Komodo,Austronesian,-8.65,119.47,,komo1261,kvh,,,,Indonesian
 lioo1240,Lio,Austronesian,-8.69,121.84,,lioo1240,ljl,,,,Indonesian
