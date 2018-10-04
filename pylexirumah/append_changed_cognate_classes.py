@@ -84,7 +84,7 @@ def main(args):
         if row["ID"].startswith("#") or not row["ID"] or not row["REFERENCE"]:
             # LingPy has comment rows
             continue
-        new_cognateset_assignments[row["REFERENCE"]] = row[args.cogid]
+        new_cognateset_assignments[row["REFERENCE"]] = tuple(row[args.cogid].split())
         try:
             alignments[row["REFERENCE"]] = row["ALIGNMENT"].split()
         except AttributeError:
@@ -101,10 +101,7 @@ def main(args):
         original_rows.append(row)
         data_on_form[row["Form_ID"]] = row
         official_cognateset_assignments[row["Form_ID"]] = row["Cognateset_ID"]
-        try:
-            max_row_id = max(max_row_id, row["ID"])
-        except NameError:
-            max_row_id = row["ID"]
+        max_row_id = max(max_row_id, row["ID"])
     official_cognatesets = swap(official_cognateset_assignments)
 
     # Find changed alignments
@@ -169,6 +166,13 @@ def main(args):
                 official_cognatesets[new_name].add(form)
             other_seen.add(other)
 
+    for new_name, new_cognateset in list(still_to_match.items()):
+        while new_name in official_cognatesets:
+            new_name = new_name + "X"
+        for form in new_cognateset:
+            moved_forms[form] = new_name
+        official_cognatesets[new_name] = new_cognateset
+
     try:
         source = dataset.sources[args.source_id]
     except ValueError:
@@ -180,7 +184,7 @@ def main(args):
         # TODO: Make a docstring?
         # What is the benefit of defining this within the main function?
         t = type(last_row_id)
-        i = 0   # FIXME: Is this assignment necessary?
+        i = -1 # FIXME: Is this assignment necessary?
         empty = {"Alignment": [], "Source": []}
         for i, (form_id, new_cognateset_it) in enumerate(moved_forms_p.items()):
             row_new = defaults.get(form_id, empty).copy()
@@ -193,15 +197,24 @@ def main(args):
             else:
                 row_new["Alignment"] = defaults[form_id]["Alignment"]
                 row_new["Source"] = defaults[form_id]["Source"] + [source_p.id]
+            realigned_forms[form_id] = None
             print(row_new)
             yield row_new
         for j, (form_id, new_alignment) in enumerate(realigned_forms.items()):
             if not new_alignment:
                 continue
-            row_new = defaults.get(form_id, empty).copy()
-            row_new["ID"] = last_row_id + t(i+j+2)
-            row_new["Alignment"] = realigned_forms[form_id]
-            row_new["Source"].append(source.id)
+            try:
+                row_new = defaults[form_id].copy()
+                row_new["ID"] = last_row_id + t(i + j + 2)
+                row_new["Alignment"] = new_alignment
+                if source.id not in row_new["Source"]:
+                    row_new["Source"] = row_new["Source"] + [source.id]
+            except KeyError:
+                row_new = empty.copy()
+                row_new["ID"] = last_row_id + t(i + j + 2)
+                row_new["Form_ID"] = form_id
+                row_new["Alignment"] = new_alignment
+                row_new["Source"] = [source.id]
             print(row_new)
             yield row_new
 
