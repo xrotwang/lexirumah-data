@@ -29,10 +29,15 @@ def clean_segments(row):
     segments.insert(0, "#")
     segments.append("#")
     for s in range(len(segments) - 1, 0, -1):
-        if segments[s] == "0":
-            del segments[s]
+        if not segments[s - 1]:
+            del segments[s - 1]
+            continue
+        if segments[s - 1] == "0":
+            del segments[s - 1]
+            continue
         if segments[s - 1] in "_#◦+→←" and segments[s] in "_#◦+→←":
-            del segments[s]
+            del segments[s - 1]
+            continue
     row["Segments"] = segments[1:-1]
     return row["Segments"]
 
