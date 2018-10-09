@@ -13,6 +13,8 @@ import xlrd
 import pycldf
 
 from pylexirumah import (get_dataset, repository)
+from pylexirumah.check_transcription_systems import load_orthographic_profile, tokenizer, resolve_brackets
+
 
 parser = argparse.ArgumentParser(description="Import word lists from a new source into LexiRumah.")
 parser.add_argument("directory", nargs="?",
@@ -132,6 +134,19 @@ print("Found new source(s) {:}."
       " I assume this applies to all entries in this wordlist.".format(
           "; ".join(new_sources_field)))
 
+try:
+    transducer_files = new_sources[0]["orthographic_profile"].split(":")
+
+    print("The first of these sources, {:},"
+          " declares orthography profile(s) {:},"
+          " which I will use for your new data.".format(
+              new_sources[0].id, "; ".join(transducer_files)))
+
+    orthography = load_orthographic_profile(transducer_files)
+except KeyError:
+    orthography = None
+
+
 print("Writing all sources, old and new, back to file ...")
 for source in new_sources:
     dataset.sources.add(source)
@@ -171,22 +186,75 @@ for r, row in enumerate(rows):
     previous_lect = new_entry["Lect_ID"]
     new_entry['ID'] = max_id + r
 
-    if new_entry["Form"] or new_entry["Comment"] or new_entry["Segments"]:
-        if new_entry["Form"] and not new_entry["Segments"]:
-            # FIXME: Look up the orthographic profile in the source metadata!
-            # FIXME: Segment cleanly!
-            new_entry["Segments"] = " ".join(new_entry["Form"])
-        if not new_entry["Form"] and new_entry["Segments"]:
-            new_entry["Form"] = "".join(new_entry["Segments"].split(" "))
-        if new_entry["Segments"]:
-            new_entry["Segments"] = new_entry["Segments"].split(" ")
-    else:
-        continue
-
     if new_entry["Lect_ID"] not in languages:
         raise ValueError(
             "No metadata found for lect {:} of form in line {:d}.".format(
                 new_entry["Lect_ID"], r))
+
+    output_orthography = load_orthographic_profile(
+        languages[new_entry["Lect_ID"]]["Orthography"].split(":"))
+
+    if new_entry["Comment"] and not (new_entry["Form"] or new_entry["Segments"]):
+        # Nothing to do here.
+        pass
+    elif new_entry["Form"] or new_entry["Segments"]:
+        # There is an entry to import! Yay!
+
+        if new_entry["Form"]:
+            if orthography is None and not new_entry["Segments"]:
+                raise ValueError(
+                    "The source does not mention an orthograpic profile, so I"
+                    " have to assume an ideosyncratic one, but the"
+                    " forms are only given, not normalized.")
+            form = new_entry["Form"]
+            for step in orthography:
+                form = step(form)
+            if new_entry["Segments"]:
+                if ''.join(new_entry["Segments"]) in resolve_brackets(form):
+                    pass
+                else:
+                    raise ValueError(
+                        "Form has original value <{:}>, which should"
+                        " correspond to [{:}] according to the orthography,"
+                        " but form [{:}] was given.".format(
+                            new_entry["Form"], form,
+                            "".join(new_entry["Segments"].split())))
+            else:
+                new_entry["Segments"] = tokenizer(next(resolve_brackets(form)))
+        else:
+            if orthography == None:
+                raise ValueError(
+                    "The source claims to not use an orthograpic profile, but"
+                    " the forms are only given in (presumambly) normalized"
+                    " form.")
+            if orthography:
+                print("WARNING: Some form do not have a source form specified,"
+                      " but are indicated to derive from an orthographic form."
+                      " This algorithm cannot guarantee that the forms it"
+                      " reconstructs are actually as given in the source,"
+                      " please check manually!")
+            form = "".join(new_entry["Segments"].split(" "))
+            for step in reversed(orthography):
+                form = step.undo(form)
+            new_entry["Form"] = form
+
+        new_entry["Segments"] = new_entry["Segments"].split(" ")
+        new_entry["Form_according_to_Source"] = new_entry["Form"]
+        new_entry["Form"] = "".join(new_entry["Segments"])
+    else:
+        continue
+
+    if not output_orthography:
+        if not new_entry["Local_Orthography"]:
+            raise ValueError(
+                "The language does not mention an orthograpic profile, so I"
+                " have to assume an ideosyncratic one, but the"
+                " forms are not given in local orthography.")
+    else:
+        form = new_entry["Form"]
+        for step in output_orthography:
+            form = step.undo(form)
+        new_entry["Local_Orthography"] = form
 
     new_entry["Source"] = new_sources_field
 
