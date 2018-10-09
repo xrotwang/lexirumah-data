@@ -88,6 +88,7 @@ for r, row in enumerate(rows):
         if lang["ID"] == "abui1241-lexi":
             # Example language, skip
             continue
+        lang["Orthography"] = lang["Orthography"].split(":")
         print("Found new language {:}.".format(lang["ID"]))
         languages[lang["ID"]] = lang
 
@@ -192,7 +193,7 @@ for r, row in enumerate(rows):
                 new_entry["Lect_ID"], r))
 
     output_orthography = load_orthographic_profile(
-        languages[new_entry["Lect_ID"]]["Orthography"].split(":"))
+        languages[new_entry["Lect_ID"]]["Orthography"])
 
     if new_entry["Comment"] and not (new_entry["Form"] or new_entry["Segments"]):
         # Nothing to do here.

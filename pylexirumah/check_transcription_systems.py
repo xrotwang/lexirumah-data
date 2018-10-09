@@ -19,92 +19,7 @@ sounds = list(bipa.sounds)
 sounds.extend([])
 tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)))
 
-from pylexirumah import (get_dataset, repository)
-
-def resolve_brackets(string):
-    """Resolve a string into all description without brackets
-
-    For a `string` with matching parentheses, but without nested parentheses,
-    yield every combination of the contents of any parenthesis being present or
-    absent.
-
-    >>> list(resolve_brackets("no brackets"))
-    ["no brackets"]
-
-    >>> sorted(list(resolve_brackets("(no )bracket(s)")))
-    ["bracket", "brackets", "no bracket", "no brackets"]
-
-    """
-    if "(" in string:
-        opening = string.index("(")
-        closing = string.index(")")
-        for form in resolve_brackets(string[:opening] + string[closing+1:]):
-            yield form.strip().strip("_")
-        for form in resolve_brackets(string[:opening] + string[opening+1:closing] + string[closing+1:]):
-            yield form.strip().strip("_")
-    else:
-        yield string
-
-parser = argparse.ArgumentParser(description="Import word lists from a new source into LexiRumah.")
-parser.add_argument("directory", nargs="?",
-                    type=Path, default="./",
-                    help="The folder containing the wordlist description,"
-                    " derived from the standard template. (default: The"
-                    " current working directory.)")
-parser.add_argument("--wordlist",
-                    type=Path, default=repository,
-                    help="The Wordlist to expand. (default: LexiRumah.)")
-parser.add_argument("--override",
-                    default='none',
-                    choices=["none", "all", "ask", "ask-per-source"],
-                    help="Instead of just checking all forms and reporting"
-                    "those that don't match, just overwrite everything"
-                    "systematically.")
-parser.add_argument("--check-stress",
-                    default=False, action="store_true",
-                    help="By default, we ignore stress marks in comparisons."
-                    " This option dumbs down the comparisons to report changes"
-                    " in stress marking.")
-args = parser.parse_args()
-
-if args.check_stress:
-    def drop_stress(string):
-        return string
-else:
-    def drop_stress(string):
-        return string and string.replace("ˈ", "").replace("ˌ", "")
-if args.override == 'none':
-    def maybe_extend(collection, new, old):
-        collection.extend(old)
-elif args.override == 'all':
-    def maybe_extend(collection, new, old):
-        collection.extend(new)
-elif args.override == 'ask-per-source':
-    def maybe_extend(collection, new, old):
-        if not new:
-            return
-        if input() == "y":
-            collection.extend(new)
-        else:
-            collection.extend(old)
-elif args.override == 'ask':
-    def maybe_extend(collection, new, old):
-        for new_row, old_row in zip(new, old):
-            if new_row == old_row:
-                collection.append(old_row)
-            else:
-                print(old_row)
-                print(new_row)
-                if input() == "y":
-                    collection.append(new_row)
-                else:
-                    collection.append(old_row)
-
-
-dataset = get_dataset(args.wordlist)
-if dataset.module != 'Wordlist':
-    raise ValueError(
-        "This script can only import wordlist data to a CLDF Wordlist.")
+from pylexirumah import get_dataset, repository
 
 
 def needleman_wunsch(x, y, lodict={}, gop=-2.5, gep=-1.75, local=False, indel=''):
@@ -184,17 +99,36 @@ def needleman_wunsch(x, y, lodict={}, gop=-2.5, gep=-1.75, local=False, indel=''
             break
     return score, alg
 
-transcription_systems = {None: None}
 
-c_segments = dataset["FormTable", "segments"].name
-c_source = dataset["FormTable", "source"].name
-c_value = dataset["FormTable", "value"].name
-c_form = dataset["FormTable", "form"].name
-c_id = dataset["FormTable", "id"].name
+def resolve_brackets(string):
+    """Resolve a string into all description without brackets
+
+    For a `string` with matching parentheses, but without nested parentheses,
+    yield every combination of the contents of any parenthesis being present or
+    absent.
+
+    >>> list(resolve_brackets("no brackets"))
+    ["no brackets"]
+
+    >>> sorted(list(resolve_brackets("(no )bracket(s)")))
+    ["bracket", "brackets", "no bracket", "no brackets"]
+
+    """
+    if "(" in string:
+        opening = string.index("(")
+        closing = string.index(")")
+        for form in resolve_brackets(string[:opening] + string[closing+1:]):
+            yield form.strip().strip("_")
+        for form in resolve_brackets(string[:opening] + string[opening+1:closing] + string[closing+1:]):
+            yield form.strip().strip("_")
+    else:
+        yield string
+
 
 class Transducer:
     def __init__(self, rules):
         self.rules = rules
+        self.wordboundary = "_"
 
     def __repr__(self):
         return "Transducer({:})".format(self.rules)
@@ -216,13 +150,14 @@ class Transducer:
 
         >>> string = "qaqqqqq"
         >>> rules = [("qq", "a"), ("aq", "b")]
-        >>> replace(string, rules)
+        >>> Transducer(rules)(string)
         'qbaa'
         >>> for before, after in rules:
         ...   string.replace(before, after)
         'qaab'
 
         """
+        line = self.wordboundary + line + self.wordboundary
         start = 0
         output = ""
         while start < len(line):
@@ -243,166 +178,281 @@ class Transducer:
             if start == oldStart:
                 output += line[start]
                 start += 1
-        return output
+        return output.strip(self.wordboundary)
 
-transducer_cache = {}
+    def undo(self, line):
+        """Undo – as much as possible, due to mergers – the effect this.
 
-message = print
+        Assume that every instance of a rule result on the right hand side is
+        the result of application of this transducer. Assume furthermore that
+        every pattern matched has been produced by the first rule that could
+        produce such a pattern.
 
-lines = []
-original_lines_of_this_source = []
-new_lines_of_this_source = []
-previous_source = None
-for line in dataset["FormTable"].iterdicts():
-    # Load the line's main source, that is, the first entry in the sources list.
-    try:
-        main_source = line[c_source][0]
-    except (IndexError, KeyError):
-        main_source = None
-        message("Source not found for form {:}".format(line[c_id]))
+        >>> string = "qaqqqqq"
+        >>> rules = [("qq", "a"), ("aq", "b")]
+        >>> t = Transducer(rules)
+        >>> t(string)
+        'qbaa'
+        >>> t.undo(t(string)) == string
+        True
 
-    if main_source != previous_source:
-        maybe_extend(
-            lines,
-            new_lines_of_this_source,
-            original_lines_of_this_source)
-        original_lines_of_this_source = []
-        new_lines_of_this_source = []
-        previous_source = main_source
-        print(main_source)
+        """
+        line = self.wordboundary + line + self.wordboundary
+        start = 0
+        output = ""
+        while start < len(line):
+            oldStart = start
+            for (right, left) in self.rules:
+                match = False
+                end = len(line) + 1
+                while end > start:
+                    if left == line[start:end]:
+                        output += right
+                        start = end
+                        match = True
+                        break
+                    else:
+                        end -= 1
+                if match:
+                    break
+            if start == oldStart:
+                output += line[start]
+                start += 1
+        return output.strip(self.wordboundary)
 
-    original_lines_of_this_source.append(line.copy())
 
-    if not line[c_value] or line[c_value] == '-':
-        if line[c_form]:
-            message("Form {:} is not given in source, but had a form "
-                    "{:} specified.".format(line[c_id], line[c_form]))
-        if line[c_segments]:
-            message("Form {:} is not given in source, but had segments "
-                    "{:} specified.".format(line[c_id], line[c_segments]))
-        if line["Local_Orthography"]:
-            message("Form {:} is not given in source, but had local "
-                    "orthography {:} specified.".format(
-                        line[c_id], line[c_segments]))
-        line[c_form] = None
-        line[c_segments] = None
-        line["Local_Orthography"] = None
-        original_lines_of_this_source.append(line)
-        new_lines_of_this_source.append(line)
-        continue
+def load_orthographic_profile(transducer_files, root=repository.parent, transducer_cache={}):
+    if transducer_files is None:
+        return None
 
-    # Load the orthographic profile of that main source.
-    try:
-        # First, see whether we have it in cache
-        orthographic_profile = transcription_systems[main_source]
-    except KeyError:
-        # Otherwise, look up the name of the orthographic profile specified in
-        # the source metadata.
-        source = dataset.sources[main_source]
+    orthographic_profile = []
+    for file in transducer_files:
         try:
-            transducer_files = source["orthographic_profile"].split(":")
+            transducer_cache[file]
         except KeyError:
-            # It is permitted to not specify an orthographic profile in a
-            # source. Then we assume the source is in ideosyncratic and rely on
-            # forms being given explicitly. NOTE how this is different from
-            # specifying an empty orthographic profile: An empty profile means
-            # that no transducers are applied, i.e. that the data is already in
-            # IPA.
-            transducer_files = None
-
-        # Now we get the list of transducer functions to apply.
-        if transducer_files is None:
-            orthographic_profile = None
-        else:
-            orthographic_profile = []
-            for file in transducer_files:
+            # That file is not in our cache yet, we have to load it and
+            # turn it into a function.
+            substitutions = []
+            for rule in (root / file).open():
+                rule = rule.strip("\n")
+                rule = rule.strip("\r")
+                if "//" in rule:
+                    rule = rule[:rule.index("//")]
+                if not rule.strip():
+                    continue
+                if "[" in rule or "#def" in rule:
+                    raise NotImplementedError("Context groups are not supported yet.")
                 try:
-                    transducer_cache[file]
-                except KeyError:
-                    # That file is not in our cache yet, we have to load it and
-                    # turn it into a function.
-                    substitutions = []
-                    for rule in (args.wordlist.parent / file).open():
-                        rule = rule.strip("\n")
-                        rule = rule.strip("\r")
-                        if "//" in rule:
-                            rule = rule[:rule.index("//")]
-                        if not rule.strip():
-                            continue
-                        if "[" in rule or "#def" in rule:
-                            raise NotImplementedError("Context groups are not supported yet.")
-                        try:
-                            before, after = rule.split("\t")
-                        except ValueError:
-                            print(rule)
-                            raise
-                        substitutions.append((before, after))
-                    transducer_cache[file] = Transducer(substitutions)
-                orthographic_profile.append(transducer_cache[file])
-        if orthographic_profile:
-            print(*(str(o) for o in orthographic_profile))
-        transcription_systems[main_source] = orthographic_profile
+                    before, after = rule.split("\t")
+                except ValueError:
+                    print(rule)
+                    raise
+                substitutions.append((before, after))
+            transducer_cache[file] = Transducer(substitutions)
+        orthographic_profile.append(transducer_cache[file])
+    return orthographic_profile
 
-    if orthographic_profile is None:
-        # There is no way to do automatic transcription: Check that a form is given.
-        form = line[c_form]
-        if not form:
-            message(
-                "Form {:} has ideosyncratic orthography and original value"
-                " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Import word lists from a new source into LexiRumah.")
+    parser.add_argument("directory", nargs="?",
+                        type=Path, default="./",
+                        help="The folder containing the wordlist description,"
+                        " derived from the standard template. (default: The"
+                        " current working directory.)")
+    parser.add_argument("--wordlist",
+                        type=Path, default=repository,
+                        help="The Wordlist to expand. (default: LexiRumah.)")
+    parser.add_argument("--override",
+                        default='none',
+                        choices=["none", "all", "ask", "ask-per-source"],
+                        help="Instead of just checking all forms and reporting"
+                        "those that don't match, just overwrite everything"
+                        "systematically.")
+    parser.add_argument("--check-stress",
+                        default=False, action="store_true",
+                        help="By default, we ignore stress marks in comparisons."
+                        " This option dumbs down the comparisons to report changes"
+                        " in stress marking.")
+    args = parser.parse_args()
+
+    if args.check_stress:
+        def drop_stress(string):
+            return string
     else:
-        # Apply substitutions to form
-        form = line[c_value]
-        for transducer in orthographic_profile:
-            form = transducer(form)
-
-    if form != line[c_form]:
-        resolutions = [drop_stress(r) for r in resolve_brackets(form)]
-        if len(resolutions) > 1 and drop_stress(line[c_form]) in resolutions:
-            variant = resolutions.index(drop_stress(line[c_form]))
-            resolution = list(resolve_brackets(form))[variant]
-            if len(resolution) > len(line[c_form]):
-                message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly. Taking form [{:}] as compromise.".format(line[c_id], line[c_value], form, line[c_form], resolution))
-                form = resolution
+        def drop_stress(string):
+            return string and string.replace("ˈ", "").replace("ˌ", "")
+    if args.override == 'none':
+        def maybe_extend(collection, new, old):
+            collection.extend(old)
+    elif args.override == 'all':
+        def maybe_extend(collection, new, old):
+            collection.extend(new)
+    elif args.override == 'ask-per-source':
+        def maybe_extend(collection, new, old):
+            if not new:
+                return
+            if input() == "y":
+                collection.extend(new)
             else:
-                message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly.".format(line[c_id], line[c_value], form, line[c_form]))
-                form = line[c_form]
-        elif line[c_form] != drop_stress(form):
+                collection.extend(old)
+    elif args.override == 'ask':
+        def maybe_extend(collection, new, old):
+            for new_row, old_row in zip(new, old):
+                if new_row == old_row:
+                    collection.append(old_row)
+                else:
+                    print(old_row)
+                    print(new_row)
+                    if input() == "y":
+                        collection.append(new_row)
+                    else:
+                        collection.append(old_row)
+
+
+    dataset = get_dataset(args.wordlist)
+    if dataset.module != 'Wordlist':
+        raise ValueError(
+            "This script can only import wordlist data to a CLDF Wordlist.")
+
+
+    transcription_systems = {None: None}
+
+    c_segments = dataset["FormTable", "segments"].name
+    c_source = dataset["FormTable", "source"].name
+    c_value = dataset["FormTable", "value"].name
+    c_form = dataset["FormTable", "form"].name
+    c_id = dataset["FormTable", "id"].name
+
+    message = print
+
+    lines = []
+    original_lines_of_this_source = []
+    new_lines_of_this_source = []
+    previous_source = None
+    for line in dataset["FormTable"].iterdicts():
+        # Load the line's main source, that is, the first entry in the sources list.
+        try:
+            main_source = line[c_source][0]
+        except (IndexError, KeyError):
+            main_source = None
+            message("Source not found for form {:}".format(line[c_id]))
+
+        if main_source != previous_source:
+            maybe_extend(
+                lines,
+                new_lines_of_this_source,
+                original_lines_of_this_source)
+            original_lines_of_this_source = []
+            new_lines_of_this_source = []
+            previous_source = main_source
+            print(main_source)
+
+        original_lines_of_this_source.append(line.copy())
+
+        if not line[c_value] or line[c_value] == '-':
+            if line[c_form]:
+                message("Form {:} is not given in source, but had a form "
+                        "{:} specified.".format(line[c_id], line[c_form]))
+            if line[c_segments]:
+                message("Form {:} is not given in source, but had segments "
+                        "{:} specified.".format(line[c_id], line[c_segments]))
+            if line["Local_Orthography"]:
+                message("Form {:} is not given in source, but had local "
+                        "orthography {:} specified.".format(
+                            line[c_id], line[c_segments]))
+            line[c_form] = None
+            line[c_segments] = None
+            line["Local_Orthography"] = None
+            original_lines_of_this_source.append(line)
+            new_lines_of_this_source.append(line)
+            continue
+
+        # Load the orthographic profile of that main source.
+        try:
+            # First, see whether we have it in cache
+            orthographic_profile = transcription_systems[main_source]
+        except KeyError:
+            # Otherwise, look up the name of the orthographic profile specified in
+            # the source metadata.
+            source = dataset.sources[main_source]
+            try:
+                transducer_files = source["orthographic_profile"].split(":")
+            except KeyError:
+                # It is permitted to not specify an orthographic profile in a
+                # source. Then we assume the source is in ideosyncratic and rely on
+                # forms being given explicitly. NOTE how this is different from
+                # specifying an empty orthographic profile: An empty profile means
+                # that no transducers are applied, i.e. that the data is already in
+                # IPA.
+                transducer_files = None
+
+            # Now we get the list of transducer functions to apply.
+            orthographic_profile = load_orthogrphic_profile(transducer_files)
+            if orthographic_profile:
+                print(*(str(o) for o in orthographic_profile))
+            transcription_systems[main_source] = orthographic_profile
+
+        if orthographic_profile is None:
+            # There is no way to do automatic transcription: Check that a form is given.
+            form = line[c_form]
+            if not form:
+                message(
+                    "Form {:} has ideosyncratic orthography and original value"
+                    " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
+        else:
+            # Apply substitutions to form
+            form = line[c_value]
+            for transducer in orthographic_profile:
+                form = transducer(form)
+
+        if form != line[c_form]:
+            resolutions = [drop_stress(r) for r in resolve_brackets(form)]
+            if len(resolutions) > 1 and drop_stress(line[c_form]) in resolutions:
+                variant = resolutions.index(drop_stress(line[c_form]))
+                resolution = list(resolve_brackets(form))[variant]
+                if len(resolution) > len(line[c_form]):
+                    message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly. Taking form [{:}] as compromise.".format(line[c_id], line[c_value], form, line[c_form], resolution))
+                    form = resolution
+                else:
+                    message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly.".format(line[c_id], line[c_value], form, line[c_form]))
+                    form = line[c_form]
+            elif line[c_form] != drop_stress(form):
+                message(
+                    "Form {:} has original value <{:}>, which should correspond to"
+                    " [{:}] according to the orthography, but form [{:}] was given."
+                    "".format(line[c_id], line[c_value], form, line[c_form]))
+
+        line[c_form] = form
+
+        # Segment form and check with BIPA The segments cannot deal cleanly with
+        # suprasegmentals (syllable boundaries, syllable stress), so those are
+        # ignored explicitly or implicitly.
+        try:
+            segments = [bipa[x]
+                        for x in tokenizer(form.replace(".", ""), ipa=True).split()]
+        except KeyError:
+            segments = list(bipa[x] for x in form.replace(".", ""))
+        for s in segments:
+            if isinstance(s, pyclts.models.UnknownSound):
+                message(
+                    "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
+                        line[c_id], form, s.source))
+
+        if ([drop_stress(x) for x in line[c_segments]] !=
+            [str(x) for x in segments]):
             message(
-                "Form {:} has original value <{:}>, which should correspond to"
-                " [{:}] according to the orthography, but form [{:}] was given."
-                "".format(line[c_id], line[c_value], form, line[c_form]))
+                "Form {:} has form {:}, which should correspond to segments"
+                " [{:}], but segments [{:}] were given."
+                "".format(
+                    line[c_id],
+                    line[c_form],
+                    " ".join(map(str, segments)),
+                    " ".join([s or '' for s in line[c_segments]])))
 
-    line[c_form] = form
+        line[c_segments] = segments
 
-    # Segment form and check with BIPA The segments cannot deal cleanly with
-    # suprasegmentals (syllable boundaries, syllable stress), so those are
-    # ignored explicitly or implicitly.
-    try:
-        segments = [bipa[x]
-                    for x in tokenizer(form.replace(".", ""), ipa="true").split()]
-    except KeyError:
-        segments = list(bipa[x] for x in form.replace(".", ""))
-    for s in segments:
-        if isinstance(s, pyclts.models.UnknownSound):
-            message(
-                "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
-                    line[c_id], form, s.source))
+        new_lines_of_this_source.append(line)
 
-    if ([drop_stress(x) for x in line[c_segments]] !=
-          [str(x) for x in segments]):
-        message(
-            "Form {:} has form {:}, which should correspond to segments"
-            " [{:}], but segments [{:}] were given."
-            "".format(
-                line[c_id],
-                line[c_form],
-                " ".join(map(str, segments)),
-                " ".join([s or '' for s in line[c_segments]])))
-
-    line[c_segments] = segments
-
-    new_lines_of_this_source.append(line)
-
-if args.override != 'none':
-    dataset["FormTable"].write(lines)
+    if args.override != 'none':
+        dataset["FormTable"].write(lines)
