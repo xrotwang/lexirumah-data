@@ -197,6 +197,11 @@
                     },
                     {
                         "datatype": "string",
+                        "separator": ":",
+                        "name": "Orthography"
+                    },
+                    {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "name": "Comment"
                     },
