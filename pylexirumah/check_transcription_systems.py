@@ -227,6 +227,8 @@ def load_orthographic_profile(transducer_files, root=repository.parent, transduc
 
     orthographic_profile = []
     for file in transducer_files:
+        if not file:
+            continue
         try:
             transducer_cache[file]
         except KeyError:

@@ -11,9 +11,10 @@ import chardet
 import csvw
 import xlrd
 import pycldf
+import pyclts
 
 from pylexirumah import (get_dataset, repository)
-from pylexirumah.check_transcription_systems import load_orthographic_profile, tokenizer, resolve_brackets
+from pylexirumah.check_transcription_systems import load_orthographic_profile, tokenizer, resolve_brackets, bipa
 
 
 parser = argparse.ArgumentParser(description="Import word lists from a new source into LexiRumah.")
@@ -92,6 +93,8 @@ for r, row in enumerate(rows):
         print("Found new language {:}.".format(lang["ID"]))
         languages[lang["ID"]] = lang
 
+        previous_lect = lang["ID"]
+
 print("Write all languages, old and new, back to file ...")
 dataset["LanguageTable"].write(languages.values())
 
@@ -168,13 +171,13 @@ rows, value = read_newest_table(
     args.directory / "5 - wordlist created from original source", "wordlist")
 for r, row in enumerate(rows):
     if r == 0:
-        columns = [value(x) for x in row]
-        indices = [columns.index(c)
+        columns = {value(cell): c for c, cell in enumerate(row)}
+        indices = [columns.get(c)
                    for c in copy_columns]
-        previous_lect = None
         previous_concept = None
         continue
-    values = [value(row[index]) for j, index in enumerate(indices)]
+    values = [value(row[index]) if index else None
+              for j, index in enumerate(indices)]
 
     new_entry = {c: None for c in table_columns}
     new_entry.update({c: v for c, v in zip(copy_columns, values)})
@@ -221,7 +224,7 @@ for r, row in enumerate(rows):
                             new_entry["Form"], form,
                             "".join(new_entry["Segments"].split())))
             else:
-                new_entry["Segments"] = tokenizer(next(resolve_brackets(form)))
+                new_entry["Segments"] = tokenizer(next(resolve_brackets(form)), ipa=True)
         else:
             if orthography == None:
                 raise ValueError(
@@ -244,6 +247,13 @@ for r, row in enumerate(rows):
         new_entry["Form"] = "".join(new_entry["Segments"])
     else:
         continue
+
+    # Check how clean the segments are
+    for segment in new_entry["Segments"]:
+        if isinstance(bipa[segment], pyclts.models.UnknownSound):
+            raise ValueError(
+                "Invalid sound segment {:} found in form {:}.".format(
+                    segment, new_entry))
 
     if not output_orthography:
         if not new_entry["Local_Orthography"]:
