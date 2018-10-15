@@ -224,7 +224,9 @@ for r, row in enumerate(rows):
                             new_entry["Form"], form,
                             "".join(new_entry["Segments"].split())))
             else:
-                new_entry["Segments"] = tokenizer(next(resolve_brackets(form)), ipa=True)
+                new_entry["Segments"] = tokenizer(
+                    next(resolve_brackets(form)),
+                    ipa=True, separator=" _ ")
         else:
             if orthography == None:
                 raise ValueError(
