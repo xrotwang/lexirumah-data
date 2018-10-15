@@ -57,7 +57,7 @@ if __name__ == "__main__":
         args.input,
         col="lect_id", row="concept_id", segments="segments", transcription="form",
         filter=clean_segments)
-    lex.get_scorer(runs=1000)
+    lex.get_scorer(runs=10000)
     lex.output('tsv', filename='lexstats', ignore=[])
     # For some purposes it is useful to have monolithic cognate classes.
     lex.cluster(method='lexstat', threshold=0.55, ref='cogid', cluster_method="infomap", verbose=True)
