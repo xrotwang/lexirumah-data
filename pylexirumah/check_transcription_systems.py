@@ -324,9 +324,9 @@ if __name__ == "__main__":
     for line in dataset["LanguageTable"].iterdicts():
         transducer_files = line.get("Orthography") # This property is not codified by CLDF
         if transducer_files is None:
-            transcription_systems[line[c_languageid]] = None
+            language_orthographies[line[c_languageid]] = None
         else:
-            transcription_systems[line[c_languageid]] = load_orthographic_profile(transducer_files)
+            language_orthographies[line[c_languageid]] = load_orthographic_profile(transducer_files)
 
     transcription_systems = {None: None}
 
@@ -454,7 +454,7 @@ if __name__ == "__main__":
                     "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
                         line[c_id], form, s.source))
 
-        if ([drop_stress(x) for x in line[c_segments]] !=
+        if ([str(bipa[x]) for x in line[c_segments]] !=
             [str(x) for x in segments]):
             message(
                 "Form {:} has form {:}, which should correspond to segments"
@@ -487,12 +487,14 @@ if __name__ == "__main__":
 
             # If that does not work, try tranforming the form to the local
             # orthography by reverse-applying the language's orthography.
-            if not match:
-                expected_orth = line[c_form]
-                for transducer in reversed(language_orthography):
-                    expected_orth = transducer.undo(expected_orth)
+            expected_orth = line[c_form]
+            for transducer in reversed(language_orthography):
+                expected_orth = transducer.undo(expected_orth)
+            expected_orth = expected_orth.strip()
 
-            if expected_orth != orth_form and orth_form:
+            if match:
+                pass
+            elif expected_orth != orth_form and orth_form:
                 message(
                     "Form {:} is given in the local orthography as <{:}>, but"
                     " phonetics [{:}] would correspond to <{:}>.".format(
