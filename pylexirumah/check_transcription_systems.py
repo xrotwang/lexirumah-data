@@ -317,14 +317,27 @@ if __name__ == "__main__":
         raise ValueError(
             "This script can only import wordlist data to a CLDF Wordlist.")
 
+    language_orthographies = {None: None}
+
+    c_languageid = dataset["LanguageTable", "id"].name
+
+    for line in dataset["LanguageTable"].iterdicts():
+        transducer_files = line.get("Orthography") # This property is not codified by CLDF
+        if transducer_files is None:
+            transcription_systems[line[c_languageid]] = None
+        else:
+            transcription_systems[line[c_languageid]] = load_orthographic_profile(transducer_files)
 
     transcription_systems = {None: None}
 
     c_segments = dataset["FormTable", "segments"].name
     c_source = dataset["FormTable", "source"].name
+    c_language = dataset["FormTable", "languageReference"].name
     c_value = dataset["FormTable", "value"].name
     c_form = dataset["FormTable", "form"].name
+    c_value = dataset["FormTable", "value"].name
     c_id = dataset["FormTable", "id"].name
+    c_orth = "Local_Orthography" # This property is not codified by CLDF
 
     message = print
 
@@ -359,13 +372,13 @@ if __name__ == "__main__":
             if line[c_segments]:
                 message("Form {:} is not given in source, but had segments "
                         "{:} specified.".format(line[c_id], line[c_segments]))
-            if line["Local_Orthography"]:
+            if line[c_orth]:
                 message("Form {:} is not given in source, but had local "
                         "orthography {:} specified.".format(
                             line[c_id], line[c_segments]))
             line[c_form] = None
             line[c_segments] = None
-            line["Local_Orthography"] = None
+            line[c_orth] = None
             original_lines_of_this_source.append(line)
             new_lines_of_this_source.append(line)
             continue
@@ -390,7 +403,7 @@ if __name__ == "__main__":
                 transducer_files = None
 
             # Now we get the list of transducer functions to apply.
-            orthographic_profile = load_orthogrphic_profile(transducer_files)
+            orthographic_profile = load_orthographic_profile(transducer_files)
             if orthographic_profile:
                 print(*(str(o) for o in orthographic_profile))
             transcription_systems[main_source] = orthographic_profile
@@ -453,6 +466,46 @@ if __name__ == "__main__":
                     " ".join([s or '' for s in line[c_segments]])))
 
         line[c_segments] = segments
+
+        language_orthography = language_orthographies[line[c_language]]
+        # Check the form's orthography.
+        if language_orthography is None:
+            if not line[c_orth]:
+                message("Form {:} is not given in the local orthography.")
+        else:
+            # For checking, transform the local orthography to the form by
+            # applying the language's orthography.
+            orth_form = line[c_orth]
+            match = False
+            if orth_form:
+                expected_form = orth_form
+                for transducer in language_orthography:
+                    expected_form = transducer(expected_form)
+
+                if drop_stress(expected_form) == drop_stress(line[c_form]):
+                    match = True
+
+            # If that does not work, try tranforming the form to the local
+            # orthography by reverse-applying the language's orthography.
+            if not match:
+                expected_orth = line[c_form]
+                for transducer in reversed(language_orthography):
+                    expected_orth = transducer.undo(expected_orth)
+
+            if expected_orth != orth_form and orth_form:
+                message(
+                    "Form {:} is given in the local orthography as <{:}>, but"
+                    " phonetics [{:}] would correspond to <{:}>.".format(
+                        line[c_id], line[c_orth], form, expected_orth))
+                line[c_orth] = expected_orth
+            elif orth_form:
+                pass
+            else:
+                line[c_orth] = expected_orth
+                message(
+                    "Form {:} is not given in the local orthography. From its"
+                    " phonetics [{:}], taking <{:}>.".format(
+                        line[c_id], form, line[c_orth]))
 
         new_lines_of_this_source.append(line)
 
