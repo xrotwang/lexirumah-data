@@ -174,7 +174,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -227,7 +227,7 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
+                            "format": "[a-zA-Z0-9_-]+"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
@@ -262,12 +262,17 @@
                         "name": "Elicitation_Notes"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": "boolean",
                         "name": "Core_Set"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Concepticon_ID"
+                        "datatype": {
+                            "base": "string",
+                            "format": "[0-9]+"
+                        },
+                        "name": "Concepticon_ID",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Concepticon_ID}",
+                        "required": false
                     },
                     {
                         "datatype": "string",
