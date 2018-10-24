@@ -1,5 +1,6 @@
 import re
 import math
+import collections
 
 import csv
 import json
@@ -235,3 +236,81 @@ def all_lects(dataset=None):
     if dataset is None:
         datase = get_dataset(Path(__file__).parent.parent /
                 "cldf" / "Wordlist-metadata.json")
+
+
+def cognate_sets(dataset, code_column=None, partial_cognates="exact"):
+    """Load cognate codes from a CLDF.
+
+    The distinction is made depending on the file extension: `.json` files are
+    loaded as metadata descriptions, all other files are matched against the
+    CLDF module specifications. Directories are checked for the presence of
+    any CLDF datasets in undefined order of the dataset types.
+
+    Partial cognate codes are handled differently depending on the value of
+    partial_cognates: "exact" (the default) or "intersection". A form with
+    partial cognate classes '1 2' will be listed under class (1, 2) in "exact"
+    mode and under both classes 1 and 2 in "intersection" mode.
+
+    Parameters
+    ----------
+    dataset : pycldf.Wordlist
+        CLDF Wordlist data set
+    code_column : str
+        The name of the column containing the cognate codes in the FormTable
+        (default: check FormTable and CognateTable for a cognatesetReference)
+    partial_cognates : {"exact", "intersection"}
+        Partial cognates handling mode
+        (default: "exact")
+
+    Returns
+    -------
+    dict mapping Cognateset IDs to sets of Form IDs
+
+    """
+    data = collections.defaultdict(lambda: set())
+    if code_column:
+        cognate_column_in_form_table = True
+    else:
+        try:
+            code_column = dataset["FormTable", "cognatesetReference"].name
+            cognate_column_in_form_table = True
+            # The form table contains cognate sets!
+        except KeyError:
+            cognatesets = collections.defaultdict(lambda: "?")
+            try:
+                form_reference = dataset["CognateTable", "formReference"].name
+                code_column = dataset["CognateTable", "cognatesetReference"].name
+            except KeyError:
+                raise ValueError(
+                    "Dataset {:} has no cognatesetReference column in its "
+                    "primary table or in a separate cognate table. "
+                    "Is this a metadata-free wordlist and you forgot to "
+                    "specify code_column explicitly?".format(filename))
+            for row in dataset["CognateTable"].iterdicts():
+                cognatesets[row[form_reference]] = row[code_column]
+            cognate_column_in_form_table = False
+
+    form_column = dataset["FormTable", "id"].name
+
+    if cognate_column_in_form_table:
+        for row in dataset["FormTable"].iterdicts():
+            if partial_cognates == "exact":
+                try:
+                    data[tuple(row[code_column])].add(row[form_column])
+                except TypeError:
+                    data[row[code_column]].add(row[form_column])
+            else:
+                for pcognateset in row[code_column]:
+                    data[pcognateset].add(row[form_column])
+    else:
+        for form, cognateset in cognatesets:
+            if partial_cognates == "exact":
+                try:
+                    data[tuple(cognateset)].add(form)
+                except TypeError:
+                    data[cognateset].add(form)
+            else:
+                for pcognateset in cognateset:
+                    data[pcognateset].add(form)
+    return data
+
