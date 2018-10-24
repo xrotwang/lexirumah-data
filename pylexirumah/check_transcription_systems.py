@@ -276,6 +276,26 @@ if __name__ == "__main__":
                         help="By default, we ignore stress marks in comparisons."
                         " This option dumbs down the comparisons to report changes"
                         " in stress marking.")
+    parser.add_argument("--match",
+                        default=None,
+                        help="Check only forms in which one of the columns"
+                        " given has this substring.")
+
+    parser.add_argument("--skip-missing-value",
+                        default=False, action="store_true",
+                        help="Do not expect empty forms etc. if no `value` is given.")
+    parser.add_argument("--skip-form-from-source-orthography",
+                        default=False, action="store_true",
+                        help="Do not expect forms to derive from values.")
+    parser.add_argument("--skip-segments-from-form",
+                        default=False, action="store_true",
+                        help="Do not expect segments to derive from forms.")
+    parser.add_argument("--skip-all-orthography",
+                        default=False, action="store_true",
+                        help="Do not expect segments to derive from forms.")
+    parser.add_argument("--skip-override-orthography",
+                        default=False, action="store_true",
+                        help="Do not expect segments to derive from forms.")
     args = parser.parse_args()
 
     if args.check_stress:
@@ -323,7 +343,7 @@ if __name__ == "__main__":
 
     for line in dataset["LanguageTable"].iterdicts():
         transducer_files = line.get("Orthography") # This property is not codified by CLDF
-        if transducer_files is None:
+        if not transducer_files:
             language_orthographies[line[c_languageid]] = None
         else:
             language_orthographies[line[c_languageid]] = load_orthographic_profile(transducer_files)
@@ -347,6 +367,15 @@ if __name__ == "__main__":
     previous_source = None
     for line in dataset["FormTable"].iterdicts():
         # Load the line's main source, that is, the first entry in the sources list.
+
+        if args.match:
+            for value in line.values():
+                if args.match in str(value):
+                    break
+            else:
+                new_lines_of_this_source.append(line)
+                continue
+
         try:
             main_source = line[c_source][0]
         except (IndexError, KeyError):
@@ -366,21 +395,21 @@ if __name__ == "__main__":
         original_lines_of_this_source.append(line.copy())
 
         if not line[c_value] or line[c_value] == '-':
-            if line[c_form]:
-                message("Form {:} is not given in source, but had a form "
-                        "{:} specified.".format(line[c_id], line[c_form]))
-            if line[c_segments]:
-                message("Form {:} is not given in source, but had segments "
-                        "{:} specified.".format(line[c_id], line[c_segments]))
-            if line[c_orth]:
-                message("Form {:} is not given in source, but had local "
-                        "orthography {:} specified.".format(
-                            line[c_id], line[c_segments]))
-            line[c_form] = None
-            line[c_segments] = None
-            line[c_orth] = None
-            original_lines_of_this_source.append(line)
-            new_lines_of_this_source.append(line)
+            if not args.skip_missing_value:
+                if line[c_form]:
+                    message("Form {:} is not given in source, but had a form "
+                            "{:} specified.".format(line[c_id], line[c_form]))
+                if line[c_segments]:
+                    message("Form {:} is not given in source, but had segments "
+                            "{:} specified.".format(line[c_id], line[c_segments]))
+                if line[c_orth]:
+                    message("Form {:} is not given in source, but had local "
+                            "orthography {:} specified.".format(
+                                line[c_id], line[c_segments]))
+                line[c_form] = None
+                line[c_segments] = None
+                line[c_orth] = None
+                new_lines_of_this_source.append(line)
             continue
 
         # Load the orthographic profile of that main source.
@@ -408,7 +437,9 @@ if __name__ == "__main__":
                 print(*(str(o) for o in orthographic_profile))
             transcription_systems[main_source] = orthographic_profile
 
-        if orthographic_profile is None:
+        if args.skip_form_from_source_orthography:
+            form = line[c_form]
+        elif orthographic_profile is None:
             # There is no way to do automatic transcription: Check that a form is given.
             form = line[c_form]
             if not form:
@@ -417,7 +448,7 @@ if __name__ == "__main__":
                     " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
         else:
             # Apply substitutions to form
-            form = line[c_value]
+            form = line[c_value].strip()
             for transducer in orthographic_profile:
                 form = transducer(form)
 
@@ -443,11 +474,14 @@ if __name__ == "__main__":
         # Segment form and check with BIPA The segments cannot deal cleanly with
         # suprasegmentals (syllable boundaries, syllable stress), so those are
         # ignored explicitly or implicitly.
-        try:
-            segments = [bipa[x]
-                        for x in tokenizer(form.replace(".", ""), ipa=True).split()]
-        except KeyError:
-            segments = list(bipa[x] for x in form.replace(".", ""))
+        if args.skip_segments_from_form:
+            segments = [bipa[x] for x in line[c_segments]]
+        else:
+            try:
+                segments = [bipa[x]
+                            for x in tokenizer(form.replace(".", ""), ipa=True).split()]
+            except KeyError:
+                segments = list(bipa[x] for x in form.replace(".", ""))
         for s in segments:
             if isinstance(s, pyclts.models.UnknownSound):
                 message(
@@ -457,7 +491,7 @@ if __name__ == "__main__":
         if ([str(bipa[x]) for x in line[c_segments]] !=
             [str(x) for x in segments]):
             message(
-                "Form {:} has form {:}, which should correspond to segments"
+                "Form {:} has form [{:}], which should correspond to segments"
                 " [{:}], but segments [{:}] were given."
                 "".format(
                     line[c_id],
@@ -469,9 +503,13 @@ if __name__ == "__main__":
 
         language_orthography = language_orthographies[line[c_language]]
         # Check the form's orthography.
-        if language_orthography is None:
-            if not line[c_orth]:
-                message("Form {:} is not given in the local orthography.")
+        if args.skip_all_orthography:
+            pass
+        elif language_orthography is None:
+                if not line[c_orth]:
+                    message("Form {:} [{:}] is not given in the local orthography,"
+                            " and no way to derive it was given.".format(
+                                line[c_id], line[c_form]))
         else:
             # For checking, transform the local orthography to the form by
             # applying the language's orthography.
@@ -490,16 +528,17 @@ if __name__ == "__main__":
             expected_orth = line[c_form]
             for transducer in reversed(language_orthography):
                 expected_orth = transducer.undo(expected_orth)
-            expected_orth = expected_orth.strip()
+            expected_orth = expected_orth.strip().replace("_", " ")
 
             if match:
                 pass
             elif expected_orth != orth_form and orth_form:
-                message(
-                    "Form {:} is given in the local orthography as <{:}>, but"
-                    " phonetics [{:}] would correspond to <{:}>.".format(
-                        line[c_id], line[c_orth], form, expected_orth))
-                line[c_orth] = expected_orth
+                if not args.skip_override_orthography:
+                    message(
+                        "Form {:} is given in the local orthography as <{:}>, but"
+                        " phonetics [{:}] would correspond to <{:}>.".format(
+                            line[c_id], line[c_orth], form, expected_orth))
+                    line[c_orth] = expected_orth
             elif orth_form:
                 pass
             else:
