@@ -62,6 +62,9 @@ if __name__ == "__main__":
                         # type=argparse.FileType('w'),
                         default="aligned",
                         help="Output file to write segmented data to")
+    parser.add_argument("--soundclass", default="sca",
+                        choices=["sca", "dolgo", "asjp", "art"],
+                        help="Sound class model to use. (default: sca)")
     parser.add_argument("--threshold", default=0.55,
                         type=float,
                         help="Cognate clustering threshold value. (default:"
@@ -71,6 +74,10 @@ if __name__ == "__main__":
                         " are, dependent on your LingPy version, {'upgma',"
                         " 'single', 'complete', 'mcl', 'infomap'}."
                         " (default: infomap)")
+    parser.add_argument("--ratio", default=1.5,
+                        type=float,
+                        help="Ratio of language-pair specific vs. general"
+                        " scores in the LexStat algorithm. (default: 1.5)")
     args = parser.parse_args()
 
     dataset = get_dataset(args.input)
@@ -87,16 +94,39 @@ if __name__ == "__main__":
     }
 
     lex = lingpy.compare.partial.Partial.from_cldf(
-        args.input, filter=clean_segments_and_rename(rename_columns))
+        args.input, filter=clean_segments_and_rename(rename_columns),
+        model=lingpy.data.model.Model(args.soundclass),
+        check=True)
 
+    if args.ratio != 1.5:
+        if args.ratio == float("inf"):
+            ratio_pair = (1, 0)
+            ratio_str = "-inf"
+        if args.ratio == int(args.ratio) >= 0:
+            r = int(args.ratio)
+            ratio_pair = (r, 1)
+            ratio_str = "-{:d}".format(r)
+        elif args.ratio > 0:
+            ratio_pair = (args.ratio, 1)
+            ratio_str = "-" + str(args.ratio)
+        else:
+            raise ValueError("LexStat ratio must be in [0, ∞]")
+    else:
+        ratio_pair = (3, 2)
+        ratio_str = ""
     try:
-        scorers_etc = lingpy.compare.lexstat.LexStat("lexstats.tsv")
+        scorers_etc = lingpy.compare.lexstat.LexStat(
+            filename='lexstats-{:s}{:s}.tsv'.format(
+                args.soundclass, ratio_str))
         lex.scorer = scorers_etc.scorer
         lex.cscorer = scorers_etc.cscorer
         lex.bscorer = scorers_etc.bscorer
     except (OSError, ValueError):
-        lex.get_scorer(runs=10000)
-        lex.output('tsv', filename='lexstats', ignore=[])
+        lex.get_scorer(runs=10000, ratio=ratio_pair)
+        lex.output(
+            'tsv',
+            filename='lexstats-{:s}{:s}'.format(args.soundclass, ratio_str),
+            ignore=[])
     # For some purposes it is useful to have monolithic cognate classes.
     lex.cluster(method='lexstat', threshold=args.threshold, ref='cogid',
                 cluster_method=args.cluster_method, verbose=True)

@@ -25,8 +25,6 @@ from clld.scripts.util import parsed_args
 from clld.lib.bibtex import EntryType
 from lexibank.scripts.initializedb import prime_cache
 
-from util import identifier
-
 
 # Attempt to load enoug Lexirumah to construct an SQLite database for it.
 from clld.db.meta import DBSession
@@ -45,10 +43,14 @@ from lexibank.models import (
 from clld_glottologfamily_plugin.models import Family
 model_is_available = True
 
+from . import get_dataset
+from .util import identifier
+
 
 ICONS = iter(
     ['c0000dd',
-     'fdd0000'])
+     'fdd0000',
+     'o00dd00'] * 200)
 
 
 # Utility functions
@@ -291,6 +293,7 @@ def import_forms(
             form = Counterpart(
                 id=vid,
                 valueset=vs,
+                orthographic_form=row["Local_Orthography"],
                 loan=loans.get(row["ID"], {'Status': 0})['Status'],
                 comment=row['Comment'],
                 name=value,
@@ -298,6 +301,7 @@ def import_forms(
             for source in sources:
                 DBSession.add(CounterpartReference(
                     counterpart=form,
+                    form_given_as=row["Form_according_to_Source"],
                     source=source))
             forms[vid] = form
             DBSession.add(form)
@@ -336,7 +340,7 @@ def db_main():
 
     Load the CLDF dataset and turn it into a SQLite dataset.
     """
-    dataset = pycldf.Wordlist.from_metadata("Wordlist-metadata.json")
+    dataset = get_dataset()
 
     g = dataset.properties.get
 

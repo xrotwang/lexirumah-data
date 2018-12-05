@@ -32,12 +32,18 @@ if __name__ == "__main__":
                         help="Header of column containing cognate judgements"
                         " as float values between -1 [not cognate] and 1"
                         " cognate (default: Cognate)")
-    parser.add_argument("codings", nargs="?",
+    parser.add_argument("codings",
                         type=Path,
                         help="A CLDF dataset with cognate codes")
     parser.add_argument("--lingpy", action="store_true",
                         default=False,
                         help="The data is in LingPy's format, not CLDF.")
+    parser.add_argument("--verbose", action="store_true",
+                        default=False,
+                        help="Output the forms which do not match.")
+    parser.add_argument("--ssv", default=False,
+                        action="store_true",
+                        help="Output one line, not many")
     args = parser.parse_args()
 
     if args.lingpy:
@@ -69,6 +75,14 @@ if __name__ == "__main__":
 
         forms = {row[c_id]: row for row in dataset["FormTable"].iterdicts()}
 
+    if args.verbose:
+        message = print
+    else:
+        def message(*args):
+            pass
+        def pprint_form(form):
+            pass
+
     true_positives = 0
     false_positives = 0
     true_negatives = 0
@@ -94,20 +108,26 @@ if __name__ == "__main__":
             else:
                 # These forms are in disagreement with the gold standard!
                 false_negatives += 1
-                print(form1, "should be cognate with", form2)
+                message(form1, "should be cognate with", form2)
                 pprint_form(form1)
                 pprint_form(form2)
         else:
             if c1==c2:
                 # These forms are in disagreement with the gold standard!
                 false_positives += 1
-                print(form1, "should not be cognate with", form2)
+                message(form1, "should not be cognate with", form2)
                 pprint_form(form1)
                 pprint_form(form2)
             else:
                 # When judgement is positive, we want the cognate classes to be the same. This is fine.
                 true_negatives += 1
-    print(true_positives, false_negatives)
-    print(false_positives, true_negatives)
+
+    end = " " if args.ssv else "\n"
+    print(args.codings, end=end)
+    print("    Data:", "T", "F", end=end)
+    print("Target: T", true_positives, false_negatives, end=end)
+    print("Target: F", false_positives, true_negatives, end=end)
+    print("F-Score:",
+          2 * true_positives / (2 * true_positives + false_positives + false_negatives))
 
 

@@ -490,14 +490,15 @@ if __name__ == "__main__":
 
         if ([str(bipa[x]) for x in line[c_segments]] !=
             [str(x) for x in segments]):
-            message(
-                "Form {:} has form [{:}], which should correspond to segments"
-                " [{:}], but segments [{:}] were given."
-                "".format(
-                    line[c_id],
-                    line[c_form],
-                    " ".join(map(str, segments)),
-                    " ".join([s or '' for s in line[c_segments]])))
+            if line[c_segments] or not args.skip_missing_value:
+                message(
+                    "Form {:} has form [{:}], which should correspond to segments"
+                    " [{:}], but segments [{:}] were given."
+                    "".format(
+                        line[c_id],
+                        line[c_form],
+                        " ".join(map(str, segments)),
+                        " ".join([s or '' for s in line[c_segments]])))
 
         line[c_segments] = segments
 
@@ -506,7 +507,7 @@ if __name__ == "__main__":
         if args.skip_all_orthography:
             pass
         elif language_orthography is None:
-                if not line[c_orth]:
+            if not line[c_orth] and not args.skip_missing_value:
                     message("Form {:} [{:}] is not given in the local orthography,"
                             " and no way to derive it was given.".format(
                                 line[c_id], line[c_form]))
@@ -540,6 +541,8 @@ if __name__ == "__main__":
                             line[c_id], line[c_orth], form, expected_orth))
                     line[c_orth] = expected_orth
             elif orth_form:
+                pass
+            elif args.skip_missing_value:
                 pass
             else:
                 line[c_orth] = expected_orth
