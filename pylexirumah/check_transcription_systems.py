@@ -267,7 +267,7 @@ if __name__ == "__main__":
                         help="The Wordlist to expand. (default: LexiRumah.)")
     parser.add_argument("--override",
                         default='none',
-                        choices=["none", "all", "ask", "ask-per-source"],
+                        choices=["none", "all", "ask", "ask-per-source", "mark"],
                         help="Instead of just checking all forms and reporting"
                         "those that don't match, just overwrite everything"
                         "systematically.")
@@ -281,21 +281,14 @@ if __name__ == "__main__":
                         help="Check only forms in which one of the columns"
                         " given has this substring.")
 
-    parser.add_argument("--skip-missing-value",
-                        default=False, action="store_true",
-                        help="Do not expect empty forms etc. if no `value` is given.")
-    parser.add_argument("--skip-form-from-source-orthography",
-                        default=False, action="store_true",
-                        help="Do not expect forms to derive from values.")
-    parser.add_argument("--skip-segments-from-form",
-                        default=False, action="store_true",
-                        help="Do not expect segments to derive from forms.")
-    parser.add_argument("--skip-all-orthography",
-                        default=False, action="store_true",
-                        help="Do not expect segments to derive from forms.")
-    parser.add_argument("--skip-override-orthography",
-                        default=False, action="store_true",
-                        help="Do not expect segments to derive from forms.")
+    parser.add_argument(
+        "--step",
+        default=["report", "override", "fill"],
+        type=str.split,
+        help="""What to do for the 3 checking steps Value→Form, Form→Segments and
+        Form→Orthography: Keep <quiet>, <report> differences, <override>
+        differences or <fill> empty cells. A list of three space-separated
+        entries from these options. (Default: report override fill)""")
     args = parser.parse_args()
 
     if args.check_stress:
@@ -330,7 +323,15 @@ if __name__ == "__main__":
                         collection.append(new_row)
                     else:
                         collection.append(old_row)
-
+    elif args.override == 'mark':
+        def maybe_extend(collection, new, old):
+            for new_row, old_row in zip(new, old):
+                try:
+                    if new_row != old_row:
+                        old_row[c_source].insert(0, "corr")
+                except AttributeError:
+                    old_row[c_source].insert(0, "corr")
+                collection.append(old_row)
 
     dataset = get_dataset(args.wordlist)
     if dataset.module != 'Wordlist':
@@ -395,22 +396,13 @@ if __name__ == "__main__":
         original_lines_of_this_source.append(line.copy())
 
         if not line[c_value] or line[c_value] == '-':
-            if not args.skip_missing_value:
+            if args.step[1] == "quiet":
+                pass
+            else:
                 if line[c_form]:
                     message("Form {:} is not given in source, but had a form "
                             "{:} specified.".format(line[c_id], line[c_form]))
-                if line[c_segments]:
-                    message("Form {:} is not given in source, but had segments "
-                            "{:} specified.".format(line[c_id], line[c_segments]))
-                if line[c_orth]:
-                    message("Form {:} is not given in source, but had local "
-                            "orthography {:} specified.".format(
-                                line[c_id], line[c_segments]))
                 line[c_form] = None
-                line[c_segments] = None
-                line[c_orth] = None
-                new_lines_of_this_source.append(line)
-            continue
 
         # Load the orthographic profile of that main source.
         try:
@@ -437,84 +429,85 @@ if __name__ == "__main__":
                 print(*(str(o) for o in orthographic_profile))
             transcription_systems[main_source] = orthographic_profile
 
-        if args.skip_form_from_source_orthography:
-            form = line[c_form]
-        elif orthographic_profile is None:
-            # There is no way to do automatic transcription: Check that a form is given.
-            form = line[c_form]
-            if not form:
-                message(
-                    "Form {:} has ideosyncratic orthography and original value"
-                    " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
+        if args.step[0] == 'quiet':
+            form = line[c_form] or ''
         else:
-            # Apply substitutions to form
-            form = line[c_value].strip()
-            for transducer in orthographic_profile:
-                form = transducer(form)
+            if orthographic_profile is None:
+                # There is no way to do automatic transcription: Check that a form is given.
+                form = line[c_form] or ''
+                if not form:
+                    message(
+                        "Form {:} has ideosyncratic orthography and original value"
+                        " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
+            else:
+                # Apply substitutions to form
+                form = line[c_value].strip()
+                for transducer in orthographic_profile:
+                    form = transducer(form)
 
-        if form != line[c_form]:
-            resolutions = [drop_stress(r) for r in resolve_brackets(form)]
-            if len(resolutions) > 1 and drop_stress(line[c_form]) in resolutions:
-                variant = resolutions.index(drop_stress(line[c_form]))
-                resolution = list(resolve_brackets(form))[variant]
-                if len(resolution) > len(line[c_form]):
-                    message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly. Taking form [{:}] as compromise.".format(line[c_id], line[c_value], form, line[c_form], resolution))
-                    form = resolution
-                else:
-                    message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly.".format(line[c_id], line[c_value], form, line[c_form]))
-                    form = line[c_form]
-            elif line[c_form] != drop_stress(form):
-                message(
-                    "Form {:} has original value <{:}>, which should correspond to"
-                    " [{:}] according to the orthography, but form [{:}] was given."
-                    "".format(line[c_id], line[c_value], form, line[c_form]))
+            if form != line[c_form]:
+                resolutions = [drop_stress(r) for r in resolve_brackets(form)]
+                if len(resolutions) > 1 and drop_stress(line[c_form]) in resolutions:
+                    variant = resolutions.index(drop_stress(line[c_form]))
+                    resolution = list(resolve_brackets(form))[variant]
+                    if len(resolution) > len(line[c_form]):
+                        message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly. Taking form [{:}] as compromise.".format(line[c_id], line[c_value], form, line[c_form], resolution))
+                        form = resolution
+                    else:
+                        message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly.".format(line[c_id], line[c_value], form, line[c_form]))
+                        form = line[c_form]
+                elif line[c_form] != drop_stress(form):
+                    message(
+                        "Form {:} has original value <{:}>, which should correspond to"
+                        " [{:}] according to the orthography, but form [{:}] was given."
+                        "".format(line[c_id], line[c_value], form, line[c_form]))
 
-        line[c_form] = form
+            if args.step[1] == "override" or (args.step[1] == "fill" and not line[c_form]):
+                line[c_form] = form
 
         # Segment form and check with BIPA The segments cannot deal cleanly with
         # suprasegmentals (syllable boundaries, syllable stress), so those are
         # ignored explicitly or implicitly.
-        if args.skip_segments_from_form:
+        if args.step[1] == "quiet":
             segments = [bipa[x] for x in line[c_segments]]
         else:
-            try:
-                segments = [bipa[x]
-                            for x in tokenizer(form.replace(".", ""), ipa=True).split()]
-            except KeyError:
-                segments = list(bipa[x] for x in form.replace(".", ""))
-        for s in segments:
-            if isinstance(s, pyclts.models.UnknownSound):
-                message(
-                    "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
-                        line[c_id], form, s.source))
+            segments = [bipa[x]
+                        for x in tokenizer(form.replace(".", ""), ipa=True).split()]
+            for s in segments:
+                if isinstance(s, pyclts.models.UnknownSound):
+                    message(
+                        "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
+                            line[c_id], form, s.source))
 
-        if ([str(bipa[x]) for x in line[c_segments]] !=
-            [str(x) for x in segments]):
-            if line[c_segments] or not args.skip_missing_value:
-                message(
-                    "Form {:} has form [{:}], which should correspond to segments"
-                    " [{:}], but segments [{:}] were given."
-                    "".format(
-                        line[c_id],
-                        line[c_form],
-                        " ".join(map(str, segments)),
-                        " ".join([s or '' for s in line[c_segments]])))
+            if ([str(bipa[x]) for x in line[c_segments]] !=
+                [str(x) for x in segments]):
+                    message(
+                        "Form {:} has form [{:}], which should correspond to segments"
+                        " [{:}], but segments [{:}] were given."
+                        "".format(
+                            line[c_id],
+                            line[c_form],
+                            " ".join(map(str, segments)),
+                            " ".join([s or '' for s in line[c_segments]])))
 
-        line[c_segments] = segments
+            if args.step[1] == "override" or (args.step[1] == "fill" and not line[c_segments]):
+                line[c_segments] = segments
 
-        language_orthography = language_orthographies[line[c_language]]
-        # Check the form's orthography.
-        if args.skip_all_orthography:
+        if args.step[1] == "quiet":
             pass
-        elif language_orthography is None:
-            if not line[c_orth] and not args.skip_missing_value:
+        else:
+            language_orthography = language_orthographies[line[c_language]] or ""
+
+            # Check the form's orthography.
+            if not language_orthography:
+                if not line[c_orth]:
                     message("Form {:} [{:}] is not given in the local orthography,"
                             " and no way to derive it was given.".format(
                                 line[c_id], line[c_form]))
-        else:
+
             # For checking, transform the local orthography to the form by
             # applying the language's orthography.
-            orth_form = line[c_orth]
+            orth_form = line[c_orth] or ""
             match = False
             if orth_form:
                 expected_form = orth_form
@@ -529,27 +522,25 @@ if __name__ == "__main__":
             expected_orth = line[c_form]
             for transducer in reversed(language_orthography):
                 expected_orth = transducer.undo(expected_orth)
-            expected_orth = expected_orth.strip().replace("_", " ")
+            expected_orth = expected_orth.replace("_", " ").strip()
 
             if match:
                 pass
             elif expected_orth != orth_form and orth_form:
-                if not args.skip_override_orthography:
-                    message(
-                        "Form {:} is given in the local orthography as <{:}>, but"
-                        " phonetics [{:}] would correspond to <{:}>.".format(
-                            line[c_id], line[c_orth], form, expected_orth))
-                    line[c_orth] = expected_orth
+                message(
+                    "Form {:} is given in the local orthography as <{:}>, but"
+                    " phonetics [{:}] would correspond to <{:}>.".format(
+                        line[c_id], line[c_orth], form, expected_orth))
             elif orth_form:
                 pass
-            elif args.skip_missing_value:
-                pass
             else:
-                line[c_orth] = expected_orth
                 message(
                     "Form {:} is not given in the local orthography. From its"
                     " phonetics [{:}], taking <{:}>.".format(
-                        line[c_id], form, line[c_orth]))
+                        line[c_id], form, expected_orth))
+
+            if args.step[2] == "override" or (args.step[2] == "fill" and not line[c_orth]):
+                line[c_orth] = expected_orth
 
         new_lines_of_this_source.append(line)
 
