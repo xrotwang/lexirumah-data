@@ -456,6 +456,11 @@ if __name__ == "__main__":
                     else:
                         message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly.".format(line[c_id], line[c_value], form, line[c_form]))
                         form = line[c_form]
+                elif not line[c_form]:
+                    message(
+                        "Form {:} has original value <{:}>, which corresponds to"
+                        " [{:}] according to the orthography; no form given."
+                        "".format(line[c_id], line[c_value], form, line[c_form]))
                 elif line[c_form] != drop_stress(form):
                     message(
                         "Form {:} has original value <{:}>, which should correspond to"
