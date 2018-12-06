@@ -462,7 +462,7 @@ if __name__ == "__main__":
                         " [{:}] according to the orthography, but form [{:}] was given."
                         "".format(line[c_id], line[c_value], form, line[c_form]))
 
-            if args.step[1] == "override" or (args.step[1] == "fill" and not line[c_form]):
+            if args.step[0] == "override" or (args.step[0] == "fill" and not line[c_form]):
                 line[c_form] = form
 
         # Segment form and check with BIPA The segments cannot deal cleanly with
@@ -493,7 +493,7 @@ if __name__ == "__main__":
             if args.step[1] == "override" or (args.step[1] == "fill" and not line[c_segments]):
                 line[c_segments] = segments
 
-        if args.step[1] == "quiet":
+        if args.step[2] == "quiet":
             pass
         else:
             language_orthography = language_orthographies[line[c_language]] or ""
@@ -544,5 +544,11 @@ if __name__ == "__main__":
 
         new_lines_of_this_source.append(line)
 
+    maybe_extend(
+        lines,
+        new_lines_of_this_source,
+        original_lines_of_this_source)
+
+    import pdb; pdb.set_trace()
     if args.override != 'none':
         dataset["FormTable"].write(lines)
