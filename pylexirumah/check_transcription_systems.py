@@ -441,7 +441,7 @@ if __name__ == "__main__":
                         " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
             else:
                 # Apply substitutions to form
-                form = line[c_value].strip()
+                form = (line[c_value] or '').strip()
                 for transducer in orthographic_profile:
                     form = transducer(form)
 
@@ -472,7 +472,7 @@ if __name__ == "__main__":
             segments = [bipa[x] for x in line[c_segments]]
         else:
             segments = [bipa[x]
-                        for x in tokenizer(form.replace(".", ""), ipa=True).split()]
+                        for x in tokenizer(line[c_form].replace(".", ""), ipa=True).split()]
             for s in segments:
                 if isinstance(s, pyclts.models.UnknownSound):
                     message(
