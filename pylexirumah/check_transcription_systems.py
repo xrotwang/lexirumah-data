@@ -549,6 +549,5 @@ if __name__ == "__main__":
         new_lines_of_this_source,
         original_lines_of_this_source)
 
-    import pdb; pdb.set_trace()
     if args.override != 'none':
         dataset["FormTable"].write(lines)
