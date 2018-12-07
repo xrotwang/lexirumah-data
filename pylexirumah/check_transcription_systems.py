@@ -527,7 +527,7 @@ if __name__ == "__main__":
             expected_orth = line[c_form]
             for transducer in reversed(language_orthography):
                 expected_orth = transducer.undo(expected_orth)
-            expected_orth = expected_orth.replace("_", " ").strip()
+            expected_orth = expected_orth.replace("_", " ").replace("+", "-").strip()
 
             if match:
                 pass
