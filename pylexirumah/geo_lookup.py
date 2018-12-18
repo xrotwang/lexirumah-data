@@ -1,42 +1,65 @@
+import geopy
 import geopy.geocoders as gc
 from geopy.distance import vincenty as distance
 from pycldf import Wordlist
 from clldutils.path import Path
 
+import json
+import urllib
+
+from time import sleep
+from pylexirumah import get_dataset
+
 google_api_key = Path(__file__).parent.joinpath("api_key").open().read().strip()
+geonames_username = Path(__file__).parent.joinpath("username").open().read().strip()
 google = gc.GoogleV3(api_key=google_api_key)
-geolocators = [gc.Nominatim(), google,]
+nominatim = gc.Nominatim(user_agent="lexirumah")
+geonames = gc.GeoNames(username=geonames_username, timeout=None)
 
-detail={"Indonesia": "administrative_area_level_3",
-        "Timor-Leste": "administrative_area_level_1"}
-
+detail={"ID": ["ADM2", "ADM3"],
+        "TL": []}
 
 def get_region(latitude, longitude):
-    for i, candidate in enumerate(
-            google.reverse((latitude, longitude), exactly_one=False)):
-        if i == 1:
-            best = candidate
-        country = candidate.raw["address_components"][-1]["long_name"]
-        if detail[country] in candidate.raw["address_components"][0]["types"]:
-            return candidate
     try:
-        return best
-    except NameError:
-        return candidate
-
+        for_country = geonames.reverse(
+            (latitude, longitude),
+            exactly_one=False,
+            lang="local")[0]
+    except geopy.exc.GeocoderServiceError:
+        return get_region(latitude, longitude)
+    address = [for_country.raw["adminName1"], for_country.raw["countryName"]]
+    country =  for_country.raw['countryCode']
+    for d in detail[country.upper()]:
+        try:
+            if d == "ADM1":
+                continue
+            else:
+                element = geonames.reverse(
+                    (latitude, longitude),
+                    feature_code=d,
+                    find_nearby_type='findNearby',
+                    exactly_one=False,
+                    lang="local")[0]
+            address.insert(0, element.raw["name"])
+        except (geopy.exc.GeocoderServiceError, TypeError):
+            continue
+    return address
 
 if __name__ == "__main__":
-    import sys
-    lang = Wordlist.from_metadata(sys.argv[1])["LanguageTable"]
+    data = get_dataset()
+    lang = data["LanguageTable"]
+    updated = []
     for language in lang.iterdicts():
         if not language["Latitude"]:
+            updated.append(language)
             continue
         print(language["Name"])
         latlon = (language["Latitude"], language["Longitude"])
         print("{:10.5f} {:10.5f}".format(*latlon))
         region = get_region(*latlon)
-        print("{:10.5f} {:10.5f}           {:10.5f}  {:s}".format(
-            region.latitude, region.longitude,
-            distance((region.latitude, region.longitude), latlon).kilometers,
-            region.address))
+        sleep(1)
+        print(region)
+        language["Region"] = ", ".join(region)
+        updated.append(language)
+    data.write(LanguageTable=updated)
 
