@@ -16,8 +16,6 @@ from csvw.metadata import Column
 from urllib.error import HTTPError
 from urllib.request import urlopen
 
-from pyclpa.base import Sound
-
 import newick
 from pybtex.database import BibliographyData, Entry
 try:
@@ -27,7 +25,6 @@ except ImportError:
     local_glottolog = None
 
 from .geo_lookup import get_region
-from .segment import tokenize_clpa, CLPA
 from . import get_dataset, repository
 
 REPLACE = {

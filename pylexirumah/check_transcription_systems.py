@@ -14,7 +14,7 @@ import pycldf
 import pyclts
 from segments import Tokenizer, Profile
 
-bipa = pyclts.TranscriptionSystem()
+bipa = pyclts.TranscriptionSystem("bipa")
 sounds = list(bipa.sounds)
 sounds.extend([])
 tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)))
