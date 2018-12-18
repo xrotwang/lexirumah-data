@@ -21,7 +21,7 @@ from pybtex.database import BibliographyData, Entry
 try:
     import pyglottolog
     local_glottolog = pyglottolog.Glottolog()
-except ImportError:
+except (ValueError, ImportError):
     local_glottolog = None
 
 from .geo_lookup import get_region
