@@ -244,7 +244,7 @@ for r, row in enumerate(rows):
                 form = step.undo(form)
             new_entry["Form"] = form
 
-        segments = new_entry["Segments"].split(" ")
+        new_entry["Segments"] = new_entry["Segments"].split(" ")
         new_entry["Form_according_to_Source"] = new_entry["Form"]
         new_entry["Form"] = "".join(new_entry["Segments"])
     else:
