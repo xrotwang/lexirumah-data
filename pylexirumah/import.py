@@ -163,7 +163,7 @@ old_forms = len(all_rows)
 
 print("Preparing to load additional forms from new wordlist ...")
 max_id = max(row["ID"] for row in all_rows)
-copy_columns = ["Concept_ID", "Lect_ID", "Form", "Segments", "Comment"]
+copy_columns = ["Concept_ID", "Lect_ID", "Form_according_to_Source", "Form", "Comment"]
 table_columns = [column.name for column in forms.tableSchema.columns]
 
 print("Reading forms ...")
@@ -198,76 +198,34 @@ for r, row in enumerate(rows):
     output_orthography = reversed(load_orthographic_profile(
         languages[new_entry["Lect_ID"]]["Orthography"]))
 
-    if new_entry["Comment"] and not (new_entry["Form"] or new_entry["Segments"]):
+    if new_entry["Comment"] and not (new_entry["Form_according_to_Source"]):
         # Nothing to do here.
         pass
-    elif new_entry["Form"] or new_entry["Segments"]:
+    elif new_entry["Form_according_to_Source"]:
         # There is an entry to import! Yay!
 
-        if new_entry["Form"]:
-            if orthography is None and not new_entry["Segments"]:
-                raise ValueError(
-                    "The source does not mention an orthograpic profile, so I"
-                    " have to assume an ideosyncratic one, but the"
-                    " forms are only given, not normalized.")
-            form = new_entry["Form"]
-            for step in orthography:
-                form = step(form)
-            if new_entry["Segments"]:
-                if ''.join(new_entry["Segments"]) in resolve_brackets(form):
-                    pass
-                else:
-                    raise ValueError(
-                        "Form has original value <{:}>, which should"
-                        " correspond to [{:}] according to the orthography,"
-                        " but form [{:}] was given.".format(
-                            new_entry["Form"], form,
-                            "".join(new_entry["Segments"].split())))
-            else:
-                new_entry["Segments"] = tokenizer(
-                    next(resolve_brackets(form)),
-                    ipa=True, separator=" _ ")
-        else:
+        if not new_entry["Form"]:
             if orthography == None:
                 raise ValueError(
                     "The source claims to not use an orthograpic profile, but"
                     " the forms are only given in (presumambly) normalized"
                     " form.")
-            if orthography:
-                print("WARNING: Some form do not have a source form specified,"
-                      " but are indicated to derive from an orthographic form."
-                      " This algorithm cannot guarantee that the forms it"
-                      " reconstructs are actually as given in the source,"
-                      " please check manually!")
-            form = "".join(new_entry["Segments"].split(" "))
-            for step in reversed(orthography):
-                form = step.undo(form)
-            new_entry["Form"] = form
-
-        new_entry["Segments"] = new_entry["Segments"].split(" ")
-        new_entry["Form_according_to_Source"] = new_entry["Form"]
-        new_entry["Form"] = "".join(new_entry["Segments"])
     else:
         continue
 
     # Check how clean the segments are
-    for segment in new_entry["Segments"]:
-        if isinstance(bipa[segment], pyclts.models.UnknownSound):
-            raise ValueError(
-                "Invalid sound segment {:} found in form {:}.".format(
-                    segment, new_entry))
-
-    if not output_orthography:
-        if not new_entry["Local_Orthography"]:
-            raise ValueError(
-                "The language does not mention an orthograpic profile, so I"
-                " have to assume an ideosyncratic one, but the"
-                " forms are not given in local orthography.")
-    else:
-        form = new_entry["Form"]
-        for step in output_orthography:
-            form = step.undo(form)
-        new_entry["Local_Orthography"] = form
+    form = new_entry["Form_according_to_Source"]
+    for transcoder in orthography:
+        form = transcoder(form)
+    segments = [bipa[s] for s in tokenizer(form, ipa=True).split()]
+    print(new_entry["Form_according_to_Source"],
+          '→',
+          ' '.join(str(s) if s.name else '0' for s in segments)
+          )
+    for s in segments:
+        if not s.name:
+            raise ValueError("Segment {:}, in form {:}, is not a valid IPA segment.".format(
+                s, new_entry))
 
     new_entry["Source"] = new_sources_field
 
