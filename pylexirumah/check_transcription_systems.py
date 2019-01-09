@@ -457,6 +457,8 @@ if __name__ == "__main__":
                         message("Form {:} has original value <{:}>, which contains brackets. Canonically, it would be [{:}] according to the orthography. Variant form [{:}] was given explicitly.".format(line[c_id], line[c_value], form, line[c_form]))
                         form = line[c_form]
                 elif not line[c_form]:
+                    if len(resolutions) > 1:
+                        form = [drop_stress(r) for r in resolve_brackets(form)][0]
                     message(
                         "Form {:} has original value <{:}>, which corresponds to"
                         " [{:}] according to the orthography; no form given."
@@ -477,7 +479,8 @@ if __name__ == "__main__":
             segments = [bipa[x] for x in line[c_segments]]
         else:
             segments = [bipa[x]
-                        for x in tokenizer(line[c_form].replace(".", ""), ipa=True).split()]
+                        for part in line[c_form].split(".")
+                        for x in tokenizer(part, ipa=True).split()]
             for s in segments:
                 if isinstance(s, pyclts.models.UnknownSound):
                     message(
