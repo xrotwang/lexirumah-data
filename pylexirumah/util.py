@@ -300,7 +300,7 @@ def cognate_sets(dataset, code_column=None, partial_cognates="exact"):
                 for pcognateset in row[code_column]:
                     data[pcognateset].add(row[form_column])
     else:
-        for form, cognateset in cognatesets:
+        for form, cognateset in cognatesets.items():
             if partial_cognates == "exact":
                 try:
                     data[tuple(cognateset)].add(form)
