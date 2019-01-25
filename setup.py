@@ -27,6 +27,9 @@ setup(
         'xlrd', # For importing from Excel files
     ],
     entry_points={
+        'lexibank.dataset': [
+            'lexirumah=pylexirumah.lexibank:Dataset',
+        ],
         'console_scripts': [
             'segment=pylexirumah.segment:main',
         ]
