@@ -227,7 +227,9 @@ for r, row in enumerate(rows):
         form = new_entry["Form"]
     else:
         new_entry["Form"] = form
-    segments = [bipa[s] for s in tokenizer(form, ipa=True).split()]
+    segments = [bipa[s]
+                for syl in form.split(".")
+                for s in tokenizer(syl, ipa=True).split()]
     print(form,
           '→',
           ' '.join(str(s) if s.name else '0' for s in segments)
