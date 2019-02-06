@@ -4,12 +4,17 @@
 
 import sys
 from pycldf.util import Path
+import hashlib
 import argparse
 
 import lingpy
 import lingpy.compare.partial
 
 from pylexirumah import get_dataset
+
+def sha1(path):
+    return hashlib.sha1(str(path).encode('utf-8')).hexdigest()[:12]
+
 
 def clean_segments(row):
     """Reduce the row's segments to not contain empty morphemes.
@@ -116,7 +121,8 @@ if __name__ == "__main__":
         ratio_str = ""
     try:
         scorers_etc = lingpy.compare.lexstat.LexStat(
-            filename='lexstats-{:s}{:s}.tsv'.format(
+            filename='lexstats-{:}-{:s}{:s}.tsv'.format(
+                sha1(args.input),
                 args.soundclass, ratio_str))
         lex.scorer = scorers_etc.scorer
         lex.cscorer = scorers_etc.cscorer
@@ -125,7 +131,9 @@ if __name__ == "__main__":
         lex.get_scorer(runs=10000, ratio=ratio_pair)
         lex.output(
             'tsv',
-            filename='lexstats-{:s}{:s}'.format(args.soundclass, ratio_str),
+            filename='lexstats-{:}-{:s}{:s}'.format(
+                sha1(args.input),
+                args.soundclass, ratio_str),
             ignore=[])
     # For some purposes it is useful to have monolithic cognate classes.
     lex.cluster(method='lexstat', threshold=args.threshold, ref='cogid',
