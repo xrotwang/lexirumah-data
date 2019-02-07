@@ -47,10 +47,13 @@ from . import get_dataset
 from .util import identifier
 
 
-ICONS = iter(
-    ['c0000dd',
-     'fdd0000',
-     'o00dd00'] * 200)
+ICONS = {
+    'timor-alor-pantar': 'fdd0000',
+    'austronesian': 'c0000dd',
+    'west-bomberai': 'f990099',
+    'tambora': 'ce8e8e8',
+    'other': 'o00dd00'
+}
 
 
 # Utility functions
@@ -115,7 +118,7 @@ def create_language_object(row, families={}, identifiers={}):
         print("Creating object for language family", family)
         families[family] = Family(
             id=family.lower(),
-            jsondata={"icon": next(ICONS)},
+            jsondata={"icon": ICONS[family.lower()]},
             name=family)
 
     l = LexibankLanguage(
