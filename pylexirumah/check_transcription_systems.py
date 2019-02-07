@@ -479,7 +479,7 @@ if __name__ == "__main__":
             segments = [bipa[x] for x in line[c_segments]]
         else:
             segments = [bipa[x]
-                        for part in line[c_form].split(".")
+                        for part in (line[c_form] or '').split(".")
                         for x in tokenizer(part, ipa=True).split()]
             for s in segments:
                 if isinstance(s, pyclts.models.UnknownSound):
