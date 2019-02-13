@@ -163,7 +163,7 @@ old_forms = len(all_rows)
 
 print("Preparing to load additional forms from new wordlist ...")
 max_id = max(row["ID"] for row in all_rows)
-copy_columns = ["Concept_ID", "Lect_ID", "Form_according_to_Source", "Form", "Comment"]
+copy_columns = ["Concept_ID", "Lect_ID", "Form_according_to_Source", "Form", "Local_Orthography", "Comment"]
 table_columns = [column.name for column in forms.tableSchema.columns]
 
 print("Reading forms ...")
@@ -217,15 +217,28 @@ for r, row in enumerate(rows):
     form = new_entry["Form_according_to_Source"]
     for transcoder in orthography:
         form = transcoder(form)
-    segments = [bipa[s] for s in tokenizer(form, ipa=True).split()]
-    print(new_entry["Form_according_to_Source"],
+    if new_entry["Form"]:
+        if new_entry["Form"] != form:
+            print(new_entry["Form_according_to_Source"],
+                  "→",
+                  form,
+                  "≠",
+                  new_entry["Form"])
+        form = new_entry["Form"]
+    else:
+        new_entry["Form"] = form
+    segments = [bipa[s]
+                for syl in form.split(".")
+                for s in tokenizer(syl, ipa=True).split()]
+    print(form,
           '→',
           ' '.join(str(s) if s.name else '0' for s in segments)
-          )
+    )
     for s in segments:
         if not s.name:
-            raise ValueError("Segment {:}, in form {:}, is not a valid IPA segment.".format(
+            raise ValueError("Segment [{:}], in form {:}, is not a valid IPA segment.".format(
                 s, new_entry))
+    new_entry["Segments"] = [str(s) for s in segments]
 
     new_entry["Source"] = new_sources_field
 

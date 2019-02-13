@@ -1,0 +1,33 @@
+// Transformations to convert the standardised IPA transcription into an ‘orthographic’ transcription.
+// General all lects:
+// (note that {j	y} and {d͡ʒ	j} must be applied in this order to avoid merger)
+// (note also not all lects have all the symbols here; [d͡ʒ] [ʔ] [ŋ] and the double vowels are most common)
+// (unless specified otherwise all apostrophe-like symbols should be the straight apostrophe: U+0027 ' APOSTROPHE and not U+2019 ’ RIGHT SINGLE QUOTATION MARK)
+aa	aʔa
+a	a
+b	b
+c	t͡ʃ
+f	f
+g	g
+h	h
+k	k
+l	l
+m	m
+ng	ŋ
+n	n
+p	p
+r	r
+s	s
+t	t
+u_	w_
+w	w
+i_	j_
+y	j
+j	ʤ
+j	ɟ
+j	d͡ʒ
+d	d
+	ˈ
+	ˌ
+	.
+	͡
