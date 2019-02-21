@@ -274,7 +274,8 @@
                             "format": "[0-9]+"
                         },
                         "name": "Concepticon_ID",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Concepticon_ID}",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
+                        "valueUrl": "https://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "required": false
                     },
                     {
