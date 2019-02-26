@@ -3,6 +3,9 @@
 from pycldf import Dataset
 from clldutils.path import Path
 
+# It would be good to keep this more configurable, and in one place in pylexirumah.
+repository = (Path(__file__).parent.parent /
+              "cldf" / "cldf-metadata.json")
 
 def get_dataset(fname=None):
     """Load a CLDF dataset.
@@ -25,8 +28,7 @@ def get_dataset(fname=None):
     pycldf.Dataset
     """
     if fname is None:
-        fname = (Path(__file__).parent.parent /
-                "cldf" / "cldf-metadata.json")
+        fname = repository
     else:
         fname = Path(fname)
     if not fname.exists():
@@ -37,6 +39,3 @@ def get_dataset(fname=None):
     return Dataset.from_data(fname)
 
 
-# It would be good to keep this more configurable, and in one place in pylexirumah.
-repository = (Path(__file__).parent.parent /
-              "cldf" / "Wordlist-metadata.json")
