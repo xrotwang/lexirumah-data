@@ -26,7 +26,7 @@ def get_dataset(fname=None):
     """
     if fname is None:
         fname = (Path(__file__).parent.parent /
-                "cldf" / "Wordlist-metadata.json")
+                "cldf" / "cldf-metadata.json")
     else:
         fname = Path(fname)
     if not fname.exists():
