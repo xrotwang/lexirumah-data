@@ -12,10 +12,10 @@ from pylexirumah import get_dataset
 
 try:
     geonames_username = Path(__file__).parent.joinpath("username").open().read().strip()
+    geonames = gc.GeoNames(username=geonames_username, timeout=None)
 except FileNotFoundError:
-    geonames_username = None
+    geonames = None
 nominatim = gc.Nominatim(user_agent="lexirumah")
-geonames = gc.GeoNames(username=geonames_username, timeout=None)
 
 detail={"ID": ["ADM2", "ADM3"],
         "TL": []}
@@ -27,7 +27,7 @@ def get_region(latitude, longitude):
             exactly_one=False,
             lang="local")[0]
     except geopy.exc.GeocoderServiceError:
-        return get_region(latitude, longitude)
+        return None
     address = [for_country.raw["adminName1"], for_country.raw["countryName"]]
     country =  for_country.raw['countryCode']
     for d in detail[country.upper()]:

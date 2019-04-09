@@ -24,7 +24,6 @@ try:
 except (ValueError, ImportError):
     local_glottolog = None
 
-from .geo_lookup import get_region
 from . import get_dataset, repository
 
 REPLACE = {
