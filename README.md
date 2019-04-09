@@ -25,7 +25,7 @@ concepts have been merged with close-but-not-perfect synonyms.
 
 
 ## `pylexirumah`
-[![Build Status](https://travis-ci.org/lessersunda/lexirumah-data.svg?branch=master)](https://travis-ci.org/lessersunda/lexirumah-data)
+[![Build Status](https://travis-ci.org/lessersunda/lexirumah-data.svg?branch=with_lexi_data)](https://travis-ci.org/lessersunda/lexirumah-data)
 
 ### `tests`
 The `tests` directory contains tests for functionality in `pylexirumah`.
