@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.4"
+  - "3.8-dev"
+install:
+  - pip install -r requirements.txt
+  - pip install .
+script:
+  - python -m pylexirumah.check_transcription_systems --over all --step "fill fill fill"
+  - python -m pylexirumah.clld_sqlite

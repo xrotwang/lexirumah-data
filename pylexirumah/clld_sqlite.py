@@ -13,20 +13,19 @@ import math
 import os
 import argparse
 import json
-import pandas
 import sys
 
 import pycldf
 
-import lexibank
+import lexirumah
 import transaction
 
 from clld.scripts.util import parsed_args
 from clld.lib.bibtex import EntryType
-from lexibank.scripts.initializedb import prime_cache
+from lexirumah.scripts.initializedb import prime_cache
 
 
-# Attempt to load enoug Lexirumah to construct an SQLite database for it.
+# Attempt to load enoug LexiRumah to construct an SQLite database for it.
 from clld.db.meta import DBSession
 from clld.db.models import common
 Dataset = common.Dataset
@@ -36,8 +35,8 @@ ContributionContributor = common.ContributionContributor
 ValueSet = common.ValueSet
 Identifier = common.Identifier
 LanguageIdentifier = common.LanguageIdentifier
-from lexibank.models import (
-    LexibankLanguage, LexibankSource, Concept, Provider, Counterpart,
+from lexirumah.models import (
+    LexiRumahLanguage, LexiRumahSource, Concept, Provider, Counterpart,
     CognatesetCounterpart, Cognateset, CognatesetCounterpartReference,
     CounterpartReference)
 from clld_glottologfamily_plugin.models import Family
@@ -121,7 +120,7 @@ def create_language_object(row, families={}, identifiers={}):
             jsondata={"icon": ICONS[family.lower()]},
             name=family)
 
-    l = LexibankLanguage(
+    l = LexiRumahLanguage(
         id=row["ID"],
         name=row['Name'],
         family=families[family],
@@ -174,7 +173,7 @@ def import_languages(wordlist):
     """Load language metadata from languages tsv.
 
     Load the Lects from the pycldf word list passed as argument, and put the
-    corresponding LexibankLanguage objects in the database.
+    corresponding LexiRumahLanguage objects in the database.
 
     """
     lects = {}
@@ -227,7 +226,7 @@ def import_sources(wordlist, contribution, contributors = {}):
             name = name[:-1]+chr(ord(name[-1]) + 1)
 
         # create a contribution
-        contrib = LexibankSource(
+        contrib = LexiRumahSource(
             id=source.id,
             name=name,
             bibtex_type=vars(EntryType).get(source.genre) or EntryType.misc,
@@ -399,10 +398,13 @@ def db_main():
 
 def main():
     """Construct a new database from scratch."""
+    print(os.path.join(
+                  os.path.dirname(__file__),
+                  "lexirumah_for_create_database.ini"))
     args = parsed_args(
         args=[os.path.join(
-                  os.path.dirname(os.path.dirname(lexibank.__file__)),
-                  "development.ini")])
+                  os.path.dirname(__file__),
+                  "lexirumah_for_create_database.ini")])
 
     with transaction.manager:
         db_main()
