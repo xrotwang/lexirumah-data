@@ -10,7 +10,10 @@ import urllib
 from time import sleep
 from pylexirumah import get_dataset
 
-geonames_username = Path(__file__).parent.joinpath("username").open().read().strip()
+try:
+    geonames_username = Path(__file__).parent.joinpath("username").open().read().strip()
+except FileNotFoundError:
+    geonames_username = None
 nominatim = gc.Nominatim(user_agent="lexirumah")
 geonames = gc.GeoNames(username=geonames_username, timeout=None)
 
