@@ -202,12 +202,12 @@ def import_sources(wordlist, contribution, contributors = {}):
 
             if not citation_contrib:
                 if len(people) == 1:
-                    citation_contrib = " ".join(people[0].last())
+                    citation_contrib = " ".join(people[0].last_names)
                 elif len(people) == 2:
-                    citation_contrib = "{:} & {:}".format(" ".join(people[0].last()),
-                                                          " ".join(people[1].last()))
+                    citation_contrib = "{:} & {:}".format(" ".join(people[0].last_names),
+                                                          " ".join(people[1].last_names))
                 else:
-                    citation_contrib = "{:} et al.".format(" ".join(people[0].last()))
+                    citation_contrib = "{:} et al.".format(" ".join(people[0].last_names))
 
         if citation_contrib:
             if fields.get("year"):
