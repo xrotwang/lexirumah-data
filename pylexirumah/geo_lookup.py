@@ -10,9 +10,7 @@ import urllib
 from time import sleep
 from pylexirumah import get_dataset
 
-google_api_key = Path(__file__).parent.joinpath("api_key").open().read().strip()
 geonames_username = Path(__file__).parent.joinpath("username").open().read().strip()
-google = gc.GoogleV3(api_key=google_api_key)
 nominatim = gc.Nominatim(user_agent="lexirumah")
 geonames = gc.GeoNames(username=geonames_username, timeout=None)
 
