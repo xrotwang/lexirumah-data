@@ -25,7 +25,6 @@ setup(
         'newick',
         'geopy',
         'xlrd', # For importing from Excel files
-        'lexirumah',
 	'numpy',
 	'pyclts',
 	'segments',
