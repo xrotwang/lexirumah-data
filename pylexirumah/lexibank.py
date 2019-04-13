@@ -34,22 +34,9 @@ class Dataset(BaseDataset):
         return Metadata.from_cldf_metadata(json.load((self.dir / 'cldf/cldf-metadata.json').open()))
 
     def cmd_download(self, **kw):
+        # If you got here, this dataset is downloaded.
         pass
 
     def cmd_install(self, **kw):
-        with self.cldf as ds:
-            ds.add_sources()
-            ds.add_concepts(id_factory=lambda c: c.number)
-            for cid, concept, lid, gc, form, cogid in pb(self.raw.read_csv('output.csv')):
-                ds.add_language(ID=lid.replace(' ', '_'), Name=lid, Glottocode=gc)
-                for row in ds.add_lexemes(
-                    Language_ID=lid.replace(' ', '_'),
-                    Parameter_ID=cid,
-                    Value=form,
-                    Source=[SOURCE],
-                    Cognacy=concept + '-' + cogid
-                ):
-                    ds.add_cognate(
-                        lexeme=row,
-                        Cognateset_ID=cogid,
-                        Source=[SOURCE])
+        # If you got here, this dataset is essentially installed.
+        pass
