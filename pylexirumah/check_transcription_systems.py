@@ -487,7 +487,7 @@ if __name__ == "__main__":
                         "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
                             line[c_id], form, s.source))
 
-            if ([str(bipa[x]) for x in line[c_segments]] !=
+            if (line[c_segments]) and ([str(bipa[x]) for x in line[c_segments]] !=
                 [str(x) for x in segments]):
                     message(
                         "Form {:} has form [{:}], which should correspond to segments"
