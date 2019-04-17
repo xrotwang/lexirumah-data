@@ -158,11 +158,15 @@ dataset.write_sources()
 
 print("Loading existing forms from previous wordlists ...")
 forms = dataset["FormTable"]
-all_rows = list(dataset["FormTable"].iterdicts())
+all_rows = list(forms.iterdicts())
 old_forms = len(all_rows)
 
+empty = dataset["ValueTable"]
+empty_forms = list(empty.iterdicts())
+
 print("Preparing to load additional forms from new wordlist ...")
-max_id = max(row["ID"] for row in all_rows)
+max_id = max(int(row["ID"]) for row in all_rows)
+print(" (Starting import with ID {:d})".format(max_id + 1))
 copy_columns = ["Concept_ID", "Lect_ID", "Form_according_to_Source", "Form", "Local_Orthography", "Comment"]
 table_columns = [column.name for column in forms.tableSchema.columns]
 
@@ -198,49 +202,13 @@ for r, row in enumerate(rows):
     output_orthography = reversed(load_orthographic_profile(
         languages[new_entry["Lect_ID"]]["Orthography"]))
 
-    if new_entry["Comment"] and not (new_entry["Form_according_to_Source"]):
-        # Nothing to do here.
-        pass
-    elif new_entry["Form_according_to_Source"]:
-        # There is an entry to import! Yay!
-
-        if not new_entry["Form"]:
-            if orthography == None:
-                raise ValueError(
-                    "The source claims to not use an orthograpic profile, but"
-                    " the forms are only given in (presumambly) normalized"
-                    " form.")
-    else:
-        continue
-
-    # Check how clean the segments are
-    form = new_entry["Form_according_to_Source"]
-    for transcoder in orthography:
-        form = transcoder(form)
-    if new_entry["Form"]:
-        if new_entry["Form"] != form:
-            print(new_entry["Form_according_to_Source"],
-                  "→",
-                  form,
-                  "≠",
-                  new_entry["Form"])
-        form = new_entry["Form"]
-    else:
-        new_entry["Form"] = form
-    segments = [bipa[s]
-                for syl in form.split(".")
-                for s in tokenizer(syl, ipa=True).split()]
-    print(form,
-          '→',
-          ' '.join(str(s) if s.name else '0' for s in segments)
-    )
-    for s in segments:
-        if not s.name:
-            raise ValueError("Segment [{:}], in form {:}, is not a valid IPA segment.".format(
-                s, new_entry))
-    new_entry["Segments"] = [str(s) for s in segments]
-
     new_entry["Source"] = new_sources_field
+
+    if new_entry["Comment"] and not (new_entry["Form_according_to_Source"]):
+        empty_forms.append(new_entry)
+        continue
+    elif not (new_entry["Form_according_to_Source"]):
+        continue
 
     all_rows.append(new_entry)
 
@@ -248,4 +216,5 @@ print("Found {:d} new forms.".format(len(all_rows) - old_forms))
 
 print("Writing all forms, old and new, back to file ...")
 forms.write(all_rows)
+empty.write(empty_forms)
 print("Word list data merged.")
