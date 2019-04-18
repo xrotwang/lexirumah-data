@@ -50,7 +50,7 @@ ICONS = {
     'timor-alor-pantar': 'fdd0000',
     'austronesian': 'c0000dd',
     'west-bomberai': 'f990099',
-    'tambora': 's666666',
+    'tambora': 'ce8e8e8',
     'other': 'o00dd00'
 }
 
