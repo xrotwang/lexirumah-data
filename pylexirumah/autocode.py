@@ -75,7 +75,8 @@ if __name__ == "__main__":
     parser.add_argument("output", nargs="?",
                         # type=argparse.FileType('w'),
                         default="aligned",
-                        help="Output file to write segmented data to")
+                        help="Output file to write segmented data to,"
+                        " without extension .tsv (automatically added)")
     parser.add_argument("--soundclass", default="sca",
                         choices=["sca", "dolgo", "asjp", "art"],
                         help="Sound class model to use. (default: sca)")
