@@ -10,6 +10,7 @@ install:
 script:
   - cp raw/forms.csv cldf/forms.csv
   - python -m pylexirumah.check_transcription_systems --over all --step "fill fill fill"
+  - rm pylexirumah/lexirumah.sqlite || echo "Not present anyway"
   - python -m pylexirumah.clld_sqlite
 deploy:
   skip_cleanup: true
