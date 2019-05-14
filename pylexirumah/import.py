@@ -199,9 +199,6 @@ for r, row in enumerate(rows):
             "No metadata found for lect {:} of form in line {:d}.".format(
                 new_entry["Lect_ID"], r))
 
-    output_orthography = reversed(load_orthographic_profile(
-        languages[new_entry["Lect_ID"]]["Orthography"]))
-
     new_entry["Source"] = new_sources_field
 
     if new_entry["Comment"] and not (new_entry["Form_according_to_Source"]):
