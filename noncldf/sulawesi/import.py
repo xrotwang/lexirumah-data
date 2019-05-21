@@ -569,9 +569,9 @@ new_forms = list(lr["FormTable"].iterdicts())
 new_form_id = max(int(f["ID"]) for f in new_forms) + 1
 
 header = None
-for row in xlrd.open_workbook(
+for row in xlrd.open_workbook(str(
         Path(__file__).parent /
-        "Muna-Buton word lists/Buton Muna Wordlists (2017-07-11).xlsx").sheet_by_index(0).get_rows():
+        "Muna-Buton word lists/Buton Muna Wordlists (2017-07-11).xlsx")).sheet_by_index(0).get_rows():
     row = [cell.value for cell in row]
     if row[1] == "Informant":
         row[0] = "Lect"
