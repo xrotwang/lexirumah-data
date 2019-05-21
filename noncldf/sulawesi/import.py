@@ -409,6 +409,62 @@ concepts = {
 'ikan paus': 'whale',
 'mengapa?, kenapa?': 'why',
 'isteri': 'wife',
+    
+    masak (buah)	ripe	
+sungai	river_stream	
+jalan* (-an)	road	
+busuk	rotten	
+rumbia	sago	sago palm
+laut	sea	
+tinggi	tall	
+jerami, lalang	thatch_for_roofing	
+atap	thatched_roof	
+di sana	there	
+cium	to smell	
+bertanya	to_ask_question	
+memandikan	to_bathe_a_child	
+gigit	to_bite	
+bakar	to_burn_clear_land	
+berteriak	to_call_out	berteriak
+mendaki	to_climb	mendaki
+berjongkok	to_crouch	
+potong (me-)	to_cut	
+menebang	to_cut_down	
+jatuh	to_fall_from_above	
+kelahi (ber)	to_fight	
+alir (me)	to_flow	
+melipat	to_fold	
+beri	to_give	
+hantam	to_hit	
+pegang (me-)	to_hold	
+buru (ber)	to_hunt	
+tertawa	to_laugh	
+main (ber-)	to_play	
+berlari	to_run	
+kata (ber-)	to_say	
+mencari	to_search_for_to_hunt_for	
+memanah	to_shoot	to shoot an arrow
+nyanyi	to_sing	
+ludah (me-)	to_spit	
+belah (me)	to_split	
+peras (me-)	to_squeeze	
+tikam (me)	to_stab	
+diri (ber)	to_stand	
+hisap	to_suck	
+memberitahu	to_tell	memberitahu, to inform
+berbohong, mendusta	to_tell_untruth	
+menunggu	to_wait	
+membangunkan	to_wake_someone_up	
+mencuci tangan	to_wash	wash hands
+hapus	to_wipe	
+kura-kura darat	turtle	tortoise (the one which walks)
+urat darah	vein	
+apa	what	
+bilamana	when	
+di mana	where	
+siapa	who	
+muda	young_people	
+
 }
 
 alternative_names = {
