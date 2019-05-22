@@ -572,13 +572,14 @@ header = None
 for row in xlrd.open_workbook(str(
         Path(__file__).parent /
         "Muna-Buton word lists/Buton Muna Wordlists (2017-07-11).xlsx")).sheet_by_index(0).get_rows():
-    row = [cell.value for cell in row]
+    row = [cell.value for cell in row][1:]
     if row[1] == "Informant":
         row[0] = "Lect"
         header = row
         data_start = header.index("kepala")
         metadata = header[:data_start - 1]
-        conceptlist = OrderedDict([concepts.get(g) for g in header[data_start:]])
+        conceptlist = OrderedDict([concepts.get(g, (None, None))
+                                   for g in header[data_start:]])
     elif header and not row[4]:
         continue
     elif header:
@@ -594,7 +595,11 @@ for row in xlrd.open_workbook(str(
         else:
             n, lects = search_langs(
                 gl, lect_id[:8] if lect_id else metadata['Lect'])
-            lect = gl.languoid(lects[0].id)
+            try:
+                lect = gl.languoid(lects[0].id)
+            except IndexError:
+                print(metadata["Lect"], lect_id)
+                raise
         print(metadata['Lect'], lect)
         p = lect
         try:
@@ -608,16 +613,16 @@ for row in xlrd.open_workbook(str(
                     p = p.parent
         except AttributeError:
             pass
-        query = "Kecamatan " + metadata["Kecamatan"].strip("?") + ", Indonesia"
-        location = geonames.geocode(query)
-        try:
-            assert -7 < location.latitude < -1
-            assert 120 < location.longitude < 130
-            lat = location.latitude
-            lon = location.longitude
-            print(lat, lon)
-        except (AttributeError, AssertionError):
-            print(query)
+        # query = "Kecamatan " + metadata["Kecamatan"].strip("?") + ", Indonesia"
+        # location = geonames.geocode(query)
+        # try:
+        #     assert -7 < location.latitude < -1
+        #     assert 120 < location.longitude < 130
+        #     lat = location.latitude
+        #     lon = location.longitude
+        #     print(lat, lon)
+        # except (AttributeError, AssertionError):
+        #     print(query)
         lect_id = lect_id or lect.glottocode
         if lect_id not in [l["ID"] for l in new_lects]:
             new_lects.append({
