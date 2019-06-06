@@ -16,11 +16,11 @@
         "Jiang Wu"
     ],
     "dc:description": "A lexical database of Lesser Sunda languages",
-    "dc:identifier": "Lexirumah 2.2.2",
+    "dc:identifier": "lexirumah-2.2.2",
     "dc:license": "http://creativecommons.org/licenses/by/4.0/",
     "dc:publisher": "Leiden University Centre for Linguistics",
     "dc:source": "sources.bib",
-    "dc:title": "LexiRumah 2.1.2",
+    "dc:title": "LexiRumah 2.2.2",
     "special:contact": "g.a.kaiping@hum.leidenuniv.nl",
     "special:domain": "lexirumah.model-ling.eu",
     "special:license_icon": "cc-by.png",
@@ -328,18 +328,14 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "required": false,
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": true,
                         "name": "English"
                     },
                     {
