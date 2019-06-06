@@ -478,9 +478,16 @@ if __name__ == "__main__":
         if args.step[1] == "quiet":
             segments = [bipa[x] for x in line[c_segments]]
         else:
-            segments = [bipa[x]
-                        for part in (line[c_form] or '').split(".")
-                        for x in tokenizer(part, ipa=True).split()]
+            try:
+                segments = [bipa[x]
+                            for part in (line[c_form] or '').split(".")
+                            for x in tokenizer(part, ipa=True).split()]
+            except IndexError:
+                message(
+                    "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
+                        line[c_id], form, s.source))
+                segments = [bipa[x] for x in line[c_form]]
+
             for s in segments:
                 if isinstance(s, pyclts.models.UnknownSound):
                     message(
