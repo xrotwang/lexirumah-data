@@ -440,6 +440,11 @@ if __name__ == "__main__":
                         "Form {:} has ideosyncratic orthography and original value"
                         " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
             else:
+                if "/" in line[c_value]:
+                    message(
+                        "Form {:} is listed as <{:}>, which is likely an "
+                        "invalid cell containing two different forms.".format(line[c_id], line[c_value]))
+
                 # Apply substitutions to form
                 form = (line[c_value] or '').strip()
                 for transducer in orthographic_profile:

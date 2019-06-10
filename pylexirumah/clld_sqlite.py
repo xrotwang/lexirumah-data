@@ -25,7 +25,7 @@ from clld.lib.bibtex import EntryType
 from lexirumah.scripts.initializedb import prime_cache
 
 
-# Attempt to load enoug LexiRumah to construct an SQLite database for it.
+# Attempt to load enough LexiRumah to construct an SQLite database for it.
 from clld.db.meta import DBSession
 from clld.db.models import common
 Dataset = common.Dataset
