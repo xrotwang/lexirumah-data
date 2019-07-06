@@ -235,7 +235,7 @@ def load_orthographic_profile(transducer_files, root=repository.parent, transduc
             # That file is not in our cache yet, we have to load it and
             # turn it into a function.
             substitutions = []
-            for rule in (root / file).open():
+            for rule in (root / file).open(encoding="utf-8"):
                 rule = rule.strip("\n")
                 rule = rule.strip("\r")
                 if "//" in rule:
