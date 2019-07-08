@@ -369,17 +369,10 @@ def db_main():
         url="")
 
     contributors = {}
-    primary = True
-    for i, editor in enumerate(g("dc:creator", []) + [""] + g("dc:contributor", [])):
-        # Primary and secondary editors are in the same list,
-        # separated by a not-value.
-        if not editor:
-            primary = False
-            continue
-
+    # FIXME: Don't use ID hack, instead hand contributors dict
+    # through.
+    for i, editor in enumerate(g("dc:creator", [])):
         contributor_id = identifier(editor)
-        # FIXME: Don't use ID hack, instead hand contributors dict
-        # through.
         try:
             contributor = contributors[contributor_id]
         except KeyError:
@@ -387,7 +380,19 @@ def db_main():
                 id=contributor_id,
                 name=editor)
         DBSession.add(Editor(dataset=ds, contributor=contributor,
-                             ord=i, primary=primary))
+                             ord=i,
+                             primary=True))
+    for i, editor in enumerate(g("dc:contributor", [])):
+        contributor_id = identifier(editor)
+        try:
+            contributor = contributors[contributor_id]
+        except KeyError:
+            contributors[contributor_id] = contributor = Contributor(
+                id=contributor_id,
+                name=editor)
+        DBSession.add(Editor(dataset=ds, contributor=contributor,
+                             ord=i + len(g("dc:creator", [])),
+                             primary=False))
 
     concepticon = import_concepticon(dataset)
     languages = import_languages(dataset)
