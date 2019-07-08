@@ -370,7 +370,7 @@ def db_main():
 
     contributors = {}
     primary = True
-    for i, editor in enumerate(g("dc:creator", [])):
+    for i, editor in enumerate(g("dc:creator", []) + [""] + g("dc:contributor", [])):
         # Primary and secondary editors are in the same list,
         # separated by a not-value.
         if not editor:
