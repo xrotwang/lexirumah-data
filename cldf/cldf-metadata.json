@@ -1,6 +1,4 @@
 {
-    "special:conceptlist": "Klamer-2017-XXX",
-
     "@context": [
         "http://www.w3.org/ns/csvw",
         {
@@ -8,19 +6,21 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:creator": [
-        "Gereon A. Kaiping",
-        "Owen Edwards",
-        "Marian Klamer"],
     "dc:contributor": [
         "Jiang Wu"
     ],
+    "dc:creator": [
+        "Gereon A. Kaiping",
+        "Owen Edwards",
+        "Marian Klamer"
+    ],
     "dc:description": "A lexical database of Lesser Sunda languages",
-    "dc:identifier": "lexirumah-2.2.3",
+    "dc:identifier": "lexirumah-2.2.4",
     "dc:license": "http://creativecommons.org/licenses/by/4.0/",
     "dc:publisher": "Leiden University Centre for Linguistics",
     "dc:source": "sources.bib",
-    "dc:title": "LexiRumah 2.2.3",
+    "dc:title": "LexiRumah 2.2.4",
+    "special:conceptlist": "Klamer-2017-XXX",
     "special:contact": "g.a.kaiping@hum.leidenuniv.nl",
     "special:domain": "lexirumah.model-ling.eu",
     "special:license_icon": "cc-by.png",
@@ -213,6 +213,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 180,
             "tableSchema": {
                 "columns": [
                     {
@@ -301,8 +302,8 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "valueUrl": "Papunesia",
                         "required": false,
+                        "valueUrl": "Papunesia",
                         "name": "Macroarea",
                         "virtual": true
                     }
@@ -359,10 +360,10 @@
                             "base": "string",
                             "format": "[0-9]+"
                         },
-                        "name": "Concepticon_ID",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
+                        "required": false,
                         "valueUrl": "https://concepticon.clld.org/parameters/{Concepticon_ID}",
-                        "required": false
+                        "name": "Concepticon_ID"
                     },
                     {
                         "datatype": "string",
