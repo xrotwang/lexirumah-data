@@ -105,9 +105,12 @@ print("Loading the existing sources ...")
 sources = dataset.sources
 
 print("Investigating new sources ...")
-source_description = changed_files(
-    args.directory / "3 - normalized metadata of original source",
-    ".bib")[0]
+try:
+    source_description = changed_files(
+        args.directory / "3 - normalized metadata of original source",
+        ".bib")[0]
+except IndexError:
+    raise ValueError("Wordlist metadata not found in the expected place.")
 # People might have edited that file using Word, which has strange ideas about
 # encoding.
 with source_description.open("rb") as binary_source_file:
