@@ -25,7 +25,8 @@ def get_region(latitude, longitude):
         for_country = geonames.reverse(
             (latitude, longitude),
             exactly_one=False,
-            lang="local")[0]
+            lang="en"
+            )[0]
     except geopy.exc.GeocoderServiceError:
         return None
     address = [for_country.raw["adminName1"], for_country.raw["countryName"]]
@@ -40,7 +41,8 @@ def get_region(latitude, longitude):
                     feature_code=d,
                     find_nearby_type='findNearby',
                     exactly_one=False,
-                    lang="local")[0]
+                    #lang="local"
+                )[0]
             address.insert(0, element.raw["name"])
         except (geopy.exc.GeocoderServiceError, TypeError):
             continue
