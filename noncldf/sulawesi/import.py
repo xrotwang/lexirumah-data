@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from collections import OrderedDict
+from collections import OrderedDict, Counter
 
 import xlrd
 
@@ -26,105 +26,52 @@ concepts = json.load((Path(__file__).parent / "concepts.json").open())
 new_sources = pybtex.database.BibliographyData()
 new_lects = list(lr["LanguageTable"].iterdicts())
 new_forms = list(lr["FormTable"].iterdicts())
-new_form_id = max(int(f["ID"]) for f in new_forms) + 1
+synonym_counts = Counter()
 
 header = None
 for row in xlrd.open_workbook(str(Path(__file__).parent / "Buton Muna Wordlists.xlsx")).sheet_by_index(0).get_rows():
-    row = [cell.value for cell in row][1:]
-    if row[1] == "Informant":
-        row[0] = "Lect"
+    row = [cell.value for cell in row]
+    if "Informant" in row:
         header = row
         data_start = header.index("kepala")
+    elif header and not row[4]:
+        continue
+    elif header and not header[0]:
+        header = [h or r for h, r in zip(header, row)]
         metadata = header[:data_start - 1]
         conceptlist = OrderedDict([concepts.get(g, (None, None))
                                    for g in header[data_start:]])
-    elif header and not row[4]:
-        continue
     elif header:
         metadata = dict(zip(metadata, row))
+
+        if not metadata['usethis one (or these ones) of duplicate']:
+            continue
 
         words = {c: value.split("/") for c, value in zip(conceptlist, row[data_start:])
                  if c
                  if value}
 
-        metadata["Lect"], lect_id = alternative_names.get(metadata["Lect"], (metadata["Lect"], None))
-        if lect_id:
-            lect = gl.languoid(lect_id[:8])
-        else:
-            n, lects = search_langs(
-                gl, lect_id[:8] if lect_id else metadata['Lect'])
-            try:
-                lect = gl.languoid(lects[0].id)
-            except IndexError:
-                print(metadata["Lect"], lect_id)
-                raise
-        print(metadata['Lect'], lect)
-        p = lect
-        try:
-            while True:
-                if p.latitude:
-                    lat = p.latitude
-                    lon = p.longitude
-                    print(lat, lon)
-                    break
-                else:
-                    p = p.parent
-        except AttributeError:
-            pass
-        # query = "Kecamatan " + metadata["Kecamatan"].strip("?") + ", Indonesia"
-        # location = geonames.geocode(query)
-        # try:
-        #     assert -7 < location.latitude < -1
-        #     assert 120 < location.longitude < 130
-        #     lat = location.latitude
-        #     lon = location.longitude
-        #     print(lat, lon)
-        # except (AttributeError, AssertionError):
-        #     print(query)
-        lect_id = lect_id or lect.glottocode
+        lect_id = metadata["ID"]
         if lect_id not in [l["ID"] for l in new_lects]:
-            new_lects.append({
-                "ID": lect_id,
-                "Name": metadata["Lect"],
-                "Family": "Austronesian",
-                "Latitude": lat,
-                "Longitude": lon,
-                "Region": get_region(lat, lon),
-                "Glottocode": lect.glottocode,
-                "Iso": metadata["EthCode"],
-                "Culture": None,
-                "Description": None,
-                "Orthography": ["p/general"],
-                "Comment": (metadata["Notes-classification"] or "")
-                + "Locations estimated from Kecamatan and/or Glottolog"})
+            new_lects.append(metadata)
 
-        source = metadata["Linguist / Source"]
+        source = metadata["Source"]
         source_key = identifier(source)
-        try:
-            new_sources.add_entry(
-                source_key,
-                pybtex.database.Entry(
-                    "incollection",
-                    fields={"title": source,
-                            "editor": "Mead, David",
-                            "quality": metadata["Quality"]}))
-        except pybtex.database.BibliographyDataError:
-            pass
 
         for concept, forms in words.items():
             for form in forms:
                 if form == "—":
                     # Missing form
                     continue
+                synonym_counts[(lect_id, concept)] += 1
                 new_forms.append({
-                    "ID": str(new_form_id),
+                    "ID": "{:}-{:}-{:}".format(lect_id, concept, synonym_counts[(lect_id, concept)]),
                     "Lect_ID": lect_id,
                     "Concept_ID": concept,
                     "Form_according_to_Source": form,
                     "Source": [source_key],
                     "Comment": conceptlist.get(concept),
                 })
-                new_form_id += 1
 
 lr["LanguageTable"].write(new_lects)
 lr["FormTable"].write(new_forms)
