@@ -12,8 +12,10 @@ import lingpy.compare.partial
 
 from pylexirumah import get_dataset
 from segments import Tokenizer
+from pyclts import TranscriptionSystem
 
 tokenizer = Tokenizer()
+bipa = TranscriptionSystem("bipa")
 
 
 def sha1(path):
@@ -28,18 +30,18 @@ def clean_segments(row):
     collapsing subsequent morpheme boundaries (_#◦+→←) into one. The `row` is
     modified in-place, the resulting cleaned segment list is returned.
 
-    >>> row = {"tokens": list("+_ta+0+at")
+    >>> row = {"segments": list("+_ta+0+at")}
     >>> clean_segments(row)
     ['t', 'a', '+', 'a', 't']
     >>> row
-    {'tokens': ['t', 'a', '+', 'a', 't']}
+    {'segments': ['t', 'a', '+', 'a', 't']}
 
     """
     try:
-        segments = row["tokens"]
+        segments = row["segments"]
     except KeyError:
         segments = [str(bipa[x])
-                    for part in row["ipa"].split(".")
+                    for part in row["form"].split(".")
                     for x in tokenizer(part, ipa=True).split()]
     segments.insert(0, "#")
     segments.append("#")
@@ -53,17 +55,8 @@ def clean_segments(row):
         if segments[s - 1] in "_#◦+→←" and segments[s] in "_#◦+→←":
             del segments[s - 1]
             continue
-    row["tokens"] = segments[1:-1]
-    return row["tokens"]
-
-
-def clean_segments_and_rename(new_column_names):
-    def filter(row):
-        for old, new in new_column_names.items():
-            row[new] = row.pop(old)
-        result = clean_segments(row)
-        return result
-    return filter
+    row["segments"] = segments[1:-1]
+    return row["segments"]
 
 
 if __name__ == "__main__":
@@ -109,19 +102,8 @@ if __name__ == "__main__":
 
     dataset = get_dataset(args.input)
 
-    # Explicit is better than implicit, so from_cldf does not contain renaming
-    # functionality, but it does contain a callback hook that can modify each
-    # row an filter it.
-    rename_columns = {
-         dataset["FormTable", "parameterReference"].name: "concept",
-         dataset["FormTable", "languageReference"].name: "doculect",
-         dataset["FormTable", "segments"].name: "tokens",
-         dataset["FormTable", "form"].name: "ipa",
-         dataset["FormTable", "id"].name: "reference",
-    }
-
     lex = lingpy.compare.partial.Partial.from_cldf(
-        args.input, filter=clean_segments_and_rename(rename_columns),
+        args.input, filter=clean_segments,
         model=lingpy.data.model.Model(args.soundclass),
         check=True)
 
