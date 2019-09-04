@@ -14,8 +14,6 @@ from pylexirumah.util import identifier
 
 gl = pyglottolog.Glottolog(Path(pyglottolog.__file__).parent.parent.parent.parent / "glottolog")
 
-__file__ = "this"
-
 lr = get_dataset()
 # The concepts.json matches Indonesian glosses to LexiRumah concepts and
 # necessary comments. Most of the matches there were found automatically
@@ -39,16 +37,16 @@ for row in xlrd.open_workbook(str(Path(__file__).parent / "Buton Muna Wordlists.
     elif header and not header[0]:
         header = [h or r for h, r in zip(header, row)]
         metadata = header[:data_start - 1]
-        conceptlist = OrderedDict([concepts.get(g, (None, None))
-                                   for g in header[data_start:]])
+        conceptlist = [concepts.get(g, (None, None))
+                       for g in header[data_start:]]
     elif header:
         metadata = dict(zip(metadata, row))
 
         if not metadata['usethis one (or these ones) of duplicate']:
             continue
 
-        words = {c: value.split("/") for c, value in zip(conceptlist, row[data_start:])
-                 if c
+        words = {tuple(c): value.split("/") for c, value in zip(conceptlist, row[data_start:])
+                 if c[0]
                  if value}
 
         lect_id = metadata["ID"]
@@ -58,19 +56,25 @@ for row in xlrd.open_workbook(str(Path(__file__).parent / "Buton Muna Wordlists.
         source = metadata["Source"]
         source_key = identifier(source)
 
-        for concept, forms in words.items():
+        for (concept, comment), forms in words.items():
             for form in forms:
-                if form == "—":
+                synonym_counts[(lect_id, concept)] += 1
+                if "[" in form:
+                    form, local_comment = form.split("[", 1)
+                    form = form.strip()
+                    local_comment = (comment + "; " if comment else "") + local_comment.strip().rstrip("]").strip()
+                else:
+                    local_comment = comment
+                if form == "—" or form == "":
                     # Missing form
                     continue
-                synonym_counts[(lect_id, concept)] += 1
                 new_forms.append({
                     "ID": "{:}-{:}-{:}".format(lect_id, concept, synonym_counts[(lect_id, concept)]),
                     "Lect_ID": lect_id,
                     "Concept_ID": concept,
                     "Form_according_to_Source": form,
                     "Source": [source_key],
-                    "Comment": conceptlist.get(concept),
+                    "Comment": local_comment,
                 })
 
 lr["LanguageTable"].write(new_lects)
