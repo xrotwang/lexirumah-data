@@ -3,7 +3,7 @@
 import sys
 import argparse
 import itertools
-from collections import OrderedDict
+from collections import OrderedDict, Counter
 from clldutils.path import Path
 
 import chardet
@@ -164,12 +164,14 @@ forms = dataset["FormTable"]
 all_rows = list(forms.iterdicts())
 old_forms = len(all_rows)
 
+syn = Counter([
+    (entry["Lect_ID"], entry["Concept_ID"])
+    for entry in all_rows])
+
 empty = dataset["ValueTable"]
 empty_forms = list(empty.iterdicts())
 
 print("Preparing to load additional forms from new wordlist ...")
-max_id = max(int(row["ID"]) for row in all_rows)
-print(" (Starting import with ID {:d})".format(max_id + 1))
 copy_columns = ["Concept_ID", "Lect_ID", "Form_according_to_Source", "Form", "Local_Orthography", "Comment"]
 table_columns = [column.name for column in forms.tableSchema.columns]
 
@@ -195,7 +197,12 @@ for r, row in enumerate(rows):
     if not new_entry["Lect_ID"] or new_entry["Lect_ID"] == "abui1241-lexi":
         new_entry["Lect_ID"] = previous_lect
     previous_lect = new_entry["Lect_ID"]
-    new_entry['ID'] = max_id + r
+
+    syn[new_entry["Lect_ID"], new_entry["Concept_ID"]] += 1
+
+    new_entry['ID'] = "{:}-{:}-{:d}".format(
+        new_entry["Lect_ID"], new_entry["Concept_ID"],
+        syn[new_entry["Lect_ID"], new_entry["Concept_ID"]])
 
     if new_entry["Lect_ID"] not in languages:
         raise ValueError(
