@@ -51,6 +51,7 @@ ICONS = {
     'austronesian': 'c0000dd',
     'west-bomberai': 'f990099',
     'tambora': 'scccccc',
+    'trans-new guinea': 'ta0fb75',
     'other': 'o00dd00'
 }
 
