@@ -52,6 +52,7 @@ ICONS = {
     'west-bomberai': 'f990099',
     'tambora': 'scccccc',
     "south bird's head": 'ta0fb75',
+    'konda-yahadian': 'sffff00',
     'other': 'o00dd00'
 }
 
