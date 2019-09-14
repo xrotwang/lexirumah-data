@@ -52,7 +52,6 @@ ICONS = {
     "west bomberai": 'f990099',
     "tambora": 'scccccc',
     "south bird's head": 'ta0fb75',
-    "east bird's head": 'dff66ff',
     "konda-yahadian": 'sffff00',
     "mor": 'dcccccc',
     "other": 'o00dd00'
