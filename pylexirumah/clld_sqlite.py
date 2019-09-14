@@ -54,12 +54,8 @@ ICONS = {
     "south bird's head": 'ta0fb75',
     "konda-yahadian": 'sffff00',
     "mor": 'dcccccc',
-    "east bird's head": 'dff66ff',
-    "hatam-mansim": 'ced9c07',
-    "mpur": 'tcccccc',
     "other": 'o00dd00'
 }
-
 
 # Utility functions
 def report(problem, *args, process_log=None):
