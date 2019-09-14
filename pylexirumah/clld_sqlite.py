@@ -50,11 +50,13 @@ ICONS = {
     "timor-alor-pantar": 'fdd0000',
     "austronesian": 'c0000dd',
     "west bomberai": 'f990099',
-    "tambora": 'scccccc',
     "south bird's head": 'ta0fb75',
     "east bird's head": 'dff66ff',
     "konda-yahadian": 'sffff00',
+    "hatam-mansim": 'cf38847',
+    "tambora": 'scccccc',
     "mor": 'dcccccc',
+    "mpur": 'fcccccc',
     "other": 'o00dd00'
 }
 
