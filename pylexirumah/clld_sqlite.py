@@ -47,13 +47,13 @@ from .util import identifier
 
 
 ICONS = {
-    "Timor-Alor-Pantar": 'fdd0000',
-    "Austronesian": 'c0000dd',
-    "West Bomberai": 'f990099',
-    "Tambora": 'scccccc',
-    "South Bird's Head": 'ta0fb75',
-    "Konda-Yahadian": 'sffff00',
-    "Mor": 'dcccccc',
+    "timor-alor-pantar": 'fdd0000',
+    "austronesian": 'c0000dd',
+    "west bomberai": 'f990099',
+    "tambora": 'scccccc',
+    "south bird's head": 'ta0fb75',
+    "konda-yahadian": 'sffff00',
+    "mor": 'dcccccc',
     "other": 'o00dd00'
 }
 
