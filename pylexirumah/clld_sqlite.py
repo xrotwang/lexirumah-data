@@ -51,12 +51,9 @@ ICONS = {
     "austronesian": 'c0000dd',
     "west bomberai": 'f990099',
     "south bird's head": 'ta0fb75',
-    "east bird's head": 'c0000dd',
     "konda-yahadian": 'sffff00',
-    "hatam-mansim": 'c0000dd',
     "tambora": 'scccccc',
     "mor": 'dcccccc',
-    "mpur": 'c0000dd',
     "other": 'o00dd00'
 }
 
