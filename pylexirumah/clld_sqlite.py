@@ -53,6 +53,8 @@ ICONS = {
     "south bird's head": 'ta0fb75',
     "konda-yahadian": 'sffff00',
     "tambora": 'scccccc',
+    "mor": 'dcccccc',
+    "hatam-mansim": 'cf38847',
     "other": 'o00dd00'
 }
 
