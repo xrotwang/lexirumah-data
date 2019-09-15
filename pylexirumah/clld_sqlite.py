@@ -55,6 +55,7 @@ ICONS = {
     "tambora": 'scccccc',
     "mor": 'dcccccc',
     "mpur": 'fcccccc',
+    "hatam-mansim": 'cf38847',
     "other": 'o00dd00'
 }
 
