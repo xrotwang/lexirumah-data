@@ -54,8 +54,7 @@ ICONS = {
     "konda-yahadian": 'sffff00',
     "tambora": 'scccccc',
     "mor": 'dcccccc',
-    "hatam-mansim": 'fcccccc',
-    "other": 'o00dd00'
+    "hatam": 'fcccccc'
 }
 
 # Utility functions
