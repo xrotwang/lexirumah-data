@@ -21,7 +21,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'pycldf',
-        'clldutils',
+        'clldutils<3.0.0',
         'newick',
         'chardet',
         'geopy',
