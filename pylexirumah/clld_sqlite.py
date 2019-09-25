@@ -317,6 +317,8 @@ def import_forms(
 
 def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={}):
     cognateset_by_formid = {}
+    cognateset_froms = {}
+    
     for row in dataset["CognateTable"].iterdicts():
         # Only incorporate the newest cognate codings.
         cognateset_by_formid[row["Form_ID"]] = row
