@@ -320,16 +320,18 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
     for row in dataset["CognateTable"].iterdicts():
         # Only incorporate the newest cognate codings.
         cognateset_by_formid[row["Form_ID"]] = row
-    for row in cognateset_by_formid.values():
+        row["CognateForms"] = cognateset_forms.setdefault(row["Cognateset_ID"], [])
+        row["CognateForms"].append(forms[row["Form_ID"]].name)
+    for row, forms in cognateset_by_formid.values():
         cognateset_id = row["Cognateset_ID"]
         try:
             cognateset = cognatesets[cognateset_id]
-            cognateset.name = forms[row["Form_ID"]].name
         except KeyError:
+            row["CognateForms"].sort()
             cognateset = cognatesets[cognateset_id] = Cognateset(
                 id=row["Cognateset_ID"],
                 contribution=contribution,
-                name=forms[row["Form_ID"]].name)
+                name=row["CognateForms"][len(row["CognateForms"]//2)])
         assoc = (
             CognatesetCounterpart(
                 cognateset=cognateset,
