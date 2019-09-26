@@ -333,7 +333,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
             cognateset = cognatesets[cognateset_id] = Cognateset(
                 id=row["Cognateset_ID"],
                 contribution=contribution,
-                name=row["CognateForms"][len(row["CognateForms"]//2)])
+                name=row["CognateForms"][len(row["CognateForms"])//2])
         assoc = (
             CognatesetCounterpart(
                 cognateset=cognateset,
