@@ -324,7 +324,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
         cognateset_by_formid[row["Form_ID"]] = row
         row["CognateForms"] = cognateset_forms.setdefault(row["Cognateset_ID"], [])
         row["CognateForms"].append(forms[row["Form_ID"]].name)
-    for row, forms in cognateset_by_formid.values():
+    for row in cognateset_by_formid.values():
         cognateset_id = row["Cognateset_ID"]
         try:
             cognateset = cognatesets[cognateset_id]
