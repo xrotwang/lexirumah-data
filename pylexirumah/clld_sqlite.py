@@ -304,7 +304,7 @@ def import_forms(
                 loan=loans.get(row["ID"], {'Status': 0})['Status'],
                 comment=row['Comment'],
                 name=value,
-                segments=" ".join(row["Segments"]))
+                segments=" ".join([c or '' for c in row["Segments"]]))
             for source in sources:
                 DBSession.add(CounterpartReference(
                     counterpart=form,
