@@ -404,15 +404,10 @@ def db_main():
                              primary=False))
 
     concepticon = import_concepticon(dataset)
-    transaction.commit()
     languages = import_languages(dataset)
-    transaction.commit()
     sources = import_sources(dataset, contribution=provider)
-    transaction.commit()
     forms = import_forms(dataset, concepticon, languages, sources, contribution=provider)
-    transaction.commit()
     cognatesets = import_cognatesets(dataset, forms, sources, contribution=provider)
-    transaction.commit()
 
 
 def main():
