@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import re
 import sys
 import argparse
 import itertools
@@ -16,8 +17,18 @@ from segments import Tokenizer, Profile
 
 bipa = pyclts.TranscriptionSystem("bipa")
 sounds = list(bipa.sounds)
-sounds.extend([])
-tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)))
+sounds.extend([
+    "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᵑk", "ᵐp", "ᶮt͡ʃ",
+    "ä", "äː",
+    'e' '̞', 'e' '̞' '̞', 'e' '̞' 'ː', 'e' '̞' '̞' 'ː',
+    'ɛ' '̘', 'i' '̘', 'u' '̘', 'a' '̘', 'ɔ' '̘',
+    "b͡β", "d͡z", "ɖ͡ʐ", "d͡ʒ", "t͡s", "t͡ɕ", "t͡ʃ",
+    "hː",
+    "ɔ̆", "ɐ̆",
+    "a̤",
+])
+tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)),
+                      errors_ignore = lambda c: c)
 
 from pylexirumah import get_dataset, repository
 
@@ -483,23 +494,20 @@ if __name__ == "__main__":
         if args.step[1] == "quiet":
             segments = [bipa[x] for x in line[c_segments]]
         else:
-            try:
-                segments = [bipa[x]
-                            for part in (line[c_form] or '').split(".")
-                            for x in tokenizer(part, ipa=True).split()]
-            except IndexError:
-                message(
-                    "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
-                        line[c_id], form, s.source))
-                segments = [bipa[x] for x in line[c_form]]
+            segments = []
+            for part in re.split('[.ˈˌ]', line[c_form] or ''):
+                if not part:
+                    continue
+                for x in tokenizer(part, errors="ignore").split(" "):
+                    sound = bipa[x]
+                    if isinstance(sound, pyclts.models.UnknownSound):
+                        message(
+                            "Form {:} [{:}] contains non-BIPA segment '{:}'."
+                            "".format(
+                                line[c_id], form, x))
+                    segments.append(sound)
 
-            for s in segments:
-                if isinstance(s, pyclts.models.UnknownSound):
-                    message(
-                        "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
-                            line[c_id], form, s.source))
-
-            if (line[c_segments]) and ([str(bipa[x]) for x in line[c_segments]] !=
+            if (line[c_segments]) and ([str(bipa[x or '']) for x in line[c_segments]] !=
                 [str(x) for x in segments]):
                     message(
                         "Form {:} has form [{:}], which should correspond to segments"
