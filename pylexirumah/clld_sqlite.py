@@ -342,7 +342,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
                 counterpart=forms[row["Form_ID"]]))
         for source in row["Source"]:
             DBSession.add(CognatesetCounterpartReference(
-                cognatesetcounterpart=assoc,
+                cognatesetcounterpart_pk=assoc.pk,
                 source=bibliography[source]))
 
 
