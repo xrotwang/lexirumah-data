@@ -26,6 +26,7 @@ sounds.extend([
     "hː",
     "ɔ̆", "ɐ̆",
     "a̤",
+    "ˑ", "ː", "̘", 
 ])
 tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)),
                       errors_ignore = lambda c: c)
