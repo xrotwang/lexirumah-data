@@ -279,22 +279,22 @@ def import_forms(
             loans[loan["Form_ID_Target"]] = loan
     forms = {}
     for row in wordlist["FormTable"].iterdicts():
-            language = languages[row["Lect_ID"]]
-            feature = concepticon[row["Concept_ID"]]
+            language = row["Lect_ID"]
+            feature = row["Concept_ID"]
             sources = [bibliography[s] for s in row["Source"]]
 
             # Create the objects representing the form in the
             # database. This is a value in a value set.
             value = row["Form"]
 
-            vsid = identifier("{:s}-{:}".format(language.id, feature.id))
+            vsid = identifier("{:s}-{:}".format(language, feature))
             try:
                 vs = valuesets[vsid]
             except KeyError:
                 vs = valuesets[vsid] = ValueSet(
                     vsid,
-                    parameter=feature,
-                    language=language,
+                    parameter=concepticon[feature],
+                    language=languages[language],
                     contribution=contribution)
             vid = row["ID"]
             form = Counterpart(
@@ -304,7 +304,7 @@ def import_forms(
                 loan=loans.get(row["ID"], {'Status': 0})['Status'],
                 comment=row['Comment'],
                 name=value,
-                segments=" ".join(row["Segments"]))
+                segments=" ".join([c or '' for c in row["Segments"]]))
             for source in sources:
                 DBSession.add(CounterpartReference(
                     counterpart=form,
@@ -342,7 +342,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
                 counterpart=forms[row["Form_ID"]]))
         for source in row["Source"]:
             DBSession.add(CognatesetCounterpartReference(
-                cognatesetcounterpart=assoc,
+                cognatesetcounterpart_pk=assoc.pk,
                 source=bibliography[source]))
 
 
@@ -404,10 +404,15 @@ def db_main():
                              primary=False))
 
     concepticon = import_concepticon(dataset)
+    transaction.commit()
     languages = import_languages(dataset)
+    transaction.commit()
     sources = import_sources(dataset, contribution=provider)
+    transaction.commit()
     forms = import_forms(dataset, concepticon, languages, sources, contribution=provider)
+    transaction.commit()
     cognatesets = import_cognatesets(dataset, forms, sources, contribution=provider)
+    transaction.commit()
 
 
 def main():
