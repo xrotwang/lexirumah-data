@@ -18,16 +18,21 @@ from segments import Tokenizer, Profile
 bipa = pyclts.TranscriptionSystem("bipa")
 sounds = list(bipa.sounds)
 sounds.extend([
-    "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᵑk", "ᵐp", "ⁿs", "ᶮt͡ʃ",
-    "ä", "äː",
-    "ʎ̝",
-    'e' '̞', 'e' '̞' 'ː',
-    'ɛ' '̘', 'i' '̘', 'u' '̘', 'a' '̘', 'ɔ' '̘',  'æ' '̘',
-    "b͡β", "d͡z", "ɖ͡ʐ", "d͡ʒ", "t͡s", "t͡ɕ", "t͡ʃ",
+    "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᵑk", "ᵐp", "ⁿs", "ᶮt͡ʃ", "ⁿt͡s",
+    "b͡β", "d͡z", "ɖ͡ʐ", "d͡ʒ", "t͡s", "t͡ɕ", "t͡ʃ", "t͡ç", "b͡v", "c͡ç",
+    "ᵐbː", "ⁿdː", "ᵑgː", "ɓː", "ɗː",
+    "tːʰ", "kːʰ", "kːʷ", "c͡çːʰ", "kːʰʲ", "hʲ", "ᵐbʲ",
+    "lˀ", "mˀ", "nˀ", "sˀ", "wˀ", "ˀl", "ˀn", "ˀw",
+    "l̥", "m̥", "n̥", "w̥",
     "lˑ",
-    "hː", "qː", "oː",
-    "ɔ̆", "ɐ̆",
+    "ŋʲ", 
+    "hː", "qː",
+    "ʎ̝",
+    "ä", "äː",
+    "ĭ", "ă", "ɐ̆", "ɔ̆", "ŭ",
     "a̤", "ə̤",
+    'ɛ' '̘', 'i' '̘', 'u' '̘', 'a' '̘', 'ɔ' '̘',  'æ' '̘',
+    "e͡i", "ai", "o͡i", "u͡i", "a͡e", "o͡e", "e͡o", "a͡o", "i͡u", "e͡u", "a͡u", "o͡u",
 ])
 tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)),
                       errors_ignore = lambda c: c)
