@@ -24,7 +24,7 @@ sounds.extend([
     "tːʰ", "c͡çː", "kːʰ", "kːʷ", "c͡çːʰ", "kːʰʲ", "hʲ", "ᵐbʲ",
     "lˀ", "mˀ", "nˀ", "sˀ", "wˀ", "ˀl", "ˀn", "ˀw",
     "w̥",
-    "lˑ",
+    "lˑ", "tˑ", "kˑ", "sˑ", "ŋˑ"
     "ŋʲ", 
     "hː", "qː",
     "ʎ̝",
@@ -32,7 +32,7 @@ sounds.extend([
     "ĭ", "ɐ̆", "ɔ̆", "ŭ",
     "a̤", "ə̤",
     'ɛ' '̘', 'i' '̘', 'u' '̘', 'a' '̘', 'ɔ' '̘',  'æ' '̘',
-    "aiː", "aĩ",
+    "aiː", "aĩ", "aĭ",
     "e͡i", "a͡i", "o͡i", "u͡i", "a͡e", "o͡e", "e͡o", "a͡o", "i͡u", "e͡u", "a͡u", "o͡u",
 ])
 tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)),
