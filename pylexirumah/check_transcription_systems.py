@@ -20,13 +20,14 @@ sounds = list(bipa.sounds)
 sounds.extend([
     "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᵑk", "ᵐp", "ⁿs", "ᶮt͡ʃ",
     "ä", "äː",
+    "ʎ̝",
     'e' '̞', 'e' '̞' 'ː',
-    'ɛ' '̘', 'i' '̘', 'u' '̘', 'a' '̘', 'ɔ' '̘',
+    'ɛ' '̘', 'i' '̘', 'u' '̘', 'a' '̘', 'ɔ' '̘',  'æ' '̘',
     "b͡β", "d͡z", "ɖ͡ʐ", "d͡ʒ", "t͡s", "t͡ɕ", "t͡ʃ",
-    "hː",
+    "lˑ",
+    "hː", "qː", "oː",
     "ɔ̆", "ɐ̆",
-    "a̤",
-    "lˑ", "qː", "æ̘", '̤ə', "oː", "ʎ̝",
+    "a̤", "ə̤",
 ])
 tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)),
                       errors_ignore = lambda c: c)
