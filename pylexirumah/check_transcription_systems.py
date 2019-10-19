@@ -18,7 +18,7 @@ from segments import Tokenizer, Profile
 bipa = pyclts.TranscriptionSystem("bipa")
 sounds = list(bipa.sounds)
 sounds.extend([
-    "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᶰɢ", "ᵑk", "ᵐp", "ⁿs", "ᶮt͡ʃ", "ⁿt͡s", "ᵐb̥", "ⁿd̥", "ᵑgʷ", "ⁿd͡zʲ",
+    "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᵑk", "ᵐp", "ⁿs", "ᶮt͡ʃ", "ⁿt͡s", "ᵐb̥", "ⁿd̥", "ᵑgʷ", "ⁿd͡zʲ",
     "b͡β", "d͡z", "ɖ͡ʐ", "d͡ʒ", "t͡s", "t͡ɕ", "t͡ʃ", "t͡ç", "b͡v", "c͡ç",
     "k͡p", "g͡b", "ᵑg͡b",
     "ᵐbː", "ⁿdː", "ᵑgː", "ɓː", "ɗː",
