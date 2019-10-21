@@ -9,7 +9,6 @@ from clldutils.path import Path
 import numpy as np
 
 import csvw
-import xlrd
 import pycldf
 
 import pyclts
