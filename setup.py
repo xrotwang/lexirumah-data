@@ -26,9 +26,9 @@ setup(
         'chardet',
         'geopy',
         'xlrd', # For importing from Excel files
-	'numpy',
-	'pyclts',
-	'segments',
+	    'numpy',
+	    'pyclts<2.0.0',
+	    'segments',
     ],
     entry_points={
         'lexibank.dataset': [
