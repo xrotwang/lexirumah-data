@@ -21,10 +21,11 @@ setup(
     zip_safe=False,
     install_requires=[
         'pycldf',
-        'clldutils<3.0.0',
+        'clldutils',
         'newick',
         'chardet',
         'geopy',
+        'zope.sqlalchemy<1.2' # zope.sqlalchemy had a class renamed
         'xlrd', # For importing from Excel files
 	'numpy',
 	'pyclts',
