@@ -25,7 +25,6 @@ setup(
         'newick',
         'chardet',
         'geopy',
-        'zope.sqlalchemy<1.2' # zope.sqlalchemy had a class renamed
         'xlrd', # For importing from Excel files
 	'numpy',
 	'pyclts',
