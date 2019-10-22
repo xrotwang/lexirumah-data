@@ -21,14 +21,14 @@ setup(
     zip_safe=False,
     install_requires=[
         'pycldf',
-        'clldutils<3.0.0',
+        'clldutils',
         'newick',
         'chardet',
         'geopy',
         'xlrd', # For importing from Excel files
-	'numpy',
-	'pyclts',
-	'segments',
+	    'numpy',
+	    'pyclts<2.0.0',
+	    'segments',
     ],
     entry_points={
         'lexibank.dataset': [

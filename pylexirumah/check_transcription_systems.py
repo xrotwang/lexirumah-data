@@ -9,7 +9,6 @@ from clldutils.path import Path
 import numpy as np
 
 import csvw
-import xlrd
 import pycldf
 
 import pyclts
@@ -26,7 +25,7 @@ sounds.extend([
     "lˀ", "mˀ", "nˀ", "sˀ", "wˀ", "ˀl", "ˀm", "ˀn", "ˀw",
     "w̥",
     "lˑ", "tˑ", "kˑ", "sˑ", "ŋˑ", "nˑ",
-    "ŋʲ", 
+    "ŋʲ",
     "hː", "qː",
     "ʎ̝",
     "ä", "äː",
