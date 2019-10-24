@@ -318,13 +318,14 @@ def import_forms(
 def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={}):
     cognateset_by_formid = {}
     cognateset_forms = {}
-    
+
     for row in dataset["CognateTable"].iterdicts():
         # Only incorporate the newest cognate codings, and be robust about that
-        cognateset_by_formid[row["Form_ID"]] = row
-        row["CognateForms"] = cognateset_forms.setdefault(row["Cognateset_ID"], [])
         try:
-            row["CognateForms"].append(forms[row["Form_ID"]].name)
+            cs = cognateset_forms.setdefault(row["Cognateset_ID"], [])
+            cs.append(forms[row["Form_ID"]].name)
+            row["CognateForms"] = cs
+            cognateset_by_formid[row["Form_ID"]] = row
         except KeyError:
             continue
     for row in cognateset_by_formid.values():
