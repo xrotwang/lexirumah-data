@@ -21,6 +21,13 @@ detail={"ID": ["ADM2", "ADM3"],
         "TL": []}
 
 def get_region(latitude, longitude):
+    return json.load(urllib.request.urlopen(
+        "http://api.geonames.org/countrySubdivisionJSON?lat={lat:f}&lng={lng:f}&username={user:}&level=2".format(lat=latitude, lng=longitude, user=geonames_username)))
+    return json.load(urllib.request.urlopen(
+        "http://api.geonames.org/extendedFindNearbyJSON?lat={lat:f}&lng={lng:f}&username={user:}".format(lat=latitude, lng=longitude, user=geonames_username)))
+
+
+def get_region(latitude, longitude):
     try:
         for_country = geonames.reverse(
             (latitude, longitude),
@@ -58,6 +65,8 @@ if __name__ == "__main__":
         region = get_region(*latlon)
         sleep(1)
         print(region)
+        if not region:
+            continue
         language["Region"] = ", ".join(region)
         updated.append(language)
     data.write(LanguageTable=updated)
