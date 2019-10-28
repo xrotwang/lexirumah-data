@@ -27,7 +27,7 @@ setup(
         'geopy',
         'xlrd', # For importing from Excel files
 	    'numpy',
-	    'pyclts<2.0.0',
+	    'pyclts',
 	    'segments',
     ],
     entry_points={

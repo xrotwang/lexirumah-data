@@ -2,10 +2,11 @@ import json
 
 import attr
 
-from clldutils.path import Path
+from pathlib import Path
 from clldutils.misc import lazyproperty
 
-from pylexibank.dataset import Dataset as BaseDataset, Metadata as BaseMetadata
+from pylexibank import Dataset as BaseDataset
+from pylexibank import LexibankMetadata as BaseMetadata
 
 class Metadata(BaseMetadata):
     @classmethod
@@ -33,10 +34,10 @@ class Dataset(BaseDataset):
     def metadata(self):
         return Metadata.from_cldf_metadata(json.load((self.dir / 'cldf/cldf-metadata.json').open()))
 
-    def cmd_download(self, **kw):
+    def cmd_download(self, args):
         # If you got here, this dataset is downloaded.
         pass
 
-    def cmd_install(self, **kw):
-        # If you got here, this dataset is essentially installed.
+    def cmd_makecldf(self, args):
+        # If you got here, this dataset is already in CLDF.
         pass
