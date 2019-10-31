@@ -342,7 +342,7 @@ def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={
             CognatesetCounterpart(
                 cognateset=cognateset,
                 doubt=True if "LexStat" in row["Source"] else False,
-                alignment=" ".join(row["Alignment"]),
+                alignment=(None if not row["Alignment"] else " ".join(row["Alignment"])),
                 counterpart=forms[row["Form_ID"]]))
         for source in row["Source"]:
             DBSession.add(CognatesetCounterpartReference(
