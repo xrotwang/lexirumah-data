@@ -57,6 +57,7 @@ ICONS = {
     "tambora": 'scccccc',
     "mor": 'dcccccc',
     "mpur": 'fcccccc',
+    "maybrat": 'ccccccc',
     "other": 'o00dd00'
 }
 
