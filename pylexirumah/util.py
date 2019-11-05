@@ -24,7 +24,6 @@ try:
 except (ValueError, ImportError):
     local_glottolog = None
 
-from .geo_lookup import get_region
 from . import get_dataset, repository
 
 REPLACE = {
@@ -173,8 +172,8 @@ def clade_codes(glottolog_language):
     return all_codes
 
 
-def lexirumah_glottocodes(dataset=None):
-    """Generate a dict associating LexiRumah IDs with Glottocodes
+def lexirumah_glottocodes(dataset=None, result={}):
+    """Generate a dict associating LexiRumah IDs with Glottolog objects
 
     Returns
     -------
@@ -183,7 +182,8 @@ def lexirumah_glottocodes(dataset=None):
     """
     if dataset is None:
         dataset = get_dataset()
-    result = {}
+    if result != {}:
+        return result
     for lect in dataset["LanguageTable"].iterdicts():
         g = None
         try:
@@ -192,7 +192,7 @@ def lexirumah_glottocodes(dataset=None):
             pass
         if g is None:
             g = re.match("[a-z]{4}[0-9]{4}", lect["ID"]).group()
-        result[lect["ID"]] = g
+        result[lect["ID"]] = languoid(g)
     return result
 
 
@@ -214,19 +214,19 @@ def glottolog_clade(iso_or_glottocode, dataset=None):
 
     """
     if dataset is None:
-        dataset = get_dataset()
+        glottocodes = lexirumah_glottocodes()
+    else:
+        glottocodes = lexirumah_glottocodes(dataset, {})
 
-    lect = languoid(iso_or_glottocode)
-    try:
-        children_codes = clade_codes(lect)
-    except AttributeError:
-        tree = newick.loads(lect.newick)[0]
-        children_codes = {re.findall("\[[a-z]{4}[0-9]{4}\]", t.name)[0][1:-1]
-                          for t in tree.walk()}
-    return {
-        id
-        for id, glottocode in lexirumah_glottocodes(dataset).items()
-        if glottocode in children_codes}
+    clade_id = languoid(iso_or_glottocode).id
+
+    clade = set()
+    for local_id, lect in glottocodes.items():
+        for parent in lect.classification:
+            if parent["id"] == clade_id:
+                clade.add(local_id)
+                break
+    return clade
 
 
 def all_lects(dataset=None):

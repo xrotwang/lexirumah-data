@@ -11,6 +11,12 @@ import lingpy
 import lingpy.compare.partial
 
 from pylexirumah import get_dataset
+from segments import Tokenizer
+from pyclts import TranscriptionSystem
+
+tokenizer = Tokenizer()
+bipa = TranscriptionSystem("bipa")
+
 
 def sha1(path):
     return hashlib.sha1(str(path).encode('utf-8')).hexdigest()[:12]
@@ -24,14 +30,19 @@ def clean_segments(row):
     collapsing subsequent morpheme boundaries (_#◦+→←) into one. The `row` is
     modified in-place, the resulting cleaned segment list is returned.
 
-    >>> row = {"Segments": list("+_ta+0+at")
+    >>> row = {"segments": list("+_ta+0+at")}
     >>> clean_segments(row)
     ['t', 'a', '+', 'a', 't']
     >>> row
-    {'Segments': ['t', 'a', '+', 'a', 't']}
+    {'segments': ['t', 'a', '+', 'a', 't']}
 
     """
-    segments = row["Segments"]
+    try:
+        segments = row["segments"]
+    except KeyError:
+        segments = [str(bipa[x])
+                    for part in row["form"].split(".")
+                    for x in tokenizer(part, ipa=True).split()]
     segments.insert(0, "#")
     segments.append("#")
     for s in range(len(segments) - 1, 0, -1):
@@ -44,17 +55,8 @@ def clean_segments(row):
         if segments[s - 1] in "_#◦+→←" and segments[s] in "_#◦+→←":
             del segments[s - 1]
             continue
-    row["Segments"] = segments[1:-1]
-    return row["Segments"]
-
-
-def clean_segments_and_rename(new_column_names):
-    def filter(row):
-        result = clean_segments(row)
-        for old, new in new_column_names.items():
-            row[new] = row.pop(old)
-        return result
-    return filter
+    row["segments"] = segments[1:-1]
+    return row["segments"]
 
 
 if __name__ == "__main__":
@@ -66,7 +68,8 @@ if __name__ == "__main__":
     parser.add_argument("output", nargs="?",
                         # type=argparse.FileType('w'),
                         default="aligned",
-                        help="Output file to write segmented data to")
+                        help="Output file to write segmented data to,"
+                        " without extension .tsv (automatically added)")
     parser.add_argument("--soundclass", default="sca",
                         choices=["sca", "dolgo", "asjp", "art"],
                         help="Sound class model to use. (default: sca)")
@@ -79,27 +82,28 @@ if __name__ == "__main__":
                         " are, dependent on your LingPy version, {'upgma',"
                         " 'single', 'complete', 'mcl', 'infomap'}."
                         " (default: infomap)")
+    parser.add_argument("--gop", default=-2,
+                        type=float,
+                        help="Gap opening penalty for the clustering"
+                        "procedure. (default: -2)")
+    parser.add_argument("--mode", default="overlap",
+                        choices=['global', 'local', 'overlap', 'dialign'],
+                        help="Select the mode for the alignment analysis."
+                        "(default: overlap)")
     parser.add_argument("--ratio", default=1.5,
                         type=float,
                         help="Ratio of language-pair specific vs. general"
                         " scores in the LexStat algorithm. (default: 1.5)")
+    parser.add_argument("--initial-threshold", default=0.7,
+                        type=float,
+                        help="Threshold value for the initial pairs used to"
+                        "bootstrap the calculation. (default: 0.7)")
     args = parser.parse_args()
 
     dataset = get_dataset(args.input)
 
-    # Explicit is better than implicit, so from_cldf does not contain renaming
-    # functionality, but it does contain a callback hook that can modify each
-    # row an filter it.
-    rename_columns = {
-         dataset["FormTable", "parameterReference"].name: "concept",
-         dataset["FormTable", "languageReference"].name: "doculect",
-         dataset["FormTable", "segments"].name: "tokens",
-         dataset["FormTable", "form"].name: "ipa",
-         dataset["FormTable", "id"].name: "reference",
-    }
-
     lex = lingpy.compare.partial.Partial.from_cldf(
-        args.input, filter=clean_segments_and_rename(rename_columns),
+        args.input, filter=clean_segments,
         model=lingpy.data.model.Model(args.soundclass),
         check=True)
 
@@ -119,6 +123,8 @@ if __name__ == "__main__":
     else:
         ratio_pair = (3, 2)
         ratio_str = ""
+    if args.initial_threshold != 0.7:
+        ratio_str += "-t{:02d}".format(int(args.initial_threshold * 100))
     try:
         scorers_etc = lingpy.compare.lexstat.LexStat(
             filename='lexstats-{:}-{:s}{:s}.tsv'.format(
@@ -128,7 +134,7 @@ if __name__ == "__main__":
         lex.cscorer = scorers_etc.cscorer
         lex.bscorer = scorers_etc.bscorer
     except (OSError, ValueError):
-        lex.get_scorer(runs=10000, ratio=ratio_pair)
+        lex.get_scorer(runs=10000, ratio=ratio_pair, threshold=args.initial_threshold)
         lex.output(
             'tsv',
             filename='lexstats-{:}-{:s}{:s}'.format(
@@ -137,12 +143,14 @@ if __name__ == "__main__":
             ignore=[])
     # For some purposes it is useful to have monolithic cognate classes.
     lex.cluster(method='lexstat', threshold=args.threshold, ref='cogid',
-                cluster_method=args.cluster_method, verbose=True)
+                cluster_method=args.cluster_method, verbose=True, override=True,
+                gop=args.gop, mode=args.mode)
     # But actually, in most cases partial cognates are much more useful.
     lex.partial_cluster(method='lexstat', threshold=args.threshold,
-                        cluster_method=args.cluster_method, ref='partialids',
-                        verbose=True)
+                        cluster_method=args.cluster_method, ref='partialcognateids',
+                        override=True, verbose=True, gop=args.gop,
+                        mode=args.mode)
     lex.output("tsv", filename="auto-clusters")
-    alm = lingpy.Alignments(lex, ref="partialids", fuzzy=True)
+    alm = lingpy.Alignments(lex, ref="partialcognateids", fuzzy=True)
     alm.align(method='progressive')
     alm.output('tsv', filename=args.output, ignore='all', prettify=False)

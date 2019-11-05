@@ -1,0 +1,21 @@
+dist: xenial
+language: python
+python:
+  - "3.7"
+install:
+  - pip install cldfbench pyglottolog pyconcepticon pyclts
+  - cldfbench catconfig -q
+  - pip install -r requirements.txt
+  - pip install .
+script:
+  - cp raw/forms.csv cldf/forms.csv
+  - python -m pylexirumah.check_transcription_systems --over all --step "fill fill fill" | grep -C1 "\(^[^F]\|BIPA\)"
+  - rm pylexirumah/lexirumah.sqlite || echo "Not present anyway"
+  - python -m pylexirumah.clld_sqlite
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: 
+    secure: "huxKlD1vQ7KAKg7nTHcxA4HhltV5hpFvnMKDEgH7RKGn5FkBweliq0Rt5vbGb0Af3ppYX2Gqoc/EUDy66oM9QDbXpKJUl2v0LB8Xl1XZuqjud5YcqmCRpTU2CbCtmb5bdaW2qBI0qqaQ58AF19wI4LK7PeI4M3vIFVgRiUqfqcL3Tz7t8or/8fTsJqPAyYHeA8NQgS8ySRr6tPmnMIe+SqRCiWvzki9pA4+GWDOgzX4Smg2X/Xz2Q0tzQKHxnpJlWdEFdgeutSRaQcSa5Sy55DWPBlNQBSRvP8XaGsRd4LBk4YfzjMPhBx0VilWli8E5AJXFUkhqig7FXozbyx4Jmo/nS8WIp2ltgM+DOPHWmCN1nFnR5LfEClxiJdsxFa8vf9f3bZ7JgiL2CrlPN8N0tJTCDbZAd6nUNLn6tWRZSPmaidRj7ZQW4zkp7HW6/P0Y3ToF69Jw9JmwXcBtDO+Qo7Br1mhCXO+ZOzgSNK8bgvyH/EZW/MI8/2hZhRqCIrSya3Uj8K7VEMH8Mbc6CTRFkt2TIymDj+1ZhBkz6bte/VNMzGmoECw4yXUC4VmoQawGML6GaFkVv8w+I68mZsRmTA9r3PuEDwNZegD5N0p/YTkG0Hz/S2Wm7pEcE5hBs3ocjy54+5aphZrFla6b2Umg3/Pwt2jOwSTOYLczVrpRGXI="
+  on:
+    branch: with_lexi_data

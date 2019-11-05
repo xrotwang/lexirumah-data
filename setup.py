@@ -23,8 +23,12 @@ setup(
         'pycldf',
         'clldutils',
         'newick',
+        'chardet',
         'geopy',
         'xlrd', # For importing from Excel files
+	    'numpy',
+	    'pyclts',
+	    'segments',
     ],
     entry_points={
         'lexibank.dataset': [

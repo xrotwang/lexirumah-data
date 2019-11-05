@@ -1,6 +1,6 @@
 # lexiruma-data
 
-The data underlying the [LexiRumah](http://www.model-ling.eu/lexirumah/)
+The data underlying the [LexiRumah](http://lexirumah.model-ling.eu/lexirumah/)
 [CLLD](http://clld.org) database is maintained and edited here, as well as the
 [`pylexirumah`](#pylexirumah) python package, which provides an API for
 accessing, manipulating and publishing the database content.
@@ -18,14 +18,18 @@ be documented) and a borrowing table.
 
 In addition to the CLDF dataset, we retain data which has not (yet) been merged into
 the dataset. The `noncldf` folder contains the sociolinguistic profile of many of
-the speakers who contributed word lists as informants. The `keraf` subfolder
+the speakers who contributed word lists as informants.
+
+The `keraf` subfolder
 contains the original digitizations of the word lists from Keraf (1978) for
 reference. The forms in the cldf may have been normalized to IPA and some
 concepts have been merged with close-but-not-perfect synonyms.
 
+The `sulawesi` subfolder contains wordlists from South-East Sulawesi, provided by
+David Mead, as well as the draft for a script to import these lects into LexiRumah.
 
 ## `pylexirumah`
-[![Build Status](https://travis-ci.org/lessersunda/lexirumah-data.svg?branch=master)](https://travis-ci.org/lessersunda/lexirumah-data)
+[![Build Status](https://travis-ci.org/lessersunda/lexirumah-data.svg?branch=with_lexi_data)](https://travis-ci.org/lessersunda/lexirumah-data)
 
 ### `tests`
 The `tests` directory contains tests for functionality in `pylexirumah`.

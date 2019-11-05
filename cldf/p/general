@@ -1,7 +1,6 @@
-// Transformations to convert the standardised IPA transcription into an ‘orthographic’ transcription.
+// Transformations to convert the standardised IPA transcription into an Indonesian-based ‘orthographic’ transcription.
 // General all lects:
-// (note that {j	y} and {d͡ʒ	j} must be applied in this order to avoid merger)
-// (note also not all lects have all the symbols here; [d͡ʒ] [ʔ] [ŋ] and the double vowels are most common)
+// ( {y ← j} and {j ← d͡ʒ} must be applied in this order to avoid merger)
 // (unless specified otherwise all apostrophe-like symbols should be the straight apostrophe: U+0027 ' APOSTROPHE and not U+2019 ’ RIGHT SINGLE QUOTATION MARK)
 _	_ˈʔ
 '	ʔ
@@ -11,30 +10,26 @@ aa	aː
 oo	oː
 uu	uː
 éé	éː
-a	a
-b	b
+mb	ᵐb
+ngg	ᵑg
+mp	ᵐp
+nc	ᶮt͡ʃ
+nt	ⁿt
+ns	ⁿs
+ngk	ᵑk
 c	t͡ʃ
-f	f
-g	g
-h	h
-k	k
-l	l
-m	m
 ng	ŋ
-n	n
-p	p
-r	r
-s	s
-t	t
 u_	w_
 w	w
 i_	j_
 y	j
+nj	ᶮd͡ʒ
+nd	ⁿd
 j	ʤ
 j	ɟ
 j	d͡ʒ
-d	d
 	ˈ
 	ˌ
 	.
 	͡
+ 	_

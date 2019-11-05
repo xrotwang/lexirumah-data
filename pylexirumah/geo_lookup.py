@@ -10,23 +10,30 @@ import urllib
 from time import sleep
 from pylexirumah import get_dataset
 
-google_api_key = Path(__file__).parent.joinpath("api_key").open().read().strip()
-geonames_username = Path(__file__).parent.joinpath("username").open().read().strip()
-google = gc.GoogleV3(api_key=google_api_key)
+try:
+    geonames_username = Path(__file__).parent.joinpath("username").open().read().strip()
+    geonames = gc.GeoNames(username=geonames_username, timeout=None)
+except FileNotFoundError:
+    geonames = None
 nominatim = gc.Nominatim(user_agent="lexirumah")
-geonames = gc.GeoNames(username=geonames_username, timeout=None)
 
 detail={"ID": ["ADM2", "ADM3"],
         "TL": []}
 
 def get_region(latitude, longitude):
+    return json.load(urllib.request.urlopen(
+        "http://api.geonames.org/countrySubdivisionJSON?lat={lat:f}&lng={lng:f}&username={user:}&level=2".format(lat=latitude, lng=longitude, user=geonames_username)))
+    return json.load(urllib.request.urlopen(
+        "http://api.geonames.org/extendedFindNearbyJSON?lat={lat:f}&lng={lng:f}&username={user:}".format(lat=latitude, lng=longitude, user=geonames_username)))
+
+
+def get_region(latitude, longitude):
     try:
         for_country = geonames.reverse(
             (latitude, longitude),
-            exactly_one=False,
-            lang="local")[0]
+            exactly_one=False)[0]
     except geopy.exc.GeocoderServiceError:
-        return get_region(latitude, longitude)
+        return None
     address = [for_country.raw["adminName1"], for_country.raw["countryName"]]
     country =  for_country.raw['countryCode']
     for d in detail[country.upper()]:
@@ -38,8 +45,7 @@ def get_region(latitude, longitude):
                     (latitude, longitude),
                     feature_code=d,
                     find_nearby_type='findNearby',
-                    exactly_one=False,
-                    lang="local")[0]
+                    exactly_one=False)[0]
             address.insert(0, element.raw["name"])
         except (geopy.exc.GeocoderServiceError, TypeError):
             continue
@@ -59,6 +65,8 @@ if __name__ == "__main__":
         region = get_region(*latlon)
         sleep(1)
         print(region)
+        if not region:
+            continue
         language["Region"] = ", ".join(region)
         updated.append(language)
     data.write(LanguageTable=updated)

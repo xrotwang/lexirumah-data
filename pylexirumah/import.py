@@ -3,7 +3,7 @@
 import sys
 import argparse
 import itertools
-from collections import OrderedDict
+from collections import OrderedDict, Counter
 from clldutils.path import Path
 
 import chardet
@@ -105,9 +105,12 @@ print("Loading the existing sources ...")
 sources = dataset.sources
 
 print("Investigating new sources ...")
-source_description = changed_files(
-    args.directory / "3 - normalized metadata of original source",
-    ".bib")[0]
+try:
+    source_description = changed_files(
+        args.directory / "3 - normalized metadata of original source",
+        ".bib")[0]
+except IndexError:
+    raise ValueError("Wordlist metadata not found in the expected place.")
 # People might have edited that file using Word, which has strange ideas about
 # encoding.
 with source_description.open("rb") as binary_source_file:
@@ -158,11 +161,17 @@ dataset.write_sources()
 
 print("Loading existing forms from previous wordlists ...")
 forms = dataset["FormTable"]
-all_rows = list(dataset["FormTable"].iterdicts())
+all_rows = list(forms.iterdicts())
 old_forms = len(all_rows)
 
+syn = Counter([
+    (entry["Lect_ID"], entry["Concept_ID"])
+    for entry in all_rows])
+
+empty = dataset["ValueTable"]
+empty_forms = list(empty.iterdicts())
+
 print("Preparing to load additional forms from new wordlist ...")
-max_id = max(row["ID"] for row in all_rows)
 copy_columns = ["Concept_ID", "Lect_ID", "Form_according_to_Source", "Form", "Local_Orthography", "Comment"]
 table_columns = [column.name for column in forms.tableSchema.columns]
 
@@ -188,59 +197,25 @@ for r, row in enumerate(rows):
     if not new_entry["Lect_ID"] or new_entry["Lect_ID"] == "abui1241-lexi":
         new_entry["Lect_ID"] = previous_lect
     previous_lect = new_entry["Lect_ID"]
-    new_entry['ID'] = max_id + r
+
+    syn[new_entry["Lect_ID"], new_entry["Concept_ID"]] += 1
+
+    new_entry['ID'] = "{:}-{:}-{:d}".format(
+        new_entry["Lect_ID"], new_entry["Concept_ID"],
+        syn[new_entry["Lect_ID"], new_entry["Concept_ID"]])
 
     if new_entry["Lect_ID"] not in languages:
         raise ValueError(
             "No metadata found for lect {:} of form in line {:d}.".format(
                 new_entry["Lect_ID"], r))
 
-    output_orthography = reversed(load_orthographic_profile(
-        languages[new_entry["Lect_ID"]]["Orthography"]))
+    new_entry["Source"] = new_sources_field
 
     if new_entry["Comment"] and not (new_entry["Form_according_to_Source"]):
-        # Nothing to do here.
-        pass
-    elif new_entry["Form_according_to_Source"]:
-        # There is an entry to import! Yay!
-
-        if not new_entry["Form"]:
-            if orthography == None:
-                raise ValueError(
-                    "The source claims to not use an orthograpic profile, but"
-                    " the forms are only given in (presumambly) normalized"
-                    " form.")
-    else:
+        empty_forms.append(new_entry)
         continue
-
-    # Check how clean the segments are
-    form = new_entry["Form_according_to_Source"]
-    for transcoder in orthography:
-        form = transcoder(form)
-    if new_entry["Form"]:
-        if new_entry["Form"] != form:
-            print(new_entry["Form_according_to_Source"],
-                  "→",
-                  form,
-                  "≠",
-                  new_entry["Form"])
-        form = new_entry["Form"]
-    else:
-        new_entry["Form"] = form
-    segments = [bipa[s]
-                for syl in form.split(".")
-                for s in tokenizer(syl, ipa=True).split()]
-    print(form,
-          '→',
-          ' '.join(str(s) if s.name else '0' for s in segments)
-    )
-    for s in segments:
-        if not s.name:
-            raise ValueError("Segment [{:}], in form {:}, is not a valid IPA segment.".format(
-                s, new_entry))
-    new_entry["Segments"] = [str(s) for s in segments]
-
-    new_entry["Source"] = new_sources_field
+    elif not (new_entry["Form_according_to_Source"]):
+        continue
 
     all_rows.append(new_entry)
 
@@ -248,4 +223,5 @@ print("Found {:d} new forms.".format(len(all_rows) - old_forms))
 
 print("Writing all forms, old and new, back to file ...")
 forms.write(all_rows)
+empty.write(empty_forms)
 print("Word list data merged.")

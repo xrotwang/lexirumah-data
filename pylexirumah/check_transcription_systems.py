@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import re
 import sys
 import argparse
 import itertools
@@ -8,16 +9,34 @@ from clldutils.path import Path
 import numpy as np
 
 import csvw
-import xlrd
 import pycldf
 
 import pyclts
 from segments import Tokenizer, Profile
 
-bipa = pyclts.TranscriptionSystem("bipa")
+bipa = pyclts.CLTS().bipa
 sounds = list(bipa.sounds)
-sounds.extend([])
-tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)))
+sounds.extend([
+    "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᵑk", "ᵐp", "ⁿs", "ᶮt͡ʃ", "ⁿt͡s", "ᵐb̥", "ⁿd̥", "ᵑgʷ", "ⁿd͡zʲ",
+    "b͡β", "d͡z", "ɖ͡ʐ", "d͡ʒ", "t͡s", "t͡ɕ", "t͡ʃ", "t͡ç", "b͡v", "c͡ç",
+    "k͡p", "g͡b", "ᵑg͡b",
+    "ᵐbː", "ⁿdː", "ᵑgː", "ɓː", "ɗː",
+    "tːʰ", "c͡çː", "kːʰ", "kːʷ", "c͡çːʰ", "kːʰʲ", "hʲ", "ᵐbʲ",
+    "lˀ", "mˀ", "nˀ", "sˀ", "wˀ", "ˀl", "ˀm", "ˀn", "ˀw",
+    "w̥",
+    "lˑ", "tˑ", "kˑ", "sˑ", "ŋˑ", "nˑ",
+    "ŋʲ",
+    "hː", "qː",
+    "ʎ̝",
+    "ä", "äː",
+    "ĭ", "ɪ̆", "ɛ̆", "ɐ̆", "ɜ̆", "ɔ̆", "ʊ̆", "ŭ", "ʉ̞̆",
+    "a̤", "ə̤",
+    'ɛ' '̘', 'i' '̘', 'u' '̘', 'a' '̘', 'ɔ' '̘',  'æ' '̘', "ɔ̞", "ɪ̞",
+    "aiː", "aĩ", "aĭ",
+    "e͡i", "a͡i", "o͡i", "u͡i", "a͡e", "o͡e", "e͡o", "a͡o", "i͡u", "e͡u", "a͡u", "o͡u",
+])
+tokenizer = Tokenizer(Profile(*({"Grapheme": x, "mapping": x} for x in sounds)),
+                      errors_ignore = lambda c: c)
 
 from pylexirumah import get_dataset, repository
 
@@ -235,7 +254,7 @@ def load_orthographic_profile(transducer_files, root=repository.parent, transduc
             # That file is not in our cache yet, we have to load it and
             # turn it into a function.
             substitutions = []
-            for rule in (root / file).open():
+            for rule in (root / file).open(encoding="utf-8"):
                 rule = rule.strip("\n")
                 rule = rule.strip("\r")
                 if "//" in rule:
@@ -440,6 +459,11 @@ if __name__ == "__main__":
                         "Form {:} has ideosyncratic orthography and original value"
                         " <{:}>, but no form was given.".format(line[c_id], line[c_value]))
             else:
+                if "/" in line[c_value]:
+                    message(
+                        "Form {:} is listed as <{:}>, which is likely an "
+                        "invalid cell containing two different forms.".format(line[c_id], line[c_value]))
+
                 # Apply substitutions to form
                 form = (line[c_value] or '').strip()
                 for transducer in orthographic_profile:
@@ -478,16 +502,20 @@ if __name__ == "__main__":
         if args.step[1] == "quiet":
             segments = [bipa[x] for x in line[c_segments]]
         else:
-            segments = [bipa[x]
-                        for part in (line[c_form] or '').split(".")
-                        for x in tokenizer(part, ipa=True).split()]
-            for s in segments:
-                if isinstance(s, pyclts.models.UnknownSound):
-                    message(
-                        "Form {:} [{:}] contains non-BIPA segment '{:}'.".format(
-                            line[c_id], form, s.source))
+            segments = []
+            for part in re.split('[.ˈˌ]', line[c_form] or ''):
+                if not part:
+                    continue
+                for x in tokenizer(part, errors="ignore").split(" "):
+                    sound = bipa[x]
+                    if isinstance(sound, pyclts.models.UnknownSound):
+                        message(
+                            "Form {:} [{:}] contains non-BIPA segment '{:}'."
+                            "".format(
+                                line[c_id], form, x))
+                    segments.append(sound)
 
-            if ([str(bipa[x]) for x in line[c_segments]] !=
+            if (line[c_segments]) and ([str(bipa[x or '']) for x in line[c_segments]] !=
                 [str(x) for x in segments]):
                     message(
                         "Form {:} has form [{:}], which should correspond to segments"

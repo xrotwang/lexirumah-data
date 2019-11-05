@@ -13,20 +13,19 @@ import math
 import os
 import argparse
 import json
-import pandas
 import sys
 
 import pycldf
 
-import lexibank
+import lexirumah
 import transaction
 
 from clld.scripts.util import parsed_args
 from clld.lib.bibtex import EntryType
-from lexibank.scripts.initializedb import prime_cache
+from lexirumah.scripts.initializedb import prime_cache
 
 
-# Attempt to load enoug Lexirumah to construct an SQLite database for it.
+# Attempt to load enough LexiRumah to construct an SQLite database for it.
 from clld.db.meta import DBSession
 from clld.db.models import common
 Dataset = common.Dataset
@@ -36,8 +35,8 @@ ContributionContributor = common.ContributionContributor
 ValueSet = common.ValueSet
 Identifier = common.Identifier
 LanguageIdentifier = common.LanguageIdentifier
-from lexibank.models import (
-    LexibankLanguage, LexibankSource, Concept, Provider, Counterpart,
+from lexirumah.models import (
+    LexiRumahLanguage, LexiRumahSource, Concept, Provider, Counterpart,
     CognatesetCounterpart, Cognateset, CognatesetCounterpartReference,
     CounterpartReference)
 from clld_glottologfamily_plugin.models import Family
@@ -48,13 +47,19 @@ from .util import identifier
 
 
 ICONS = {
-    'timor-alor-pantar': 'fdd0000',
-    'austronesian': 'c0000dd',
-    'west-bomberai': 'f990099',
-    'tambora': 'ce8e8e8',
-    'other': 'o00dd00'
+    "timor-alor-pantar": 'fdd0000',
+    "austronesian": 'c0000dd',
+    "west bomberai": 'f990099',
+    "south bird's head": 'ta0fb75',
+    "east bird's head": 'dff66ff',
+    "konda-yahadian": 'sffff00',
+    "hatam-mansim": 'cf38847',
+    "tambora": 'scccccc',
+    "mor": 'dcccccc',
+    "mpur": 'fcccccc',
+    "maybrat": 'ccccccc',
+    "other": 'o00dd00'
 }
-
 
 # Utility functions
 def report(problem, *args, process_log=None):
@@ -121,7 +126,7 @@ def create_language_object(row, families={}, identifiers={}):
             jsondata={"icon": ICONS[family.lower()]},
             name=family)
 
-    l = LexibankLanguage(
+    l = LexiRumahLanguage(
         id=row["ID"],
         name=row['Name'],
         family=families[family],
@@ -174,7 +179,7 @@ def import_languages(wordlist):
     """Load language metadata from languages tsv.
 
     Load the Lects from the pycldf word list passed as argument, and put the
-    corresponding LexibankLanguage objects in the database.
+    corresponding LexiRumahLanguage objects in the database.
 
     """
     lects = {}
@@ -203,12 +208,12 @@ def import_sources(wordlist, contribution, contributors = {}):
 
             if not citation_contrib:
                 if len(people) == 1:
-                    citation_contrib = " ".join(people[0].last())
+                    citation_contrib = " ".join(people[0].last_names)
                 elif len(people) == 2:
-                    citation_contrib = "{:} & {:}".format(" ".join(people[0].last()),
-                                                          " ".join(people[1].last()))
+                    citation_contrib = "{:} & {:}".format(" ".join(people[0].last_names),
+                                                          " ".join(people[1].last_names))
                 else:
-                    citation_contrib = "{:} et al.".format(" ".join(people[0].last()))
+                    citation_contrib = "{:} et al.".format(" ".join(people[0].last_names))
 
         if citation_contrib:
             if fields.get("year"):
@@ -227,7 +232,7 @@ def import_sources(wordlist, contribution, contributors = {}):
             name = name[:-1]+chr(ord(name[-1]) + 1)
 
         # create a contribution
-        contrib = LexibankSource(
+        contrib = LexiRumahSource(
             id=source.id,
             name=name,
             bibtex_type=vars(EntryType).get(source.genre) or EntryType.misc,
@@ -275,22 +280,22 @@ def import_forms(
             loans[loan["Form_ID_Target"]] = loan
     forms = {}
     for row in wordlist["FormTable"].iterdicts():
-            language = languages[row["Lect_ID"]]
-            feature = concepticon[row["Concept_ID"]]
+            language = row["Lect_ID"]
+            feature = row["Concept_ID"]
             sources = [bibliography[s] for s in row["Source"]]
 
             # Create the objects representing the form in the
             # database. This is a value in a value set.
             value = row["Form"]
 
-            vsid = identifier("{:s}-{:}".format(language.id, feature.id))
+            vsid = identifier("{:s}-{:}".format(language, feature))
             try:
                 vs = valuesets[vsid]
             except KeyError:
                 vs = valuesets[vsid] = ValueSet(
                     vsid,
-                    parameter=feature,
-                    language=language,
+                    parameter=concepticon[feature],
+                    language=languages[language],
                     contribution=contribution)
             vid = row["ID"]
             form = Counterpart(
@@ -300,7 +305,7 @@ def import_forms(
                 loan=loans.get(row["ID"], {'Status': 0})['Status'],
                 comment=row['Comment'],
                 name=value,
-                segments=" ".join(row["Segments"]))
+                segments=" ".join([c or '' for c in row["Segments"]]))
             for source in sources:
                 DBSession.add(CounterpartReference(
                     counterpart=form,
@@ -313,28 +318,36 @@ def import_forms(
 
 def import_cognatesets(dataset, forms, bibliography, contribution, cognatesets={}):
     cognateset_by_formid = {}
+    cognateset_forms = {}
+
     for row in dataset["CognateTable"].iterdicts():
-        # Only incorporate the newest cognate codings.
-        cognateset_by_formid[row["Form_ID"]] = row
+        # Only incorporate the newest cognate codings, and be robust about that
+        try:
+            cs = cognateset_forms.setdefault(row["Cognateset_ID"], [])
+            cs.append(forms[row["Form_ID"]].name)
+            row["CognateForms"] = cs
+            cognateset_by_formid[row["Form_ID"]] = row
+        except KeyError:
+            continue
     for row in cognateset_by_formid.values():
         cognateset_id = row["Cognateset_ID"]
         try:
             cognateset = cognatesets[cognateset_id]
-            cognateset.name = forms[row["Form_ID"]].name
         except KeyError:
+            row["CognateForms"].sort()
             cognateset = cognatesets[cognateset_id] = Cognateset(
                 id=row["Cognateset_ID"],
                 contribution=contribution,
-                name=forms[row["Form_ID"]].name)
+                name=row["CognateForms"][len(row["CognateForms"])//2])
         assoc = (
             CognatesetCounterpart(
                 cognateset=cognateset,
                 doubt=True if "LexStat" in row["Source"] else False,
-                alignment=" ".join(row["Alignment"]),
+                alignment=(None if not row["Alignment"] else " ".join(row["Alignment"])),
                 counterpart=forms[row["Form_ID"]]))
         for source in row["Source"]:
             DBSession.add(CognatesetCounterpartReference(
-                cognatesetcounterpart=assoc,
+                cognatesetcounterpart_pk=assoc.pk,
                 source=bibliography[source]))
 
 
@@ -370,17 +383,10 @@ def db_main():
         url="")
 
     contributors = {}
-    primary = True
+    # FIXME: Don't use ID hack, instead hand contributors dict
+    # through.
     for i, editor in enumerate(g("dc:creator", [])):
-        # Primary and secondary editors are in the same list,
-        # separated by a not-value.
-        if not editor:
-            primary = False
-            continue
-
         contributor_id = identifier(editor)
-        # FIXME: Don't use ID hack, instead hand contributors dict
-        # through.
         try:
             contributor = contributors[contributor_id]
         except KeyError:
@@ -388,7 +394,19 @@ def db_main():
                 id=contributor_id,
                 name=editor)
         DBSession.add(Editor(dataset=ds, contributor=contributor,
-                             ord=i, primary=primary))
+                             ord=i,
+                             primary=True))
+    for i, editor in enumerate(g("dc:contributor", [])):
+        contributor_id = identifier(editor)
+        try:
+            contributor = contributors[contributor_id]
+        except KeyError:
+            contributors[contributor_id] = contributor = Contributor(
+                id=contributor_id,
+                name=editor)
+        DBSession.add(Editor(dataset=ds, contributor=contributor,
+                             ord=i + len(g("dc:creator", [])),
+                             primary=False))
 
     concepticon = import_concepticon(dataset)
     languages = import_languages(dataset)
@@ -399,10 +417,13 @@ def db_main():
 
 def main():
     """Construct a new database from scratch."""
+    print(os.path.join(
+                  os.path.dirname(__file__),
+                  "lexirumah_for_create_database.ini"))
     args = parsed_args(
         args=[os.path.join(
-                  os.path.dirname(os.path.dirname(lexibank.__file__)),
-                  "development.ini")])
+                  os.path.dirname(__file__),
+                  "lexirumah_for_create_database.ini")])
 
     with transaction.manager:
         db_main()
